@@ -1,0 +1,344 @@
+John Gieve: John Gieve: Seven lessons from the last three years
+2009-02-19
+
+## John Gieve: Seven lessons from the last three years
+
+Speech by Sir John Gieve, Deputy Governor of the Bank of England, at the London School of Economics, London, 19 February 2009.
+
+*      *      *
+
+## Introduction
+
+As  you  know  I  am  about  to  leave  the  Bank  of  England  after  three  years  as  the  Deputy Governor  responsible  for  its  work  on  financial  stability  and  as  a  member  of  the  Monetary Policy Committee.
+
+It has been a game of two halves. The first 18 months from January 2006 to July 2007 were the  tail  end  of  the  Great  Stability,  a  period  of  nearly  15  years  of  continuous  growth,  low inflation, and falling unemployment. They were guided by and reinforced a wide consensus that economics had discovered the right way to manage the economy and that the UK was a good model of how to put it into effect.
+
+The second 18 months have seen an extraordinary reversal: with turmoil in financial markets, the  credit  crunch,  and  the  onset  of  a  severe  global  recession  calling  into  question  nearly every part of that consensus.
+
+The immediate challenge is to limit the depth and duration of the recession and bring the economy back onto a sustainable path with low but positive inflation. But we have just set out our analysis of the economy in our February Inflation Report and Charlie Bean explained the policy  options  we  face  in  a  speech  earlier  this  week.  So  I  will  focus  today  on  some  wider implications of the last few years for the way we conduct economic and financial policy.
+
+In doing so I am well aware that we are not yet at the end of the story. We don't know how deep and prolonged this recession will be or how soon and completely financial markets will recover. So it is too early to reach settled conclusions on causes or cures. So I offer this as an interim report: seven lessons I have drawn from my experience of the last three years.
+
+## A settled consensus
+
+But let me set out first the position as it appeared in 2006.
+
+For much of my life, the design of economic policy has been at the centre of both political and academic contention. In the UK, over the twenty years following the breakdown of the Bretton  Woods  arrangements,  we  tried  everything  from  prices  and  incomes  policies  to several varieties of monetary targets and finally fixed exchange rates and they all came to a sticky  end.  But  the  approach  we  adopted  after  our  ejection  from  the  ERM  was  guided  by modern monetary economics and set us on a course which gathered growing support across the political spectrum and in markets.
+
+## Macroeconomic policy
+
+The new consensus was based in Britain on the experience of repeated bouts of inflation and the  three  painful  recessions  which  had  been  required  to  bring  it  under  control.  That experience  hammered  home the lesson that  there  was  no  trade  off  between  inflation  and growth. The best that macro policy could aim for was stable and low inflation which would provide a platform for sustainable growth at a rate which would be determined in large part
+
+BIS Review 21/2009
+
+by  the  microeconomic  policies  which  could  affect  the  productivity  and  dynamism  of  the economy.
+
+The right instrument to maintain that low inflation environment was monetary policy. And to ensure that  interest  rates  were  used  to  that  end,  and  thus  to  condition  public  and  market expectations,  the  decisions  should  be  taken  by  an  independent  Central  Bank  pursuing  an explicit inflation target and informed by modern macroeconomics.
+
+## Fiscal policy
+
+In macro  terms, fiscal policy was  put on auto pilot. Discretionary changes  in the government's tax and spending plans were thought to require too much time to agree and take their effect to be of any practical use in stabilising the economy. And economists worried that fiscal measures would prove largely impotent in any case - households and companies would  'look  through'  any  cut  in  taxes  today,  which  they  expected  to  be  financed  by  an increase in taxes tomorrow.
+
+So  monetary  and  fiscal  policy  worked  in  tandem.  Monetary  policymakers  relied  on  the government to  balance  the  books  over  the  cycle  so  that  the  inflation  target  would  remain credible. And the government relied on monetary policymakers to stabilise the economy, so that fiscal policy could focus on other aims: encouraging innovation, growth and employment; redistributing income and investing in the public services.
+
+## A single regulator
+
+Alongside this macro framework, there was a consensus that industry and commerce was best  left  to  the  market  with  market  failures  and  externalities  controlled  by  independent regulators, like OFGEM, OFCOM and OFWAT, rather than through ownership. In the case of the  financial  services  sector,  responsibility  was  given  to  the  FSA  and  banking  supervision moved out of the Bank. The new FSA inherited from the Bank an approach to prudential supervision  in  particular  which  was  based  as  far  as  possible  on  principles  rather  than  a detailed rule book .
+
+There  were  positive  and  negative  reasons  for  that  move.  The  positive  were  that  a  single financial  regulator  would  be  more  effective  at  a  time  when  the  lines  between  banking, insurance and securities dealing were breaking down. It was efficient for the firms to have just one regulator to deal with and good for the regulator to be able to look at all aspects of their  business.  On  the  negative  side  there  was  a  worry  that  responsibility  for  supervision even of banks could unbalance the Bank and distract it from its monetary role. So while the Bank retained a role in promoting financial stability and monitoring the vulnerabilities in the system as a whole, it was not given any statutory objectives or powers in the new legislation.
+
+This piece of the UK system was controversial in some quarters but it definitely topped the international best buy tables in 2006. The IMF called it a model for others and a succession of governments visited London to learn from it. The Chairman of the FSA was invited by the US Treasury Secretary to address the heads of the US regulatory bodies. And the Mayor of New  York  City  and  a  US  Senator  commissioned  a  report  which  concluded  that  the  US needed to learn from London's approach to regulation if it was to arrest New York's decline as a global financial centre. 1 In short the separation of the three authorities, each with a clear remit and the independence to pursue it, was seen as a good model for a modern economy (Chart 1).
+
+1 http://www.nyc.gov/html/om/pdf/ny\_report\_final.pdf
+
+BIS Review 21/2009
+
+## Revisiting the Great Stability
+
+And  it  worked!  We  should  not  underestimate  the  achievement  of  the  next  decade.  As recently as fifteen years ago, low and stable inflation still seemed an unattainable goal. But, research published by the Bank around the time I joined found that:
+
+'the  post-1992  inflation-targeting  regime  has  been  characterised,  to  date, by the most stable macroeconomic environment in recorded UK history' 2
+
+As  Chart  2  shows,  volatility  of  both  output  and  inflation  hit  new  lows.  Similar  gains  were achieved  overseas,  although  the  break  in  macroeconomic  performance  appears  to  have happened earlier in the United States.
+
+In the UK we did indeed avoid the sort of cyclical booms in output, income and employment we had seen in the 70s, 80s and 90s (Chart 3). Even with the benefit of hindsight, it is hard to demonstrate that the economy was running significantly above capacity in the last few years. The  flow  of  migrants  eased  capacity  constraints  in  the  labour  market  and  the  surveys  of capacity utilisation rang no alarm bells (Chart 4). Indeed when I arrived on the MPC, some members  were  arguing  that  we  needed  to  cut  rates  again  following  a  year  in  which unemployment had increased and house prices appeared to have achieved the mythical 'soft landing' after a relatively light touch on the interest rate tiller.
+
+And  while  the  expansion  of  low  cost  producers  in  Asia  had  been  a  helpful  tailwind,  the system  seemed  to  have  dealt  with  some  big  shocks,  like  the  East  Asian  Crisis  and  the bursting  of  the  Dotcom  bubble.  So  most  commentators  concluded  that  a  good  policy framework had played its part.
+
+The last 18 months have shown that the reduced volatility of growth and inflation did not tell the whole story. There may not have been a boom in activity in the West but there certainly was in many emerging markets. And rising savings there, channelled a huge flow of funds into  the  world's  financial  markets,  depressing  risk-free  interest  rates.  After  the  postmillennium  collapse  in  the  world's  stock  markets  this  was  compounded  by  a  coordinated loosening  of  monetary  policy.  Cheap  money  supported  an  increase  in  leverage  in  the financial  sector  (Chart  5).  And  banks  became  increasingly  dependent  on  funding  from wholesale  markets  rather  than  their  traditional  deposit  base.  In  the  real  economy,  asset prices rose and household balance sheets in particular became stretched.
+
+Fast  forward  to  the  present  day  and  the  neat  separation  of  powers  and  responsibilities between  policymakers  has  evaporated  (Chart  6).  Monetary  policymakers  are  beginning  to explore  unconventional  tools  to  arrest  the  economic  decline  as  nominal  interest  rates approach  the  lower  bound.  Fiscal  policy  has  returned  as  a  major  tool  of  macroeconomic management as well as an essential support to the banking sector. And the Bank and the Treasury have been drawn deeper into the financial stability realm. A substantial share of the British banking system is now owned by the UK taxpayer.
+
+Are these just temporary changes to deal with an exceptional crisis or were there some more structural flaws in the original design and the consensus that underpinned it? I would draw out seven lessons. (Chart 6)
+
+## Lesson 1: The limitations of private-sector risk management
+
+One  weakness  in  the  system  was  the  failure  of  banks  and  many  other  investors  to appreciate, price and manage risk. 3
+
+2 http://www.bankofengland.co.uk/publications/workingpapers/wp290.pdf.
+
+3 For a comprehensive discussion of these issues see the recent speech by Andrew Haldane, the new Director of Financial Stability at the Bank, in Why banks failed the stress test.
+
+It was not that banks were blind to the froth in financial markets. For example, we published analyses  of  the  vulnerabilities  in  our  Financial  Stability  Reviews  in  2006  and  2007  and highlighted  the  declining  price  of  risk,  the  build  up  of  global  imbalances,  the  growing dependence of banks on wholesale funding, and the risk that structured credit markets could seize up in a downturn. When we took that message to Chief Executives of banks in London and New York, they generally accepted the analysis and agreed that a correction was bound to  come.  However,  almost  to  a  man  (and  they  were  all  men),  they  took  comfort  from  the sophistication  of  their  risk  management  systems  and  hedging  strategies.  They  were confident they could ride out the storm.
+
+But as it turned out their systems were preparing them for a shower not for a hurricane. The limitations of their risk models were cruelly exposed in August 2007. One CFO remarked last year 'We were seeing things that were 25-standard deviation moves, several days in a row', which  in  plain  English  means  that  according  to  their  models,  the  outright  impossible  was happening on a daily basis. According to the Value at Risk (VaR) benchmark for example which measures the amount an institution stands to lose on its portfolio given an abnormal movement in market prices - there shouldn't have been a big problem But that was partly because  recent  experience  grossly  underestimated  what  the  truly  abnormal  really  was. Updating these models to take account of the volatility in asset prices seen over the past 18 months suggests measured risk increases by a half and in some cases doubles (Chart 7).
+
+Many of the models depended on relatively short runs of data - one year for many, ten years at most. So the long period of stability reduced the projected losses from a future downturn (Chart 8).
+
+But the problem goes deeper than just choosing the right sample period to estimate these VaR models. Using a longer  back-run  of  data  to  re-classify August  2007  as  an  extremely improbable  5  standard  deviation  event  rather  than  an  effectively  impossible  25  standard deviation event rather misses the point. The longer the build up of imbalances went on, and the  larger  they  became,  the  smaller  the  chance  that  the  bubble  could  burst  without  a correction.  The events  of  August  2007  were  not  a  bolt  from  the  blue,  an unpredictable random disaster, but the culmination of several years of developments in financial markets
+
+But inadequate models are not the only reason for being wary of putting too much weight on risk management by individual firms. There is also the vital question of incentives.
+
+Chuck Prince, the ex-chief of Citi, has been widely condemned for saying: 'as long as the music is playing, you've got to get up and dance.' But in a provocative way he was doing little more than state the obvious. Firms are expected to maximise profits and if they won't seize the opportunities someone else will. Sit out the dance, and you risk getting swallowed by a competitor.
+
+In many ways the ideal risk management system for a single bank is one which lets it dance until the music stops but then to get to the exits before its competitors - to take the profits when they are available and to close out risks as near as possible to the downturn (or even better profit from their competitors' remaining exposures). It is noticeable that the investment banks which did best in 2007 were not those which had stepped back from the new markets well  in  advance  but  those  which  reacted  most  quickly  and  cohesively  when  the  trouble started in the summer of 07.
+
+Of course other banks need to learn from their example and improve their own information and  control  systems.  But  in  a  competition  someone  always  has  to  come  last  and  what matters  for  the  authorities  is  how  much  the  weakest  will  be  damaged  and  how  far  that damage will spread through the system. What we saw in the autumn was that even the most successful investment banks were put at risk by the failure of the weaker ones.
+
+So one lesson we have learned from this crisis is that we cannot leave risk management to the  banks. Not only may they get it wrong but their risk systems, like their marketing, are
+
+BIS Review 21/2009
+
+directed at their competitive advantage and they are not motivated or in a position to look after the system as a whole.
+
+## Lesson 2: Establish more effective crisis management
+
+As Adair Turner set out very clearly in his recent speech, the events of the last year and a half  have  revealed  a  number  of  particular  gaps  in  the  international  regulatory  regime.  For example, it gave too little weight to off-balance sheet exposures - the SIVs and conduits in the shadow banking system which were holding huge portfolios of what turned out to be toxic assets. The risks of losses on trading books were underestimated as were the risks in the growing dependence of many banks on brittle wholesale funding markets. I am confident that the  G20  summit  will  endorse  a  practical  set  of  measures  agreed  in  the  Financial  Stability Forum and the Basel Committee to tackle these points.
+
+But we need also to beware of the dangers of over regulation. Some commentators seem attracted to turning our banks into nationalised utilities. Certainly international capital markets have complicated policy making but that is not a sufficient reason for dismantling one of our most successful sectors. Moreover nationalisation has been tried in many countries and its record  is  poor.  It  may  reduce  the  risk  of  shocks  but  generally  only  at  a  heavy  cost  in misallocation of resources (and usually a continuing drain on the public purse). In my view it should only be a very last resort. The aim of the game should be to manage the system so that society can enjoy the gains of a flourishing financial sector - the efficient allocation of resources and transfer of risk  -  whilst  minimising  the  threats  to  economic  stability.  So  we need to have effective systems not just for preventing crises but for dealing with bank failures if and when they happen.
+
+The  collapse  of  securitisation  markets  in  August  2007  and  the  failure  of  Northern  Rock revealed gaps in the UK's arrangements, With the benefit of hindsight, the main problem was not the handling of the initial rescue - although the tripartite's footwork may have owed more to John Sergeant than Fred Astaire. But I don't think anyone believes now that the business could have been saved. It was in terminal difficulties and it was right to rescue it and protect depositors. The bigger problem was that, having stepped in, the authorities were hamstrung by the inadequacy of the legal powers to resolve it quickly and cleanly.
+
+We  have  learned  from  that  autumn's  experience.  Since  then  we  have  found  imaginative ways to provide the market with the liquidity it needs (through the Special Liquidity Scheme, long term repos, and now the discount window), we led the world in recapitalising banks in the autumn and we have resolved the banks which could not survive swiftly and effectively both through private sector solutions and through the use of statutory measures.
+
+I am delighted that tomorrow the first parts of the new Banking Act come into effect and give the Bank of England new powers to resolve failing banks and protect depositors.
+
+At  the  heart  of  the  Act  is  the  creation  of  a Special  Resolution  Regime for  UK  banks  and building  societies.  The  FSA  will  have  the  power  to  trigger  this  regime  before  an  institution becomes  insolvent.  And  once  a  bank  is  in  the  regime,  the  Bank  will  have  the  powers  to arrange for it to be wound up , drawing on a new bank-specific insolvency-procedure, or to transfer  the  whole  or  part  of  the  bank  to  a  commercial  purchaser,  if  necessary  via  a temporary bridge bank owned by the Bank. If none of these options is sufficient to protect financial stability, there will be the option of temporary public sector ownership. In the course of the legislative process, we have identified and enacted wide ranging protections for netting and set off and creditors generally to ensure that no one is made worse off by the resolution than they would have been if the bank had gone into a simple administration.
+
+The  Act  also  puts  the  Bank's  financial  stability  objective  onto  a  statutory  footing  and formalises  the  Bank's  role  in  overseeing  those  payment  systems  that  are  essential  to  the smooth running of the economy.
+
+Giving these responsibilities to the Bank is the right choice because they build on the role the Bank  already  has  as  LOLR  in  crisis  handling  (which  nearly  always  involves  a  crisis  of liquidity). More generally it provides a statutory basis for the Bank's second core purpose financial stability - which was not mentioned in the 1998 Act and appeared something of an orphan in the Bank when supervision moved to the FSA. Over the last 18 months of course that  has  changed  and  the  Bank  is  now  closely  involved  with  the  FSA  in  monitoring  and intervening  in  banks  and  markets  facing  stress,  as  well  as  reviewing  the  risks  to  financial stability more widely and playing a role in forming international policy through bodies like the G20 and the FSF.
+
+In effect the Bank has become a second pair of eyes alongside the FSA watching the health of the financial system. The FSA, as the regulator, is informed by 'bottom up' knowledge of the position of individual institutions; the Bank is informed by a top down view drawing on its own  engagement  in  many  markets  and  on  its  analysis  of  the  wider  economy.  We  come together to monitor institutions when they become vulnerable.
+
+Some argue that we should go further and move prudential supervision - at least of the main banks - back into the Bank. That would certainly be workable - we have done something like it before - and there could be changes in the euro zone which might add to the attractions of a move in that direction.
+
+However,  it  is  important  not  to  underestimate  the  costs  of  the  transition  and  the  new boundary issues it would create. The cultures and staffing of the Bank and the FSA have changed a great deal since 1997 and would not be easy to reshape. And there are genuine costs for firms and supervisors in split responsibilities for different parts of complex groups.
+
+Personally,  I  am  not  convinced  there  is  a  clearly  superior  arrangement  to  the  revised arrangements  we  have  now  put  in  place.  It  is  not  clear  that  any  country  has  done  much better than the others despite the differences in regulatory structure. Perhaps Canada has the best claim and that has a system similar in many respects to the UK's.
+
+Whatever  the  boundaries,  in  a  crisis  like  today's  I  am  sure  that  cooperation  between  the regulator, Central Bank, and Finance Ministry would be essential. I am pleased therefore that the  new  legislation  makes  clear  the  duty  of  the  Bank  to  cooperate  with  the  FSA  and Treasury.
+
+## Lesson 3: Tighten international coordination
+
+If  the  tripartite  arrangements  at  home  needed  to  be  improved,  cross  border  coordination needs to be transformed if we are to avoid a drift back into a network of national and regional financial enclaves.
+
+The failure of Lehmans was a fully fledged disaster for the world economy. And a number of other cases, from the failure of the Icelandic banks to Fortis, Dexia and IKB, have shown how difficult it is to manage failures of international banks .
+
+Yet the fact is that most of the key players in the world's financial markets have developed into large and complex multinational firms. Their business is not separated into national units. Some  core  functions  -  such  as  risk-management  and  liquidity  management  -  will  be centralised,  and  performed  at  the  head-office.  Activity  at  each  hub  cannot  be  viewed  in isolation: a multinational may raise deposits in one country to fund loans in another. And the ultimate  buffer  against  unexpected  losses  -  capital  -  is  fluid  across  borders  in  pursuit  of profit.
+
+One response is to call for global regulators to deal with global institutions. That of course means pooling national sovereignty over a key issue of economic policy. And it could also require a global fiscal authority with deep pockets to whom the regulator could turn should one of these institutions fall into distress. The task of persuading the US and China to hand
+
+BIS Review 21/2009
+
+over the regulation of their largest banks to a supranational regulator would make even the greatest diplomat quail.
+
+Another conclusion is that such multinationals pose too great a risk to stability and should be subject to greater control by host authorities in each jurisdiction with the creation of separate pools of capital and liquidity in each country. But that retreat from globalisation would also have  a  cost  in  inefficiency  and  restraints  on  the  flows  of  capital  between  countries.  We should  not  forget  that  the  last  decade  of  free  financial  markets  has  been  a  time  of  great progress across the developing world in Asia, Eastern Europe and South America.
+
+But  the  process  of  building  up  national  controls  is  already  underway  in  many  countries including even the UK which has long been one of the most open economies for capital and ownership. It will continue unless we can convince each other that much better structures for cooperation and coordination are in place. That is an acute problem within the EU where the single market is based on a common passport. But dealing with the European problem is not the main priority since most of the biggest banks in the world are based elsewhere.
+
+I  don't  think  we  should  give  up  on  this  international  agenda.  The  package  of  economic measures  that  were  rolled  out  late  last  year  -  from  coordinated  cuts  in  interest  rates,  to provision  of  dollar  liquidity  and  measures  to  support  banks  -  showed  the  power  and possibility of coordinated action. The programme of work on the regulatory implications of the crisis  which  has  been  coordinated  by  the  FSF  and  will  go  in  April  to  the  G20  Summit demonstrates a wide accord on the main regulatory issues.
+
+But we need more progress on implementation as well as policy. In particular we need much stronger  cross  border  crisis  planning  -  a  subject  on  which  I  have  been  chairing  a  group under the FSF. This has been bedevilled, in practice, by the sheer lack of information and time to consult widely in the heat of a crisis. That we can do something about.
+
+I hope we will agree two things to put to the G20 summit - a statement of principles on how countries  should  cooperate  in  planning  for  and  handling  crises  in  cross  border  institutions and  a  programme  to  put  in  place  better  arrangements  for  information  sharing  and  cross border dialogue on the largest banks in the world. Building on the core international colleges of supervisors we would aim in peacetime to establish a shared information base among the relevant  authorities  and  jointly  to  think  through  the  implications  of  failure  for  different countries.  That  would  at  least  give  us  the  basis  for  considering  a  coordinated  solution  in wartime.  In  time  we  should  also  try  to  establish  greater  harmony  on  national  resolution regimes which is on the Basel Committee's agenda.
+
+## Lesson 4: Develop a new generation of macroeconomic models
+
+So  far  I  have  concentrated  on  lessons  for  financial  policy  but  this  recession  has  also  set some  challenges  for  the  economics  profession  and  cast  doubts  on  the  macroeconomic modelling.
+
+In truth, much of my critique of the models that financial institutions use to calibrate risk could equally  be  levelled  at  the  workhorse  DSGE  models  that  most  economists  and  central bankers use to describe and forecast macroeconomic developments.
+
+These  have  a  number  of  attractive  features.  It  is  built  on  sound  economic  principles  of forward-looking  optimising agents,  which  is  useful  for  carrying  out  academic  though experiments. Unfortunately, such models also have some big drawbacks.
+
+First, having introduced uncertainty into the picture by making agents forward looking, they then assume the problem away. Risk doesn't matter: agents are assumed to make decisions today based on the path they believe the economy will take in the future, not the full range of possible paths it might take. And those beliefs about the future are based on absolute faith in the ability of the policymaker to stabilise inflation and the economy over the medium term.
+
+They therefore beg some important questions for policy makers - how do we sustain and build confidence in our policy and what happens if it falters?
+
+Second these models generally assume that the path of the economy is one of equilibrium disturbed by a sequence of more or less random shocks to which it responds in short order to  return  to  the  equilibrium  path.  For  economists  using  these  models  a  critical  question  is always what shocks have led to the starting position i.e. how far from equilibrium are we and for what reason. Those starting assumptions will then condition the path back to trend growth and target inflation over the medium term.
+
+In  truth,  these  'shocks'  reflect  not  only  events  and  surprises  in  the  real  world  but  the limitations of the model itself. In particular, the models cannot deal easily with self reinforcing movements away from equilibrium. What at first glance can look like a series of unrelated unexplained disturbances to the variables in the model, could actually reflect some common economic impulse that is not captured by the model. Whether those shocks die away, persist or even build - and therefore how misleading the forecasts that the model produces are - will depend on what's missing from the model.
+
+In fact the areas of the economy which the current generation of models do not cover well include the areas where the imbalances were building up in recent years. The treatment of financial markets and their interaction with the real economy is little more than a side-show. Banks are typically absent altogether. Yet experience has shown that financial markets are particularly prone to these self-reinforcing movements away from equilibrium. We have seen in the last few months alone many examples of that. For example we have seen coordinated sales  of  assets  depressing  prices,  leading  to  write-downs  on  portfolios  throughout  the system, which in turn have triggered a further wave of selling.
+
+These  features  generally  prevented  these  models  from  'joining  up  the  dots'  in  the  last upswing and from capturing the impact of tightening credit conditions in the downswing.
+
+I  should  emphasise  that  the  MPC  is  not  a  slave  to  any  one  model.  The  current  Governor reminds us frequently that:
+
+'It is vital never to confuse the world with a model. The whole point of a model is to abstract from a wider range of factors in order to think clearly about one particular issue.' 4
+
+Over the last couple of years, for example, we have drawn on a range of models to capture the  impact  of  credit  markets.  The  MPC  bases  its  forecasts  on  all  the  evidence.  And  most forecasts have a lot of added judgement in them. But our main macro model sets a baseline for our discussions and forces us to quantify and integrate different judgements. It is difficult to see how the committee could reach a consensus on a forecast (albeit with a probability distribution around the central projection) without a model of some sort.
+
+All models are simplifications and all models have difficulty identifying turning points. But we badly need some new thinking to make them better. Putting banks into the models would be a  good  place  to  start.  The  model  of  the  banking  sector  which  is  being  developed  in  the Financial Stability wing of the Bank will make a good contribution to that.
+
+## Lesson 5: Mopping up after the bust is not a good strategy
+
+The  world's  central  banks  have  tended  to  follow  similar  strategies.  So  much  so  that  an American economist, John Taylor, was able to neatly summarise how monetary policy is set with a very simple rule. He found that movements in interest rates around their long-run level could be explained by just the level of inflation relative to its target, and imbalances between the level of demand in the economy and the capacity of the economy to produce output.
+
+4 http://www.kc.frb.org/publicat/Sympos/2005/PDF/King2005.pdf.
+
+BIS Review 21/2009
+
+Asset prices and stock imbalances of the kind we have seen on the balance sheets of banks, households and companies are conspicuous by their absence in the Taylor Rule. Whether policymakers  actually  slavishly  follow  the  Taylor  Rule,  or  it  simply  represents  a  good description  of  how  we  behave  is  largely  immaterial.  Either  way,  the  default  position  of policymakers has been that interest rates should not be used to choke off a boom in financial markets. That non-interventionist doctrine was based on two key judgements.
+
+First,  that  the  costs  of  leaning  against  imbalances  in  financial  markets  were  high.  It  was believed that policymakers would find it difficult to differentiate between movements in asset prices that could be justified by fundamentals and those which reflected bubbles. The central bank which frequently responded to movements in asset prices would often as not be doing so  mistakenly.  By  the  time  that  the  central  bank  was  confident  that  asset  prices  were unsustainable it would typically be too late to act. An increase in interest rates late in the day could prove counter-productive: the bubble might well have burst by the time the change in policy had filtered into aggregate demand. Even when an imbalance could be identified early enough  to  do  something  about  it,  the  increase  in  interest  rates  required  to  choke  off  the imbalance would have serious side-effects.
+
+Much of this  will  be  familiar  to  all  policymakers,  no  matter  what  field  they  work  in.  It  is  a 'counsel of despair'. Understanding how developments in financial markets pose risks to the system and the wider economy is a formidable task. But it is one we should embrace, rather than shy away from. It is the final leg of the argument that is key: how much higher would interest rates have had to have been in order to have contain the boom in financial markets.
+
+Some commentators  have  made  much  of  the  Bank's  decision  to  cut  interest  rates  by  25 basis points in the summer of 2005. But to pretend that all this could have been avoided had interest rates been 25 basis points higher over the last couple of years seems to me pure wishful thinking. Likewise, the idea that had rates been a little higher at the tail-end of the boom in late 2006 and early 2007 the crash could have been averted is a flight of fancy.
+
+Interest  rates  would  have  had  to  have  been  significantly  higher  for  an  extended  period  of time, perhaps as far back as 2002/3. Growth would have been weaker. Inflation would have undershot the target by even more than it did. Sterling would likely have risen, putting our export sector under particular strain. Which leaves us with the question: is that a price worth paying in order to avoid the fall-out when a bubble eventually bursts? And that leads us to the second judgement that underpinned the non-intervention doctrine.
+
+Prior  to  the  latest  crisis  at  least,  many  policymakers  believed  that  the  costs  of  allowing  a bubble in financial markets to run its course were relatively small. Interest rates could always be cut after  the  event  to  'mop  up'  the  damage.  Blinder  and  Reis  summarise  the  received wisdom beautifully in their review of the decision to loosen policy when the DotCom bubble burst:
+
+'If the mopping up strategy worked this well after the mega-bubble burst in 2000, shouldn't we  assume  that it will also work well after other, presumably smaller, bubbles burst in the future?'
+
+The large and coordinated cut in interest rates at the start of this decade almost certainly contributed to the build-up of an ever larger bubble. So its not at all clear that the post-2000 mopping up strategy worked that well in retrospect - it just stored up more trouble for the future. And even if it did work well last time around, I hardly need to add that mopping up the fall-out from the latest crisis is stretching the world's policymakers to the limit. It is evidently not safe to rely on being able to mop up after the crash.
+
+## Lesson 6: Inflation targeting is necessary but not sufficient
+
+A more fundamental question is whether the Inflation Targeting regime itself needs to be rethought.
+
+BIS Review 21/2009
+
+Some argue that the framework imposed a straightjacket on central banks including ours by setting too narrow a remit. Interest rates could only be changed when there was a clear and present danger to the near-term outlook for consumer inflation. So they could not be used to prevent imbalances building up. Action was almost bound to be too late.
+
+This critique takes an unduly narrow interpretation of the framework. There is nothing in the MPC's remit which would prevent us from consciously allowing inflation to undershoot the target for some time, in order to avoid a significant overshoot at some point in the future. Or as my fellow Deputy Governor Charlie Bean put it:
+
+'a  central  bank  seeking to stabilize inflation and output over a sufficiently long  time  horizon,  should  necessarily  aim  to  incorporate  the  possible adverse long-term consequences of an asset price bubble in its deliberations'
+
+Intelligent inflation targeting on these lines run by independent central banks still seems to me  the  best  foundation  for  macroeconomic  policy.  But  that  does  not  mean  the  current framework or the way we explain it is perfect.
+
+First a point on communication. Inflation targeting was designed not just to control inflation but as the best policy framework for promoting wider economic prosperity and stability. It is crucial  in  a  period  of  economic  hardship  -  with  companies  going  to  the  wall  and  people losing their jobs - that people do not think the Bank is focused on a narrow inflation target for its own sake. If they feel that we are not accepting responsibility for what happens to growth and jobs, they will look for someone else to do so. If we want to preserve the framework we have a job on our hands - now more than ever - to explain our strategy to the general public. The Bank and MPC need to convince them that the policy we are pursuing is the best way of restoring growth and full employment without reawakening inflation. Indeed it is by bringing output back to potential that we will bring inflation back to target.
+
+Secondly, I  share  the  view  that  setting  a  target  for  a  measure  of  consumer  price  inflation which excludes the costs of home ownership has done us no favours. It is widely recognised as a flaw in the harmonised CPI across Europe but it is of particular significance in the UK given  the  critical  role  that  home  ownership  plays  here  in  household  budgets  and  wealth. Something needs to be done to remedy that situation, and if progress can't be achieved at a European level I think we ought to consider going it alone.
+
+More  fundamentally,  if  inflation  targeting  by  an  independent  central  bank  is  an  essential foundation of policy, it is pretty clearly not sufficient on its own. We are now learning a lesson that Japan learned a decade ago. As the Governor of the Bank of Japan recently remarked
+
+'if inflation targeting regimes  induce  market  participants to think of monetary policy decision-making process in terms of an inflation number, they tend to overlook the insidious build-up of unsustainable imbalances […]. Inflation targeting works well if it is properly understood… (but this) can be difficult once an economy has attained and maintained a low inflation rate for a number of years.'
+
+This  is  partly  a  matter  of  adopting  the  intelligent  approach  inflation  targeting.  We  must  be willing to 'lean against the wind' of asset price booms and credit expansion and to tolerate somewhat weaker growth and lower employment in doing so.
+
+But if we need to prevent asset price and credit booms as well as control consumer prices it would be better to have two instruments than one and that is the last lesson I want to discuss - the need to develop instruments which directly dampen the cycle of credit growth and asset prices.
+
+## Lesson 7: We need another instrument to stabilise the economy
+
+The first step must be to decide how ambitious we want to be and define the objective. Then we can design the instruments. I don't think we have all the answers yet. But the outlines of a scheme  are  beginning  to  emerge  in  the  academic  literature  -  not  least  in  an  impressive recent report by Charles Goodhart of this parish and friends - and they are being taken up vigorously ( especially by the British members) of the FSF and G20.
+
+## Preventing the regulatory system from exacerbating the cycle
+
+A  minimum  step  is  to  remove  as  far  as  possible  features  of  the  regulatory  system  which exacerbate the cycle. This is not as easy as it sounds. Both accounting rules on provisions and  regulatory  capital  requirements  are  based  on  estimated  probabilities  of  default  and estimates of losses given default. Both of these tend to rise sharply when an economy turns down, arrears mount and the value of collateral declines. So as trading conditions tighten, capital requirements are raised.
+
+The  FSA  announced  last  month  a  series  of  measures  which  seek  to  address  that  pro cyclicality by basing their capital requirements on average loss rates through the cycle rather than on estimates of loss which vary through the cycle. A similar approach is being ironed out internationally in the Basel Committee and FSF.
+
+## Protecting the banks from the cycle
+
+A more ambitious goal would be to use the regulatory system to dampen the impact of the economic  cycle  on  banks  and  other  financial  institutions  -  to  protect  the  banks  from  the cycle.
+
+The Spanish system of dynamic provisioning is an example of this approach. This is based on the observable facts that arrears and defaults tend to emerge in downturns and that loans written at the top of the cycle tend to have higher losses. Banks are required therefore to set aside a general provision against likely future loss each time they write a loan on the basis of a formula which is sensitive to the cycle. This is an accounting provision so these provisions are  deducted  from  profits  when  they  are  made,  and  reduce  dividends  and  profit  related bonuses. They are then drawn down automatically as losses appear. In effect this requires banks to build up reserves in the upswing of a cycle which can cushion their losses in the downswing. The system has not prevented a property boom and bust in Spain but it has put their banks in a much stronger position to survive it by calling on these general provisions which amounted to over 1% of total assets.
+
+And in the process of protecting the banks from the cycle, this system has helped to some degree to dampen the cycle itself. Varying capital regulations in this way can act as a brake on  the  exuberant  swings  in  lending  we  have  seen  in  recent  years.  By  requiring  banks  to hoard capital in the upswing, regulators make it more expensive for banks to lend money. And by dampening the credit cycle policy could help stabilise spending in the real economy.
+
+## Protecting the cycle from the banks
+
+In my view there is a case for taking this further and adopting the more ambitious goal to use regulatory  requirements  to  smooth  out  the  credit  cycle.  In  other  words,  preventing  the imbalances within financial markets destabilising the real economy.
+
+This would involve varying the regulatory requirements to stabilise the supply of credit and the  terms  on  which  it  was  granted  -  for  example  by  requiring  banks  to  hold  more  capital when they would otherwise be loosening credit conditions, and allowing banks to run down capital when they would otherwise by restricting access to credit. This approach could offset
+
+to some degree not just a domestic credit cycle but the impact of developments elsewhere in the global economy which affect the terms on which banks are able to raise funds in financial markets or the he value of their assets.
+
+To  a  limited  degree  this  would  allow  the  authorities  to  make  the  banking  system  a  shock absorber.  Policymakers  would  be  raising  capital  requirements  to  preventing  shocks  that occur outside the banking system from destabilising the real economy. But I would limit the goal to smoothing the credit cycle and would not be inclined to go further and use it as a general stabiliser of the economy.
+
+## Weapons in the arsenal
+
+So what is the choice of instruments?
+
+I  see  great  attractions  in  'dynamic  provisioning',  in  other  words  amending  the  accounting system to recognise likely future losses. That seems to produce a better guide to the real financial strength of banks and to be properly conservative in not recognising profit before it is earned. I am aware that this runs counter to a powerful school of accounting theology but I have been encouraged by proposals circulated recently by Paul Boyle at the FRC for cyclical reserving and I hope that will be pursued.
+
+An alternative approach would be to vary regulatory capital floors with the cycle and require banks  to  hold  undistributed  reserves  in  the  upswing  which  could  be  drawn  on  in  the downswing. This is a second best because the reserves are taken after profit is struck, with all  the  signals  that  sends  investors  and  staff.  But  it  could  have  much  the  same  effect  as dynamic provisioning and may be capable of implementation rather earlier.
+
+But  capital  requirements  are  not  the  only  approach.  Counter  cyclical  limits  could  be introduced on the liquidity position of a bank. For example, banks might be required to invest a  varying  proportion  of  their  assets  in  a  war-chest  of  government  bonds  and  highly  liquid assets. Or they could face varying constraints on the extent to which they are allowed to tap short-term wholesale funds.
+
+Finally  we  could  introduce  restraints  on  the  terms  on  which  banks  can  lend  money  to households and companies. Loan to income and loan to value ratios tend to rise in any credit boom as lending standards become lax and asset prices inflate. In theory, a ceiling on these ratios could have provided an effective brake on the excesses of the last boom. While this has obvious microeconomic disadvantages, the Hong Kong Monetary Authority showed how such an approach could work in practice in the 1990s: tightening the constraint on loan-tovalue  ratios  as  their  property  market  threatened  to  overheat.  Another  possibility  would  be compulsory margin requirements on trading positions.
+
+I am clear that counter cyclical capital requirements are a large part of the answer but I would be  inclined  to  keep  a  number  of  other  options  open  too.  Having  a  large  arsenal  of  policy instruments, which vary in their point of influence provides some welcome flexibility. It allows the  policymaker  to  respond  appropriately  to  a  particular  situation,  rather  than  treating  all shocks the same. For example, if problems are concentrated within the property market then caps on loan-to-income and loan-to-value ratios might be effective. If instead the problem lay in funding markets, with an unwarranted compression in risk premia, then the instruments of liquidity regulation would be more appropriate.
+
+## Who calls the shots?
+
+That leads on to the issue of who should have control over these policy instruments? The answer I think very much depends on the objective of policy and the way in which policy is set.
+
+BIS Review 21/2009
+
+Clearly the application of the policy would be for the regulator. If policy is given the narrower goal of protecting the banks from the cycle and it proves possible to set clear rules in place (for example a simple leverage ratio) there would be no need for a further policy maker to be involved.
+
+However if policy is given the broader macroeconomic goals of stabilising credit - protecting the cycle from banks if you will - and judgement is required on the state of the cycle and whether and when to vary the rules, then it would be essential for the Central Bank to play a leading role, albeit in close consultation with the regulator. In my view that is the more likely outcome.
+
+## Conclusion
+
+One theme you may have noticed in these reflections is the need for policy makers to be willing to back their judgements - whether in identifying asset bubbles or identifying firms or markets which threaten financial stability - and to take pre-emptive action.
+
+For example, if most macro-models were not giving us warning signals in recent years, our analysis  of  the  financial  sector  certainly  was.  As  I  mentioned  earlier,  successive  Financial Stability Reports did set these dangers out in 2006 and 2007 and indeed earlier. One of the lessons  we  have  acted  on  already  is  to  make  more  of  such  warnings.  We  now  send  the summary reports to every board member of British banks, to the rating agencies and to the banking analysts and we are more forthright in emphasising the dangers through the press in order to try to change the atmosphere in markets.
+
+But  more  broadly,  we  must  not  let  a  proper  starting  assumption  that  markets  should  be allowed  to  work  unless  there  are  good  reasons  for  intervention  to  become  a  belief  that markets  are  not  to  be  touched  unless  their  failure  and  the  effectiveness  of  intervention  is proved beyond all reasonable doubt. Of course there are risks that some interventions will be proved with hindsight to be too costly or unnecessary. But the economy is not an area, to paraphrase Blackstone, where
+
+'it is better for ten guilty markets to escape than for one innocent to suffer'
+
+As  Alan  Greenspan  recently  observed  to  the  House  Oversight  Committee, 5 rather  than assuming that the system is capable of self-regulating itself, our default position should be one of cautious scepticism. The burden of proof for the authorities should be the balance of probabilities.
+
+## Charts
+
+Chart 1 : The Separation of Powers
+
+5 'I made a mistake in presuming that the self-interest of organizations, specifically banks and others, were such is that they were best capable of protecting their own shareholders and their equity in the firms. And it's been my experience, having worked both as a regulator for 18 years and similar quantities, in the private sector, especially, 10 years at a major international back, that the loan officers of those institutions knew far more about the risks involved and the people to whom they lent money, than I saw even our best regulators at the Fed capable of doing. So the problem here is something which looked to be a very solid edifice, and indeed, a critical pillar to market competition and free markets, did break down.' See the preliminary transcript of the 23 October 2008 meeting of the House Oversight and Government Reform Committee on T he Role of Federal Regulators in the Financial Crisis .
+
+BIS Review 21/2009
+
+
+
+Chart 2 : The Great Stability
+
+
+
+7
+
+Chart 3: Consumption Growth
+
+Chart 4: Indicators of labour  market tightness
+
+
+
+- (a) Number of vacancies divided by LFS unemployment. Vacancies exclude agriculture, forestry and fishing
+- (b) The KPMG/REC demand for staff index divided by the KPMG/REC availability of staff index.
+
+Chart 5 : Change in leverage ratios of the major UK banks (a),(b),(c)
+
+
+
+Source:  P ublis hed acco unts  and Bank calculatio ns .
+
+(a)  Leverage ratio  defined as  to tal as s ets  divided by to tal equity excluding minority interes t.
+
+(b)  Due to  data limitatio ns , the chart o nly pres ents  info rmatio n o n A&amp;L, B&amp;B,
+
+Barclays , HBOS, HSBC, Llo yds , No rthern Ro ck and RBS.
+
+(c) There is  a break in the s eries  due to  the intro ductio n o f IFRS in 2004.
+
+Chart 6 : All hands to the pump
+
+
+
+Chart 7 : Stylised Value at Risk calculations, pre and post crisis Chart 8: The Great Stability in historical context
+
+
+

@@ -1,0 +1,288 @@
+Seiji Adachi: Seiji Adachi: Economic activity, prices, and monetary policy in Japan
+2023-06-21
+
+
+
+Bank  of  Japan J u n e   2 1 ,   2 0 2 3
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Local Leaders in Kagoshima
+
+## ADACHI Seiji
+
+Member of the Policy Board
+
+(English translation based on the Japanese original)
+
+## I. Economic Activity and Prices
+
+## A. Economic Activity
+
+First, I would like to touch on developments regarding COVID-19. While three years have passed  since  its  outbreak,  COVID-19  was  downgraded  in  Japan  to  a  Class  V  infectious disease  under  the  Infectious  Disease  Control  Law  on  May  8,  2023,  bringing  about  further normalization of socioeconomic activity. Although a certain degree of vigilance is necessary, leading examples of such normalization overseas suggest that COVID-19 will have much less impact on Japan's economy than previously.
+
+Taking this  into  account,  I  will  now  talk  about  recent  developments  in  Japan's  economic activity. The economy has continued to recover moderately, although the pace of recovery has decelerated recently, as evidenced by some slowdown in certain indicators of private consumption and in exports. These developments in private consumption are likely due to price rises, and those in exports to a slowdown in the pace of recovery in overseas economies.
+
+Let us look at private consumption in more detail. Consumption of durable goods such as automobiles has recovered on the back of a waning of the effects of supply-side constraints. Services consumption has also recovered, partly because demand that was suppressed during the  pandemic  has  materialized  as  the  economy  reopens.  Therefore,  private  consumption overall has increased (Chart 1). That said, the effects of price rises have been observed. For instance, regarding consumption of items such as daily necessities, demand seems to have shifted to lower-priced goods and affordable private brand products.
+
+Next,  I  will  turn  to  exports.  While  exports  to  advanced  economies  have  remained  on  an uptrend on the back of the waning of the effects of supply-side constraints, those to the NIEs, the ASEAN economies, and some other Asian economies have decreased due to weakness in global demand for IT-related goods, as seen in a drop in exports of electronic parts, such as semiconductors mainly for smartphones and personal computers. Those to China have also been somewhat weak, particularly for capital goods. In terms of total exports, they have been more or less flat recently (Chart 2).
+
+Meanwhile, business fixed investment has been generally firm. This is attributable to firmness in (1) IT-related investment aimed at digital transformation (DX) and labor saving, and (2) construction investment in urban redevelopment projects and in logistics facilities resulting from expanding e-commerce. In addition, firms have become more positive about making investment aimed at strengthening supply chains, partly owing to government support. Under these circumstances, business fixed investment plans for fiscal 2023 suggest firmness in such investment (Chart 3).
+
+Since the collapse of the bubble economy, Japanese firms have in some respects been risk averse in making investment, in that they have restrained fixed investment and preferred to secure ample on-hand liquidity, given the widespread prospects for prolonged low growth and the experience of negative external shocks. However, Japanese firms lately appear to be starting to change positively in a way not seen since the 1990s. This is suggested, for example, by the Annual Survey of Corporate Behavior released by the Cabinet Office in March 2023, which shows that, based on firms' responses, the expected real economic growth rate for the next five years has increased (Chart 4). To encourage such positive moves among Japanese firms, it is important for the Bank of Japan to provide steady support for the economy when conducting monetary policy, which I will explain later.
+
+## B. Price Developments in Japan
+
+## 1. Price situation
+
+I will now talk about recent price developments and then their outlook.
+
+Starting with recent price developments, the year-on-year rate of increase in the consumer price index (CPI) for April 2023 was 3.4 percent for all items less fresh food (core CPI) and 4.1 percent for all items less fresh food and energy (core-core CPI) (Chart 5). As for the core CPI, the rate of increase is slower than the latest peak of 4.2 percent in January, mainly due to the effects of pushing down energy prices from the government's economic measures. On the  other  hand,  the  rate  of  increase  in  the  core-core  CPI  has  accelerated,  reflecting,  for example, a pass-through to selling prices of increases in costs such as of raw materials led by the past rise in import prices. My impression is that prices are currently rising faster than I had so far expected.
+
+Meanwhile, inflation expectations have stayed almost flat after rising moderately, although this differs depending on economic entity (Chart 6). Specifically, households appear to expect that prices will continue rising. This is evidenced, for example, by the 93rd Opinion Survey on the General Public's Views and Behavior (March 2023 Survey) released by the Bank in April, which shows that 85.7 percent of the respondents expected that prices "will go up" over the year ahead. 1 As for the perception of the present price levels compared with one year ago, 94.5 percent answered that prices "have gone up," suggesting that the respondents expected inflation momentum to level off slightly (Chart 7). 2
+
+The price situation in Japan that I have just described can be regarded as a move toward overcoming deflation, which Japan has experienced for a long period. On the other hand, if the pace of inflation is too fast, this could have the effect of pushing down the economy, such as downward pressure on real income. In the conduct of monetary policy -- I will return to this topic later -- the Bank will thoroughly assess economic and price developments including various factors brought about by changes in the price situation.
+
+## 2. Outlook for prices
+
+I would like to move on to future price developments.
+
+I mentioned earlier that prices are currently rising faster than I had so far expected. The Bank's baseline scenario for the price outlook is that the year-on-year rate of increase in the CPI will decelerate temporarily and thereafter accelerate again toward the Bank's price stability target. This  scenario  is  subject  to  considerable  uncertainty,  however,  and  both  the  upside  and downside risks are likely to be high. In what follows, I would like to talk about what informs my thinking in this area.
+
+Before elaborating on the upside and downside risks to prices, I would like to touch on a perspective that I think is a useful starting point when considering price fluctuations.
+
+1 The figure comprises the proportions of respondents who chose "will go up significantly" and "will go up slightly," which accounted for 33.1 percent and 52.6 percent, respectively.
+
+2 The figure comprises the proportions of those who chose "have gone up significantly" and "have gone up slightly," which accounted for 62.8 percent and 31.7 percent, respectively.
+
+While there are various methods for analyzing consumer prices, I think it is helpful to focus on the frequency of price changes in each item by separating the two categories of "sticky" and  "flexible"  consumer  prices.  Sticky  consumer  prices  are  those  for  items  whose  prices change relatively infrequently, and in Japan's CPI these are mainly services prices. On the other  hand,  flexible  consumer  prices  are  those  for  items  whose  prices  change  relatively frequently, and these are mainly goods prices (Chart 8).
+
+Sticky  consumer  prices  are  thought  to  be  affected  by  medium-  to  long-term  inflation expectations,  wages,  and  firms'  medium-  to  long-term  growth  expectations  (or  demand forecasts) that are likely to affect wages. Wage growth in this year's annual spring labormanagement wage negotiations  is  projected  to  exceed  the  past  average  and  the  previous forecast by a wide margin. This could feed into further price rises. In terms of future price developments, however, a crucial point will be whether this wage growth is for the current fiscal year alone or will continue into the next fiscal year and beyond. On this point, it is possible that firms will continue raising wages to secure their workforces given a further tightening  of  labor  market  conditions,  amid  the  dim  outlook  for  additional  labor  force participation by women and seniors, which has so far underpinned the labor supply.
+
+It  is  likely  that  sticky  consumer prices elevated the CPI considerably from the mid-1980s through the first half of the 1990s, before Japan fell into deflation. In the current situation, however, sticky consumer prices, which are mainly composed of services prices, have not yet made a significant contribution to a rise in the CPI, though they could potentially make a greater contribution in response to the results of this year's annual spring labor-management wage negotiations. The key here, as previously mentioned, will be a sustained increase in wages. I am paying attention to the extent of the spillover effects that wage hikes by firms will have on services prices, which have so far seen only a marginal increase (Chart 9).
+
+Next, flexible consumer prices are susceptible to the business cycle and the output gap, and to raw material prices that mainly reflect commodity market conditions. Due in part to this last factor, flexible consumer prices in the past tended to track movements in import prices with a time lag. Looking at the corporate goods price index (CGPI) released by the Bank, after reaching a peak in September 2022, the import price index has continued to decline, due
+
+to such factors as a fall in raw material prices. According to the past trends I referred to earlier, this decline in import prices is likely to dampen the rise in flexible consumer prices with a time lag. In fact, developments in producer prices show that the decrease in import prices is beginning to spread by demand stage from upstream to downstream (Chart 10). As for the outlook, the drop in producer prices is basically projected to spill over into the CPI eventually.
+
+Given what I have just outlined, let me interpret the Bank's baseline scenario for the price outlook mentioned earlier using the framework of "sticky" and "flexible" consumer prices. It can be said that sticky consumer prices are expected to rise gradually along with wage growth; however, as the spillover of a fall in import prices to a decline in flexible consumer prices fully takes hold, the rate of increase in overall prices is projected to be pushed down for the time being.
+
+## 3. Upside risks to prices
+
+Next, I will discuss risks to the outlook for prices. In my view, upside risks require attention for the time being, but thereafter, more attention should be paid to downside risks.
+
+I will first focus on the upside risks to prices. It is assumed that sticky consumer prices will continue to rise, but also that, in contrast to the baseline scenario, there is a risk that the rate of increase in flexible consumer prices will not cool down.
+
+Earlier, I said that flexible consumer prices tend to track movements in import prices with a time lag. However, this is simply an observation based on the fact that such a relationship existed in the past. As I mentioned earlier when talking about price developments in Japan, the  latest Opinion  Survey  on  the  General  Public's  Views  and  Behavior ,  along  with  other reports, points out the possibility that households' perception of inflation that prices will not rise, which has been deeply entrenched, may be on the verge of changing. From the standpoint of firms, they may consider that the time has come to rethink the price-setting behavior that took root during the past period of deflation. In other words, in setting product prices, firms may think along this line: "When prices of raw materials eventually come down, sales may not contract even if we do not lower product prices." If an increasing number of firms adopt such price-setting behavior, they will not reduce selling prices even if import prices decline.
+
+As a result, the rate of increase in flexible consumer prices may not cool down as much as expected. Meanwhile, if firms continue to raise wages by tapping into higher margins, the rate of increase in sticky consumer prices could also rise.
+
+In relation to upside risks to prices in Japan, I would now like to touch on the points I am focusing on in terms of the price change distribution by item in the CPI. Let us take as an example the United States, which has already experienced an upswing in prices. While it should be noted that underlying conditions differ from those in Japan, before the COVID-19 pandemic, the price change distribution by item in the U.S. CPI was mountain-shaped, with its peak in the 2 percent vicinity. This changed after the outbreak, however, with the peak above the 2 percent level expanding and then plummeting (so the graph is trapezoid-shaped). In Japan, the price change distribution by CPI item is still unchanged, with the peak around 0 percent (Chart 11). I would like to monitor whether a change in the distribution, if any, will lead to an upswing in prices.
+
+## 4. Downside risks to prices
+
+I would now like to explain the downside risks to prices. Specifically, the rate of increase in flexible consumer prices, which is projected to decelerate temporarily, may not accelerate again as expected. It is likely that this risk arises from overseas factors rather than domestic factors.
+
+The current global economy is marked by a range of uncertainties. Depending on the course of the situation in Ukraine, the downward pressure on European economies could heighten, particularly for those in the euro area. In China, there are concerns over adjustment pressure in the real estate market and over the risk of economic stagnation amid the elevated youth unemployment rate. Having said that, I believe uncertainties surrounding the U.S. economy warrant particular attention.
+
+In  the  United  States,  with  inflation  having  peaked  in  the  second  half  of  2022  and  now gradually settling down, there seems to be a growing consensus in the market that the policy interest  rate  hike  cycle  is  nearing  its  end  phase  and  interest  rates  will  begin  to  decline accordingly, so that a major economic downturn can be avoided. However, one still cannot
+
+dismiss the view that the inverted yield curve in the United States, in which short-term interest rates  exceed  long-term  rates,  is  a  signal  of  future  economic  downturn.  In  addition,  since developments  in  employment  tend  to  lag  behind  economic  activity,  if  the  U.S.  economy decelerates faster than expected, the unemployment rate could rise by more than expected, following in the wake of such an economic slowdown.
+
+In  terms of uncertainties surrounding the U.S. economy, I would like to add the risk that financial  conditions  will  also  lead  to  an  economic  downturn.  The  United  States  has experienced  many  cases  where  financial  stress  exacerbated  a  recession,  such  as  after  the savings and loan (S&amp;L) crisis intensified in the late 1980s and after the Global Financial Crisis in 2008. That said, even if financial stress arises, it is not easy to accurately predict its impact on the real economy.
+
+Monetary  tightening  is  intended  to  curb  overheating  of  the  economy  and  return  it  to  a "Goldilocks" situation. However, if financial stress increases before the economy returns to a proper level of economic growth, it will become difficult to provide an outlook for economic activity and prices, and policymakers will face a hard decision: whether to continue monetary tightening, to halt it, or to shift to monetary easing. For example, if the shift to monetary easing is premature, there is concern that an insufficient curbing of an overheated economy may lead to the entrenchment of high inflation. On the other hand, if the shift to monetary easing  is  put  off  and  financial  stress  intensifies  significantly,  the  adverse  impact  on  the economy could increase.
+
+Although the United States has experienced multiple bank failures since March 2023, the financial  market  seems  to  have  regained  stability,  owing  to  swift  responses  by  the  U.S. authorities. A review by U.S. supervisory bodies and other analyses have pointed out that bankruptcies were attributable to the peculiar structure of the financial institutions' balance sheets and the poor level of risk management, such that these institutions were unable to adhere to basic practices for managing interest rate and liquidity risks. It seems to be widely recognized therefore that these bankruptcies were basically caused by factors at the level of individual institutions.
+
+The downside risks to the U.S. economy that I explained, if they were to materialize, could have  a  significant  impact  on  Japan's  economy.  It  is  therefore  imperative  that  the  Bank carefully monitor the course of developments, including financial conditions.
+
+## II. Conduct of Monetary Policy
+
+## Basic Idea
+
+I would like to present my views regarding the Bank's conduct of monetary policy, based on the current economic and price developments and the future scenario I have explained so far (Chart 12).
+
+Since 2022, particularly in the face of rising prices, some have suggested that the time has come  for  the  Bank  to  revise  its  monetary  policy.  Indeed,  with  observed  inflation  rates increasing at a fast pace and expected rates showing a moderate rise, I consider that a change has started to take hold in the deflationary mindset or people's perception of inflation that prices will not rise. In that sense, we are coming closer to achieving the price stability target. However,  a  revision  of  monetary  policy  is  still  premature  because  there  is  considerable uncertainty about the baseline scenario regarding the price outlook that I described earlier.
+
+Let me reiterate the Bank's baseline scenario: the year-on-year rate of increase in the CPI is likely  to  decelerate  temporarily  and  thereafter  accelerate  again  toward  the  Bank's  price stability target. In deciding whether or not monetary policy should be revised, it is important to judge, under the baseline scenario, whether the CPI will move toward a sustainable and stable rise when it starts to increase again following the temporary deceleration. It should also be noted that, as I have described so far, there are both upside and downside risks to the outlook for prices due to considerable uncertainty. From the long-term perspective, I think that risks are more skewed to the downside. It is necessary to take into careful account the risks mentioned when deciding whether monetary policy should be revised.
+
+As I mentioned earlier, there is uncertainty over recent developments in the global economy, especially the U.S. economy. Attention should thus be paid to downside risks to Japan's price developments under the risk scenario of the global economy. If downside risks to the U.S. economy materialize, the negative output gap in Japan could widen, causing a downswing in
+
+economic activity and prices. If the U.S. dollar comes under downward pressure due, for example, to a decline in U.S. interest rates, this could exert downward pressure on Japan's import prices and in turn consumer prices.
+
+Due attention should also be paid to the scenario of an upswing in prices in Japan. As I mentioned earlier, there is the possibility that flexible consumer prices will not decline.
+
+Having said that, it is important at this point for the Bank to carefully assess developments in achieving the 2 percent price stability target in a sustainable and stable manner based on the recognition that uncertainty is high regarding the price outlook.
+
+At the Monetary Policy Meeting held in April 2023, the Bank confirmed that it will patiently continue  with  monetary  easing  while  nimbly  responding  to  developments  in  economic activity  and  prices  as  well  as  financial  conditions.  It  also  decided  to  conduct  a  broadperspective review of the monetary policy it has been implementing for the past 25 years. Achieving price stability has been a challenge facing Japan's economy for a long period since it fell into deflation in the late 1990s. To address the challenge, the Bank has devised various monetary policy measures. These measures have interacted with and influenced wide areas of Japan's economic activity, prices, and financial sector. Through the review, the Bank aims to deepen its understanding of the interaction between monetary policy, economic activity, and various other factors, and make use of the insights gained for future policy conduct. To this end, the Bank will spend a sufficient amount of time, around a year to 18 months, drawing on the knowledge it has gained from its experience to date, the research that has accumulated in the academic community in Japan and abroad, and the opinions received at meetings with local leaders and on other occasions.
+
+## Yield Curve Control
+
+For the last topic of monetary policy conduct, I will focus briefly on yield curve control.
+
+Yield curve control is a framework in which the Bank applies a negative interest rate of minus 0.1  percent  as  the  short-term  policy  interest  rate  and  purchases  a  necessary  amount  of
+
+Japanese government bonds (JGBs) so that long-term interest rates, specifically 10-year JGB yields, remain at around 0 percent.
+
+Let us look back at the introduction of yield curve control. Following the introduction of negative interest rates in January 2016, the Bank introduced yield curve control in September that year to strengthen the policy framework thus far implemented, aiming to achieve the 2 percent price stability target at the earliest possible time. The Bank assessed at that time that a weakening of inflation expectations was a major factor in delaying achievement of the target. Although inflation expectations have risen recently, I believe that the framework of yield curve control is necessary given the Bank's baseline scenario regarding the price outlook and downside risks to prices, as I discussed earlier.
+
+Since  the  introduction  of  yield  curve  control,  the  Bank  has  devised  various  measures  to enhance the sustainability of monetary easing under this framework. Here are some examples of controlling long-term interest rates under yield curve control. In 2022, the functioning of bond markets deteriorated, particularly in terms of relative relationships among interest rates of  bonds  with  different  maturities  and  arbitrage  relationships  between  spot  and  futures markets. Specifically, interest rates of bonds with 8-9 years of maturity were higher than those of  bonds  with  10-year  maturity,  and  a  price  gap  was  observed  between  spot  and  futures markets. A gap was also observed between the yields for on-the-run issues of 10-year JGBs, which are eligible for the Bank's fixed-rate purchase operations, and those for issues of 20year JGBs with a residual maturity of 10 years. This is likely because a gap was created between  the  Bank's  yield  target  and  yields  based  on  market  participants'  predictions,  as volatility in overseas financial and capital markets increased from early spring 2022. Yields on JGBs are reference rates for corporate bond yields, bank lending rates, and other funding rates.  The  Bank  judged  that  if  these  market  conditions  persisted,  this  could  have  had  a negative impact on financial conditions such as issuance conditions for corporate bonds.
+
+In response, the Bank decided to modify the conduct of yield curve control in order to improve market functioning  and  encourage  a  smooth  formation  of  the  yield  curve.  Specifically,  it decided to expand the range of 10-year JGB yield fluctuations from the target level while increasing the amount of JGB purchases. Owing to this modification, along with a decline in
+
+overseas interest rates, the shape of the JGB yield curve is generally smoother at present, and market functioning has shown signs of improvement (Chart 13). All of this has convinced me that it is appropriate for the Bank to continue with monetary easing under the framework of yield curve control.
+
+Thank you.
+
+
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Local Leaders in Kagoshima
+
+June 21, 2023 ADACHI Seiji Member of the Policy Board Bank of Japan
+
+## Private Consumption
+
+Chart 1
+
+
+
+Note: Figures for the Consumption Activity Index (CAI) are based on Bank staff calculations. The CAI figures (travel balance adjusted) exclude inbound tourism consumption and include outbound tourism consumption. The figure for 2023/Q2 is that for April. Sources: Cabinet Office; Bank of Japan, etc.
+
+## Exports
+
+## Total Real Exports
+
+## Real Exports by Region
+
+
+
+
+
+Note: Figures are based on Bank staff calculations. Figures for 2023/Q2 are those for April. In the right panel, figures in angle brackets show the share of each country or region in Japan's total exports in 2022. Figures for the EU exclude those for the United Kingdom for the entire period. Sources: Ministry of Finance; Bank of Japan.
+
+Chart 3
+
+## Business Fixed Investment
+
+
+
+Note: Figures based on the Tankan include software and R&amp;D investments but exclude land purchasing expenses. R&amp;D investment is not covered as a survey item before the March 2017 survey. The figures are for all industries including financial institutions.
+
+Sources: Cabinet Office; Bank of Japan.
+
+## Expected Growth Rate
+
+
+
+Note: Based on the Annual Survey of Corporate Behavior . Figures show the results for listed firms in a particular survey year for the next five years.
+
+Source: Cabinet Office.
+
+Chart 5 CPI for All Items Less Fresh Food
+
+
+
+- Notes: 1. Figures for "energy" consist of those for petroleum products, electricity, as well as manufactured and piped gas charges.
+2. Figures for the "effects of the consumption tax hike and free education policies" from April 2020 onward are Bank staff estimates and include the effects of measures such as free higher education introduced in April 2020.
+
+Source: Ministry of Internal Affairs and Communications.
+
+## Inflation Expectations
+
+
+
+- Notes: 1. Figures for economists are the forecasts of forecasters surveyed for the ESP Forecast .
+2. Figures for households are from the Opinion Survey on the General Public's Views and Behavior , estimated using the modified Carlson-Parkin method for a 5-choice question.
+3. Figures for firms show the inflation outlook of enterprises for general prices (all industries and enterprises, average) in the Tankan .
+- Sources: Japan Center for Economic Research (JCER), "ESP Forecast"; QUICK, "QUICK Monthly Market Survey &lt;Bonds&gt;"; Bank of Japan.
+
+Chart 7
+
+## Households' Current and Future Perception of Price Levels
+
+Present Compared with One Year Ago
+
+## One Year Ahead Compared with the Present
+
+
+
+Note: "Have gone up" comprises "have gone up significantly" and "have gone up slightly." "Will go up" comprises "will go up significantly" and "will go up slightly." Source: Bank of Japan.
+
+## CPI for Goods and Services
+
+Goods
+
+
+
+Services
+
+
+
+Source: Ministry of Internal Affairs and Communications.
+
+Chart 9
+
+## Wages and Services Prices
+
+
+
+Note: Figures for nominal wages are for establishments with 30 or more employees up through fiscal 1990, and with 5 or more employees from fiscal 1991 onward.
+
+Sources: Ministry of Health, Labour and Welfare; Ministry of Internal Affairs and Communications.
+
+## Spillover Effects of Import Prices on the CPI for Goods
+
+
+
+Note: The import price index is on a yen basis. The FD-ID price indexes divide demand into the final demand (FD) stage and four stages of intermediate demand (ID) based on the Input-Output Tables for Japan. Goods and services prices are then aggregated according to the stage to which they belong to compile the FD index and the ID indexes for stages 1 to 4, ranging from the upstream to downstream stages of the production process. Sources: Ministry of Internal Affairs and Communications; Bank of Japan.
+
+Chart 11
+
+## Price Change Distributions
+
+
+
+Note: Figures for the United States are for the CPI for all items, while those for Japan are for the CPI for all items excluding fresh food. The pre-pandemic distribution for Japan is based on data for September 2019, which was before the CPI developments were affected by the consumption tax hike. Sources: Ministry of Internal Affairs and Communications; U.S. Bureau of Labor Statistics (BLS).
+
+## Conduct of Monetary Policy
+
+## Guideline for market operations under yield curve control
+
+## Stance on future conduct of monetary policy
+
+The short-term policy interest rate: Apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate: Purchase a necessary amount of JGBs without setting an upper limit so that 10-year JGB yields will remain at around 0 percent.
+
+The Bank will continue to allow 10-year JGB yields to fluctuate in the range of around plus and minus 0.5 percentage points from the target level, and will offer to purchase 10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations, unless it is highly likely that no bids will be submitted. It will make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations.
+
+## Asset purchases (other than JGBs)
+
+Purchase as necessary with following upper limits on annual paces of increase in their amounts outstanding
+
+ETFs: About 12 trillion yen
+
+J-REITs: About 180 billion yen
+
+- CP: Maintain the amount outstanding at about 2 trillion yen
+
+Corporate bonds: Purchase at about the same pace as prior to the COVID-19 pandemic, so that their amount outstanding will gradually return to the pre-pandemic level of about 3 trillion yen.
+
+## Basic stance
+
+With extremely high uncertainties surrounding economies and financial markets at home and abroad, the Bank will patiently continue with monetary easing while nimbly responding to developments in economic activity and prices as well as financial conditions. By doing so, it will aim to achieve the price stability target of 2 percent in a sustainable and stable manner, accompanied by wage increases.
+
+## Future conduct of monetary policy
+
+The Bank will continue with QQE with Yield Curve Control, aiming to achieve the price stability target, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the yearon-year rate of increase in the observed CPI (all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. The Bank will continue to maintain stability of financing, mainly of firms, and financial markets, and will not hesitate to take additional easing measures if necessary.
+
+## Chart 13
+
+## Yield Curve
+
+
+
+Source: Bloomberg.

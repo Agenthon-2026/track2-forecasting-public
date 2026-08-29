@@ -1,0 +1,302 @@
+Haruhiko Kuroda: Haruhiko Kuroda:  Japan's economy and monetary policy
+2018-05-10
+
+
+
+Bank  of  Japan
+
+May  10,  2 0 1 8
+
+## Japan's Economy and Monetary Policy
+
+Speech at the Kisaragi-kai Meeting in Tokyo
+
+## Haruhiko Kuroda
+
+Governor of the Bank of Japan
+
+(English translation based on the Japanese original)
+
+## Introduction
+
+It is my great pleasure to have the opportunity today to speak at the Kisaragi-kai meeting.
+
+Five  years  have  passed  since  the  Bank  introduced  quantitative  and  qualitative  monetary easing (QQE) in April 2013, and Japan's economy  -- which had been deteriorating under prolonged deflation -- has improved significantly. Recently, corporate profits have been at record  high  levels,  and  the  labor  market  is  close  to  full  employment.  Although  the  price stability target of 2 percent has not been achieved yet, Japan's economy is at least no longer in  deflation,  which  is  generally  defined  as  a  sustained  decline  in  prices,  after  having overcome negative shocks such as the large drop in crude oil prices. Over the past year, the year-on-year rate  of  change  in  the  consumer  price  index  (CPI)  has  increased  moderately, registering around 1 percent of late. Today, I will first explain in detail the current situation of  economic activity  in  Japan  and  its  outlook,  while  outlining  the Outlook for Economic Activity  and Prices (Outlook Report) released after the Monetary Policy Meeting (MPM) held at the end of April. Then, I would like to talk about the Bank's thinking behind the conduct of monetary policy.
+
+## I. The Current Situation of Economic Activity and Its Outlook
+
+## Overseas Economies
+
+Let me start by talking about economic developments. I will first touch on developments in overseas economies.
+
+Overseas economies have continued to grow firmly. The last time I gave a speech at the Kisaragi-kai  meeting  last  December,  I  referred  to  the  remark  by  Christine  Lagarde,  the Managing Director of the International Monetary Fund (IMF), that the global economy is showing "the broadest-based recovery in the last 10 years." In the almost half year since then, this synchronous growth of the global economy, with both the advanced and emerging economies  growing  in  a  well-balanced  manner,  has  become  more  pronounced.  Such synchronous growth can also be observed at the industry level (Chart 1). While the global economy had continued to recover moderately over the past few years, led mainly by the nonmanufacturing  sector,  since  around  last  year,  production  and  trade  activity  in  the manufacturing  sector  have  picked  up  substantially,  reflecting  an  expansion  in  IT-related
+
+demand due to the use of artificial intelligence (AI) and the Internet of Things (IoT), as well as  growing demand for capital goods due to a rise in capital utilization rates on a global basis.
+
+Given such positive cycle operating in a wide range of regions and industries, it is highly likely that overseas economies will continue to grow firmly for the time being. In the IMF's quarterly  projections  for  global  economic  growth  based  on  its World  Economic  Outlook (WEO), those for 2018 and 2019 were revised upward markedly in April 2018 from the October  2017  projections,  with  growth  expected  to  register  3.9  percent,  exceeding  the long-term average since the 1990s. There is, of course, considerable uncertainty as to how long such high economic growth will last. Among advanced economies, the U.S. economy in particular has continued its long recovery phase for nine years already, and the growth pace is projected to decelerate somewhat around 2020. In this context, some have expressed concerns that the U.S. economy might experience a significant downturn, but I consider this risk to be small. The reason is that, in the early phase of the current recovery in the early 2010s, the level of economic activity was low and the growth pace remained very moderate. Therefore, although the economy has been recovering for a long time, there seem to be no signs of overheating, such as an excess build-up of capital and housing stock. Meanwhile, the recovery in emerging economies is likely to take a firmer hold, given that growth rates in commodity-exporting economies -- which had been lagging behind due to the effects of sluggish commodity prices -- have been gradually increasing. Thus, overseas economies are expected  to  grow  firmly,  with  growth  momentum  shifting  from  advanced  to  emerging economies.
+
+## Current Situation of Japan's Economic Activity
+
+Next, I will talk about Japan's economy. The economy has been expanding steadily, albeit at a  moderate  pace,  supported  in  part  by  the  growth  in  overseas  economies  that  I  just mentioned. The output gap, which represents the utilization of capital and labor, exceeded the long-term average of 0 percent in the second half of 2016, and since then has continued to  widen  further  in  positive  territory  (Chart  2).  The  diffusion  index  (DI)  for  business conditions  for  all  industries  and  enterprises  in  the  Bank's Tankan (Short-Term  Economic Survey  of  Enterprises  in  Japan)  --  which  is  an  indicator  of  firms'  business  sentiment  --
+
+suggests that business conditions have improved for seven consecutive quarters,  reaching the highest level since the early 1990s.
+
+Looking in more detail, in the corporate sector, exports and production have been on an increasing trend (Chart 3). As I mentioned earlier, demand for IT-related and capital goods has  been  expanding  on  a  global  basis,  and  this  has  acted  as  a  tailwind  for  Japan's manufacturing sector, which has a comparative advantage in these goods. In fact, Japan's real  exports  marked  a  new  record  high  in  November  2017  for  the  first  time  in  about  10 years,  exceeding  the  peak  before  the  global  financial  crisis,  and  have  maintained  their uptrend.  In  this  situation,  corporate  profits  have  been  at  record  high  levels,  and  business fixed investment has continued on an increasing trend. According to the Tankan ,  business fixed investment plans for fiscal 2018 as of March have turned out to be favorable for this time of the year, significantly exceeding the average of the past.
+
+There also has been improvement in the household sector. While labor market conditions have been tightening further, with the unemployment rate declining to about 2.5 percent for the first time since 1993, employee income has continued to increase moderately (Chart 4). Private  consumption  has  been  increasing  moderately,  albeit  with  fluctuations,  against  the background of this steady improvement in the employment and income situation.
+
+## Outlook for Japan's Economic Activity
+
+Now I will turn to the outlook for Japan's economy. In the latest Outlook Report released at the  end  of  April,  the  Bank  presents  its  projections  for  Japan's  economic  activity  through fiscal 2020. In terms of the medians of the Policy Board members' forecasts, the real GDP growth rate is projected to register relatively high growth of 1.6 percent in fiscal 2018 and continue to mark positive growth of 0.8 percent in fiscal 2019 and fiscal 2020 (Chart 5).
+
+In  fiscal  2018,  the  mechanism  supporting  the  current  favorable  economic  conditions  is expected  to  continue  operating.  Domestic  demand  is  likely  to  follow  an  uptrend,  mainly against the background of highly accommodative financial conditions and the underpinnings  through  government  spending.  Exports  are  expected  to  continue  their moderate increasing  trend  on  the  back  of  the  firm  growth  in  overseas  economies.  Under
+
+these  circumstances,  in  fiscal  2018,  the  economy  is  likely  to  continue  growing  at  a  pace above the potential growth rate, which is currently estimated to be in the range of 0.5-1.0 percent.
+
+From  fiscal  2019  through  fiscal  2020,  Japan's  economy  is  expected  to  continue  on  an expanding  trend,  although  the  growth  pace  is  projected  to  decelerate  somewhat.  If  the economy performs as projected, the duration of the current recovery phase, which started in December 2012, will be the longest in the post-war era, significantly exceeding the record of 73 months registered during the recovery period in the 2000s (Chart 6). The key issue underlying this outlook are the reasons why the long-lasting recovery is likely to continue. In what follows, I will outline three reasons.
+
+The  first  is  that  overseas  economies  are  projected  to  continue  growing  firmly  in  a well-balanced  manner  in  terms  of  regions  and  industries,  as  I  explained  earlier.  Japan's exports are expected to follow an increasing trend supported by this tailwind and continue to firmly underpin the economy.
+
+The second reason is that, even though Japan's economic expansion is becoming quite long, it is likely that the pressure to adjust accumulated capital stock will not heighten as much. In the  past,  long-lasting  economic  expansion  was  accompanied  by  a  capital  stock  cycle,  in which  capital  stock  gradually  had  built  up  and  capacity  utilization  rates  had  declined, thereby suppressing new business fixed investment. It is expected that, during the current recovery  phase,  capital  accumulation  will  continue  to  some  extent  in  such  areas  as construction  in  the  leadup  to  the  Tokyo  Olympic  Games  in  2020.  However,  in  the manufacturing sector, there is a sense that capital stock is still insufficient, mainly due to the increase  in  exports,  and  it  is  likely  that  the  expansion  in  global  IT-related  demand underlying this  increase  in  exports  will  continue  to  last  for  a  long  time.  In  addition,  due mainly to acute labor shortage, many firms in a wide range of industries are actively making labor-saving investment, and in view of the structural decline in the working-age population, these  developments  are  expected  to  continue  going  forward.  Furthermore,  it  can  be expected that firms' growth expectations will gradually improve. If firms' growth expectations  rise,  they  will  revise  upward  the  level  of  capital  stock  that  they  consider
+
+necessary  for  future  production  activities,  creating  new  investment  demand.  With  the economic  and  price  situation  continuing  to  improve,  and  coupled  with  the  government's growth  strategy,  it  is  expected  that  firms'  sentiment  --  which  had  deteriorated  under deflation -- will improve, stimulating investment demand.
+
+The  third  reason  is  that  private  consumption  is  likely  to  continue  increasing  moderately amid  the  improvement  in  the  employment  and  income  situation.  In  this  context,  the consumption tax hike scheduled for October 2019 may affect the economic growth rates going forward. However, the increase in the consumption tax rate is smaller than that of the previous tax hike in 2014, and measures such as a reduced tax rate and free education will be  implemented. Therefore, the increase in the household burden as well as the negative impact on private consumption and the economic growth rates are expected to be smaller than after the last tax hike.
+
+## Risks to Economic Activity
+
+There are, of course, upside and downside risks to this baseline scenario of the outlook for Japan's economic activity.
+
+One  of  the risk factors is the U.S. economic  policies, especially the heightening uncertainties over its protectionist trade policy.  As stated in the Group of Twenty (G-20) communiqué,  "[i]nternational  trade  and  investment  are  important  engines  of  growth, productivity, innovation, job creation and development." Therefore, if protectionist moves were to spread globally, they could hamper trade activity, which finally has been recovering, and constrain global economic growth. As economies have become increasingly interdependent through global value chains, countries that adopt protectionist policies may face disadvantages in that such policies could impede necessary imports. Therefore, a brake is  expected to  be  put  on  excessive  protectionist moves  at  some  point,  but we  will  not  be complacent and will closely monitor the situation.
+
+The effects of major economies' policies on global financial markets also warrant attention. For instance, global equity markets have been unstable since February this year, and it is said that this was triggered by a sharp increase in long-term interest rates reflecting the fact
+
+that U.S. wage growth exceeded market expectations, which gave rise to speculation that the  pace  of  policy  rate  hikes  by  the  Federal  Reserve  could  accelerate.  In  addition,  the uncertainties  over  U.S.  trade  policy  that  I  mentioned  earlier  have  been  cited  as  another reason  for  the  recent  volatility  in  stock  prices  in  various  countries  and  foreign  exchange rates.  With  the  fundamentals  of  major  economies  remaining  favorable,  financial  markets have been regaining some calmness, but markets sometimes move suddenly, triggered by minor matters. As volatility in financial markets may affect firms' and households' sentiment, we will pay constant attention to financial market developments.
+
+Turning to domestic risk factors, we need to bear in mind uncertainty regarding the effects of the scheduled consumption tax hike that I mentioned earlier, as well as both upside and downside risks to developments in firms' growth expectations. For example, firms may not abandon  the  cautious  mindset  that  had  become  entrenched  under  deflation  and  easily embark on proactive investment activities. On the other hand, it is also possible that, amid rising growth expectations, there may be a major switch among firms to start using the high level of accumulated corporate savings for proactive investment.
+
+## II. Current Situation of and Outlook for Prices
+
+## Current Situation of and Outlook for Prices
+
+Next, I will move on to price developments in Japan. The year-on-year rate of change in the CPI excluding fresh food has increased to around 1 percent. The rise in energy prices partly contributed to this, and the rate of change in the CPI for March excluding fresh food and energy was 0.5 percent (Chart 7). The Bank has not changed its basic assessment that prices have continued to show relatively weak developments compared to the economic expansion and the labor market tightening. Nevertheless, the year-on-year rate of change in the CPI has  been  rising  steadily  for  over  a  year,  albeit  at  a  moderate  pace,  and  the  momentum toward achieving the price stability target of 2 percent is firmly maintained.
+
+Going  forward,  the  year-on-year  rate  of  change  in  the  CPI  is  likely  to  continue  on  an uptrend and increase toward 2 percent, mainly on the back of an improvement in the output gap  and  a  rise  in  medium-  to  long-term  inflation  expectations.  This  baseline  scenario  is unchanged from the previous ones. The medians of the Policy Board members' forecasts of
+
+the year-on-year rate of change in the CPI excluding fresh food are  1.3 percent for fiscal 2018 and 1.8 percent for both fiscal 2019 and fiscal 2020 (Chart 8).
+
+## The Inflation Mechanism
+
+I  would  now  like  to  explain  the  mechanism  through  which  inflation  will  rise  toward  2 percent. The Bank conceptually divides this mechanism into two steps. First, the output gap improves in line with economic expansion, which will raise actual prices by making firms' wage- and price-setting stance more proactive. Second, as actual prices increase, firms' and households' medium- to long-term inflation expectations rise, which will further push up the actual inflation rate.
+
+As for the first step, the improvement in the output gap is steadily pushing up wages and prices. In terms of wages, those of not only part-time but also full-time employees are rising against the backdrop of tightening labor market conditions. According to various surveys, the rate of increase in base pay for fiscal 2018 has exceeded the actual rate for last year, and the proportion of firms that are increasing wages for full-time employees has also increased (Chart 9). Firms are also increasingly reflecting rising wage costs in their sales prices. In the March Tankan ,  the  DI  for  output  prices  for  small  enterprises,  following  that  for  large enterprises, has turned positive for the first time in 27 years, since 1991 (Chart 10). Thus, the  first  step  of  the  mechanism  is  working  steadily.  While  it  cannot  be  denied  that  the momentum of prices is not yet sufficiently firm compared to the economic expansion, the year-on-year rate of change in the CPI excluding fresh food and energy has continued to rise moderately since bottoming out in March 2017.
+
+Next is the second step of the mechanism: whether actual price increases have led to a rise in  medium- to long-term inflation expectations.  In  this  regard,  recent  trends indicate  that inflation expectations have been more or less unchanged, although they have moved out of the weakening phase (Chart 11).
+
+Given  these  circumstances,  going  forward,  it  is  important  for  the  second  step  of  the mechanism in particular to operate more clearly toward achieving the price stability target of 2 percent. To that end, it is necessary for the first  step to continue operating amid the
+
+long-lasting recovery, so that actual price increases affect people's perception of prices and firmly  push  up  inflation  expectations  through  the  adaptive  formation  mechanism.  Going forward,  if  firms  and  households  become  increasingly  confident  that  improvements  in economic  activity  and  prices  are  not  temporary,  the  mindset  and  behavior  based  on  the assumption that wages and prices will not increase will change and inflation expectations will rise firmly. The spread of base pay increases in the past few years can be regarded as an indication  of  such  change.  If  people's  deflationary  mindset  changes,  the  forces  that  let inflation  expectations  converge  to  the  2  percent  target  that  the  Bank  is  committed  to achieving  --  that  is,  the  operation  of  the  forward-looking  formation  mechanism  --  will become much stronger.
+
+## Risks to Prices
+
+Regarding  the  aforementioned  baseline  scenario  of  the  outlook  for  prices,  the  Bank's assessment  is  that  risks  are  skewed  to  the  downside.  For  example,  if  there  is  strong uncertainty  about  future  growth,  firms  will  hesitate  to  raise  wages  in  view  of  increasing employment to expand their business. In that case, the pace of increase in actual wages and prices -- that is, the operation of the first step of the inflation mechanism -- may be weaker than  expected.  Moreover,  even  if  firms'  wage-  and  price-setting  stance  becomes  more proactive, inflation expectations may not rise smoothly; in other words, the second step of the mechanism may not operate fully. Past experience suggests that there is a certain time lag before actual inflation affects inflation expectations and the length of this lag is highly uncertain.  So  far,  there  has  not  been  enough  academic  literature  on  the  learning  process through which firms and households revise their inflation expectations upward when faced with actual price rises. Taking into consideration that the experience of 15 years of deflation had become deeply entrenched in people's mindset and behavior, we need to keep in mind that  it  might  take  a  fair  amount  of  time  before  actual  inflation  starts  to  affect  inflation expectations.
+
+Thus, in a situation where there are various risks and uncertainty is high,  with a view to making an assessment of the outlook for prices and being accountable for this, it would not be proper -- and not represent adequate information dissemination by the Bank -- to attract excessive  attention  merely  to  forecast  figures.  As  also  highlighted  by  Federal  Reserve
+
+Chairman  Powell,  it  is difficult to  make  accurate  forecasts  about future  economic developments,  and  too  much  emphasis  should  not  be  placed  on  the  medians  of  board members'  forecasts.  Regarding  the  timing  of  the  year-on-year  rate  of  change  in  the  CPI reaching around 2 percent, up until the previous January 2018 Outlook Report, the Bank provided specific descriptions such as that this would likely be around fiscal 2019; however, the latest report does not include such descriptions. The Bank believes that giving a detailed and articulate explanation on price developments based on a comprehensive assessment -including  the  mechanism  through  which  the  year-on-year  rate  of  change  in  the  CPI increases  toward  2  percent  and  the  assessment  of  risks  --  leads  to  more  appropriate communication to the public.
+
+## III. The Conduct of Monetary Policy
+
+Let me now turn to the Bank's conduct of monetary policy. The Bank has been pursuing powerful monetary easing with a view to achieving the price stability target of 2 percent. Specifically,  under  the  framework  of  "QQE  with  Yield  Curve  Control"  introduced  in September  2016,  it  facilitates  the  formation  of  the  yield  curve  that  is  considered  most appropriate  for  achieving  the  2  percent  target  judged  on  the  basis  of  developments  in economic activity and prices as well as financial conditions. At the MPM held at the end of last  month,  the  Bank  maintained  the  guideline  for  market  operations,  in  which  the short-term policy interest rate is set at minus 0.1 percent and the target level of the 10-year Japanese government bond (JGB) yields at around zero percent.
+
+The thinking behind this conduct of monetary policy is as follows. First of all, taking a look at developments in economic activity and prices, the economy has been improving steadily, but prices have not yet been sufficiently firm compared to the degree of improvement in the economy, as I mentioned earlier, and thus there is still a long way to go to achieve the price stability target of 2 percent. Downside risks to prices also warrant attention. Therefore, from the  perspective  of  developments  in  economic  activity  and  prices,  it  is  necessary  for  the Bank to continue to pursue powerful monetary easing in line with the current guideline for market operations.
+
+Next, I would like to talk about the assessment of financial conditions. In the conduct of monetary policy, it is necessary to pay attention to both signs of overheating where financial imbalances build up and the stability of the financial system is impaired, as well as signs of a gradual pullback, in which financial institutions' profit environment deteriorates and their financial intermediation functioning declines. Regarding overheating, there is no sign so far of  excessively  bullish  expectations  in  asset  markets  or  in  the  activities  of  financial institutions.  As  for  risks  of  a  gradual  pullback  in  financial  intermediation,  it  has  been pointed out that powerful monetary easing including negative interest rates affects financial institutions' profits and the functioning of financial intermediation, for example by reducing lending margins. Going forward, attention needs to be paid to the possibility that, if the low interest rate environment continues and downward pressure on financial institutions' profits becomes prolonged, this may have a cumulative effect on their financial strength and, as a result,  the  functioning  of  financial  intermediation  may  be  undermined.  However, because Japanese financial institutions have sufficient capital bases, the Bank judges that there is no critical  problem  at  this  point  in  the  functioning  of  financial  intermediation  due  to  a deterioration in profits. This is also evidenced by financial institutions' continued proactive lending attitudes (Chart 12).
+
+These  examinations  indicate  that,  at  present,  the  yield  curve  that  the  Bank  is  currently aiming at is sufficiently effective in stimulating economic activity and prices while avoiding a negative impact on financial intermediation; in other words, the Bank judges the current yield curve to be the most appropriate for maintaining the momentum toward achieving the price stability target of 2 percent.
+
+When  examining  developments  in  economic  activity  and  prices  as  well  as  financial conditions under the framework of "QQE with Yield Curve Control," it is important to pay attention  to  the  difference  between  real  and  nominal  interest  rates.  When  assessing  the extent  to  which  interest  rates  stimulate  economic  activity  and  prices,  it  is  essential  to consider  the  level  of  real  interest  rates,  which  is  calculated  by  subtracting  inflation expectations  from  nominal  interest  rates.  Looking  ahead,  if  real  interest  rates  decline  as inflation  expectations  rise,  the  stimulative  effect  on  economic  activity  and  prices  will become  stronger.  In  addition,  as  the  potential  growth  rate  of  the  economy  rises  with
+
+progress in implementation of the government's growth strategy and firms' continued efforts toward improving productivity, the natural rate of interest is projected to rise, and this is expected  to  enhance  monetary  easing  effects.  Going  forward,  the  Bank  will  continue  to pursue powerful monetary easing while taking advantage of this mechanism embedded in the framework of "QQE with Yield Curve Control" in order to achieve the price stability target of 2 percent at the earliest possible time.
+
+Lastly,  I  would  like  to  make  one  more  point.  As  mentioned  earlier,  the  Bank  has  been conducting  monetary  policy  while  examining  whether  the  momentum  toward  2  percent inflation  is  being  maintained,  taking  into  account  developments  in  economic activity  and prices as well as financial conditions. The Bank has not set a specific deadline for achieving 2 percent inflation and does not conduct monetary policy with such a deadline in mind. The latest  Outlook  Report  does  not  include  a  description  on  the  projected  timing  of  reaching around 2 percent inflation, and this partly aims to clarify this policy stance. Nevertheless, I would  like  to  stress  that  this  does  not  mean  that  the  significance  or  nature  of  the  price stability  target  has  changed.  Since  the  introduction  of  QQE  in  2013,  the  Bank  has committed itself to achieving the price stability target of 2 percent at the earliest possible time and continued to conduct large-scale monetary easing to underpin this commitment. Clearly  demonstrating  this  determination  is  indispensable  in  changing  the  deflationary mindset that had become entrenched among people. The commitment to achieving 2 percent inflation at the earliest possible time has not changed.
+
+## Conclusion
+
+Today,  I  have  talked  about  Japan's  economic  and  price  developments  and  the  Bank's conduct of monetary policy. Over the past five years, Japan's economic activity and prices have improved significantly, and are proceeding along a steady path toward achieving the price  stability  target  of  2  percent.  In  that  sense,  QQE  certainly  has  been  producing  its intended effects.
+
+On the other hand, it has become apparent that people's deflationary mindset is more deeply entrenched  than  expected,  and  that  changing  such  mindset  will  take  time.  To  make  this happen, the current virtuous cycle of the economy -- in which the inflation rate gradually
+
+rises as corporate profits, employment, and wages increase -- needs to be maintained. With a view to achieving the price stability target of 2 percent, the Bank will continue to pursue powerful  monetary  easing  with  persistence  and  do  its  utmost  to  support  such  positive developments.
+
+Thank you very much for your attention.
+
+## Japan's Economy and Monetary Policy
+
+Speech at the Kisaragi-kai Meeting in Tokyo
+
+May 10, 2018
+
+## Haruhiko Kuroda
+
+Governor of the Bank of Japan
+
+Chart 1
+
+## Global Economy
+
+Global PMI
+
+IMF Projections of Real GDP Growth by Major Economies (as of April 2018)
+
+
+
+|                                          |   2016 |   2017 | 2018 [Projection]   | 2019 [Projection]   |
+|------------------------------------------|--------|--------|---------------------|---------------------|
+| World                                    |    3.2 |    3.8 | 3.9 ( ＋ 0.2)       | 3.9 ( ＋ 0.2)       |
+| Advanced economies                       |    1.7 |    2.3 | 2.5 ( ＋ 0.5)       | 2.2 ( ＋ 0.4)       |
+| United States                            |    1.5 |    2.3 | 2.9 ( ＋ 0.6)       | 2.7 ( ＋ 0.8)       |
+| Euro area                                |    1.8 |    2.3 | 2.4 ( ＋ 0.5)       | 2.0 ( ＋ 0.3)       |
+| Japan                                    |    0.9 |    1.7 | 1.2 ( ＋ 0.5)       | 0.9 ( ＋ 0.1)       |
+| Emerging market and developing economies |    4.4 |    4.8 | 4.9 (0.0)           | 5.1 ( ＋ 0.1)       |
+| China                                    |    6.7 |    6.9 | 6.6 ( ＋ 0.1)       | 6.4 ( ＋ 0.1)       |
+| ASEAN 5                                  |    5   |    5.3 | 5.3 (+0.1)          | 5.4 ( ＋ 0.1)       |
+
+y/y % chg.
+
+Notes: 1. Figures for the manufacturing PMI are the "J.P.Morgan Global Manufacturing PMI," and those for the services PMI are the business activity index of the "J.P.Morgan Global Services PMI."
+
+2. Figures in parentheses in the right chart show the differences from the October 2017 projections (% points).
+
+Sources: IHS Markit (© and database right IHS Markit Ltd 2018. All rights reserved.); IMF.
+
+## Japan's Economy
+
+Output Gap
+
+
+
+## Business Conditions DI (Tankan)
+
+
+
+Notes: 1. Figures for the output gap are based on BOJ staff estimations.
+
+2 2. Figures for the business conditions DI are those for all industries and enterprises. There is a discontinuity in the data in December 2003 due to a change in the survey framework. Source: Bank of Japan.
+
+Chart 3
+
+## Corporate Sector
+
+Exports
+
+## Developments in Business Fixed Investment Plans (Tankan)
+
+s.a.
+
+
+
+
+
+Note: The right chart indicates the revision patterns of fixed investment plans. The horizontal axis represents the point of time when the survey is conducted for each fiscal year. Namely, the first survey for each year (March survey) is on the left, and the last survey (June survey of the following year; actual result) is on the right. The vertical axis represents the year-on-year percent change. All industries including financial institutions. Including software and R&amp;D investment and excluding land purchasing expenses (R&amp;D investment is not included up until the December 2016 survey). There is a discontinuity in the data in December 2017 due to a change in the survey sample.
+
+## Household Sector
+
+## Employee Income
+
+
+
+Private Consumption
+
+
+
+Notes: 1. For employee income, Q1 = March-May, Q2 = June-August, Q3 = September-November, Q4 = December-February.
+
+- Notes: 2. Employee income = total cash earnings ("Monthly Labour Survey") × number of employees ("Labour Force Survey")
+3. Figures for the Consumption Activity Index exclude inbound tourism consumption and include outbound tourism consumption (BOJ staff calculations).
+
+Sources: Ministry of Health, Labour and Welfare; Ministry of Internal Affairs and Communications; Bank of Japan.
+
+## BOJ's Forecasts of the Real GDP
+
+(April 2018 Outlook Report)
+
+
+
+Note: Forecasts are the medians of the Policy Board members' forecasts (point estimates). Sources: Cabinet Office; Bank of Japan.
+
+4
+
+Chart 5
+
+## Length of Economic Recovery Period
+
+|   Rank | Period                                    | Duration   |
+|--------|-------------------------------------------|------------|
+|      1 | February 2002-February 2008               | 73 months  |
+|      2 | December 2012- (Current)                  | 64 months  |
+|      3 | November 1965-July 1970 (Izanagi boom)    | 57 months  |
+|      4 | December 1986-February 1991 (Heisei boom) | 51 months  |
+|      5 | November 1993-May 1997                    | 43 months  |
+
+Note: Economic peaks and troughs are judged based on discussions by experts after waiting for data accumulation. The current recovery phase, which started in December 2012, seems to have lasted for 64 consecutive months by March 2018. Sources: Cabinet Office, etc.
+
+6
+
+Chart 7
+
+## Consumer Prices
+
+
+
+## BOJ's Forecasts of the CPI
+
+(April 2018 Outlook Report)
+
+
+
+8 Note: Actual figures are adjusted for changes in the consumption tax rate. Forecasts are the medians of the Policy Board members' forecasts excluding the effects of the scheduled consumption tax hike (point estimates). Sources: Ministry of Internal Affairs and Communications; Bank of Japan.
+
+Chart 9
+
+## Firms' Wage-Setting Stance
+
+Base Pay Increase
+
+Wage Increases for
+
+Full-Time Employees
+
+(Ratio of Firms Planning to Increase Wages)
+
+
+
+
+
+- Notes: 1. Figures for the base pay increase up to fiscal 2013 are based on the survey by the Central Labour Relations Commission, and those from fiscal 2014 onward are based on the survey by the Japanese Trade Union Confederation (Rengo). Large firms up to fiscal 2013 are defined as firms with 1,000 or more employees, and those from fiscal 2014 onward are defined as firms with 300 or more employees. Figures for fiscal 2018 are based on the fourth aggregate results as of mid-April.
+2. Figures for wage increases for full-time employees are based on the survey results concerning firms' wage-setting stance (increases in base pay, bonuses, and lump-sum payments).
+
+Sources: Central Labour Relations Commission; Japanese Trade Union Confederation (Rengo); Teikoku Databank, Ltd.
+
+## Firms' Price-Setting Stance
+
+## Change in Output Prices DI (Tankan)
+
+
+
+Note: All industries. There is a discontinuity in the data in December 2003 due to a change in the survey framework. Source: Bank of Japan.
+
+10
+
+Chart 11
+
+## Inflation Expectations
+
+
+
+Notes: 1. Figures for economists are from the "Consensus Forecasts," those for firms are "Outlook for General Prices" in the Tankan survey (all industries and enterprises, average), and those for households are from the "Opinion Survey on the General Public's Views and Behavior."
+
+2. Figures for households exclude inflation expectations by respondents whose annual inflation expectations were ± 5% or greater.
+
+Sources: Consensus Economics Inc., "Consensus Forecasts"; Bank of Japan.
+

@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F1-patient-dropped-2015",
+  "asof": "2015-03-18",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2015-01-28",
+      "timestamp": "2015-01-28",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20150128.txt"
+    },
+    {
+      "doc_id": "beige_book-2015-01-31",
+      "timestamp": "2015-01-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201501.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20150128",
+      "timestamp": "2015-02-18",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20150128_released_2015-02-18.txt",
+      "note": "minutes of the 20150128 meeting, public release 2015-02-18"
+    },
+    {
+      "doc_id": "macro_release-2015-02-26",
+      "timestamp": "2015-02-26",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2015-02-26.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2015-03-18",
+      "timestamp": "2015-03-18",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20150318.txt"
+    }
+  ]
+}

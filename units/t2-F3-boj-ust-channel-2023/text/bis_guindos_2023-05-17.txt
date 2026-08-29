@@ -1,0 +1,96 @@
+Luis de Guindos: Luis de Guindos: A resilient banking sector for the euro area
+2023-05-17
+
+## Luis de Guindos: A resilient banking sector for the euro area
+
+Remarks by Mr Luis de Guindos, Vice-President of the European Central Bank, at the 18th edition of the Banking Sector Industry Meeting "Banking: Navigating the Wave of Inflation", Madrid, 17 May 2023.
+
+* * *
+
+Earlier this year, substantial global market tensions emerged following the failure of two mid-sized banks in the United States and the loss of confidence in Credit Suisse.
+
+As a result, banking sector risks are now squarely back in the focus.
+
+While market sentiment towards euro area banks had improved markedly in 2022, this reversed abruptly in March following the events I just mentioned. Market tensions led to sharp declines in euro area bank stock prices and in riskier bank bond markets, notably in the Additional Tier 1 segment.
+
+Fortunately, turmoil in the euro area was short lived. The limited exposures of euro area banks to the sources of US and Swiss bank stress, their solid fundamentals, and the comprehensive regulatory and supervisory frameworks in place shielded them from a more severe financial unravelling.
+
+But this shock was only the latest in a series of extraordinary events that have put Europe's economy and banking sector to the test - the pandemic, Russia's war against Ukraine, and the subsequent energy crisis.
+
+It is against this background that I would like to review the last couple of months from the perspective of euro area banks. I will first highlight how they differ from their global counterparts, before turning to the complex challenges they currently face. I will then conclude by discussing how macroprudential policy and regulation can help maintain banks' resilience.
+
+## Recent developments for euro area banks
+
+Euro area banks' fundamentals are solid across several key areas.
+
+The first of these is profitability. Euro area banks' profitability improved in 2022 and their return on equity reached almost 8%, its highest level since the start of the banking union. This improvement in earnings was followed by an increase in distributions to shareholders via dividend payouts and share buybacks. Market valuations for euro area banks also improved, with the valuation gap vis-à-vis their US peers narrowing.
+
+The second key area is resilience. The euro area banking sector is underpinned by strong capital positions. Banks' aggregate Common Equity Tier 1 ratio stood at 15.3% at the end of 2022, well above the minimum requirements. And the decline in nonperforming loan (NPL) stocks continued last year, with banks' aggregate NPL ratio stabilising at 2.3% in the fourth quarter.
+
+The third area I want to highlight is liquidity and funding. Here, euro area banks differ substantially from their global counterparts. Their average liquidity coverage ratio exceeded 160% at the end of 2022, and around half of their high-quality liquid assets are held as cash and deposits with central banks. On aggregate, euro area banks are mainly funded by customer deposits, and a relatively high share of these are covered by deposit guarantee schemes.
+
+## A challenging outlook
+
+There is no room for complacency, however.
+
+Economic activity in the euro area has held up better than expected and a recession at the turn of the year did not materialise. But growth is still weak and inflation continues to be too high, with underlying price pressures remaining strong. Earlier this month, the Governing Council decided to raise interest rates by 25 basis points, bringing the deposit facility rate to 3.25%.
+
+The challenging outlook heightens the uncertainties surrounding banks' profitability and resilience.
+
+While higher interest rates boost banks' net interest income, the benefits could be somewhat smaller than previously anticipated given a slowdown in lending growth and the inversion of the yield curve.
+
+For example, the latest euro area bank lending survey shows that demand for corporate and housing loans has decreased strongly, contributing to a slowdown in lending to firms and households in March. In parallel, banks' credit standards for corporate and housing loans tightened considerably in the first quarter of 2023. As lending slows down, so does the income base banks can rely on. Importantly, however, banks' capital positions are not currently seen to be constraining bank credit supply.
+
+There are two sides to rising interest rates. Certainly, they have a positive impact on earnings. But on the downside, they heighten interest rate risk with larger duration gaps, which vary widely across euro area banks - not least due to differences in the share of fixed-rate mortgages.
+
+Banks also tend to incur unrealised losses on their fixed-income portfolios during periods of increasing long-term yields. This exerts a negative effect on the value of their equity. Preliminary assessments show that, on aggregate, potential unrealised losses on bonds held at amortised cost are limited. But to gain further insights into this risk, we - together with the EBA - are using the ongoing stress test to collect data on these portfolios.
+
+The prospect of higher funding costs also increases the downside risks to bank earnings.
+
+In early 2023, we saw bond issuance volumes picking up amid repayments of the amounts borrowed under the targeted longer-term refinancing operations and banks' efforts to increase or maintain buffers on their minimum requirements for own funds and
+
+eligible liabilities (MREL). But bond funding costs have also risen markedly since the start of 2022. A faster repricing of deposits, on the back of heightened competition, would increase funding pressures even further.
+
+While NPLs are at record lows, default rates on banks' corporate credit exposures started to increase in the second half of 2022 and early warning signals of future asset quality deterioration have become more pronounced. Loans showing a significant increase in credit risk (so-called "stage 2" loans) are on the rise, in particular for consumer and other non-mortgage household loans.
+
+Within the corporate sector, concerns are mounting about the outlook for commercial real estate (CRE) loans amid falling valuations and investor demand in CRE markets. And while the energy crisis has abated, the risks for European firms from delaying the transition to climate neutrality are still high.
+
+Finally, elevated vulnerabilities in non-bank financial institutions may spill over to euro area banks - given that they are strongly interconnected - exposing the banks to liquidity, asset price and credit risks. These links appear on both sides of banks' balance sheets and are stronger for large banks.
+
+## The importance of preserving resilience
+
+So what does the current environment imply for macroprudential policy in the euro area? In view of prevailing uncertainties, macroprudential policy should focus on preserving resilience.
+
+First, existing macroprudential capital buffers that have been built up in recent years should not be released in the current environment. This is because banks' profitability improved considerably and, as I said earlier, their capital positions are not constraining the supply of bank credit.
+
+Second, in the current uncertain environment, banks should remain prudent on their payouts to further support the resilience of the euro area banking system. Increasing bank payouts should not be seen as a sign of strength. Far from it. The best sign of banking system strength continues to be strong capital positions, which ensure sufficient loss absorption capacity even in adverse circumstances.
+
+## Supporting the European regulatory effort
+
+Let me now turn to the important role of regulation.
+
+In Europe, banks are strong today because we have applied the Basel regulatory framework to all EU banks. Indeed, recent events in other regions have shown just how important it is to have an adequate framework in place for all types of banks. Looking ahead, let me highlight three key takeaways that should guide the European regulatory effort.
+
+First, the EU needs to fully implement the final outstanding elements of Basel III. We call on co-legislators to support the resilience of the banking sector by implementing these faithfully and without delay.
+
+Second, we need to complete the banking union.
+
+A month ago, the European Commission tabled a legislative proposal that will improve how we manage crises affecting mid-sized and smaller banks. This is very welcome, and we hope the legislators will rapidly adopt the proposal.
+
+But if we are serious about completing the banking union, we also need to tackle some more ambitious elements: namely, the European Deposit Insurance Scheme (EDIS) and a European framework for providing liquidity to banks in resolution. Both of these would further strengthen the resilience of our crisis management framework and should therefore be a top priority for legislators.
+
+And third: we need to see further progress on the capital markets union (CMU). Creating deeper and more integrated capital markets in the EU will provide firms with additional funding sources as alternatives or complements to bank credit. Implementing the Commission's CMU Action Plan in full within this legislative cycle should remain one of Europe's key goals.
+
+## Conclusion
+
+Let me conclude.
+
+Since the emergence of market tensions in March, banking sector risks have come back into the spotlight. We have seen just how rapidly financial market sentiment can change and how confidence in the banking sector can weaken substantially.
+
+But euro area banks are weathering the storm. This is in large part due to their solid capital and liquidity positions. We should not be complacent, however. Vulnerabilities persist, and we need to closely monitor the situation to safeguard financial stability.
+
+The recent market turbulence demonstrates the importance of implementing our banking regulatory framework in full. At the same time, macroprudential policy continues to play a vital role in ensuring the resilience of the system by maintaining or strengthening buffers.
+
+If anything, the financial stability concerns raised by recent market tensions revealed that the incomplete banking union is a source of vulnerability for Europe's banking sector. If the banking union had been complete, the recent contagion from the United States and Switzerland to the EU financial system would have been far more muted. The lack of a complete banking union is still a very wide gap in the EU's institutional framework.
+
+Thank you for your attention.

@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F2-taper-begins-2013",
+  "asof": "2013-12-18",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2013-10-30",
+      "timestamp": "2013-10-30",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20131030.txt"
+    },
+    {
+      "doc_id": "beige_book-2013-10-31",
+      "timestamp": "2013-10-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201310.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20131030",
+      "timestamp": "2013-11-20",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20131030_released_2013-11-20.txt",
+      "note": "minutes of the 20131030 meeting, public release 2013-11-20"
+    },
+    {
+      "doc_id": "macro_release-2013-12-17",
+      "timestamp": "2013-12-17",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2013-12-17.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2013-12-18",
+      "timestamp": "2013-12-18",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20131218.txt"
+    }
+  ]
+}

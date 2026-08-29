@@ -1,0 +1,64 @@
+{
+  "card_id": "t2-F1-greater-confidence-2024",
+  "asof": "2024-01-31",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2023-07-26",
+      "timestamp": "2023-07-26",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20230726.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2023-09-20",
+      "timestamp": "2023-09-20",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20230920.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2023-11-01",
+      "timestamp": "2023-11-01",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20231101.txt"
+    },
+    {
+      "doc_id": "beige_book-2023-11-30",
+      "timestamp": "2023-11-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202311.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2023-12-13",
+      "timestamp": "2023-12-13",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20231213.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20231213",
+      "timestamp": "2024-01-03",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20231213_released_2024-01-03.txt",
+      "note": "minutes of the 20231213 meeting, public release 2024-01-03"
+    },
+    {
+      "doc_id": "macro_release-2024-01-11",
+      "timestamp": "2024-01-11",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2024-01-11.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2024-01-31",
+      "timestamp": "2024-01-31",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20240131.txt"
+    }
+  ]
+}

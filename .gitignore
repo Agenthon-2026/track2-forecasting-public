@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Model weights / caches (staged into the scoring image, not committed)
+/model-cache/
+
+# Local scratch
+*.log
+/out/
+# run_example.sh writes a per-unit output/ dir (forecast.parquet + meta)
+units/*/output/
+
+# Safety: never commit the proprietary, local-only folder (it lives outside repos anyway)
+proprietary-DO-NOT-PUSH/

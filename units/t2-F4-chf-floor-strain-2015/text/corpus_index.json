@@ -1,0 +1,77 @@
+{
+  "card_id": "t2-F4-chf-floor-strain-2015",
+  "asof": "2014-12-19",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beige_book-2014-10-31",
+      "timestamp": "2014-10-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201410.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-11-12",
+      "timestamp": "2014-11-12",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-11-12.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-11-17",
+      "timestamp": "2014-11-17",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-11-17.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-11-20",
+      "timestamp": "2014-11-20",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-11-20.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-11-21",
+      "timestamp": "2014-11-21",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-11-21.txt"
+    },
+    {
+      "doc_id": "bis_jordan_2014-11-23",
+      "timestamp": "2014-11-23",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_jordan_2014-11-23.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-11-27",
+      "timestamp": "2014-11-27",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-11-27.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-11-27_2",
+      "timestamp": "2014-11-27",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-11-27_2.txt"
+    },
+    {
+      "doc_id": "bis_jordan_2014-12-01",
+      "timestamp": "2014-12-01",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_jordan_2014-12-01.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2014-12-17",
+      "timestamp": "2014-12-17",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20141217.txt"
+    }
+  ]
+}

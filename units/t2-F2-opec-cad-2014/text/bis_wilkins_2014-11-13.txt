@@ -1,0 +1,180 @@
+Carolyn Wilkins: Carolyn Wilkins: Money in a digital world
+2014-11-13
+
+## Carolyn Wilkins: Money in a digital world
+
+Remarks  by  Ms  Carolyn  Wilkins,  Senior  Deputy  Governor  of  the  Bank  of  Canada,  at  the Wilfrid Laurier University, Waterloo, Ontario, 13 November 2014.
+
+*      *      *
+
+## Introduction
+
+I  am happy to be back here in Waterloo to speak with you today about money in a digital world. I am also honoured to be your first economist-in-residence for a day.
+
+When I was a student at Wilfrid Laurier in the 1980s, I started every day with a coffee, and I bought that coffee with cash. That's when coffee cost less than a dollar and long before I had a credit card. And I picked up extra cash working as a waitress at Wilf's.
+
+Many things haven't changed much since then - many of you must pick up a coffee on the way to class or catch up with friends at Wilf's. What has changed, though, is how we pay for things.
+
+It's fascinating the way technology and consumer preferences are pushing the boundaries of how we define and use money. The Bank of Canada is paying close attention to e-money, given  that  our  job  is  to  issue  currency,  promote  financial  stability  and  oversee  Canada's payment systems.
+
+Today  I'll  cover  three  points.  First,  I'll  start  with  a  brief  historical  perspective.  Money  and associated means of payment have changed over the years, but it seems never as fast as they are changing today. Second, to get a sense of proportion, I'll talk about how e-money is currently being used relative to other payment options like cash or debit. Finally, I'll talk about the benefits and risks of these innovations. This matters to you because e-money is not just about  how  you  pay  for  things.  It's  also  about  the  financial  risks  you  face  if  you  use  it.  It matters to the Bank because of the potential over time for e-money to alter the fundamental payments architecture in Canada and around the world.
+
+## Money and payments have come a long way
+
+
+
+When you look at history, money and payment systems reflect the societies they serve - and like  societies,  they  have  been  transformed  by  technology.  The image you see above, is a painting by Canadian artist Blair Ferguson. It hangs in one of the Bank of Canada's meeting rooms. The reason I'm showing it to you is because it illustrates how money has changed
+
+throughout history.  At  one  time,  playing  cards  served  as  money,  as  well  as  cowrie  shells, cocoa beans, gold and, eventually, bank notes and coins.
+
+None of these objects, except for the gold and cocoa beans, has any meaningful inherent value. They are money because people accept them as money. For this to happen, money must do three things.
+
+First, money must serve as a medium of exchange: you pay tuition; you receive an education in exchange. The alternative is bartering, but that is complicated and inefficient.
+
+Second, money must serve as a store of value. When you work during the summer you need to be confident that every dollar you earn is still going to be worth a dollar when it comes time to pay your tuition.
+
+Finally, money must serve as a unit of account, which you need in order to compare prices like comparing the value of the new BlackBerry with other mobile devices on the market.
+
+The form of money we know best is bank notes. They were issued primarily by commercial banks in Canada and the United States before those countries created central banks in the early  20th  century.  These privately-issued bank notes ultimately failed to provide  what the economy needed and so central banks were given this responsibility. The Bank of Canada has been issuing bank notes since 1935. 1 The cash you have in your wallets perfectly meets the three criteria of money. It is accepted almost everywhere, there's very little counterfeiting, and the issuer - the central bank - won't go bankrupt. We also target inflation, which means that the internal value of money is predictable.
+
+Since  we  started  issuing  bank  notes,  there  has  been  a  parade  of  non-cash  options introduced  to  our  payments  system.  They've  been  driven  by  technology  and  consumer demand for efficient ways to pay for things. In the 1970s, credit cards were leading edge around the same time that Pink Floyd and Led Zeppelin dominated the music scene. In the 1990s,  debit  cards  were  the  new  big  hit.  The  next  leap  in  innovation  was  e-transfers  and online banking services. Payments are even quicker now with contactless credit and debit cards. Last month, Apple Pay became the latest player in this game.
+
+So we've come a long way since cocoa beans. Yet all these payment innovations can be used  only  if  you  have  a  bank  account.  The  vast  majority  of  Canadians  have  access  to banking  services,  but  that's  not  the  case  in  many  developing  countries.  That's  part  of  the reason why non-banks are coming up with innovative electronic payment methods that we generically call  digital  currency  or  e-money.  E-money can be defined broadly as monetary value stored electronically, on a phone or a card, or in the cloud. It's a digital alternative to cash, and it's a stored value that is not linked to a bank account.
+
+There are two types of e-money that I want to talk about today. The first type is denominated in a national currency, and it represents a claim on the issuer. In Canada, there are a number of examples. There are PayPal balances, and there are stored-value cards that use the Visa or MasterCard networks. 2 These types of e-money store value and can be used to buy a lot of things. The safety of this type of money really depends on the credibility of a trusted third party.  This  is  because  you're  trusting  Visa  or  PayPal  to  safeguard  your  balance  and  to validate and authenticate your transactions.
+
+The second type of e-money is cryptocurrency - such as Bitcoin. This type of e-money is not denominated  in  any  national  currency  and  so  has  its  own  unit  of  account.  It  is  also completely  decentralized  and  does  not  represent  a  claim  on  the  issuer.  This  is  the
+
+1 There  was  a  gradual  phase  out  of  commercially-issued  bank  notes  that  lasted  over  a  decade.  Rich discussions of this period are available in Powell (2005) and Bordo and Redish (1986).
+
+2 Gift cards and store-specific cards are not considered e-money because they are not accepted by businesses other than those that issued them.
+
+revolutionary part of cryptocurrencies - transactions can be validated without a trusted third party. The way they achieve this is by using cryptography to ensure that each transaction is valid  and  secure.  Trusted  third  parties  are  needed  for  other  functions,  however.  You  may want help to keep track of your virtual wallet and these currencies are not redeemable for national currencies. People generally trade them through an online exchange at the market rate.
+
+Bitcoin was  introduced in 2009. Five years later, there are more  than 500 other cryptocurrencies - Ripple and Litecoin and I could go on. 3 Even though only a few of them ever really do any trading, they continue to develop and innovate.
+
+## E-money still a wallflower in Canada
+
+E-money is still a wallflower in developed countries where many people have bank accounts, although  this  could  change  quickly.  Today  it  is  more  popular  in  countries  where  relatively fewer people have access to banking services. 4 An example of this is Kenya, where many people use e-money called M-Pesa. M-Pesa is backed by the issuer and redeemable in the Kenyan shilling. It gives people a low-cost way to transfer money using their mobile phones. M-Pesa is  used  in  some  2  million  transactions  each  day,  worth  about  $5  billion  annually. That's nearly 20 per cent of Kenya's GDP.
+
+Limited access to banks is not always the main motivator for the adoption of e-money. The Octopus card, in Hong Kong, was originally designed to pay for public transit. It proved so convenient  that  it  is  now  used  for  over  13  million  transactions  each  day  -  from  transit  to coffee to a pair of jeans.
+
+Canadians  seem  to  be  less  enthusiastic  about  e-money,  and  there  appears  to  be  little demand for something like the Octopus card. We are nonetheless big users of e-payment methods that give us access to credit or our bank accounts. Almost all Canadian adults have debit cards, and more than 80 per cent have at least one credit card. 5
+
+Over half of all transactions in Canada use debit or credit cards. At the same time, we still use a lot of cash, even if the proportion is falling over time. The total value of cash holdings in Canada as a share of GDP has been relatively stable for the past 30 years. There are good reasons for this. Cash is fast, convenient and costs virtually nothing to use. It is anonymous, so  you  don't  have  to  worry  about  exposing  personal  information  to  potential  criminals, although for this reason cash is also used in the underground economy. People also hold onto cash as savings for a rainy day. Bank of Canada research suggests that changes in cash management practices could also help explain the constant demand for cash. 6
+
+So let's talk now about cryptocurrencies. Some Canadians appear intrigued by Bitcoin - the very first Bitcoin ATM in the world was installed in Vancouver just over a year ago. And as of last July, a quarter of the world's Bitcoin ATMs were found in Canada. There's one here, in Kitchener-Waterloo.  There  are  also  about  340  Canadian  merchants  who  say  they  accept Bitcoin, and about 76,000 merchants accepting Bitcoin in other parts of the world.
+
+Some merchants may be accepting it, but it has yet to gain much traction with people making purchases. There aren't a lot of data on this, but what we do have indicate that last year there  were  around  70,000  Bitcoin  transactions  per  day  across  the  globe.  This  pales  in
+
+3 While  Bitcoin  is  the  dominant  cryptocurrency,  there  are  many  others:  Dogecoin,  Ethereum,  Peercoin,  and Darkcoin to name just a few.
+
+4 The World Bank estimates that about 2.5 billion people do not have access to banking services.
+
+5 Henry, Huynh, and Shen (2014).
+
+6 Jiang and Shao (2014).
+
+comparison with the more than 21 million debit and credit card transactions that occur each day in Canada alone.
+
+Things can change fast when it comes to adoption of new technology. At the Bank of Canada we've done some experiments in behavioural economics to look at what elements determine the success or failure of e-money. 7 What we find is that adoption of e-money is exactly like the tango - it takes two. Buyers need to decide whether to use the new payment method while sellers need to decide whether they'll accept it. It turns out that it's the seller's side that leads  the  dance;  if  there  is  a  large  enough  fraction  of  sellers  accepting  new  payment methods, more and more buyers are prompted to use them, eventually leading to complete adoption on both sides.
+
+In the case of Bitcoin, not many people want to dance. This is because it has serious flaws when  it  comes  to  satisfying  the  three  main  characteristics  of  money.  While  a  number  of merchants may be accepting Bitcoin, there is still a big risk that if you acquire bitcoins you won't be able to find someone to accept them later when you want to spend them.
+
+There's also no getting around the fact that cryptocurrencies are very volatile and therefore unreliable  as  a  store  of  value.  Bitcoin's  value  relative  to  the  U.S.  dollar  has  gone  from pennies to over $1,100 and then back down to $300 in just four years. It is not surprising then that Bitcoin and other cryptocurrencies are not acting as a unit of account. Businesses are  still  pricing  products  in  national  currencies  and  converting  to  a  cryptocurrency  at  the checkout.
+
+For  these  reasons,  the  Bank  of  Canada  views  Bitcoin  and  other  cryptocurrencies  as investment  products  rather  than  money. 8 And  we  are  not  alone.  The  Canada  Revenue Agency considers digital currencies as a commodity that can be bought and sold. That is why any resulting gains or losses could be taxable income that must be reported. 9
+
+## Bank of Canada has its eye on developments
+
+E-money is not big enough to pose material risk to financial stability in Canada at this time. That said, money and payments technology is progressing in leaps and bounds, and so the Bank  of  Canada  is  watching  developments  closely.  The  federal  government  also  is undertaking a review of payment systems in Canada to ensure that the degree of regulation of  payment  systems  and  methods  is  appropriate.  This  review  has  resulted  in  the  Bank  of Canada  having  increased  responsibility  to  oversee  payment  systems  of  economic  and systemic importance.
+
+There is little  doubt  that  these  innovations  have  some  benefits. They give us more choice about how we make purchases, and can reduce the cost of certain transactions. Think about online purchases of pictures or songs. The transaction costs of traditional payment methods, such as credit cards, make these small-value purchases expensive. A $1 transaction could be  done  for  no  fee  using  Bitcoin  while  it  could  cost  over  30  cents  in  fees  using  some merchant credit cards. E-money is also useful for sending money across borders. Traditional financial institutions offer these services, called remittances, but the fees can be as much as 10-12 per cent for small transactions. So, e-money has some benefits in certain economies, especially when cash is not a viable option. 10
+
+Those  who  use  cryptocurrencies  may  also  like  the  privacy  they  offer.  These  transactions require  little  or  no  exchange  of  personal  information.  However,  people  often  overestimate
+
+7 Arifovic, Duffy, and Jiang (2014).
+
+8 Gandal and Halaburda (2014).
+
+9 http://www.cra-arc.gc.ca/nwsrm/fctshts/2013/m11/fs131105-eng.html.
+
+10 Chiu and Wong (2014).
+
+how anonymous Bitcoin really is. It is not as anonymous as cash, and all Bitcoin transactions are public in the open source ledger, and so they can be linked to a specific IP address. 11 This means that the user could be identified eventually.
+
+There are risks to using e-money. People need to be aware of the risk of putting their trust in an e-money scheme that is lightly regulated with limited or no user protection. For example, debit cards are linked to deposit accounts that are insured by the government and held in banks that are closely regulated. Balances stored with PayPal or other e-money providers do not have those protections. Aside from posing risk to individual users, it is also a level playing field issue for Canadian banks.
+
+Users of cryptocurrencies are even more vulnerable. While cryptocurrencies do not require a trusted  third  party  to  authenticate  and  validate  transactions,  they  still  require  users  to  put their  trust  in  numerous  private  businesses,  such  as  exchanges  and  Bitcoin  wallets.  This leaves them exposed to theft, fraud and loss. The biggest example is the failure of Mt. Gox, which resulted in hundreds of millions of dollars in losses. And while these problems could happen with other forms of e-money, cryptocurrencies offer little recourse because the legal status of the players is still quite ambiguous.
+
+The list of issues doesn't end there. Crypotocurrencies can be used for money laundering, terrorist financing, and other criminal activities. 12 That is why governments around the world are building a new legal framework for cryptocurrencies.
+
+For  example,  Canada  has  introduced  legislation  to  require  cryptocurrency  exchanges  to register and to report suspicious transactions that may be linked to money laundering and terrorist financing. Regulators in the state of New York are proposing to issue a 'BitLicense' to  protect  consumers,  prevent  money  laundering  and  enforce  cyber  security.  Some countries,  like  China,  have  ruled  that  financial  institutions  cannot  handle  any  Bitcoin transactions.
+
+If e-money were to gain widespread acceptance in an economy, there would be implications for  the  central  bank. The  Bank of Canada earns money by issuing currency. This profit is called seigniorage. The bank notes that we issue cost very little to print, and we invest the balance of their value in Government of Canada securities that earn interest. With this profit,
+
+But it's not just about seigniorage. Some people have wondered whether widespread use of e-money could impair the ability of the central bank to conduct monetary policy. This is very unlikely because Canadian interest rates would still matter. 13 Whether they use e-money or cash, as long as people and businesses pay bills and borrow in Canadian dollars, the Bank of  Canada  would  still  be  able  to  achieve  its  monetary  policy  objective.  When  it  comes  to cryptocurrencies,  however,  the  situation  is  different.  In  the  unlikely  situation  in  which cryptocurrencies were used broadly, a significant proportion of economic transactions would not be denominated in Canadian dollars. This would reduce the Bank's ability to influence macroeconomic activity through Canadian interest rates. Let me be clear, we are nowhere near this point today. But if we were, it would be even more important to determine whether issuing e-money is a role that should be done by the central bank.
+
+If e-money denominated in Canadian dollars were to significantly replace bank notes, there are some options that the central bank could take so as to be in a position to intervene in markets or be the lender of last resort.
+
+11 The ledger and the protocol that enables it can be applied widely. For example, a peer-to-peer messaging system - Bitmessage - has been built that could be a secure replacement for email.
+
+12 A recent paper by the European Banking Authority listed some 70 risks inherent in cryptocurrencies.
+
+13 Fung,  Molico,  and  Stuber  (2014).  See  also  Friedman  (2000)  and  Woodford  (2000,  2003)  for  a  broader discussion.
+
+Another important issue is the potential for e-money to fundamentally change the financial architecture  in  ways  that  we  don't  yet  understand  but  that  could  pose  risks  to  financial stability. Think about a crash in a cryptocurrency as an example. If the cryptocurrency were widely-used,  the  economic  and  financial  implications  of  such  a  crash  would  be  significant because they would result in a dramatic reduction in household wealth. 14
+
+A crash or failure of one type of e-money can be a concern even if the e-money is not widely used. This is because the failure of one issuer could result in a loss of confidence in other issuers and in the payments system more generally. That is why the Bank of Canada sees risks to the economy in a structure that would allow the benefits of money issuance to accrue to  the  private  sector  while  any  losses  would  be  borne  by  the  government  and  taxpayers. Let's remember, these issuers are getting the equivalent of seigniorage but have limited or no oversight at this time.
+
+The history I mentioned earlier also gives us an important lesson. period that we refer to as the 'free banking era' in the United States - when private banks were issuing bank notes and trying to ensure their value. The notes of some banks faced steep discounts, outright runs and there were a string of crises in the banking system. 15
+
+These crises prompted governments to step in to insure bank notes issued by private banks. It  ushered in the national banking era with a lot of regulation, supervision and government intervention. 16 It came as no surprise then, that central banks were eventually given the sole responsibility for issuing bank notes.
+
+## Conclusion
+
+Money  and  means  of  payment  have  come  a  long  way  since  then.  E-money  and  the technology that  enables  it  are  circumventing  our  old  models  of  payment  and  fast  creating new efficiencies and new risks. This matters because it affects the risks faced by people who use e-money and it has the potential to affect risks to the Canadian financial system as a whole.  That  is  why  the  federal  government,  with  the  Bank's  help,  is  modernizing  our oversight frameworks for payments. The Bank is also undertaking research on the potential merits of issuing e-money.
+
+Individuals need to be aware of the risks of using e-money that is not subject to minimum oversight and consumer protection standards. We also need to be aware that cryptocurrencies  can  be  used  for  money  laundering  and  terrorist  financing,  which  is  why governments around the world, including Canada, are finding ways to monitor their use.
+
+Money and payments are at the core of central banking. The Bank of Canada is working through  the  tough  issues  today  so  that  we  can  support  the  benefits  of  innovation,  while safeguarding the integrity of Canada's money and payment systems and, ultimately, financial stability.
+
+## References:
+
+Ali, R., J. Barrdear, R. Clews and J. Southgate. 2014. 'The Economics of Digital Currencies.' Bank of England Quarterly Bulletin 54 (3): 276-86.
+
+Arifovic, J., J. Duffy and J. H. Jiang. 2014. 'An Experimental Study of the Adoption of a New Payment Method.' Bank of Canada Working Paper, forthcoming.
+
+14 Ali, Barrdear, Clews, and Southgate (2014).
+
+15 Weber (2014a).
+
+16 Weber  (2014b).  The  U.S.  experience  with  private  bank  notes  was  worse  than  the  Canadian  experience, mainly because the U.S. banking system was more fragmented.
+
+BIS central bankers' speeches
+
+Bordo,  M.  and  A.  Redish.  1986.  'Why  Did  the  Bank  of  Canada  Emerge  in  1935?'  NBER Working Paper 2079.
+
+Chiu, J. and T.-N. Wong. 2014. 'E-Money: Efficiency, Stability and Optimal Policy.' Bank of Canada Working Paper No. 2014-16.
+
+European Banking Authority. 2014. 'EBA Opinion on 'Virtual Currencies'.' European Banking Authority Opinion 2014/08.
+
+Friedman,  C.  2000.  'Monetary  Policy  Implementation:  Past,  Present,  and  Future  -  Will Electronic Money Lead to the Eventual Demise of Central Banking?' International Finance 3(2): 221-27.
+
+Fung,  B.,  M.  Molico  and  G.  Stuber.  2014.  'Electronic  Money  and  Payments:  Recent Developments and Issues.' Bank of Canada Discussion Paper No. 2014-2.
+
+Gandal,  N.  and  H.  Halaburda.  2014.  'Competition  in  the  Cryptocurrency  Market.'  Bank  of Canada Working Paper No. 2014-33.
+
+Henry,  C.  S.,  K.  P.  Huynh  and  Q.  R.  Shen.  2014.  '2013  Methods-of-Payment  Survey Report.' Bank of Canada Discussion Paper, forthcoming.
+
+Jiang, J. H. and E. Shao. 2014. 'Understanding the Cash Demand Puzzle.' Bank of Canada Working Paper No. 2014-22.
+
+Powell, J. 2005. 'A History of the Canadian Dollar.' Ottawa: Bank of Canada.
+
+Weber, W. E. 2014a. 'The Efficiency of Private E-Money-Like Systems: The U.S. Experience with State Bank Notes.' Bank of Canada Working Paper No. 2014-15.
+
+---.2014b. 'The Efficiency of Private E-Money-Like Systems: The U.S. Experience with National Bank Notes.' Bank of Canada Working Paper, forthcoming.
+
+Woodford,  M.  2000.  'Monetary  Policy  in  a  World  Without  Money.'  NBER  Working  Paper No. 7853.
+
+---2003. 'Interest and Prices: Foundations of a Theory of Monetary Policy.' Princeton, NJ: Princeton University Press.

@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F4-jpy-carry-2007",
+  "asof": "2007-07-20",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "bis_kroszner_2007-06-01",
+      "timestamp": "2007-06-01",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kroszner_2007-06-01.txt"
+    },
+    {
+      "doc_id": "bis_warsh_2007-06-05",
+      "timestamp": "2007-06-05",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_warsh_2007-06-05.txt"
+    },
+    {
+      "doc_id": "bis_bernanke_2007-06-05",
+      "timestamp": "2007-06-05",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bernanke_2007-06-05.txt"
+    },
+    {
+      "doc_id": "bis_mishkin_2007-06-07",
+      "timestamp": "2007-06-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_mishkin_2007-06-07.txt"
+    },
+    {
+      "doc_id": "beige_book-2007-06-13",
+      "timestamp": "2007-06-13",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_200706.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2007-06-28",
+      "timestamp": "2007-06-28",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20070628.txt"
+    },
+    {
+      "doc_id": "cftc_cot_japanese_2007",
+      "timestamp": "2007-07-20",
+      "source": "CFTC",
+      "doc_type": "positioning_report",
+      "file": "cftc_cot_japanese_2007.txt"
+    }
+  ]
+}

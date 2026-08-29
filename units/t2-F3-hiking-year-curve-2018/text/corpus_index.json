@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F3-hiking-year-curve-2018",
+  "asof": "2018-06-13",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2018-03-21",
+      "timestamp": "2018-03-21",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20180321.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20180502",
+      "timestamp": "2018-05-23",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20180502_released_2018-05-23.txt",
+      "note": "minutes of the 20180502 meeting, public release 2018-05-23"
+    },
+    {
+      "doc_id": "beige_book-2018-05-31",
+      "timestamp": "2018-05-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201805.txt"
+    },
+    {
+      "doc_id": "macro_release-2018-06-12",
+      "timestamp": "2018-06-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2018-06-12.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2018-06-13",
+      "timestamp": "2018-06-13",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20180613.txt"
+    }
+  ]
+}

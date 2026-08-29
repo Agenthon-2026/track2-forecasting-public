@@ -1,0 +1,371 @@
+Jerome H Powell: Jerome H Powell: Review and outlook
+2024-08-23
+
+For release on delivery 10:00 a.m. EDT (8:00 a.m. MDT) August 23, 2024
+
+Review and Outlook
+
+Remarks by
+
+Jerome H. Powell
+
+Chair
+
+Board of Governors of the Federal Reserve System at
+
+'Reassessing the Effectiveness and Transmission of Monetary Policy,' an economic symposium sponsored by the Federal Reserve Bank of Kansas City
+
+Jackson Hole, Wyoming
+
+August 23, 2024
+
+Four and a half years after COVID-19's arrival, the worst of the pandemic-related economic distortions are fading.  Inflation has declined significantly.  The labor market is no longer overheated, and conditions are now less tight than those that prevailed before the pandemic.  Supply constraints have normalized.  And the balance of the risks to our two mandates has changed.  Our objective has been to restore price stability while maintaining a strong labor market, avoiding the sharp increases in unemployment that characterized earlier disinflationary episodes when inflation expectations were less well anchored.  While the task is not complete, we have made a good deal of progress toward that outcome.
+
+Today, I will begin by addressing the current economic situation and the path ahead for monetary policy.  I will then turn to a discussion of economic events since the pandemic arrived, exploring why inflation rose to levels not seen in a generation, and why it has fallen so much while unemployment has remained low.
+
+## Near-Term Outlook for Policy
+
+Let's begin with the current situation and the near-term outlook for policy.
+
+For much of the past three years, inflation ran well above our 2 percent goal, and labor market conditions were extremely tight.  The Federal Open Market Committee's (FOMC) primary focus has been on bringing down inflation, and appropriately so.  Prior to this episode, most Americans alive today had not experienced the pain of high inflation for a sustained period.  Inflation brought substantial hardship, especially for those least
+
+able to meet the higher costs of essentials like food, housing, and transportation.  High inflation triggered stress and a sense of unfairness that linger today. 1
+
+Our restrictive monetary policy helped restore balance between aggregate supply and demand, easing inflationary pressures and ensuring that inflation expectations remained well anchored.  Inflation is now much closer to our objective, with prices having risen 2.5 percent over the past 12 months (figure 1). 2 After a pause earlier this year, progress toward our 2 percent objective has resumed.  My confidence has grown that inflation is on a sustainable path back to 2 percent.
+
+Turning to employment, in the years just prior to the pandemic, we saw the significant benefits to society that can come from a long period of strong labor market conditions:  low unemployment, high participation, historically low racial employment gaps, and, with inflation low and stable, healthy real wage gains that were increasingly concentrated among those with lower incomes. 3
+
+Today, the labor market has cooled considerably from its formerly overheated state. The unemployment rate began to rise over a year ago and is now at 4.3 percentstill low by historical standards, but almost a full percentage point above its level in early 2023 (figure 2).  Most of that increase has come over the past six months.  So far, rising
+
+1 Shiller (1997) and Stantcheva (2024) study why people dislike inflation.  Pfafjar and Winkler (2024) study households' attitudes toward inflation and unemployment.  Binetti, Nuzzi, and Stantcheva (2024) investigate households' attitudes toward, and understanding of, inflation.  Kaplan and Schulhofer-Wohl (2017) and Jaravel (2021) document heterogeneity in the inflation rate experienced by households across the income distribution.
+
+2 The data for the personal consumption expenditures (PCE) price index is available for June 2024.  Over the 12 months to June 2024, the PCE price index increased 2.5 percent.  Data for the consumer price index and producer price index are available through July 2024 and can be used to estimate the level of the PCE price index through July.  While such an estimate is subject to uncertainty, it suggests that inflation remained near 2.5 percent through July.
+
+3 Research documenting such benefits include Aaronson and others (2019), who discuss the experience in the 2010s and review related historical evidence.
+
+unemployment has not been the result of elevated layoffs, as is typically the case in an economic downturn.  Rather, the increase mainly reflects a substantial increase in the supply of workers and a slowdown from the previously frantic pace of hiring.  Even so, the cooling in labor market conditions is unmistakable.  Job gains remain solid but have slowed this year. 4 Job vacancies have fallen, and the ratio of vacancies to unemployment has returned to its pre-pandemic range.  The hiring and quits rates are now below the levels that prevailed in 2018 and 2019.  Nominal wage gains have moderated.  All told, labor market conditions are now less tight than just before the pandemic in 2019-a year when inflation ran below 2 percent.  It seems unlikely that the labor market will be a source of elevated inflationary pressures anytime soon.  We do not seek or welcome further cooling in labor market conditions.
+
+Overall, the economy continues to grow at a solid pace.  But the inflation and labor market data show an evolving situation.  The upside risks to inflation have diminished.  And the downside risks to employment have increased.  As we highlighted in our last FOMC statement, we are attentive to the risks to both sides of our dual mandate.
+
+The time has come for policy to adjust.  The direction of travel is clear, and the timing and pace of rate cuts will depend on incoming data, the evolving outlook, and the balance of risks.
+
+4 Payroll employment grew by an average of 170,000 per month over the three months ending in July.  On August 21, the Bureau of Labor Statistics released the preliminary estimate of the upcoming annual benchmark revision to the establishment survey data, which will be issued in February 2025.  The preliminary estimate indicates a downward adjustment to March 2024 total nonfarm employment of 818,000.
+
+We will do everything we can to support a strong labor market as we make further progress toward price stability.  With an appropriate dialing back of policy restraint, there is good reason to think that the economy will get back to 2 percent inflation while maintaining a strong labor market.  The current level of our policy rate gives us ample room to respond to any risks we may face, including the risk of unwelcome further weakening in labor market conditions.
+
+## The Rise and Fall of Inflation
+
+Let's now turn to the questions of why inflation rose, and why it has fallen so significantly even as unemployment has remained low.  There is a growing body of research on these questions, and this is a good time for this discussion. 5 It is, of course, too soon to make definitive assessments.  This period will be analyzed and debated long after we are gone.
+
+The arrival of the COVID-19 pandemic led quickly to shutdowns in economies around the world.  It was a time of radical uncertainty and severe downside risks.  As so often happens in times of crisis, Americans adapted and innovated.  Governments responded with extraordinary force, especially in the U.S.  Congress unanimously passed the CARES Act.  At the Fed, we used our powers to an unprecedented extent to stabilize the financial system and help stave off an economic depression.
+
+After a historically deep but brief recession, in mid-2020 the economy began to grow again.  As the risks of a severe, extended downturn receded, and as the economy
+
+5 Early examples include Ball, Leigh, and Mishra (2022) and di Giovanni and others (2022).  More recent work includes Benigno and Eggertsson (2023, 2024), Blanchard and Bernanke (2023, 2024), Crump and others (2024), Bai and others (2024), and Dao and others (forthcoming).
+
+reopened, we faced the risk of replaying the painfully slow recovery that followed the Global Financial Crisis.
+
+Congress delivered substantial additional fiscal support in late 2020 and again in early 2021.  Spending recovered strongly in the first half of 2021.  The ongoing pandemic shaped the pattern of the recovery.  Lingering concerns over COVID weighed on spending on in-person services.  But pent-up demand, stimulative policies, pandemic changes in work and leisure practices, and the additional savings associated with constrained services spending all contributed to a historic surge in consumer spending on goods.
+
+The pandemic also wreaked havoc on supply conditions.  Eight million people left the workforce at its onset, and the size of the labor force was still 4 million below its prepandemic level in early 2021.  The labor force would not return to its pre-pandemic trend until mid-2023 (figure 3). 6 Supply chains were snarled by a combination of lost workers, disrupted international trade linkages, and tectonic shifts in the composition and level of demand (figure 4).  Clearly, this was nothing like the slow recovery after the Global Financial Crisis.
+
+Enter inflation.  After running below target through 2020, inflation spiked in March and April 2021.  The initial burst of inflation was concentrated rather than broad based, with extremely large price increases for goods in short supply, such as motor
+
+6 The Federal Reserve Board staff's estimate of the labor force makes two adjustments to the Bureau of Labor Statistics' published estimates: (i) reweighing Current Population Survey respondents such that the labor force estimates in all years reflect the Census Bureau's latest vintage of population estimates; and (ii) accounting for net immigration that is likely not fully reflected in the Census Bureau's latest population estimates, as detailed in the CBO's 2024 Demographic Outlook (see
+
+https://www.cbo.gov/publication/59899).  The pre-pandemic trend described here is calculated by appending the CBO's January 2020 projected labor force growth from the start of the pandemic through 2024:Q2 onto the level of the labor force just before the start of the pandemic.  (See Congressional Budget Office (2020), The Budget and Economic Outlook: 2020 to 2030; https://www.cbo.gov/publication/56073.)
+
+vehicles.  My colleagues and I judged at the outset that these pandemic-related factors would not be persistent and, thus, that the sudden rise in inflation was likely to pass through fairly quickly without the need for a monetary policy response-in short, that the inflation would be transitory.  Standard thinking has long been that, as long as inflation expectations remain well anchored, it can be appropriate for central banks to look through a temporary rise in inflation. 7
+
+The good ship Transitory was a crowded one, with most mainstream analysts and advanced-economy central bankers on board. 8 The common expectation was that supply conditions would improve reasonably quickly, that the rapid recovery in demand would run its course, and that demand would rotate back from goods to services, bringing inflation down.
+
+For a time, the data were consistent with the transitory hypothesis.  Monthly readings for core inflation declined every month from April to September 2021, although progress came slower than expected (figure 5).  The case began to weaken around midyear, as was reflected in our communications.  Beginning in October, the data turned hard against the transitory hypothesis. 9 Inflation rose and broadened out from goods into
+
+7  For example, former Chair Ben Bernanke and Olivier Blanchard summarize the standard approach in their work on inflation the following way:  'Standard central banking doctrine holds that, so long as inflation expectations are reasonably well anchored, there is a case for 'looking through' temporary supply shocks rather than responding to the short-run increase in inflation' (Blanchard and Bernanke, 2024, p. 2).  Clarida (forthcoming) notes how central banks around the world faced a sharp rise in the relative price of goods and chose, at least initially, to accommodate the price pressures with an expected transitory increase in inflation.
+
+8  In the September 2021 Summary of Economic Projections (SEP), the median projection for headline inflation in 2022 was 2.2 percent.  In the August 2021 Survey of Professional Forecasters (the closest survey to the September SEP), the median projection for headline inflation in 2022 was also 2.2 percent. Projections from the Blue Chip survey were similar around this time.
+
+9 Beginning with the data for October, readings for monthly core PCE jumped to 0.4 percent or higher and inflationary pressures broadened out across goods and services categories.  And monthly job gains, already strong, were consistently revised higher over the second half of 2021.  Measures of wage inflation also accelerated.
+
+services.  It became clear that the high inflation was not transitory, and that it would require a strong policy response if inflation expectations were to remain well anchored. We recognized that and pivoted beginning in November.  Financial conditions began to tighten.  After phasing out our asset purchases, we lifted off in March 2022.
+
+By early 2022, headline inflation exceeded 6 percent, with core inflation above 5 percent.  New supply shocks appeared.  Russia's invasion of Ukraine led to a sharp increase in energy and commodity prices.  The improvements in supply conditions and rotation in demand from goods to services were taking much longer than expected, in part due to further COVID waves in the U.S. 10 And COVID continued to disrupt production globally, including through new and extended lockdowns in China. 11
+
+High rates of inflation were a global phenomenon, reflecting common experiences:  rapid increases in the demand for goods, strained supply chains, tight labor markets, and sharp hikes in commodity prices. 12 The global nature of inflation was unlike any period since the 1970s.  Back then, high inflation became entrenched-an outcome we were utterly committed to avoiding.
+
+By mid-2022, the labor market was extremely tight, with employment increasing by over 6½ million from the middle of 2021.  This increase in labor demand was met, in part, by workers rejoining the labor force as health concerns began to fade.  But labor supply remained constrained, and, in the summer of 2022, labor force participation
+
+10 For example, labor supply continued to be materially affected by COVID even after vaccines became broadly available in the U.S.  By late 2021, anticipated increases in labor force participation had not yet materialized, likely owing, in part, to the rise of the Delta and Omicron COVID variants. 11 For example, in March 2022, lockdowns were imposed in the Jilin province, the largest center for auto production.  Authorities also ramped up or extended restrictions in manufacturing hubs in the southeast and in Shanghai, where lockdowns had initially been scheduled to end in April 2022. The global nature of this inflationary episode is emphasized in Cascaldi-Garcia and others (2024) and
+
+12 Clarida (forthcoming), among others.
+
+remained well below pre-pandemic levels.  There were nearly twice as many job openings as unemployed persons from March 2022 through the end of the year, signaling a severe labor shortage (figure 6). 13 Inflation peaked at 7.1 percent in June 2022.
+
+At this podium two years ago, I discussed the possibility that addressing inflation could bring some pain in the form of higher unemployment and slower growth.  Some argued that getting inflation under control would require a recession and a lengthy period of high unemployment. 14 I expressed our unconditional commitment to fully restoring price stability and to keeping at it until the job is done.
+
+The FOMC did not flinch from carrying out our responsibilities, and our actions forcefully demonstrated our commitment to restoring price stability.  We raised our policy rate by 425 basis points in 2022 and another 100 basis points in 2023.  We have held our policy rate at its current restrictive level since July 2023 (figure 7).
+
+The summer of 2022 proved to be the peak of inflation.  The 4-1/2 percentage point decline in inflation from its peak two years ago has occurred in a context of low unemployment-a welcome and historically unusual result.
+
+How did inflation fall without a sharp rise in unemployment above its estimated natural rate?
+
+Pandemic-related distortions to supply and demand, as well as severe shocks to energy and commodity markets, were important drivers of high inflation, and their
+
+13 It has been argued that the natural rate of unemployment had risen, and that the unemployment rate was less informative about tightness in labor market than other measures such as those involving vacancies.  For example, see Crump and others (2024).  More generally, research has emphasized that the unemployment rate and the ratio of vacancies to unemployment often provide similar signals, but the signals differed in the pandemic period, and the ratio of vacancies to unemployment is a better overall indicator.  For example, see Ball, Leigh, and Mishra (2022) and Benigno and Eggertsson (2023, 2024). 14 For example, Ball, Leigh, and Mishra (2022) and Cecchetti and others (2023) present analyses
+
+emphasizing that disinflation would require economic slack.
+
+reversal has been a key part of the story of its decline.  The unwinding of these factors took much longer than expected but ultimately played a large role in the subsequent disinflation.  Our restrictive monetary policy contributed to a moderation in aggregate demand, which combined with improvements in aggregate supply to reduce inflationary pressures while allowing growth to continue at a healthy pace.  As labor demand also moderated, the historically high level of vacancies relative to unemployment has normalized primarily through a decline in vacancies, without sizable and disruptive layoffs, bringing the labor market to a state where it is no longer a source of inflationary pressures.
+
+A word on the critical importance of inflation expectations.  Standard economic models have long reflected the view that inflation will return to its objective when product and labor markets are balanced-without the need for economic slack-so long as inflation expectations are anchored at our objective.  That's what the models said, but the stability of longer-run inflation expectations since the 2000s had not been tested by a persistent burst of high inflation.  It was far from assured that the inflation anchor would hold.  Concerns over de-anchoring contributed to the view that disinflation would require slack in the economy and specifically in the labor market.  An important takeaway from recent experience is that anchored inflation expectations, reinforced by vigorous central bank actions, can facilitate disinflation without the need for slack.
+
+This narrative attributes much of the increase in inflation to an extraordinary collision between overheated and temporarily distorted demand and constrained supply. While researchers differ in their approaches and, to some extent, in their conclusions, a consensus seems to be emerging, which I see as attributing most of the rise in inflation to
+
+this collision. 15 All told, the healing from pandemic distortions, our efforts to moderate aggregate demand, and the anchoring of expectations have worked together to put inflation on what increasingly appears to be a sustainable path to our 2 percent objective.
+
+Disinflation while preserving labor market strength is only possible with anchored inflation expectations, which reflect the public's confidence that the central bank will bring about 2 percent inflation over time.  That confidence has been built over decades and reinforced by our actions.
+
+That is my assessment of events.  Your mileage may vary.
+
+## Conclusion
+
+Let me wrap up by emphasizing that the pandemic economy has proved to be unlike any other, and that there remains much to be learned from this extraordinary period.  Our Statement on Longer-Run Goals and Monetary Policy Strategy emphasizes our commitment to reviewing our principles and making appropriate adjustments through a thorough public review every five years.  As we begin this process later this year, we will be open to criticism and new ideas, while preserving the strengths of our framework. The limits of our knowledge-so clearly evident during the pandemic-demand humility and a questioning spirit focused on learning lessons from the past and applying them flexibly to our current challenges.
+
+15 Blanchard and Bernanke (2023) use a traditional (flexible) Phillips curve approach to reach this conclusion for the U.S.  Blanchard and Bernanke (2024) and Dao and others (forthcoming) examine a broader set of countries using similar approaches.  Di Giovanni and others (2022) and Bai and others (2024) use different techniques and emphasize supply constraints and shocks in the increase in inflation over 2021 and 2022.
+
+## References
+
+Aaronson, Stephanie R., Mary C. Daly, William L. Wascher, and David W. Wilcox (2019).  'Okun Revisited:  Who Benefits Most from a Strong Economy,' Finance and Economics Discussion Series 2019-072.  Washington:  Board of Governors of the Federal Reserve System, September, http://dx.doi.org/10.17016/FEDS.2019.072.
+
+Bai, Xiwen, Jesus Fernandez-Villaverde, Yiliang Li, and Francesco Zanetti (2024).  'The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes:  Evidence and Theory,' NBER Working Paper Series 32098. Cambridge, Mass.:  National Bureau of Economic Research, February, https://www.nber.org/papers/w32098.
+
+Ball, Laurence, Daniel Leigh, and Prachi Mishra (2022).  'Understanding US Inflation during the COVID-19 Era,' Brookings Papers on Economic Activity, Fall, pp. 154, https://www.brookings.edu/articles/understanding-u-s-inflation-during-thecovid-era.
+
+Benigno, Pierpaolo, and Gauti B. Eggertsson (2023).  'It's Baaack:  The Surge in Inflation in the 2020s and the Return of the Non-Linear Phillips Curve,' NBER Working Paper Series 31197.  Cambridge, Mass.:  National Bureau of Economic Research, April, https://www.nber.org/papers/w31197.
+
+--- (2024).  'Insights from the 2020s Inflation Surge:  A Tale of Two Curves,' paper presented at 'Reassessing the Effectiveness and Transmission of Monetary Policy,' a symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., August 22-24.
+
+Binetti, Alberto, Francesco Nuzzi, and Stefanie Stantcheva (2024).  'People's Understanding of Inflation,' NBER Working Paper Series 32497.  Cambridge, Mass.:  National Bureau of Economic Research, June, https://www.nber.org/papers/w32497.
+
+Blanchard, Olivier. J., and Ben S. Bernanke (2023).  'What Caused the US Pandemic-Era Inflation?' NBER Working Paper Series 31417.  Cambridge, Mass.:  National Bureau of Economic Research, June, http://www.nber.org/papers/w31417.
+
+--- (2024).  'An Analysis of Pandemic-Era Inflation in 11 Economies,' NBER Working Paper Series 32532.  Cambridge, Mass.:  National Bureau of Economic Research, May, http://www.nber.org/papers/w32532.
+
+Cascaldi-Garcia. Danilo, Luca Guerrieri, Matteo Iacoviello, and Michele Modugno (2024).  'Lessons from the Co-Movement of Inflation around the World,' FEDS Notes.  Washington:  Board of Governors of the Federal Reserve System, June 28, https://doi.org/10.17016/2380-7172.3543.
+
+Cecchetti, Stephen G., Michael E. Feroli, Peter Hooper, Frederic S. Mishkin, and Kermit L. Schoenholtz (2023).  'Managing Disinflations,' paper presented at the U.S. Monetary Policy Forum, New York, February 24.
+
+Clarida, Richard (forthcoming).  'A Global Perspective on Post Pandemic Inflation and its Retreat:  Remarks Prepared for NBER Conference on 'Inflation in the Covid Era',' Journal of Monetary Economics .
+
+Crump, Richard K., Stefano Eusepi, Marc Giannoni, and Ayşegül Şahin, (2024).  'The Unemployment-Inflation Trade-Off Revisited:  The Phillips Curve in COVID Times,' Journal of Monetary Economics, vol. 145, Supplement (July), 103580.
+
+Dao, Mai Chi, Pierre-Olivier Gourinchas, Daniel Leigh, and Prachi Mishra (forthcoming).  'Understanding the International Rise and Fall of Inflation since 2020,' Journal of Monetary Economics.
+
+- di Giovanni, Julian, Sebnem Kalemli-Ozcan, Alvaro Silva, and Muhammed A. Yildirim (2022).  'Global Supply Chain Pressures, International Trade, and Inflation,' NBER Working Paper Series 30240.  Cambridge, Mass.:  National Bureau of Economic Research, July, https://www.nber.org/papers/w30240.
+- Jaravel, Xavier (2021).  'Inflation Inequality:  Measurement, Causes, and Policy Implications,' Annual Review of Economics, vol. 13, pp. 599-629.
+
+Kaplan, Greg, and Sam Schulhofer-Wohl (2017).  'Inflation at the Household Level,' Journal of Monetary Economics, vol. 91 (November), pp. 19-38.
+
+Pfajfar, Damjan, and Fabian Winkler (2024).  'Households' Preferences over Inflation and Monetary Policy Tradeoffs,' Finance and Economics Discussion Series 2024-036.  Washington:  Board of Governors of the Federal Reserve System, May, https://doi.org/10.17016/FEDS.2024.036.
+
+Shiller, Robert J. (1997).  'Why Do People Dislike Inflation?' in Christina D. Romer and David H. Romer, eds., Reducing Inflation:  Motivation and Strategy. Chicago: University of Chicago Press, pp. 13-65.
+
+Stantcheva, Stefanie (2024).  'Why Do We Dislike Inflation?' NBER Working Paper Series 32300.  Cambridge, Mass.:  National Bureau of Economic Research, April, https://www.nber.org/papers/w32300.
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+## Figure 1
+
+## Personal Consumption Expenditures Price Index
+
+
+
+Note: The data are monthly and extend through July 2024. The data for July 2024 are estimates based on consumer price index and producer price index data. The outlined shaded bar indicates a period of business recession as defined by the National Bureau of Economic Research: February 2020-April 2020. PCE is personal consumption expenditures. The dashed line is at the 2 percent longer-run inflation target.
+
+Source: Bureau of Economic Analysis, PCE, via Haver Analytics.
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+## Figure 2
+
+
+
+Source: Bureau of Labor Statistics via Haver Analytics.
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+## Hiring and Quits Rates
+
+Source: Bureau of Labor Statistics via Haver Analytics.
+
+
+
+172
+
+170
+
+168
+
+166
+
+164
+
+162
+
+160
+
+158
+
+## Civilian Labor Force
+
+
+
+Note:  Quarterly and seasonally adjusted data extending through 2024:Q2.  The black line is a Federal Reserve Board staff estimate of the labor force, making two adjustments to the Bureau of Labor Statistics' published estimates: (i) reweighing Current Population Survey respondents such that the labor force estimates in all years reflect the Census Bureau's latest population estimates; and (ii) accounting for net immigration that is likely not fully reflected in the Census Bureau's latest population estimates, as detailed in the Congressional Budget Office's (CBO)                                                            https://www.cbo.gov/publication/59899. The pre-pandemic trend is calculated by appending the CBO's January 2020 projected labor force growth from the start of the pandemic through 2024:Q2 onto the level of the labor force just before the start of the pandemic. The outlined shaded bar indicates a period of business recession as defined by the National Bureau of Economic Research: February 2020-April 2020. The Demographic Outlook: 2024 to 2054,
+
+Source: Bureau of Labor Statistics via Haver Analytics; CBO; Federal Reserve Board staff calculations.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+## Figure 4
+
+## Global Supply Chain Pressure Index
+
+
+
+Note: The data are monthly and extend through July 2024. The index is presented as the number of standard deviations from its average value. The outlined shaded bar indicates a period of business recession as defined by the National Bureau of Economic Research: February 2020-April 2020.
+
+Source: Federal Reserve Bank of New York.
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+-0.0
+
+-0.1
+
+-0.2
+
+-0.3
+
+-0.4
+
+## Core PCE Prices
+
+
+
+Note: The data are monthly and extend through December 2021. PCE is personal consumption expenditures. The gray outlined shaded bar indicates a period of business recession as defined by the National Bureau of Economic Research: February 2020April 2020. The light-green outlined shaded region highlights the period from April 2021 to September 2021.
+
+Source: Bureau of Economic Analysis, PCE, via Haver Analytics.
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+## Job Openings to Unemployment
+
+
+
+Note: The data are monthly and extend through July 2024. The ratio is calculated as the JOLTS (Job Openings and Labor Turnover Survey) job openings at the end of the previous month divided by current-month unemployed. The outlined shaded bar indicates a period of business recession as defined by the National Bureau of Economic Research: February 2020-April 2020. Source: Bureau of Labor Statistics via Haver Analytics.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Figure 7
+
+## Midpoint of the Target Range for the Federal Funds Rate
+
+
+
+Note: The data are daily and extend through August 22, 2024. The outlined shaded bar indicates a period of business recession as defined by the National Bureau of Economic Research: February 2020-April 2020.
+
+Source: Federal Reserve Board.

@@ -1,0 +1,132 @@
+Haruhiko Kuroda: Haruhiko Kuroda: Deflation, the labor market, and QQE
+2014-08-23
+
+## Haruhiko Kuroda: Deflation, the labor market, and QQE
+
+Remarks by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the Federal Reserve Bank of Kansas City Economic Symposium, Jackson Hole, Wyoming, 23 August 2014.
+
+*      *      *
+
+## Introduction
+
+I am honored to have been invited to this policy symposium hosted by the Federal Reserve Bank of Kansas City.
+
+One of the key topics of the symposium is the cyclical and structural effects of the global financial crisis and the recovery from the crisis on the labor market in each country. To talk about Japan's experience in this regard, however, I have to take you back to long before the crisis. Almost a quarter of a century ago, at the beginning of the 1990s, Japan suffered the burst of a major asset bubble, forcing firms and financial institutions to repair their balance sheets, which had been substantially impaired. From the second half of the 1990s, Japan experienced  about  15  years  of  deflation.  At  the  same  time,  Japan  experienced  rapid population aging at a pace that put it ahead of other countries. What problems have these developments  given  rise  to  in  Japan's  labor  market?  How  is  Japan  overcoming  these problems and where is Japan's economy headed? These are the issues I would like to talk about.
+
+## I. The labor market under deflation
+
+The unemployment rate in Japan is now 3.7 percent. That means it has fallen to the level of the structural unemployment rate, which is estimated to be around 3.5 percent (Chart 1). The number of discouraged workers and hence what can be called hidden unemployment has also been decreasing. According to a business survey conducted by the Bank of Japan, the number  of  firms  suffering  from  a  shortage  of  workers  has  been  exceeding  that  of  firms suffering  from  an  excess  of  workers  (Chart  2).  In  fact,  in  some  industries,  a  shortage  of workers  is  now  acting  as  a  constraint  on  firms  seeking  to  expand  their  business.  This situation is quite different from that in the United States and Europe, where unemployment is the problem.
+
+However, this does not mean that all is well and there are no concerns regarding Japan's labor market. Although Japan's labor market is now on its way to escape from the problems brought  about  by  the  aforementioned  balance  sheet  adjustments  and  prolonged  deflation, there still remain important challenges to be addressed. In what follows, let me share with you  Japan's  experience  concerning  changes  in  the  labor  market  brought  about  by  the protracted deflation and their macroeconomic consequences.
+
+In  the  2000s,  reflecting  increasing  deflationary  pressure,  firms  were  unable  to  raise  sales prices. Faced with stagnant sales, firms resorted to cutting expenses, including labor costs, to secure profits. Efforts to restrain labor costs first took the form of a shift to the use of nonregular employees. The share of part-time workers in total employees consistently increased in the 1990s following the burst of the asset bubble at the beginning of the decade, and the increase continued unabated in the 2000s (Chart 3). Efforts to restrain labor costs also took the form of restraining wages. Wages of non-regular employees are largely determined on an ad hoc basis and fluctuate reflecting changes in supply and demand conditions. By contrast, wages for regular employees are largely determined based on long-term implicit contracts. In the  face  of  protracted  deflation  and  severe  labor  conditions,  employees  were  put  at  a disadvantage and accepted employers' demand to reduce wages rather than lose their job. Thus, unlike in the United States and Europe, where unemployment tends to increase during a  recession,  in  Japan  unemployment  did  not  increase  substantially,  but  instead  wages declined  considerably.  The  year-on-year  rate  of  change  in  wages  was  above  that  in  the
+
+consumer price index (CPI) until the late 1990s, but has generally been below it since then (Chart 4). Consequently, on a macro basis, Japan's labor share declined noticeably in the 2000s.  Although  the  labor  share  fluctuated  considerably  during  and  immediately  after  the global financial crisis, the average for the decade was lower than that for the 1990s (Chart 5).
+
+Furthermore,  deflation  significantly  affected  firms'  investment  behavior.  The  prospect  of deflation  reduced  the  discounted  present  value  of  investment  returns  and  lowered  firms' investment appetite. In addition, it led firms to hoard cash to prepare for potential losses in the future. As a result, firms, which used to be net investors, turned into net savers and have stayed  in  that  position  (Chart  6).  Following  the  burst  of  the  asset  bubble,  Japanese  firms were forced to save in order to reduce excess debt. However, they continued to save even after the excess debt problem had been resolved in the 2000s. Particularly in recent years, net saving in the corporate sector has become much larger than net saving in the household sector.
+
+This  change  of  firms  into  net  savers  has  thrown  the  economy  into  a  contractionary equilibrium through the paradox of thrift .  If  firms  use  profits  obtained  through wage cuts to build  up  internal  funds  rather  than  for  investment,  aggregate  demand  in  the  economy  will shrink.  And since  a  decline  in  aggregate  demand  will  lower  corporate  profits,  firms  will  be forced  to  cut  wages  further.  This  is  a  typical  example  of  the fallacy  of  composition .  The vicious cycle of declining wages and declining aggregate demand was initially set in motion by  the  balance  sheet  adjustments  following  the  burst  of  the  asset  bubble,  but  it  became entrenched due to the spread of deflationary sentiment.
+
+## II. Quantitative and qualitative monetary easing and the labor market
+
+Let me now turn to how Japan is in the process of escaping from this state of contractionary equilibrium.  If  uncertainty  and  concern  over  the  future  were  the  cause  of  the  decline  in wages,  then  for  wages  to  rise,  it  is  necessary  that  both  employers  and  employees  see brighter prospects for the future. Therefore, the first step is to change Japan's economy from one suffering from stagnation under deflation to one that grows sustainably under moderate inflation.  In  this  regard,  the  Bank  of  Japan's  quantitative  and  qualitative  monetary  easing (QQE),  which  I  explained  in  detail  at  this  symposium  last  year,  has  been  producing  its intended effects. And as a result of these effects, Japan's labor market situation has shown improvement, as mentioned earlier.
+
+However, closer inspection shows that the Japanese labor market still suffers from some of the  problems  that  arose  during  the  period  of  deflation.  For  example,  there  has  been  no reversal  in  the  growing  reliance  on  part-time  workers.  In  fact,  the  recent  increase  in  the number of workers is due mainly to an increase in the number of part-time workers (Chart 7). In general, in the early stages of economic recovery, it is demand for marginal workers such as part-time workers that increases first. In addition, the current economic recovery is led by the  nonmanufacturing  sector,  where  the  share  of  part-time  workers  is  higher  than  in  the manufacturing  sector.  Furthermore,  the  continuing  shift  to  a  service  economy  means  that demand for part-time workers has increased over time. That being said, most recently, there has  been  an  acceleration  in  the  increase  in  the  number  of  full-time  workers,  which  is  a welcome sign. This shift from growing demand for marginal labor such as part-time workers to  growing  demand  for  permanent  workers  suggests  that  firms'  growth  prospects  have started  to  improve.  If  economic  growth  is  sustained  and  thus  underpins  firms'  growth prospects,  Japan  is  likely  to  experience  a  full-fledged  increase  in  the  number  of  full-time workers.
+
+A  more  troublesome  problem  is  that  wage-setting  practices  have  changed  during  the prolonged  period  of  deflation.  Because  of  low  labor  mobility  due  to  relatively  widespread lifetime  employment,  wages  of  regular  employees  in  Japan  tend  to  reflect  labor  market conditions only insufficiently, at least in the short term. Therefore, some kind of mechanism, a 'visible hand,' is necessary for wages to rise. Prior to the period of deflation, the so-called
+
+spring  offensive of  the  practice  of  simultaneous  wage  negotiations  between  management and  labor  at  major  firms  in  spring  served  as  such  a  mechanism  for  negotiating  wage increases.  However,  as  deflation  continued,  this  mechanism  stopped  working  effectively. That is, firms needed to cut wages in order to reduce costs against the background of falling prices,  while  it  was  rational  for  workers  to  accept  a  decline  in  wages  in  exchange  for  job guarantees. As a result, in the past decade or so, the practice of raising base wages through the spring offensive had more or less disappeared.
+
+This spring,  however, has seen increases in base wages and/or bonuses not only among large  firms  but  also  among  small  and  medium  enterprises,  partly  reflecting  calls  by  the government. For wages to increase at an appropriate pace in the future, it is necessary to have  some  kind  of  coordination  mechanism  to  bring  about  wage  increases.  In  such  a mechanism, the Bank of Japan's price stability target can serve as a benchmark for firms in their  wage  setting.  That  is,  once  the  Bank  has  succeeded  in  firmly  anchoring  inflation expectations at 2 percent, this could provide the basis on which wage negotiations between management and labor are conducted. Firms and households can then base their economic decisions firmly on the expectation that prices will rise at a rate of around 2 percent. Thus, creating  an  appropriate  wage-setting  mechanism  plays  an  important  part  in  anchoring inflation expectations at 2 percent.
+
+## Concluding remarks
+
+I have so far talked about the effects of balance sheet adjustments and deflation on the labor market,  but  there  is  one  topic  I  have  yet  to  touch  on.  This  is  an  issue  that  concerns  the supply of labor, namely, demographic changes. Reflecting the aging of Japan's population, the labor force participation rate has been on a downtrend, and serious labor shortages are likely  to  emerge in the future. The downtrend in the labor force participation rate is due to Japan's demographic composition and therefore does not come as a surprise. However, until recently, this did not manifest itself in the form of labor shortages, since labor demand has been sluggish, so that the problem was not sufficiently addressed. Fortunately, during the current economic recovery, labor force participation rates, in particular those of women and the elderly, have been rising (Chart 8). It is critical to ensure that this phenomenon is not a cyclical  one,  but  becomes permanent by creating a work environment favorable to women and  the  elderly  in  order  to  mitigate  labor  force  shortages  over  time.  Utilization  of  foreign workers  also  deserves  consideration.  Another  way  to  mitigate  future  labor  shortages  is  to prompt  investment  in  labor-saving  technology  and  research  and  development  for  such investment.  All  of  these  issues  are  incorporated  in  the  government's  growth  strategy.  If, despite the delays, the strategy is implemented in a steady fashion, Japan's economy will regain its vitality and achieve sustained growth.
+
+I  have  talked  about  Japan's  labor  market,  focusing  on  the  effects  of  balance  sheet adjustments, deflation, and demographic changes. While some of these problems are unique to Japan, the issues I discussed may nevertheless be of relevance for the challenges faced by other countries today or in the future. I hope that Japan's experience can provide a helpful reference in this regard.
+
+Thank you for your attention.
+
+## Labor Market
+
+
+
+Note: The structural unemployment rate is defined as the level of the unemployment rate where the number of vacancies (estimation by the Research and Statistics Department, Bank of Japan). It captures frictional unemployment and unemployment caused by the mismatch between supply and demand in the labor market.
+
+Sources: Ministry of Internal Affairs and Communications: Ministry of Health. Labour and Welfare.
+
+## Chart 2
+
+## Employment Conditions DI
+
+
+
+Source: Bank of Japan.
+
+## Share of Part-time Workers in Total Employees
+
+
+
+Note: is
+
+Source:
+
+The figure for 2014 the Jan-Jun. average (seasonally adjusted). Ministry of Health. Labour and Welfare.
+
+## Wages and Prices
+
+
+
+- Notes: 1. Q1=March-May, Q2 = June-August, Q3 = September-November. Q4 = December-February. 2. Figures for 2014/Q2 are those of June.
+
+Sources: Ministry of Health, Labour and Welfare; Ministry of Intemal Affairs and Commmnications.
+
+3. Figures for CPI are calculated to adjust the direct effects of the consumption tax hike.
+
+## Chart 4
+
+## Labor Share
+
+
+
+CY
+
+96
+
+99
+
+00
+
+04
+
+06
+
+08
+
+09
+
+Note: Labor share = compensation of employees / nominal GDP x 100 Source: Cabinet Office.
+
+## Chart 6
+
+## Investment-Saving Balance
+
+
+
+Source: Cabinet Office.
+
+## Number of Part-time and Full-time Workers
+
+
+
+## Chart 8
+
+## Labor Force Participation Rate
+
+
+
+
+
+44
+
+Note: Figures are year-on-year changes from 2012 to 2013. Source: Ministry of Internal Affairs and Commmnications.

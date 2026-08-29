@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F4-cpi-friday-2022",
+  "asof": "2022-05-31",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_statement_20211215",
+      "timestamp": "2021-12-15",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "fomc_statement_20211215.txt"
+    },
+    {
+      "doc_id": "beige_book-2022-04-30",
+      "timestamp": "2022-04-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202204.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2022-05-04",
+      "timestamp": "2022-05-04",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20220504.txt"
+    },
+    {
+      "doc_id": "macro_release-2022-05-11",
+      "timestamp": "2022-05-11",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2022-05-11.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20220504",
+      "timestamp": "2022-05-25",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20220504_released_2022-05-25.txt",
+      "note": "minutes of the 20220504 meeting, public release 2022-05-25"
+    }
+  ]
+}

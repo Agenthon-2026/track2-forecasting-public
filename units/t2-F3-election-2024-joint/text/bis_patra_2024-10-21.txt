@@ -1,0 +1,168 @@
+Michael Debabrata Patra: Michael Debabrata Patra: Recalibrating from divergence to convergence - the Indian experience
+2024-10-21
+
+## Recalibrating from Divergence to Convergence: The Indian
+
+## Experience 1
+
+Good morning to you all!
+
+In the Indian tradition, Namaskar , which means I salute the divinity in you.
+
+It is always fulfilling to be here at the Annual Central Banking Seminar of the Federal Reserve Bank of New York. Over the years the seminar has become a landmark forum for the intermingling and cross-fertilisation of ideas and experiences among central bankers from all over the world. It is no wonder, therefore, that it has come to be regarded as a favoured stamping ground where practitioners of the profession rub shoulders and learn from each other about the 'soiling of the hands' in topically relevant issues in central banking.
+
+I  am  grateful  to  Dr.  Narahari  Phatak,  Head  of  International  Policy  and Strategy at the New York Fed - Hari - for inviting me to this year's seminar. When Hari reached out to me in July, the world was characterised by considerable differentiation in the macroeconomic  pathways  being charted in different jurisdictions. Hence the defining feature of the conduct of  monetary  policy  by  central  banks  at  that  time  was  divergence, motivating  the  choice  of  the  theme  of  this  year's  seminar.  Since  then, however, much water has flown underneath the bridge and the world has changed  in  fundamental  ways.  After  the  US  Federal  Open  Market
+
+1  Inaugural  Address  delivered  by  Michael  Debabrata  Patra,  Deputy  Governor, Reserve Bank of India (RBI) at the New York Fed Central Banking Seminar organised by the Federal Reserve Bank, New York, on October 21, 2024 at New York, USA. Valuable comments received from Binod B Bhoi, Harendra Behera, Bhanu Pratap, Subrat  Seet,  Sujata  Kundu,  Dhirendra  Gajbhiye,  Sangeeta  Mathews,  Sneharthi Gayen, Asish Thomas George, and editorial help from Vineet Kumar Srivastava are gratefully acknowledged.
+
+Committee (FOMC) began its rate cutting cycle aggressively on September 18 th  this year, preceded by the second rate cut of the year by the European Central Bank (ECB) and followed by a fusillade of stimulus measures  by  China,  convergence  has  become  the  dominant  theme, barring some holdouts as in Japan, Brazil and Russia. Hence, I chose 'Recalibrating  from  Divergence  to  Convergence'  as  the  theme  of  my address under which I propose to share with you some aspects of the Indian experience (please see the Annex for relevant charts and tables).
+
+## II. Shock and Awe
+
+The world is awash in an ocean of uncertainty, whipped up by hurricanes in the form of geopolitical conflict, geoeconomic fragmentation, financial market volatility, and overall policy uncertainty, including political spillovers during  the  Great  Election  year  when  more  than  half  of  the  world's population faces the ballot box. Financial markets continue to front run and second guess central banks on the size and timing of policy pivots and their consequences.
+
+Frenzy rose to a flash point on August 5 th  following the rate hike by the Bank of Japan on July 31 st  and the release of US non-farm payrolls data on August 2 nd . A blood bath reminiscent of Black Monday of 1987 was unleashed  across  financial  markets  worldwide  as  Yen  carry  trade unwound. The fear gauge - the CBOE 2  Volatility Index or VIX - jumped more than 50 per cent, to its highest level since 2020.
+
+Once again, on a single data release on September 3 rd  - the US Institute of  Supply  Management  (US  ISM)  manufacturing  index  -  recessionary fears resurfaced, setting off a rout in US equity markets that quickly spread to Asia and Europe. Thus, markets are recalibrating albeit in a disorderly
+
+2  The Chicago Board of Options Exchange.
+
+manner - from divergence to convergence. Every incoming data seems to be dispelling the gathering good feeling of soft landing and sparking fears of a jarring end to disinflationary monetary policy. Overall, however, markets have demonstrated substantial resilience. The speed of recovery from  the  shocks  I  described  has  been  remarkable.  Magnitudes  of exchange rate changes were not outsized compared to past episodes. It is  estimated  that  about  half  or  US$  250  billion  of Yen  carry  trade  was unwound 3 .  Leveraged  positions  have  been  rebuilt.  Risk  taking  has resumed,  although  the  widening  of  the  conflict  in  the  Middle  East  in October has depressed equity market sentiment and pushed  up commodity prices, especially of gold and crude oil.
+
+## III. Assessing Global Risks:
+
+## III.1. Geopolitical Stress, Trade and Overall Policy Uncertainty
+
+In the Reserve Bank of India, we closely monitor global risks through: (1) the  Geopolitical  Risk  (GPR)  Index 4 ,  which  tracks  adverse  geopolitical events through newspaper articles; (2) the Trade Policy Uncertainty (TPU) Index 5 ,  which  covers  the  frequency  of  articles  mentioning  trade  policy uncertainty and heightened trade tensions; and (3) the Global Economic Policy Uncertainty (GEPU) Index, which is a GDP-weighted average of national EPU indices for 21 countries representing about 71 per cent of global output on a PPP-adjusted basis and roughly 80 per cent at market
+
+3  https://www.ft.com/content/c6596fdd-d184-4dee-b6ff-f70c7081003a
+
+4   Caldara,  D.,  and  Lacoviello,  M.  (2022).  Measuring  Geopolitical  Risk. American Economic Review , 112(4), 1194-1225.
+
+5 Caldara,  D.,  Lacoviello,  M.,  Molligo,  P.,  Prestipino, A.,  and  Raffo, A.  (2020). The Economic Effects of Trade Policy Uncertainty. Journal of Monetary Economics , 109, 38-59.
+
+exchange rates 6 . The GEPU Index gauges the impact of policy-related uncertainty on global economic activity.
+
+These indices 7 collectively provide insights into how uncertainty stemming from  trade,  geopolitical  events  and  economic  policy  measures  can influence economic conditions globally which can potentially spillover to influence macroeconomic and financial conditions in India.
+
+As of  mid-2024,  the  GEPU  Index  remains  elevated,  reflecting  ongoing concerns about economic policies worldwide. The TPU Index has also been  rising  since  November  2023,  particularly  influenced  by  trade tensions and policy changes among major economies. Meanwhile, the GPR Index points to significant global risks, with recent increases driven by ongoing conflicts.
+
+Tensions  in  the  Middle  East  have  disrupted  trade  through  one  of  the critical shipping routes - the Suez Canal (shortest shipping route between Europe  and Asia). About  15  per  cent  of  global  maritime  trade  volume normally  passes  through  the  Suez  Canal.  Instead,  several  shipping companies  have  diverted  their  ships  around  the  Cape  of  Good  Hope, which  has  increased  delivery  times  by  10  days  or  more,  on  average. These  disruptions  have  also  led  to  higher  freight  rates  across  major shipping routes, such as the China-Europe and China-US West Coast, which have gone up by 3 times over their pre-pandemic levels.
+
+6 Each national EPU index measures the frequency of newspaper articles discussing economic policy uncertainty, normalized to a mean of 100 from 1997 to 2015. Please see Baker, S. R., Bloom, N., and Davis, S. J. (2016). Measuring Economic Policy Uncertainty. The Quarterly Journal of Economics , 131(4), 1593-1636.
+
+7  All these indices are hosted by https://www.policyuncertainty.com/
+
+## III.2. Global Financial Conditions
+
+The  global  financial  conditions  index  (GFCI)  represents  the  cost  and availability of credit in the global financial system 8 . The GFCI captures the co-movement of common latent factors in credit spreads, asset prices and volatility across money, bond, and equity markets - they tend to move in tandem during stress periods.
+
+The GFCI vividly captures the tight financial conditions witnessed during the  global  financial  crisis  of  2008-09,  the  Eurozone  debt  crisis  during 2011-12  and  the  recent  experience  during  the  COVID-19  pandemic. Interestingly, unlike previous episodes, tighter financial conditions during the  COVID-19  Pandemic  and  the  Russia-Ukraine  War  were  reversed quickly, reflecting synchronous monetary policy actions.
+
+## III.3. Financial Market Spillovers
+
+Global spillovers  are  typically  transmitted  to  India  through  the  financial market channel, mainly in equity and currency segments. Hence, volatility spillovers  in  these  market  segments  are  tracked  through  time-varying indices  constructed  by  using  high-frequency  data  on  21  major  equity markets and 22 major currencies (measured against the US dollar), based on the Diebold-Yilmaz connectedness approach (2009; 2012) 9 . The path of the indices is shown by the thick lines ( i.e., median) while the shaded region  around  the  indices  represents  the  range  of  spillovers  across
+
+8  The index is constructed as a Z-score, such that a positive value represents tranquil times underlined by easy financial conditions i.e. ,  low  cost  and  easy  availability  of funding, while a negative value indicates tight financial conditions.
+
+9  Diebold, F. X., and Yilmaz, K. (2009). Measuring financial asset return and volatility spillovers, with application to global equity markets. The Economic Journal , 119 (534), 158-171.
+
+- Diebold,  F.  X.,  and  Yilmaz,  K.  (2012).  Better  to  give  than  to  receive:  Predictive directional measurement of volatility spillovers. International Journal of forecasting , 28 (1), 57-66.
+
+markets. For instance, global volatility spillovers across both equity and currency market segments reached unprecedented highs during 2020 as the COVID-19 pandemic unfolded across the world; and again from 2022 with the Russia-Ukraine war.
+
+## IV. Implications for India
+
+## IV.1. Economic Policy Uncertainty
+
+Drawing  on  these  global  indices,  a  novel  text  mining-based  policy uncertainty  index  for  India  has  been  constructed  and  updated  by economists in the Reserve Bank of India. The index uses internet search data from Google Trends to construct a measure of policy uncertainty due to both domestic and global events. The index is updated in real time 10 .
+
+Applying a one standard deviation shock to the index in a structural vector autoregression (SVAR) framework on quarterly data for India produces an interesting result. In the case of advanced economies such as the US, research suggests that uncertainty shocks lead to lower output and lower prices 11 . In the Indian context, however, uncertainty shocks tend to mimic aggregate supply shocks such that heightened uncertainty leads to slower growth but higher inflation. These results have been confirmed by multiple studies  using  different  measures  and  identification  approaches 12 .  This
+
+10   When faced with heightened uncertainty, it is typical of economic agents to 'search' for  more  information.  The  Google  Trends-based  uncertainty  index  (India-GUI) leverages  this  behaviour  to  measure  overall  uncertainty  by  using  internet  search volumes for a list of keywords pertaining to fiscal, monetary and trade policy in India. The policy-related keywords are curated, based on mentions in central bank policy statements as well as coverage in the financial press. For more details, please see Pratap,  B.,  and  Priyaranjan,  N.  (2023).  Macroeconomic  Effects  of  Uncertainty:  a Google trends-based Analysis for India. Empirical Economics , 65 (4), 1599-1625.
+
+11   Leduc, S., and Liu, Z. (2016). Uncertainty Shocks are Aggregate Demand Shocks. Journal  of  Monetary  Economics, 82,  20-35;  Kumar, A.,  Mallick,  S.,  and  Sinha, A. (2021). Is Uncertainty the Same Everywhere? Advanced versus Emerging Economies. Economic Modelling , 101, 105524.
+
+12  Pratap, B., and Priyaranjan, N. (2023), op cit .
+
+presents a dilemma for monetary policy: tighten to control high inflation or ease to respond to lower growth!
+
+## IV.2. Supply Chain Pressures
+
+The  Global  Supply  Chain  Pressure  Index  (GSCPI),  developed  by  the Federal Reserve Bank of New York integrating over 27 variables, has also been found relevant for Indian conditions. We have developed an Index of Supply Chain Pressures for India (ISPI) - based on the methodology used in the GSCPI - to track supply chain pressures impacting India by extracting common factors from 19 domestic and global variables. The ISPI efficiently predicts industrial production and GDP and serves as a lead indicator for export volumes and inflation - Supply chain pressures impact growth in industrial production and core inflation with lags.
+
+After witnessing significant spikes in the post-pandemic and post-Ukraine war  periods,  both  global  and  domestic  supply  chain  pressures  have hovered around normal or less than normal levels since early 2023. Their relative  softness  has  played  a  key  role  in  the  ebbing  of  inflation  both globally and in India.
+
+## IV.3. Geoeconomic Fragmentation and Trade Flows
+
+Global uncertainty also impinges on world trade volume growth.  Growth in India's merchandise exports and imports volume has been negatively impacted during episodes of rising geopolitical risk, especially since the start of the Russia-Ukraine war in February 2022 and the rise of Middle East tensions since October 2023. India's merchandise exports, on an average, recorded a negative growth of 1.4 per cent during 2023-25 (up to September 2024).
+
+## IV.4. Capital Flows at Risk Analysis
+
+Amidst  global  uncertainties,  capital  flows  to  India  have  been  relatively robust, driven by equity flows. With the inclusion of Indian government bonds in global bond indices, debt flows have also improved.
+
+The capital flows at risk (CaR) approach is a useful indicator to gauge the magnitude of expected capital outflows in response to specific shocks 13 . The kernel  density  function  or  distribution  of  capital  flows  over  time  in response to push and pull factors shows that in normal times, the chances of capital flight from India are negligible in view of strong pull factors. A shock to the US CBOE VIX mimicing the global financial crises makes the distribution of capital flows flatter and increases the tails of the distribution. This indicates higher probability of capital outflows in the occurrence of high intensity tail risk events such as the GFC.
+
+The estimated tail risks (CaR at 5 per cent) to capital flows in case of India are found to be high and they match with the actual capital outflows during the GFC and the taper tantrum periods. This analysis helps us to make a realistic assessment of the adequacy of reserves.
+
+## IV.5. Financial Market Volatility Spillovers and Spillbacks
+
+Time-varying  measures  of  net  volatility  spillovers  to  Indian  equity  and currency markets from the rest of the world show that on a net basis, as with  any  other  emerging  market  economy,  India  tends  to  be  at  the
+
+13  In this framework, first, a link between different quantiles of capital flows and their drivers is established by using a quantile regression to predict capital flows for various quantiles.  In  the  second  step,  the  predicted  capital  flows  are  used  to  obtain  the empirical  distribution  of  future  capital  flows.  The  risks  to  capital  flows  are  then quantified by estimating the size of outflows for a given probability ( i.e., usually at 5 per cent) from the empirical distribution. The predicted capital flows of lower and higher quantiles show the dynamics of CaR over time. For details, please refer to Patra, M.D., Behera,  H.,  and  Muduli,  S.  (2022).  Capital  Flows  at  Risk:  India's  Experience. RBI Bulletin , June.
+
+receiving  end  of  global  risk  externalities 14 .  These  spillovers  became heightened in the aftermath of the COVID-19 pandemic and the breakout of  the  Russia-Ukraine  war.  More  recently,  divergent  monetary  policies have produced less severe spillovers to equity markets, but they remained significant  in  the  currency  market.  Instances  of  'spillbacks'  -  India transmitting volatility to the rest of the world - remain rare.
+
+## IV.6. Global Events and Financial System Stress
+
+We also compile a financial system stress indicator (FSSI) to monitor the aggregate stress level in the Indian financial system. The FSSI features risk factors pertaining to five financial market segments - equity; foreign exchange; money; government debt; and corporate debt markets - and three  groups  of  financial  intermediary  segments  -  banks;  non-bank financial companies (NBFCs); and mutual funds 15 . It also features a real sector component encompassing real variables that have a bearing on financial stability due to their strong interlinkages with the financial sector. In all, 39 risk factors spread across nine markets/sectors are considered. The FSSI aims to (a) identify periods of stress; (b) assess the intensity
+
+14 While negative values of the measure indicate that India 'receives' spillovers from the rest of the world; positive values highlight that India 'transmits' volatility to the rest of the world. Please refer to Gupta, R. K., Pratap B., Raut S., and Sonna, T. (2024). Measuring Inter-Connectedness between Global Financial Markets: A Study for India. RBI Monthly Bulletin , Reserve Bank of India (forthcoming).
+
+as
+
+15 Risk factors are normalised by the min-max method by converting into variables which are unit free AND measured on an ordinal scale between zero and unity. The transformed  risk  factors  for  each  market/sector  are  aggregated  BY  using  equal weights into a sub-indicator 'yi' representing the i th  market/ sector. The composite FSSI is  computed by aggregating the sub-indicators, again based on the equal variance weighted average method, where the weight 'wi ' of each sub-indicator 'yi ' is inversely proportional to its sample standard deviation 'si' and is determined 𝑤𝑤 𝑖𝑖 = 1 𝑠𝑠𝑠𝑠 ∑ � 1 𝑠𝑠𝑠𝑠 � 9 𝑠𝑠=1 . The composite FSSI is obtained as 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑡𝑡 = ∑ 𝑤𝑤 𝑖𝑖 𝑦𝑦 𝑖𝑖𝑡𝑡 9 𝑖𝑖=1 . Higher valueS of FSSI indicates more stress [See Box 1.1: Financial System Stress Indicator, Financial Stability Report, December 2022, RBI for details].
+
+and duration of stress in the financial system; and (c) gauge the ability of financial markets and intermediaries to withstand shocks and imbalances. The FSSI has tracked major stress events in the past. As per the latest FSSI update, India has witnessed a consistent decline in financial system stress since the Russia-Ukraine conflict.
+
+## V. Outlook for India
+
+## V.1. Growth
+
+Against this backdrop, let me turn to the outlook for the Indian economy. We believe that the best defence against global risks is to strengthen the macroeconomic fundamentals and build adequate buffers, supported by prudent macroeconomic policies.
+
+As  Victor  Hugo,  the  celebrated  French  writer,  famously  said:  there  is nothing more powerful than an idea whose time has come. Taking a cue from  that  influential  remark,  I  do  believe  with  all  the  strength  of  my conviction that India's time has come. India heads into its future with the youngest population in the world with a median age of 28 years. Unlike in many parts of the world, the working age population is growing - every sixth  working  age  person  is  an  Indian.  Since  independence  in  1947, India's  growth  path  has  undergone  three  structural  shifts  with  trend growth,  having  risen  to  7  per  cent  during  2002-2019. After  the  severe contraction in the pandemic, a new growth trajectory averaging 8 per cent seems to be forming during 2021-24. India is now regarded as the fastest growing major economy in the world. Already the fifth largest economy in terms of market exchange rates, it is poised to become the third largest economy by 2030.
+
+It is already the third largest economy in terms of purchasing power parity. Our projections show that India's real GDP growth will be 7.2 per cent in 2024-25 and around 7.0 per cent in 2025-26 in a cyclical correction to the
+
+rebound from the pandemic. Thereafter, there is a strong likelihood that India's growth will revert to the 8 per cent trend.
+
+## V.2. Inflation
+
+Since  2016,  India  has  adopted  flexible  inflation  targeting  (FIT)  as  its monetary policy framework. The inflation target is set at 4 per cent in terms of consumer price index (CPI) headline inflation with a tolerance band of +/- 2 per cent around it. In the aftermath of the war in Ukraine, inflation rose to a peak of 7.8 per cent in April 2022. Frontloaded monetary policy tightening  with  a  cumulative  250  bps  increase  in  the  policy  rate  and  a stance  of  withdrawal  of  accommodation  guided  inflation  down  to  an average of 5.4 per cent in 2023-24, i.e., back into the tolerance band. It is projected to average 4.5 per cent in 2024-25 and 4.1 per cent in 2025-26. Inflation fell below target during July-August but rose to 5.5 per cent in September on the back of a pickup in price momentum in some food items and  adverse  base  effects  inherent  in  year-on-year  measurement.  Our projection indicates that these price pressures will persist in October and November  before headline inflation realigns with the target from December 2024 and remains aligned in 2025-26.
+
+## V.3. Improving Financial Soundness and Buffers
+
+Since 2018, India has engaged intensely in fortifying the soundness of financial institutions and building up adequate capital and liquidity buffers. Through  a  variety  of  processes  including  recognition,  restructuring, resolution and write-offs, impairment in banks' balance sheets has been brought down. Gross non-performing assets were just 2.7 per cent of total assets  at  the  end  of  June  2024. Adjusted  for  provisions,  the  net  nonperforming  asset  ratio  was  only  0.6  per  cent.  As  against  the  Basel minimum capital adequacy ratio of 8 per cent, India applies a minimum ratio of 9 per cent with a minimum of 7 per cent for Tier I capital. A capital
+
+conservation buffer of 2.5 per cent has to be maintained in addition to the minimum  capital requirement, taking the overall regulatory capital requirement to 11.5 per cent of total risk weighted assets. At the end of June 2024, banks in India maintained a capital ratio of 16.7 per cent with Tier I capital of 13.9 per cent. Other buffers include the liquidity coverage ratio, which is well above 100 per cent, and the provision coverage ratio which is close to 80 per cent. Macro stress test reveals that no bank in India will fall below the regulatory minimum capital even under a severe stress scenario.
+
+## V.4 External Sector Indicators
+
+Since the external sector receives the first blow from global spillovers, the policy endeavour has been to build up external sector soundness. The current account deficit (CAD) is modest at around 1 per cent of GDP. India has been a recipient of capital inflows, drawn by its robust macroeconomic fundamentals  and  stability.  Hence  external  financing  requirements  are comfortably  met.  India  has  utilised  the  opportunity  provided  by  strong international  investors'  interest  to  build  up  foreign  exchange  reserves. Currently, as the fourth largest reserve holding country in the world, India's reserves cover entirely the level of external debt, comfortably cover all debt servicing requirements and are equivalent or close to 12 months of imports. India's exchange rate is among the least volatile in the world. We intervene in the foreign exchange market on both sides - sell and buy to  ensure  adequate  liquidity  and  minimise  volatility  so  as  to  preserve financial stability, but without any view on the level of the exchange rate.
+
+## VI. Conclusion
+
+In conclusion, I will briefly address some recent opportunities that have opened  in  the  Indian  context . India  is  emerging  as  a  world  leader  in leveraging  digital  technologies  for  transformative  change. The  trinity  of
+
+JAM - Jan  Dhan  (basic  no-frills  accounts); Aadhaar  (universal  unique identification); and mobile phone connections - is expanding the ambit of formal finance, boosting tech start-ups and enabling the targeting of direct benefit transfers. India's Unified Payment Interface (UPI), an open-ended system  that powers  multiple bank  accounts into a single mobile application of any participating bank, is propelling inter-bank peer-to-peer and  person-to-merchant  transactions  seamlessly.  Payment  systems  in India  operate  on  a  24  by  7  by  365  basis.  Functionalities  like  offline payments, payments through feature phones and conversational payments have been incorporated. The internationalisation of the UPI is progressing rapidly.
+
+Taking  these  developments  into  account,  a  summary  measure  of digitalisation  for  India  has  been  constructed  by  using  a  dynamic  factor model (DFM) 16 .  The index has been rising, reflecting the ongoing digital revolution.
+
+The spread of digitalisation has spurred research on assessing the effects of digitalisation on the economy and the transmission of monetary policy. Early  results  for  India  suggest  steepening  of  the  Phillips  curve  and improvement in factor productivity, indicating improvement in the effectiveness of monetary policy transmission.
+
+India  is  on  the  move  and  transforming  rapidly  in  the  quest  of  its aspirations. As various forces I have described coalesce and fall in place, this century could well mark the ascent of India on the world stage.
+
+Thank you.
+
+16  The index is based on digital payments, number of internet users, number of mobile phone subscriptions, number of QR codes generated per 100 persons, credit to the software industry, investment in ICT (information and communication technology) and people employed in the ICT sector.

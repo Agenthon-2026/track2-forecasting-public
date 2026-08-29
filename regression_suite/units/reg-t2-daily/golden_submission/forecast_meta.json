@@ -1,0 +1,18 @@
+{
+  "unit_id": "reg-t2-daily",
+  "asof": "2026-05-29",
+  "representation": "samples",
+  "asset_ids": [
+    "SYN_A",
+    "SYN_B"
+  ],
+  "horizons": [
+    21
+  ],
+  "n_draws": 500,
+  "target": "level",
+  "rationale": {
+    "file": "forecast_rationale.md",
+    "method": "joint gaussian random walk, no text"
+  }
+}

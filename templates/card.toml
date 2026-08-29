@@ -1,0 +1,97 @@
+# =============================================================================
+# QFBench 2.0 Track 2 — Forecast Card Template (card.toml v2)
+# Track 2 = Reasoning-Augmented Time-Series Forecasting.
+# Agents receive: numeric panels (time series) + a frozen text corpus (dated documents).
+# Replace every TEMPLATE_ value. Validate: qfbench2 card validate <unit-dir>
+# Authoring guide: public/docs/AUTHORING-GUIDE.md
+# Leakage checks: qfbench2_common.leakage.cutoff_ok (panels; returns bool) +
+#                 scoring.scoring._check_text_corpus_cutoff (text corpus; returns violation list)
+# =============================================================================
+schema_version = "2.0"
+
+[task]
+id    = "t2-TEMPLATE-slug"          # convention: t2-<short-description>; lowercase preferred
+track = "forecasting"
+title = "TEMPLATE_TITLE"
+split = "public-dev"                 # public-dev | validation  (held-out cards use private-test)
+
+[metadata]
+author_name              = "TEMPLATE_AUTHOR"
+author_email             = "you@example.org"
+difficulty               = "medium"          # easy | medium | hard
+category                 = "TEMPLATE_FAMILY" # T2-F1 | T2-F2 | T2-F3 | T2-F4 (see docs/CATEGORIES.md)
+tags                     = ["forecasting", "TEMPLATE_PANEL"]
+expert_time_estimate_min = 30.0
+junior_time_estimate_min = 90.0
+# --- track-specific metadata (extra keys permitted) ---
+asset_panel      = "TEMPLATE_PANEL"
+horizons         = [21]              # business days; must match [targets].horizons
+n_assets         = 4
+target_type      = "level"          # level | log_return | yield
+target_frequency = "monthly"
+
+[provenance]
+license             = "TEMPLATE_LICENSE"    # rights DETERMINATION, not boilerplate. One of:
+                                            #   "MIT"                             organizer-authored
+                                            #   "LicenseRef-US-Gov-Public-Domain" U.S. federal work, 17 U.S.C. 105
+                                            #   "LicenseRef-Source-Terms"         third party; issuer's terms govern
+                                            #   "LicenseRef-Unverified"           rights basis not established
+                                            # NOT CC-BY-4.0 - never granted for third-party material here.
+                                            # See DATA-LICENSE.md.
+data_source         = "TEMPLATE_SOURCE"
+data_cutoff         = "TEMPLATE_ASOF_DATE"     # YYYY-MM-DD; the as-of / information cutoff (panels AND text)
+public_release_date = "TEMPLATE_RELEASE_DATE"  # YYYY-MM-DD
+redistributable     = false                 # publication gate, NOT a rights summary: false = this unit must
+                                            # not ship publicly. Template fails closed; set true for a unit
+                                            # you are actually publishing. Must agree with manifest.json.
+manifest            = "manifest.json"
+
+[contamination]
+canary_guid = "TEMPLATE_UUIDv4"     # python -c "import uuid; print(uuid.uuid4())"
+
+[scoring]
+verifier            = "t2.crps_composite"
+metric              = "crps_composite"
+admissibility_gates = ["g0_integrity", "g1_schema", "g2_cutoff_resource", "g3_domain_semantics"]
+
+[scoring.params]
+tail_levels = [0.01, 0.05, 0.95, 0.99]
+joint       = "variogram"
+
+[scoring.params.weights]                  # must sum to 1.0; tilt by family (see docs/CATEGORIES.md)
+marginal = 0.5
+joint    = 0.3
+tail     = 0.2
+
+[environment]
+cpus    = 16
+memory  = "128G"                            # format: <int>{M|G}
+gpu     = true
+network = "restricted"                    # T2 units: no open internet; model-API egress via the
+                                          # organizer's audited proxy only. ("none" = simulation track.)
+
+[panels]
+panel_ids = ["TEMPLATE_PANEL"]            # each must have a manifest.json entry
+
+# ---------------------------------------------------------------------------
+# [text] — the frozen, time-stamped text corpus available to the agent.
+# Every document in the corpus must have timestamp <= data_cutoff (the as-of date).
+# Gate g2_cutoff_resource checks this. A post-asof document causes leakage rejection.
+# Agents read from /input/text/ at inference time; the restricted network blocks live
+# fetches (model-API calls via the audited proxy are the only permitted egress).
+# ---------------------------------------------------------------------------
+[text]
+source          = "TEMPLATE_TEXT_SOURCE"     # e.g. "Federal Reserve FOMC statements; BLS press releases"
+path            = "text/"                    # relative path to the corpus directory within this unit
+cutoff          = "TEMPLATE_ASOF_DATE"       # YYYY-MM-DD; must equal [provenance] data_cutoff
+cutoff_checked  = false                      # set true after _check_text_corpus_cutoff() returns no violations
+doc_types       = ["TEMPLATE_DOC_TYPES"]     # e.g. ["fomc_statement", "fomc_minutes", "macro_release"]
+n_documents     = 0                          # fill in after assembling corpus
+notes           = "TEMPLATE_TEXT_NOTES"      # describe what text signals are present and their role
+
+[targets]
+asset_ids        = ["TEMPLATE_ASSET_1", "TEMPLATE_ASSET_2"]
+horizons         = [21]
+target_type      = "level"
+target_frequency = "monthly"
+leakage_checked  = false                     # set to true after running cutoff_ok()

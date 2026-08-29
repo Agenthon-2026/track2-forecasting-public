@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F4-quant-crowding-2007",
+  "asof": "2007-07-31",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "bis_gieve_2007-06-26",
+      "timestamp": "2007-06-26",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_gieve_2007-06-26.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2007-06-28",
+      "timestamp": "2007-06-28",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20070628.txt"
+    },
+    {
+      "doc_id": "bis_bernanke_2007-07-18",
+      "timestamp": "2007-07-18",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bernanke_2007-07-18.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20070628",
+      "timestamp": "2007-07-19",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20070628_released_2007-07-19.txt",
+      "note": "minutes of the 20070628 meeting, public release 2007-07-19"
+    },
+    {
+      "doc_id": "beige_book-2007-07-25",
+      "timestamp": "2007-07-25",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_200707.txt"
+    }
+  ]
+}

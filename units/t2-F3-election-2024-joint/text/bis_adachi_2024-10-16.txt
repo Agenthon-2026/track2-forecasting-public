@@ -1,0 +1,320 @@
+Seiji Adachi: Seiji Adachi: Economic activity, prices, and monetary policy in Japan
+2024-10-16
+
+
+
+Bank  of  Japan October 16,  2024
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Local Leaders in Kagawa
+
+## ADACHI Seiji
+
+Member of the Policy Board
+
+(English translation based on the Japanese original)
+
+## I. Economic Activity and Prices
+
+## A. Economic Activity
+
+I would like to start my speech by talking about the current situation of Japan's economy.
+
+In  my  view, while conditions  in Japan's  economy cannot  be regarded as  favorable, the economy has been resilient on the whole. To examine this point in detail, let me describe Japan's economic situation from two aspects: the household sector and the corporate sector.
+
+I will start with the household sector. There have been comments that private consumption remains somewhat lackluster (Chart 1). That said, I believe that this can mostly be attributed to weakness in durable goods consumption, which reflects setbacks in automobile production caused by various unexpected incidents. Disregarding this as a temporary factor, I consider that  private  consumption  has  generally  been  following  the  projected  trend. Indeed, in response to price rises, households' thriftiness has intensified in the consumption of food and daily necessities in particular, which resulted in consumption of nondurable goods being on a decreasing trend; for example, some anecdotal information from supermarkets and other stores indicates that household demand  has been shifting to  lower-priced private-label products. On the other hand, however, services consumption has been viewed as being solid, and business performance in the foodservice industry has been favorable.
+
+What is particularly interesting  is  that, amid the continued decline in  real wages and the resulting severe  income  conditions, households  have been managing  by  cutting back on fundamental expenditures, rather than by reducing their selective expenditures. This implies that households are starting to change their spending patterns, becoming more selective in their consumption -- that is, they actively spend on goods or services that they place priority on, while cutting back on other spending, depending on their respective circumstances. In response to these changes in household spending patterns, firms are also diversifying the sales strategies for their products and services, thereby expanding the selling price range. In other words, while Japan's economy has been subdued in some respects because of higher prices, this situation seems to be generating room for households and firms to harness their creativity in their day-to-day activities. In this sense, it is possible to argue that the economy is in a way heading toward normalization.
+
+Next,  I  will  turn  to  the  corporate  sector. While  production,  exports,  and  business  fixed investment  have  been solid,  I  have the impression  that  they are somewhat  lacking  in momentum. Starting with business fixed investment, the Bank of Japan's September 2024 Tankan (Short-Term Economic Survey of Enterprises in Japan) shows firms' appetite for such investment remains strong; however, actual results suggest that fixed investment conditions have been mixed (Charts 2 and 3). In terms of specific business fixed investment projects, there has been a wide variety, including (1) those associated with manufacturers' moves to transfer  their  overseas  production  sites  back  home, reflecting  the  yen's  depreciation  and heightened concerns over economic security; (2) investment in urban redevelopment projects; and (3) climate change-related investment. Moreover, given the historically low levels of real interest rates and the favorable business fixed investment environment that reflects strong business performance and steady stock prices, firms' fixed investment should increase further.
+
+Why then have some firms been reluctant to make fixed investments? I would like to point out  two  contributing  factors. First  is  the  bottleneck in  human  resources; there have been shortages of technical experts and the labor necessary for setting up facilities or constructing factories, stores, and other premises. This factor has also likely affected firms' production activity. That is, anecdotal information suggests that, due to severe labor shortages, firms have inevitably had to pursue business realignment and integration through such means as shifting production sites of unprofitable businesses to emerging economies with lower labor costs, or engaging  in  business  restructuring  by selling unproductive businesses  to  other  firms, including foreign firms. In my view, this has resulted in the production index remaining below the pre-pandemic level.
+
+The  second reason why  firms have  been  reluctant to  make fixed  investment is  high uncertainties regarding the outlook. For instance, firms' inflation outlook for general prices for five years ahead, as presented in the September 2024 Tankan , shows that over 40 percent of firms responded that they "do not have clear views" on general prices because of high uncertainties over the outlook (Chart 4). This figure is considerably higher than past results. Setting selling prices is one of the vital elements of a firm's business strategy. As is the case with general prices, if the future course of selling prices remains unpredictable, this also holds true for the outlook for corporate profits. In such a situation, firms are probably hesitant to
+
+make fixed investment as this will inevitably weigh on them as a significant source of fixed costs.
+
+Let me now move on to exports. Despite the continuing depreciation of the yen, exports have shown mixed developments, affected by a lack of momentum in the Chinese and European economies (Chart 5). Rather than being affected by the price factor (the weaker yen), Japan's exports have been greatly influenced by the quantitative factor (overseas demand), which is determined by developments in the global economy. Global economic developments will therefore have to be taken into account when considering future developments in exports, as these, for the time being, entail uncertainties that should not be overlooked. U.S. economic policy may change drastically, depending not only on the outcome of the U.S. presidential election in November, but also on how the results of the concurrent Congressional elections affect the balance of power between the parties in the two houses of Congress. There may also be a substantial change in geopolitical risks. Since developments in the international situation just mentioned entail the possibility of triggering a significant  change in Japan's corporate behavior, these developments warrant greater attention.
+
+## B. Price Developments in Japan
+
+1. Price situation
+
+I will now talk about price developments in Japan.
+
+Looking at recent price developments, it can be said that prices have thus far been on track, as the virtuous cycle between wages and prices has finally begun to operate. In other words, prices seem to be steadily following the path expected by the Bank toward achievement of 2 percent  underlying  inflation. However,  there  now  seem  to  be  points  that  warrant  some attention, although they do not yet suggest a need to change the Bank's outlook.
+
+Let me now share my view on prices. When examining price developments, I always adopt a method of separating the categories in the consumer price index (CPI) into two: "sticky" consumer prices, mainly composed of services prices for which the price changes relatively infrequently; and "flexible" consumer prices, mainly composed of goods prices for which the
+
+price  changes  relatively  frequently. 1 Sticky  consumer  prices  are  significantly  affected  by wage  developments,  whereas  flexible  consumer  prices  are  considerably  affected  by developments in yen-denominated import prices.
+
+Based on this categorization, I would like to briefly outline developments in the CPI to date. The rate of increase in flexible consumer prices has decelerated considerably, mainly due to a pause in the rise in international commodity prices. On the other hand, sticky consumer prices have been rising in reflection of higher personnel expenses, but the pace of the rise has remained only moderate. As a result, the CPI inflation rate has followed a declining trend (Chart 6). 2 Latest developments suggest that sticky consumer prices are finally starting to rise, reflecting to some degree the results of the 2024 annual spring labor-management wage negotiations; what is more, the slowdown in flexible consumer prices has shown signs of rebound due to the effects of the yen's depreciation.
+
+Given a projected faster rise in both sticky and flexible consumer prices, upside risks to prices have increased. In light of this, at the July 2024 Monetary Policy Meeting (MPM), the Bank considered  it  appropriate  to  adjust  the  degree  of  monetary  accommodation  from  the perspective of sustainable and stable achievement of the price stability target of 2 percent and decided to raise the policy interest rate.
+
+2. Points to note in examining future price developments
+
+Still, I believe that future price developments in Japan will continue to warrant some attention for the following reasons.
+
+The first is the possibility that the yen's depreciation will be retraced with greater momentum. In particular, if U.S. monetary policy enters a full-fledged rate-cutting cycle, this may result in  an  intensified  retracement  of  the  yen's  depreciation  against  the  U.S.  dollar. This  could become a factor driving down import prices with a time lag and, as a result, put downward pressure on flexible consumer prices, chiefly composed of goods prices.
+
+1 Strictly speaking, services prices and goods prices do not necessarily fall into sticky consumer prices and  flexible  consumer  prices,  respectively. This  is  because  these  consumer  prices  are  categorized automatically based on a threshold for the extent of price changes.
+
+2 Here, CPI mainly refers to "core-core-CPI," which excludes fresh food and energy.
+
+The second reason is that, because I take a somewhat cautious view about whether sufficient wage hikes will be sustained in 2025, I think it is necessary to adequately examine these developments. According  to  the  final  aggregate  results  of  the  2024  annual spring  labormanagement  wage  negotiations  compiled  by  the  Japanese  Trade  Union  Confederation (Rengo), the rate of increase in wages (including seniority- and performance-related wages) was 5.10 percent, significantly higher than expected. Moreover, the Financial Statements Statistics of Corporations by Industry, Quarterly for the April-June quarter of 2024, which has  a  wider  sample  coverage,  showed  that  the year-on-year rate  of  increase  in  personnel expenses  was  4.8  percent,  for  all  industries  and  enterprises excluding  the  finance  and insurance industries. The rate was also up 6.7 percent on the same basis for enterprises with capital of 10 million yen or more but less than 100 million yen, which are assumed to be mainly small enterprises.
+
+As just outlined, this year indeed saw significant wage increases. At the same time, in the Financial  Statements  Statistics  of  Corporations  by  Industry,  Quarterly for  the April-June quarter, current profits for all industries and enterprises excluding the finance and insurance industries were up 13.2 percent year on year, which means that firms are earning profits far in excess of their wage hikes. In other words, wage hikes are limited within the scope of growth in business earnings and, as a result, labor share is still on the decline (left panel of Chart 7).
+
+When comparing developments in labor share and wage increases, the two are generally negatively correlated. However, even since the exit from deflation, starting in 2013, the pace of wage hikes has trailed far behind the pace of decline in labor share (left and right panels of Chart 7). Moreover, although the ratio of personnel expenses to sales is no longer declining, with  almost  no  difference  between  manufacturers  and  nonmanufacturers  or  between enterprise sizes, this is not a major departure from past trends (Chart 8). This implies that the significant  wage increases in  the 2024 spring negotiations were by no means a generous allowance on the part of firms, at least from a macroeconomic perspective. Rather, these increases, for the most part, are a reflection of favorable business performance, suggesting that firms have not necessarily made a clear shift in their stance toward raising wages from that of the deflationary period.
+
+To avoid any misunderstanding, let me stress that I certainly do not mean that the wage hikes by firms are inadequate. If firms implement unreasonable wage hikes that outpace growth in their business earnings, and labor share consequently rises, this could trigger a drop in stock prices,  given the past relationship between  labor share and stock prices.  Because developments  in  stock  prices  affect  factors  such  as  firms'  fixed  investment  stance, unreasonable wage hikes could end up in an economic downturn. Put differently, wage hikes from  2025  onward  will  ultimately  depend  on  firms'  business  performance  and,  in  turn, economic conditions. Given the high degree of the uncertainties that I mentioned earlier, mainly concerning the international situation, how wage hikes will play out next year remains very unclear. I therefore think it is necessary to carefully examine their developments.
+
+There is absolutely no need for pessimism, though. The ratio of break-even point to sales, calculated from the Financial Statements Statistics of Corporations by Industry, Annually has come down significantly (Chart 9). This shows that firms' earning power has been boosted substantially,  and  that  they  are  making headway in  improving their  fundamental  business structure to achieve higher profitability. In other words, firms' fundamental business structure has become more conducive to wage hikes, in line with the improvement in their earning power.
+
+Given  these  factors,  the  extent  of  wage  hikes  in  2025  will  ultimately  be  determined  by business performance in fiscal 2024, which in turn depends on whether there will be greater room for expansion in external demand and business fixed investment.
+
+## II. Conduct of Monetary Policy
+
+## Steps toward Normalizing Monetary Policy
+
+So far, I have talked about Japan's economic and price developments. I would now like to move on to explaining the Bank's current conduct of monetary policy and share my thoughts on the Bank's policy stance after the termination of the negative interest rate policy and yield curve control.
+
+With respect to the current conduct of monetary policy, the Bank decided at the March 2024 MPM to (1) terminate the negative interest rate policy and yield curve control, and (2) shift
+
+to a framework in which it conducts monetary policy by guiding the short-term interest rate, the uncollateralized overnight call rate, as a primary policy tool. Subsequently, at the July MPM, the Bank decided to raise the uncollateralized overnight call rate by 0.15 percentage points, encouraging it to remain at around 0.25 percent. It also decided on a plan to gradually reduce its monthly purchase amount of Japanese government bonds (JGBs) so that it will be about 3 trillion yen in January-March 2026 (Charts 10 and 11). With these measures, the Bank is proceeding with efforts to normalize monetary policy, aiming to achieve the price stability target of 2 percent in a sustainable and stable manner.
+
+It  seems to me that some people may have doubts about the current conduct of monetary policy, as to whether the Bank was premature in entering into a normalization process of gradually raising its policy interest rate, and as to whether this step runs the risk of Japan falling back into deflation. I would therefore like to share my thoughts on both of these points.
+
+To  come  straight  to  the  point,  I  believe  Japan's  economy  has  already  met  the  conditions needed for monetary policy to initiate normalization. As experience suggests, I believe the key conditions are that (1) the distribution of the year-on-year rate of change in the price of individual items constituting the CPI no longer has the shape typical of a deflationary period, and (2) the level of CPI inflation has surpassed its pre-deflation peak. Indeed, these conditions have  already  been  fulfilled  (Chart  12).  Another  essential  condition in  proceeding  with normalization is to avoid any drastic policy changes that could raise concern over the risk of a fall back into deflation. 3 In fact, as I will next discuss, this condition is precisely why I think it is appropriate to undertake gradual hikes in the policy interest rate in normalizing monetary policy.
+
+I would like to note one point that warrants caution when raising the policy interest rate in a gradual  manner:  until  the  underlying  inflation  rate  achieves  the  target  of  2  percent  in  a
+
+3 See Gauti B. Eggertsson and Benjamin Pugsley,  "The Mistake of 1937: A General Equilibrium Analysis," Monetary  and  Economic  Studies , vol. 24, no.  S-1 (December  2006): 151-190, https://www.imes.boj.or.jp/research/papers/english/me24-s1-8.pdf.  The  authors  point  out  that  the reason  the  United  States  failed  to  exit  the  Great  Depression  was  that  policy  changes caused  a significant shift in  the  public's  beliefs  about  the future  inflation  target policy of the authority (the Federal Reserve).
+
+sustainable and stable manner, the Bank will raise the policy interest rate at an extremely moderate pace while basically maintaining accommodative financial conditions. The Bank needs to  raise  the  policy  rate  before the sustainable  and  stable  achievement  of  2  percent underlying inflation, as rapid hikes in the policy rate after the achievement of the target could cause a major shock to the real economy. It is difficult to estimate in advance the extent of the shock such a rapid rate hike would cause. However, if, for example, the Bank maintains a  zero  interest  rate  until  underlying  inflation remains stable near  the  target  of  2  percent, followed by discontinuous and sudden policy rate hikes once the target has been achieved, the risk of this causing an economic slowdown cannot be overlooked, as the slowdown could once again induce a shift to a deflationary regime that will heighten concern over deflation. To avoid such a scenario, gradual policy rate hikes -- that make sure the extent of the hike is kept within a range that will not cause a shock to the real economy -- should more likely allow for  a  smoother  monetary  policy  normalization.  This  can  be  viewed  as  a  form  of  risk management in monetary policy conduct.
+
+The most critical point to keep in mind when proceeding with monetary policy normalization is to maintain accommodative financial conditions while gradually raising the policy interest rate. What is meant by accommodative financial conditions here is a situation where the real policy interest rate is below the natural rate of interest.
+
+The key here is the level of the natural rate of interest. The natural interest rate has been an important topic of discussion in considering recent conduct of monetary policy. Unfortunately, at least for now, it is difficult to empirically identify a reliable figure for the natural interest rate. The Bank uses a variety of methods to measure this rate, but since the figures -- as of the first quarter of 2023 -- range widely from around minus 1 percent to around plus 0.5 percent, depending  on  the  methods employed,  these  are  merely  estimates. 4 I  personally consider it reasonable to assume the lowest figure, since I believe that there is no need at this point to undertake rapid policy rate hikes to curb inflation, and that hasty policy rate hikes should rather be avoided. Even with this assumption, the current real policy interest rate is
+
+4 See Nakano, S., Sugioka, Y ., and Yamamoto, H., "Recent Developments in Measuring the Natural Rate of Interest," Bank of Japan Working Paper Series , no. 24-E-12 (October 2024).
+
+well below the natural interest rate, suggesting that accommodative financial conditions have been maintained.
+
+If underlying inflation becomes increasingly likely to surpass 2 percent once the target of 2 percent has been achieved in a sustainable and stable manner, the Bank will, to curb inflation, raise the policy rate at a faster pace than the inflation rate. Moreover, when the inflation rate remains at around 2 percent in a sustainable and stable manner, it can be assumed that the policy rate at the time is roughly on a par with the level of the neutral interest rate. In this case, the Bank will conduct monetary policy with an eye to maintaining the policy rate at that neutral level.
+
+Let me repeat that, when the price stability target is achieved by realizing 2 percent underlying inflation in a sustainable and stable manner, the level of the policy rate can be said to be broadly  equivalent  to  that  of  the  neutral  interest  rate.  To  be  honest,  though,  given  the uncertainties we may face down the road, it is difficult at this point to project the specific level  of  the  neutral  interest  rate  and the timing  of  the  policy  rate  approaching  that  level. Academic and central bank researchers have published a wealth of papers investigating the factors that determine the levels of both the neutral and natural interest rates. 5 These have pointed to a variety of determinants; however, one of the strongest determining factors is a country's potential growth rate, and this suggests that demographics and the growth rate of technology hold the key. The savings-investment balance and the level of long-term interest rates are also considered to be determinants. While it is important to continue efforts to refine the estimation method for the natural interest rate, I believe it is also vital to engage in further discussion,  including with  regard  to a  qualitative  assessment  of  the  individual  factors determining the natural interest rate.
+
+Thank you.
+
+5 For  example,  see  International  Monetary Fund  "The  Natural  Rate  of  Interest:  Drivers  and Implications for Policy," World Economic Outlook , ch. 2 (April 2023).
+
+
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Local Leaders in Kagawa
+
+October 16, 2024 ADACHI Seiji Member of the Policy Board Bank of Japan
+
+## Consumption Activity Index (CAI, Real)
+
+CAI (Travel Balance Adjusted)
+
+## CAI by Type
+
+
+
+- Notes: 1. In the left panel, figures exclude inbound tourism consumption and include outbound tourism consumption, and are based on Bank staff calculations.
+2. In the right panel, figures in angle brackets show the weights in the CAI. Figures are based on Bank staff calculations.
+3. In the right panel, nondurable goods include goods classified as semi-durable goods in the SNA.
+4. Figures for 2024/Q3 are July-August averages.
+
+Sources: Bank of Japan; etc.
+
+Chart 1
+
+## Developments in Business Fixed Investment Plans
+
+
+
+- Notes: 1. Based on the Tankan . All industries including financial institutions.
+2. Figures include software and R&amp;D investments but exclude land purchasing expenses. R&amp;D investment is not covered as a survey item before the March 2017 survey.
+3. There are discontinuities in the data for December 2021 and December 2023 due to changes in the survey sample.
+
+Source: Bank of Japan.
+
+## Business Fixed Investment
+
+## Coincident Indicators of Business Fixed Investment
+
+## Leading Indicators of Business Fixed Investment
+
+
+
+Notes: 1. The figure for domestic shipments and imports of capital goods for 2024/3Q is the July-August average. The figure for private construction completed for 2024/3Q is for July.
+
+2. Figures for real private construction completed are based on Bank staff calculations using the construction cost deflators.
+
+Sources: Cabinet Office; Ministry of Economy, Trade and Industry; Ministry of Land, Infrastructure, Transport and Tourism.
+
+
+
+- Notes: 1. Volatile orders are orders for ships and those from electric power companies.
+2. The figure for machinery orders for 2024/3Q is for July. The figure for construction starts for 2024/3Q is the July-August average.
+- Sources: Cabinet Office; Ministry of Land, Infrastructure, Transport and Tourism.
+
+Chart 3
+
+## Firms' Inflation Outlook for General Prices
+
+
+
+- Notes: 1. Figures show the share of firms having no clear views on general prices due to high uncertainty over the outlook, based on the inflation outlook for general prices (all industries and enterprises, 5 years ahead) in the Tankan .
+2. Specifically, when asked about their inflation outlook, firms are those that selected "Uncertainty" among firms responding that they "do not have clear views" on general prices in the Tankan .
+
+Source: Bank of Japan.
+
+Chart 5
+
+## Exports
+
+## Total Real Exports
+
+## Real Exports by Region
+
+
+
+- Notes: 1. Based on Bank staff calculations.
+2. Figures for 2024/Q3 are July-August averages.
+3. In the right panel, figures in angle brackets show the share of each country or region in Japan's total exports in 2023. Figures for the EU exclude those for the United Kingdom for the entire period.
+
+Sources: Ministry of Finance; Bank of Japan.
+
+## CPI (Excluding Temporary Factors)
+
+
+
+Notes: 1. Administered prices exclude energy prices and consist of public services and water charges.
+
+2. The CPI figures are Bank staff estimates and exclude mobile phone charges and the effects of the consumption tax hike, free education policies, and travel subsidy programs.
+
+Source: Ministry of Internal Affairs and Communications.
+
+Chart 7 Developments in Labor Share and Wage Increases
+
+Labor Share
+
+Personnel Expenses
+
+
+
+Notes: 1. Based on the Financial Statements Statistics of Corporations by Industry, Quarterly . Excluding the finance and insurance industries.
+
+2. Labor share = personnel expenses / value-added. Value-added = operating profits + personnel expenses + depreciation expenses.
+
+Source: Ministry of Finance.
+
+
+
+Note: Based on the Financial Statements Statistics of Corporations by Industry, Quarterly . Excluding the finance and insurance industries.
+
+Source: Ministry of Finance.
+
+## Ratio of Personnel Expenses to Sales
+
+## By Industry (Enterprises of All Sizes)
+
+By Size (All Industries Excluding Finance and Insurance)
+
+
+
+
+
+- Notes: 1. Based on the Financial Statements Statistics of Corporations by Industry, Annually . Excluding the finance and insurance industries.
+2. Personnel expenses = directors' remuneration + bonus for directors + salaries and wages + bonus for employees + welfare expenses
+3. In the right panel, large enterprises are those with capital of 1 billion yen or more, medium-sized enterprises are those with capital of 100 million yen or more but less than 1 billion yen, and small enterprises are those with capital of less than 100 million yen.
+
+Source: Ministry of Finance.
+
+Chart 9
+
+## Break-Even Ratio
+
+
+
+- Notes: 1. Based on the Financial Statements Statistics of Corporations by Industry, Annually . Excluding the finance and insurance industries. Enterprises of all sizes.
+2. Break-even ratio = break-even sales / sales. Break-even sales = fixed costs / marginal profit ratio. Fixed costs = personnel expenses + interest expenses, etc. + depreciation expenses + rent on movable property and real estate. Personnel expenses = directors' remuneration + bonus for directors + salaries and wages + bonus for employees + welfare expenses. Marginal profit ratio = (sales - variable costs) / sales. Variable costs = sales - fixed costs - current profits.
+
+Source: Ministry of Finance.
+
+Decisions at the July 2024 MPM (1): Change in the Guideline for Money Market Operations
+
+-  Japan's economic activity and prices have been developing generally in line with the Bank's outlook . Moves to raise wages have been spreading.
+-  The year-on-year rate of change in import prices has turned positive again, and upside risks to prices require attention .
+
+## Medians of the Policy Board members' forecasts (y/y % chg.)
+
+## Risk balance assessments on prices
+
+|                                            | Fiscal 2024   |   Fiscal 2025 | Fiscal 2025   |   Fiscal 2026 | Fiscal 2026   |
+|--------------------------------------------|---------------|---------------|---------------|---------------|---------------|
+| Real GDP                                   | 0.6 (-0.2)    |           1   | ( - )         |           1   | ( - )         |
+| CPI (all items less fresh food)            | 2.5 (-0.3)    |           2.1 | (+0.2)        |           1.9 | ( - )         |
+| CPI (all items less fresh food and energy) | 1.9 ( - )     |           1.9 | ( - )         |           2.1 | ( - )         |
+
+
+
+Note: Figures in parentheses indicate changes from the April Outlook Report.
+
+Adjusting the degree of monetary accommodation from the perspective of sustainable and stable achievement of the price stability target of 2 percent
+
+## Short-term interest rate raised to "around 0.25%" :
+
+(uncollateralized overnight call rate) (previously "around 0 to 0.1%")
+
+-  Real interest rates are expected to remain significantly negative, and accommodative financial conditions will continue to firmly support economic activity .
+-  If the outlook presented in the July Outlook Report is realized, the Bank will accordingly continue to raise the policy interest rate and adjust the degree of monetary accommodation.
+
+Chart 11
+
+Decisions at the July 2024 MPM (2): Plan for the Reduction of the Purchase Amount of JGBs
+
+The concept of the plan for the reduction until March 2026
+
+1. Long-term interest rates: to be formed in financial markets in principle
+2. JGB purchases: appropriate for the Bank to reduce its purchase amount of JGBs in a predictable manner, while allowing enough flexibility to support stability in the JGB markets
+
+## Reduction in a Predictable Manner
+
+
+
+
+
+## Allowing Enough Flexibility
+
+1. The Bank will conduct an interim assessment of the plan at the June 2025 MPM .
+2. In the case of a rapid rise in long-term interest rates, the Bank will make nimble responses by, for example, increasing the amount of JGB purchases.
+3. The Bank is prepared to amend the plan at the MPMs, if deemed necessary.
+
+## Conditions Required for Monetary Policy to Enter into a Normalization Process
+
+## CPI Price Change Distributions
+
+## CPI (Less Fresh Food and Energy)
+
+
+
+Notes: 1. Figures are calculated using long-term time series data for each item in Japan's CPI (2020-base).
+
+2. Figures for CY1991, 1999, and 2012 are calculated using annual average data.
+
+Source: Ministry of Internal Affairs and Communications.
+
+
+
+Note: Figures are annual averages.
+
+Source: Ministry of Internal Affairs and Communications.

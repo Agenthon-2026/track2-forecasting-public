@@ -1,0 +1,80 @@
+Kazuo Ueda: Kazuo Ueda: Progress and challenges in the Asia-Pacific financial system
+2024-03-06
+
+## Kazuo Ueda: Progress and challenges in the Asia-Pacific financial system
+
+Keynote address by Mr Kazuo Ueda,  Governor of the Bank of Japan,  at the 18th AsiaPacific High-Level Meeting on Banking Supervision, Tokyo, 6 March 2024.
+
+* * *
+
+## Introduction
+
+Good morning. Thank you for participating in the 18th Asia-Pacific High-Level Meeting on Banking Supervision today. It is a great honor to host the first in-person meeting in five years since 2019, here at the Bank of Japan.
+
+In recent years, we have witnessed significant shifts in the economic and financial landscape. These shifts began with the slowdown in economic activity due to the COVID-19 pandemic, followed by subsequent recoveries, heightened geopolitical tensions, and a surge in inflation. Despite these challenges, the impact on the financial system in the Asia-Pacific (APAC) region has been relatively contained. Reflecting on the past quarter century from the year 2000 to the present, even amid the Global Financial Crisis and the European debt crisis, the financial system in the APAC region has exhibited overall stability, contributing to considerable growth in the APAC economies.
+
+I would first like to touch on the characteristics and background of the stability of the financial system in the APAC region during the past quarter century. Following the agenda of this meeting, I will then talk about the changes in the environment that are crucial for promoting financial stability and the challenges we currently face.
+
+## I. Asian Currency Crisis and Subsequent Responses
+
+The Asian currency crisis, which occurred just before the year 2000, stands out as the pivotal event that influenced the stability of the financial system in the APAC region over the past quarter century. The crisis served as a turning point, encouraging jurisdictions affected by it to implement structural reforms with a focus on managing external debt and capital flows. These reforms included improving current account balances, accumulating foreign reserves, increasing net foreign assets, and shifting to more flexible foreign exchange systems. Moreover, the lessons learned were widely shared, even among jurisdictions that did not directly experience the Asian currency crisis. APAC jurisdictions have enhanced the institutional frameworks of the financial system, strengthened financial supervision, and advanced major restructuring among financial institutions.
+
+There has also been notable progress in developing frameworks for financial coordination and cooperation within the APAC region. With a view to ensuring stability in foreign exchange and financial markets, the Chiang Mai Initiative Multilateralisation (CMIM) was established, a currency swap network that covers a wide area in the region. In addition, the Asian Bond Markets Initiative (ABMI) and the Asian Bond Fund were launched with the aim of promoting efficient and highly liquid bond markets.
+
+These reforms and initiatives have formed the foundation for financial stability in the APAC region since the year 2000. As a result, despite temporary rises in market volatility in the face of the Global Financial Crisis, the European debt crisis, and the turmoil in the banking sector in March 2023, the financial system in the APAC region has remained resilient.
+
+## II. APAC Financial System amid Changes in the Environment
+
+The past stability of the APAC financial system, however, does not guarantee future resilience. The evolving environment surrounding the financial system necessitates adaptability. I would like to point out three fundamental changes that are key to promoting the stability of the financial system: first, the global shift to a high-interest rate environment; second, progress in the digitalization of finance; and third, the growing need to address climate change on the financial front.
+
+## A. Global Shift to a High-Interest Rate Environment
+
+The first change is the global shift to a high-interest rate environment. Over the past two years, there has been a surge in inflation globally, reflecting economic recoveries and supply constraints after the pandemic, and also geopolitical factors. As a result, interest rates were raised rapidly in the United States and Europe. Interest rates were also raised in many APAC jurisdictions, though inflation rates and interest rates vary across countries and regions, depending on their respective economic conditions. The low-forlong interest rate environment was the so-called new normal after the Global Financial Crisis. It, however, has shifted to a high-interest rate environment in a short period of time. While uncertainty persists regarding future developments, focus has shifted toward the possibility of interest rates remaining elevated for an extended period.
+
+Interest rates are a source of income for financial institutions. At the same time, they are used to measure the present value of future cash flows. On the one hand, a rise in interest rates contributes to improving financial institutions' profits through a rise in yields. On the other hand, rising interest rates increase borrowers' interest payment burden and reduce the fair value of financial institutions' securities holdings in the short run. These changes in the interest rate environment have once again highlighted the importance of managing interest rate risk and credit risk at financial institutions.
+
+The APAC region has notably remained resilient during phases of rising interest rates. One contributing factor to this stability is the strategic focus of many APAC banks on retail business since the Asian currency crisis. Particularly in emerging economies, these banks have responded to surging demand for consumer loans, including housing, auto, and installment loans. This surge is propelled by robust economic growth and a substantial demographic of younger individuals. As a result, a significant portion of retail deposits amassed by these banks is deemed small and relatively sticky.
+
+The banking sector turmoil in March 2023 brought to light a range of both longstanding and emerging challenges. Among the failed banks, conventional management issues such as fundamental shortcomings in basic risk management and governance, alongside their unique business models, were identified as significant contributors. Additionally, the upheaval underscored the accelerated impact of deposit outflows,
+
+largely propelled by the proliferation of social media and the prevalence of online banking platforms. Identifying these underlying issues and swiftly addressing them present paramount practical challenges for financial authorities.
+
+The turmoil experienced in March 2023 also spotlighted the critical issue of resolving global systemically important banks (G-SIBs). Given the time discrepancy in financial market openings between the APAC region and the United States and Europe, APAC authorities could find themselves with a limited window to address potential resolutions, particularly if events unfold over the weekend. Consequently, it becomes paramount for financial authorities to maintain close communication channels, both within the region and with counterparts in other regions.
+
+I believe that the reason why we are here today is to learn from the way other jurisdictions have addressed these practical challenges and from the trials and errors they have experienced.
+
+## B. Progress in the Digitalization of Finance
+
+The second change that is key to promoting financial stability is the progress in the digitalization of finance. In the APAC region, digital financial services have spread dramatically, especially among emerging economies. With just a smartphone, people can now manage their everyday personal payments, as well as make investments and take out loans. Some emerging economies have been conducting experiments with Central Bank Digital Currency (CBDC), as have Japan, the United States, and Europe. Why are we seeing such a leap in progress in the digitalization of finance, notably in emerging economies?
+
+One of the main reasons for the change is "leapfrogging." In other words, digital financial services have been advancing rapidly in those regions where many people still do not have access to face-to-face financial services. This has been made possible by the spread of smartphones, which function as a platform for providing financial services, skipping the stage of face-to-face financial services. This leapfrogging has the advantage of providing immediate access to the fruits of financial innovation without the switching costs of shifting from existing information technology systems. Moreover, it also brings substantial benefits in the context of financial inclusion. Notably, the evolution of digital technologies is not limited to traditional banks; non-bank financial intermediaries (NBFIs) increasingly leverage digital platforms to offer innovative services, such as cross-border funds transfers.
+
+On the other hand, it should be noted that the digitalization of finance could pose new risks to the stability of the financial system. It is becoming ever more important to ensure operational resilience, for example, by managing cyber and third-party risks, and to introduce anti-money laundering and combating the financing of terrorism (AML/CFT) measures. Crypto assets, tokenization, artificial intelligence (AI), and other new technologies may bring opportunities, but they could also pose risks to the financial system.
+
+A critical challenge for financial authorities lies in harnessing the advantages of the digitalization of finance while effectively managing risks to ensure the stability of the financial system. As financial services and providers continue to diversify, adopting the
+
+principle "same activity, same risk, same regulation" has become increasingly important. However, a practical challenge persists in determining which activities and risks should be classified as "the same" under this principle.
+
+Given the significant progress in digitalization witnessed in the APAC region, it is imperative for financial authorities to collaborate and engage in comprehensive discussions on this topic.
+
+## C. Growing Need to Address Climate Change on the Financial Front
+
+The third change is the growing need to address climate change on the financial front. The APAC region accounts for a large share of the world's carbon dioxide emissions, and the region is susceptible to the adverse effects of climate change, with massive flood damage increasing in recent years, for example. This is why financial authorities in this region are particularly interested in addressing climate change.
+
+Climate change represents a global challenge necessitating active participation of diverse entities acrosssociety and the economy. On the financial front, efforts are being pursued based on two overarching perspectives.
+
+The first is initiatives by financial institutions to address climate-related financial risks. Proper assessment and management of physical and transition risks through scenario analysis are becoming a more important challenge for financial institutions. It is necessary for them to understand both climate-related risks and opportunities appropriately and to conduct their business and risk management on that basis.
+
+The second perspective is financial intermediation and capital market development when addressing climate change. New investment and finance for the transition are essential in pushing ahead with decarbonization realistically without compromising social welfare. There is therefore likely to be substantial demand for funds in the corporate sector. To meet such demand efficiently, financial institutions and investors should be able to assess appropriately the risks and returns of their investments, taking the effects of measures to address climate change into account. As a basis for this, it is very important to work on information disclosure.
+
+I hope that discussions at this meeting will contribute to improving the effectiveness of financial practices in addressing climate change.
+
+## Concluding Remarks
+
+In conclusion, I am confident that this meeting will facilitate vibrant discussions and valuable insights, allowing us to deepen our understanding of the challenges confronting the APAC financial system. Reflecting on history, we recognize the numerous financial crisis episodes that have occurred. The current stability of the APAC financial system results from continuous efforts by relevant stakeholders, drawing from the lessons and experiences of past crises. Now, our pivotal mission is to pass on these invaluable lessons and experiences from the present to future generations.
+
+I am certain that the APAC financial system will remain a cornerstone of the region's economy, characterized by its significant growth potential. The Bank of Japan remains
+
+committed to strengthening coordination and collaboration with all stakeholders to ensure the stability and resilience of the financial system for the future.
+
+Thank you for your attention.

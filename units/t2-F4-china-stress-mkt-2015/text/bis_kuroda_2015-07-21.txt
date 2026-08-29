@@ -1,0 +1,212 @@
+Haruhiko Kuroda: Haruhiko Kuroda: How to sustain economic growth in Asia
+2015-07-21
+
+## Haruhiko Kuroda: How to sustain economic growth in Asia
+
+Speech by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the Amartya Sen Lecture, organised by the Cambridge Society of Thailand, Bangkok, 21 July 2015.
+
+*      *      *
+
+Accompanying charts can be found at the end of the speech or on the Bank of Japan's website.
+
+## Introduction
+
+It is a great honor to give a presentation in front of such a distinguished audience, especially Mr.  Anand  Panyarachun  and  Professor  Amartya  Sen.  I  have  admired  Professor  Sen  ever since  I  became  acquainted  with  his  work  when  I  studied  economics  at  Oxford,  about 45 years ago. At that time, I was fascinated to read not only his elegant theoretical papers on social choice but also his research on poverty and inequality, which has had a huge impact on development economics.
+
+Today, I have chosen a topic which is inseparable from the subject of development, and that is economic growth. More specifically, I would like to discuss how we can sustain economic growth in Asia. As Robert Lucas has correctly pointed out, 'Once one starts to think about economic growth, it is hard to think about anything else.' 1 Therefore, I will take off my central bank governor's cap for a while, and there will be no mention tonight of either 'unconventional monetary policy' or 'quantitative and qualitative monetary easing.'
+
+In recent years, the question of how to sustain economic growth has become an increasing preoccupation both within academia and among policy makers. The debate on the 'secular stagnation'  of  mature  economies  is  one  manifestation  of  this. 2 Given  the  tendency  of regression  to  the  mean,  even  rapidly  growing  emerging  economies  may  eventually  face similar  challenges. 3 In  the  light  of  these  discussions,  whether  Asia  can  sustain  its  robust economic growth over the coming decades may not be a particularly comfortable question, but it is nonetheless a question worth asking.
+
+In  the  following  presentation,  I  will  first  consider  a  number  of  stylized  facts  regarding economic growth in Asia. Then, I will move on to a discussion of how economic growth in Asia might be sustained.
+
+## I. Three stylized facts
+
+The first stylized fact that I want to consider is that Asia has grown almost constantly at a very rapid pace over a number of decades. Chart 1 shows per capita GDP by region. It is quite impressive that Asia, which was at the lowest level in 1950, has outperformed the other regions in terms of growth. In this long-term context, the Asian crisis of 1997-1998 seems to have been just a slight hiccup. The average growth rate over the last 60 years or so is about 4 percent per year. Thanks to the power of compound interest, this makes Asian per capita GDP  now  12  times  as  large  as  that  in  1950.  No  wonder  Asian  economies  are  often characterized as 'dynamic Asia.'
+
+1 Robert E. Lucas Jr., 'On the Mechanics of Economic Development,' Journal of Monetary Economics , Vol. 22, No. 1, pp. 3-42, 1988.
+
+2 Lawrence  H.  Summers,  'U.S.  Economic  Prospects:  Secular  Stagnation,  Hysteresis,  and  the  Zero  Lower Bound,' Business Economics , Vol. 49, No. 2, 2014; Coen Teulings and Richard Baldwin, Secular Stagnation: Facts, Causes and Cures , A VoxEu.org Book, CEPR Press, 2014.
+
+3 Lant Pritchett and Lawrence H. Summers, 'Asiaphoria Meets Regression to the Mean,' NBER Working Paper 20573, 2014.
+
+The second stylized fact is the large degree of heterogeneity, or diversity in plain English, in the level of  per  capita  GDP.  As  illustrated  in  Chart  2,  the  Asian  NIEs  (Hong  Kong  SAR, Singapore, Taiwan and Korea) and Japan enjoy very high levels of income, whereas most Asian countries - and in fact most of the population of Asia - belong to the middle-income group. 4 Even within the middle-income group, individual countries differ considerably in their levels of per capita GDP.
+
+Economists  studying  economic  growth  rely  primarily  on  estimates  of  GDP,  but  they sometimes check these statistics against data from other sources. One simple and visually impressive yardstick of economic prosperity is the amount of artificial light that can be seen at  night  from  space. 5 Chart  3  shows  such  an  image  for  Asia.  This  not  only  confirms  the aforementioned  heterogeneity  across  Asian  countries,  but  also  shows  the  heterogeneity within  a  country.  For  instance,  coastal  China  is  as  bright  as  Korea  and  Japan,  but  light becomes sparse as you move inland. Likewise, the area around Delhi in India, or Bangkok in this country, is quite bright, but there are plenty of darker areas as well.
+
+The third stylized fact relates to the heterogeneity in growth rate of per capita GDP. As I said, Asia  as  a  whole  has  maintained  a  growth  rate  of  about  4  percent  for  more  than  half  a century, as shown in the left-hand-side panel of Chart 4.
+
+However, once we plot the growth rates of individual economies, the diversity in the nature of the region's economic development becomes immediately apparent. The graph also reveals that there were shifts in the region's 'rising stars.' Japan recorded double digit growth in the 1960s, but its growth rate became subdued thereafter. Instead, the Asian NIEs took over the position of very rapid growth economies, followed by China more recently.
+
+If we redraw the picture, not against time horizons but against income levels, as shown in the right-hand-side  panel  of  Chart  4,  there  emerges  a  pattern  of  development  stages.  Growth rate tends to become higher once a country makes the transition from the low-income to the middle-income stage. The growth rate reaches its peak when an economy is at the middleincome stage.  After  that,  it  tends  to  become  slower,  especially  once  a  country  enters  the high-income stage.
+
+## II. Three traps for growth
+
+Can Asian countries sustain their rapid economic growth for the foreseeable future? If history is  any  guide,  we  could  expect  another  rising  star  to  emerge  in  Asia.  It  is  by  no  means guaranteed, however. Even if it is the case, we cannot entirely count on one single rising star. The growth rate of relatively high-income Asian economies needs also to be sustained at  a  reasonably  high  level  if  the  prosperity  of  the  regional  economy  as  a  whole  is  to  be maintained.
+
+I believe there are three traps which we must avoid falling into if we are to sustain economic growth  in  Asia.  Despite  the  heterogeneity  which  we  have  observed,  these  three  traps  are relevant  to  many  countries  in  the  region,  albeit  to  varying  degrees,  depending  on  the circumstances.
+
+The first trap is the 'middle-income trap.' 6 History shows that many economies have faced difficulties  in  advancing  beyond  the  status  of  a  middle-income  economy  once  they  have
+
+4 See  http://data.worldbank.org/about/country-and-lending-groups.  In  my  presentation,  I  loosely  follow  their definitions by using thresholds of 12,000 U.S. dollars and 1,000 U.S. dollars of per capita GDP.
+
+5 David  N.  Weil, Economic  Growth ,  Third  Edition,  Pearson  Education  Limited,  2013.  The  darkness  of  North Korea  is  noteworthy,  as  is  often  pointed  out  in  the  literature,  including  Charles  I.  Jones,  'The  Facts  of Economic Growth,' NBER Working Paper 21142, 2015.
+
+6 The middle-income trap is discussed extensively in Asian Development Bank, Asia 2050: Realizing the Asian Century , 2011.
+
+exploited the growth opportunities provided by imported technology and abundant labor force from rural areas. Such an inflection point is known as the Lewisian Turning Point. Up to that point,  growth  accounting  analysis  generally  indicates  that  a  country  tends  to  register  high economic growth through vast capital accumulation, rapidly rising total factor productivity and continued increases in labor input. Once such a point has been reached, however, growth is likely  to  decelerate.  Nevertheless,  it  is  still  possible  for  a  country  reaching  the  Lewisian Turning  Point  to  continue  growing,  although  at  a  somewhat  decelerated  pace,  through technological advances and cultivation of new markets.
+
+In the region, Japan and the NIEs managed to overcome this trap and join the group of highincome countries in the 1970s and the 1990s, respectively - as you can see in the right-hand panel of Chart 4 again. China and some ASEAN countries, including Thailand, have already reached the upper middle-income stage, which means that they have great opportunities to advance further toward high-income status. Moreover, there are many other countries in the region that are still at the lower middle-income stage, but with great potential for continued growth for years to come.
+
+The  second  challenge  is  the  'demographic  trap.'  A  number  of  economies  in  the  region, particularly  those  at  the  high-income  stage  and,  to  a  lesser  extent,  at  the  upper  middleincome stage, are experiencing, or about to experience, population aging: the result of longer life expectancies combined with lower fertility rates. From the view point of per-capita income growth, which I believe is an appropriate measure of 'living standard,' what really matters is the proportion of the working-age population to the population as a whole. Population aging implies  a  continued  decline  in  the  proportion  of  the  working-age  population,  which  in  turn poses a challenge to sustaining per-capita income growth, as a given income earner has to transfer a larger share of his or her income to the retirees.
+
+Chart 5 shows how diverse the region is in this context, with some countries already facing serious challenges. In this chart, the horizontal axis is changes in working-age population, and the vertical axis is the proportion of the working-age population to the total population. A rise in this proportion is often called a 'demographic bonus,' while the opposite is called a 'demographic onus.' And the size of the bubble is proportional to the absolute number of the working-age population.
+
+As you can see, over such a long period of time, even glacial demographic changes seem dramatic.  Japan  has  already  entered  deep  into  the  period  of  demographic  onus,  with  the absolute  number  of  the  working-age  population  declining  at  a  significant  pace.  The  NIEs, China and some ASEAN countries are about to follow Japan in this regard in the not-sodistant future. Meanwhile, India and other Asian countries are expected to enjoy a favorable demographic environment at least until the middle of this century.
+
+The  third  challenge  is  what  I  call  the  'Malthusian  trap.'  In  Malthus'  original  work,  the existence of a limited resource - land in his case - constrains growth. Likewise, limitations in the supply of natural resources, such as oil, are thought to threaten global growth in the longrun. A problem arises even with water, seemingly abundant resources at least for Japanese. As  a  matter  of  fact,  water  scarcity  is  often  discussed  as  an  important  constraint  on industrialization as well as agricultural development in the global economy. From this point of view,  the  slowdown  in  commodity-consuming  emerging  economies  in  recent  years  may suggest that an automatic stabilizer - or an appropriate policy reaction toward this constraint -  is  actually  affecting  the  economic  growth  over  the  cycles.  Environment  issues  such  as global warming can be thought of as a variant of this Malthusian trap.
+
+## III. Productivity growth
+
+It is generally acknowledged that the key to avoiding these three traps is productivity growth, or  more  precisely  'total  factor  productivity  growth.'  In  a  recent  speech,  Janet  Yellen,  the Chair  of  the  Federal  Reserve  Board,  stated  that,  'The  most  important  factor  determining
+
+continued advances in living standards is productivity growth.' 7 I  could  not  agree  with  her more.
+
+Take  an  example  of  the  Malthusian  trap.  Malthus'  dismal  prophecy  did  not  materialize because dramatically high productivity growth in the agricultural sector in the 18th century enabled  countries  to  feed  vastly  increasing  populations  and  hence  sustain  growth.  For instance, when the potato, a plant native to the Americas, was introduced into Ireland, a field of potatoes could feed two or three times as many people as a similar field of grain, so the introduction of the potato resulted in a significant rise in Ireland's agricultural productivity.
+
+Likewise, in the modern world, higher productivity enables an economy to grow even with a smaller working-age population, and hence to avoid the demographic trap. If a country can maintain a decent productivity growth even after it has exploited imported technology and an underutilized  labor  force,  that  country  is  likely  to  succeed  in  growing  its  way  out  of  the middle-income trap.
+
+Discussion  of  the  myth  of  Asian  miracles  also  highlights  the  importance  of  total  factor productivity. Well before the Asian currency crisis of 1997-1998, Paul Krugman argued that the rapid growth of the NIEs or Asian tigers was not sustainable because their high growth was not sufficiently supported by total factor productivity. 8 History vindicated his assessment: the  Asian  currency  crisis  was  in  part  an  inevitable  transition  toward  more  sustainable  and balanced growth.
+
+Let me confirm this point using data, with the usual disclaimer regarding the large uncertainty associated with estimates of total factor productivity. In graph 6, the vertical axis is per capita GDP growth, while  the  horizontal  axis  is  total  factor  productivity  growth.  In  the  left  panel, which describes the period preceding the Asian currency crisis, the dots representing high growth Asian economies are generally located well above the regression line. This means that their economic growth could be explained relatively more by expansion of inputs, such as demographic bonus and investment boom, than by total factor productivity growth.
+
+The right hand panel, which describes the situation in recent years, after the Great Financial Crisis, shows that Asian economies are much closer to the regression line than they were in the 1990s. This looks encouraging in terms of balanced growth. One caveat, however, is that Asian dots are located closer to the zero-vertical line as well: total factor productivity growth is generally lower than it was in the 1990s. In other words, economic growth appears to be more balanced, but it  may  have  also  lost  some  strength.  This  is  a  bit  disturbing  because population  aging  is  about  to  accelerate  in  some  countries,  with  stronger  demographic headwinds therefore to be expected. Remember that once a country falls into demographic onus,  it  needs  to  offset  negative  demographic  forces  with  higher  growth  in  total  factor productivity  just  to  maintain  per  capita  growth,  and  hence  living  standards.  This  is  exactly why total factor productivity growth is the crucial issue for a number of Asian economies.
+
+The next question then is, how do we raise total factor productivity growth? The answer may be a pessimistic one if we think that productivity growth is only exogenously determined. If this  is  the  case,  all  we  can  do  is  hope  that  some  exogenous  shock,  or  just  pure  luck,  will raise productivity. We would have to admit that there is an element of truth in this explanation if  we look at the history of prosperous cities, as highlighted by Enrico Moretti, an expert in urban economics. 9
+
+7 Janet  L.  Yellen,  'Recent  Developments  and  the  Outlook  for  the  Economy,'  Remarks  at  the  City  Club  of Cleveland, July 10, 2015.
+
+8 Paul Krugman, 'The Myth of Asia's Miracle,' Foreign Affairs , Vol. 73, November/December, pp. 62-78, 1994.
+
+9 Enrico Moretti, The New Geography of Jobs , Mariner Books, 2013.
+
+For  instance,  the  reason  why  Seattle,  Washington,  became  a  high-tech  industry  hub depended to a large extent on the fact that the founders of Microsoft had grown up there and wanted to relocate their company to a place familiar to them. Similar stories can be found for other  U.S.  high-tech  cities.  If  these  cases  provide  a  complete  explanation  of  productivity growth, all we can do is wait and hope for a genius like Bill Gates or Steve Jobs to be born by chance in our country.
+
+Fortunately, however, economic literature is much more hopeful in this respect: productivity is largely endogenous.
+
+## IV. How to raise productivity
+
+In the economic literature, there is a long list of factors that are thought to have a positive impact on productivity growth. I do not intend to go through all of them but, instead, I would like to focus on three things that I think are of particular importance.
+
+The first is human capital. Measuring human capital is a difficult task, but one of the simplest indicators often used is the number of school years. In Chart 7, the greater the number of years spent in school, the darker the green in which the country is colored. In Asia, there are a number of dark green areas, such as Japan, Korea, Malaysia and Sri Lanka. As you would expect, Hong Kong and Singapore also belong to this group, although it is not shown clearly on  this  map.  One  may  get  the  impression  that  Asia  as  a  whole  is  not  as  green  as  North America  or  Europe,  and  is  more  or  less  similar  to  South  America.  This  would  seem  to indicate that there remains significant potential for further accumulation of human capital in the region.
+
+At the same time, there are some interesting figures relating to U.S. universities, which are generally acknowledged as providing the highest standard of education, attracting talented people from all over the world. If you look at the data for U.S. university students by their country  of  origin,  you  can  see  that  students  from  Asian  countries  dominate,  as  shown  in Chart  8.  Those  students  returning  to  their  home  countries  will  no  doubt  have  a  profound impact  on  the  human  capital  there.  It  is  well  known  that  Bangalore,  the  IT  hub  of  India, benefited  from  returnees  from  Silicon  Valley.  Moretti's  study  shows  that  innovative,  highly skilled  workers  contribute  not  only  directly  to  the  higher  quality  of  human  capital,  but  they also have a positive effect on the skills of those around them - a sort of positive externality. 10
+
+It  is  also encouraging to see that an increasing number of Asian universities have become recognized as top-tier at a global level. According to some recent university rankings, more than  ten  universities  in  Asia  are  among  the  best  100. 11 Remember  that  the  success  of Bangalore  also  lies  in  the  fact  that  local  IT  firms  were  able  to  recruit  many  highly  skilled graduates from nearby universities.
+
+Against  these  backdrops,  Asian  has  made  larger  contributions  to  the  development  of science. For instance, the share of Asian born Nobel prize winners in scientific fields doubled to more than 10 percent after the turn of the millennium. 12 These truly top academic scholars have influenced the development of human capital in their own countries in various forms as exemplified by Professor Sen himself in front of us.
+
+The  second  key  to  higher  productivity  is  a  market-friendly  business  environment.  For example, a critical precondition for market functioning such as property rights protection, or the rule of law more generally, is an indispensable ingredient for an innovative environment, which in turn is the basis for productivity growth. I firmly believe, as many economists do, that
+
+10 Enrico Moretti, The New Geography of Jobs , Mariner Books, 2013.
+
+11 See, for instance, Times Higher Education World University Rankings.
+
+12 Nobel prizes in the areas of physics, chemistry, physiology or medicine, and economic sciences.
+
+healthy  competition  and  appropriate  incentives  are  essential  for  a  well-functioning  market mechanism, through which sustainable and robust economic growth is made possible. On this score, deregulation is to be strongly encouraged as well. I think that Asian economies are making steady progress in this regard, although I also believe that much more needs to be done.
+
+While the importance of market mechanisms cannot be exaggerated, it does not mean that we can turn a blind eye to income inequality. As a matter of fact, some academics argue that inclusiveness  is  conducive  to  economic  growth  in  the  long-run. 13 Furthermore,  a  recent empirical  study  shows  that  lower  inequality  is  correlated  with  faster  and  longer  economic growth. 14 Chart  9  compares  inequality  in  income  across  countries.  According  to  Thomas Piketty, inequality in the United States is alarmingly high and hence colored in dark red in this Chart. 15 Compared  with  the  United  States,  inequality  in  Asia  is  generally  low,  albeit  with some exceptions.
+
+The third element which plays an important role in raising productivity is a strong financial sector.  I  am  completely  convinced  by  arguments  for  creative  destruction  as  a  source  of productivity  growth. 16 As  pointed  out  by  Joseph  Schumpeter, financial intermediation is an important  catalyst  to  support  innovative  entrepreneurs  and  value  creators  generally.  A modern example of this can be found in venture capitalists, who provide not only financial resources, but also business advice for growth-oriented companies. Of course, the role of financial  intermediation  is  not  limited  to  supporting  start-ups.  As  a  matter  of  fact,  the seamless availability of a wide range of financial functions would best serve innovation-led economic growth.
+
+In  the  Asian  context,  channeling  the  region's  abundant  savings  to  the  vast  demand  for infrastructure is also an important challenge in which I myself was deeply involved when I was President of the Asian Development Bank. Developing bond markets has been one of the successful initiatives in terms of intra-regional matching between savings and investment. 17 Bond markets in Asia, especially those denominated in local currencies, have grown  significantly  since  the  mid-2000s,  thanks  to  the  efforts  of  the  relevant  financial authorities and other bodies. At the end of 2013, outstanding bond issuances amounted to 3.5 trillion U.S. dollars, which is about five times the figure for 2005.
+
+Turning  to  retail  financial  services,  inclusiveness,  which  I  mentioned  a  little  while  ago,  is again an important issue. We should note that a significant number of people in Asia still do not  have  their  own  bank  accounts. 18 Less  than  half  the  population  in  India  has  a  bank account. China fares better, with the proportion of account holders being two-thirds of the population,  but  that  is  still  far  from  the  situation  in  advanced  economies  where  almost everybody has access to a bank account. I believe that the Asian financial landscape, and
+
+13 Daron Acemoglu and James A. Robinson, Why Nations Fail: The Origins of Power, Prosperity and Poverty , Crown Business, 2012.
+
+14 Jonathan D. Ostry, Andrew Berg and Charalambos G. Tsangarides, 'Redistribution, Inequality, and Growth,' IMF Staff Discussion Note, SDN/14/02, 2014.
+
+15 Thomas Piketty, Capital in the Twenty-First Century , Belknap Press, 2014.
+
+16 Joseph  A.  Schumpeter, The  Theory  of  Economic  Development:  An  Inquiry  into  Profits,  Capital,  Credit, Interest, and the Business Cycle , Harvard University Press, 1934. See also Philippe Aghion and Peter Howitt, 'A  Model  of  Growth  Through  Creative  Destruction,' Econometrica ,  Vol.  60,  No.  2,  pp.  323-351,  1992; Katsuhito  Iwai,  'Schumpeterian  Dynamics:  An  Evolutionary  Model  of  Innovation  and  Imitation,' Journal  of Economic Behavior and Organization , Vol. 5, pp. 159-190, 1984.
+
+17 Hiroshi Nakaso, 'Asian Economy: Past, Present, and Future,' Speech at Securities Analysts Association of Japan International Seminar, April 24, 2015.
+
+18 The Wall Street Journal, 'Asia Seeks to Reach the 'Unbanked',' March 18, 2015.
+
+therefore the prospects for further strong economic growth, will be completely different once the issue of limited availability of banking services is addressed.
+
+## Conclusion
+
+In my presentation today, I have emphasized that productivity growth is crucial to sustaining hitherto  robust  economic  growth  in  Asia.  Among  many  other  things,  in  my  view,  the continued  accumulation  of  human  capital,  market-friendly  institutional  setups  and  strong financial  sectors,  all  play  an  important  role  in  productivity  growth.  We  have  seen  many positive developments in this respect in Asia, but much more needs to be done.
+
+What I have discussed today could be broadly categorized as structural reforms. Generally speaking, structural reforms are always and everywhere difficult to implement in the face of vested interests. Depending partly on where you are in the business cycle, there is often a strong temptation to defer them to a later date. This is because of concerns about short-term negative impacts on the economy. Despite all those downsides, however, I still believe that there  is  no  better  time  than  now  to  put  necessary  reforms  in  motion.  Short-term  negative impacts are often overstated. They should not be used as an excuse to oppose reforms. If structural reforms are well designed, they will increase rather than decrease current demand, because they improve the prospects of future profits for businesses and hence permanent income for households. 19
+
+That's all  from  me tonight. Once I have completed my assignment to talk about growth in Asia, I need to put on my central bank governor's cap again. If I may use Professor Lucas's quote again with a slight modification, 'Once one starts to think about deflation or inflation , it is  hard  to  think  about  anything  else.'  Therefore,  please  give  me  your  comments  and questions before I put my central banker's cap back on.
+
+Thank you.
+
+19 Benoȋt Cœuré, 'Structural Reforms: Learning the Right Lessons from the Crisis,' Speech at the Bank of Latvia Economic Conference, October 17, 2014.
+
+BIS central bankers' speeches
+
+## GDP per Capita
+
+
+
+Note: Figures in parentheses are annual average growth rates from 1950 to 2014 Source: The Conference Board.
+
+Chart 2
+
+## GDP per Capita by Country
+
+
+
+Chart 4
+
+
+
+## Growth Rate of GDP per Capita
+
+Note: NIEs consists of Hong Kong SAR, Singapore, Korea, and Taiwan. ASEAN3 consists of Indonesia, Malaysia, and Thailand. 'Source. The Conference Board.
+
+
+
+## Demographic Changes
+
+Notes: 1 NIFs3 consists of Hong Kong SAR, Singapore, and Korea ASEAN3 consists of Indonesia, Malaysia, and Thailand 2. The size of the bubble is proportional to the number of working-age population.
+
+
+
+Source: The Conference Board.
+
+Chart 6
+
+## Total Factor Productivity
+
+
+
+## Average Years of Total Schooling
+
+
+
+Note: Data are as of
+
+Source: Jong-Wha Lee
+
+Students' Country-Origins in the U.S. Universities
+
+
+
+'Note: Data arc as of the end of FY2013. Source: Institute of International Education.
+
+2014. Robert Barro and "Educational Attainment Dataset."
+
+Chart 8
+
+## Inequality in Income
+
+
+
+Note: Data are as of 2013. Source: World Bank.

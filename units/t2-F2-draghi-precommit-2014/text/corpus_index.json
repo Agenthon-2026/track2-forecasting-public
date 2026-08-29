@@ -1,0 +1,42 @@
+{
+  "card_id": "t2-F2-draghi-precommit-2014",
+  "asof": "2014-05-30",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "ecb_draghi_2014-04-10",
+      "timestamp": "2014-04-10",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-04-10.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-04-24",
+      "timestamp": "2014-04-24",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-04-24.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2014-04-30",
+      "timestamp": "2014-04-30",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20140430.txt"
+    },
+    {
+      "doc_id": "beige_book-2014-04-30",
+      "timestamp": "2014-04-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201404.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2014-05-26",
+      "timestamp": "2014-05-26",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2014-05-26.txt"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+Takako Masai: Takako Masai: Economic activity, prices and monetary policy in Japan
+2020-02-06
+
+
+
+Bank  of  Japan February  6,  2020
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Business Leaders in Nara
+
+## MASAI Takako
+
+Member of the Policy Board
+
+(English translation based on the Japanese original)
+
+## I. Developments in Economic Activity and Prices
+
+I would like to start my speech with a look at developments in economic activity and prices.
+
+Following the discussion at the Monetary Policy Meeting (MPM) held in January 2020, the Bank  of  Japan  published  the Outlook  for  Economic  Activity  and  Prices ,  or  the  Outlook Report. In this report, the Bank presented its projections for Japan's economic activity and prices from fiscal 2019 through fiscal 2021.
+
+I will explain developments in economic activity and prices by presenting the main content of the Outlook Report.
+
+## A. Overseas Economies
+
+Let me first touch on the current situation for overseas economies. The Bank assesses that they have been growing moderately on the whole, although slowdowns have continued to be observed.
+
+Downside risks concerning overseas economies seem to be still significant. However, I feel that they have eased somewhat recently, mainly reflecting progress in the U.S.-China trade negotiations and in the United Kingdom's exit from the European Union. This view seems to  be  shared  among,  for  example,  international  organizations,  as  evidenced  by  the World Economic Outlook (WEO) Update released in January 2020 by the International Monetary Fund  (IMF),  in  which  the  IMF  assessed  that  the  balance  of  risks  to  the  global  outlook remained on the downside but was less skewed toward adverse outcomes than in October. 1
+
+In  terms  of  the  outlook  for  overseas  economies,  although  it  will  take  some  time  for  the growth  pace  to  pick  up,  they  are  expected  to  grow  moderately  on  the  whole,  with  the growth  rates  rising  on  the  back  of  the  materialization  of  the  effects  of  macroeconomic policies in each country as well as a pick-up in the manufacturing sector, due mainly to the global cycle for IT-related goods shifting toward a phase of improvement. According to the January 2020 WEO Update, the growth rate of the global economy is projected to pick up
+
+1   See https://www.imf.org/en/Publications/WEO/Issues/2020/01/20/weo-update-january2020.
+
+gradually to around 3.4 percent -- about the same level as the past average -- in 2021, led by emerging economies, amid continued accommodative financial conditions.
+
+In  fact,  there  seem  to  be  signs  of  recovery  in  the  manufacturing  sector.  For  example, the Global  Purchasing  Managers'  Index  (PMI)  for  manufacturing,  which  is  highly  correlated with world trade volume, showed signs of a pick-up, exceeding the 50 mark for the first time in seven months in November 2019; by region, the Manufacturing PMIs for the NIEs and ASEAN economies, excluding Hong Kong, also exceeded the 50 mark in December, due to the cycle for IT-related goods shifting toward a phase of improvement. I have been paying particular attention to the timing and the pace of a pick-up in overseas economies, especially  in  manufacturing,  and  my  assessment  is  that,  if  these  developments  continue, overseas economies will pick up through the first half of 2020.
+
+## B. Japan's Economy
+
+## 1. Current situation
+
+The Bank assesses that Japan's economy has been on a moderate expanding trend, with a virtuous  cycle  from  income  to  spending  operating,  although  exports,  production,  and business  sentiment  have  shown  some  weakness,  mainly  affected  by  the  slowdown  in overseas economies and natural disasters.
+
+Looking  at  the  December  2019 Tankan (Short-Term  Economic  Survey  of  Enterprises  in Japan),  the  diffusion  index  for  business  conditions  for  all  industries  and  enterprises  (the proportion  of  firms  responding  that  business  conditions  were  "favorable"  minus  the proportion of those responding that they were "unfavorable") remained in positive territory, as  that  for  nonmanufacturing  stayed  at  a  favorable  level  reflecting  an  increasing  trend  in domestic demand, while that for manufacturing indicated a clear increase in cautiousness. The real GDP growth rate for the July-September quarter of 2019 was 1.8 percent on an annualized quarter-on-quarter basis, registering a positive figure for the fourth consecutive quarter, underpinned by domestic demand  such as business fixed investment and government spending. The characteristics of the current situation -- where domestic demand underpins  weak  external  demand,  which  is  contrary  to  export-led  economic  expansion phases in the past -- have been maintained.
+
+Let me elaborate on this by looking at developments by demand component.
+
+With regard to external demand, exports, mainly of automobile-related goods and capital goods, have continued to show some weakness with the continued slowdown in overseas economies. Industrial production has decreased, partly due to the effects of natural disasters -- such as the 2019 Typhoon No. 19 -- on supply chains.
+
+On the other hand, as for domestic demand, business fixed investment has continued on an increasing trend, with corporate profits staying at high levels on the whole. Looking at this in  detail,  many  construction  investment  projects  appear  to  aim  at  rejuvenating  vintage building  stock,  such  as  replacement  of  aging  existing  buildings.  In  addition,  software investment related to big data, artificial intelligence (AI), and the Internet of Things (IoT), as well as research and development (R&amp;D) investment related to CASE, have continued to increase  steadily. 2 Public  investment  also  has  been  expanding  moderately,  especially  for construction related to restoration and reconstruction following natural disasters as well as to  national  resilience.  Private  consumption  has  been  increasing  moderately,  albeit  with fluctuations due to such effects as of the October 2019 consumption tax hike, against the background of steady improvement in the employment and income situation. Meanwhile, supply-demand  conditions  in  the  labor  market  have  remained  tight,  as  evidenced  by  the unemployment rate remaining at around the lowest level observed in the current economic expansion phase, being in the range of 2.0-2.5 percent.
+
+## 2. Outlook
+
+Japan's  economy  is  likely  to  continue  on  an  expanding  trend  throughout  the  projection period --  that  is,  through  fiscal  2021  --  as  the  impact  of  the  slowdown  in  overseas economies  on  domestic  demand  is  expected  to  be  limited,  although  the  effects  of  the slowdown are likely to remain for the time being.
+
+Although exports likely will show some weakness for the time being in a situation where a pick-up in overseas economies is expected to take some time, they are projected to return to a moderate increasing trend with the pick-up in overseas economies. Some indicators have
+
+2   "CASE" is a term that stands for Connected, Autonomous, Shared &amp; Services, and Electric.
+
+started  to  show  positive  signs  regarding  external  demand.  For  example,  exports  of IT-related goods, especially for smartphones and data centers, have turned to an increasing trend  recently,  and  likely  will  maintain  the  firm  increasing  trend,  partly  underpinned  by demand related to the introduction of 5G communication technology. Information obtained from interviews with firms in the January 2020 Regional Economic Report includes a view that a full-fledged recovery in exports of semiconductor manufacturing equipment to China could be expected with the improvement in the global cycle for IT-related goods.
+
+Domestic  demand  is  likely  to  follow  an  uptrend,  with  a  virtuous  cycle  from  income  to spending being maintained in both the corporate and household sectors, mainly against the background of highly accommodative financial conditions and active government spending. Business fixed investment --mainly construction investment related to urban redevelopment  projects  and  that  aimed  at  meeting  inbound  tourism  demand,  investment aimed  at  improving  efficiency  and  saving  labor  to  address  labor  shortage,  as  well  as software  investment  and  R&amp;D  investment  for  growth  areas  --  is  likely  to  continue increasing moderately amid accommodative financial conditions, although it is expected to decelerate temporarily, mainly in machinery investment by manufacturers, due to the effects of  the  slowdown  in  overseas  economies,  and  such  factors  as  an  accumulation  of  capital stock are projected to exert downward pressure from a somewhat longer-term perspective. Private consumption is expected to follow a moderate increasing trend with such effects as of the consumption tax hike waning gradually. Meanwhile, government spending is likely to increase steadily through fiscal 2020, mainly due to (1) expenditure such as for disaster-related restoration and reconstruction as well as national resilience, both of which reflect  the  Comprehensive  Economic  Measures  to  Create  a  Future  with  Security  and Growth  decided  by  the  Cabinet  in  December  2019,  and  to  (2)  Olympic  Games-related demand.  Thereafter,  it  is  expected  to  remain  at  a  relatively  high  level  and  underpin economic activity.
+
+Reflecting  these  developments  in  demand  at  home  and  abroad,  Japan's  real  GDP  may temporarily decline in the second half of fiscal 2019 from the first half, due mainly to the effects  of  the  slowdown  in  overseas  economies,  the  consumption  tax  hike,  and  natural disasters,  but  thereafter  likely  will  see  a  gradual  acceleration  in  its  growth  pace  through
+
+fiscal 2021. In terms of the medians of the Policy Board members' forecasts in the January 2020 Outlook Report, the real GDP growth rate is 0.8 percent for fiscal 2019, 0.9 percent for fiscal 2020, and 1.1 percent for fiscal 2021.
+
+## 3. Risks to the outlook
+
+I consider it important that domestic and external demand grow in a well-balanced manner in order to achieve sustainable economic growth. From this viewpoint, among the risks to the Bank's baseline scenario regarding the outlook for the economy, I would like to point out two to which I currently pay particular attention.
+
+First,  as  for  external  demand,  developments  in  overseas  economies  remain  a  risk  factor. Although downside risks concerning overseas economies have decreased somewhat, mainly reflecting  the  progress  in  the  U.S.-China  trade  negotiations,  they  are  still  significant.  In particular,  I  think  that  it  is  necessary  to  pay close  attention  to  the  effects  on  the  world economy -- including the Chinese economy -- caused by the spread of the novel coronavirus, and the impact of these downside risks on firms' and households' sentiment in Japan.
+
+Second,  turning  to  domestic  demand,  I  consider  that  the  key  question  is  whether  the moderate increasing  trend  in  private  consumption  will  be  maintained.  The  effects  of  the consumption tax hike in October 2019 seem likely to be restrained compared with at the time of the previous tax hike in 2014, partly due to various measures implemented by the government  to  support  households  --  for  example,  a  point  reward  program  when  using cashless payments, an increase in welfare benefits for pensioners, and the issuance of goods vouchers issued with a premium. However, I would like to closely monitor whether there will be a change in the trend in private consumption in the long run, as the effects of the decline in real income may appear gradually over time.
+
+## C. Price Developments
+
+1. Current situation
+
+Next, I will turn to price developments in Japan.
+
+Regarding  recent  price  developments,  the  year-on-year  rate  of  increase  in  the  consumer price  index  (CPI)  for  all  items  less  fresh  food  has  been  at  a  level  around  0.5  percent, including the effects of the consumption tax hike and policies concerning the provision of free education since October 2019, mainly because of downward pressure on prices caused by the past decline in crude oil prices and reductions in mobile-phone-related prices. There has been no change in the Bank's assessment that prices have continued to show relatively weak developments compared to the economic expansion and tight labor market conditions.
+
+The background to why it has been taking time for prices to rise is explained in detail in the July  2018  Outlook  Report. 3 To  explain  this  once  again,  it  has  been  pointed  out  that  the factors specific to Japan -- namely, the situation where the mindset and behavior based on the assumption that wages and prices will not increase easily have been deeply entrenched, due mainly to the experience of prolonged low growth and deflation -- in addition to global ones  such  as  technological  progress  brought  about  by  digitalization,  have  been  affecting prices.  It  has  been  taking  time  to  resolve  these  factors  specific  to  Japan  that  have  been delaying price rises, and the situation likely has continued in which the responsiveness of prices to the output gap, as well as inflation expectations that are strongly affected by the adaptive formation mechanism, do not rise easily.
+
+Nevertheless, I hold the view that the inflation momentum has been maintained and factors that could trigger an increase in it continue to be detected. 4 For example, housing rent is gradually turning to an increase in the CPI. The July 2018 Outlook Report that I mentioned earlier pointed out -- based on a comparison among Japan, the United States, and Germany in terms of the year-on-year rate of change in the CPI excluding food and energy for fiscal 2017 -- that the low rates of increase in  administered prices and housing rent contributed significantly  to  the  low  inflation  rate  in  Japan,  which  was  the  lowest  among  the  three countries. 5 The  January 2020  Outlook Report pointed to the continued lackluster
+
+3   See https://www.boj.or.jp/en/mopo/outlook/gor1807a.pdf.
+
+4   See  Masai  Takako,  "Economic  Activity,  Prices,  and  Monetary  Policy  in  Japan:  Speech  at  a Meeting with Business Leaders in Mie," Bank of Japan, September 2019.
+
+5   See Box 6 "Developments in Administered Prices and Housing Rent," in the July 2018 Outlook Report.  When  imputed  rent  is  included,  the  total  share  of  housing  rent  and  administered  prices accounts for almost 50 percent of the CPI excluding food and energy.
+
+developments in administered prices and housing rent as a factor delaying price rises. In this respect, housing rent has continued to make positive contributions to the CPI for Tokyo's 23 wards as a trend since around the middle of 2018 against the backdrop of the recent uptrend in land prices. On a nationwide basis, the contributions turned positive for the first time in 11 years in the CPI for November 2019. If this trend continues, housing rent will be a factor affecting the long-term trend in prices, and I am paying attention to this situation.
+
+Turning  to  overseas  economies,  there  have  been  active  discussions  regarding  factors causing low inflation and policy conduct in such an environment, reflecting the continuing global phenomenon of prices not rising easily. In this situation, prices in Japan have shown somewhat different developments recently compared with those in other countries. Looking at the long-term price trends, the inflation rate has risen in Japan while it has declined in the United States and Europe.
+
+In my view, the background to the situation where the inflation rate in Japan has been rising in general, despite the global trend of prices not rising easily, reflects in substantial part the powerful monetary easing that the Bank has been pursuing based on the joint statement with the government in January 2013.
+
+## 2. Baseline scenario of the outlook for prices
+
+With  regard  to  the  outlook  for  prices,  the  year-on-year  rate  of  change  in  the  CPI  for  all items less fresh food is likely to increase gradually toward 2 percent, mainly on the back of the output gap remaining positive and medium- to long-term inflation expectations rising. The medians of the Policy Board members' forecasts of the year-on-year rate of change in the CPI for all items less fresh food presented in the January 2020 Outlook Report was 0.6 percent for fiscal 2019, 1.0 percent for fiscal 2020, and 1.4 percent for fiscal 2021.
+
+## 3. Risks to prices
+
+I now would like to talk about two points that I consider risks to the baseline scenario of the outlook for prices.
+
+The first point is future developments in real wage growth. From a long-term perspective, wages  and  prices  generally  have  moved  in  tandem  with  each  other.  In  fact,  households' tolerance toward price rises has started to increase, albeit at a moderate pace, on the back of the improvement in the employment and income situation. I consider it necessary that these positive  developments  further  gain  momentum  on  the  back  of  a  greater  increase  in  real wages in order to maintain the Bank's baseline scenario.
+
+The second point is developments in foreign exchange rates and international commodity prices. I still consider these to be risks since they not only directly affect prices but also may adversely affect business and household sentiment.
+
+## II. The Bank's Monetary Policy
+
+Next, I will talk about the Bank's monetary policy.
+
+## A. Current Monetary Policy Framework
+
+The Bank has set the price stability target at 2 percent in terms of the year-on-year rate of change in the CPI and is conducting the current framework of Quantitative and Qualitative Monetary  Easing  with  Yield  Curve  Control  to  achieve  this  target  at  the  earliest  possible time.  Specifically,  it  sets  the  short-term  policy  interest  rate  at  minus  0.1  percent  and  the target level of 10-year Japanese government bond (JGB) yields at around 0 percent in the guideline for market operations, and has been taking measures such as JGB purchases to achieve the target levels. The Bank has thus supported the economic activity of firms and households by maintaining highly accommodative financial conditions.
+
+Regarding the conduct of monetary policy, the Bank has demonstrated its stance to decide on monetary policy that is considered most appropriate, taking account of developments in economic activity and prices as well as financial conditions at the time in a comprehensive manner. In particular, since summer 2019, in a situation where downside risks to economic activity  and  prices,  mainly  regarding  developments  in  overseas  economies,  have  been heightening, the Bank has further clarified its intention by clearly demonstrating the policy stance of being tilted toward monetary accommodation, and has conducted monetary policy that  puts  a  focus  on  strengthening  its  external  communication.  Specifically,  the  public
+
+statement released after the July 2019 MPM put forth that the Bank would not hesitate to take  additional  easing  measures  if  there  was  a  greater  possibility  that  the  inflation momentum would be lost. In October, the Bank decided on a new forward guidance for the policy  rates  with  a  view  to  clarifying  its  policy  stance  of  being  further  tilted  toward monetary accommodation. Namely, it stated that, as for the policy rates, it expected shortand  long-term  interest  rates  to  remain  at  their  present  or  lower  levels  as  long  as  it  was necessary to pay close attention to the possibility that the momentum toward achieving the price stability target would be lost.
+
+## B. Future Conduct of Monetary Policy
+
+At the January 2020 MPM, it was reaffirmed that the momentum toward achieving the price stability  target  of  2  percent  was  maintained  but  not  yet  sufficiently  firm,  and  thus developments in prices continued to warrant careful attention. Specifically, downside risks to Japan's economic activity and prices stemming from overseas economies seem to be still significant, although they have decreased somewhat. As for the future conduct of monetary policy, my view is that the Bank should not hesitate to take additional easing measures if there is a greater possibility that the momentum will be lost due to materialization of these risks.
+
+Nevertheless,  accommodative financial conditions have been prolonged around the globe amid a sluggish rise in growth expectations. It therefore is natural that concerns over  the risk-taking stance, mainly among firms and investors, strengthening further reflecting the continued  low  interest  rate  environment,  have  been  recognized  among,  for  example, international organizations. 6 I also am aware of these concerns including a negative impact on  economic  activity  of  a  decline  in  such  rates  of  return  as  on  pension  products. Nonetheless, in my view, it is still indispensable that Japan persistently continues with the current  policy  so  as  to  overcome  deflation  completely  and  drive  sustainable  economic growth. The Bank will persistently devise measures considered necessary at the time and continue  to  conduct  monetary  policy  in  an  appropriate  manner  while  carefully  paying attention to both the positive effects and side effects of its policy.
+
+6   For example, see the Global Financial Stability Report released by the IMF in October 2019.
+
+## III. Promotion of Women's Participation in the Economy
+
+At a meeting with business leaders in Ehime in August 2017, I remarked that promotion of women's participation in Japan's economy was essential  in terms of increasing its growth potential  amid  the  ongoing  decline  in  the  working-age  population  and  the  worsening  of labor shortages, and that one option for firms was to aim at starting a business revolution by using women's participation and advancement in the workplace as a driving force. I once again will touch upon the promotion of women's participation in the economy.
+
+At  the  Group  of  20  (G20)  Osaka  Summit  in  June  2019,  the  Leaders'  Special  Event  on Women's Empowerment was held. At the event, it was confirmed that further efforts would be made in three priority areas -- namely, increasing women's labor participation, enhancing support for girls' and women's education, including science, technology, engineering, and mathematics (STEM)  education, and engaging with women  business leaders and entrepreneurs. 7 Also,  at  the  annual  meeting  of  the  American  Economic  Association  in January 2020 -- where Dr. Janet L. Yellen, former chair of the Board of Governors of the Federal Reserve System, serves as president -- sessions on topics such as gender were held in  a  situation  where  voices  were  heard  regarding  a  lack  of  diversity  in  the  economics profession where the number of white men was disproportionately high. One of them was titled  "Women  in  Central  Banking,"  a  panel  session  in  which  women  central  bankers  in senior positions from the United States and Europe participated. 8
+
+Turning to the situation in Japan, amid this global trend, it has been taking initiatives in 12 areas, such as increasing the employment rate for women and fostering women leaders, to achieve the numerical goals by 2020 under the leadership of the Gender Equality Bureau of the Cabinet Office in accordance with the Fourth Basic Plan for Gender Equality formulated in December 2015. Achievement of the goals has come within reach with respect to some of those initiatives. For example, the latest figure for the employment rate for women between the ages of 25 to 44 years was 76.5 percent in 2018, whereas the goal is to raise the rate to
+
+7   See https://www.mofa.go.jp/policy/economy/g20\_summit/osaka19/pdf/special\_event/en/special\_ event\_03.pdf.
+
+8   See https://www.aeaweb.org/conference/2020/preliminary/2263?q=eNqrVipOLS7OzM8LqSxIV bKqhnGVrJQMlWp1lBKLi\_OTgRwlHaWS1KJcXAgrJbESKpSZmwphlWWmloO0FxUUXDAFT A1AegsS01Mh5lwwXDBunx4U.
+
+77 percent by 2020. On the other hand, it is true that there is still a gap between the ideal vision and reality with respect to some other initiatives. Specifically, the latest figure for the proportion of women board members at listed companies was 5.2 percent in 2019, while the goal is to raise the proportion to 10 percent by 2020. This may have been reflected in the latest rankings of countries in terms of the Global Gender Gap Index released by the World Economic Forum in December 2019, in which Japan ranked 121st out of the total of 153 countries -- the lowest ranking ever for Japan, down from 110th place in 2018.
+
+Still, I feel that changes in people's perception, which is a basis for women's participation in the economy, are taking place steadily. For example, according to a survey conducted by the Cabinet Office on the proportion of people who believed that "it is better to raise boys to be masculine men and girls to be feminine women," the proportion of those who upheld that belief was 74.8 percent among women (mothers) and 78.3 percent among men (fathers) in 1972; in 2014, the figures declined to 40.4 percent and 64.1 percent, respectively. While the survey  results  show  that  women's  perception  regarding  gender  stereotypes  has  changed relatively  significantly,  they  also  reveal  a  new  challenge  in  that  the  change  in  men's perception  is  relatively  small,  causing  a  perception  gap  between  fathers  and  mothers.  I believe  that,  by  conscientiously  dealing  with  each  of  these  kinds  of  challenges,  the empowerment of women will bring about a positive change in norms.
+
+"Problems  that  currently  seem  impossible  to  solve  will  not  necessarily  remain  unsolved. Sometimes, such problems can be solved through strenuous efforts, although it may take time.  The  important  thing  is  to  open  the  path  toward  solving  problems  by  thoroughly providing information on successful cases." This was an observation made in an interview with  Ms.  Ogata  Sadako,  who  dedicated  herself  to  resolving  refugee  problems  for  many years as both the first woman and first Japanese person to serve as the United Nations High Commissioner  for  Refugees  (UNHCR),  and  who  passed  away  in  October  2019. 9 These words by Ms. Ogata, who was on the front line as a woman leader, appear to hold regarding the empowerment of women as well.
+
+9   See https://www.japanforunhcr.org/archives/3833/ (available in Japanese only).

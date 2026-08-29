@@ -1,0 +1,20 @@
+{
+ "card_id": "reg-t2-monthly",
+ "asof": "2026-06-09",
+ "documents": [
+  {
+   "doc_id": "doc_01",
+   "timestamp": "2024-09-01",
+   "source": "synthetic",
+   "doc_type": "fomc_statement",
+   "file": "doc_01.txt"
+  },
+  {
+   "doc_id": "doc_02",
+   "timestamp": "2026-05-01",
+   "source": "synthetic",
+   "doc_type": "cb_speech",
+   "file": "doc_02.txt"
+  }
+ ]
+}

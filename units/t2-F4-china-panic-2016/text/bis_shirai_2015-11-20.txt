@@ -1,0 +1,328 @@
+Sayuri Shirai: Sayuri Shirai: Monetary policies in a diversifying global economy - Japan, the United States, and the Asia-Pacific region
+2015-11-20
+
+## Sayuri Shirai: Monetary policies in a diversifying global economy Japan, the United States, and the Asia-Pacific region
+
+Remarks by Ms Sayuri Shirai, Member of the Policy Board of the Bank of Japan, at the panel discussion at the 2015 Asia Economic Policy Conference, organized by the Federal Reserve Bank of San Francisco, San Francisco, 20 November 2015.
+
+*      *      *
+
+Accompanying charts can be found at the end of the speech and on the Bank of Japan's website.
+
+## I. Introduction
+
+Thank you very much for inviting me as a panelist to the discussion on monetary policy at the 2015  Asia  Economic  Policy  Conference  organized  by  the  Federal  Reserve  Bank  of  San Francisco. My presentation today will highlight two topics. First, as one of the policymakers at the  Bank  of  Japan  (BOJ),  I  would  like  to  talk  about  Japan's  price  developments  and monetary policy by making a comparison with the case of the United States. I will then focus on the Asia-Pacific region by summarizing the recent features of price developments and its challenges related to monetary policy, covering nine countries (Australia, China, Indonesia, Malaysia,  New  Zealand,  the  Philippines,  Singapore,  South  Korea,  and  Thailand).  Let  me stress that the views expressed here are entirely my own and do not necessarily represent those of the BOJ.
+
+## II. Japan's price developments and monetary policy: comparison with the United States
+
+As  you  may  know,  the  BOJ  adopted  a  2  percent  price  stability  target  in  January  2013, followed  by  the  implementation  of quantitative  and  qualitative  monetary  easing (QQE) the following April. Partly reflecting the impact of QQE, the year-on-year rate of change in the headline  consumer  price  index  (CPI)  turned  positive  in  June  2013.  It  then  achieved 1.6 percent  in  December  2013  and  March  2014  -  the  highest  rate  of  inflation  since  the introduction of QQE after excluding the direct impact of the consumption tax hike. From the end of 2014, however, the rate of change in the CPI began to decelerate and since July 2015 has  been  sitting  at  around  0  percent,  mainly  due  to  drops  in  crude  oil  prices  and  other commodity  prices.  The  sluggish  performance  of  headline  price  indices  is  also  commonly observed in many other countries. Here, I would like to highlight the features of Japan's price developments in comparison with those of the United States.
+
+## A. Headline and core price index deviations from 2 percent inflation
+
+As the first feature , the year-on-year rate of change in the price index excluding energy has been higher than that in the headline price index both in Japan and the United States. In the case of Japan, not only has the rate of change in the headline CPI been recently hovering around  0  percent,  but  also  that  of  the  core  CPI  (defined  as  all  items  less  fresh  food). However,  the  CPI  (excluding  fresh  food  and  energy)  has  risen  to  1.2  percent  (Chart  1). Similarly,  in  the  United  States,  the  rate  of  change  in  the  headline  personal  consumption expenditures (PCE) deflator has recently been more or less flat, at around 0 percent year-onyear, but that in the core PCE deflator (defined as all items less food and energy) has been around 1.3 percent. The rates of change in the CPI and PCE deflator have been substantially below the 2 percent target (or the longer-run goal) in the two countries. However, looking ahead, the rates of change in the price indices will likely accelerate as the effect of the crude oil  price  drop  wanes in the near future - provided that crude oil prices will at least remain unchanged or begin to rise moderately.
+
+Against this backdrop, it is taking longer than initially projected for the BOJ and the Federal Reserve  to  achieve  2  percent  inflation.  In  particular,  for  the  Federal  Reserve,  such  a
+
+prolonged underperformance of prices has not been experienced in recent years, given that inflation in the decade prior to the sharp drop in oil prices in October 2014 averaged around 2 percent, even  including  the period of the global financial crisis.  One  encouraging development in the United States is that economists' and market-based long-term inflation expectations  currently  remain  stable,  at  near  2  percent,  which  indicates  that  the  recent sluggish  price  performance  is  projected  to  be  temporary  and  will  eventually  converge  to about  2  percent.  Meanwhile,  Japan's  corresponding  long-term  inflation  expectations  rose rapidly in 2013, but have since generally remained more or less flat at a little over 1 percent and distant from the 2 percent target (Chart 2). This suggests a need to generate a further increase in inflation expectations in Japan with a view to achieving a steady inflation rate of around 2 percent .
+
+## B. Labor market approaching full employment with sluggish wage growth
+
+Regarding  the  second  feature ,  both  Japan  and  the  United  States  continue  to  enjoy  a sustained  recovery  in  employment.  As  a  result,  the  rate  of  unemployment  has  reached around  3.0-3.5  percent  in  Japan  and  5  percent  in  the  United  States  -  approaching  the structural  rate  of  unemployment  (longer-run  normal  rate  of  unemployment  for  the  United States). Considering the favorable pace of job creation, however, the rate of wage growth appears to be limited in both countries.
+
+Let me elaborate on this point. In Japan ,  the number of job applicants exhibits a declining trend  due  to  a  decline  in  the  working  age  population.  A  growing  number  of  firms  report  a persistent labor shortage, and thus economic opportunities appear to be constrained at some firms in labor-intensive industries. Firms enjoy historically high profits, but so far those profits have not generated sufficiently high wage growth. The mediocre wage growth reflects a shift effect or a rising share of part-time (mostly voluntary part-time) workers in total employment - caused mainly by the increased labor market participation of older adults and housewives, as well as by firms' high demand for flexible low-cost part-time workers. The rate of change in per worker wages turned positive from fiscal 2014 onward, but presently remains roughly at  around  0.5  percent  (or  slightly  below  1  percent  on  an  hourly  basis).  To  achieve  the 2 percent price stability target, it is clear that wages must further increase. To do so, firms must  review  their  business  strategies  fostered  during  the  persistently  stagnant  wage environment, and improve labor productivity. Meanwhile, in the United States , there are still some discouraged workers and involuntary part-time workers. Partially because of this slack and  moderate  labor  productivity  growth,  the  hourly  rate  of  wage  growth  remains  at 2-2.5 percent, which is about half of the level prior to the global financial crisis.
+
+Moreover, the  output  gap ,  a  broader  concept  of  the  economic  slack,  reports  a  demand shortage of about negative 1.5 percent in 2015 in both countries, according to International Monetary Fund (IMF) estimates. The slack is larger than the one based on the unemployment  rate,  suggesting  extra  room  for  further  improvement  in  the  labor  force participation rate and the capital stock utilization rate. That said, it is becoming increasingly difficult  across  countries  to  estimate  the  output  gap  partly  due  to  the  declining  trend  in potential  GDP  after  the  global  financial  crisis  -  leading  to  widely  dispersed  output  gap estimates.  For  example,  the  BOJ's  estimate  on  the  output  gap  for  the  recent  April-June period  is  negative  0.7  percent  and  is  smaller  than  that  of  the  Cabinet  Office  of  negative 1.6 percent.  This  implies  that  the  output  gap  estimates  must  be  interpreted  with  wide margins. In any case, the trends indicate that both Japan and the United States have been achieving steady improvement in the employment and output gap, and thus their downward pressures  on  prices  have  weakened.  Large  swings  in  commodity  prices  and  foreign exchange  rates,  however,  have  blurred  the  positive  price  effects  driven  by  the  domestic demand-supply balance.
+
+## C. Households' upward bias in inflation expectations and its relation to income
+
+As  the  third  feature ,  short-  and  long-term  inflation  expectations  (median)  have  been fluctuating at around 2-3 percent in Japan and the United States (Chart 3). From the BOJ's Opinion  Survey  on  the  General  Public's  Views  and  Behavior and  Michigan  University's Surveys of Consumers , short-term inflation expectations - one year ahead in Japan and over the  next  year  in  the  United  States  -  have  remained  stable,  at  a  similar  level  of  around  3 percent over the past two years. Long-term inflation expectations - five years ahead in Japan and  over  the  next  five  to  ten  years  in  the  United  States  -  have  been  stable  for  a  longer period, at about 2 percent in Japan and around 3 percent in the United States. Furthermore, it  is  not  widely  known  that households in Japan kept positive inflation  expectations even when  mild  deflation  prevailed  from  2009  to  mid-2013. Similarly,  Japanese  households' present perceived inflation (defined as present perceived price changes relative to one year ago)  has  never  turned  into  the  negative  territory  over  the  same  mild  deflationary  period (Chart 4).
+
+Another  commonly  observed  trend  that  should  be  highlighted  is  that  households'  inflation expectations tend to be higher than the actual price developments captured in official price statistics  in  both  countries  -  suggesting the  presence  of  an  upward  bias  in  inflation expectations . This may reflect that households' responses in the survey are often affected by  the  recent  price  movements  of  everyday  goods  and  services,  such  as  food,  daily necessities,  and  gasoline.  However,  there  is  a  difference  in  the  scale  of  upward  bias;  it appears to be generally greater in Japan than in the United States . Let me assume that a gap between the average rate of long-term inflation  expectations  and  the  average  rate  of change in the headline price index roughly reflects an upward bias. The scale of the bias over  about  the  decade  before  the  sharp  drop  in  oil  prices  in  October  2014,  averaged  at around 2 percent in Japan and around 1 percent in the United States. This implies that the seemingly  stable  long-term  inflation  expectations  of  around  2  percent  held  by  Japan's households may simply be a result of the upward bias, rather than representing their true inflation expectations. Under the presence of such a bias, households in Japan may perceive that a rate of actual inflation is much higher than 2 percent in the process of approaching the 2 percent price stability target, and regard such a price rise as unacceptable.
+
+One  factor  contributing  to  Japan's  larger  upward  bias may  be  a  difference  in  future income prospects. To see this, a comparison can be made between the two countries by focusing on the diffusion index (DI) for expected income (one year ahead in Japan and over the  next  year  in  the  United  States)  -  calculated  by  subtracting  the  percentage  share  of households responding that prices will 'decrease' from that of 'increase.' Japan's expected income DI always remains negative and currently records about negative 30 percent. This suggests  that  Japan's  households  always  expect  a  decline  in  future  income,  leading  to anticipated tighter budgets as a sign of a strong defensive action, and resulting in a larger upward bias in their inflation expectations. If so, it will be important for the BOJ to promote public understanding that its objective is to achieve a moderate price rise associated with a wage  hike  and  a  sustainable  increase  in  household  spending,  to  improve  households' tolerance to price rises.
+
+In  sharp  contrast,  the  corresponding  expected  income  DI in  the  United  States always remains  positive  and  has  recently  risen  to  around  40  percent  (Chart  5).  Moreover,  in  the United States, the year-on-year rate of change in (household) expected income over the next year (median) has started to improve since around 2013 and since early 2015 has risen to around  1.5  percent  -  after  having  dropped  from  around  2.5  percent  before  the  global financial crisis to a low of around 0.5 percent in 2009-2012 (Chart 6). Let me also illustrate that the upward bias appears to be different across income groups in the United States, by  comparing  expected  income  growth  over  the  next  year  and  corresponding  expected inflation  by  high-  and  low-income  groups.  Specifically,  expected  income  growth  for  lowincome (bottom third of the income distribution) households tends to be lower than that of high-income (top third of  the  income  distribution)  ones,  while  inflation  expectations  of  low-
+
+income households tend to exceed those of high-income ones (Chart 7). This suggests that in the United States there is a similar positive correlation between lower income prospects and higher expected prices as in Japan.
+
+Next,  we  look  at income prospects in real terms .  We  can  do  so  by  paying  attention  to expected price DI (one year ahead in Japan and over the next year in the United States) and corresponding expected  income  DI .  Expected  price  DI  has  always  been  positive  in  both countries with each currently recording around 50 percent in Japan and over 80 percent in the United States. Moreover, the expected price DI continues to exceed expected income DI in both countries (Chart 5). The comparison between Japan and the United States suggests that  a  large  number  of  households in  Japan project  a  decline  in  real  income,  as  many households  expect  lower  incomes  and  more  expect  higher  prices. In  the  United  States , households  are  less  likely  to  perceive  tighter  budgets  than  in  Japan  because  households expect  a  rise  in  nominal  income,  although  many  households  probably  project  lower  real income. In fact, the probability expectations on real income gains over the next five years available from the U.S. survey - have risen from 2013 onward and have now fully recovered to  the  level  before  the  global  financial  crisis  of  around  40  percent,  having  dropped temporarily to a low of around 30 percent after the crisis (Chart 8). These data support the view that U.S. households' recent income conditions are relatively favorable both in nominal and real terms.
+
+## D. Japan's mild deflationary experience and monetary policy
+
+Based on the aforementioned observations, I will now summarize my views on Japan's mild deflationary experience and the effectiveness of QQE. Japan's deflationary experience could be characterized with the following two features.
+
+First ,  the  expression  the  'prevalence  of  deflation-oriented  mindsets'  seems  to  have  been very  applicable  to  the  state  of the  corporate  sector . It  refers  to  firms'  deflationary expectations and associated cautious price-setting behavior. As for the household sector , on  the  contrary,  they  tended  to  form  high  inflation  expectations  reflecting  long-standing stagnant  income  growth  and  anticipated  tighter  budgets.  As  a  result,  whenever  the households' present perceived inflation rose, their tolerance to price rises dropped, fostering a  negative  correlation  between  them  (Chart  9).  Based  on  this  perception,  firms  appear  to have found it difficult to raise sales prices, contributing to a wide spread of discount-based marketing strategies.
+
+Since the introduction of QQE, firms' price-setting behavior has been gradually changing some firms have raised their sales prices by providing innovative goods and services that stimulate potential demand, and maintaining sales volumes. Nevertheless, many households continue to perceive that current prices are much higher than the official price statistics  and  expect  a  rise  in  prices.  This  could  be  one  reason  why many  firms still generally maintain cautious price-setting behavior. Indeed, this seems to be reflected in the recent developments in firms' sales price expectation DI for three months ahead in the BOJ Tankan (Short-Term Economic Survey of Enterprises in Japan), which has shown significant improvement from the low level in 2013 but currently hovers around 0 percent (Chart 10). In addition, the  average  inflation  outlook  on  sales  prices for  one  year  ahead  (relative  to  the current  level)  dropped  moderately  to  somewhat  below  1  percent  year-on-year.  In  detail, looking at the percentage share of the number of respondents, 60 percent of firms answered 'around 0 percent,' reaching about 80 percent if those that answered 'will decline' and 'don't know'  are  included. Looking  ahead,  favorable  corporate  profits  and  an  increase  in  wage growth,  if  sustained,  may  improve  households'  tolerance  to  price  rises,  thereby  helping  to correct households' upward bias. Once that happens, firms may be gradually more willing to change their cautious price-setting behavior.
+
+Against  this  backdrop,  I  feel  that a  policy  to  raise  average  inflation is  relatively  more challenging  than  to  lower  inflation.  On  this  front,  a  lesson  can  be  learned  from the  U.S. experiences of an anti-inflationary policy through bold monetary tightening adopted by then
+
+Federal Reserve Chairman Paul Volcker in the late 1970s to the early 1980s. At that time, until around 1983 economic recession caused a continuous decline in households' expected income DI over the next year. At the same time, however, both actual inflation and inflation expectations dropped sharply, and thus real income and its outlook improved instead and partially contributed to an improvement in consumption. For example, during that period, the aforementioned U.S. survey responses showed that there was an increase in the share of households  that  considered  low  prices  as  a  good  reason  to  purchase  durable  goods  and automobiles. In other words, while a tight monetary policy to reduce inflation in a sustainable manner could be accompanied by a serious challenge of potentially increasing unemployment,  it  may  obtain  more  support  from  the  public  compared  with  the  opposite inflationary policy - as it could bring about improvement in real income as long as a decline in inflation moves ahead of a decline in income growth. Turning to Japan , wage growth per worker in real terms turned positive in July this year, but still remains at around 0.5 percent. To  achieve  around  2  percent  inflation,  a  further  improvement  in  real  wage  growth  is necessary.
+
+Regarding the second feature of Japan's deflationary experience , a lack of healthy risktaking practices should be mentioned. Households have accumulated their assets largely in the  form  of  deposits.  Assessing  in  real  terms,  they  have  benefitted  from  relatively  high interest  rates  and  an  increase  in  value  of  outstanding  deposits,  owing  to  the  zero  lower bound  on  nominal  interest  rates  and  mild  deflation.  Setting  aside  whether  households actually perceived this to be true, their risk-averse behavior has turned out to be rational. In the corporate sector, on the other hand, the expected returns on investment were so low that actions to improve profitability and to efficiently utilize their assets were limited. Meanwhile, financial institutions concentrated their assets on government bonds and their supply of risk money necessary to support startup firms and business was limited. Since the introduction of QQE, this situation has been gradually changing together with the government's economic policies. Households and financial institutions increasingly express interest in riskier assets and diversification of risks. Banks are more eager to extend credits with innovative financial services. The number of initial public offerings has increased and firms are more active in business  investment,  mergers  and  acquisitions,  and  organizational  rationalization  both domestically  and  globally. It  is  important  that  the  BOJ  continue  to  support  these  positive developments by maintaining an accommodative monetary environment.
+
+## III. Price developments and monetary policy in the asia-pacific region
+
+Next, I would like to focus on the Asia-Pacific region, covering nine countries. Among these nine,  six  (Australia,  Indonesia,  New  Zealand,  the  Philippines,  South  Korea,  and  Thailand) have officially adopted an inflation-targeting framework (Chart 11 ). Regarding the monetary policy frameworks of the region, I had an opportunity to speak in Singapore in July 2014. 1 Since then, economic and financial conditions have changed dramatically globally as well as in the region. Thus, today I will briefly review recent developments.
+
+## A. Growing divergence in monetary policy in the Asia-Pacific region
+
+Since the East Asian economic crisis in the 1990s, central banks in the region have placed a greater emphasis on price stability than on exchange rate stability. Specifically, six central banks took  the  lead  on  this  by  adopting  an  inflation-targeting  framework  with  a  clear numerical inflation target. Under the framework, the realized inflation and inflation expectations  of  these  six  countries  gradually  showed  a  downward  trend  in  line  with  their targets.  The  inflation-targeting  framework  in  the  region  is  more flexible than  that  in  other
+
+1 See Sayuri  Shirai,  'Recent  Monetary  Policy  Trends  in  Advanced  Economies  and  the  Asia-Pacific  Region,' Keynote Address delivered at the National Asset-Liability Management Conference held in Singapore (July 2014).
+
+inflation-targeting countries with the following features: (1) an adoption of an inflation target range rather than an inflation  target  point ;  (2)  the  acceptance  of relatively  large  deviations from the inflation target; and (3) the use of relatively frequently reviewed inflation targets rather than fixed inflation targets - in South Korea, Indonesia, Thailand, and the Philippines. Inflation developments showed a tendency to converge, albeit with temporary deviations, to the  long-term  inflation  expectation  level,  which  has  remained  stable  within  target  ranges (Chart 12). One difference observed between inflation-targeting countries and other countries until the first half of 2014 was that the policy interest rates were more frequently adjusted to actual price developments in the former.
+
+I would like to highlight two new developments that have occurred since the second half of 2014. First , inflation in all six inflation-targeting countries has now deviated from the inflation target range (Chart 12). Among them, only in Indonesia has inflation been above the upper bound of the target range again since late 2014. This is due to a cut in the fuel subsidy in 2014  and  a  sharp  depreciation  of  the  rupiah.  In  contrast,  inflation  in  the  remaining  five countries has been below the lower bound of the target range, mainly due to declining crude oil  prices.  Looking ahead, depending on future global economic and financial conditions, it may take some time for these six countries to achieve their respective inflation targets. That said, as their long-term inflation expectations have remained more or less within the target range, inflation is projected to reach the target levels in the future.
+
+Second ,  since  the  adoption  of  their  inflation-targeting  frameworks,  these  countries  have regarded short-term policy interest rates as their major operational tool for monetary policy and these policy rates tended to be frequently adjusted to price developments. Meanwhile, in China and Malaysia, the two non-inflation-targeting  countries,  such  rates  remained  largely flat because they also used other tools including reserve requirements. Since the second half of  2014,  however,  this  differentiation  no  longer  seems  valid .  Namely,  China  has  been lowering policy interest rates more flexibly in response to a declining trend in the inflation rate since November 2014 - to contain an increase in real interest rates. Together with a cut in the  reserve  requirement,  moreover,  China  has  dealt  with  a  shortage  in  market  liquidity caused  by  a  drop  in  foreign  reserves  by  expanding  the  volume  and  frequency  of  fundssupplying operations (including term facilities). As a result, the annual growth rate of M2 has exceeded the annual target of 12 percent. Meanwhile, inflation in both Indonesia, an inflationtargeting  country,  and  Malaysia,  a  non-inflation-targeting  country,  has  risen  significantly, mainly owing to a large depreciation of their currencies. 2  However, because their policy rates were  barely  adjusted  perhaps  in  an  attempt  to  avoid  capital  outflows,  their  inflation  rates have been approaching their policy  rates,  leading  to  a  recent  decline  in  their  real  interest rates to nearly 0 percent.
+
+The  region  has  been  subject  to  various  domestic  and  external  shocks  ranging  from commodity  price  drops,  a  reversal  of  capital  inflows  centered  on  securities  investment,  a depreciation  of  currencies,  a  decline  in  trade  with  China,  and  unstable  global  financial markets. Depending on the type and extent of those shocks received, price developments in each country are diverse and are not necessarily consistent with the business cycle. This makes  the  direction  of  their  monetary  policy  stances  diverse. While  it  is  likely  that  these shocks will eventually fade away, until then the region's monetary policy conduct will remain divergent - regardless of whether a country has an inflation-targeting framework .
+
+## B. Future possible direction of monetary policy conduct and challenges
+
+To  conclude,  let  me  summarize  the  implications  for  monetary  policy  conduct  in  the  AsiaPacific region based on recent developments.
+
+2 In Malaysia, the inflation rate has also been affected by the introduction of the 6 percent Goods and Services Tax in April 2015.
+
+BIS central bankers' speeches
+
+- In the region, a growing number of countries are conducting more flexible exchange rate arrangements. This is confirmed by the fact exchange rates have become more volatile  than  before.  One  example  is  China,  which  has  gradually  enhanced  the flexibility of exchange rate movements. As a result, the IMF concluded in the recent Article IV consultation report that the renminbi is no longer undervalued. The report also recommended that China adopt a flexible exchange rate regime over the next two to three years.
+- Nonetheless,  a  sharp  depreciation  of  the  exchange  rate,  while  contributing  to improving international price competitiveness, may generate a further depreciation expectation  and  thereby  accelerate  capital  outflows.  This  may  amplify  the  risk  of overshooting the exchange rate far beyond the equilibrium (depreciated) level, thus leading to the risk of a surge in domestic interest rates and economic recession. For this  reason,  the  region  could  utilize  the  accumulated  foreign  reserves  to  mitigate abrupt  exchange  rate  volatility.  Depending  on  the  type  of  shocks,  the  scale  of changes  in  foreign  exchange  rates,  and  the  size  of  foreign  reserves,  policy responses vary widely across the region.
+- In  the  case  of  drawing  down  foreign  reserves,  a  country  may  need  to  deal  with possible  slower  growth  in  the  monetary  base.  To  offset  the  resultant  shortage  in liquidity supply to the market, a central bank may find it necessary to expand fundssupplying operations to a greater extent than before. To enable smooth operations, monetary  policy  conduct  must  be  more  centered  toward  a  policy  interest  rate adjustment - together with measures to foster collateral asset markets, to develop yield curves with long maturities and sufficient liquidity, and to promote the monetary policy transmission mechanism based on the policy interest rate.
+- In this sense, this may be an opportunity for a country that once relied on liquidity supply  through  foreign  reserve  accumulation  as  a  monetary  easing  tool  to  shift toward  a  more  market-based  monetary  policy  tool.  Such  a  practice  may  promote convergence of monetary policies to ones that are more consistent with the flexible inflation-targeting framework within the region, regardless of whether a country has an inflation-targeting framework.
+
+This concludes my presentation. Thank you very much for your attention.
+
+## Japan and the United States: Price Devel its
+
+
+
+
+
+Sources: Ministry of Intemal Affairs and Communications; Bank of Japan; U.S. Bureau of Economic Analysis.
+
+## Japan and the United States: Long-Term Inflation Expectations
+
+
+
+ras
+
+Cc
+
+r
+
+f
+
+## £ HeTD
+
+## (uerpey{) suoneidedxg voneguy THR] -SUCT pure -1OYS Spjoysshoy "Saeig pay ay pue wedey
+
+Aik uvdog
+
+‘Bye,
+
+‘
+
+‘
+
+A
+
+f
+
+a
+
+f
+
+1
+
+9/900T
+
+OST
+
+OFT
+
+O/ET
+
+Eras
+
+OTT
+
+9/01
+
+9/60
+
+9/80
+
+LO
+
+}
+
+rn
+
+AA
+
+Spy,
+
+SaUns pay)
+
+.Saumsuo) 30 sMeamg,, 'weSnprpy yo Ausreamy 'uedey yo queg -se2mos
+
+
+
+## (uerpay) TORE guy peatssing jussery sppoyssnoy "ueder
+
+
+
+(ode Ieai a0 0] aanepal sazueq? eoud panreoied ynaseud se peayep 51 MOuEpM peateoed mmaseig ~[ "e107
+
+"medal Jo FURY "STONENTMMUNMOD PUE STEP Y [EWS] 7o ANSI "se2M0S
+
+- "PLOT Maddy rege aqny xsi wondumsno arp jo says NaMp aq] apNpIue Iq aMpESY amp 107 samsty "TZ
+
+## SINEG PUL SMIOTT] Wo SIC] SPTONSsHoFy "SaMwIS pany sy pue wedey
+
+
+
+4%,
+
+(vad [xau ays 13a0) sagDIg pay
+
+“seamos yueg
+
+yo
+
+‘uedey tsieamy
+
+jo
+
+Ted
+
+30
+
+
+
+## (HEIST) HSK RSH] SMH TSAO SMIOST] UT SaSURT\_D paqsadxY SPfOPPsHoy] "SAIS pay]
+
+Lieq&gt;
+
+
+
+(weIpeypy) JeaK TRON] oP JaN0 Anos) seIOITy Aq Seo PUP SIO IU] UT Se. pele SPlOYSsnoyy -Seleys Peltuy)
+
+
+
+## suey)
+
+## sIBaX JATj TX2h] aU] JOAO surety soo] [eay uo SUOnE edu ATIqeqoIg Sployesnoy] -saweig pel)
+
+
+
+## 6 veqD
+
+## DOqEBU] pawaaiag Messi pur Ssh] Sou O} SOU], SpjoyPsnoy Uo sic] -uedey
+
+
+
+'(one mepuodser .pesuEqIUM SOUTE PAMEUIAL Bary, -ONL apmodsal pryea) / (oer Mmapnodsar ,a[qeioxgy Jape! S] aMTPap sound, PUE ,aQeIOABTM Tamer st asi aud, -oper mapmodsar .@PQSIOARTIN ITpeT st aUrPep sound, pre a PqEIOAEy Tacper st ast send) — JC] SIMEIYOI ast BIEN" "SeIONT
+
+Tedes fo YUEg STONE STM) Pur SITE Y [EME] yo Aqsmnpy "seam
+
+- °C » Amesgmats mmop amed aney, + "9 » .APWSts Mop amd ary.) -(50 « Apqays dn enod aaeg, + | » Apmezgréts dn anos earq,,) = sjasa] eaud mesend yo [q woudeareg [
+
+## Japan: Firms' Sales Price ions
+
+
+
+Firms' outlook for sales prices (one year ahead)
+
+
+
+Notes:
+
+1.
+
+Sales price
+
+forecast
+
+DI
+
+“will rise”
+
+"will fall."
+
+2.
+
+The
+
+Tankan explicitly
+
+asks respondents
+
+to disregard
+
+the effect:
+
+of the
+
+consumption tax
+
+hike.
+
+Source: Bank of Japan\_
+
+## Chart 11
+
+## Inflation Targets and Definitions
+
+|                | Infation target          | Introduction year   | Reference inficator   | Numerical vake                            | Duration fo achieve   | Target variblty         |
+|----------------|--------------------------|---------------------|-----------------------|-------------------------------------------|-----------------------|-------------------------|
+| United States  | Longer-nmgoal            | 2012                | HeadinePCE            | 2%                                        | Long term             | Fixed                   |
+| Euro area      | Defntion ofpnce          | 99g                 | Headine HICP          | Below but chse to 2%                      | Medumtem              | Fixed                   |
+| Japan          | ; Price stability tarzet | 2013                | - Headline CPI        | %                                         | Medam to ingen        | - Fixed                 |
+| United Kingiom | _Infiation target        | 1992                | Headline CPI          | %                                         | Reasombk time         | Fined                   |
+| Australia      | Infition target          | 1993                | Headine CPI           | 2.3%                                      | Medamtem              | Fined                   |
+| New Zealand    | . Infation target        | 1988                | _ Headime CPI         | 1-3% (witha focus on 2% ae t point)       | _ Medam tem           | . Fined                 |
+| South Korea    | Infiation target         | 1998                | Headline CPI          | 2.5-3.5% for 2013-15                      | Pre-fixed term        | ee                      |
+| ; Eadonesia    | ; Infation target        | 2000                | - Headine CPI         | 4.5% + 1% for 2012-14 and 4% + 1% br 2015 | Pre-fived term        | Adjusted every ew years |
+| Thaiand        | Infiation target         | 2000                | Headline CPI          | 25% 15%                                   | Anmal                 | Adjusted ammally        |
+| - Philppines   | ; Infiation target       | 2002                | - Headline CPI        | 3% + 1% for 2015-16 and sey ensotnis      | Prefredtem =          | Adjusted every SNe      |
+| Chim           | Anmal target             | na                  | Headline CPI          | Around 3% for 2015                        | Anmal                 | Adjusted ammally        |
+
+## Ter eqD
+
+## (7) suontisedxq WoneEguy pue woneGUy pezyesy -vosay ye g-eIsy
+
+
+
+Way
+
+
+
+PUEpESZ
+
+-pasn sem (seta Wpan smpnpxe dD) XUdD a Tey "G61 PUR S661 Jog adeaue [qD aUNPeay atp St KPT as aT] "AON
+
+nog
+
+
+
+varoy
+
+oMSEDBIO J SMITSSTOD, " IN] SITMIOTOIT susuesIE) "Zraqmoorg\_ "seams "PRS SEM [7 aNOD aT TARM "DNOT 1 NDOT May poured amp soy dooms [q&gt; SUNpEERT am st Nap EI eT -IONT
+
+## ctr vey
+
+
+
+## £-C1 veyD
+
+## (g) Suoneedxq VoneGU] pue UoReGU] pezyesy -Uosay Weg -eIsy
+
+
+
+
+
+J SISEIBIO MSTISIO}, IN] sIMMOMOIg snsmesTO-) "Zraquoopg 'saamog
+

@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F4-qe1-expansion-2009",
+  "asof": "2009-01-30",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2008-12-16",
+      "timestamp": "2008-12-16",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20081216.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20081216",
+      "timestamp": "2009-01-06",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20081216_released_2009-01-06.txt",
+      "note": "minutes of the 20081216 meeting, public release 2009-01-06"
+    },
+    {
+      "doc_id": "beige_book-2009-01-14",
+      "timestamp": "2009-01-14",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_200901.txt"
+    },
+    {
+      "doc_id": "macro_release-2009-01-16",
+      "timestamp": "2009-01-16",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2009-01-16.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2009-01-28",
+      "timestamp": "2009-01-28",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20090128.txt"
+    }
+  ]
+}

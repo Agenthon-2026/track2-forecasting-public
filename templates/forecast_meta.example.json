@@ -1,0 +1,20 @@
+{
+  "_comment": "The forecast_meta.json a submission writes next to /output/forecast.parquet. Validated against qfbench2_common/schemas/forecast.schema.json by gate g1, and then bound to the trusted card by gate g2: unit_id, asof and target must EQUAL the card's. Every key below is one the scorer reads; the pre-freeze version of this file used forecast_id / card_id / output_format, none of which the schema declares, so an author who copied it produced a submission that failed g1.",
+  "unit_id": "t2-EXAMPLE-ust-curve-1m",
+  "asof": "2024-06-28",
+  "representation": "samples",
+  "asset_ids": [
+    "UST_2Y",
+    "UST_5Y",
+    "UST_10Y",
+    "UST_30Y"
+  ],
+  "horizons": [21],
+  "n_draws": 500,
+  "target": "level",
+  "units": "percent_per_annum",
+  "rationale": {
+    "file": "forecast_rationale.md",
+    "method": "joint gaussian random walk, no text"
+  }
+}

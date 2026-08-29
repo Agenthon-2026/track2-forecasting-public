@@ -1,0 +1,42 @@
+{
+  "card_id": "t2-F2-boj-thin-signal-2014",
+  "asof": "2014-10-24",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "bis_kuroda_2014-09-16",
+      "timestamp": "2014-09-16",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2014-09-16.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2014-09-17",
+      "timestamp": "2014-09-17",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20140917.txt"
+    },
+    {
+      "doc_id": "bis_kuroda_2014-09-29",
+      "timestamp": "2014-09-29",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2014-09-29.txt"
+    },
+    {
+      "doc_id": "beige_book-2014-09-30",
+      "timestamp": "2014-09-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201409.txt"
+    },
+    {
+      "doc_id": "bis_kuroda_2014-10-10",
+      "timestamp": "2014-10-10",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2014-10-10.txt"
+    }
+  ]
+}

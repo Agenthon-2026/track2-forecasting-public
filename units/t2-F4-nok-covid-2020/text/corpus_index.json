@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F4-nok-covid-2020",
+  "asof": "2020-02-28",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2020-01-29",
+      "timestamp": "2020-01-29",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20200129.txt"
+    },
+    {
+      "doc_id": "beige_book-2020-01-31",
+      "timestamp": "2020-01-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202001.txt"
+    },
+    {
+      "doc_id": "bis_guindos_2020-02-03",
+      "timestamp": "2020-02-03",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_guindos_2020-02-03.txt"
+    },
+    {
+      "doc_id": "bis_wakatabe_2020-02-05",
+      "timestamp": "2020-02-05",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_wakatabe_2020-02-05.txt"
+    },
+    {
+      "doc_id": "bis_lagarde_2020-02-05",
+      "timestamp": "2020-02-05",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lagarde_2020-02-05.txt"
+    },
+    {
+      "doc_id": "bis_masai_2020-02-06",
+      "timestamp": "2020-02-06",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_masai_2020-02-06.txt"
+    },
+    {
+      "doc_id": "cftc_cot_crude_2020",
+      "timestamp": "2020-02-28",
+      "source": "CFTC",
+      "doc_type": "positioning_report",
+      "file": "cftc_cot_crude_2020.txt"
+    }
+  ]
+}

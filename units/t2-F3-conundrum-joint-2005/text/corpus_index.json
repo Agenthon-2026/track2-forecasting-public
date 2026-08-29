@@ -1,0 +1,35 @@
+{
+  "card_id": "t2-F3-conundrum-joint-2005",
+  "asof": "2005-02-18",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2004-11-10",
+      "timestamp": "2004-11-10",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20041110.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2004-12-14",
+      "timestamp": "2004-12-14",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20041214.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2005-02-02",
+      "timestamp": "2005-02-02",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20050202.txt"
+    },
+    {
+      "doc_id": "bis_greenspan_2005-02-16",
+      "timestamp": "2005-02-16",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_greenspan_2005-02-16.txt"
+    }
+  ]
+}

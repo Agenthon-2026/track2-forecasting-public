@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F3-dollar-vortex-2022",
+  "asof": "2022-09-01",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2022-07-27",
+      "timestamp": "2022-07-27",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20220727.txt"
+    },
+    {
+      "doc_id": "beige_book-2022-07-31",
+      "timestamp": "2022-07-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202207.txt"
+    },
+    {
+      "doc_id": "cpi_2022-08-10",
+      "timestamp": "2022-08-10",
+      "source": "BLS/BEA news release",
+      "doc_type": "macro_release",
+      "file": "cpi_2022-08-10.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20220727",
+      "timestamp": "2022-08-17",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20220727_released_2022-08-17.txt",
+      "note": "minutes of the 20220727 meeting, public release 2022-08-17"
+    },
+    {
+      "doc_id": "powell_jackson_hole_2022",
+      "timestamp": "2022-08-26",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "powell_jackson_hole_2022.txt"
+    }
+  ]
+}

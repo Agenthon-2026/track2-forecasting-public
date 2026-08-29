@@ -1,0 +1,71 @@
+{
+  "card_id": "t2-F1-sahm-watch-2024",
+  "asof": "2024-08-02",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "bis_kugler_2024-06-18",
+      "timestamp": "2024-06-18",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kugler_2024-06-18.txt"
+    },
+    {
+      "doc_id": "bis_waller_2024-06-24",
+      "timestamp": "2024-06-24",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_waller_2024-06-24.txt"
+    },
+    {
+      "doc_id": "bis_bowman_2024-06-25",
+      "timestamp": "2024-06-25",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2024-06-25.txt"
+    },
+    {
+      "doc_id": "bis_bowman_2024-06-26",
+      "timestamp": "2024-06-26",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2024-06-26.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20240612",
+      "timestamp": "2024-07-03",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20240612_released_2024-07-03.txt",
+      "note": "minutes of the 20240612 meeting, public release 2024-07-03"
+    },
+    {
+      "doc_id": "macro_release-2024-07-05",
+      "timestamp": "2024-07-05",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2024-07-05.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2024-07-31",
+      "timestamp": "2024-07-31",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20240731.txt"
+    },
+    {
+      "doc_id": "beige_book-2024-07-31",
+      "timestamp": "2024-07-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202407.txt"
+    },
+    {
+      "doc_id": "macro_release-2024-08-02",
+      "timestamp": "2024-08-02",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2024-08-02.txt"
+    }
+  ]
+}

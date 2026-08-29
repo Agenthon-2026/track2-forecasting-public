@@ -1,0 +1,112 @@
+{
+  "manifest_version": "2.0",
+  "unit_id": "t2-F1-chf-highly-valued-2021",
+  "generated_by": "Ruolan Sun",
+  "notes": "Public practice copy. Answer material (reference/) stripped and de-listed by scripts/make_public_dev_copy.py. Panel verified to reach zero ranked targets (ranked-set fingerprint 609d01a848678f34).",
+  "files": [
+    {
+      "path": "card.toml",
+      "role": "fixture",
+      "source": "organizer-authored (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "ae94ca0faaf2351da592cafbb3247708f11070eabd6d770584b86f5bffa21bd3",
+      "bytes": 3066,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "forecast_card.md",
+      "role": "fixture",
+      "source": "organizer-authored (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "552b784c65cd27a3fc3274d4c7c29c1d70a1592e36baebb6436c574ecac51c4b",
+      "bytes": 1012,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "forecast_spec.json",
+      "role": "fixture",
+      "source": "organizer-authored (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "3cd4028922e4e3a9654776f23ca84d5af1cbd1543aab98911c0932bf65d391d7",
+      "bytes": 967,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "g10_fx_daily.parquet",
+      "role": "input",
+      "source": "Federal Reserve Board H.10 Foreign Exchange Rates, retrieved via FRED (series: DEXUSEU, DEXUSUK, DEXJPUS, DEXSZUS, DEXUSAL, DEXCAUS, DEXUSNZ, DEXSDUS, DEXNOUS, DEXDNUS)",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "2af802b7390699093817943488dc76e3b12e92625640a17f53cf508a312a7bef",
+      "bytes": 238738,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/bis_jordan_2021-04-30.txt",
+      "role": "corpus",
+      "source": "Speech by the Chairman of the Governing Board of the Swiss National Bank; copy obtained from BIS (bis.org). Document carries an express '© Swiss National Bank' notice; SNB terms govern -- cb_speech 'bis_jordan_2021-04-30', dated 2021-04-30",
+      "license": "LicenseRef-Source-Terms",
+      "sha256": "38b7f894fd3fb17175b5e4fe19f28302b81c10240c1105a65081e423f3a897cb",
+      "bytes": 19341,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/corpus_index.json",
+      "role": "corpus",
+      "source": "organizer-authored corpus index (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "50b7f0a160d4755e6dc28aa5c2048ef6c91048e0fd8b3b31907be14b34765b01",
+      "bytes": 886,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/fomc_statement_20210616.txt",
+      "role": "corpus",
+      "source": "U.S. Federal Reserve Board of Governors (federalreserve.gov) -- fomc_statement 'fomc-statement-2021-06-16', dated 2021-06-16",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "f02c1dd01d937b0c6002a8d673ad07d4823c345b15c2e5f2f20e0bc2ff5bb440",
+      "bytes": 3251,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/beigebook_202104.txt",
+      "role": "corpus",
+      "source": "U.S. Federal Reserve Board of Governors (federalreserve.gov) -- beige_book 'beige_book-2021-04-30', dated 2021-04-30",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "4d294e19b9fb7b8c07f05d7b23b6a0e059f9983e7766ccf98b5c41613f8d9be6",
+      "bytes": 121235,
+      "split": "validation",
+      "cutoff": "2021-06-17",
+      "public_release_date": "2026-07-10",
+      "redistributable": true,
+      "pii_stripped": true
+    }
+  ]
+}

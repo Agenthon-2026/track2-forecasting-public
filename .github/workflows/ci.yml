@@ -1,0 +1,177 @@
+name: Track 2 CI
+
+# Each track repo's root IS the public folder, so all paths below are root-relative.
+#
+# ## What changed at the 2026-08-22 freeze
+#
+# The pre-freeze workflow had three jobs and **no test job**. `ruff` and `mypy` ran over
+# `scoring baselines` — the back-compat shim and the baselines — and never over the canonical
+# package `qfbench2_track_forecasting/`, which is the code that decides every score.
+# `python -m pytest -q` returned "no tests ran". Actions were pinned to mutable major tags, and the
+# toolkit was pinned at `v2.0.0`, a tag that predates the shared answer gate the private staging
+# step depends on.
+#
+# Now: the canonical package is linted, type-checked and tested; the shim is checked as a shim;
+# every action is pinned to a full commit SHA; and the toolkit is installed at a released tag.
+#
+# ## Why the firewall is its own job, and why it stays one
+#
+# The toolkit installs anonymously from the public Agenthon2026-public repository, so no credential
+# is involved and every job here runs on fork pull requests. What a toolkit install still costs is
+# availability: steps after a failed install are SKIPPED, so any check placed behind one silently
+# does not run in exactly the case that matters most. The `firewall` job below is stdlib-only and
+# therefore runs even when that install breaks. Do not fold it into the toolkit-backed jobs.
+
+on:
+  push:
+    branches: [main, "remediation/**", "task/**", "track2/**"]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+env:
+  # The toolkit release this repository is built and tested against. `v2.3.1` is the first tag
+  # carrying `qfbench2_common.contracts`; earlier tags predate it. Keep this a TAG, never a
+  # branch — a floating ref lets a local result and a scored result diverge with no diff.
+  TOOLKIT_TAG: v2.3.1
+
+jobs:
+  # Runs FIRST and installs nothing at all, so it still runs when the toolkit install breaks.
+  firewall:
+    name: Firewall (stdlib only, no secret — runs on forks)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5.3.0
+        with:
+          python-version: "3.13"
+      - name: Card, track, split and canary checks
+        run: python .github/validate_units.py forecasting --stdlib-only
+      # A grep, not a promise. Nothing in a public repository may name a reference artifact.
+      - name: No reference-side path or filename in the public tree
+        run: |
+          if git ls-files | grep -E '(^|/)(reference|realized\.parquet|ref_scale\.json|PENDING\.json)($|/)'; then
+            echo "a reference-side path exists in the public tree" >&2
+            exit 1
+          fi
+          echo "no reference-side path found"
+
+  lint-type:
+    name: Lint + type check (ruff + mypy over the CANONICAL package)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5.3.0
+        with:
+          python-version: "3.13"
+      - name: Install tools + pinned shared toolkit
+        run: |
+          python -m pip install --upgrade pip
+          # mypy must be able to read the numpy it is handed. numpy arrives transitively via
+          # qfbench2-common; if a pinned-and-ageing type checker stops parsing it, pin numpy here
+          # too rather than pinning mypy further back.
+          pip install "ruff==0.4.7" "mypy==1.19.1"
+          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+      - name: Confirm the toolkit is importable
+        # The job used to gate on a private token. It no longer needs one -- the toolkit
+        # installs from its public repository -- but the discipline the old guard encoded
+        # is worth keeping: a job that cannot get its dependency must FAIL, never skip to
+        # green. This now checks the thing that actually matters.
+        run: |
+          python - <<'PYEOF'
+          import sys
+          try:
+              from qfbench2_common.contracts import CONTRACT_SET
+          except Exception as exc:
+              sys.exit(f"shared toolkit not importable ({exc}); this job MUST NOT report green")
+          print("contract set", CONTRACT_SET)
+          PYEOF
+      - name: Ruff lint
+        run: ruff check qfbench2_track_forecasting tests scoring baselines
+      - name: Ruff format check
+        run: ruff format --check qfbench2_track_forecasting tests scoring baselines
+      - name: Mypy (strict) over the canonical package
+        run: mypy --strict --ignore-missing-imports qfbench2_track_forecasting
+      - name: Mypy (strict) over the shim and baselines
+        run: mypy --strict --ignore-missing-imports scoring baselines
+
+  test:
+    name: Test the canonical scorer
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5.3.0
+        with:
+          python-version: "3.13"
+      - name: Install pinned dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+          pip install -e ".[test]"
+      - name: Confirm the toolkit is importable
+        # The job used to gate on a private token. It no longer needs one -- the toolkit
+        # installs from its public repository -- but the discipline the old guard encoded
+        # is worth keeping: a job that cannot get its dependency must FAIL, never skip to
+        # green. This now checks the thing that actually matters.
+        run: |
+          python - <<'PYEOF'
+          import sys
+          try:
+              from qfbench2_common.contracts import CONTRACT_SET
+          except Exception as exc:
+              sys.exit(f"shared toolkit not importable ({exc}); this job MUST NOT report green")
+          print("contract set", CONTRACT_SET)
+          PYEOF
+      - name: Prove the contract set the suite was written against
+        run: |
+          python - <<'PY'
+          from qfbench2_common.contracts import CONTRACT_SET
+          expected = "1.1.0"
+          if CONTRACT_SET != expected:
+              raise SystemExit(
+                  f"installed contract_set {CONTRACT_SET!r} != {expected!r}; the pinned hub SHA "
+                  "and this suite disagree about the frozen contracts"
+              )
+          print("contract_set", CONTRACT_SET)
+          PY
+      # `jsonschema` is a REQUIRED production dependency: g1 raises an organizer fault without it
+      # rather than skipping validation. Asserted here so a packaging change cannot quietly make
+      # the gate unrunnable in the image.
+      - name: jsonschema is installed, because g1 refuses to run without it
+        run: python -c "import jsonschema; print(jsonschema.__name__)"
+      - name: Pytest
+        run: python -m pytest tests -q
+      - name: Regression suite (positive AND negative controls)
+        run: python regression_suite/run_regression.py
+
+  validate-units:
+    name: Validate units (+ manifests · public-safety)
+    needs: firewall
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5.3.0
+        with:
+          python-version: "3.13"
+      - name: Install pinned shared toolkit
+        run: |
+          python -m pip install --upgrade pip
+          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+      - name: Confirm the toolkit is importable
+        # The job used to gate on a private token. It no longer needs one -- the toolkit
+        # installs from its public repository -- but the discipline the old guard encoded
+        # is worth keeping: a job that cannot get its dependency must FAIL, never skip to
+        # green. This now checks the thing that actually matters.
+        run: |
+          python - <<'PYEOF'
+          import sys
+          try:
+              from qfbench2_common.contracts import CONTRACT_SET
+          except Exception as exc:
+              sys.exit(f"shared toolkit not importable ({exc}); this job MUST NOT report green")
+          print("contract set", CONTRACT_SET)
+          PYEOF
+      - name: Validate all public units
+        run: python .github/validate_units.py forecasting

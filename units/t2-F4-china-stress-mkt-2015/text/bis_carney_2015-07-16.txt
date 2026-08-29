@@ -1,0 +1,269 @@
+Mark Carney: Mark Carney: From Lincoln to Lothbury - Magna Carta and the Bank of England
+2015-07-16
+
+## Mark Carney: From Lincoln to Lothbury - Magna Carta and the Bank of England
+
+Lecture by Mr Mark Carney, Governor of the Bank of England and Chairman of the Financial Stability Board, as part of the Lincoln Lectures 2015, Lincoln, 16 July 2015.
+
+*      *      *
+
+I am particularly grateful to Professor Nicholas Vincent for commenting on an earlier draft of this speech, and to James Bell, Ben Nelson and Iain de Weymarn for assistance in its preparation.
+
+A burst of inflation. A crisis in the public finances. Public sector bailouts. Infighting in Europe. Not eight years ago, but eight hundred.
+
+That was the economic context for the striking of Magna Carta.
+
+To many today, Magna Carta is a document of profound, almost mythical, significance. It is seen  as  the  cornerstone  of  the  United  Kingdom's  constitutional  arrangements  and  as  a blueprint for the constitutions of many other nations, including the United States. It is credited with establishing the foundations of parliamentary democracy, creating a framework for the rule of law, protecting individual liberty, defending the rights of the innocent, and limiting the role of the State.
+
+It is undoubtedly true that Magna Carta - or more correctly the idea of Magna Carta - has played a central role in British political development over the centuries, not least as a banner under which those seeking liberty from oppression have rallied.
+
+But many modern scholars argue that its significance, in and of itself, has been overstated. They characterise Magna Carta as a pragmatic political document that was a product of its time, including the difficult economic circumstances that then prevailed.
+
+As usual with historical arguments, the answer lies somewhere in between.
+
+In  what follows, I will spend a few moments on the pragmatic element not only because it plays  to  my  comparative  advantage  as  an  economist  but  also  because  it  ultimately underscores the foundational character of the document itself.
+
+The  enduring  legacy  of  Magna  Carta  is  how  its  strictures  on  unconstrained  power  are reflected in our systems of political and economic governance.
+
+I will conclude that both the constitutional and pragmatic perspectives are relevant to modern central banking and the current conduct of monetary policy. Specifically, the costs of inflation were among the key economic catalysts of Magna Carta, and its core constitutional legacy namely the importance of delegated authority, with clear lines of public accountability - is at the heart of the Bank of England's institutional arrangements. In the spirit of Magna Carta, the Bank of England has been given a great responsibility: to deliver monetary stability for the good of the people of the United Kingdom. Our goal, the 2 per cent inflation target, is set by the Government, and we operate under constrained discretion in its pursuit.
+
+## 1. The economic and political context
+
+Where did Magna Carta come from?
+
+The  political  background  is  one  of  nearly  constant  conflict  both  within  the  dysfunctional 'English' monarchical family, as well as with France over control of Normandy and the rest of Henry II's continental empire. 1
+
+The England of the 1200s was far from a unitary state. Most matters were administered by local  barons,  with  the  King  acting  as  an  arbiter  in  the  event  of  a  dispute.  The relationship between local (baronial) and central (monarchical) authority was much less deferential, and much more arms-length,  than  it  is  today.  Indeed,  the  early  Plantagenet  Kings  of  England spent most of their time living at home in Normandy or Anjou, allowing the English barons a considerable degree of autonomy. It was only after King John lost Normandy to the French in 1204 that the King resided full-time in England, breathing down the necks of the barons, who did not much like the closer observation of their activities, and the eyeing of their stockpiles of silver that this proximity entailed.
+
+The  relationship  between  the  barons  and  King  John  broke  down  in  part  because  of unsustainable  public  finances,  with  John  imposing  an  intolerably  heavy  and  arbitrary  tax burden in order to pay for royal extravagance, infighting, and wars with the French. The royal judicial  system,  whose  tendrils  extended  ever  deeper  into  the  barons'  lives,  was  used  to extort cash and as an instrument of royal control, rather than to ensure 'justice'.
+
+What lay behind such unsustainable public finances?
+
+First, and most obviously, the need to pay for constant military protection for the Normandy estates  created  what  modern-day  macroeconomists  would  think  of  as  an enormous structural deficit . If John had let his expulsion from the continent be the end of the matter this financial burden would have extinguished itself. But he did not. His folly was a series of vain  attempts  to  re-conquer  Normandy,  efforts  which  finally  ended  on  the  eve  of  Magna Carta. 2
+
+Second, the monarchic finances had taken a colossal hit in 1193 because of the need to fund a gigantic public sector bailout . Richard I had managed to get himself caught in Germany on his way back from the Holy Land and was held to ransom for £66,000 in silver. Being 'Too Big To Jail', the equivalent of two to three times annual crown income was needed to bail him  out.  In  comparison,  the  government's  peak  cash  support  to  UK  banks  in  2007-2010 amounted to a trifling one-quarter of annual UK government revenues. 3
+
+Third,  the  need  to  raise  additional  cash  for  the  public  finances  was  made  much  more problematic  by the strain of inflation , which  accelerated  in the early years  of the 13th century. 4 The problem was that a large proportion of regular crown income came in the form  of  'farms',  which  were  fixed  rental  payments  for  leases  to  use  the  King's  land  for agriculture.  These  farms  were  fixed  by  custom  in  nominal  terms,  whereas  the  King's expenditures were not. The King's finances were unhedged.
+
+1 For an excellent summary, see Vincent, N (2012), Magna Carta: a very short introduction , Oxford University Press.
+
+2 His allies were finally defeated in 1214 at the Battle of Bouvines, which ended the 1202-1214 Anglo-French War.
+
+3 This would have been bad enough on its own. What was even worse was that it had come only five years after the  collection  of  the  'Saladin  Tithe',  a  windfall  tax  of  a  similar  amount,  in  order  to  pay  for  a  campaign  to wrestle Jerusalem out of the hands of Salahuddin Ayubi, who had captured it in 1187. That cost the barons one-tenth of all their revenues and movable property.
+
+4 Latimer (2001) suggests that the inflation was concentrated in the first six years or so of the thirteenth century. See  Latimer,  P  (2001),  'The  English  inflation  of  1180-1220  reconsidered',  Past  and  Present,  No.  171, pages 3-29.
+
+BIS central bankers' speeches
+
+In fairness to the monarchy, there was not an enormous amount that could be done about this. There was obviously no CPI(H) to which the leasehold rents could be indexed. The UK's statistical challenges have a long history.
+
+The preferred way of hedging the risk was to kick the leaseholders off the land, and bring it into direct demesne management. 5 This is what the barons themselves had been doing with their  own  land  holdings.  By  taking  it  into  demesne  control,  instead  of  receiving  a  fixed nominal rent, the lord of the manor could take receipt of the real output of the land, which could be consumed, traded, or sold for silver at the going spot price. The consequence was that the richer the baron, the more land he had to exploit, and the greater his potential profits.
+
+The effect was to create a massively wealthy elite of oligarchs, now breaking free both of the middling ranks of the gentry at one end, and of the hard-pressed King (or public sector) at the other. In all of this, the option of demesne management was infeasible for the King, likely because  it  would  have  involved  destabilising  relations  with  the  administrative  class  of 'sheriffs' and other royal officials upon whom the King's political stability depended. 6
+
+## Causes of the inflation
+
+Forget royal infighting, wars or the whiff of revolution, it is inflation that really sets the pulses of  central  bankers  racing.  And  for  good  reason  because  closer  inspection  suggests  that inflation may have been a significant catalyst to Magna Carta.
+
+Historians  estimate  that  prices  were  rising  sharply  in  the  early  1200s.  The  prices  of agricultural  goods,  including  wheat  and  oxen,  probably  doubled  in  that  period. 7 Evidence suggests that prices of linen, wax, lead and even palfreys - the Toyota Prius of medieval horses - were also rising rapidly.
+
+Wages  were  rising  as  well  -  and  to  a  greater  extent  than  could  have  just  been  the consequence of  medieval  real-wage  resistance.  King  John  was  paying  his  knights  almost three times as much as Henry II (even though they weren't as productive on the battlefield). 8 The  daily  rate  for  foot-soldiers  had  doubled.  And  limited  evidence  suggests  the  wages  of skilled labourers on the crown estates probably increased by a similar proportion. 9
+
+With pay growth approaching 20% a year, wages really were fizzing! 10
+
+The  underlying  causes  of  this  inflation  are  debated  among  historians,  but  the  most convincing  argument  is  that  the  inflation  was  a  monetary  one,  albeit  with  a  twist.  Not
+
+5 Harvey, P. D. A., (1973), 'The English inflation of 1180-1220', Past and Present, No. 61, pages 3-30.
+
+6 Given the countless other abuses of authority that were going on at the time, one wonders why it was so problematic for the rents simply to be 'renegotiated' periodically. In part, custom dictated that this was not the done thing. In part, the problem lay with the 'sheriffs' in each of England's counties. They were responsible for collecting the fixed farms from the King's assets. In normal years, they made an enormous profit, paying only a small fixed farm to the King, yet raking in a great deal more in terms of the real income of the counties. They were  accustomed  to  keeping  this  surplus.  Any  attempt  to  reform  this  system,  by  reducing  the  imbalance between  real  income  and  fixed  farm  threatened  to  destabilise  relations  between  the  King  and  the  vitally significant  administrative  class  of  sheriffs  and  other  royal  officials  upon  whom  the  King's  political  stability depended. As a result, the Kings' preference was to find other ways of raising the cash.
+
+7 Latimer ( ibid .). As Latimer says, '[b]etween 1198 and 1206, sheep prices, wine prices and the price paid by the exchequer for its regular supply of cloth all indicate a steep and sustained increase.'
+
+8 Harvey ( ibid .). Henry II had paid his knights 8d per day: King John was handing over 2s or 3s, an increase of about 275%.
+
+- 9 Less  directly,  one  can  infer  from  evidence  on  the  exercise  by  manorial  lords  of  their  options  to  take  cash payments  from  their  villeins  (peasants),  instead  of  forcing  them  to  work  the  land,  that  the  going  rate  for unskilled farm labour must also have increased.
+
+10 Assuming those increases occurred over the six years Latimer identifies as the period of significant inflation.
+
+surprisingly,  the  quantitative  information  on  the  thirteenth  century  money  supply  is  of  very poor quality, imputed, as it has been, from archaeological finds of cash hoards. 11
+
+Latimer  notes  that  '…between  the  middle  of  the  twelfth  century  and  the  middle  of  the thirteenth century there was an enormous increase in the quantity of silver coins in England.' As well as the possibility of a general increase in the European silver supply (especially with the opening up of the Harz silver mines in eastern Germany), it is likely that silver inflows to England in particular were boosted as the counterpart to a sizeable private trade surplus probably resulting, especially, from the success of the wool trade with Flanders. Over several decades, these silver inflows were likely to have much more than offset the 'public sector deficit' as silver leaked out to pay for the protection of Normandy as well as the occasional trip to the Holy Land. As a result, the balance of payments was probably in surplus for years, with  the  consequent  increase  in  the  silver  money  supply  going  unsterilised.  Even  to  a thirteenth century Englishman, global monetary conditions mattered.
+
+Would Britain's constitutional history have been different had King John lamented: A Central Bank! A Central Bank! My Kingdom for a Central Bank!?
+
+He  needed  one  because  other  factors  reinforced  monetary  developments,  including  the usual  suspect  -  financial  innovation.  Specifically,  developments  in  the  common  law  made land an increasingly liquid asset, and therefore one capable for the first time of being used as a store of wealth. 12
+
+This  set  a  medieval  financial  accelerator  in  train  (about  750  years  before  Ben  Bernanke coined the term) 13 by providing an alternative to storing one's wealth in silver coin (prone to being whisked away by the King). This led to a reduction in the demand for silver money balances.  An  increase  in  money  velocity  would  have  followed  and  with  it,  all  else  being equal, price inflation until the transactions demand for silver had risen sufficiently to equal its supply.  At  the  very  least,  the  existence  of  an  alternative  store  of  wealth  provided  an environment in which money velocity could take off, were it to be nudged in that direction.
+
+One possible nudge was the anticipation of the re-coinage of 1204. 14 Re-coinages were good for the King because he benefitted from the seigniorage of the re-minting fee. They were bad for cash holders both because of the re-minting fee and because they had to exchange their clipped  coins  for  what  they  were  actually  worth,  rather  than  their  face  value  (a  medieval haircut - some of which were appalling). Consequently, there was a strong incentive not to be the one holding the old-issue coins when the music stopped. 15
+
+So  to  sum  up:  a  fiscal  squeeze  exacerbated  by  accelerating  inflation,  combined  with monarchical ambition and incompetence to stretch and then break relations with the barons.
+
+11 In very crude terms, the supposition here has been that we can extrapolate from the quantity of coins found in modern times the number of moneyers and mints that were in operation in the thirteenth century. With this information, we can then work out how many coins each moneyer struck (the only coin in circulation at this time being the silver penny), and then calculate the total money supply.
+
+12 Palmer, R. C. (1985), 'The Economic and Cultural Impact of the Origins of Property: 1180-1220', Law and History Review, 3 No. 2, Autumn, pages 375-396.
+
+13 Bernanke,  B,  Gertler,  M  and  Gilchrist,  S  (1996),  'The  financial  accelerator  and  the  flight  to  quality',  The Review of Economics and Statistics, Vol. LXXVIII, 1, February.
+
+14 Latimer ( ibid. ).
+
+15 It is perhaps for this reason - a thirteenth century manifestation of Gresham's Law - that archaeological finds of coin hoards are often thought to contain suspiciously high proportions of freshly minted coins.
+
+## 2. Constitutional significance
+
+In  that  context,  Magna  Carta  was  a  desperate  (and  probably  disingenuous)  attempt  at  a peace treaty that failed almost immediately.
+
+Brokered  by  the  Church,  and  issued  by  King  John  in  June  1215,  the  Charter  sought  to placate the disgruntled barons. It is doubtful that John ever intended to uphold his side of the bargain, with all the constraints on his authority that this implied. Indeed, within a few months of its agreement, by the end of August 1215, John had convinced Pope Innocent III to annul the Charter on the grounds that it had been issued under duress. 16 The 1215 Magna Carta was never enacted, and England slipped into the First Barons' War.
+
+Charters of this type were not uncommon at that time. It had been fairly routine, in fact, for English kings to attempt to curry favour with the nobles upon whom the stability of their realm depended  by  rubbishing  the  reputations  of  their  predecessors  and  issuing  'coronation charters' that demonstrated how virtuous and peace-loving they were by comparison. It was also  fairly  routine  for  kings  to  renege  on  the  promises  in  those  charters,  creating  fertile ground to begin the cycle anew. 17
+
+What was novel about Magna Carta was that: (a) it was longer and more detailed than its predecessors; and (b) it was issued not at John's coronation, but under compulsion from a true  political  opposition,  sixteen  years  into  his  reign  and  evidentially  too  late  to  serve  its purpose. 18
+
+This brings a second observation. Obnoxious and tyrannical as he might have been, King John  was  not  solely  to  blame  for  the  aristocratic  discontent  that  led  to  Magna  Carta.  His predecessors  had  reneged  on  their  promises,  mismanaged  the  realm  and  imperilled  its finances. John's administrative and military incompetence were merely the straws that broke the camel's back.
+
+If Magna Carta was such a product of its time, how did it become to be so venerated? And once we cut through the legend, what is its significance for economic governance today?
+
+The revisionist interpretation of Magna Carta as a timeless statement of natural rights and liberties  became  imprinted  onto  the  minds  of  the  English-speaking  world  only  in  the  17th century.  In  large  part,  this  was  due  to  the  work  of  Edward  Coke.  As  well  as  being  an enormously influential jurist, Coke was also the author of popular English legal textbooks that exported his views around the world. Coke resurrected the long-forgotten Magna Carta from 400 years of obscurity by appealing to its spirit in order to resist the absolutist tendencies of the  Stuart  Kings  James  I  and  his  son  Charles  I  -  themselves  inspired  by  the  continental European model of monarchic divine-right. The Charter, Coke argued, could trace its lineage from an ancient constitution that harked back not just to the time of pre-Norman King Edward the  Confessor,  but  to  King  Arthur  himself  (!):  an  ancient  constitution  that  was  now  being imperilled - and with it the Englishman's rightful way of life - by the tyrannical behaviour of the Stuarts.
+
+16 John  had  restored  himself  to  favour  from  excommunication  and  placed  himself  under  the  protection  of Innocent  by  pronouncing  himself  a  papal  vassal,  and  England  a  papal  fief,  in  1213  and  subsequently  by 'taking the cross' in March 1215 - i.e., declaring himself a crusader.
+
+17 The coronation charter of Henry I issued in 1100 (which was also endorsed by Henry II at his own coronation in 1154) is a pertinent example because it was effectively the draft on which Magna Carta was later based, containing several of the clauses now regarded as the most significant.  The original text was written in one continuous flow.  Its division into clauses is a modern construct.
+
+18 Moreover it came after a lacuna of sixty years during which the House of Plantagenet had issued no similar conciliatory  charters  and  whose  actions  in  the  meantime  had  caused  sufficient  damage  to  the  relationship between nobility and monarchy as to make an uprising inevitable.
+
+Despite the efforts of Coke and others, Charles I's rejection of all enterprise to constrain his authority led to the English Civil War and to the king's beheading in 1649. Meanwhile, Coke's unstoppable Magna Carta redux had been set in motion.
+
+In  contradiction  to  their  behaviour  at  home,  James  and  Charles  had  been  busily  granting royal charters promising the liberties of Englishmen to the American colonists. Coke himself had been involved in the drafting of the first charter of the Virginia Company in 1606, and similar English liberties were  extended  in  the charters  of  Massachusetts,  Maryland, Connecticut, Rhode Island and Carolina over the next sixty years.
+
+Some have argued that references to Magna Carta, however irrelevant its provisions might by then have been, were used as a way of 'drumming up' New World settlers. To this day, 25 US States have extracts from Magna Carta on their statute books; a further 17 have the full text. Goodness knows how the latter intend to enforce the removal of '[a]ll fish-weirs … from  the  Thames,  the  Medway,  and  throughout  the  whole  of  England,  except  on  the  sea coast'  (Clause  33).  Of  course,  sometimes  American  extraterritoriality  literally  knows  no bounds.
+
+Coke's romantic resurrection of Magna Carta transformed it into part of the backdrop to the American Revolution, with his influence clearly evident in the drafting of the US Constitution.
+
+*    *    *
+
+We have seen how the economic forces and political  developments  of  the  time  played  a crucial part in the mounting hostilities between King John and the barons that led to Magna Carta and First Barons' War. Given that background, it is not as shocking as it first seems that  Magna  Carta  is  very  largely  taken  up  with  the  parochial  interests  of  the  rich.  It  is dominated  by  three  basic  themes:  taxes;  abuses  of  the  'judicial  system'  with  the  aim  of raising revenue; and the protection of the barons' mercantile interests.
+
+Given how irrelevant those specific concerns now seem, it is hardly surprising that almost all of the Charter's clauses that survived the 1225 re-issue (and therefore made it into the law in the first place) have since been repealed. In fact, only four clauses of the original 66 remain. These  stand  out  as  different  in  character  from  the  others.  They  are  much  more  general, universal and timeless. They are:
+
+- Clause 1: Freedom for the Church.
+- Clause 13: Protection for the 'ancient liberties' of the City of London.
+- Clause 39: No wrongful imprisonment. Perhaps the most famous clause. 'No free man  shall  be  seized  or  imprisoned,  or  stripped  of  his  rights  or  possessions,  or outlawed or exiled, or deprived of his standing in any way, nor will we proceed with force  against  him,  or  send  others  to  do  so,  except  by  the  lawful  judgment  of  his equals or by the law of the land.'
+- Clause 40: Justice is not for sale.
+
+Added  to  that,  the  spirit  of  Clause  12  of  the  1215  Magna  Carta  (dropped  from  all  later reissues),  that  'no  'scutage'  or  'aid'  may  be  levied  in  our  kingdom  without  its  general consent…',  is  clearly  what  would  later  become  'no  taxation  without  representation':  to establish a council (the embryonic embodiment of what would later become Parliament) to agree whatever new taxes the King might demand.
+
+Whatever their purpose at the time, the more universal clauses that remain on the statute book certainly resonate today. They in effect encompass the idea of the rule of law and of due process as a means to ensure justice. It is tempting, therefore, to think of these clauses as being the enduring legacy of Magna Carta, while at the same time allowing ourselves to patronise  the  juxtaposition  of  these  apparently  fundamental  principles  alongside  so  much
+
+antiquated  gibberish  about  fish-weirs,  the  obligation  to  construct  bridges,  and  the  theft  of wood for building castles.
+
+This  would,  I  think,  be  a  mistake.  The  specificity  of  the  clauses  animates  the  general principles. It is because they are detailed and targeted at the concerns of the time that they are a genuine attempt to place a boundary on the authority of the King, rather than relying on vague platitudes. 19
+
+Magna Carta was nowhere near the first attempt to encapsulate ideas of justice and good government, nor was it the last. Indeed, it was a spectacularly unsuccessful attempt - and it was anyway concerned only with the interests of a very small segment of society. But, largely because King John's heirs were forced into a tight corner and therefore obliged to reissue the charter again and again after 1215 (in 1216, 1217, 1225, 1234, 1253, 1265, 1297 and 1300, to cite only the more famous reissues), it is Magna Carta that has become the icon of the principle that the exercise of authority requires permission from those subject to that authority - and that, once granted, this permission can just as easily be withdrawn.
+
+At  its  most  idealised,  Magna  Carta  makes  clear  that  power  derives  from  the  people  and constrains the authority of the state. The state can in turn devolve power - to regions - and to independent bodies. But these bodies can never forget from where their power came or to whom  they  are  responsible.  Their  authority  is  constrained  to  that  necessary  to  pursue specific objectives and they are accountable to the people for their performance.
+
+## 3. Monetary policy outlook
+
+The Bank's current Monetary Policy framework embodies these principles.
+
+It wasn't always the case. The Bank of England was brought into public ownership in 1946. As  former  Governor  Eddie  George  remarked,  for  the  half  century  that  followed  'the  Bank operated  under  legislation  which,  remarkably,  did  not  attempt  to  define  our  objectives  or functions.'  They  were,  instead,  'assumed  to  carry  over  from  [the  Bank's]  earlier  long history.' 20 In  that  regard,  the  Bank's  'constitution'  resembled  that  of  the  United  Kingdom more broadly, comprising a rich history of law, principle and convention.
+
+All  changed  with  the  passing  of  the  Bank  of  England  Act  in  1998,  which  made  specific 'provision  about  the  constitution,  regulation,  financial  arrangements  and  functions  of  the Bank.' The Act brought great clarity to the Bank's responsibilities and granted independence to the Bank for the operation of monetary policy. In delegating authority to an independent body in this way, the Act ensured the Bank would operate under what Mervyn King described as  'constrained'  rather  than  'unfettered'  discretion.  The  Bank  would  be  accountable  to Parliament  for  operating  the instruments of  monetary  policy  to  achieve  the objectives of monetary policy, which would be determined by the Government. 21
+
+The operational independence of the Bank of England is an example of power flowing from the  people  via  Parliament  within  carefully  circumscribed  limits.  Independence  in  turn demands accountability in order that the Bank commands the legitimacy it needs to fulfil its mission.  By  publishing  its  analysis,  giving  testimony,  and  delivering  speeches,  the  Bank explains how it is exercising its powers to achieve its clearly defined policy Remits.
+
+19 Even the 'fish weirs' clause (33) can be read, in hindsight, as a protection both of the public good (in Roman law terms, res publica ) and of the freedom of navigation:  the same principle for the which the English entered into the Seven Years War of 1756-63, whose costs, in turn, brought about the American Revolution of 1776.
+
+20 George, E. (2000), 'Central bank independence', speech at the SEANZA Governors' Symposium, 26 August 2000.
+
+21 See, for example, King, M. (2000), 'Monetary policy: theory in practice', 7th January 2000. King attributes the 'constrained' versus 'unfettered' distinction originally to Ben Bernanke and Frederick Mishkin.
+
+To  illustrate  these  points,  I  will  conclude  with  some  reflections  on  monetary  policy.  Our objective,  given  to  us  by  Parliament,  is  to  maintain  price  stability  and,  subject  to  that,  to support the economic policy of Her Majesty's Government, including its objectives for growth and employment. Our Remit builds in important accountability and transparency mechanisms. One of which is the requirement for the Governor to write an open letter to the Chancellor if inflation moves away from its 2 per cent target by more than one percentage point.
+
+## Inflation developments
+
+I am in the middle of a likely sequence of such open letters - I have another one due next month - on account of the record low inflation the UK is experiencing this year, currently at zero per cent. Such letters must explain, among other things, why inflation has deviated from target and what policy actions the Monetary Policy Committee (MPC) is taking in response.
+
+The  'why'  is  straightforward.  The  bulk  of  the  shortfall  of  inflation  below  target  can  be explained by the sharp fall in the prices of commodities and other imported goods since last year.
+
+Of these, the single most important factor has been the steep drop in energy prices globally. The rise in  the  value  of  sterling  has  also  played  an  important  role  in  lowering  non-energy import prices, which have fallen over the past twelve months. The sum total of these effects has  been  to  drag  inflation  below  target  by  around  1½  percentage  points.  This  temporary period of below-target inflation has provided a welcome boost to real household income.
+
+## Inflation looking ahead
+
+The MPC's intention is to return inflation to target in a sustainable manner within two years. That  means  setting  Bank  Rate  to  eliminate  the  remaining  slack  in  the  economy,  bringing about the sustained increase in costs necessary to achieve overall inflation of 2%.
+
+I expect that this will involve raising Bank Rate over the next three years from its current alltime  low  of  ½  per  cent.  The  need  for  Bank  Rate  to  rise  reflects  the  momentum  in  the economy  and  a  gradual  firming  of  underlying  inflationary  pressures  -  a  firming  that  will become more apparent as the effects of past commodity price falls drop out of the annual inflation rate around the end of the year. It also reflects the lags in monetary policy, given that the  peak  impact  on  inflation  of  a  given  adjustment  in  interest  rates  is  likely  to  materialise around 18-24 months after the change.
+
+As  the  economy  evolves,  different  factors  will  become  worthy  of  particular  attention  in informing the timing, pace and degree of likely Bank Rate increases. At the current juncture, three stand out.
+
+First  are  the  prospects  that  sustained  momentum  in  economic  activity  will  wring  out  any remaining slack. This will require sustained growth above its past average of around 0.6 per cent per quarter. 22
+
+Even though the current recovery has been the slowest since the Great Depression, taking around 1½ years longer to regain lost ground than it did following the recession of the 1930s, the signs are encouraging. Looking through the blip in the first quarter, the economy has now been growing above trend for a year and unemployment has fallen sharply over the past two. Consumer confidence is around its highest level for over a decade. Businesses investment intentions are solid. Momentum in the housing market is showing signs of returning. 23 Survey data point to continued momentum in real activity over the remainder of this year.
+
+22 Based on average quarterly GDP growth since 1993.
+
+23 The impact of Buy to Let changes will be examined in August Inflation Report .
+
+To be sure, the international risks to the growth outlook remain. The situation in Greece is fluid, and the on-going slowdown in China could prove more significant. But on balance we can expect the global economy to proceed at a solid, not spectacular, pace. 24
+
+Second, domestic costs need to continue to firm. After a period of particularly weak wage growth, which reflected a marked expansion in labour supply that is now largely absorbed, wage growth is picking up. 25 The  recent  growth in  wages has been stronger than we had expected in May, though most of the upside news was in bonuses, which are a less reliable guide to firms' future labour costs. 26
+
+At a minimum, when taken together with survey indicators that continue to point to solid pay growth for new recruits, recent data give welcome reassurance that the risks associated with a deflationary mindset in the labour market have likely fallen significantly.
+
+Further  positive  wage  developments  should  be supported  by  a  continued  tightening  in the labour market. Job-to-job flows remain around post-crisis highs and the ratio of vacancies to unemployment is now back to its pre-crisis average.
+
+However, what matters for inflation is not wage growth in isolation but wage growth relative to  productivity.  Put  simply,  firms  are  less  likely  to  raise  their  prices  if  higher  wages  reflect more output per hour worked. Along with faster wage growth, there have been signs of faster productivity  growth since the turn of the year. This may well mean firms' unit labour costs have not picked up quite to the degree we had expected in our May Inflation Report . It's too early to be definitive. Weighing past disappointments and recent indications of a pick-up, it is prudent to recognise that two-sided risks to productivity growth remain.
+
+What is clear is that to return inflation to target, growth in labour costs must pick up further from  their  current  rate  of  less  than  one  per  cent.  The  extent  needed  depends  on  what  is happening to other costs. In the decade prior to the crisis, labour costs grew by around 2½ per cent each year on average, with wages and salaries growing at around 4¾ per cent and productivity at 2¼ per cent. Inflation averaged 2 per cent, 27 however, in part because import prices rose only by around ¼ per cent each year at the same time.
+
+The possibility that history might repeat itself points to a third important consideration: the need to monitor developments in firms' costs other than labour. The sum of these is evident in  so-called  'core'  inflation,  which  are  measures  of  prices  that  strip  out  the  most  volatile determinants  of  inflation,  like  energy  prices,  revealing  more  persistent  trends.  In  an  open economy like the United Kingdom's, those factors include import prices, which are affected by  movements  in  the  value  of  sterling,  and  which,  on  past  experience,  can  take  a considerable time to pass through to core inflation. 28
+
+24 In our May projections, the MPC expected PPP-weighted worth growth of 3 ¼ per cent in 2015 and 3 ¾ per cent in 2016 and 2017, just shy of the pre-crisis average of around 4 per cent.
+
+25 I discussed labour supply developments in the UK in detail last autumn. See Carney, M (2014), Speech to the Trades Union Congress Annual Conference, 9th September 2014.
+
+26 Unlike regular pay, bonuses are closer in spirit to dividend payments, being state-contingent disbursements of profits. That observation may imply bonus payments are a useful cyclical indicator, although interpreting the data is potentially complicated by changes in taxes that shift the incentive to pay bonuses over time.
+
+27 Accounting  for  the  mis-measurement  of  clothing  and  footwear  prices,  which  existed  until  2010  and  biased measured annual CPI inflation downwards by around 0.4 percentage points. See Bank of England (2011), Inflation Report , February, box on page 39.
+
+28 One way to illustrate the impact of import prices is to consider measures of core inflation adjusted for import intensity.  These  measures  suggest  that  the  current  rate  of  core  inflation  is  being  dragged  down  by  import prices by around 1 percentage point. That is a sizeable effect, and reflects, in part, changes in the value of sterling. The core measure referred to here is CPI inflation excluding food, energy, education, alcohol, tobacco and  VAT,  and  the  measure  adjusted  for  import  prices  weights  each  component  of  the  core  index  by  the inverse of its import intensity.
+
+Over the past few years, core inflation has been particularly subdued, and it remains less than  one  per  cent.  We  need  to  see  increases  in  core  inflation  to  have  a  reasonable expectation that, in the absence of further shocks, overall CPI inflation will return to 2 per cent within the MPC's stated objective of two years.
+
+## Policy strategy
+
+Delivering the growth in activity, the rise in domestic costs and the firming in core inflation measures  necessary  to  return  inflation  to  target  requires  monetary  policy  to  be  set appropriately  both  now  and  prospectively.  In  this  regard,  one  concern  has  been  the constraint imposed on monetary policy by the effective lower bound on policy rates.
+
+In  my  view,  with  the  healing  of  the  financial  sector  and  the  lessening  of  some  of  the headwinds facing the economy, that concern has become less pressing with the passage of time. As I made clear in my first open letter in February, were downside risks to inflation to materialise the MPC could decide either to expand the Asset Purchase Facility or to cut Bank Rate further towards zero from its current level of ½ per cent. 29 In the current circumstances there is no need to wait to raise rates because of a risk management approach and run the risk of inflation overshooting target.
+
+At the same time, the timing and pace of prospective interest rate increases need to be put into perspective. Headwinds to growth and inflation remain. Growth in the parts of the global economy  that  matter  most  to  the  UK  is  running  ¾  percentage  points  below  its  historic average. Sterling has appreciated around 18 per cent over the past two years and around 7 per cent since the turn of the year. This will exert a drag on inflation both through lowering import costs and by lowering world demand for UK goods. UK fiscal policy is about to tighten significantly.  The  average  annual  reduction  in  the  cyclically-adjusted  budget  deficit  is projected by the OBR to increase from around ½ per cent of GDP over the past two years to around 1 per cent of GDP over the next two - and the IMF expects the UK to undergo the largest fiscal adjustment of any major advanced economy over the next five years. 30
+
+Taken together, these factors suggest that the 'equilibrium' real rate of interest - the rate needed  to  keep  the  economy  operating  at  potential  and  inflation  on  target  -  which  was sharply negative during the crisis, will continue to be lower than on average in the past. It also  seems  likely  that  the  equilibrium  interest  rate  will  move  only  slowly  back  up  towards historically  more  'normal'  levels.  Everything  else  equal,  that  suggests  a  prospective tightening cycle that, once it starts, will be longer and shallower than those of the past. In other words, we expect Bank Rate increases to be gradual, and limited to a level below past averages.
+
+## What does that actually mean?
+
+The  Bank  of  England  is  around  half  a  millennium  younger  than  Magna  Carta.  To  put  the limited and gradual expectation in historical context, short term interest rates have averaged around  4½  per  cent  since  around  the  Bank's  inception  three  centuries  ago, 31 the  same average as during the pre-crisis period when inflation was at target. The average pace of
+
+Not  only  are  the  effects  sizeable,  but,  on  past  experience,  they  are  potentially  protracted.  The  impact  of sterling's  25%  depreciation  following  the  onset  of  the  financial  crisis  on  import  prices  was  one  factor  that contributed to high inflation throughout 2008-12. The potential for these effects to be persistent highlights their relevance at the policy horizon.
+
+29 To paraphrase one of my predecessors at the Bank of Canada, Gerry Bouey, we didn't abandon the lower bound; the lower bound abandoned us.
+
+- 30 See  Office  for  Budget  Responsibility  (2015), Economic  and  Fiscal  Outlook ,  July;  and  IMF  (2015), World Economic Outlook .
+
+31 Based on data on short term money market rates, starting 1718. See Hills, S, Thomas, R and Dimsdale, N (2015) 'Three Centuries of Data - Version 2.2', Bank of England.
+
+tightening since the adoption of inflation targeting in 1992 was around 50 basis points per quarter.
+
+It would not seem unreasonable to me to expect that once normalisation begins, interest rate increases would proceed slowly and rise to a level in the medium term that is perhaps about half  as  high  as  historical  averages.  In  my  view,  the  decision  as  to  when  to  start  such  a process of adjustment will likely come into sharper relief around the turn of this year.
+
+That said, the path is much more important than the precise timing of the first rate increase. And I am conscious of several important considerations which mean the actual path almost certainly will not be mechanical, linear or pre-determined. First and foremost, shocks to the economy could easily adjust the timing and magnitude of interest rate increases. Second, the largest  cumulative  tightening  in  the  UK  since  inflation  targeting  was  adopted  was  1  ½ percentage points, compared to an average cycle of 3 percentage points for the US Federal Reserve  over  the  same  period.  This  likely  reflects  in  part  the  greater  sensitivity  of  UK household  balances  sheets  in  the  medium  term  to  floating  interest  rates,  something  that could be particularly relevant in our still heavily indebted post-crisis economy. Over a half of UK  mortgagors  would  pay  higher  rates  in  a  year's  time,  and  close  to  three-quarters  of mortgagors in two years' time, were interest rates to evolve according to current market rate expectations. That is in stark contrast to the US, where even over a two-year period, less than 10 per cent mortgages would be affected directly by a change in rates. We will learn more  about  the importance of these sensitivities as interest rates increase. Third, developments in the exchange rate have been important for UK inflation and activity, and in particular we have experienced persistent exchange rate pass-through to headline inflation .32 This risk is  particularly  relevant  at  present  when  the monetary  policy  stance  of  our  largest trading partner is diverging with ours.
+
+Most fundamentally, there are broader macroeconomic considerations, particularly the UK's large external imbalances. With the largest current account deficit in the advanced world, the right  policy  mix  leans  towards  tighter  fiscal,  more  accommodative  monetary  and  tighter macroprudential policies. 33
+
+Given these considerations, the MPC will have to feel its way as it goes, monitoring a wide range of indicators and adjusting the pace and degree of Bank Rate as it learns about the effects  of  higher  interest  rates  on  the  economy.  There  is,  in  fact,  a  wide  distribution  of possible outcomes around any expected path for Bank Rate, reflecting the inevitability that the  economy  will  be  buffeted  by  shocks  and  that  monetary  policy  will  have  to  adjust accordingly.
+
+After all, as the story of Magna Carta shows, history rarely proceeds in a straight line… why should monetary policy?
+
+32 The MPC expects to refine its estimates of these effects in future Inflation Reports .
+
+33 See Carney, M (2014), Speech at the Lord Mayor's Banquet for Bankers and Merchants of the City of London at the Mansion House, London, June.

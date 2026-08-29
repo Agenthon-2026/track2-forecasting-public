@@ -1,0 +1,425 @@
+Masazumi Wakatabe: Masazumi Wakatabe: Japan's economy and monetary policy
+2020-02-05
+
+
+
+Bank  of  Japan
+
+February  5,  2020
+
+## Japan's Economy and Monetary Policy
+
+Speech at a Meeting with Business Leaders in Ehime
+
+## WAKATABE Masazumi
+
+Deputy Governor of the Bank of Japan
+
+(English translation based on the Japanese original)
+
+## Introduction
+
+Good  morning.  It  is  my  pleasure  to  have  the  opportunity  today  to  exchange  views  with administrative, financial, and business leaders in Ehime Prefecture. I would like to take this chance to express my sincere gratitude for your cooperation with the activities of the Bank of Japan's Matsuyama Branch.
+
+At the Monetary Policy Meeting held in January, the Bank updated its projections for Japan's economic activity and prices through fiscal 2021 and released them in its quarterly Outlook for  Economic  Activity  and  Prices (Outlook  Report).  Today,  while  outlining  the  Outlook Report, I would like to explain the Bank's view on developments in economic activity and prices, including the global economy, as well as monetary policy conduct, with a focus on economic growth.
+
+## I. Financial and Economic Developments
+
+## A. Developments in the Global Economy
+
+Let me start by talking about developments in the global economy. The growth rate of the global economy has decelerated since around mid-2018, and according to the latest forecasts released by the International Monetary Fund (IMF), the global growth rate for 2019 likely was slightly below 3 percent for the first time in 10 years (Chart 1).
+
+The  recent  slowdown  in  the  global  economy  was  triggered  by  a  rapid  deceleration  in manufacturers' activities on a global basis, mainly due to a heightening of uncertainties over the  U.S.-China  trade  friction  and  adjustments  in  the  cycle  for  IT-related  goods  that  were affected by weak demand, such as for smartphones (Chart 2). A heightening of uncertainties also has led to the postponement of business fixed investment, with the world trade volume, mainly  in  IT-related  goods  and  capital  goods,  decelerating  significantly.  However,  while relatively large adjustments have been seen in the manufacturing sector, the nonmanufacturing  sector  has  been  steady  on  a  global  basis.  This  contrast  between  the manufacturing and nonmanufacturing sectors sometimes is called "decoupling."
+
+There are some factors behind the global decoupling. First of all, the employment and income situation  has  been  favorable  in  many  countries.  In  addition,  each  country  strengthened
+
+monetary and fiscal measures in response to the heightening risks of the economic slowdown. As a result, accommodative financial conditions, tight labor market conditions, and steady consumer sentiment have been maintained, supporting domestic demand in each country even with the deceleration in the manufacturing sector. That said, there is no guarantee that this decoupling will last for a long time. If the slowdown in the manufacturing sector becomes prolonged, its impact could spread gradually to the nonmanufacturing sector and households. In contrast, if adjustments in the manufacturing sector mostly come to an end while domestic demand remains resilient, the global economy is expected to return to a growth path. On this point, the Bank considers it highly likely that the latter scenario will be realized -- that is, the global economy will pick up gradually. Let me point out two factors that are the basis for the realization of this scenario.
+
+The first is that there has been some progress in dealing with the problems that were at the root of the global uncertainties, such as  the U.S.-China trade negotiations and the United Kingdom's exit from the European Union (EU). If overall uncertainties wane to some degree in reflection of such progress, firms are likely to take more positive actions, although the Bank judges that uncertainties regarding the global economy are still significant, as I will talk about later.
+
+The  second  is  that  adjustments  in  the  global  manufacturing  sector  have  progressed  and business sentiment has improved (Chart 3). In the IT-related sector in particular, inventory adjustments have progressed globally and world semiconductor shipments have picked up. As for the outlook for  this  sector,  demand  related  to  data  centers  and  the  5G  network  is expected to increase, thereby pushing up production activity.
+
+The Bank's projection is consistent with those presented by international organizations. For example, in the IMF's World Economic Outlook Update , the global growth rate is projected to rise from 2.9 percent for 2019 to 3.3 percent for 2020 (Chart 1).
+
+## B. Current Situation of and Outlook for Japan's Economy
+
+Next, I will turn to economic developments in Japan. The slowdown in the growth pace of the  global  economy  also  has  affected  Japan's  economy,  mainly  through  somewhat  weak
+
+external demand. Reflecting this slowdown and such effects as of the consumption tax hike and  natural  disasters,  Japan's  economy  seems  to  have  briefly  registered  a  significant deceleration in the October-December quarter of 2019. However, the Bank considers at this point that such deceleration is temporary and that Japan's economy has been on a moderate expanding trend. This is based on the assessment that the trend in the three pillars of domestic demand -- business fixed investment, private consumption, and government spending -- has been firm. Let me elaborate on this.
+
+I will first talk about business fixed investment. In Japan, it has continued on an increasing trend  (Chart  4).  Some  manufacturers  have  postponed  investment  intended  for  capacity expansion  due  to  the  slowdown  in  overseas  economies;  so  far,  however,  construction investment has continued to increase and there has been no change in firms' efforts toward making  strategic  investment  from  a  long-term  perspective. As  for  the  outlook,  the  Bank projects that these investments will continue to increase. Regarding construction investment, in  Japan,  buildings  and  structures  have  been  aging  in  reflection  of  long-lasting  weak construction investment since the bubble burst in the early 1990s, and potential replacement demand  seems  to  be  high.  Such  potential  demand  is  likely  to  underpin  construction investment for a long time in a situation of accommodative financial conditions. In addition, labor-saving investment in view of demographic changes is expected to continue increasing, and IT investment seems to be gradually becoming active in a wide range of sectors recently, including investment related to big data, artificial intelligence (AI), and the Internet of Things (IoT) that aims at creating new businesses, expanding sales channels, and promoting use for marketing. 1
+
+Next, let me move on to private consumption (Chart 5). For the time being, the effects of the October 2019 consumption tax hike warrant attention. On this point, private consumption for the October-December quarter declined considerably, but it should be noted that this decline is  attributable  to  such  factors  as  natural  disasters.  Looking  at  developments  in  private consumption excluding these special factors, the impact of the tax hike so far is assessed as being smaller than that of the previous tax hike in 2014. However, uncertainties regarding the
+
+1 See Box 3 "Background to the Recent Steady Business  Fixed  Investment"  in  the  January  2020 Outlook Report.
+
+impact of the tax hike are still significant and are considered one of the risks in assessing future economic activity. I will touch on this point again later.
+
+Lastly, let me explain developments in government spending. In recent years, there have been successive natural disasters in Japan. 2 At the end of last year, the government formulated the economic measures for the first time since 2016, with the aim of overcoming natural disasters and downside risks to economic activity and of providing people with a sense of security for the  future.  Owing  to  the  implementation  of  various  measures  in  this  economic  package, government spending, such as on public construction, is expected to continue increasing for the time being (Chart 6). Moreover, I think that flexible conduct of fiscal policy in response to economic developments amid a situation where the Bank continues to conduct a largescale monetary easing will enhance the synergy effects of monetary easing and fiscal stimulus, thereby  further  strengthening  economic  stimulus  effects.  Generally  speaking,  in  the  case where a government expands its spending through increased issuance of government bonds, the mechanism will operate in which upward pressure on longer-term market rates emerges and gradually restrains such items as private investment. On the other hand, in the case where a central bank restrains a rise in market rates even amid an expansion in government spending, the negative impact on private investment will be limited and stronger economic stimulus effects are expected. 3
+
+In sum, the underlying trend in domestic demand has been firm thus far and it is expected to follow an uptrend. In the Bank's January 2020 Outlook Report, also taking into account that overseas economies are likely to pick up gradually, Japan's real GDP growth rate is projected to be 0.8 percent for fiscal 2019, gradually rising to 0.9 percent for fiscal 2020 and 1.1 percent for fiscal 2021 (Chart 7).
+
+2 Wakatabe, M., "Financial and Settlement Systems as Social Infrastructure: Disaster Management Perspective," opening remarks at the symposium titled "The Impact of Natural Disasters on Financial Markets and Financial Institutions" held at Nagoya City University Graduate School, November 28, 2019, http://www.boj.or.jp/en/announcements/press/koen\_2019/ko191225a.htm/.
+
+3   See Box 1 "Policy Mix Effects" in the January 2020 Outlook Report.
+
+## C. Risk Assessments
+
+However,  there  are  uncertainties  regarding  this  baseline  scenario,  and  I  would  like  to underline the need to closely monitor the downside risks at present.
+
+The first risk factor is developments in overseas economies. Although the United States and China reached an agreement on the initial trade deal, there remain many deep-rooted conflicts between the two countries. Attention also should be paid to geopolitical risks surrounding developments  in  the  Middle  East.  Recently,  there  have  been  heightening  uncertainties regarding  the  impact  of  the  spread  of  the  novel  coronavirus  on  the  global  economy. An indicator that captures global policy uncertainties mainly through the number of news reports has remained at a high level (Chart 8). Taking these developments into account, it is necessary to closely examine whether the scenario will be realized in which firms' activities will become more active through a decline in uncertainties, and in turn trade activity and business fixed investment also will pick up.
+
+The second risk factor is developments in domestic demand. The effects of the consumption tax hike on household spending can be divided into two: (1) an increase in demand prior to the tax hike and a reactionary decline and (2) a decline in households' real income due to the tax  hike. The  former  seems  to  have  been constrained  this  time compared to  those  of  the previous tax hike, partly due to the government's various policy measures (Chart 9). On the other hand, the effects of the latter could materialize gradually through, for example, changes in households' spending attitudes -- that is, the propensity to consume. This time, compared with the previous tax hike, the increase in the net burden on households due to the tax hike has been constrained owing to various support measures and growth in employee income has been maintained, and both factors are likely to underpin real income. Looking at indicators of consumer sentiment that can capture households' spending attitudes relatively early, these continued to show some weakness before the tax hike, whereas there seems to have been a pick-up to some extent after the tax hike, mainly led by the category of "overall livelihood" in the Consumer Confidence Index (Chart 10). However, it is too early to make an assessment on  households'  spending  attitudes  at  this  point,  and  we  would  like  to  carefully  examine additional data when they become available.
+
+## II. Price Developments
+
+Next, I will explain price developments (Chart 11). A sustained decline in prices continued in Japan for many years. In order to overcome this situation, the Bank introduced quantitative and qualitative monetary easing (QQE) in 2013 and has pursued a large-scale monetary easing since then. Subsequently, the economy has improved significantly and the year-on-year rate of change in the consumer price index (CPI) has taken hold in positive territory. Thus, Japan's economy already is no longer in deflation in the sense of a sustained decline in prices.
+
+The year-on-year rate of change in the CPI currently is at around 0.5 percent, and this level is still lower than the price stability target of 2 percent set by the Bank. Although there are some factors that have been pushing down prices, firms' moves to reflect upward pressure stemming from such items as personnel expenses and shipping costs in selling prices have continued, albeit gradually.
+
+The Bank expects that the annual CPI inflation will continue to increase gradually (Chart 12). The rates of increase in wages and employee income are likely to accelerate gradually, as the labor market conditions are expected to remain tight with the economy continuing to expand. Consequently, it is likely that households will accept price rises more easily and firms will be able to further raise their selling prices accordingly. If wages and prices continue to rise, people's inflation expectations will increase, leading to a moderate rise in actual prices. It is projected in the latest Outlook Report that, with this mechanism operating, the year-on-year rate of change in the CPI excluding fresh food will be 0.6 percent for fiscal 2019, gradually rising to 1.0 percent for fiscal 2020 and 1.4 percent for fiscal 2021.
+
+However, this baseline scenario of the outlook for prices entails downside risks. Under the current situation in particular, it is necessary to take into account the possibility that downside risks  to  economic  activity  may  materialize  and  affect  prices.  Therefore,  the  Bank  will continue to carefully examine economic and price developments and monitor whether the mechanism will be maintained in which the inflation rate increases toward the price stability target of 2 percent.
+
+## III. Discussions over Japanification and Economic Growth
+
+## A. What is "Japanification"?
+
+Lately, the term "Japanification" of advanced economies has come to be used frequently. 4 While it  does  not  really  have  a  clear  definition,  it  often  is  used  to  explain  the  following situation. In advanced economies, the economic growth rates, the inflation rates, and interest rates  declined  after  the  global  financial  crisis,  and  this  situation  has  been  lasting. As  the situation  of  low  growth,  low  inflation,  and  low  interest  rates  becomes  prolonged,  the economy's potential growth rate becomes lower, protracting low growth, low inflation, and low interest rates for a longer period. Since Japan has experienced this since the 1990s, the term  "Japanification"  has  been  used  in  the  context  of  warning  not  to  follow  in  Japan's footsteps. 5
+
+Chart  13  shows  developments  in  Japan's  GDP  since  1990  from  various  perspectives  in comparison with other advanced economies. We find the following three points. First, Japan's economic growth rate in terms of nominal GDP clearly has been lower than that of other countries. The nominal GDP growth rate started to decelerate in the first half of the 1990s, and it hardly rose until around 2013. Second, the economic growth rate in terms of real GDP -- which excludes the effects of price fluctuations -- has been at a low level compared to that of other countries, but it is not as low as the nominal growth rate. Third, looking at real GDP per  working-age  person,  Japan's  economic  growth  rate  is  at  around  the  average  level compared to that of other advanced economies.
+
+Based on this third point, some argue that Japan's economic growth rate is not that bad and its stagnation, dubbed "Japanification," is exaggerated. However, I would like to stress that
+
+4   At this year's annual meeting of the American Economic Association held in San Diego, California, there  was  a  session  titled  "Japanification,  Secular  Stagnation,  and  Fiscal  and  Monetary  Policy Challenges." For details, see https://www.aeaweb.org/webcasts/2020/japanification-secularstagnation-fiscal-monetary-policy -challenges.
+
+5 Professor Ito at Columbia University defines   Japanization -- the other term for Japanification -- by using the following four criteria: (1) the actual growth rate is lower than the potential growth rate for an extended period; (2) the natural real interest rate is below zero and also below the actual real interest rate; (3) the nominal (policy) interest rate is zero; and (4) the economy falls into deflation, i.e., the inflation rate is negative. For details, see Ito, T., "Japanization: Is it Endemic or Epidemic?" NBER Working Paper , no. 21954, 2016.
+
+people's perception of economic growth tends to be formed based on nominal figures. One of the reasons why the nominal GDP growth rate was low from the 1990s is that prices continued to decline; in other words, deflation was prolonged. In addition, the unemployment rate went up under deflation. If those unemployed during the "employment ice age" period had been employed, Japan's economic growth rate would have been much higher.
+
+## B. Importance of Economic Growth
+
+Now, I would like to confirm the importance of economic growth. First of all, on average, economic growth leads to improvements in people's living standard as well as nutrition and sanitation levels. Income such as wages, interest, and dividends comes from national output; that is, GDP. Without GDP growth, people's income will not increase. Let me also note that, although many problems have been pointed out regarding GDP, no alternatives have been found easily. 6
+
+Second, economic growth brings about employment. In economics, this rule of thumb has long  been  known  as  Okun's  law.  It  says  that  there  is  a  negative  correlation  between  the economic growth rate and (change in) the unemployment rate. This means that, when the economic growth rate rises, the unemployment rate declines accordingly. This relationship is confirmed in Japan (Chart 14). 7 Given that unemployment brings about not only a negative impact on the economy but also various human and social costs, it is desirable to maintain a healthy level of employment through economic growth.
+
+Third, economic growth allows for various public services to be maintained. A provision of public goods -- such as national defense, police services, the judicial system, social security,
+
+6  Net National Welfare and the Human Development Index, which were advocated as alternatives to GDP in the past, incorporate GDP and income levels. The Social Progress Index is comprised of only social indicators such as the sanitation level and access to education, but these have a close relationship with GDP.
+
+7 Okun's law applies to other advanced economies including the United States. For details, see Ball, L., Leigh, D., and Loungani, P., "Okun's Law: Fit at 50?" Journal of Money, Credit and Banking , vol. 49, issue 7 (2017): 1413-41.
+
+medical services, social infrastructure, fundamental education, and basic scientific research -- requires financial resources, the scale of which depends on the size of the economy. 8
+
+In  reality,  there  are  various  challenges  to  economic  growth.  For  example,  environmental pollution and climate change have become global issues. Innovation is essential to reduce the amount  of  carbon  dioxide  emissions,  and  it  requires  a  certain  level  of  research  and development (R&amp;D) expenditure. In considering the challenges associated with economic growth, it is important to compare them with the positive effects of such growth. 9
+
+## C. Declining Population and Economic Growth
+
+Let us get back to the situation in Japan. The population has been declining and society is aging. The working-age population and total population marked their respective peaks in 1995  and  2008.  The  ratio  of  seniors  aged  65  years  or  older  to  the  total  population  has continued to rise. Many people doubt that Japan can achieve economic growth in the situation of the declining and aging population.
+
+Looking back, people used to be concerned about overpopulation. For example, in the first edition of An Essay on the Principle of Population (1798), Thomas R. Malthus argued that, even though a population increases geometrically, food increases only arithmetically, and thus population growth constrains an enhancement in the living standard per capita. Overpopulation also had been a concern in Japan for a long period until recently. 10
+
+In fact, economic growth can be achieved even under a declining population, which might be a  headwind  for  the  economy. Taking  the  case  of  Ehime  Prefecture  as  an  example,  gross prefectural product has increased moderately in recent years despite a continuing decline in
+
+8   The following argues that economic growth leads to openness, generosity, mobility, and democracy in  a  society:  Friedman, B. M., The Moral Consequences of Economic Growth (New York: Knopf, 2005).
+
+9 There are arguments that dematerialization has progressed in advanced economies, whereby, despite the economic growth, the consumption of such items as energy and mineral resources as well as the emissions of carbon dioxide have declined. See McAfee, A., More from Less (London:  Simon  &amp; Schuster, 2019).
+
+10   Tadokoro, M., "Jinkōron no hensen" [Overpopulation or underpopulation?: Japan's discourses on demography in retrospect], Hōgaku kenkyū , vol. 84, issue 1 (January 2011): 63-90.
+
+total population in the prefecture (Chart 15). An international comparison shows that there is no correlation between the real GDP growth rate per capita and the population growth rate (Chart  16).  Aside  from  that,  there  is  no  correlation  between  the  inflation  rate  and  the population growth rate either.
+
+Looking from the supply side, sources of economic growth roughly can be divided into three elements: capital, labor, and knowledge in a broad sense, including technologies and skills. Among these, knowledge is definitely important in achieving economic growth. In the first place, before we use capital and labor, we need a certain level of knowledge to decide what kind of goods and services to produce and consume. Even during the post-war rapid economic growth period in Japan, the contribution of labor input was small while that of capital and knowledge was large (Chart 17).
+
+With regard to labor, the current increase in labor force that reflects a decline in the number of unemployed and an increase in labor participation by women and seniors is favorable. 11 Compared to a while ago, seniors have become healthier of late. For example, they now are deemed to be physically younger by about 5 years in terms of their average walking speed, and by about 10 years based on their average number of teeth (Chart 18). As for capital, its contribution to economic growth had been low in Japan during the 1990s, but eventually business fixed investment has started to expand in recent years.
+
+Knowledge  such  as  people's  skills  and  expertise,  science  and  technology,  and  education recently has become more and more important for economic growth. This is indicated by the recent increase in investments intended for software as well as research and development. This  "knowledge  economy"  is  closely  connected  to  globalization.  We  tend  to  think  of globalization as the exchange of goods or services, and it is true that economic problems stemming from a declining and aging population can be dealt with, for example, by increasing
+
+11   There is  an  argument  that the  unemployment  rate  has been  declining  because  the working-age population has shrunk due to a declining and aging population. However, in fact, a decline in the unemployment rate has been observed in a situation where labor force has increased since 2013 despite a  shrinking  in  the  working-age  population.  For  details,  see  Wakatabe,  M.,  "Japan's  Economy  and Monetary  Policy," speech at a  meeting with business leaders in  Aomori,  June  27,  2019, http://www.boj.or.jp/en/announcements/press/koen\_2019/ko190627a.htm/.
+
+imports of labor-intensive goods and tourism. However, we should not forget the fact that globalization also entails the exchange of knowledge.
+
+A declining and aging population could affect economic activity not only through simple changes in labor input but also through various other channels. 12 It also could have an impact on other factors such as social security. 13 Some argue that a declining population leads to a decrease in the number of those engaged in knowledge production, resulting in an end to economic growth. 14 Further research about the effects of a declining population on economic growth is still necessary.
+
+## D. Role of Monetary Policy
+
+As stipulated in the Bank of Japan Act, the aim of the Bank's monetary policy is "achieving price stability, thereby contributing to the sound development of the national economy." Of course, economic growth is supported by the growth policies that have an effect on the supply side of the economy. However, discussions over Japanification suggest that monetary and fiscal  policies  that  influence  the  demand  side  of  the  economy  and  stabilize  nominal expenditure also are important in sustaining economic growth. 15
+
+12   See Chart 3 in Wakatabe, M., "Has Japan's Economy Changed?: Challenges and Prospects," speech at  the  Japan  Society  in  New  York,  October  3,  2019, http://www.boj.or.jp/en/announcements /press/koen\_2019/ko191004a.htm/.
+
+13   With regard to various aspects of population, see Morland, P., The Human Tide: How Population Shaped the Modern World (London: Hodder &amp; Stoughton, 2019).
+
+14 For  this  argument,  see  Harding,  R.,  "The  Costs  of  a  Declining  Population," Financial  Times , January  14,  2020;  Jones,  C.  I.,  "The  End  of  Economic  Growth?:  Unintended  Consequences  of  a Declining Population," NBER Working Paper , no. 26651, 2020. If the economy is close to the end of economic growth, the role of AI may become more important. For further discussion, see Aghion, P., Jones, B. F., and Jones, C. I., "Artificial Intelligence and Economic Growth" in Agrawal, A., Gans, J., and Goldfarb, A., eds., The Economics of Artificial Intelligence: An Agenda (Chicago: University of Chicago Press, 2019), 237-82.
+
+15 Experience of Japanification poses questions to a variety of dichotomies in economics: nominal and real  GDP,  the  short  term  and  long  term,  as  well  as  the  business  cycle  and  economic  growth.  An increasing  amount  of  research  has  been  conducted  regarding  the  case  where  a  negative  shock  of monetary policy could have a long-term negative impact on real GDP if there are hysteresis effects. As  one  of  the  research  papers  that  emphasize  the  hysteresis  effects  on  capital  accumulation  and technological progress, see Jordà, Ò., Singh, S. R., and Taylor, A. M., "The Long-Run Effects of Monetary Policy," NBER Working Paper , no. 26666, 2020.
+
+## IV. Economic Developments in Ehime Prefecture
+
+Now, let me talk about the economy of Ehime Prefecture. The economy has continued to recover  on  the  whole,  although  some  weakness  has  been  observed  in  firms'  production activities. With regard to business fixed investment, despite being lower than the level of the previous fiscal  year,  when  large-scale  investments  were undertaken, an  active  investment stance  has  been  maintained,  mainly  in  investments  intended  for  labor  saving,  capacity expansion, and research and development. Public investment has increased, mainly led by construction related to restoration and reconstruction following the heavy rains that affected western  Japan  in  July  2018.  Private  consumption  has  picked  up  steadily,  albeit  with fluctuations due to the effects of such factors as the consumption tax hike.
+
+Looking ahead, I would like to focus on how to achieve economic growth with a declining population.  In  Ehime  Prefecture,  many  efforts  have  been  made  to  overcome  various challenges.
+
+For example, in the paper and pulp industry of the prefecture -- which is the second largest in Japan in terms of shipments -- paper-producing firms have made fixed investment aimed at expanding capacity and enhancing labor productivity to meet buoyant domestic and external demand. Firms in the maritime and shipbuilding industries, which form the maritime cluster with numerous relevant firms, have promoted an enhancement of manufacturing capacity and an expansion in fleet capacity. With the aim of enhancing production efficiency, they also have made further efforts in research and development and reinforced inter-firm cooperation to compete with firms abroad.
+
+Moreover, as for citrus fruits, of which Ehime Prefecture is the leading producer in Japan, the farming system of the Nanyo area was designated as one of the Japanese Nationally Important Agricultural Heritage Systems, while efforts have been made toward reconstruction following the damage caused by the heavy rains that hit western Japan in July 2018. In the field of nationally famous high-grade citrus, it has produced a new cultivar called Beni Princess and full-scale production is expected. The prefecture also has pushed forward with making highvalue-added products in the primary industry  such as in the fishing industry  that  has  the highest output of marine aquaculture products in Japan and in the rice farming industry. For
+
+example, the original brand rice of the prefecture called Hime-no-rin has been developed. I have  heard  that  the  Research  Institute  of  Agriculture,  Forestry,  and  Fisheries  in  Ehime Prefecture spent as long as 16 years to develop this brand rice.
+
+Tourism is also important in terms of capturing demand from outside the prefecture. Let me take the example of the main building of Dōgo Onsen , which is designated as an important cultural property and a symbol of Dōgo Onsen hot springs. After more than 120 years since the last renovation, conservation repair work in consideration of the future has been underway. Dōgo Onsen has been open for business while being under construction, and I hear that this is the first attempt in the country. Meanwhile, the prefecture has been making various efforts to attract visitors, such as the Dōgo Reborn Project. In addition, regular direct flights between Matsuyama  and Taipei  were  launched  last  July.  Thus,  the  number  of  both  domestic  and foreign visitors to the prefecture has been firm on the whole.  Partly because more flights between the two areas are scheduled to start operating this April, the number of visitors is expected  to  increase  further.  I  hope  that  the  economy  of  Ehime  Prefecture  will  continue developing further.
+
+## Conclusion
+
+As  I  mentioned  earlier,  Japanification  has  been  used  as  a  synonym  for  low,  or  negative, inflation  and  low  growth. After  the  global  financial  crisis,  the  inflation  rates  declined  in Europe and the United States, but it is noteworthy that the inflation rate in Japan has turned positive from negative territory since the introduction of a large-scale monetary easing in 2013 (Chart 19).
+
+It is true that Japan's inflation rate has not reached the Bank's price stability target of 2 percent and the risk that the economy will fall into deflation again has not been dispelled completely. Given this situation,  the Bank  has  continued  with  the  large-scale  monetary  easing.  Since around  last  summer  in  particular,  it  has  clarified  its  policy  stance  of  being  tilted  toward monetary accommodation, as downside risks to Japan's economic activity and prices have become significant due to the continued slowdown in the global economy. Since the downside risks are still significant, the Bank, while continuing to carefully examine various risks, will
+
+not  hesitate  to  take  additional  easing  measures  if  there  is  a  greater  possibility  that  the momentum toward achieving the price stability target will be lost.
+
+For now, Japanification is a cautionary tale that teaches us to be vigilant so as not to fall into prolonged deflation and low growth, but I hope it will be a success story of Japan overcoming deflation and accomplishing an improvement in the economic growth rate.
+
+Speaking of novels associated with Ehime Prefecture, a famous one is Shiba Ryotaro's Saka no ue no kumo ( Clouds above the Hill ), in which the protagonists are Masaoka Shiki and the Akiyama brothers -- Yoshifuru and Saneyuki -- but he also wrote a historical novel called Date no kurofune ( Date's Black Ship ). This is the story of a poor craftsman, Kazō (named Maebara Kōzan afterward), who lived in the Uwajima clan at the end of the Edo period, passionately taking in knowledge from overseas and succeeding in building a steamship only five years and seven months after the arrival of Commodore Perry's black ships. Kazō was so talented that the founder of Japan's modern army, Murata Zōroku (named Ōmura Masujirō afterward), who worked with Kazō to build the steamship, is said to have mentioned that he could be a professor at a university if he lived in Europe. I think Kazō's life is a guide for the path  that  Japan  should  take  toward  achieving  economic  growth  --  that  is,  incorporating knowledge and coping with globalization.
+
+Thank you very much for your kind attention.
+
+## Japan's Economy and Monetary Policy
+
+Speech at a Meeting with Business Leaders in Ehime
+
+February 5, 2020
+
+## WAKATABE Masazumi
+
+Deputy Governor of the Bank of Japan
+
+I. Financial and Economic Developments
+
+Chart 1
+
+## Global Growth Rate
+
+
+
+Note: Figures for 2020 and 2021 are the IMF's projections as of January 2020. Source: IMF.
+
+I. Financial and Economic Developments
+
+## Global Decoupling between the Manufacturing and Nonmanufacturing Sectors
+
+
+
+I. Financial and Economic Developments
+
+Chart 3
+
+## Developments in the Global Manufacturing Sector
+
+
+
+World Semiconductor Shipments
+
+
+
+Notes: 1. In the left chart, figures are for the "J.P. Morgan Global Manufacturing PMI."
+
+Notes: 2. In the right chart, figures are based on BOJ staff estimates using WSTS data.
+
+Source: IHS Markit (© and database right IHS Markit Ltd 2020. All rights reserved.).
+
+## Business Fixed Investment
+
+
+
+Notes: 1. For details relevant to the middle chart, see BOX 3 in the January 2020 Outlook Report.
+
+2. In the right chart, figures are from the survey for fiscal 2018. For details, see BOX 3 in the January 2020 Outlook Report.
+
+Sources: Cabinet Office; Research Institute of Economy, Trade and Industry; Ministry of Internal Affairs and Communications; Japan Users Association of Information Systems.
+
+- I. Financial and Economic Developments
+
+Chart 5
+
+## Private Consumption
+
+
+
+Note: Figures are for the Consumption Activity Index (travel balance adjusted, real). They exclude inbound tourism consumption and include outbound tourism consumption. Sources: Bank of Japan, etc .
+
+## Government Spending
+
+## Public Investment
+
+Simulation &lt;Case: Public Investment Increases by 1% of Nominal GDP during the First Year&gt;
+
+
+
+I. Financial and Economic Developments
+
+Chart 7
+
+## BOJ's Economic Forecasts
+
+Real GDP &lt;January 2020 Outlook Report&gt;
+
+
+
+Note: Forecasts are the medians of the Policy Board members' forecasts (point estimates). Sources: Cabinet Office; Bank of Japan.
+
+## Uncertainties regarding Overseas Economies
+
+## Policy Uncertainty Index
+
+World Trade Volume and Global Machinery Investment
+
+
+
+
+
+Note: In the right chart, figures for world trade volume are for real imports.
+
+Sources: Economic Policy Uncertainty; CPB Netherlands Bureau for Economic Policy Analysis; IMF.
+
+I. Financial and Economic Developments
+
+## Developments in Private Consumption before and after the Consumption Tax Hikes
+
+## Durable Goods
+
+
+
+- Notes: 1. Month 0 is the month in which the consumption tax rate was raised -- namely, April 2014 or October 2019.
+2. In the right chart, nondurable goods include goods classified as "semi-durable goods" in the SNA.
+
+Sources: Bank of Japan, etc.
+
+Chart 9
+
+I. Financial and Economic Developments
+
+## Developments in Consumer Sentiment before and after the Consumption Tax Hikes
+
+
+
+## II. Price Developments
+
+Chart 11
+
+## Consumer Prices
+
+
+
+Note: In the left chart, figures exclude the effects of the consumption tax hikes. They incorporate the effects of the October 2019 tax hike and policies concerning the provision of free education.
+
+Source: Ministry of Internal Affairs and Communications.
+
+## BOJ's Price Forecasts
+
+CPI (All Items Less Fresh Food) &lt;January 2020 Outlook Report&gt;
+
+
+
+Note: Figures exclude the effects of the consumption tax hike in April 2014. Forecasts are the medians of the Policy Board members' forecasts (point estimates). Sources: Ministry of Internal Affairs and Communications; Bank of Japan.
+
+III. Japanification and Economic Growth
+
+Chart 13
+
+## International Comparison of GDP
+
+Nominal GDP
+
+Nominal GDP per capita
+
+Nominal GDP per working-age person
+
+
+
+
+
+Real GDP
+
+
+
+Source: World Bank.
+
+
+
+Real GDP per capita
+
+
+
+Real GDP per working-age person
+
+
+
+## Okun's Law
+
+## Relationship between Economic Growth Rate and Unemployment Rate
+
+real GDP (y/y  % chg.)
+
+
+
+Sources: Cabinet Office; Ministry of Internal Affairs and Communications.
+
+III. Japanification and Economic Growth
+
+Chart 15
+
+## Total Population and Gross Domestic Product of Ehime Prefecture
+
+
+
+## Relationships between Population Growth and GDP/Inflation
+
+## Population Growth and GDP Growth per Capita
+
+Population Growth and Inflation
+
+
+
+- Notes: 1. Figures are those of  22 OECD member countries for which data from 1961 onward are available.
+2. In the right chart, figures for Israel, Mexico, and Turkey, of which inflation rates are above 10 percent, are not shown.
+
+Source: World Bank.
+
+III. Japanification and Economic Growth
+
+## Potential Growth Rate
+
+
+
+Note: In the right chart, figures are from the "White Paper on International Economy and Trade 1998." Sources: Ministry of International Trade and Industry; Bank of Japan.
+
+Developments in the 1960s-80s
+
+Chart 17
+
+
+
+## Evidence of Slowdown in Physical Aging
+
+## Average Walking Speed
+
+## Average Number of Teeth
+
+
+
+
+
+- Notes: 1. See Toshitaka Sekine, "Does Demography Really Matter?," presentation at the G20 Symposium titled "For a Better Future: Demographic Changes and Macroeconomic Challenges," 2019.
+- Notes: 2. In the left chart, average walking speed is the arithmetic average of men's and women's walking speeds.
+- Sources: National Center for Geriatrics and Gerontology; Ministry of Health, Labour and Welfare.
+
+Conclusion
+
+Chart 19
+
+## Price Developments in G7 Countries
+
+
+
+- Notes: 1. Figures for Japan are the CPI (excluding the effects of the April 2014 consumption tax hike and incorporating the effects of the October 2019 tax hike and
+- policies concerning the provision of free education); those for U.K. and Canada are the CPI; those for U.S. are the PCE deflator; and those for the euro area countries are the HICP.
+2. The figure for the U.S. for 2019 is the January-November average.
+- Sources: Ministry of Internal Affairs and Communications; Haver.

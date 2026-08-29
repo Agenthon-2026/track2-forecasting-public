@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qfbench2-track-forecasting"
+version = "2.1.0"
+description = """\
+QFBench 2.0 Track-2 canonical scorer. Exposes qfbench2_track_forecasting.scoring.build_verifier(ctx) \
+for the shared smoke runner and qfbench2_track_forecasting.official.score_roster(...) as the ONE \
+official entrypoint the private final scorer and the CodaBench scoring image both consume. All \
+scoring math lives in qfbench2-common."""
+requires-python = ">=3.13"
+
+# `jsonschema` is a PRODUCTION dependency, not an extra. Gate g1 raises an organizer fault when it
+# is absent rather than skipping validation: before the freeze `except ModuleNotFoundError: pass`
+# meant a host without it accepted a garbage sidecar, and because the 200-draw floor lived only in
+# the schema, that one `pass` removed the floor. A validator that is optional is a validator that
+# is sometimes not there.
+dependencies = [
+  "numpy>=2.1",
+  "pandas>=2.2",
+  "pyarrow>=18",
+  "jsonschema>=4.21",
+  # Pinned to the published toolkit by URL and tag.
+  #
+  # This used to be the bare name `qfbench2-common`, deferred while the distribution decision was
+  # open. That name is UNCLAIMED on PyPI (measured: pypi.org returns 404), so a bare requirement
+  # resolves to whatever anyone chooses to register under it -- in every participant environment
+  # that runs `pip install .`. The distribution decision is now made: the toolkit ships from its
+  # own public repository at a tag, not from an index, so the URL can be stated here directly.
+  #
+  # The cost the old comment named is real but not load-bearing: a git URL makes THIS package
+  # unpublishable to an index, and this package is not published to one.
+  "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+dev = ["ruff==0.4.7", "mypy==1.19.1"]
+
+[tool.setuptools]
+packages = ["qfbench2_track_forecasting"]
+
+[project.scripts]
+# The submission verb. The harness invokes `forecast ...` on PATH.
+forecast = "qfbench2_track_forecasting.cli:main"
+# The unranked local scorer. Named distinctly from `forecast` so nobody mistakes it for the
+# official path: it grades against card.toml with no reference scale, so its composite is raw.
+qfbench2-t2-score = "qfbench2_track_forecasting.scoring:_main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM"]
+
+[tool.ruff.lint.per-file-ignores]
+# The shim re-exports dynamically on purpose; see its docstring.
+"scoring/scoring.py" = ["F403", "F405", "E402"]
+"tests/*" = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = [
+  "integration: needs Docker, a registry, a network or a sibling service; skipped in unit runs",
+]

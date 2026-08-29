@@ -1,0 +1,146 @@
+Benoît Cœuré: Benoît Cœuré: From challenges to opportunities - rebooting the European financial sector
+2016-03-02
+
+## Benoît Cœuré: From challenges to opportunities - rebooting the European financial sector
+
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, at the SZ (Süddeutsche Zeitung) Finance Day 2016, Frankfurt am Main, 2 March 2016.
+
+*      *      *
+
+Ladies and gentlemen,
+
+For those of you here who work in the financial sector, your job depends on your ability to assess and manage risk. What allows you to do this is the fact that many risks are tangible they  can  be  identified  through  analysis,  measured  through  models  and  hedged  using financial instruments. Risk is not per se an obstacle to decision-making; it simply frames the parameters of those decisions.
+
+The  situation  is  different,  however,  when  risk  morphs  into  uncertainty 1 .  Uncertainty,  by definition, cannot be predicted or quantified. It is therefore much more of an impediment to decision-making.  And  that  brings  with  it  economic  costs:  firms  postponing  investment, households postponing consumption and increasing savings.
+
+In the European economy today we face several sources of uncertainty. We face uncertainty about the outlook for the global economy. We face uncertainty about the direction of Europe and  its  resilience  to  new  shocks  -  the  UK  referendum,  the  next  wave  of  migration.  And germane to this  conference,  we  face  uncertainty  about  the  way  forward  for  the  European financial sector.
+
+A significant amount of this uncertainty stems from the fact that, eight years after the crisis, we are still in a transition phase. Financial institutions are considerably stronger than in 2008 but  they  are  still  adjusting  their  business  models  to  a  post-crisis  world.  We  have  a  new regulatory  regime,  whose  contours  are  not  yet  fully  defined.  And  the  new  regime  is  being overlaid  on  a  financial  sector  that,  in  some  cases,  still  has  substantial  legacy  issues  to address. That creates unavoidable frictions.
+
+But uncertainty can also be self-imposed, and policy decisions can play a role in that. In the still  fragile  environment  we  face  today,  what  is  essential  is  that  policy  works  to  reduce uncertainty - and does not become a source of uncertainty itself.
+
+At  the  same  time,  policy  cannot  be  an  excuse  for  financial  firms  to  put  off  revising  their business  models  and  updating  their  technologies.  To  build  confidence  in  the  European financial sector, all actors need to play their part. The post-crisis environment is a challenge, but it is also an opportunity: for the financial sector to become more profitable, more efficient and more stable.
+
+What I would like to do in my remarks today is look more closely at the sources of uncertainty we face today, and at what policymakers and private players can do to address them. There are  three  areas  in  particular  I  would  like  to  focus  on:  the  business  environment,  the regulatory environment, and the technological environment.
+
+## Business environment
+
+The business  environment confronting  the  European  financial  sector  today  is  evidently challenging.
+
+1 See F. Knight (1921). Risk, Uncertainty and Profit, Boston: Hart, Schaffner and Marx.
+
+BIS central bankers' speeches
+
+Earnings among euro area banks continue to be weak, with their average return on equity although markedly improved since the crisis 2   -  remaining  below  their  cost  of  equity.  Cost cutting and rationalisation has been ongoing since 2008, making further cost savings harder to  achieve.  Low profitability  constrains  the  capacity  of  banks to  generate  capital  internally. And new challenges have arisen in the face of  an  uncertain  economic  outlook,  especially given the weakness in emerging markets and in commodity-producing sectors.
+
+So are there ways that policymakers can reduce this uncertainty?
+
+One topical issue is, of course, whether monetary policy is contributing to weak profitability. In particular, a concern has built up that, as central banks lower interest rates into negative territory, the impact of monetary policy on banks is becoming increasingly adverse. That is because bank lending rates fall linearly but their funding costs are non-linear - as interest rates on retail deposits are sticky - which puts a squeeze on net interest margins.
+
+Let me underline that we are well aware of this issue. We are monitoring it on a regular basis and we are studying carefully the schemes used in other jurisdictions to mitigate possible adverse consequences for the bank lending channel. But I also think we need to qualify the narrative that banks' challenges flow largely from our monetary policy.
+
+So  far,  many  banks  have  been  able  to  more  than  offset  declining  interest  revenues  with higher lending volumes, lower interest expenses, lower risk provisioning and capital gains. Last year, for example, euro area banks' aggregate net interest income increased, especially as  crisis-hit  banks  refinanced  expiring  high-yield  liabilities.  And  negative  interest  rates  are complementary to our asset purchase programme, which has had clearly positive effects on asset  prices,  credit  risk  and  intermediation  volumes.  This  has  to  be  set  against  the  direct costs from our measures to net interest margins.
+
+Moreover, in  an  environment  of  rising  global  uncertainty,  what  would  be  the  costs  for  the financial sector if monetary policy had not responded? We have seen from the recent sharp fall  in  bank  equity  prices  that  the  sector  is  highly  sensitive  to  a  weaker-than-expected economic outlook. In that context, our commitment to our price stability mandate is vital to anchor expectations of nominal growth. Those who call for a less accommodative monetary policy  have  to  ask  themselves  what  would  be  the  impact  on  banks'  lending  volumes  and loan-loss provisions if output were stagnant and prices falling.
+
+More generally, market jitters have particularly focused on banks perceived to have residual weaknesses - in particular those with high stocks of non-performing loans (NPL) and those perceived to lack sustainable business models. These are challenges that have little to do with the central bank. Reducing uncertainty from these sources requires other policymakers and private players to act.
+
+Two  priorities  stand  out.  The  first  is  moving  more  decisively  to  deal  with  legacy  assets. Progress in NPL resolution is still slow when compared with the volume of problem loans. In countries  most  affected  by  the  crisis 3 ,  the  ratio  of  non-performing  exposures  to  tangible equity  and  loan  loss  provisions  -  the  so-called  'Texas  ratio'  -  currently  stands  at  around 100% for many banks. That undermines confidence in their ability to absorb further losses, creating volatility in the event of economic bad news, as well as hampering loan growth to the real economy.
+
+All the preconditions are now there to accelerate NPL resolution: NPL levels and provisioning have been reviewed by the supervisory arm of the ECB as part of the Asset Quality Review.
+
+2 For the euro area banking sector, the annualised return on equity for the first three quarters of 2015 was 5.7% in 2015 compared with 3.4% in 2010.
+
+3 See ECB Financial Stability Review, November 2015. The analysis is based on publicly available data for a sample  of  60  significant  banking  groups.  Countries  most  affected  by  the  crisis  include  Cyprus,  Greece, Ireland, Italy, Portugal, Slovenia and Spain.
+
+BIS central bankers' speeches
+
+The  challenge  now  is  to  speed  up  the  process  of  writing  off  and/or  disposal.  There  are various policy measures that can facilitate this process.
+
+One is improving insolvency regimes, which help separate viable from non-viable borrowers and  enable  the  valuation  of  assets  to  be  sold  off.  Another  is  increasing  the  efficiency  of judicial systems, which allows faster foreclosure of collateral underlying NPL portfolios. And in my view there are also merits in facilitating the carve-out of substantial portions of bank balance sheets. But this assumes, of course, that workable solutions exist for the transfer of legacy  assets  at  sensible  prices  to  investors  able  and  willing  to  manage  them.  It  also assumes decisive action to kick-start the market for loans in those jurisdictions where NPL ratios are the highest - that is, in Cyprus and in Greece.
+
+Second, banks with perceived business model risks need to do more to mitigate uncertainty by  reshaping  their  business  mix  and  their  operational  models.  Asset  carve-outs  could  be catalytic  here  as  well:  streamlining  their  balance  sheets  by  disposing  of  assets  can  allow banks to concentrate on developing new business, as opposed to managing legacy assets in  other  words,  it  can  save  them  from  'zombification'.  Beyond  that,  banks  with  weak profitability need to find ways to increase non-interest income and, where possible, to reduce further their operating costs. There appears to be scope for this too. 4
+
+On  the  earnings  side,  for  example,  we  have  already  observed  a  trend  among  banks  to compensate for lower interest income by increasing fees and commissions. There is some evidence  that  banks  are  offering  fee-based  products  to  clients  as  substitutes  for  interestbased  products.  On  the  cost  side  savings  are  more  challenging  given  the  extensive rationalisation efforts of recent years, but there is still one obvious 'low hanging fruit' to be picked: consolidation within the sector.
+
+Indicators  of  market  concentration  suggest  some  over-capacity  in  the  European  banking sector,  especially  in  countries  with  more  fragmented  banking  systems.  For  example,  the Herfindahl-Hirschman  Index  for  the  euro  area,  though  rising  in  recent  years,  still  stands below 750. As a general rule, a figure below 1000 signals low concentration. 5  Cost-income ratios in some banking sectors also remain high. That implies there would be efficiency gains from consolidation without exacerbating 'too-big-to-fail' problems.
+
+The fact that we now have a European supervisory and resolution regime presents the ideal conditions  for  banks  to  capitalise  on  new  cross-border  M&amp;A  opportunities.  What  our economy needs is European banks operating in a European market: large enough to operate across borders and diversify risks, but small enough to be resolved with the resources of the Single Resolution Fund. This would reap the full benefits of banking union and improve the terms of the trade-off between financial stability and economic efficiency. 6
+
+For that to happen, however, we need to remove any remnants of the regulatory framework that  implicitly  support  home  bias.  For  example, how much national discretion is allowed in implementing rules;  how  fungible  are  liquidity  and  capital  across  borders;  how  regulations affect the choice of subsidiaries versus branches - all these issues will crucially shape the incentives of banks to become European. And if we do not get them right, the risk is that consolidation ultimately happens through the more painful route of resolution.
+
+4 See D. Nouy (2016), 'Risks and resilience - the European banking sector in 2016', speech at the Deutsche Bank - Bank Capital Forum, London, 23 February 2016.
+
+5 See ECB Report on financial structures, October 2015. The Herfindahl-Hirschman Index (HHI) is defined as the  sum  of  the  squares  of  the  market  shares  of  all  firms  within  the  industry,  where  the  market  shares  are expressed as fractions. As a general rule, an HHI below 1,000 signals low concentration, while an index above 1,800  signals  high  concentration.  For  values  between  1,000  and  1,800,  an  industry  is  considered  to  be moderately concentrated. The range of the index lies between 0 and 10 000.
+
+6 See B. Cœuré (2014), 'On the optimal size of the financial sector', speech at the ECB conference on the optimal size of the financial sector, Frankfurt, 2 September.
+
+## Regulatory environment
+
+This brings me to the second part of my remarks: the regulatory environment .  Clearly,  the European financial sector is facing a profoundly changed regulatory environment after the crisis. That applies to quantity and quality of capital, to leverage, to funding profiles, to bail-inable  debt,  to  risk  management  practices.  Derivatives  markets  and  market  infrastructures have also been subject to a comprehensive reform agenda.
+
+Is  this  regulation  a  source  of  uncertainty?  Taking  a  longer-term  view,  I  find  it  difficult  to believe so. Thanks to regulatory initiatives, capital ratios for euro area banks have risen from around 8% in 2008 to close to 14% today. Leverage ratios have improved in most countries. And funding has become more stable: median loan-to-deposit ratios have fallen from more than 140% in 2008 to around 110% now. Forcing over-the-counter (OTC) derivatives onto central clearing has also netted out counterparty risk and reduced uncertainty over who owns what in a crisis.
+
+All this contributes to a more robust financial sector that is better able to absorb shocks. And though there are always costs to regulation, most studies suggest that, in the steady state, the macroeconomic benefits outweigh them. For example, Commission simulations find that the new regulatory framework will deliver macroeconomic benefits of around 0.6-1.1% of EU GDP per year, compared with long-term costs of about 0.3% of EU GDP per year. 7
+
+Where regulation can create uncertainty, however, is in two areas. The first is if there is a lack of visibility on what the future regulatory regime will look like. And the second is if there is uncertainty about how new regulation will be applied.
+
+The volume of new regulation coming in has created uncertainty  in the financial  sector  in recent years. But I think the contours of the new regime are now clearer than before. The key unfinished  parts  of  the  Basel  III  agenda,  such  as  the  leverage  ratio,  reductions  in  the variability in risk-weighted assets, total loss absorbing capacity (TLAC) and the fundamental review of the trading book, look set to be finalised in Europe by the end of this year. That should  help  provide  clarity  on  the  post-crisis  steady  state.  As  confirmed  by  G20  Finance Ministers and Governors at their meeting in Shanghai, the aim is now to focus on making Basel III effective without further increasing regulatory capital requirements. 8
+
+But there are still some areas where, I think, more visibility would be beneficial. One is the timeline for the Directive on Markets in Financial Instruments, which was recently postponed. Regulators no doubt face a difficult trade-off between the urgency of reform and the need for such a fundamental change in regulation to meet technical and logistical reality. But it is also important that the process does not lose momentum, not least as this legislation will be the backbone of a future Capital Markets Union.
+
+Another  area  is  the  resilience,  recovery  and  resolution  of  clearing  houses,  on  which  the Commission  will  make  a  proposal  later  this  year  when  the  global  framework  has  been clarified.  The  CPMI,  IOSCO  and  the  FSB  are  making  good  progress  in  this  area  and  will deliver guidance ahead of the G20 Hangzhou summit. 9
+
+7 See European Commission (2014), Economic Review of the Financial Regulation Agenda, May.
+
+8 See  Communiqué  G20  Finance  Ministers  and  Central  Bank  Governors  Meeting,  Shanghai,  February  27, 2016.
+
+9 Still  another  area  is  how  pension  funds  will  be  impacted  by  the  move  towards  central  clearing  for  OTC derivatives. Central counterparties generally only accept cash as margin, while pension funds typically hold few liquid assets. That is why, in June last year, the Commission agreed a two year exemption for pension funds to find a technical solution to this issue. Until it is resolved, however, there may be uncertainty among investors about how pension funds will be able to meet their clearing requirements without shedding profitable assets.
+
+In terms of the application of regulation, we have also seen - perhaps inevitably - a degree of uncertainty as the new regime beds in. For example, some of the recent volatility we saw in  bank  shares  seems  to  have  coincided  with  uncertainty  around  how  pillar  2  capital requirements would be applied. But recent clarifications by the European Banking Authority (EBA) 10   and additional communication by the Single Supervisory Mechanism (SSM) 11  have now, I think, gone a long way towards allaying concerns. All things being equal, supervisory requirements will also not be increased further.
+
+What perhaps remains to be clarified is exactly how the new resolution framework will work. The  resolution  cases  in  Portugal  and  Italy  last  year  have  sparked  concerns  about  equal treatment, but it is important to underline that this was not an application of the bail-in tool in the Bank Recovery and Resolution Directive, but rather of the EU state aid rules. What is key now is that creditors have certainty about where they stand in the new resolution hierarchy.
+
+That would be enhanced, in my view, by ensuring that MREL (the minimum requirement for own  funds  and  eligible  liabilities)  is  consistently  implemented  across  the  EU,  including  a common EU framework on the degree of subordination of senior unsecured bank bonds 12 . It would  also  benefit  from  clarifying  the  interaction  between  MREL  and  TLAC  (total  lossabsorbing-capacity),  in  particular  the  differences  in  subordination  and  the  treatment  of additional capital buffers. The ongoing MREL review, which will also implement TLAC, will need to address any remaining inconsistencies and uncertainties, as banks need clarity to start issuing the bail-in-able debt that will make the new resolution regime fully effective.
+
+I trust many of these issues will be addressed and finalised in the course of 2016.
+
+## Technological environment
+
+Finally, let me say a word about the third and in my view the most important area of potential uncertainty  in  the  financial  sector:  the  evolving technological  environment .  What  I  am referring  to  here  is  the  emergence  of  disruptive  new  technologies  -  so-called  'FinTech'  which look set to profoundly reshape the structure of financial intermediation.
+
+FinTech  now  spreads  across  financial  market  segments  and  along  the  value  chain.  It  is present, albeit still at an early stage, in payments, credit provision, investment and financial advice,  insurance.  It  runs  from  front  office  to  back  office.  And  FinTech  innovations  are increasingly cascading into new areas. For example, the development of instant payments infrastructures has helped develop new markets for mobile P2P, e-commerce or point-of-sale payment solutions, which may become a new standard of payments in some areas.
+
+On the face of it, I have no doubt that this is a positive development for the financial sector. It leads to greater efficiency, better products and lower prices for consumers. It also has the potential  to  support  financial  inclusion.  In  short,  FinTech  can  be  part  of  the  answer  to  the fundamental questions facing our economies: lack of productivity and rising inequalities.
+
+That is why regulation is generally supporting opening up market access by introducing legal certainty  to  previously  unregulated  services.  For  example,  the  revised  Payment  Services Directive  is  expanding  the  list  of  activities  that  payment  service  providers  can  carry  out  to include the initiation  of payments and account information services. Where the uncertainty comes in, however, is how this will affect incumbents.
+
+10 See Opinion of the European Banking Authority on the interaction of Pillar 1, Pillar 2 and combined buffer requirements and restrictions on distributions.
+
+11 See SSM SREP Methodology Booklet.
+
+12 See  ECB  (2015).  Opinion  of  the  European  Central  Bank  of  2  September  2015  on  bank  resolution (Con/2015/31).
+
+FinTech  presents  an  opportunity  for  new  start-ups  to  compete  with  established  financial institutions  in  specific  financial  services,  but  without  the  costs  of  legacy  IT  systems  and  a compliance-oriented  business  culture.  FinTech  also  opens  the  market  for  'BigTech'  firms such as Apple, Google and Amazon, which have an in-built advantage in digital technology. This  threatens  to  take  business  away  from  banks  which  traditionally  offered  a  package  of services, potentially weakening their business models.
+
+What  is  more,  over  the  longer-term  technological  innovations,  such  as  distributed  ledger technologies  (DLTs),  could  have  profound  impacts  on  financial  intermediation.  DLTs  have the potential to substantially reduce reconciliation costs for market participants, to disintermediate incumbents in the financial value chain, and to allow for a more efficient use of  collateral.  Through  decentralised  update  and  validation  of  records,  they  may  even challenge the basic business models of intermediaries or central market infrastructures.
+
+## So should policymakers be concerned about this?
+
+Generally  speaking,  it  is  up  to  market  incumbents  to  rise  to  this  challenge.  In  particular, banks facing questions about their business models should see the new wave of innovation as an opportunity - to reach out to new customers, to increase efficiency, to revamp their business models. After all, they still retain economies of scale unavailable to small start-ups and intellectual capital unavailable to outsiders. FinTech may be exactly the shock the sector needs to restructure after the crisis.
+
+But policymakers also need to monitor developments closely. As more firms enter the market it will be important to ensure a level playing field between entities providing similar financial services.  Moreover,  market  fragmentation  might  create  challenges  for  a  single  European market, as market innovators have a tendency to build closed-loop solutions or 'silos', and challenge  the  existing  approaches  towards  containing  systemic  risk.  For  example,  the emergence of popular retail payment platforms in one country could undermine the market integration already achieved in the context of SEPA.
+
+We will  have  to  see  how  the  market  evolves  before  assessing  whether  regulation  should provide a steer in one direction or another, whether the new approaches will provide full legal certainty  to  market  participants,  and  whether  regulatory  space  can  be  provided  to  let innovation develop without hindering financial stability. But we have started moving along a steep learning curve. For example, the CPMI has launched work in partnership with IOSCO and  other  standard-setting  bodies  on  the  impact  of  the  distributed  ledger  technology  and related digital innovations on payments and market infrastructures.
+
+## Conclusion
+
+Let me conclude.
+
+The euro area is still recovering from a once-in-a-generation economic and financial crisis that has left deep scars on the economy. It urgently needs higher growth to bring down high unemployment, to deleverage the economy and to raise inflation back to our price stability objective. Uncertainty in the financial sector only blocks that path.
+
+To reduce uncertainty, both policymakers and financial  institutions  need  to  play  their  part. They  need  to  ensure  that  the  financial  system  is  fit  for  purpose  and  able  to  finance  the recovery. And they need to do so today, not tomorrow.
+
+But we should keep in mind that the challenges facing the financial sector also present an opportunity.  A  tough  business  environment  can  push  banks  to  be  more  efficient.  A  new, stable  regulatory  environment  will  make  the  financial  system  safer.  And  a  disruptive technological environment can lead to new business models and better financial services.
+
+It is in all our interests to rise to this challenge.

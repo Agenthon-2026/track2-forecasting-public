@@ -1,0 +1,74 @@
+Philip Lowe: Philip Lowe: Remarks to the Asian Development Bank - Institute of Global Finance International Conference
+2016-09-08
+
+## Philip Lowe: Remarks to the Asian Development Bank - Institute of Global Finance International Conference
+
+Remarks by Mr Philip Lowe, Deputy Governor of the Reserve Bank of Australia, to the Asian Development Bank -Institute of Global Finance International Conference, Sydney, 8 September 2016.
+
+*      *      *
+
+I would like to welcome you all to Sydney to this important conference. It is fantastic to see the Asian Development Bank working so closely with an Australian university, the Institute of Global Finance at the University of New South Wales. It is also very pleasing to see that this collaboration  is  occurring  in  this  beautiful  city.  I  am  sure  that  you  will  find  this  conference stimulating and that you will receive warm hospitality in our city.
+
+The  title of this conference is long.  Ten  words: 'Financial Cycles, Systemic Risk, Interconnectedness,  and  Policy  Options  for  Resilience'.  It  is  also  challenging.  I  say  this because just below the surface of these 10 words lies a host of complex and difficult issues. The  proper  functioning  of  our  modern  economies  depends  on  us  understanding  and addressing these issues as best we can. If we get things wrong here, the outcomes can be really bad: our economies will be more volatile, job security will be less and people's hardearned savings will be at greater risk. The global financial crisis was a powerful reminder of this. So the issues that we will discuss at this conference really matter.
+
+It  is  appropriate  that  the  discussion  is  taking  place  at  an  international  conference,  which features distinguished speakers from the region and elsewhere. After all, financial stability is a global issue: instability in one country can ripple right around the world. And many of the reforms to address instability are best accomplished internationally. We can also learn a lot from one another's experiences.
+
+In  my  remarks  this  morning  I  would  like  to  highlight  three  specific  questions  that  are suggested to me by the conference title and papers. These questions are:
+
+- i. How can we make our financial systems more resilient, particularly in a world in which capital flows easily across borders?
+- ii. How should we characterise and respond to episodes of financial boom and bust - the financial cycle?
+- iii. What determines the amount of systemic risk we are exposed to, and how can we identify and analyse it?
+
+The positive news is that in each of these three areas much has been learnt since the crisis. The not-so-positive news is that our answers to these questions are still incomplete and, just as one issue is resolved, too often another seems to emerge. I would like to reflect on each of  these three questions, highlighting the progress that has been made and offering a few thoughts on some of the work that remains.
+
+## Resilience
+
+First, to the issue of resilience.
+
+Looking  back  at  the  experience  of  the  past  20  years,  I  am  struck  by  the  fact  that  large financial disturbances are repeatedly caused by the same factors. Three stand out:
+
+- i. poor asset quality, particularly in the area of commercial property development
+- ii. inadequate attention to liquidity management
+- iii. the build-up of unhedged foreign currency exposures.
+
+Not  surprisingly  then,  it  is  these  areas  that  have  received  the  most  attention  from  the international  regulatory  community.  Over  recent  years,  the  most  extensive  of  the  global reforms has been the Basel III package. This package means that, globally, banks now have more  and  better-quality  capital,  so  they  are  better  placed  to  absorb  losses.  In  addition, minimum standards for banks' liquidity management are now more rigorous and transparent. The  stronger  liquidity  standards  also  help  reduce  vulnerabilities  from  foreign  currency exposures,  by  giving  supervisors  new  ways  of  monitoring  liquidity  requirements  on  a  percurrency basis. Other reforms have helped increase resilience in other parts of the financial system, including derivative markets and shadow banking.
+
+But the reforms remain incomplete and challenges remain. The last chapter of the Basel III package is being finalised this year. While some of the reforms have helped address the toobig-to-fail  problem,  there  are  still  considerable  challenges  in  developing  recovery  and resolution  plans  for  the  largest  global  financial  institutions.  And,  in  the  area  of  over-thecounter (OTC) derivatives market reform, legal restrictions sometimes still make it difficult to share information across borders.
+
+The  Basel  Committee  and  the  Financial  Stability  Board  are  both  reviewing  the  overall calibration  of  the  reforms.  This  is  essential  because  with  so  many  new  metrics  and requirements, we need to ensure they do not interact in unintended ways. Of course, some of the effects that market participants comment on are intended. Maturity transformation has become more expensive. So too, has providing market making services in some financial instruments, generating concerns about a lack of liquidity in bond markets. More broadly, the cost  of  many  forms  of  financial  intermediation  across  banks'  balance  sheets  has  become more expensive. The promised benefit of this additional expense is that the system is now more stable. But we need to keep an eye on this trade-off, because a well-functioning system needs to be able to take risk at a reasonable price.
+
+A  well-functioning  system  also  needs  to  be  resilient  to  the  shifting  flows  of  capital  across borders. Collectively, global investors can deploy funds on a much larger scale than many markets  can  absorb  without  large  price  movements.  In  some  countries  this  has  led  to discomfort with the free flow of capital. But at the same time, access to foreign capital can help drive prosperity and economic development, and allows people to hold more diversified portfolios.
+
+The  challenge  we  face  then  is  to  design  arrangements  that  allow  us  to  all  capture  the considerable benefits that open capital markets can deliver, while minimising the attendant risks.  The  work  on  the  global  financial  safety  net  being  undertaken  in  international  policy circles  is  an  important  contribution  here.  One  of  the  questions  still  to  be  resolved  is  how extensive that safety net should be and what form it should take.
+
+## The financial cycle
+
+An  important  theme  of this conference  is that of 'financial cycles'. Identifying  and understanding  these  cycles  has  become  an  active  area  both  for  academic  research  and policy development.
+
+As a concept, the financial cycle has considerable intuitive appeal. It has long been observed that financial systems seem to be subject to boom-bust dynamics. We have repeatedly seen credit and leverage build up over time in response to some initial impetus, only to generate excesses that ultimately unwind, sometimes painfully.
+
+One question we face is how to define and measure these cycles. It has become common practice to start by looking at cycles in credit growth. But there are limitations here. Not all credit cycles end in a financial crisis; indeed in industrialised economies, only a minority have done so. And in some cases a period of fast credit growth, followed by a period of slower growth, might be exactly what is required, and so should not be viewed as problematic.
+
+This means that we need to move beyond a focus on credit only. In my view, it is probably more  useful to start with the question: are balance sheets in  the  economy  being strengthened or weakened? If credit is growing quickly, we need to think about whether the credit is being used  to create new  productive  assets or simply to finance current consumption.  The  implications  are  quite  different.  A  protracted  period  of  balance  sheet weakening  might  reasonably  be  viewed  as  problematic,  particularly  if  it  increases  the probability of future balance sheet strains and weak economic growth.
+
+So  a  research  challenge  here  is  to  find  ways  of  systematically  measuring  the  quality  of balance sheets across the economy, taking into account the myriad influences that are at work. Close analysis and good judgement are both needed to do this.
+
+A  related  research  question  is  how  policy  should  respond  to  a  systematic  weakening  of balance  sheets.  This  question  is  the  subject  of  a  lot  of  research  at  present,  much  of  it prompted  by  work  at  the  Bank  for  International  Settlements  (BIS).  The  work  at  the  BIS, though  it  has  focused  heavily  on  aggregate  credit  as  the  indicator,  has  advanced  the hypothesis that, in some circumstances, the build-up of financial imbalances may be a better guide  to  the  sustainability  of  growth  in  the  economy  than  is  the  current  rate  of  inflation. Clearly,  this  hypothesis  needs  to  be  tested.  If  it  were  found  to  be  valid,  it  would  have implications for policymakers in a number of spheres, including monetary policy, prudential policy and even fiscal policy.
+
+## Systemic risk: interconnections and spillovers
+
+Systemic risk is another theme of the conference, and again, a topic inspiring a great deal of academic  research,  some  of  which  is  being  presented  at  this  conference.  Systemic  risk cannot be seen, nor can it be easily measured. So we need to explore a range of indicators. Academic research is helping ensure that we are looking at the right ones.
+
+The  aspect  of  systemic  risk  that  I  would  like  to  highlight  is  the  interconnections  between banks,  firms  and  countries  that  lie  at  the  heart  of  the  contagion  that  can  turn  a  small disruption into something much bigger. In the global financial crisis, when one entity became distressed  their  counterparties  incurred  mark-to-market  losses  on  the  value  of  securities issued by that entity. Investors also often started refusing to deal with those counterparties that  had  -  or  merely  were  thought  to  have -  significant  exposures  to  that  entity.  So, contagion could and did occur because of both direct and supposed interconnections. It can occur  even  as  a  reputational  effect  when  two  entities  or  economies  are  perceived  to  be similar: once investors have reassessed the risks in one institution or country, they often start to  probe  similar  vulnerabilities  elsewhere.  We  cannot  escape  the  conclusion  that  greater interconnection is a prominent marker of increased systemic risk.
+
+The  global  policy  response  to  the  financial  crisis  has  recognised  the  importance  of interconnections  and  built  that  into  the  design  of  regulatory  reforms.  Some  of  the  design details  are  quite  technical,  but  their  essence  is  to  create  incentives  against  excessive interconnected exposures between banks, or between banks and other parts of the financial system such as so-called 'shadow banking'.
+
+Contagion  is  most  likely  to  occur  when  information  is  not  equally  available  to  all  parties. Opacity and a lack of information about exposures were endemic to OTC derivative markets during the crisis, making these markets an important locus of contagion. Following the postcrisis  reforms,  derivative  markets  have  functioned  more  effectively.  Regulatory  mandates and supervisory incentives are resulting in a larger share of derivatives transactions being cleared through central counterparties and more are being collateralised and are therefore safer. Policymakers also have more visibility about financial market infrastructures now that they  play  a  more  central  role  in  financial  markets.  There  are,  though,  some  informationsharing issues in this area that still need to be worked out.
+
+One other outstanding issue is how the multiplicity of indicators of systemic risk can inform policymaking,  and  how  one  might  use  the  signal  provided  by  an  indicator  to  develop  a particular policy response. This is no easy task. The insights of research such as the work presented at this conference will certainly be welcome.
+
+## Conclusion: the role of supervision
+
+In all three areas I have spoken about - namely, resilience, the financial cycle and systemic risk  -  it  is  easy  to  focus  mainly  on  the  regulatory  initiatives.  Regulation  can  be  printed, measured and enforced. But history teaches that regulation cannot solve all problems. The financial system evolves, so no set of rules can deal with all risks and problems. This is an important reason why there needs to be a parallel focus on strong and effective supervision. My view is that a strengthening of supervision is at least as important as are the post-crisis regulatory reforms. Rigorous, inquiring supervision that takes a holistic view of the environment is essential to maintaining financial stability and good outcomes for consumers. I encourage you to consider how the research agenda can be expanded to consider how to best balance regulation and supervision.
+
+Thank  you  for  your  attention.  I  wish  you  the  best  as  you  grapple  with  this  difficult  set  of issues over the next couple of days.

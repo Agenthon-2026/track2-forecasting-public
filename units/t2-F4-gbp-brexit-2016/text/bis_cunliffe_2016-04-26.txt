@@ -1,0 +1,246 @@
+Jon Cunliffe: Jon Cunliffe: Remarks at the Alastair Ross Goobey Memorial Lecture
+2016-04-26
+
+## Jon Cunliffe: Remarks at the Alastair Ross Goobey Memorial Lecture
+
+Speech  by  Sir  Jon  Cunliffe,  Deputy  Governor  for  Financial  Stability  of  the  Bank  of England, at the Alastair Ross Goobey Memorial Lecture, London, 26 April 2016.
+
+*      *      *
+
+I was very pleased to be asked to give this memorial lecture today. I worked with Alastair when I  was  at  the  Treasury.  Long  before  the  'age  of  the  asset  manager'  he  was  a colossal figure who had a major impact, not just on his own industry, but on the corporate world as a whole.
+
+Ideas and practices that we now think of as standard corporate governance would, I suspect, never have been adopted without his advocacy and without his willingness to press the interests of those millions of people whose assets he managed.
+
+And he knew about booms and busts. His dissection, in his book Bricks and Mortals , of the anatomy of the UK property boom and bust of the late 80s and early 90s is a lesson to those who are today concerned with financial stability in the UK.
+
+Alastair died in early 2008, after Northern Rock but before the global financial crisis really got underway. The ending of Bricks and Mortals is prophetic. It was written in 1992, just before we began the long upswing in the financial cycle that ended with a bang in 2007:
+
+'Whenever the recovery starts, there will be new participants, who will be less constrained by the experience of this recession than those who lived through it. They will repeat many of the mistakes of the 1980s, as many of the companies repeated the mistakes of the 1970s. The market will then be driven to levels which will prove unsustainable.'
+
+He  was  writing,  of  course,  about  the  UK  property  market  rather  than  the  sub-prime market in the US or over-leveraged international investment banks. But I doubt he would have been that surprised; the subject of Bricks and Mortals is but one example of the self-reinforcing dynamics of powerful financial cycles which, if left unchecked, often end in tears, not just for investors but for the economy as a whole.
+
+I  hope  also  that  he  would  have  thought  the  changes  to  the  Bank  of  England's responsibilities  following  the  crisis  -  and  the  establishment  of  the  Financial  Policy Committee (FPC) in particular  -  were  a  major  step  forward  in  how  we  manage  and mitigate the risks of the financial cycle.
+
+I want to talk a little today about the FPC's role and how the Committee sees the current conjuncture in terms of risks to financial stability. I will focus on the UK property sector. That  is  not  simply  because  today's  lecture  is  supported  by  the  Investment  Property Forum  and  the  Cambridge  University  Land  Society.  Property-related  debt  -  for residential and commercial real estate purposes - makes up around 60% of private nonfinancial sector debt in the UK.
+
+And, of course, the counterpart of that is that domestic property-related loans make up around 55% of the domestic loans of the UK banking sector; 76% when financial sector loans are excluded. 1 Moreover,  the  evidence  is  pretty  clear  from  history,  and  across
+
+1 Non-bank lenders are also an important source of finance, providing 15% of all property-related loans according to Bank staff estimates.
+
+countries, that there is a strong and special link between booms in property-related debt and financial crises in a way that is much less true for other assets like equities. 2
+
+I want also to reflect a little today on the health of banks in the UK. Since last summer, and particularly since the turn of the year, investors have written down the value of banks in  advanced  economies.  Does  this  signal  concerns  about  banks'  resilience  and robustness? Or about their returns?
+
+## The Financial Policy Committee
+
+The FPC is charged with identifying risks and taking action to protect the resilience of the UK financial system. In essence this means two things.
+
+First, we need to be confident that the regulatory framework in the UK addresses the risks  not  just  of  individual  financial  firms,  important  though  that  is,  but  also  the  risks inherent  in  the  financial  system  as  a  whole.  On  that  front  we  are  well  advanced  in implementing in the UK a programme of reforms to regulation that is unprecedented in scope and effect.
+
+To  give  some  examples  of  reforms  and  progress:  capital  requirements  for  globally systemic banks have increased ten-fold; and since the crisis, major UK banks' leverage has roughly halved; they have cut the share of total funding accounted for by short-term wholesale funding from nearly 30% in 2007 to 10%; reduced trading assets by a third and cut inter-bank exposures by two thirds.
+
+Second, we need to address, through time, the risks that build up in the financial cycle. Financial cycles - the build-up of credit and risk driven largely by the dynamics of the financial system and its interaction with the economy - are generally longer than the 'economic' or 'business' cycle. The upswing of the financial cycle in Bricks and Mortals lasted  from  around  1980  until  the  early  1990s.  The  last  cycle  was  longer  and  more powerful.
+
+The FPC needs to identify, assess and mitigate risks building up over the cycle both in the financial system and in the economy as a whole. Or to put it in the terms of Alastair's warning, to make sure that as memories fade, confidence returns and the dynamics of the financial cycle become more powerful we do not simply make the same mistakes again.
+
+## The current conjuncture
+
+The FPC's current assessment of the financial cycle is that following a subdued and lowrisk period of post-crisis repair to bank, household and corporate balance sheets, we have now entered a more standard period of risk and credit growth.
+
+The stock of private non-financial credit, economy wide, is around 140% of GDP. As I said earlier, the bulk of this is property-related debt. It is growing at broadly the same rate as nominal GDP. In contrast, in the 10 years before the crisis it grew annually at around twice the rate of GDP reaching 177% of GDP in 2009.
+
+The stock of household debt relative to income is 135%, down from 155% pre-crisis. In 1992, when Bricks and Mortals was published, it was only 100%.
+
+Debt servicing ratios, however, are not stretched at the moment because interest rates are very low - the household debt service ratio is now at 2001 levels of around 8%. But
+
+2 For example, Jorda et al (2015) show that a housing bubble combined with a build-up of credit before a recession has more than twice as large an impact on GDP per-capita compared with an equity bubble.
+
+the composition is very different: in 2001 the stock of debt was half the current level and the interest rate twice the current level.
+
+There are good reasons why the sustainable level of household debt may have risen over the past 30 years. 3 But  the  current  level  is  still  relatively  high  by  historical  and international  standards  and  is  something  that,  in  my  view,  the  FPC  needs  to  keep carefully in mind when thinking of financial stability.
+
+## Hotspots
+
+Within this current overall picture of the UK being at the beginning of a period of standard risks, credit growing gently at a similar rate to nominal GDP, and asset prices supported by low long-term interest rates, there are some hotter spots in property markets and elsewhere, such as consumer lending. 4   I will focus on property markets.
+
+## Buy-to-let
+
+First and foremost, within the residential property market, lending for buy-to-let has been growing strongly for a number of years. The stock of buy-to-let mortgage lending has grown at an annual average rate of 6% since 2008. It rose by 11.5% in the year to 2015 Q4, while the stock of lending to owner occupiers was unchanged. Buy-to-let mortgages now account for 17%, by value, of the total stock of secured lending.
+
+Lending for buy-to-let has clearly been profitable. At around the start of 2016, lenders were planning to grow their gross buy-to-let lending by, on average, almost 20% per annum  over  the  next  two  years,  with  some  challenger  banks  and  smaller  building societies planning to grow their buy-to-let books at a much faster rate.
+
+A good rule of thumb for financial stability is that when some form of credit is growing fast  one  needs  to  look  very  carefully  at  whether  lenders'  underwriting  standards  are slipping and at what is happening to the distribution of borrowers' indebtedness.
+
+The Prudential Regulation Authority (PRA) conducted a review of lending for buy-to-let mortgages  and  concluded  that  there was  indeed  some  evidence  of  loosening underwriting standards and a possibility that this might increase. As a result, the PRA Board  has  issued  a  Supervisory  Statement  to  clarify  expectations  for  underwriting standards in the market. The statement includes guidelines for testing the affordability of interest payments and a minimum stressed interest rate for use in lenders' affordability tests.
+
+There  are  also  substantial  tax  changes  affecting  the  buy  to  let  market.  The  FPC's expectation is that the Government's changes in stamp duty and mortgage interest tax relief for buy-to-let, together with the PRA's actions, will probably dampen the growth of buy-to-let  lending.  Mortgaged  buy-to-let  accounts for  only  around  10% of  all  housing transactions for house purchase so the impact on the housing market as a whole may not be great.
+
+But market dynamics are difficult to predict and given the uncertainty around the impact of the tax and supervisory changes, the FPC decided to wait and see how the market reacted  before  considering  whether  to  take  action  on  buy-to-let.  The  Committee continues to watch the buy-to-let market closely.
+
+3 For further details, see Cunliffe (2016).
+
+4 See Bank of England (2016a).
+
+## Lending to owner-occupiers
+
+Second,  lending  to  owner-occupiers  at  high  loan-to-income  (LTI)  ratios  remains significant. The FPC took action in 2014 to counter the risks arising from an increase in the tail  of  overly-indebted  households. Its  concern was that an increase in the tail of overly-indebted  households  posed  a  threat  because  such  households  cut  back consumption very sharply in a downturn. 5  Transactions, house price inflation and the proportion of high LTI mortgages all cooled down following the FPC's actions and other factors  at  the  time  like  the  introduction  of  the  Mortgage  Market  Review.  All  of  these variables have since bounced back. Prices and mortgage approvals for house purchase are growing at an annual rate of 7.5% and 19% respectively. 6  And nearly 15% of new mortgages extended in Q4 had LTI ratios just below the FPC's threshold of 4.5 - almost double the proportion in 2008/9.
+
+## Commercial real estate
+
+The third property-related area the FPC has been looking at closely is commercial real estate  (CRE).  Many  countries  have  experienced  repeated  booms  and  busts  in commercial property and the UK is certainly no exception.
+
+Over the past 100 years, the UK has experienced five CRE cycles and similar cycles have been seen in a range of developed economies. At the end of the 1980s CRE boom documented by Alastair, prices fell by over a third and 25 banks failed or were closed down. 7   And, more recently, 9% of the UK banks' pre-crisis stock of CRE lending was written off between 2008 and 2014 compared to 0.4% for mortgage lending. Over the past two years, commercial property prices have risen strongly by 18%. Up to the second half of last year, the market seemed to be 'simmering' if not 'bubbling'.
+
+Unlike in previous cycles, however, a much greater proportion of CRE activity has been financed by equity investors, in large part overseas investors, rather than by UK bank lending. The share of equity finance in UK CRE transactions in 2015 is estimated at around 55%, compared to around 30% in 2007 and a peak of around 80% in 2010. So the direct risks to major UK banks from this sector are not as high as one might assume.
+
+The fact that there is less UK leverage in the sector does not mean however that a sharp correction in CRE prices poses no financial stability risks. Property is an important source of collateral for UK corporates, SMEs in particular. A sharp drop in CRE values could constrain their access to credit. Recent research by Bank staff found that a one pound rise in the value of a company's property is associated with around a five to ten pence rise in investment. 8 More broadly, Bank staff estimate that around a quarter of business investment is related to commercial property.
+
+In this context, it is encouraging to see that the industry itself is taking forward a set of recommendations, set out in the cross-industry report on the 'Vision for Real Estate Finance in the UK', for reducing risks to financial stability from the CRE market. The
+
+5 For evidence on the link between household indebtedness and the severity of recessions, see Cunliffe (2016) and references therein.
+
+6 Mortgage approvals for house purchase may have been inflated by some borrowers bringing forward purchases ahead of changes to Stamp Duty Land Tax levied on additional properties, which took effect from 1 April 2016.
+
+7 See Benford and Burrows (2013).  Other countries also experienced CRE booms in the 1980s, most notably Japan. The case of the Mitsui Real Estate Company gives a sense of the euphoria that surrounds such booms. It paid $625 million for the Exxon Building in New York even though the initial asking price had been $310 million; Mitsui wanted to get in the Guinness Book of World Records for paying the highest price ever for an office building (Kindleberger and Aliber (2005)).
+
+8     See Bahaj, Foulis and Pinter (forthcoming).
+
+report included, among others, recommendations to build a database of each UK CRE loan  and  its  collateral,  as  well  as  using  long-term  valuation  measures  for  risk management purposes. The Bank is very supportive of these initiatives - and is working with industry to take them forward. 9
+
+The UK CRE market has shown marked signs of easing in 2015 H2 and 2016 Q1. The annual growth of UK CRE prices weakened to 6% in March and CRE prices fell by 0.6% between February and March, the first monthly fall since 2013. And the amount, by value, of  secondary  market  transactions  fell  by  around  40%  in  Q1  relative  to  Q4  and  60% relative to a year ago. The CRE market seems to have gone into a deep freeze ahead of the EU referendum.
+
+The FPC, of course, also assesses risks that originate outside the UK financial system but can, if they crystallise, damage its stability. The Committee has also identified risks around the current global macroeconomic conjuncture and around emerging markets. And there are concerns about potential risks in some sectors of financial markets where there has been substantial investment in asset classes in which liquidity may be limited.
+
+And the FPC assessed the risks around the EU referendum to be the most significant near-term domestic risk to financial stability.
+
+There will always be risks to UK financial stability from outside the UK financial system. The point I want to emphasise today, however, is how important UK property markets and property-related lending have been and will continue to be for UK financial stability. I would expect the FPC's attention to risks around property to increase as the credit cycle becomes more established.
+
+## Banks and property lending
+
+I  want now to look at stability from the banking end of the telescope. As I have said, property-related lending is the largest component of UK banks' domestic loans. Mortgage lending, in particular, is the single largest asset class on UK banks' balance sheets.
+
+This  was  not  always  the  case.  Until  the  1980s,  short-term  loans  to  non-financial businesses constituted the majority of UK banks' loans. Looking back further, fewer than 10% of banks' loans to businesses at the start of the twentieth century had a contractual term greater than a year - loans were mainly used for working capital or to support cash flows rather than to finance long-term assets. 10
+
+Banks  acted  in  line  with  the  advice  in  George  Rae's  celebrated  banking  textbook, published in 1885:
+
+'As a banker, you  are a dealer in money,  or  in securities readily exchangeable  for  money,  and  building-land  does  not  come  within  this category.  It  is  practically  inconvertible  into  money  on  rational  terms,  and ought therefore to have no place amongst a banker's assets.' 11
+
+It is clear that, now more than ever, the returns and resilience of the banking system are intimately tied to property markets. Is banks' unwillingness to follow George Rae's advice responsible for their current subdued market values?
+
+## Banks: a crisis of resilience or returns?
+
+UK banks currently have an average price to book ratio of around 0.7 compared to an average of two in 2006. In other words, investors seem to be assuming that, looking
+
+9 http://www.ipf.org.uk/asset/0D24F055-38E6-419F-8E117665F4F47854/
+
+10 See Knott et al (2014).
+
+11    See Rae (1885).
+
+forward, banks will destroy value. This is not the sign of a vibrant banking system ably supporting the real economy. The last time price to book ratios were this low was in the euro-area crisis in 2011/12 and before that in the global financial crisis in 2008. In those cases, particularly the latter, the fall in banks' price to book ratios reflected concerns about their resilience and indeed their solvency - that is, whether they had sufficient capital to back the riskiness of their assets. Low price to book ratios were accompanied by very high debt spreads on bank debt for the same reason.
+
+This time round, banks' low price to book ratios are accompanied by relatively low debt spreads. 12 In the main, they probably do not reflect concerns about banks' resilience, which has improved significantly since the crisis.
+
+The FPC and PRA Board, in 2014 and 2015, subjected the UK banking system to severe but  plausible  hypothetical  stress  tests.  The  2014  test  was  centered  on  a  sharp contraction in UK economic activity - in the test house prices fell by 35% and CRE prices fell by 30%. The 2015 test featured a global slowdown emanating from weak growth in emerging-market economies. The results of both tests showed that, on the whole, UK banks  would  be  able  to  withstand  these  scenarios  and  continue  lending  to  the  real economy. Therefore, the current low price to book ratios probably reflect concerns about banks' future  prospects.  That  is,  whether  they  can  make  adequate  returns  to  satisfy shareholders' expectations.
+
+The most obvious reason for the difference between banks' returns on the one hand and shareholders' expectations on the other is the disappointing returns that UK banks have made in recent years. Average return on equity for UK banks fell from around 17% in 2006 to 2% in 2015. But there may be another reason, on the other side of the equation. Shareholders' expectations may not yet have adjusted to the change in the risk and return profile that banks now represent.
+
+I  want  to  look  in  a  little  detail  at  both  the  question  of  disappointing  returns  and  the question of unrealistic expectations.
+
+## Banks' returns
+
+First, what is behind the disappointing returns? It is not lending on residential property. Our latest estimates of the return on equity of bank mortgage books seem to be around 20%, on average, beaten only by overdrafts and asset and motor finance. 13  Indeed, UK banks'  underlying  return  on  equity  on  retail  lending  overall  is  currently  around  20%. Margins on the flow of UK retail business for the large UK banks are currently lower than margins  on  the  stock  because  new  mortgages  are  being  written  at  a  lower  average interest rate than average back-book mortgage rates. So return on equity on new lending is lower.
+
+Some of this is probably due to the fact that with low interest rates and high employment, impairment charges are at a very low rate by historical standards - impairment charges as a proportion of total loans are now back to pre-crisis levels.
+
+- Of course, underlying returns only tell you part of the story. When one adds in the cost of misconduct, including for PPI, that banks have paid and are likely to pay on past retail
+
+12    Banks' current price to book ratio would be associated with CDS spreads of over double their current level if the relationship between banks' price to book ratios and CDS spreads between 2008 and 2013 still held.
+
+13    Estimates of return on equity on individual business lines should be treated as indicative for a number of reasons, for example, not all banks calculate return on equity by business activity, definitions of business activities can vary across banks and some banks find it difficult to attribute equity to individual divisions or products.
+
+lending activities, and other costs, the overall returns drop markedly. But even adjusted for conduct and other costs, returns on retail lending still seem to be around 10%.
+
+Cost  of  equity  is  the  relevant  comparator  for  return  on  equity.  For  large  UK  and international  retail  and  commercial  banks  it  is  estimated  to  be  around  9%.  So  retail lending does not seem to be the source of the problem.
+
+Nor, on the surface, does corporate lending. Estimates of return on equity on SME and corporate lending are around 8% to 9%, which is roughly around the cost of equity for these activities, though it's hard to say with absolute precision.
+
+Investment  banking,  however,  is  a  different  story;  return  on  equity  in  the  investment banking parts of UK banks is around 5%. It was 20% in 2010. Returns at European and US investment banks have followed a similar trend although the decline has not been as steep as for UK banks.
+
+Overcapacity, excess costs, removal of the implicit Too-Big-To-Fail government subsidy, tighter capital regulations and restructuring costs are all contributing to reduced returns on  equity  in  investment  banking.  Large  parts  of  investment  banking  are  not  meeting required returns which are estimated to be in the region of 11% overall for a sample of UK and international banks. Parts of investment banking are therefore not economically profitable.
+
+Banks have made good progress on restructuring their overall balance sheet - they have cut funded assets by nearly £1 trillion since the end of 2010 - but they will probably need to shrink parts of their investment banking businesses or boost returns, for example, by increasing prices or cutting costs. Variable remuneration has fallen in absolute terms in investment banking and other parts of banks but that has been offset by an increase in fixed remuneration. Staff cost to income ratios for banks as a whole are similar to precrisis levels or if anything a little higher. Banks' staff costs have not fallen anywhere near as much as shareholder returns.
+
+Conduct  costs  have  also  depressed  returns  in  investment  banking  as  well  as  retail banking. Indeed, looking forward, concerns about future conduct risks, generally, may also be clouding investors' perceptions of banks' prospects. The scale and uncertainty around  conduct  losses  is  notable.  UK  banks'  overall  misconduct  costs  have  totalled nearly £50 billion to date - they have exceeded £10 billion per annum in each of the past four years. This uncertainty, one hopes, should fall over time.
+
+## Investors' expected returns
+
+Turning to the other part of the price to book equation, expected returns, the reforms to the  prudential  regulation  of  banks  since  the  crisis  and,  in  particular,  to  the  level  and quality of capital required from banks has reduced the risk to investors. That reduction in risk should, all else equal, be reflected in the return investors demand. There are signs that  investors  have,  albeit  slowly,  started  to  lower the returns they  demand  to  reflect lower risks. Banks have cut their medium-term pre-tax return on equity targets by about 3.5 percentage points on average since 2009 - from around 15% to around 11.5%.
+
+This is welcome and necessary. Some of the reduction probably reflects lower risk-free rates.  But  some  reflects  the  significant  increase  in  banks'  resilience.  There  may, however, be factors that are still inflating required returns beyond the levels merited by risk.  I  want  to  briefly  mention  two  possible  factors  that  may  be  affecting  investors' perceptions of risks and hence of the returns necessary to compensate for them.
+
+First, there may be a collective action problem on the part of asset managers. Around half  to  two-thirds  of  the  shares  of  the  largest  UK  banks  are  owned  by  institutional
+
+investors  and  managed  in-house  or  by  asset  managers. 14 These  tend  to  operate  to common benchmarks and are subject to rigorous peer comparison. Asset managers, particularly  those managing assets on behalf of institutional investors that have fixed liabilities, are currently under great pressure to find returns in a low return environment. Before the crisis, banks made high double-digit returns on equity boosted by very high leverage. There may well be a reluctance among managers of institutional money and investment funds to be the first to drop required returns. This could account for some of the stickiness that we have seen in banks' return on equity targets.
+
+The behaviour of institutional investors may also explain the so-called 'low risk' anomaly. In theory, lower risk ought to be matched by lower returns. But some research suggests that this may not be a simple relationship. The 'low risk anomaly', under which lower risk stocks generate no lower - and in some cases higher - returns than higher risk stocks has been identified for banks. A number of possible explanations have been provided as to  why  this  apparent  arbitrage  opportunity  exists,  including  preferences  by  fund managers for 'high-beta', i.e. risky, assets to try to beat peers and attract inflows, or because  there is insufficient risk adjustment when  assessing  asset  managers' performance. 15
+
+The second factor that may be affecting perceptions of risks is regulatory clarity. The crisis stimulated an unprecedented programme of reform of the prudential regulation of banks. Most of the main components of that reform are now being implemented. Some important elements remain, however, including in relation to the capital framework for banks.
+
+Uncertainty around the future end point for bank capital could be affecting investors' assessments of the returns required from banks. The official sector needs to give as much clarity as possible about the overall end point of the capital framework. For the UK, the Bank of England's Financial Policy Committee has done that, setting out in December last  year  its  view  of  the  overall  capital  framework. 16 Internationally,  the  Group  of Governors and Heads of Supervision has said that it does not expect the completion of the remaining elements of the risk-weighted capital framework to increase significantly overall capital requirements. 17
+
+## Closing the gap
+
+Taking  all  this  together,  there  is  clearly  at  present  a  wide  gap  between  banks' disappointing returns on the one side and investors' expectations on the other. This is reflected  in  current  price  to  book  ratios.  This  gap  may  need  to  be  closed  from  both directions.
+
+It is, however, clearly not the case that all banking is unprofitable or un-investable. The health of UK retail banking is almost certainly being masked by conduct costs, current and  expected,  and  by  outdated  and  costly  business  models  that  need  restructuring, especially in relation to investment banking. But the returns expected by investors in banks  may  well  be  sticky  and  have  further  to  fall  to  come  into  line  with  risk.  The authorities may be able to assist this by giving greater clarity on the end point of the regulatory structure.
+
+14    This figure excludes RBS which is majority-owned by the UK government.
+
+15    See Baker and Wurgler (2013).
+
+16    See Bank of England (2015).
+
+17    See BIS (2016).
+
+On this last point, the stickiness in investors' required returns may be part of a more general adjustment to a lower interest rate environment. We are unable to measure them directly, but there is some evidence that despite the very low market rates we are now seeing across the yield curve, hurdle rates for corporate investment - namely, the rate of return required by corporates on new investment - have not reflected lower risk-free rates but rather have been sticky and remained near pre-crisis levels. The Bank is doing more work on this.
+
+A  recent  Bank  of  England  Discussion  Paper  looking  at  measures  of  finance  for productive investment cites data on hurdle rates as a material data gap in assessing the availability  of  finance  for  productive  investment. 18 The  Bank  plans  to  use  its  Agency network to run a survey of hurdle rates later this year.
+
+## Conclusion
+
+What would Alastair have made of the issues I have raised today? He knew well the risks that property markets can pose to stability. I hope he would be reassured by the creation in the UK of the Financial Policy Committee within the Bank of England which is now specifically charged with managing these systemic risks. The Committee is monitoring property markets closely. It has already taken action and would not hesitate to do so again if it is needed to protect financial stability.
+
+Alastair was also a champion of investor activism. I think investors have a role to play in restoring  the  economic  profitability  of  banks,  both  by  encouraging  business  model restructuring and monitoring risks and perhaps by lowering their expectations a little as well. But investors are only one part of the story. Banks need to work with the authorities to implement fully the reforms that have been agreed to boost their resilience. And banks' management need to maintain their restructuring momentum. The business model for banks in the UK may look very different in the future than it did before the crisis. I think it is  clear  that,  in  the  new  framework,  it  is  possible  for  banks  both  to  lend  to  the  real economy and to make adequate returns.
+
+Thank you.
+
+## References
+
+Bahaj, S, Foulis, A and Pinter, G 'The Residential Collateral Channel', by, Bank of England Staff Working Paper , forthcoming.
+
+Baker, M and Wurgler, J (2013) 'Do  Strict  Capital  Requirements  Raise  the  Cost  of Capital?  Banking  Regulation  and  the  Low  Risk  Anomaly', NBER  Working  Paper , No.19018.
+
+Bank  of  England  (2015) 'The  framework  of  capital  requirements  for  UK  banks', Supplement to the December 2015 Financial Stability Report.
+
+Bank of England (2016a) Financial Policy Committee statement from its policy meeting, 23 March 2016, available at http://www.bankofengland.co.uk/financialstability/ Pages/fpc/default.aspx.
+
+Bank  of  England  (2016b) 'Understanding  and  measuring  finance  for  productive investment - A Discussion Paper'.
+
+Benford, J and Burrows, O (2013) 'Commercial property and financial stability', Bank of England Quarterly Bulletin , Q2.
+
+18    See Bank of England (2016b).
+
+BIS (2016) 'Revised market risk framework and work programme for Basel Committee is endorsed by its governing body', Press release, available at: http://www.bis.org/press/p160111.htm.
+
+Cunliffe, J (2016) 'Credit: Can trees grow to the sky?' speech given at British Property Federation Annual Residential Investment Conference, London.
+
+Goobey, A R (1992) Bricks &amp; Mortals: the story of the 1980s property boom - and slump - and those who made it , Century Business.
+
+Jordà,  O,  Schularick,  M  and  Taylor  A  M  (2015) 'Leveraged  bubbles', Journal  of Monetary Economics , vol.76, pages S1-S20.
+
+Kindleberger, C P and Aliber, R Z (2005) Manias, Panics, and Crashes: A History of Financial Crises', John Wiley &amp; Sons.
+
+Knott, S, Richardson, P, Rismanchi, K and Sen K (2014) 'Understanding the fair value of banks' loans', Bank of England Financial Stability Paper 31 .
+
+Rae, G (1885) The country banker: his clients, cares, and work from an experience of forty years , Jon Murray.

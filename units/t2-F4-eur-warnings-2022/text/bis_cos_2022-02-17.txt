@@ -1,0 +1,198 @@
+Pablo Hernández de Cos: Pablo Hernández de Cos: The new European Central Bank monetary policy strategy and its implications for the current high-inflation episode
+2022-02-17
+
+
+
+The new ECB monetary policy strategy and its implications for the current high-inflation episode
+
+The Euro YearBook Pablo Hernández de Cos Governor
+
+## 17.02.2022
+
+Ladies and gentlemen, good morning:
+
+It is a pleasure for me to be able to participate in this meeting organised by Fundación ICO, Instituto Español de Analistas Financieros and Fundación de Estudios Financieros.
+
+Here  at  this  2022  edition  of  the  Euro  Yearbook,  I  would  like  to  deliver  a  few  remarks regarding the main aspects of the review of the monetary policy strategy of the European Central  Bank  (ECB)  that  was  concluded  in  the  middle  of  last  year.  I  would  also  like  to emphasise why our new monetary policy strategy provides us, in the Eurosystem, with the appropriate framework and tools to handle the high-inflation episode that we are currently confronting.
+
+I will structure my remarks today into three parts. First, I will explain why, given the profound structural changes that the euro area has experienced in recent decades, it was appropriate for  the  ECB  to  undertake  a  comprehensive  review  of  its  monetary  policy  strategy.  In particular, I will talk about the fall in the natural interest rate that has taken place over the last few decades - in the euro area and in most advanced economies - and how this secular process has imposed some limitations - through the interest rate lower bound - on the conduct of monetary policy.
+
+In  the  second  part  of  my  talk  today,  I  will  set  out  the  main  aspects  of  the  ECB's  new monetary policy strategy, and I will explain the logic behind some of the changes we have adopted. In particular, among the different elements that make up this new strategy, I will focus on the new symmetric 2% inflation target and on the forward guidance on interest rates, whose role in defining and communicating the ECB's monetary policy is key.
+
+Finally, I would like to devote some time to analysing, through the lens of our new strategy, the high-inflation episode that we are currently witnessing worldwide, including in the euro area. In particular, I would like to walk you, step by step, through the considerations that should guide the ECB's response to this shock under the new strategy.
+
+
+
+## 1 Why it was appropriate to revise the ECB's monetary policy strategy
+
+The Treaty on the Functioning of the European Union (TFEU) confers on the ECB the primary mandate of maintaining price stability in the euro area as a whole. However, the TFEU leaves to the discretion of the ECB the exact definition of 'price stability' and the manner in which this goal is to be achieved, this being known as the 'monetary policy strategy'.
+
+It is important to note that this monetary policy strategy is not, and should not be, a static concept. On the contrary, this strategy should evolve over time in order to accommodate relevant structural changes in the economy and to ensure its effectiveness.
+
+
+
+Against this background, the fact that inflation in the euro area remained persistently below the ECB's target level during the period that ran between the global financial crisis and 2020 made clear that a comprehensive review of our monetary policy strategy (which was last revised in 2003) was appropriate.
+
+
+
+To understand why inflation in the euro area remained below target for more than a decade, despite the fact that the ECB maintained a rather accommodative monetary policy stance, one must necessarily take into account the secular decline in the natural interest rate and the limitations that such a decline imposes, through the interest rate lower bound, on the conduct of monetary policy.
+
+The  equilibrium  or  natural  interest  rate  ( r* )  is  defined  as  the  real  interest  rate  that simultaneously maintains output at its potential level and inflation stable at its target level. This rate, which cannot be observed directly, can only be estimated, with some degree of uncertainty, using econometric techniques.
+
+According to available estimates, the natural interest rate appears to have progressively declined  in  recent  decades  in  advanced  economies  and,  in  the  case  of  the  euro  area, estimates even place it at negative levels. 1  This secular drop in r* is attributed, among other factors, to the decline in trend productivity growth, certain demographic developments and widening inequality. All of these are factors that will have changed the balance between the supply of savings and the demand for investment.
+
+
+
+And, why is this important for monetary policy? Well, the answer is clear.
+
+The decline in the natural interest rate in recent decades means that, in order to stabilise inflation, real interest rates (and, therefore, nominal interest rates) need to be lower now than two  or  three  decades  ago.  The  problem  is  that  nominal  interest  rates  cannot  drop significantly  into  negative  territory,  since  highly  negative  interest  rates  would  adversely affect  the  financial  sector's  intermediation  capacity,  having  a  detrimental  impact  on  the
+
+1 For example, Holston et al. (2017) estimate that in 2016 the natural rate in the United States was positive but very close to zero.
+
+supply of credit, economic activity and inflation. 2  Hence, there is a lower bound to nominal interest rates.
+
+This  lower  bound  introduces  an  asymmetry  into  the  conduct  of  monetary  policy.  This asymmetry  means  that  monetary  policy  is  potentially  very  effective  in  combating  high inflation episodes, but less so in combating deflation or even persistently low inflation. 3
+
+
+
+In the years that followed the Great Financial Crisis, in a context of significant disinflationary pressures, the proximity of interest rates to their lower bound led the ECB to introduce a set of non-standard measures to provide sufficient monetary stimulus to preserve price stability. Among these measures, the asset purchase programme (APP), the targeted longer-term refinancing operations (TLTROs) 4  and the forward guidance on the future path of interest rates can be highlighted.
+
+
+
+Even though there is a broad consensus that these non-standard instruments have been effective  in  easing  financing  conditions  and  in  supporting  euro  area  inflation,  economic growth and employment, their expansionary effects did not prevent inflation from remaining persistently below the ECB's target for much of the last decade. This led the ECB to review its  monetary  policy  strategy  in  order  to  search  for  ways  to  better  fulfil  its  price  stability mandate.
+
+
+
+## 2 Main elements of the ECB's new monetary policy strategy
+
+The unanimous adoption in July 2021 of a new monetary policy strategy was an important achievement for the Eurosystem. This new strategy has drawn on an immense collective effort by the staff at the ECB and the Eurosystem national central banks over 18 months. Among the many new developments that this review has brought with it, let me now focus very briefly on three key aspects. For those interested, I provide a more comprehensive description of the new strategy in my article 'The European Central Bank's new monetary policy strategy', The Euro YearBook 2022.
+
+First,  the  ECB  has  adopted  a  new  medium-term  inflation  target  of  2%.  This  target  is symmetric in the sense that positive and negative deviations of inflation from the target are considered  equally  undesirable.  As  a  result,  the  ECB  has  a  clearer  and  more  credible inflation target, since this 2% target eliminates the possible impression of asymmetry that could stem from the previous target ('below, but close, to 2%') and seeks to provide a clear anchor for inflation expectations.
+
+As I will highlight later on in my talk, this definition also confirms the medium-term orientation of  monetary  policy  that  already  existed  under  the  previous  strategy.  This  medium-term orientation provides room for inevitable short-term deviations of inflation from the target, as well  as  for  lags  and  uncertainty  in  the  transmission  of  monetary  policy.  Moreover,  the flexibility embedded in this medium-term orientation also allows for an appropriate monetary
+
+policy response to inflation deviations from the target that takes into account the origin, scale and persistence of the underlying shocks to inflation.
+
+
+
+Second, the ECB has taken into account the monetary policy implications of the lower bound  on  interest  rates.  In  particular,  the  new  strategy  establishes  a  requirement  for especially  forceful  or  persistent  monetary  measures  when  the  economy  is  close  to  the effective lower bound, in order to prevent negative deviations from the inflation target from becoming entrenched. This may also imply a transitory period of overshooting in which inflation is moderately above target. I will also refer to this key aspect of the new strategy in the third part of my talk today.
+
+And  third,  the  ECB  has  made  explicit  that  the  set  of  policy  rates  remains  its  primary monetary policy instrument. However, in recognition of the effective lower bound on interest rates, the ECB has stated that it will also employ forward guidance, asset purchases and longer-term refinancing operations, or any other instrument, as appropriate.
+
+In this respect, let me very briefly mention some relevant elements in relation to these nonconventional monetary policy instruments.
+
+
+
+Regarding  forward  guidance  on  interest  rates,  at  end-July  2021,  the  ECB  revised  this monetary policy tool to bring it into line with the new strategy. In particular, the revised forward  guidance  incorporates  the  2%  symmetric  inflation  target  and  establishes  three conditions that need to be fulfilled before the ECB Governing Council raises its interest rates. First, we have to observe 'that inflation reaches 2% well ahead of the end of its projection horizon'. As ECB President Christine Lagarde explained following the announcement of the new  forward  guidance,  'well  ahead'  basically  refers  to  the  mid-point  of  our  projection horizon, which covers two to three years.  5
+
+Second, inflation must be at 2% '[…] durably for the rest of the projection horizon'.
+
+And third, the Governing Council must consider "that the progress realised in underlying inflation is sufficiently advanced to be consistent with inflation stabilising at 2% over the medium term".
+
+I will come back to this later on, but for now let me emphasise that these conditions, related to  the  medium-term  inflation  outlook  and  linked  to  underlying  inflation,  seek  to  avoid  a premature tightening of our monetary policy in the face of increases in inflation above target when these  are  considered  to  be  temporary  or  caused  by  some  volatile  or  exogenous element, such as energy prices.
+
+Finally, with respect to the APP, the Governing Council expects net purchases under this programme to end shortly before it starts raising the key ECB interest rates. Therefore, there is 'chained forward guidance' whereby the horizon for net asset purchases remains linked to the moment in which the next interest rate hike takes place.
+
+
+
+## 3 An analysis of the current high-inflation episode through the lens of the new ECB monetary policy strategy
+
+The last part of my talk today refers to how the ECB is handling the high-inflation episode that has been taking place worldwide, and in the euro area, over the last few quarters. And, to be clear from the very beginning, let me emphasise that, in my view, the ECB's response to this shock can be perfectly rationalised in the context of the new monetary policy strategy that I have just sketched. In fact, this episode has already served to show the benefits of some of the key elements recently added to the ECB reaction function.
+
+## 3.1 An assessment of current inflation dynamics
+
+Let me start by characterising the recent inflation dynamics.
+
+
+
+In a context in which the euro area economy is continuing to recover and the labour market is improving, headline inflation reached 5.1% in January, with core inflation at 2.3%. The surge in inflation is the result of a combination of factors. Prominent among these are the base effects stemming from the sharp drop in certain prices at the onset of the pandemic, supply bottlenecks, the steep rise in the prices of energy (especially electricity) and of other intermediate  goods,  and  the  impact  of  the  recovery  in  demand  on  the  price  of  some services.
+
+An illustration of the importance of these factors can be obtained by comparing price levels before and after the pandemic. The headline HICP increased by 4.7% between December 2021 and December 2019, while the core HICP increased by only 2.9% in this two-year period.  The  level  of  energy  and  food  prices  at  the  end  of  2021  was  17.2%  and  4.6%, respectively,  above  that  observed  in  December  2019,  while  services  and  non-energy industrial goods increased by 3.1% and 2.3%, respectively.
+
+In  any  case, inflation has surprised us consistently on the upside over the last few quarters, and also in the most recent months . Moreover, these surprises do not relate exclusively to the energy and food components of the HICP, but have translated somewhat to core inflation as well.
+
+
+
+In  parallel,  energy  futures  curves  have  been  steeper  throughout  this  year.  And  higher inflation  in  2022  also  increases  the  probability  of  second-round  effects,  in  a  setting  of continued labour market improvements in the euro area. Indeed, the fact that inflation may remain above 2% for the rest of this year (albeit on a decelerating path), will place upward pressure not only on this year's wage negotiations, but also on those taking place next year. The existence of this backward-looking component in the wage-setting process is a stylized empirical fact and, as such, is included in some of our own forecasting tools. In a context in which  an  increasing  number  of  companies  are  identifying  labour  shortages  as  a  factor limiting their production, the probability of observing second-round effects on wages is also higher.
+
+It´s  important to emphasize that avoiding this feedback process is in the hands of each country's economic agents. And were it to occur in one euro area country only, it would have an adverse impact on that country's competitiveness and, therefore, on its activity and employment. At the same time, one should take into account that, although widespread excessive wage increases would in the current context be counter-productive, increases consistent  with  the  productivity  growth  and  demand  of  each  individual  firm  are  clearly desirable. Indeed, balanced wage increases in line with these determinants would contribute to the lasting achievement of our medium-term inflation target and, also, to preventing the emergence of undesired second-round effects.
+
+
+
+In the medium term , which is the relevant time frame for monetary policy, the expectation that inflation will moderate is maintained . Indeed, despite the evident short-run upward pressures on inflation, the most recent survey and market-based indicators keep pointing to a medium-term outlook for inflation rates in the euro area broadly in line with our 2% target. Wage growth also remains moderate. Against this backdrop, in recent months the probability  of  inflation  stabilising  at  around  2%  in  the  medium  term  has  clearly increased but there is no perceived risk of it remaining persistently above that level at this stage.
+
+In any event, the outlook for inflation is admittedly highly uncertain. Geopolitical tensions could lead to further increases in energy prices, which could feed back into wage rises and an inflationary spiral. Other matters, such as the resolution of supply bottlenecks, are also subject to great uncertainty. All in all, the risks to inflation are on the upside, particularly in the near term .
+
+
+
+I would also like to stress that the economic situation in the United States is different from that in the euro area.
+
+First, as I said before, medium-term inflation expectations in the euro area remain anchored at around our 2% target level, while in the United States these expectations lie significantly above 2%. US inflation numbers have also been higher. In January the consumer price index (CPI) increased year on year by 7.5% in the US. In the euro area, the HICP rose by 5.1%.
+
+Second, it should be noted that, while in the euro area both GDP and private consumption are still far from their pre-pandemic trends, in the United States these measures of broad economic activity have fully recovered, partly as a consequence of the more forceful fiscal policy response in this country to the COVID-19 crisis.
+
+Third, while a significant part of the current inflationary pressures in the euro area is driven by exogenous and external factors, such as energy prices (to which the euro area economy is  particularly  sensitive),  in  the  United  States  there  are  significant  domestic  pressures, especially  in  the  form  of  extraordinary  wage  growth,  which  contrasts  with  the  relatively subdued dynamics seen in euro area wages so far. As an illustration, core inflation stood at 2.3% in January in the euro area, compared to 6% in the US.
+
+Fourth, a rather significant part of the current high-inflation episode in the euro area can be interpreted as a negative shock to our terms of trade, given our high dependency on external sources of energy. This is very different to the situation in the United States and therefore its consequences are also expected to differ. In this regard, high inflation and subdued wage growth (like we have observed so far in the euro area) imply a substantial decline in real incomes, which could translate into lower consumption and investment, and, therefore, into weaker underlying inflation dynamics beyond the immediate short term. Even though part of these negative effects have been mitigated so far by fiscal policy in many countries -where  measures  have  concentrated  on  compensating,  at  least  partially,  low  income households for the higher energy prices -looking ahead it is unclear how persistent this policy support may be.
+
+
+
+## 3.2 Implications for monetary policy
+
+Now that I have characterised recent inflation dynamics and the risks surrounding future price developments, let me draw some conclusions on how monetary policy in the euro area should respond, which are fully embedded in the ECB's new monetary policy strategy.
+
+First,  in  this  setting  of  heightened  uncertainty, we have underlined the need to maintain optionality and flexibility and to remain attentive to the incoming data and forecasts in order  to  correctly  adjust  our  monetary  policy  stance.  As  we  have  stated  on  numerous occasions, the ECB stands ready to act at any time and to adjust all of its instruments as deemed appropriate. But, I insist, the near term is plagued with uncertainty, in terms of pure inflation dynamics but also in relation to several geopolitical risks which could potentially be highly  disruptive.  That  is  why,  now  more  than  ever,  we  must  maintain  optionality  and flexibility.
+
+Second, forward  guidance  remains  the  anchor  for  monetary  policy .  As  I  explained before,  for  our  first  interest  rate  hike  to  be  implemented,  all  three  of  the  well-known conditions  need  to  be  met.  Another  crucial  element  of  this  forward  guidance  is the sequencing of the exit strategy, whereby we will not raise interest rates until net purchases under our asset purchase programme have come to an end.
+
+Third,  given  what  I  have  just  said  regarding  inflation  prospects,  we  cannot  rule  out  the possibility that all the conditions in our forward guidance will be met sooner than we had expected some months ago. And as a result, movements in our monetary policy towards normalization  seem  more  likely.  In  the  coming  months,  we  will  have  to  decide  how  to exercise our optionality. And as far as this how is concerned, the key word should be, in my view, gradualism .  In  other words, I see no reason to overreact .  This view is based on several considerations.
+
+We first have to take into account that the length of the medium term, which is the time horizon of our monetary policy orientation, is dependent on the state of the economy and the nature of the shocks hitting it. When demand shocks prevail, the medium-term horizon is shorter and closer to the standard transmission lag of around two years. When supply shocks  prevail,  and  there  are  no  serious  risks  that  inflation  expectations  might  be contaminated by the effect that these shocks usually have on actual inflation, the mediumterm horizon tends to be longer, because of the resulting trade-off between inflation and economic activity.
+
+Thus,  in  a  context  in  which  inflation  expectations  remain  anchored  at  around  our  2% symmetric target, the economy is confronted with an exogenous price shock, and there is still some economic slack, a premature tightening of monetary policy would only add to the negative consequences of that shock for demand and, therefore, for medium-term inflation. Moreover, in a highly uncertain scenario, including geopolitical tensions in Ukraine, the ECB should not constitute an additional source of uncertainty, but should rather maintain a clear, gradual and predictable path for its policy.
+
+
+
+This gradualism is also justified by the fact that our estimates of the natural interest rate in the euro area remain very low, which should serve as an anchor as to the level around which our  policy  rates  might  stabilise  in  the  longer  run.  Indeed,  the  nominal  interest  rate  that markets  appear  to  consider  the  terminal  level  for  our  rate  cycle  is  extremely  low.  And, according to optimal monetary policy theory, the lower the terminal rate the longer one should spend at the lower bound and the more gradual should be the rise towards the terminal rate after lift-off.
+
+
+
+Finally,  an  important  dimension  of  flexibility  in  our  monetary  policy  that  we  should  not overlook is the focus on avoiding financial fragmentation in the euro area, in particular when  the  impact  of  the  pandemic  has  been  and  remains  very  heterogeneous  across countries and sectors. In December last year, we decided to retain this flexibility in the PEPP reinvestment phase, which was extended until the end of 2024. We should now use this
+
+flexibility proactively and monitor whether it is sufficient to ensure our monetary policy is appropriately transmitted across the euro area.
+
+## 4 Conclusions
+
+Let me conclude. I am convinced that the ECB's new monetary policy strategy, which I have briefly sketched in this talk, constitutes a solid basis for the conduct of our monetary policy. This is so, not just looking ahead to the coming decades, but also for coping with the current high-inflation episode. In this respect, I believe that, in a highly uncertain environment, a careful assessment of the implications that current developments have on medium-term inflation expectations is key, and that the optionality and flexibility that we retain should be exercised gradually and predictably . The direction in which we need to head is clear, but we should not draw premature conclusions as to the time frame. The process will be both gradual and data-dependent .
+
+Thank you for your attention.
+
+## References
+
+Ajevskis, V. (2018), "The Natural Rate of Interest: Information Derived from a Shadow Rate Model," Working Papers 2018/02, Latvijas Banka.
+
+Álvarez, Luis J., Hurtado, Samuel, Sánchez, Isabel y Thomas, Carlos, 2011. "The impact of oil price changes on Spanish and euro area consumer price inflation," Economic Modelling, Elsevier, vol. 28(1-2), pages 422-431, January.
+
+Andreeva, D. C., and M. García-Posada (2021), 'The impact of the ECB´s targeted longterm refinancing operations on banks´ lending policies: the role of competition', Journal of Banking and Finance , Vol. 122, 105992.
+
+Banco de España (2019), 'Monetary policy design in the medium and long term', Chapter 3, Annual Report 2018.
+
+Brand, C. and F. Mazelis (2019), 'Taylor-rule consistent estimates of the natural rate of interest', Working Paper Series, No 2257, ECB, March.
+
+Brand, C., G. Goy, and W. Lemke (2020), 'Natural Rate Chimera and Bond Pricing Reality', Working Paper Series, No 666, De Nederlandsche Bank, January.
+
+Brunnermeier, M. K. and Y. Koby (2018), 'The Reversal Interest Rate' , NBER Working Paper No 25406.
+
+Costain,  J.,  G.  Nuño  and  C.  Thomas  (2021),  'The  term  structure  of  interest  rates  in  a heterogeneous monetary union', Banco de España, mimeo.
+
+Enders, Almira, and Zeno Enders. "Second-round effects after oil-price shocks: Evidence for the Euro area and Germany." Economics Letters 159 (2017): 208-213.
+
+Fiorentini, G., A. Galesi, G. Pérez-Quirós, and E. Sentana (2018), 'The Rise and Fall of the Natural  Interest  Rate',  Discussion  Paper  Series,  No  13042,  Centre  for  Economic  Policy Research, July.
+
+Geiger, F. and Schupp, F. (2018), 'With a little help from my friends: Survey-based derivation of euro area short rate expectations at the effective lower bound', Discussion Paper Series, No 27/2018, Deutsche Bundesbank.
+
+Holston,  K.,  T.  Laubach  and  J.  Williams  (2017),  'Measuring  the  natural  rate  of  interest: international trends and determinants', Journal of International Economics , No 108, pp. 5975.
+
+Jarociński, M. (2017), 'VAR -based estimation of the euro area natural rate of interest', ECB draft paper.
+
+Johannsen, B.K. and E. Mertens (2021), 'A Time-Series Model of Interest Rates with the Effective Lower Bound', Journal of Money, Credit, and Banking, Vol. 53, Issue 5, August, pp. 1005-1046.

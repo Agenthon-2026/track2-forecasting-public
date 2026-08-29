@@ -1,0 +1,21 @@
+{
+  "manifest_version": "2.0",
+  "unit_id": "TEMPLATE_CARD_ID",
+  "generated_by": "TEMPLATE_AUTHOR",
+  "notes": "Canonical per-file CHECKSUM manifest for a Track-2 unit (validated by qfbench2_common.manifest.verify_manifest). One entry per committed file: path is relative to the unit dir; sha256 is the lowercase hex digest; role is one of input/reference/fixture/scenario/corpus/trace; split is public-dev/validation/private-test. The forecasting data-spec (panels/targets/scoring) lives in forecast_spec.json, NOT here. Replace all TEMPLATE_ placeholders and one entry per real file. license and source are RIGHTS DETERMINATIONS, not boilerplate: use MIT for organizer-authored files, LicenseRef-US-Gov-Public-Domain for U.S. federal works, LicenseRef-Source-Terms for third-party material whose issuing institution's terms govern, and LicenseRef-Unverified where the rights basis is not established. Do NOT default to CC-BY-4.0 — it was never granted for any third-party document in this repository. redistributable is a PUBLICATION GATE, not a rights summary: false means the file must NOT ship in a public unit (it is then referenced by checksum only and may be absent on disk), and the public-safety check fails any public unit that references one. This template ships false so a new unit fails closed; set it true for each file you are actually publishing. See DATA-LICENSE.md.",
+  "files": [
+    {
+      "path": "TEMPLATE_RELATIVE_PATH (e.g. rates_daily.parquet)",
+      "role": "input",
+      "source": "TEMPLATE_SOURCE",
+      "license": "TEMPLATE_LICENSE",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bytes": 0,
+      "split": "public-dev",
+      "cutoff": "TEMPLATE_ASOF",
+      "public_release_date": "TEMPLATE_RELEASE_DATE",
+      "redistributable": false,
+      "pii_stripped": true
+    }
+  ]
+}

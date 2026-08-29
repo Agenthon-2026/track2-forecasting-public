@@ -1,0 +1,273 @@
+Paul Fisher: Paul Fisher: The state of the financial markets
+2011-06-29
+
+## Paul Fisher: The state of the financial markets
+
+Speech by Mr Paul Fisher, Executive Director  for  Markets  of  the  Bank  of  England,  at  the Institutional Investor Institute, Bedfordshire, 29 June 2011.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches.
+
+*      *      *
+
+I would like to thank Ronnie Driver, Andrew Harley, Tanveer Hussain, Ben Wensley, Richard Windram and Chris Young for their help in preparing this speech.
+
+Any views expressed  are  solely  those  of  Paul  Fisher  and  should  not  be  ascribed  to  the  MPC  or  FPC  unless explicitly stated as such.
+
+The Bank of England has two core purposes. The first is maintaining monetary stability. That means achieving stable prices as defined by the Government and ensuring confidence in the currency. The second is contributing to financial stability. That entails identifying, monitoring, and taking action to remove or reduce systemic risks with a view to protecting and enhancing the resilience of the UK financial system. The interim Financial Policy Committee (FPC) was set up by the Government earlier this year to help meet this objective. 1 It has now had its first round  of  meetings  and  a  record  of  its  first  policy  meeting  and  the  associated Financial Stability Report were published just last week. 2
+
+To help meet these objectives, the Bank runs a Market Intelligence (MI) programme, which involves  frequent  meetings  and  conversations  between  Bank  staff  and  a  wide  range  of external  market  contacts  to  gather  and  analyse  information  from  market  participants.  The Bank is uniquely positioned to run such a programme, given its public policy objectives, its own  sterling  and  foreign  currency  operations,  and  its  location  within  one  of  the  world's foremost international financial centres. Up to 70 Bank staff, the vast majority of whom have other, full-time operational duties, help to collect MI as part of their day-to-day responsibilities. Personally, I estimate that, over the past 6 months, I have been involved on average in two meetings with market contacts every working day. Our external contact base is very extensive, 3 internationally diverse, 4 and covers a wide range of markets, from vanilla instruments such as gilts and equities through to all manner of derivatives.
+
+This  MI  programme  makes  a  crucial  contribution  to  meeting  the  Bank's  core  purposes  by (partially)  making up for missing data (at least qualitatively and occasionally quantitatively) and  helping  us  to  understand  better  the  behavioural  patterns  that  underlie  movements  in financial variables. On the monetary policy side, for example, it can shed light on the drivers of  commodity prices and changes in market-based measures of inflation expectations. On the financial stability side, the significant complexities in the financial system, the lack of data and  the  constantly  and  rapidly  evolving  nature  of  financial  markets  mean  that  MI  is particularly  useful  in  helping  us  spot  the  emergence  of  stress  and  new  developments  and risks  that  might  introduce  potential  vulnerabilities  and  fault  lines  in  parts  of  the  financial system.
+
+1 For more details, see the Government's consultation document ' A new approach to financial regulation: building a stronger system ', available at http://www.hm-treasury.gov.uk/d/consult\_newfinancial\_regulation170211.pdf. The interim FPC's terms of reference can be found at http://www.bankofengland.co.uk/financialstability/fpc/termsofreference.pdf.
+
+2 Both documents are available at http://www.bankofengland.co.uk/financialstability/fpc/meetings/index.htm
+
+3 Including,  for  example,  the  major  commercial  and  investment  banks,  major  wholesale  dealers,  second-tier banks, brokers, platform providers, corporate treasurers, asset managers,  pension  funds, insurance companies, hedge funds, private equity funds and many more risk managers, speculators, hedgers and end investors.
+
+4 We meet contacts in all the major financial sectors, including London, New York, Boston and the Far East.
+
+Today,  I  want  to  use  the  insights  gained  from  our  market  intelligence  work,  together  with market data, to provide an overall assessment of the state of financial markets, including the extent to which they have recovered since the depths of the financial crisis, the impact of a renewed reach for yield on financial innovation, and the impact of the regulatory agenda on market functioning.
+
+## The evolution of financial markets during the crisis
+
+To set the scene, it is instructive to look at the general pattern in markets over the past few years. Chart 1 uses a 'heat-map' to summarise data on issuance and spreads in primary and secondary markets for selected bonds and asset-backed securities (ABS), compared to their  historical  averages.  The  widespread  panic  and  financial  market  seizure  of  2008  is clearly  visible  in  the  concentration  of  red  and  grey  segments.  The  latter  represent  those periods in which there was no primary issuance or spread data because the markets were effectively closed.
+
+Chart 1
+
+## Market functioning 'heat map' based on issuance and spreads data (a)
+
+
+
+Functioning
+
+
+
+Severely impaired
+
+
+
+Partially functioning
+
+Lack of data
+
+
+
+
+
+impaired
+
+
+
+Sources: Bank of America Merrill  Lynch Global Research, Bloomberg, Dealogic, JPMorgan Chase &amp; Co. and Bank calculations.
+
+(a) Shading is based on a score that reflects, for unguaranteed debt, both issuance (relative to GDP) and spreads in primary markets and secondary markets, expressed as  a  number  of standard deviations from average, using as much data as was available from January 1998. Updated to end-May 2011; recent months use 2011 Q1 GDP.
+
+(b) Insufficient data for UK CMBS secondary markets.
+
+Since the nadir in late 2008, most markets have been on a course of gradual healing. The heat  map  shows  how  issuance  and  spreads  in  these  particular  markets  have  recovered. Advanced  economy  corporate  bond  spreads  have  fallen  back  sharply  since  their  peaks
+
+( Chart 2 ). Measures of volatility and bid-offer spreads across a range of asset classes have also fallen back since the height of the disruption ( Charts 3 and 4 ). And most international equity indices have picked up markedly since their troughs ( Chart 5 ).
+
+Chart 2 Advanced economy corporate bond
+
+## Chart 3
+
+## spreads (a)
+
+
+
+Sources: Bank of America/Merrill Lynch.
+
+- (a) Option-adjusted spreads over  government bond yields.
+
+## Implied volatilities in selected markets (a)(b)
+
+
+
+Sources: Bloomberg, British Bankers' Association, Chicago Mercantile Exchange, Euronext.liffe, JPMorgan Chase &amp; Co. and Bank calculations.
+
+- (a) Three-month option-implied volatilities.
+- (b) Data to close of business on 14 June 2011.
+- (c) WTI crude oil.
+- (d)  Average  of  FTSE  100,  S&amp;P  500  and  Euro Stoxx 50.
+- (e) Average of five-year on-the-run iTraxx Europe main and CDX North America investment-grade.
+- (f) Average of USD/EUR, EUR/GBP and USD/GBP.
+- (g)  Average  of  three-month  short  sterling,  eurodollar and Euribor.
+
+Chart 4 Bid-ask spreads on selected assets (a)(b)(c)
+
+
+
+2005 2006 2007 2008 2009 2010 2011
+
+Sources: Bloomberg, UBS Delta and Bank calculations.
+
+- (a) Monthly moving averages of daily bid-ask spreads.
+- (b) iBoxx € Corporates for corporate bonds; S&amp;P 500 for  equities;  iBoxx  €  Sovereigns  for  government bonds;  sterling/dollar  exchange  rate  for  currencies; gold price for commodities; and euro five-year swaps for interest rate swaps.
+- (c) Data to close of business on 10 June 2011.
+- (d)  End  of  day  bid-ask  spread  until  1  May  2011, average intra-day bid-ask spread thereafter.
+
+This recovery in markets has been neither uniform nor smooth. For example, a number of markets were severely disrupted by concerns about the debt sustainability in Greece, Ireland and  Portugal  in  mid  2010,  and  once  again  during  2011  ( Charts  6  and  7 show  these countries'  bond  spreads  to  German  Bunds  and  sovereign  CDS  premia).  And  a  number  of private  sector  markets,  such  as  the  'own  label'  US  residential  mortgage-backed  securities (RMBS) market and the UK commercial mortgage-backed securities (CMBS) market have seen  very  little,  if  any,  primary  issuance  since  the  crisis. 5 In  part  that  reflects  continued weakness in commercial real estate and (to a lesser extent) residential housing markets. But it  is  also likely to reflect the combination of a large existing stock of ABS and a diminished investor  base  as  many  of  the  funding  mechanisms  have  been  swept  away.  These  factors have slowed the recovery in primary issuance, and suggest that ABS markets are likely to be much smaller in future. Indeed some markets that were at the epicentre of the crisis, such as those for structured collateralised debt obligations (CDOs), may be permanently gone.
+
+5 Just in the past couple of weeks we have seen the first European CMBS to be issued since August 2007. In the United Kingdom, some corporates have issued long-dated fixed-rate bonds secured on real estate as part of  sale  and  leaseback  transactions.  Market  participants,  however,  tend  to  regard  these  transactions  as corporate debt, rather than CMBS.
+
+Chart 5 International equity prices (a )
+
+
+
+Sources:  Bloomberg,  Thomson  Reuters  Datastream and Bank calculations.
+
+- (a) Denominated in units of local currency.
+
+Chart 6 10-year sovereign bond yield spreads to German Bunds
+
+
+
+Sources: Bloomberg and Bank calculations.
+
+Chart 8 Major UK banks' unguaranteed term issuance in public markets (a)
+
+
+
+Sources: Bank of England, Dealogic and Bank calculations.
+
+(a) 2011 Q2 is up to and including 15 June 2011. Term issuance refers here to securities with original contractual  maturity  or  earliest  call  date  of  at  least 18 months. This excludes debt issued under  HM Treasury's Credit Guarantee Scheme.
+
+(b)  It  includes  subordinated  lower  Tier  2  and  Tier  3 capital instruments with debt features.
+
+Despite a number of shocks along the way, markets have been increasing in their resilience over the past two years. For example, UK banks have been able to continue to issue debt in
+
+Chart 7 Selected European sovereign CDS premia
+
+
+
+Source: Thomson Reuters DataStream
+
+Chart 9 Aggregate SLS repayment profiles
+
+£
+
+billions
+
+
+
+both public and private markets during 2011, in spite of renewed sovereign debt concerns, the natural disasters in Japan and civil unrest in the Middle East and North Africa. 6 Moreover, that issuance has been spread across an increasingly diverse range of instruments including, more recently, UK RMBS ( Chart 8 ). This has helped the UK banks alleviate concerns about the  'funding  cliff'  of  official  sector  refinancing  at  the  end  of  2011.  For  example,  it  has facilitated the remarkable pre-emptive reduction in the amount outstanding under the Bank's Special Liquidity Scheme (SLS), from around £90bn at end-February to just £37bn at the end of May ( Chart 9 ).
+
+Chart 10 Credit Default Swap premia (a)(b)
+
+
+
+Sources:  Bloomberg,  Markit  Group  Limited  and  Bank calculations.
+
+- (a) Five-year senior CDS premia. Data are presented as fifteen-day end-period moving averages.
+- (b) Chart shows data for a subset of the major UK banks peer group - Barclays, HSBC, LBG and RBS.
+- (c) December 2010 Financial Stability Report .
+- (d) Average of the CDS premia of companies that were part  of  the  iTraxx  European  non-financial  corporates index  (series  10)  at  the  beginning  of  the  time  series  in this chart.
+
+But this is no time for complacency. UK bank funding costs, as proxied by their CDS premia, remain  elevated  -  both  relative  to  their  historical  average,  and  relative  to  European non-financial corporations' CDS premia ( Chart 10 ). And there remain significant risks going forward.  Sovereign  strains,  and  their  potential  impact  on  the  European  banking  sector  in particular, represent the most immediate and material threat to markets generally and to UK financial stability. As a result, the interim FPC have recommended that the major UK banks provide improved and more comprehensive disclosure of their sovereign and banking sector exposures. There is also event risk associated with the forthcoming publication of the EBA stress test results, if the results are markedly different from market expectations.
+
+6 Market intelligence  suggests  that  the  major  UK  banks  have  raised  around  £25bn  in  private  markets  in  the year-to-date 2011.
+
+## The search for yield/assets
+
+The  significant  recovery  in  many  global  financial  markets  reflects,  in  part,  the  actions  of policymakers around the world. In the United Kingdom, the Bank of England responded to the collapse in economic activity and the risk of deflation by cutting official interest rates and embarking  on  a  programme  of  asset  purchases  financed  by  the  creation  of  central  bank reserves (known as Quantitative Easing). It also separately sought to stimulate markets for corporate debt and commercial paper, and put in place a Special Liquidity Scheme for banks to swap their illiquid collateral for highly liquid T-bills. Other central banks took a variety of similar actions. For example, the Federal Reserve began purchasing a range of private and public  sector  securities  in  large  scale.  And  in  Europe,  the  ECB  responded  by  offering  its counterparty banks unlimited refinancing operations at maturities of up to 12 months.
+
+Despite  these  differences  in  policy,  one  end  result  was  common  -  they  led  to  a  massive expansion of central bank balance sheets ( Chart 11 )  and  a  significant  injection  of  liquidity into  the  global  financial  system.  That  in  turn  pushed  down  yields  on  'safe'  assets, encouraging portfolio rebalancing (one of the key channels through which asset purchases work) and a 'reach for yield'. 7
+
+More recently contacts, especially those in the United States, have reported that the reach for yield has been exacerbated by a perceived reduction in the universe of acceptable assets for  real  money  investors. 8 For  example  major  corporates,  especially  those  in  the  United States,  are  reported  to  be  relatively  cash  rich.  Flow  of  funds  data  suggest  that  the  US corporate sector is holding around $1trn - or 7% of total corporate sector financial assets - in cash.  That  has  led  to  a  reduction  in  US  investment  grade  net  bond  issuance  and  an associated  shortage  of  high-quality  corporate  assets,  at  a  time  when  relative  demand  for those  assets  is  strong.  And  there  has  also  been  a  reduction  in  US  T-bill  issuance,  amid ongoing concerns about the extension of the US government's debt ceiling. Similarly, serious concerns about the creditworthiness of a number of euro-area sovereign issuers have led to a reduction in the quantum of euro-denominated assets perceived to be 'safe', with some US money funds reducing their exposures to European banking sectors. And a number of other structured and synthetic assets, which had been rated AAA prior to the crisis, have recently been shown to be unworthy of that accolade.
+
+7 As  described  by  Janet  Yellen  in  her  recent  speech  'Assessing  potential  financial  imbalances  in  an  era  of accommodative monetary policy'.
+
+8 For an interesting academic exposition of this 'macroeconomic shortage of assets', see Caballero, R, 'A Caricature (Model) of the World Economy', available at http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=1724897
+
+Chart 11 Central bank balance sheets
+
+
+
+Chart 12 US, UK and Euro area GDP
+
+Indices: 2008 Q1 = 100
+
+
+
+Sources: Bloomberg and Bank of England.
+
+Sources:  ONS,  Eurostat  and  Bureau  of  economic analysis.
+
+It is still early days, but the combination of portfolio rebalancing and this reported shortage of specific high-quality assets might have wider implications for financial stability if it encourages investors  to  look  for  additional  yield  by  moving  into  more  illiquid  products  (by investing in new asset classes or in derivatives of more liquid underlying instruments) or into more  complex  products  (which  they  might  not  fully  understand,  and  which  might  not  be appropriately priced for correlation, optionality or underlying credit risk). Market intelligence is crucial  here,  in  that  it  can  provide  us  with  near  real-time  information  about  whether  and where these risks might be building (or eventually crystallising).
+
+So  far,  there  is  little  evidence  of  excessive  risk-taking  on  a  generalised  basis  across  the financial  system.  But  the  intelligence  we  have  gathered  during  2011,  notwithstanding  the recent pull-back in June, has flagged a number of pockets of increasing risk appetite and a few  specific  markets  which  have  been  showing  signs  of  excess.  That  tendency  seems  to have  been  most  prevalent  in  the  United  States,  where  the  financial  and  real  economy recoveries appear somewhat more established than in the UK and the euro area ( Chart 12 ). But during recent discussions, some market participants have noted that this tendency has begun to spread to Europe as well.
+
+One example comes from the high-yield corporate bond markets, where demand has been very strong and where issuance, which reached record levels in 2010, has continued apace in  2011  ( Chart  13 ).  That  is  likely  to  reflect  the  generalised  disintermediation  of  stricken banking  systems  -  for  those  that  are  able  to  tap  capital  markets,  bond  issuance  poses  a useful alternative to bank lending. Moreover the extent of high-yield issuance may reflect the fact that it is smaller businesses, which are likely to be sub-investment grade, who are finding it hardest to secure affordable bank finance. 9 Given oligopolistic banking systems like those in the UK, a deeper and more liquid capital market might help improve the supply of credit to UK businesses. Indeed, recent MI has suggested that there has been some direct lending
+
+9 And  although  the  aggregate  US  corporate  sector  cash  position  is  strong,  it  is  likely  to  mask  significant heterogeneity  in  the  distribution  of  firms,  with  a  disproportionate  share  of  the  cash  held  by  the  largest investment grade businesses.
+
+activity to mid-sized corporates in the UK by non-bank institutions such as dedicated loan, private equity and pension funds (although the absolute amounts are still very small).
+
+Chart 13 Issuance of sub-investment grade corporate debt by region (a)(b)
+
+Chart 14 Corporate bond valuation measure (a)(b)
+
+
+
+Sources: Dealogic and Bank calculations.
+
+(a) Emerging economies includes Africa, Caribbean, Indian  subcontinent, Latin  America,  Middle  East, North  Asia  and  South  East  Asia.  'Other'  includes Australasia and  Japan. Includes issuance in all currencies.
+
+
+
+Sources: Bank of America Merrill Lynch, Bloomberg,  Thomson  Reuters  Datastream  and Bank calculations.
+
+- (a)  Shows  the  difference  between  actual  and estimated  equilibrium  spreads  as  a  percentage. Positive numbers represent overvaluation, negative numbers undervaluation.
+- (b) Equilibrium corporate bond spreads are defined  as  the  total  estimated  credit  component plus  a  five-year  rolling  average  of  the  illiquidity premia. Full details of the approach used for the decomposition of corporate bond spreads can be found in Churm, R and Panigirtzoglou, N (2005), 'Decomposing credit  spreads',  Bank  of  England Working Paper no. 253.
+
+(b) 2011 data are to 3 June 2011
+
+The  Bank's  model-based  estimates  suggest  that  US  high-yield  and  investment  grade corporate debt currently reflect historically low risk premia, and so may be vulnerable to a correction ( Chart 14 ). Moreover although much of the recent issuance reflects refinancing of existing  bonds  or  loans  (with  companies  seeking  to  lock  in  low  interest  rates  and  extend maturities) and M&amp;A activity, there have also been growing reports of US issuance to finance 'dividend  recapitalisations'  (where  debt  is  issued  to  pay  special  dividends).  Issuance  of covenant-lite leveraged loans (which include fewer of the usual protective covenants for the benefit  of  the  lending  party)  was  $34bn  in  the  first  five  months  of  2011,  compared  with $8bn in the whole of 2010. And US contacts have reported renewed issuance of bonds with Payment-in-Kind  (PIK)  toggles  (where  issuers  have  the  option  of  deferring  cash  interest payments,  choosing  instead  to  roll  interest  payments  into  additional  debt  securities). Although  the  incidence  of  these  sorts  of  deals  remains  significantly  below  that  associated with  the  pre-crisis  exuberance,  these  examples  might  be  indicative  of  the  reach  for yield/assets encouraging investors to chase returns via higher risk assets.
+
+Despite the low-yield environment, market contacts have been telling us that some investors' expectations of returns were little changed by the crisis, reflecting a combination of investor inertia and the need to earn sufficient returns to cover their liabilities. But we also hear that investment horizons are often shorter and tolerance of volatility  and  desire  for  leverage  is lower.  Something  clearly  has  to  give  here  -  investors  know  -  and  must  remember  -  that there is no such thing as a free lunch, and that additional return involves additional risk. The
+
+macro-prudential  concern  is  that  the  reach  for  yield  encourages  financial  innovation  and growth  in  some  parts  of  the  financial  system  where  the  risks  are  not  well  understood, 10 especially  if  it  leads  to  greater  interconnectedness  within  the  banking  system.  This  is  one area which is likely to warrant further attention and analysis by the FPC in due course.
+
+## Financial innovation and the emergence/growth of new products
+
+The financial  industry  is  characterised  by  its  tendency  to  innovate,  continuously  designing and offering new financial products to its customers. In my view, financial innovation should be seen as a 'good thing' in normal circumstances. It can lead to a more efficient allocation of capital and a reduction in the costs of financial intermediation, both of which should help sustain real economic growth. For example, the rapid growth of electronic trade execution in the foreign exchange market has increased the speed and ease with which trades can be conducted.  That  should  ultimately  make  international  trade  cheaper,  bringing  with  it  the associated  benefits.  Improvements  in  technology  can,  by  facilitating  wider  market  access, also  lead  to  improved  price  discovery  and  market  liquidity.  Moreover,  innovation  can  help issuers  align  the  risk  characteristics  of  new  products  more  closely  to  those  that  investors demand. In principle, that should promote greater and more efficient sharing and spreading of  risk  across  the  financial  system.  In  essence,  the  recession  which  followed  the  financial crisis  demonstrated  how  much  the  real  economy  depends  on  an  efficient,  functioning financial system.
+
+Financial  innovation  is  a  continuous  process,  and  there  are  many  examples  of  either  new products  or  rapid  growth  in  fashionable  markets  during  the  past  few  years.  For  example during  2010,  there  were  significant  developments  in  bank  funding  instruments  such  as putable  CDs  and  evergreen  repos. 11 These  products  offer  higher  returns  to  investors compared with more conventional instruments, and also improve banks' ability to meet new regulatory rules. There has also been an increase in the prevalence of long-term collateral upgrade trades where, for example, a real money investor lends a bank gilts against less liquid  but  higher  yielding  assets.  Those  repo  transactions  help  the  real  money  investor achieve a higher return, while banks build up their liquid asset buffers and fund their less liquid collateral. In that regard, these repo transactions look quite similar to a private sector version of the SLS. Where appropriate, such transactions can both improve the returns to pension funds and support lending to the real economy. Of course, the authorities need to monitor the extent to which these transactions strengthen the links between the banking and insurance sectors. And it is vital that the insurers fully understand the counterparty credit risk they  are  running,  the  quality  of  the  collateral  they  are  taking  and  how  to  manage  the collateral in the event of default.
+
+The more recent developments in markets for Exchange Traded Funds (ETFs) are another example  of  financial  innovation  and  growth  in  a  previously  small  market.  ETFs  are  in principle a 'good' financial innovation - for example, they offer retail investors a cheaper way of getting exposure to the underlying asset (by cutting out the fund manager) and provide a very liquid asset. Nonetheless, the rapid growth in ETF assets under management - which have  increased  seven-fold  since  2003  ( Chart  15 )  -  merit  attention,  given  it  has  been characterised  by  increasing  complexity,  opacity  and  interconnectedness,  and  as  some practices, if left unchecked, could grow to pose risks to the stability of the financial system. 12
+
+10 That could come about not only through the low yields on safe assets, but also through an increase in the correlation  amongst  safe  assets,  which  might  prompt  reserves  managers  to  seek  new  diversification opportunities, some of which might be met through financial engineering.
+
+11 These products are discussed in more detail in the box on pages 168-169 of the 2010 Q3 Quarterly Bulletin.
+
+12 The Bank first discussed ETFs in a box on pages 40-41 of the June 2010 Financial Stability Report. Since then, ETFs have been the recent focus of much international attention, including at the BIS, the FSB and the IMF (see
+
+BIS central bankers' speeches
+
+Chart 15 Global ETF assets under management
+
+
+
+Source: Blackrock Global ETF Research and Implementations Strategy Team.
+
+(a) Data to end-May 2011
+
+Take  for  example  synthetic  ETFs  provided  by  asset  management  arms  of  banks.  These ETFs  replicate an index return using derivatives but without necessarily physically purchasing the underlying assets. Synthetic ETF providers (typically banks) might have an incentive to collateralise the total return swap with illiquid collateral that is expensive to fund elsewhere in the market. If the swap counterparty defaults on its leg of the transaction, the ETF (and hence the end investor) would be left holding this collateral, which might have very different liquidity and credit characteristics to the securities it originally planned to invest in. In particular, if the investor unwittingly takes on collateral whose value is highly correlated with the ETF provider (i.e. if there is so-called wrong way risk), then the collateral is likely to have relatively little value in the event of default. Some of these issues are discussed in the June Financial Stability Report .
+
+The examples I have cited above involve fundamentally good financial products which should improve economic efficiency and hence the welfare of society as a whole. But the growth of the more opaque version of these products marks them out, and unmonitored excess could compromise  these  markets  in  the  future.  Recent  history  is  rife  with  examples  of  where over-exuberance  has  led  to  opacity,  severe  market  difficulties  and  financial  instability (e.g. the rise of CDO 2 in the securitisation markets). In such cases, the costs of collapse can easily  outweigh  the  previous  benefits.  It  is  important  that  the  authorities  monitor  the  ETF industry and make sure that market participants understand the risks they may be running. It is for that reason that the interim FPC advised the FSA last week that its bank supervisors should monitor closely the risks associated with opaque funding structures, such as collateral swaps or similar transactions employed by ETFs.
+
+http://www.bis.org/publ/work343.pdf, http://www.financialstabilityboard.org/publications/r\_110412b.pdf and the IMF's Global Financial Stability Report (http://www.imf.org/External/Pubs/FT/fmu/eng/2011/02/pdf/0611.pdf) respectively).
+
+## Regulatory responses
+
+The  financial  crisis  exposed  a  need  to  not  just  strengthen  but  to  completely  re-design aspects of financial regulation, to try to find a solution to 'too big to fail' problem and hence minimise the chances of something similar happening again (if financial institutions could fail without  large  spillovers  then  much  other  regulation  might  be  unnecessary).  The  resulting regulatory  agenda  is  formidable  -  including  agreeing  the  detailed  rules  supporting  Dodd Frank in the US; EMIR and Solvency II in Europe; the new Basel rules on capital and liquidity including the SIFI surcharge internationally; the final outcome of the ICB in the UK; various FSB initiatives and many more besides. I do not intend today to discuss the merits of the various ongoing regulatory initiatives. Rather I want to briefly comment objectively on their impact on the state of financial markets.
+
+It  is  clear that many individual regulatory initiatives are not yet parameterised or sufficiently detailed  for  market  participants  to  anticipate  their  effects  fully.  And  the  extent  to  which regulations  might  eventually  differ  across  geographical  and  legal  jurisdictions  is  also  still unclear.  There  is  no  implied  criticism  here  -  re-designing  the  regulatory  frameworks  for, among others, banks, insurance companies and rating agencies, takes time, and a lasting, well-planned  robust  set  of  regulations  that  will  stand  for  many  years  to  come  is  surely preferable  to  a  hastily-agreed  but  inadequate  framework.  The  authorities  nationally  and internationally are pushing the agenda hard to come up with the right decisions as quickly as possible.
+
+The  progress  of  the  regulatory  agenda  has,  however,  created  additional  uncertainty  in financial  markets  which  is  reflected  in  investor  behaviour  and  in  some  market  prices.  For example,  market  intelligence  suggests  that  it  is  one  of  the  factors  contributing  to  the continued  elevated  funding  costs  for  many  banks.  In  due  course,  the  various  regulatory initiatives will produce detailed rules. As that happens one can expect a variety of reactions. On  one  level,  there  is  likely  to  be  some  shift  of  activity  between  markets  and  business models as participants evaluate where the new rules establish new incentives. Beyond that, there might well be some general improvement in market functioning, reflecting the reduction in regulatory uncertainty and the more resilient financial system that the regulatory agenda is designed to deliver. At the moment, market intelligence suggests that market participants are focussed  on  the  elevated  uncertainty  and  have  not  yet  anticipated  the  benefits  of,  for example, a safer banking system.
+
+## Conclusion
+
+Financial markets have come a long way since the epicentre of the crisis in 2008, with many markets that were significantly impaired in the crisis now functioning well. That progress is encouraging  in  terms  of  financial  stability  and  support  for  the  real  economy,  but  further healing is still required. Looking ahead, there are some clear obstacles to that process. The sovereign debt crisis, currently focussed on the euro area, is one. And the general recovery in the macroeconomic outlook is another. There will also be a lot of uncertainty embedded in markets until final details are available on the majority of the regulatory agenda. That agenda must  be  allowed  to  take  sufficient  time  to  get  the  right  answers,  but  as  these  become available we should expect to see further improvements in market functioning. Meanwhile, the authorities will need to pay particular attention to the next rounds of financial innovation, especially given the prolonged low interest rate environment.

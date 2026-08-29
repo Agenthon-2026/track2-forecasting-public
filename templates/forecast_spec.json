@@ -1,0 +1,50 @@
+{
+  "schema_version": "2",
+  "card_id": "TEMPLATE_CARD_ID",
+  "track": "forecasting",
+  "card_family": "TEMPLATE_FAMILY",
+  "_comment": "Track-2 forecasting DATA-SPEC (panels/targets/scoring). This is NOT the per-file checksum manifest. The canonical checksum manifest is manifest.json (manifest_version 2.0, unit_id, files[]); a data-spec must not be named manifest.json or qfbench2_common.manifest.verify_manifest will reject it for having no files[] array. NOTE the two different uses of 'frequency': panels[].frequency is how often the PANEL is observed, while targets.horizons are always in BUSINESS DAYS. The two were previously inconsistent in this template -- a monthly panel paired with a 21-business-day horizon -- which is the kind of contradiction an author copies without noticing.",
+  "panels": [
+    {
+      "panel_id": "TEMPLATE_PANEL_ID",
+      "source": "TEMPLATE_SOURCE",
+      "series_count": 0,
+      "frequency": "business_daily",
+      "start_date": "TEMPLATE_START",
+      "end_date": "TEMPLATE_ASOF"
+    }
+  ],
+  "targets": {
+    "asset_ids": [
+      "TEMPLATE_ASSET_1"
+    ],
+    "horizons": [
+      21
+    ],
+    "target_type": "level",
+    "n_assets": 1
+  },
+  "output_format": "samples",
+  "n_draws_min": 200,
+  "scoring": {
+    "verifier": "t2.crps_composite",
+    "metric": "crps_composite",
+    "weights": {
+      "marginal": 0.5,
+      "joint": 0.3,
+      "tail": 0.2
+    },
+    "tail_levels": [
+      0.01,
+      0.05,
+      0.95,
+      0.99
+    ]
+  },
+  "leakage_checked": false,
+  "canary_guid": "TEMPLATE_REPLACE_WITH_UNIQUE_UUIDv4",
+  "created_by": "TEMPLATE_AUTHOR",
+  "created_date": "TEMPLATE_DATE",
+  "_output_format_note": "'samples' is the ONLY accepted representation. 'parametric' was advertised by the shared schema, implemented by nothing, and was a route past the 200-draw floor; the scorer refuses it.",
+  "_n_draws_note": "n_draws_min is AUTHORITATIVE: the reference producer honours it and the scorer enforces a floor of 200 and a ceiling of 20000 in code, independently of the JSON Schema."
+}

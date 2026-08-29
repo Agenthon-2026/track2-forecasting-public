@@ -1,0 +1,57 @@
+{
+  "card_id": "t2-F4-svb-whiplash-2023",
+  "asof": "2023-03-08",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beige_book-2023-01-31",
+      "timestamp": "2023-01-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202301.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2023-02-01",
+      "timestamp": "2023-02-01",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20230201.txt"
+    },
+    {
+      "doc_id": "macro_release-2023-02-14",
+      "timestamp": "2023-02-14",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2023-02-14.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20230201",
+      "timestamp": "2023-02-22",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20230201_released_2023-02-22.txt",
+      "note": "minutes of the 20230201 meeting, public release 2023-02-22"
+    },
+    {
+      "doc_id": "bis_powell_2023-03-07",
+      "timestamp": "2023-03-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_powell_2023-03-07.txt"
+    },
+    {
+      "doc_id": "svb_8k_2023-03-08_d430920dex991",
+      "timestamp": "2023-03-08",
+      "source": "SEC EDGAR (8-K exhibit)",
+      "doc_type": "corporate_8k",
+      "file": "svb_8k_2023-03-08_d430920dex991.txt"
+    },
+    {
+      "doc_id": "svb_8k_2023-03-08_d430920dex992",
+      "timestamp": "2023-03-08",
+      "source": "SEC EDGAR (8-K exhibit)",
+      "doc_type": "corporate_8k",
+      "file": "svb_8k_2023-03-08_d430920dex992.txt"
+    }
+  ]
+}

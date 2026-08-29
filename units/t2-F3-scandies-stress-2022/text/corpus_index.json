@@ -1,0 +1,35 @@
+{
+  "card_id": "t2-F3-scandies-stress-2022",
+  "asof": "2022-09-23",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beige_book-2022-07-31",
+      "timestamp": "2022-07-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202207.txt"
+    },
+    {
+      "doc_id": "powell_jackson_hole_2022",
+      "timestamp": "2022-08-26",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "powell_jackson_hole_2022.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2022-09-21",
+      "timestamp": "2022-09-21",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20220921.txt"
+    },
+    {
+      "doc_id": "boe_mpc_statement_20220922",
+      "timestamp": "2022-09-22",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "boe_mpc_statement_20220922.txt"
+    }
+  ]
+}

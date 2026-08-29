@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F4-momentum-reversal-2009",
+  "asof": "2009-03-06",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2009-01-28",
+      "timestamp": "2009-01-28",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20090128.txt"
+    },
+    {
+      "doc_id": "bis_papademos_2009-02-11",
+      "timestamp": "2009-02-11",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_papademos_2009-02-11.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20090128",
+      "timestamp": "2009-02-18",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20090128_released_2009-02-18.txt",
+      "note": "minutes of the 20090128 meeting, public release 2009-02-18"
+    },
+    {
+      "doc_id": "bis_gieve_2009-02-19",
+      "timestamp": "2009-02-19",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_gieve_2009-02-19.txt"
+    },
+    {
+      "doc_id": "beige_book-2009-03-04",
+      "timestamp": "2009-03-04",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_200903.txt"
+    }
+  ]
+}

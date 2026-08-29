@@ -1,0 +1,180 @@
+Michelle W Bowman: Michelle W Bowman: Perspectives on US monetary policy and bank capital reform
+2024-06-25
+
+For release on delivery 7:00 a.m. EDT (noon local time) June 25, 2024
+
+Perspectives on U.S. Monetary Policy and Bank Capital Reform
+
+Remarks by
+
+Michelle W. Bowman
+
+Member
+
+Board of Governors of the Federal Reserve System at
+
+Policy Exchange
+
+London, England
+
+June 25, 2024
+
+I would like to thank Policy Exchange for the invitation to speak with you today. ! Engagement abroad is essential for gaining a better understanding of the common forces shaping the global economy and financial system. It also promotes a better understanding of the drivers of differences between the economic and financial environments across countries and jurisdictions. My remarks will offer some perspectives on recent developments in monetary policy and bank regulatory policy— specifically, bank capital reform—in the U.S. These are two areas in which I am actively engaged as a member of the Board of Governors of the Federal Reserve System.
+
+## Monetary Policy
+
+I'll begin with monetary policy. The Federal Open Market Committee (FOMC)—the monetary policymaking body of the Federal Reserve System—has been keenly focused on restoring price stability following the surge in inflation during 2021 and in 2022 in the aftermath of the global COVID-19 pandemic. During this time, inflation reached levels not seen in the U.S. since the 1970s and 1980s. The high inflation experienced in the U.S. in the wake of the pandemic was also experienced in many economies around the world, reflecting, in part, the common global nature of the shocks that occurred during the COVID-19 pandemic.
+
+In many economies during the pandemic, supply constraints related to socialdistancing measures, reduced labor supply, and supply chain disruptions, coupled with strong demand for goods as economies emerged from pandemic restrictions, acted as catalysts, pushing inflation up to very high levels. Aggregate demand was also supported by accommodative monetary and fiscal policies, which served to bolster the balance
+
+' The views expressed here are my own and are not necessarily those of my colleagues on the Federal Open Market Committee or the Board of Governors of the Federal Reserve System.
+
+sheets of households, businesses, and local governments, and contributed to very tight labor markets.
+
+The global inflation experience since the pandemic was highly synchronized across the major world economies, reflecting similar shocks that acted to reduce supply, while fiscal and monetary policy interventions stimulated demand. Early in the pandemic, many economic sectors, especially in services, were affected by lockdowns and both mandatory and voluntary social distancing. Many workers also transitioned to working remotely. Aggressive fiscal policies helped support personal and business income, and monetary policy became highly accommodative. The large shift in the composition of demand toward goods resulted in rising supply bottlenecks and higher goods prices.
+
+Reduced immigration and lower labor force participation led to very tight labor markets as the economy reopened and demand recovered. Consumer spending was supported by excess savings accumulated from extraordinary fiscal support and reduced spending during lockdowns. Wage growth and services price inflation also picked up and have remained persistently elevated, reflecting a tight labor market and the protracted adjustment of prices and wages to the shocks during the pandemic.
+
+A sharp rise in food and energy price inflation, and their pass-through to core inflation, also contributed to a more synchronous inflation dynamic across major advanced foreign economies in recent years. Food and energy prices are mostly set in global markets, and their sharp increases also reflected the effects of Russia's invasion of Ukraine in early 2022, especially for major European economies including the U.K.
+
+Many central banks facing these dynamics tightened monetary policy in an effort to better balance demand and supply and to bring inflation back down to target. In the U.S., by late 2021, it became clear that the FOMC's monetary policy stance was too accommodative in the presence of growing inflationary pressures, due to broader and more persistent supply constraints, and that the Committee needed to move toward a tighter policy. It seems likely to me that the U.S. experience during the years leading up to the pandemic, when inflation was persistently low, made it hard for many to foresee how quickly that situation could change. Additionally, the domestic inflation and labor data did not accurately reflect the economic conditions prevailing at the time and were subsequently substantially revised."
+
+In my view, these factors, combined with new forward guidance introduced in the September and December 2020 FOMC statements following the revisions to the Committee's monetary policy strategy consensus statement in August 2020, contributed to a delay in the removal of monetary policy accommodation in 2021.34 In late 2021, the
+
+? For example, both the August and September 2021 employment reports suggested much lower job growth than did consensus forecasts, and these initial estimates were subsequently sizably increased. Similarly, total personal consumption expenditures (PCE) inflation for nearly all quarters in 2021 has been revised higher than initially reported. See the real-time data on the Federal Reserve Bank of St. Louis's ALFRED website at https://alfred.stlouisfed.org/series/downloaddata?seid=PA YEMS (job growth) and https://alfred.stlouisfed.org/series/downloaddata?seid=PCECTPI (PCE inflation).
+
+3 See Michelle W. Bowman (2024), "Risks and Uncertainty in Monetary Policy: Current and Past Considerations," speech delivered at "Frameworks for Monetary Policy, Regulation, and Bank Capital" Spring 2024 Meeting of the Shadow Open Market Committee, hosted by the Manhattan Institute, New York, New York, April 5, https://www.federalreserve.gov/newsevents/speech/bowman20240405a.htm. 4 The new forward guidance in the September 2020 FOMC statement emphasized that the federal funds rate would remain near zero until "inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time" (paragraph 4) and "labor market conditions have reached levels consistent with the Committee's assessments of maximum employment" (paragraph 4). In the December 2020 FOMC statement, the FOMC added forward guidance regarding asset purchases that stated that the Federal Reserve would continue to purchase Treasury and agency mortgage-backed securities at the then current pace of $80 billion and $40 billion per month, respectively, "until substantial further progress has been made toward the Committee's maximum employment and price stability goals" (paragraph 4). (The September and December 2020 FOMC statements are available on the Board's website at
+
+FOMC did begin to move toward tightening the stance of monetary policy and, beginning in 2022, increased the policy rate rapidly to bring monetary policy into restrictive territory. Since March 2022, the FOMC has raised the target range of the federal funds rate by 5-1/4 percentage points. The target range has remained at 5-1/4 to 5-1/2 percent since July 2023. Since June 2022, the Federal Reserve has also been reducing its securities holdings, which had increased substantially during the pandemic period.
+
+The tightening in monetary policy has had an effect. Over 2023, we saw significant progress on lowering inflation in the U.S. while the economy and labor market have remained strong. The 12-month change in core personal consumption expenditures (PCE) prices slowed to 2.9 percent in December 2023, nearly 2 percentage points less than one year earlier. The restrictive stance of monetary policy reduced demand-side inflation pressures. Rising interest rates continued to act as a drag on growth of residential and business investment, outside of an increase in construction of new electric vehicle battery and microprocessor factories. Labor demand also moderated, contributing to some loosening of labor market tightness. The job openings and quits rates fell and payroll employment gains slowed significantly throughout last year.°
+
+Some of the progress on inflation last year also reflected favorable supply-side developments, including the resolution of supply chain disruptions and increased labor
+
+forward guidance followed the August 2020 revisions to the FOMC's Statement on Longer-Run Goals and Monetary Policy Strategy, which are described on the Board's website at
+
+https://www.federalreserve.gov/monetarypolicy/guide-to-changes-in-statement-on-longer-run-goalsmonetary-policy-strategy.htm.
+
+5 The Quarterly Census of Employment and Wages (QCEW) report for the fourth quarter of 2023 suggests that the slowdown in payroll employment gains was likely more pronounced than currently reported by the Current Employment Statistics (CES) establishment survey. The Q4 QCEW administrative data show employment gains that are about 110,000 per month lower than what the CES survey reported from March 2023 to December 2023. Although the BLS benchmarks CES payroll employment based on the Q1 QCEW, to be released on August 21, the Q4 QCEW data point to a substantial downward revision to CES employment gains last year.
+
+supply—both from higher immigration and higher labor force participation of prime-age workers—as well as lower energy prices.
+
+Since the beginning of 2024, however, we have seen only modest further progress on inflation. The 12-month measures of total and core PCE inflation have moved roughly sideways or slightly down since December and remained elevated at 2.7 percent and 2.8 percent, respectively, in April. The consumer price index (CPI) report for May showed 12-month core CPI inflation slowing to 3.4 percent from 3.6 percent in April. However, with average core CPI inflation this year through May running at an annualized rate of 3.8 percent, notably above average inflation in the second half of last year, I expect inflation to remain elevated for some time.
+
+Recent data suggest some moderation in economic activity early this year. Firstquarter gross domestic product growth was slower than in the second half of last year, though private domestic final purchases continued to rise at a solid pace. Continued softness in consumer spending and weaker housing activity early in the second quarter also suggest less momentum in economic activity so far this year.
+
+Payroll employment continued to rise at a solid pace in April and May, though slightly slower than in the first quarter, partly reflecting increased immigrant labor supply. Despite some further rebalancing between supply and demand, the labor market remains tight. The unemployment rate edged up to 4.0 percent in May, while the number of job openings relative to unemployed workers declined further to near its pre-pandemic level. Labor force participation dropped back to 62.5 percent in May, which suggests no further improvement in labor supply along this margin, as labor force participation among those aged 55 or older has been persistently low.
+
+In contrast to the past two years, it is possible over the coming months that the path of monetary policy in the U.S. will diverge from that of other advanced economies, including the U.K., as the underlying economic developments and outlooks across jurisdictions exhibit greater heterogeneity. Inflation and labor market developments in the U.S. have unfolded differently in recent quarters compared to many other advanced economies, likely reflecting a more open immigration policy and significantly larger discretionary fiscal stimulus since the pandemic.
+
+Economic activity in the U.S. has recovered considerably more than in other advanced foreign economies, including in the U.K. This likely reflects higher levels of fiscal support and productivity growth in the U.S. compared to other major economies. ° A more flexible labor market in the U.S. likely allowed for greater movement of workers across sectors following the COVID-19 shock, with higher unemployment in the early stages of the pandemic followed by stronger job creation during the recovery.
+
+A rebound in new business formation in the U.S. also likely enhanced productivity growth in recent years. With economic activity remaining weaker in other advanced foreign economies than in the U.S. and given differing economic and inflation outlooks in their own jurisdictions, central banks in these economies may ease monetary policy sooner or more quickly than in the U.S.
+
+Inflation in the U.S. remains elevated, and I still see a number of upside inflation risks that affect my outlook. First, it is unlikely that further supply-side improvements will continue to lower inflation going forward, as supply chains have largely normalized,
+
+6 See Francois de Soyres, Joaquin Garcia-Cabo Herrero, Nils Goernemann, Sharon Jeon, Grace Lofstrom, and Dylan Moore (2024), "Why Is the U.S. GDP Recovering Faster Than Other Advanced Economies?" FEDS Notes (Washington: Board of Governors of the Federal Reserve System, May 17), https://doi.org/10.17016/2380-7172.3495.
+
+the labor force participation rate has leveled off in recent months below pre-pandemic levels, and an open U.S. immigration policy that added millions of new immigrants in the U.S. over the past few years may become more restrictive.
+
+Geopolitical developments could also pose upside risks to inflation, including the risk that spillovers from regional conflicts could disrupt global supply chains, putting additional upward pressure on food, energy, and commodity prices. There is also the risk that the loosening in financial conditions since last year, reflecting considerable gains in equity valuations, and additional fiscal stimulus could add momentum to demand, stalling any further progress or even causing inflation to reaccelerate.
+
+Finally, there is a risk that increased immigration and continued labor market tightness could lead to persistently high core services inflation. Given the current low inventory of affordable housing, the inflow of new immigrants to some geographic areas could result in upward pressure on rents, as additional housing supply may take time to materialize. With labor markets remaining tight, wage growth has been elevated at around or above 4 percent, still higher than the pace consistent with our 2 percent inflation goal given trend productivity growth.
+
+In the U.S., the FOMC pursues monetary policy in support of price stability and maximum employment. These goals mandated to the Federal Reserve by the U.S. Congress are focused on domestic economic conditions. However, international economic and financial developments can influence U.S. monetary policy to the extent that these developments affect the economic outlook for the U.S. For example, weaker foreign activity and an appreciation of the dollar driven by easier monetary policy abroad would both reduce foreign demand for U.S. exports and lower the outlook for economic
+
+growth in the U.S. Likewise, geopolitical developments or trade restrictions could affect the outlook for the prices of energy, food, and goods.
+
+Looking ahead, I will be closely watching the incoming data as I assess whether monetary policy in the U.S. is sufficiently restrictive to bring inflation down to our 2 percent goal over time. The extent and frequency of revisions to U.S. economic data since the pandemic have made the task of assessing the current state of the economy and the outlook even more challenging. My baseline outlook continues to be that U.S. inflation will return to the FOMC's 2 percent goal, with the target range of the federal funds rate held at its current level of 5-1/4 to 5-1/2 percent for some time. Should the incoming data indicate that inflation is moving sustainably toward our 2 percent goal, it will eventually become appropriate to gradually lower the federal funds rate to prevent monetary policy from becoming overly restrictive.
+
+However, we are still not yet at the point where it is appropriate to lower the policy rate. In my view, we should consider a range of possible scenarios that could unfold when considering how the FOMC's monetary policy decisions may evolve. I remain willing to raise the target range for the federal funds rate at a future meeting should progress on inflation stall or even reverse. Given the risks and uncertainties regarding my economic outlook, I will remain cautious in my approach to considering future changes in the stance of policy. Reducing our policy rate too soon or too quickly could result in a rebound in inflation, requiring further future policy rate increases to return inflation to 2 percent over the longer run.
+
+## Bank Capital Reform
+
+I will now briefly touch on bank capital reforms, which are particularly important when it comes to our global and interconnected banking and financial systems. The U.S. has lagged its EU and U.K. counterparts in fully implementing the Basel III capital standards. In July 2023, the U.S. federal banking agencies issued a public consultation on implementing what we call the Basel III "endgame" capital reforms.'
+
+The U.S. proposal was notable for a number of reasons, but I would highlight two in particular. First, the U.S. proposal would significantly expand the scope of application and calibration of these capital requirements. And, second, this proposal went beyond the Basel framework in several areas, undermining the goal of increasing consistency in capital standards across jurisdictions and potentially creating competitive concerns. The response to the U.S. capital proposal was overwhelmingly negative from a broad range of commenters.
+
+## Calibration and scope
+
+A key consideration in evaluating reform efforts is whether the benefits of a change outweigh the costs, both for the financial institutions subject to these reforms and for the broader economy. The benefits of reform, like Basel III, are clear—on a basic level, higher capital can make the banking system safer. At a minimum, this increased safety comes at a cost; in its more extreme forms, it can actually increase financial stability risks.
+
+7 See Governor Bowman's dissenting statement on the proposed rule to implement the Basel III endgame agreement for large banks; Michelle W. Bowman (2023), "Statement by Governor Michelle W. Bowman," press release, July 27, https://www.federalreserve.gov/newsevents/pressreleases/bowman-statement20230727.htm.
+
+The Basel III proposal in the U.S. is complex and, if it were to apply today as proposed, could have very significant, detrimental impacts. Federal Reserve staff estimated that the proposed changes would result in an aggregate 20 percent increase in total risk-weighted assets across bank holding companies subject to the rule, with some commenters projecting much greater effects.* And, instead of these standards applying only to large, internationally active banks, the U.S. proposal would "push down" these standards to a much broader range of domestic institutions.
+
+A change of this significance could impact U.S. market liquidity and lending as well as force firms that lack sufficient economies of scale to stop providing certain products and services. Capital increases of this scale could reduce the cost and availability of credit, particularly for certain types of loans, and could disproportionately harm underserved markets, businesses, and communities. In my view, the proposal insufficiently considered these direct costs. These are costs that would ultimately be imposed on bank customers.
+
+Of course, the evaluation of reforms should not end at their direct costs. Many of the costs are indirect or unintended and may be substantial, creating further concerns, including risks to financial stability. These reforms could create an exodus of activities and products from the banking system due to the indirect costs and unintended consequences.
+
+8 See, for example, Financial Services Forum, American Bankers Association, Bank Policy Institute, and Securities Industry and Financial Markets Association (2023), "Comments on Regulatory Capital Rule: Large Banking Organizations and Banking Organizations with Significant Trading Activity," December 22, https://www.federalreserve.gov/SECRS/2023/December/2023 1229/R-1813/R-
+
+1813\_ 122223 156400\_337982526593\_1.pdf (noting that for the largest U.S. firms, the proposal would result in a greater than 30 percent increase in capital requirements, and a greater than 33 percent increase in risk-weighted assets).
+
+Over time, activity tends to migrate to where it can be conducted efficiently and at the least cost. Capital requirements can play a significant role in determining where and by whom an activity is conducted. Banks are often best positioned to provide financial products and services due to their expertise and experience as well as their requirement to operate safely and soundly. When the over-calibration of regulatory costs becomes too significant, activities often migrate out of banks and into the nonbank financial system, potentially leading to greater systemic risks.
+
+Up until this point, I have focused primarily on the "cost" side of the analysis, and I think it is fair to characterize the direct and indirect costs of the proposed Basel III rule as substantial. But we must also measure these costs against the benefits such capital increases could provide.
+
+As a starting point for this analysis, we must evaluate the current state of the banking system. In the U.S., given the increase in capital following the 2008 financial crisis, I do not see undercapitalization of large banks as a current vulnerability. While some have argued that large capital increases should be part of the regulatory response following the 2023 U.S. banking stress, I think this argument lacks a solid foundation.
+
+First, as we know, the Basel reforms were being developed long before last year's banking stress. The U.S. proposal included regulatory changes that had previously been considered and rejected as part of the Basel III implementation—specifically, a significant accounting change regarding the treatment of unrealized losses on securities portfolios.? While revisiting this one element of Basel III has been used to try tying the
+
+° See Board of Governors of the Federal Reserve System and Office of the Comptroller of the Currency (2013), "Regulatory Capital Rules: Regulatory Capital, Implementation of Basel III, Capital Adequacy, Transition Provisions, Prompt Corrective Action, Standardized Approach for Risk-weighted Assets, Market
+
+rulemaking initiative to the regulatory response to the bank failures last spring, the majority of the proposed changes are unrelated to last spring's banking stress.
+
+Second, linking this rulemaking to the banking stress implies that the causes of individual bank failures in the spring of 2023 were in some way a signal of broader banking system weakness, which could best be addressed by significant capital increases.
+
+This argument seems to rely on the philosophy that more capital makes stronger banks, regardless of costs and tradeoffs, or possible more efficient approaches. Linking the proposed capital increases to the bank failures in the spring of 2023 should not be used as a pretext to avoid the challenges of identifying and evaluating the tradeoffs involved with setting capital requirements, nor should it excuse regulators from taking a hard look at the root causes of the bank failures with the goal of identifying more targeted solutions than across-the-board capital increases.
+
+In the case of Silicon Valley Bank (SVB), both bank management and supervisors failed to appreciate, appropriately identify, and mitigate the known, significant, and idiosyncratic risks of a business model that relied on a highly concentrated, uninsured base of depositors. They also overlooked the buildup of interest rate risk without appropriate risk management. These management failures arguably support an honest and critical look at how supervision was conducted in the lead-up to the firm's failure. And it would then be appropriate to propose changes to remediate those deficiencies. But the failures did not suggest either that "capital" was the major problem contributing to SVB's failure or that was a broader in the undercapitalization problem banking system.
+
+Discipline and Disclosure Requirements, Advanced Approaches Risk-Based Capital Rule, and Market Risk Capital Rule," final rule, Federal Register, vol. 78 (October 11), pp. 62018-291.
+
+## Basel III capital reforms and international consistency
+
+Before discussing the path ahead, I will also address one of the factors that should be a focus for regulatory reforms that may resonate in this forum: the issue of international comparability and competitive disadvantages. One of the primary purposes of the Basel capital standards is to promote minimum standards across jurisdictions that not only improve competitive equity in banking markets, but also result in making the financial system safer.
+
+While I have expressed some skepticism of the U.S. Basel III proposal, I see value in engaging in ongoing discussions about international coordination through multilateral organizations like the Basel Committee on Banking Supervision. Some degree of consistency in international banking and financial markets can be helpful in fostering a cross-border level playing field for internationally active banking organizations while establishing minimum standards that can help mitigate global financial stability risks.
+
+In internationally active banking and financial markets, there are often "choices" about where activity can be conducted. Financial products and services are offered around the world in different markets, and there is often some degree of flexibility as to how a customer can access a product or service. This competitive "choice" aspect of international banking and financial markets can itself create downward pressure on regulatory standards and create opportunities for forum shopping.
+
+In the absence of some degree of international coordination, there is a risk of creating a regulatory "race to the bottom," as regulators compete to grow their banking and financial systems by lowering regulatory and supervisory standards below levels that
+
+are appropriate based on risk. But this desire for greater international consistency can be equally frustrated when U.S. regulators excessively calibrate requirements. As I previously noted, the U.S. proposal was calibrated at a level well in excess of other international jurisdictions as well as without sufficient analytical support and evidence that the proposed increases were proportionate to risk.
+
+This is not only a problem for international competitive equity, but also a concern for global financial stability. Significant banking activities occur in the international and cross-border context, and we know that financial stability risks can spread throughout global financial markets. The U.S. Basel proposal reflects elements of the agreed-upon standards, but it far exceeds them. Adjusting the calibration could have the important secondary benefit of enhancing this international consistency.
+
+## The path forward
+
+Notwithstanding what has brought us to this point, I do see a path forward to implement Basel III, one that addresses not only the overall calibration as well as international consistency and comparability, but also makes more granular changes that will improve the effectiveness and efficiency of the rule.
+
+In October 2023, the Federal Reserve launched a data collection to gather information from the banks affected by the U.S. proposal. I am hopeful that this data will allow regulators to better understand the impact of the proposal and to identify areas for revision. Any next step in this rulemaking process will require broad and material changes. It should also be accompanied by a data-driven analysis of the proposal and informed by the significant public input received during the rulemaking process. This should assist policymakers in creating a path to improve the rulemaking. My hope is that
+
+policymakers pay closer attention to the balance of costs and benefits and consider the direct and indirect consequences of the capital reform.
+
+I have previously identified a number of specific areas and procedural steps that would be necessary to address in any future efforts to revise this proposal. Some of these issues include
+
+- addressing redundancy in the capital framework (for example, between the new market risk and operational risk requirements, and the stress capital buffer)
+- recalibrating the market risk rule specifically, where some of the biggest outlier increases in risk-weighted assets would appear (for example, these revisions alone will increase risk-weighted assets from $430 billion to $760 billion for Category I and II firms, and from $130 billion to $220 billion for Category III and IV firms)
+- adopting a more reasonable treatment for non-interest and fee-based income through the operational risk requirements, which could deter banks from diversifying revenue streams, even though such diversification can enhance an institution's stability and resilience
+- reviewing the impact of capital requirements, including leverage ratio requirements, on U.S. Treasury market intermediation and liquidity
+- incorporating tailoring in the applicability of Basel III capital reforms, specifically looking at whether each element of the Basel III capital proposal is appropriate for non-G-SIB firms that are not internationally active
+
+- e re-proposing the Basel III standards to address the broad and material reforms that I believe should be included in any final rule, including granular changes to address the specific issues raised by commenters, as appropriate. '°
+
+While these steps would be a reasonable starting place, they are not a replacement for a data-driven analysis and a careful review of the comments submitted. This would result in a better proposal that includes changes to address not only these concerns, but also many other concerns raised by the public.
+
+## Closing Thoughts
+
+I would like to thank you again for the opportunity to speak with you today. My experience over the past five and a half years at the Federal Reserve highlights the enduring challenge of setting monetary policy amid a wide and evolving range of risks and uncertainties in the global economy. An important question I will be considering is how to make monetary policy durable to a wide range of possible shocks and changes in the macroeconomy, such as those experienced globally during the pandemic.
+
+We will continue to learn about the post-pandemic global economy, and, if history is any guide, new shocks to and changes in the economy will eventually and inevitably occur. While the economic outlook is uncertain, the FOMC's mandate of fostering price stability and maximum employment in the U.S. remains very clear. Restoring price stability is essential for achieving maximum employment over the longer run.
+
+'0 See Bowman, "Statement by Governor Michelle W. Bowman," in note 7; Michelle W. Bowman (2023), "Remarks on the Economy and Prioritization of Bank Supervision and Regulation," speech delivered at the New York Bankers Association's Financial Services Forum, Palm Beach, Florida, November 9, https://www.federalreserve.gov/newsevents/speech/files/bowman20231109a.pdf; Michelle W. Bowman (2024), "The Path Forward for Bank Capital Reform," speech delivered at Protect Main Street, sponsored by the Center for Capital Markets at the U.S. Chamber of Commerce, Washington, D.C., January 17, federalreserve.gov/newsevents/speech/files/bowman202401 17a.pdf.
+
+I also look forward to ongoing international discussions about bank capital and regulatory frameworks, and I hope that my brief remarks today relay both my support for ongoing international discussions on these matters and my firm belief that we must engage in regulatory reform efforts with our eyes wide open, acknowledging the benefits, costs, and tradeoffs.
+
+While our interconnected banking and financial system provides many benefits, we must also continue to focus on the opportunities it creates for financial stability risks to shift from domestic concerns to global vulnerabilities. Bank capital policy is an important measure to control these risks, but we know that capital is only one of many tools in our supervisory arsenal. And it is insufficient without the complement of other regulatory tools.
+
+So, as we continue the process of considering regulatory reform, I hope that we approach every issue with a broader lens, focusing on data-driven identification of the problems we are trying to solve, and with an openness to solving these problems in a more targeted and efficient way.

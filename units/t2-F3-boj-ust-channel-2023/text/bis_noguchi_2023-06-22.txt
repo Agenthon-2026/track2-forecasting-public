@@ -1,0 +1,338 @@
+Asahi Noguchi: Asahi Noguchi: Economic activity, prices, and monetary policy in Japan
+2023-06-22
+
+
+
+Bank  of  Japan J u n e   2 2 ,   2 0 2 3
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Local Leaders in Okinawa
+
+## NOGUCHI Asahi
+
+Member of the Policy Board
+
+(English translation based on the Japanese original)
+
+## I. Economic Activity and Prices
+
+## A. Economic Developments at Home and Abroad
+
+I will begin my speech by talking about recent economic developments at home and abroad.
+
+The  global  macroeconomic  landscape  has  changed  significantly  with  the  COVID-19 pandemic that began in 2020 marking a divide: the global economy is now experiencing a high-inflation, high-interest rate environment more or less for the first time since the 1970s, having transformed from a low-inflation, low-interest rate  environment known as secular stagnation. In the United States and Europe, rapid inflation began around spring 2021, when these economies began to emerge from the pandemic driven by widespread vaccination, and by 2022, inflation rates had reached around 8 to 10 percent (Chart 1). In this situation, central banks in these economies have rapidly raised their policy interest rates in order to contain high inflation (Chart 2). As I will touch on later, a tightening of labor market conditions that had  taken  place  as  economies  began  to  emerge  from  the  pandemic  can  be  pointed  to  as background to the rapid inflation. However, labor market conditions have remained tight in these economies amid a moderate economic slowdown due to the policy interest rate hikes, and nominal wages have continued to rise at a pace above the historical trend. Given this situation, the monetary tightening phase is expected to continue, and the global economy is likely to continue decelerating for the time being (Chart 3).
+
+I will now turn to developments in Japan's economy. The economy has continued to pick up as  consumption,  particularly  in  the  face-to-face  services  industry,  has  been  increasing moderately with the impact of COVID-19 waning, although exports and industrial production have been more or less flat amid the continued slowdown in overseas economies (Chart 4). As for the outlook, although such slowdown is likely to continue for some time, I expect Japan's  economy  to  recover  moderately  on  the  back  of  the  following  factors:  (1)  further expansion in inbound tourism demand against the background of the yen's depreciation; (2) full-fledged  normalization  of  the  face-to-face  services  industry  with  the  downgrading  of COVID-19 to a Class V infectious disease; (3) easing of supply-side constraints that had remained in some areas, such as semiconductors; as well as (4) an expected expansion in business fixed investment due to Japanese manufacturers transferring their production sites back home and to labor-saving investment to address labor shortages.
+
+Concerning risks to the outlook, overseas economies and global financial conditions warrant attention. As I mentioned earlier, overseas central banks have so far been raising their policy interest  rates  at  a  high  pace  in  order  to  contain  rapid  inflation.  Issues  surrounding  some financial institutions in the United States and Europe since March 2023, however, show that some overseas financial sectors have not necessarily been able to adequately respond to the recent changes in financial conditions (Chart 5). Such issues have not led to affecting the whole financial system, due in part to swift responses taken by the respective authorities. However,  given  that  global  macroeconomic  conditions,  triggered  by  the  COVID-19 pandemic, have undergone a rapid change from a low-inflation, low-interest rate environment to a high-inflation, high-interest rate environment, there is a risk that some kind of financial shock would occur in an unexpected manner. Meanwhile, as high inflation has continued, mainly against the background of wage increases, central banks have not been able to change their monetary tightening stance. Such a situation is likely to make policy responses more difficult and create increasing uncertainties for the global economy.
+
+## B. Price Developments
+
+Turning to Japan's price developments, the year-on-year rate of change in the consumer price index (CPI) for all items less fresh food continued to rise, exceeding 2 percent in April 2022, reaching 3 percent in September, and 4 percent in December (Chart 6). What triggered this inflation was a surge in energy prices that occurred in the process of a global recovery from a downturn caused by the pandemic. Moreover, since spring 2022, imported goods prices have risen across the board due to such factors as a further rise in international commodity prices that mainly reflected the situation in Ukraine, as well as the yen's depreciation during a situation of high global inflation and rising interest rates. Initially, the effects of such factors emerged mostly in the form of a rise in producer prices. However, since last summer, a passthrough of cost increases to selling prices at the retail level has also started to be observed, and moves to raise prices, particularly of food, have rapidly become widespread (Chart 7).
+
+The year-on-year rate of change in the CPI, after having reached its peak at 4.2 percent in January 2023, has fallen to the range of 3 to 4 percent, due partly to a decline in energy prices owing to the government's support measures. However, as there seems to be a change in firms' price-setting stance, price rises, such as of food, are expected to continue for a while, and the
+
+situation  of  inflation  exceeding  2  percent  will  likely  remain  for  the  time  being,  with  a contribution mainly from rises in goods prices. Nonetheless, since the effects of import price rises  will  gradually  dissipate  as  the  pass-through  of  cost  increases  in  the  upstream  of  the distribution process to the downstream peaks out, the year-on-year rate of change in the CPI for all items less fresh food is expected to fall below 2 percent toward the middle of fiscal 2023.
+
+Subsequent to the slowdown, in order for the year-on-year rate of change to accelerate again toward 2 percent and stay at such a level, it is important that the underlying trend in prices rise. As I will describe in more detail later on, in terms of the outlook, I am paying particular attention to developments in nominal wages and services prices. In this regard, the fact that wage increases at the highest level in about 30 years were achieved in the 2023 annual spring labor-management  wage  negotiations  holds  important  implications.  Although  this  year's negotiation results were prompted by global inflation, which is an exogenous factor, they could be suggesting that improvement in labor market conditions brought about by the Bank of Japan's patient conduct of monetary easing has finally started to bear fruit in the form of a synergy between price rises and wage increases.
+
+## II. Monetary Policy
+
+## A. Conduct of Yield Curve Control
+
+Let me now turn to the Bank of Japan's policy conduct. In order to overcome prolonged deflation and achieve the price stability target of 2 percent, the Bank introduced quantitative and  qualitative  monetary  easing  (QQE)  in  April  2013.  Thereafter,  in  order  to  enhance monetary  easing  while  responding  to  developments  in  economic  activity  and  prices,  it introduced QQE with a Negative Interest Rate in January 2016, and QQE with Yield Curve Control in September. Under this so-called yield curve control policy, the Bank set the target level of 10-year Japanese government bonds (JGB) yields at "around zero percent" and, in practice, such yields had been in the range of around plus and minus 0.1 percent. Thereafter, given that market transactions were sluggish because of the narrow range of yield fluctuations, in July 2018, the Bank decided that the yields may move upward and downward to some extent, mainly depending on developments in economic activity and prices, with a specific figure of "about double the range of around plus and minus 0.1 percentage points" in mind.
+
+Moreover,  given  the  findings  of  the  Assessment  for  Further  Effective  and  Sustainable Monetary Easing conducted in March 2021, the Bank made clear that the range of 10-year JGB yield fluctuations from the target level would be "between around plus and minus 0.25 percentage points." In December 2022, it was further expanded to "between around plus and minus 0.5 percentage points."
+
+In this way, the Bank has been expanding the range of 10-year JGB yield fluctuations from the target level under the yield curve control policy. This is because, while long-term interest rates need to be kept stable at low levels in order to achieve the 2 percent price stability target, holding down such rates also could affect market functioning. Meanwhile, in the case where the range of 10-year JGB yield fluctuations from the target level is expanded so as to ensure market  functioning,  long-term  interest  rates  could  rise  as  a  result,  leading  to  a  less accommodative monetary environment and a delay in economic recovery. The management of 10-year JGB yield fluctuations therefore needs to be considered based on the judgment of the trade-off between monetary easing effects at a macroeconomic level and effects on market functioning, among others.
+
+The Bank's decision to expand the range of 10-year JGB yield fluctuations from the target level  in  December  2022  also  was  made  based  on  such  judgment.  In  2022,  as  a  result  of economic recovery in various countries and regions, inflation accelerated and interest rates rose globally. These developments also affected Japan, as was seen in the 10-year JGB yields approaching 0.25 percent -- the upper limit of the yield curve control policy of the time -- in March 2022. The Bank subsequently took measures, such as devising its conduct of JGB purchase  operations,  and  prevented  a  heightening  of  long-term  interest  rates,  which potentially could have hindered Japan's economic recovery. At the same time, these measures caused marked distortions in the yield curve. The shape of the JGB yield curve, however, is now generally smooth due to the measures taken in December 2022 to expand the range of 10-year JGB yield fluctuations, the various deliberations with regard to its JGB purchase operations, and, furthermore, in part to the recent global decline in interest rates (Chart 8).
+
+## B. Policy Responses to COVID-19 and Forward Guidance
+
+At the Monetary Policy Meeting (MPM) held in March 2020, when COVID-19 started to exert a severe impact on Japan's economy, the Bank decided to take three measures, including the Special Program to Support Financing in Response to the Novel Coronavirus (COVID19)  (the  Special  Program),  and  it  has  continued  with  them  through  the  addition  of amendments (Chart 9). Concurrently, the Bank introduced a forward guidance that it will closely monitor the impact of COVID-19 for the time being and will not hesitate to take additional easing measures if necessary, and as for the policy rates, the Bank added that it expects short- and long-term interest rates to remain at their present or lower levels.
+
+Although the risk of a resurgence of COVID-19 remains, the pandemic, after three years since its outbreak, is finally becoming a thing of the past. At the same time, I would like to reiterate that  uncertainties  surrounding  economies and financial  markets at home and abroad have become extremely high. In view of such situation, at the April 2023 MPM, the Bank deleted the description associated with the pandemic from its forward guidance for monetary policy and made clear its stance that it "will patiently continue with monetary easing while nimbly responding to developments in economic activity and prices as well as financial conditions. By doing so, it will aim to achieve the price stability target of 2 percent in a sustainable and stable manner, accompanied by wage increases." The new guidance shows the Bank's strong commitment to patiently  maintain  its  monetary  accommodation,  with  a  continued  aim  to achieve the price stability target in a sustainable and stable manner.
+
+## C. Broad-Perspective Review of Monetary Policy
+
+Also at its April 2023 MPM, the Bank decided to conduct a broad-perspective review of monetary policy, with a planned time frame of around one to one and a half years. It will go over the various monetary easing measures it has implemented with the aim of achieving price stability since the late 1990s, when Japan's economy fell into deflation. The direction of the review is entirely a matter for upcoming discussions, but in what follows I would like to underscore two points that I personally feel are particularly germane.
+
+The first is the importance of an international perspective. One focus of the review will be to reassess  the  Bank's  unconventional  monetary  policy  measures,  starting  with  quantitative
+
+easing. The Bank was compelled to put these measures in place by an urgent situation in which the country was poised to slide into deflation but there was virtually no scope for the traditional means of lowering the short-term policy interest rate. In the wake of the Global Financial Crisis and the COVID-19 pandemic, however, many major central banks have come up against similar constraints on their ability to control short-term interest rates and have shifted  toward a strategy of purchasing more assets to apply an easing effect to financial conditions more broadly, including real long-term interest rates. The upshot is that the basic monetary policy frameworks of major central banks now involve a two-pronged approach of adjusting short-term policy interest rates and purchasing assets using their own balance sheets. In other words, the very measures that were called unconventional 10 years ago have now become global standard practice. The Bank of Japan turned out to be the forerunner of this trend.
+
+The  second  point  involves  a  situation  that  is  unique  to  Japan,  which  is  the  influence  of people's  perception  of  prices,  called  norms.  Many  central  banks  are  currently  having  to grapple with high inflation. What this actually means is that the recoveries sparked by their expansionary policy responses were unexpectedly robust. By contrast, although Japan was the first to introduce an unconventional monetary easing policy, it is still the farthest away from  exiting  such  easing.  This  is  ostensibly  due  to  the  fact  that,  when  deflation  or  zero inflation persists for too long, as it did in Japan, this state becomes the fixed norm -- that is, the normative belief -- and displacing such a norm becomes extremely difficult. In fact, in many advanced economies like the United States and Europe, popular inflation expectations are generally consistent with the nominal anchor inflation target, but in Japan, they are not anchored to the 2 percent target (Chart 10). This is considered to be one reason why the price stability target has not been achieved in Japan.
+
+## III. Aiming for a Virtuous Cycle between Prices and Wages
+
+## A. Why Price Stability Needs to Be Accompanied by Higher Wages
+
+The  impact  of  global  inflation  has  extended  to  prices  in  Japan  as  well,  through  rises  in commodity and energy prices, for example. As I mentioned earlier, in Japan, the year-on-year rate of change in the CPI for all items excluding fresh food has been above 2 percent since the spring of 2022, exceeding 4 percent at the start of this year. Even so, while other central
+
+banks have moved forward with rapid monetary tightening to contain high inflation, the Bank of Japan has patiently continued with monetary easing. This reflects the fact that the inflation seen in Japan since spring 2022 is basically due to the rise in imported goods prices. The Bank has therefore judged that the underlying trend in prices, which is the inflation trend based on Japan's domestic macroeconomic factors, has not yet risen enough.
+
+In  speeches and on other occasions, the Bank has long stressed that, to achieve the price stability  target  of  2  percent  in  a  sustainable  and  stable  manner,  price  increases  must  be accompanied  by  wage  increases. 1 Judging  the  current  situation  from  this  perspective, although consumer prices may rise temporarily on the back of cost-push factors from overseas, unless the underlying inflation trend itself converges on the 2 percent target accompanied by wage increases, it is considered highly likely that inflation will fall back below 2 percent once the temporary factors subside.
+
+In terms of which prices we consider key in trying to discern price trends, among the items making up the CPI -- rather than, for example, energy prices, which are subject to significant fluctuations -- it is important to pay more attention to trends in services prices, which are both less  volatile  and  more  sticky.  Services  prices  are  better  indicators  of  underlying  price movements  because  they  more  closely  reflect  movements  in  highly  sticky  wages,  which account for the bulk of the cost of services. 2 In other words, if there is a given uptrend in
+
+1 For  example,  see  Kuroda,  H.,  "Japan's  Economy  and  Monetary  Policy:  Toward  Overcoming Deflation," speech at a meeting held by the Naigai Josei Chousa Kai (Research Institute of Japan) in Tokyo, July 29, 2013, and "Toward Achieving the Price Stability Target in a Sustainable and Stable Manner, Accompanied by Wage Increases," speech at the meeting of Councillors of Keidanren (Japan Business Federation) in Tokyo, December 26, 2022.
+
+2 In a November 2022 speech, Federal Reserve Chair Jerome H. Powell pointed out that, in discerning underlying price movements, it was critical to look at the core inflation rate, which excludes the impact of food and energy. Furthermore, of particular importance among core inflation components were core services other than housing, which cover "a wide range of services from health care and education to haircuts and hospitality. . . . Because wages make up the largest cost in delivering these services, the labor market holds the key to understanding inflation in this category" in the United States. See Jerome H. Powell, "Inflation and the Labor Market," speech at the Hutchins Center on Fiscal and Monetary Policy, Brookings Institution, Washington, D.C., November 30, 2022.
+
+wages, there will also tend to be a given uptrend in prices themselves, mainly through the contribution of services prices. 3
+
+The importance of services items in the underlying inflation trend is also apparent in the decomposition of factors affecting consumer prices (Chart 11). In the United States, before COVID-19, the contribution of goods prices to changes in the CPI was extremely limited, indicating that increases in the CPI were almost entirely driven by higher services prices. It is also clear that the contribution of services prices to inflation was relatively large in Europe. In the post-pandemic phase, we first saw inflation expand on the back of higher prices of both energy and goods, and then a gradual transition to inflation driven by services prices in the United States and Europe, as the contributions of energy and goods prices diminished.
+
+The above factors suggest that services prices and the wages that lie behind them are keys to understanding the underlying trend in inflation.
+
+## B. Nominal Wages Finally Starting to Rise
+
+As of June 2023, inflation in the United States and Europe continues to significantly exceed the target rate of 2 percent. This is because -- although the rates of increase in consumer prices seem to have peaked out as energy prices have declined -- services prices, which are sticky, have continued to rise faster than the trend in prices due to the tightening of labor market conditions. In this situation, the Federal Reserve and the European Central Bank (ECB) have announced that they will continue with monetary tightening to suppress aggregate demand until it becomes possible to truly envisage the 2 percent inflation rate being achieved. 4
+
+3 Since the real wage growth rate is virtually identical to the labor productivity growth rate over the long term, the inflation rate is considered to trend at a level that is equal to the difference between the nominal wage growth rate and the labor productivity growth rate.
+
+4 Federal Reserve Chair Powell pointed out in the aforementioned speech that, "in the labor market, demand  for  workers  far  exceeds  the  supply  of  available  workers,  and  nominal  wages  have  been growing at a pace well above what would be consistent with 2 percent inflation over time." He then noted that "for the near term, a moderation of labor demand growth will be required to restore balance to the labor market." ECB President Christine Lagarde also stated in her speech in March 2023 that it is necessary to suppress demand in order to prevent price rises caused by further wage increases. See Christine  Lagarde,  "The  Path Ahead,"  speech  at  "The  ECB  and  Its  Watchers  XXIII"  conference, Frankfurt am Main, March 22, 2023.
+
+The current situation of Japan's labor market, however, differs greatly from the aforementioned situation in the  United  States  and  Europe.  Indeed,  the  rate  of  increase  in services  prices  has  recently  started  to  accelerate  in  Japan  as  well,  but  this  is  mainly attributable to price increases such as of food and electricity, and thus the effects of the rise in wage costs have not been that strong so far. Although it is said that Japan is facing labor shortage, a tightening of labor market conditions such as those seen in the United States and Europe has not been observed, at least not statistically. Since 2021 in the United States, not only has there been a decline in the unemployment rate -- which surged during the pandemic --  but  the  job  vacancy rate has increased rapidly. As a result, the ratio of job openings to unemployment, which had stood at around 0.7 on average since the 2000s, has risen to a high of around 2 (Chart 12). In contrast, the unemployment rate and the active job openings-toapplicants  ratio  in  Japan  still  have  not  recovered  to  pre-pandemic  levels  as  of  June  2023 (Chart 13).
+
+Despite the recovery being only moderate, the situation for Japan's labor market differs from that seen in the past in terms of wage increases, especially since the turn of this year. This is best  demonstrated  by  the  results  of  the  2023  annual  spring  labor-management  wage negotiations. The rate of increase in wages -- which is increases in regular salaries and base pay combined -- is in the range of 3.5-4.0 percent based on the results available to date, marking the highest level in about 30 years (Chart 14). However, even at this level, the rate of increase in base pay merely exceeds 2 percent, which is extremely low compared to the wage growth in the United States and Europe. Still, this increase in wages represents the largest rate of increase achieved in a year since 1980, and it can be viewed as a favorable development for realizing a virtuous cycle between prices and wages.
+
+## C. Shift in the Price and Wage Norm Triggered by a Big Push
+
+Despite considerable improvement in labor market conditions, nominal wages in Japan have not risen sufficiently. If it is true that market mechanisms determine nominal wages, then such wages should tend to rise if job openings expand vis-à-vis job seekers, causing an increase in the active job openings-to-applicants ratio, which is the ratio of labor demand to labor supply. In the United States, a clear correlation between job openings to unemployment and nominal wage growth can, in fact, be observed. In Japan, however, since the late 1990s, when the
+
+country entered a deflationary period, no such clear correlation between the job openings-toapplicants ratio and nominal wage growth has been found. Focusing solely at the 2010s -including the years from 2013, when the Bank introduced QQE -- growth in nominal wages remained negligible even though the job openings-to-applicants ratio continued to rise more or less by itself up until immediately before the outbreak of the pandemic (Chart 15).
+
+This situation seems to have been attributable to various factors. Perhaps the most pertinent is the zero price and wage norm that has been the normative belief of firms and households regarding prices and wages. Although the Bank's conduct of monetary easing helped Japan overcome the deflation that had continued since the late 1990s, in the sense of a sustained decline  in  prices,  the  price  stability  target  accompanied  by  wage  increases  has  not  been achieved. This is likely owing to the experience of Japanese firms during the prolonged period of stagnation, which saw mounting instances of price hikes leading directly to sales declines. Firms thus came to prioritize a stance of maintaining stable selling prices by holding down wage costs. 5 This seems to have caused the zero price and wage norm -- the belief that both prices and wages do not rise -- to take root among firms and households.
+
+This  zero  price  and  wage  norm,  which  had  been  deeply  entrenched,  seems  to  finally  be shifting  under  the  impact  of  a  so-called  big  push  --  an  exogenous  shock  from  the  rise  in imported goods prices stemming from global inflation. In stark contrast to the past, firms across the board are now passing on the higher costs of imported raw materials to selling prices,  even  at  the  retail  level.  The  likelihood  that  the  price  and  wage  norm  seems  to  be shifting is indicated most of all by the first real increase in the CPI since the 1980s. Of course, this increase is basically due to cost-push factors and therefore will not directly lead to an increase in underlying prices. Nevertheless, if these developments go on to encourage firms to pass on costs, including wage costs, to selling prices, in turn inducing further wage hikes, this will push up the underlying inflation trend (Chart 16).
+
+5 See Aoki, K., Hogen, Y., and Takatomi, K., "Price Markups and Wage Setting Behavior of Japanese Firms," Bank of Japan Working Paper Series , no. 23-E-5 (April 2023). This paper, by using the data from fiscal 2005 to 2020, explains that, during this period, Japanese firms had reduced their price markups  --  in  which  they  pass  on  costs  to  selling  prices  --  while  they  had  increased  their  price markdowns -- in which they hold down wages to avoid price rises.
+
+One possible way of understanding why wage hikes have not quite materialized is that, while firms found it difficult to pass on wage hikes to prices, they had tended in particular to refrain from increasing the wages of regular employees, who are less likely to leave their jobs. 6 Nonetheless, improvements in labor market conditions brought about by the Bank's patient conduct of monetary easing to date have already begun to step up the pressure on firms to raise wages of regular employees, both in terms of the external pressure to curb turnover and of the internal pressure to ensure fairness among peers. 7 In this regard, the recent big push may have literally acted as a decisive factor driving this year's wage negotiations.
+
+## D. Outlook for Sustainable Wage Increases
+
+The key issue now is to lock in the momentum behind wage hikes that is finally beginning to gather as a result of continued monetary easing, and to establish this as a lasting trend. If this happens, it should at last bring back the kind of economic growth based on a virtuous cycle between prices and wages that has long been missing from Japan's economic landscape. The ultimate goal of the Bank's patient conduct of monetary easing is to restore Japan's economy to this state.
+
+Meanwhile,  for  Japan's  economy  to  continue  growing  and  for  real  incomes  to  continue increasing steadily, raising labor productivity through technological advances is essential. This  is  basically  the  purview  of  individual  private  firms  and  their  efforts  in  the  areas  of research and development and the improvement of business and production processes. The
+
+6 For more details, see Fukunaga, I. et al., "Wage Developments in Japan: Four Key Issues for the Post-COVID-19 Wage Growth," Bank of Japan Working Paper Series , no. 23-E-4 (March 2023).
+
+7 For a study on external and internal pressure on wages, see Furukawa, K., Hogen, Y., and Kido, Y., "Labor Market of Regular Workers in Japan: A Perspective from Job Advertisement Data," Bank of Japan Working Paper Series , no. 23-E-7 (April 2023).
+
+role of monetary policy is simply to encourage these endeavors by providing accommodative financial conditions. 8
+
+It is important to note, however, that Japanese firms have by no means neglected to make such efforts. In the 2010s, at least, although Japan's economic growth rate as a whole clearly remained only moderate, owing to ongoing declines in the population and in working hours, Japan nevertheless outperformed the United States in terms of GDP growth per hour worked (Chart 17).
+
+These  developments  suggest  the  real  likelihood  of  continued  steady  growth  in  Japan's economy, accompanied by productivity gains. The fundamental issue lies in the fact that the zero  price  and  wage  norm  has  become  entrenched  in  Japan  over  a  prolonged  period  of deflation and excessively low inflation, and the fact that we have not yet achieved a virtuous cycle  between  prices  and  wages.  The  Bank,  for  the  time  being,  should  carefully  assess whether or not this norm is on the verge of being shifted.
+
+Thank you.
+
+8 Some economists argue that monetary policy brings about positive effects on productivity indirectly. For example, according to the theory of high-pressure economics put forth by Arthur M. Okun and Janet L. Yellen, if macroeconomic policies bring about tighter labor market conditions, investment in labor saving will expand, which will result in a further increase in labor productivity (see also Chart 16).  For  more  details,  see  Arthur  M.  Okun,  "Upward  Mobility  in  a  High-Pressure  Economy," Brookings Papers on Economic Activity , no.1 (1973), and Janet L. Yellen, "Macroeconomic Research after the Crisis," remarks at the 60th annual economic conference sponsored by the Federal Reserve Bank of Boston titled "The Elusive 'Great' Recovery: Causes and Implications for Future Business Cycle Dynamics," October 14, 2016.
+
+
+
+## Economic Activity, Prices, and Monetary Policy in Japan
+
+Speech at a Meeting with Local Leaders in Okinawa
+
+June 22, 2023
+
+## NOGUCHI Asahi
+
+Member of the Policy Board Bank of Japan
+
+High Inflation in the United States and Europe Chart 1
+
+
+
+Note: Figures for Germany prior to the reunification of the country are those for the former West Germany. Figures for the United Kingdom prior to 1989 are from the Bank of England's (BOE's) "A millennium of macroeconomic data" and those from 1989 onward are from the Office for National Statistics' (ONS') data.
+
+Sources: BOE; OECD; ONS.
+
+## Policy Interest Rates in the United States and Europe
+
+
+
+Note: Figures for the United States are the medians of the target ranges for the federal funds rate. Those for the euro area are the rates on the deposit facility. The latest figures for June 2023 are as of June 15. Sources: BIS; BOE; ECB; FRB.
+
+Chart 3
+
+## IMF Forecasts for Global Growth
+
+## Global Growth Rate
+
+Major Economies' Growth Rates
+
+
+
+Note: Figures are as of April 2023.
+
+Source: IMF.
+
+y/y % chg., % points
+
+|                                          |   CY 2020 |   CY 2021 |   CY 2022 |   CY2023 [Forecast] |   CY2024 [Forecast] |
+|------------------------------------------|-----------|-----------|-----------|---------------------|---------------------|
+| World                                    |      -2.8 |       6.3 |       3.4 |                 2.8 |                 3   |
+| Advanced economies                       |      -4.2 |       5.4 |       2.7 |                 1.3 |                 1.4 |
+| United States                            |      -2.8 |       5.9 |       2.1 |                 1.6 |                 1.1 |
+| Euro area                                |      -6.1 |       5.4 |       3.5 |                 0.8 |                 1.4 |
+| United Kingdom                           |     -11   |       7.6 |       4   |                -0.3 |                 1   |
+| Japan                                    |      -4.3 |       2.1 |       1.1 |                 1.3 |                 1   |
+| Emerging market and developing economies |      -1.8 |       6.9 |       4   |                 3.9 |                 4.2 |
+| China                                    |       2.2 |       8.5 |       3   |                 5.2 |                 4.5 |
+| India                                    |      -5.8 |       9.1 |       6.8 |                 5.9 |                 6.3 |
+| ASEAN-5                                  |      -4.4 |       4   |       5.5 |                 4.5 |                 4.6 |
+
+## Private Consumption
+
+
+
+## Financial Difficulties Experienced by U.S. and European Banks
+
+Chart 5
+
+| March 2023   |  Collapse of Silicon Valley Bank (U.S.) on March 10  Collapse of Signature Bank (U.S.) on March 12  Acquisition of Credit Suisse (Switzerland) by UBS on March 18   |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| May 2023     |  Collapse of First Republic Bank (U.S.) on May 1                                                                                                                      |
+
+## Consumer Prices
+
+y/y % chg.
+
+|                                                                    | 22/Q2   | Q3   | Q4   | 23/Q1   | 23/January   | February   | March   | April   |
+|--------------------------------------------------------------------|---------|------|------|---------|--------------|------------|---------|---------|
+| CPI for all items                                                  | 2.4     | 2.9  | 3.9  | 3.6     | 4.3          | 3.3        | 3.2     | 3.5     |
+| Less fresh food                                                    | 2.1     | 2.7  | 3.7  | 3.5     | 4.2          | 3.1        | 3.1     | 3.4     |
+| Less fresh food and energy                                         | 0.9     | 1.5  | 2.8  | 3.5     | 3.2          | 3.5        | 3.8     | 4.1     |
+| (Reference: contribution to the CPI for all items less fresh food) |         |      |      |         |              |            |         |         |
+| Energy                                                             | 1.3     | 1.3  | 1.2  | 0.3     | 1.2          | -0.1       | -0.3    | -0.4    |
+| Food products                                                      | 0.5     | 0.7  | 1.2  | 1.3     | 1.2          | 1.3        | 1.3     | 1.5     |
+| General services                                                   | -0.1    | 0.1  | 0.4  | 0.6     | 0.5          | 0.6        | 0.7     | 0.7     |
+
+Source: Ministry of Internal Affairs and Communications.
+
+Chart 7
+
+## Producer Prices
+
+## Import Price Index
+
+## Producer Price Index
+
+
+
+Notes: 1. In the left chart, the contribution of changes in commodity prices, etc., is calculated using changes in the import price index on a contract currency basis. The contribution of changes in exchange rates is calculated using the difference between the index on a yen basis and that on a contract currency basis.
+
+2. In the right chart, figures are adjusted to exclude the effects of the consumption tax hike.
+
+Source: Bank of Japan.
+
+## JGB Yield Curves
+
+
+
+Source: Bloomberg.
+
+## The Bank's Policy Responses to COVID-19
+
+## Supporting Corporate Financing
+
+## Special Program to Support Financing in Response to COVID-19
+
+Purchases of CP and corporate bonds: amount outstanding of about 20 tril. yen at maximum (previous amount outstanding of about 5 tril. yen) Special Funds-Supplying Operations to Facilitate Financing in Response to COVID-19
+
+## Stabilizing Financial Markets
+
+## Ample and Flexible Provision of Yen and Foreign Currency Funds
+
+Active purchases of JGBs and T-Bills U.S. Dollar Funds-Supplying Operations
+
+## Lowering Risk Premia in Asset Markets
+
+## Purchases of ETFs and J-REITs
+
+ETFs: annual pace with an upper limit of about 12 tril. yen
+
+J-REITs: annual pace with an upper limit of about 180 bil. yen
+
+Chart 9
+
+## Inflation Expectations
+
+
+
+Note: Figures are medium- to long-term inflation expectations of economists. Figures for Japan are based on the Consensus Forecasts (CPI inflation, 6 to 10 years ahead), those for the United States are based on the Survey of Professional Forecasters (PCE inflation, 10 years ahead), and those for the euro area are based on the Survey of Professional Forecasters (CPI inflation, long run).
+
+Sources: Consensus Economics Inc.; ECB; Federal Reserve Bank of Philadelphia.
+
+Decomposition of Changes in Consumer Prices Chart 11
+
+
+
+Notes: 1. Figures for temporary factors for Japan are Bank staff estimates and consist of (1) the effects of the consumption tax hike and policies concerning the provision of free education, (2) the effects of travel subsidy programs, and (3) mobile phone charges.
+
+2. Figures in angular brackets show the share of each component.
+
+Sources: Haver Analytics; Ministry of Internal Affairs and Communications.
+
+## Labor Market Conditions in the United States
+
+
+
+Source: Bureau of Labor Statistics.
+
+Labor Market Conditions in Japan Chart 13
+
+
+
+Sources: Ministry of Health, Labour and Welfare; Ministry of Internal Affairs and Communications.
+
+## Wage Increases in Spring Wage Negotiations
+
+
+
+Note: Figures for 2023 are from Rengo's sixth aggregation.
+
+Sources: Japanese Trade Union Confederation (Rengo); Central Labour Relations Commission.
+
+## Labor Market Conditions and Wage Growth
+
+United States (Hourly Wages)
+
+Japan (Total Cash Earnings)
+
+
+
+
+
+Notes: 1. In the left chart, figures for average hourly wages are from the Atlanta Fed's Wage Growth Tracker.
+
+2. In the right chart, figures for total cash earnings are for all employees. Figures from 2016 onward are based on continuing observations following the sample revisions.
+
+Sources: Haver Analytics; Ministry of Health, Labour and Welfare.
+
+Chart 15
+
+## Correlation between Wages and Prices
+
+
+
+## Decomposition of Economic Growth in Japan and the United States
+
+Chart 17
+
+
+
+Japan
+
+## United States
+
+| average, %   |
+|--------------|
+
+Sources: Cabinet Office; Ministry of Internal Affairs and Communications; OECD.

@@ -1,0 +1,513 @@
+Masaaki Shirakawa: Masaaki Shirakawa: Toward sustainable growth with price stability
+2012-11-12
+
+## Masaaki Shirakawa: Toward sustainable growth with price stability
+
+Speech  by  Mr  Masaaki  Shirakawa,  Governor  of  the  Bank  of  Japan,  at  the  Kisaragi-kai Meeting, Tokyo, 12 November 2012.
+
+*      *      *
+
+## Introduction
+
+It is a great honor to have the opportunity to address you today.
+
+As you are well aware, the Bank of Japan undertook further aggressive monetary easing for two months in a row, in September and October 2012. Today, I will begin by explaining these policy  measures  while  outlining  our  assessment  of  the  underlying  economic  activity  and prices. I will then discuss various issues regarding deflation and monetary policy conduct and explain our thinking behind these issues.
+
+## I. Developments in overseas economies
+
+Let  me  start  with  developments  in  overseas  economies.  Overseas  economies  entered  a deceleration phase in the second half of 2011. Recently, many countries and regions - in particular, their manufacturing sectors - have moved deeper into that phase. As forecasts by international  organizations  and  economists  in  the  private  sector  show,  the  outlook  for  the global economy has been downwardly revised rapidly since this summer (Chart 1). There are two factors behind this.
+
+First, the effects of the European debt problem have been spreading. Since the second half of  2011, concern about government debt stemming from Greece has spread to Spain and Italy.  As  a  result,  the  negative  feedback  loop  among fiscal  balances,  the  financial  system, and the real economy is in effect. Since the beginning of 2012, such negative effects have spread to core countries such as Germany. The real GDP growth of the euro area remained negative for three consecutive quarters, from October-December 2011 through April-June 2012,  and  it  is  believed  that  negative  growth  cannot  be  avoided  for  the  July-September quarter.  As  such,  the  effects  of  the  economic  recession  in  Europe  have  been  exerting downward pressure on the global economy not only through a decline in trade activities - a direct  channel  -  but  also  through  cautious  business  activities  resulting  from  heightening uncertainty.
+
+Second, the deceleration in the Chinese economy has been more prolonged than expected. In  China,  exports to  Europe have declined and private real estate investment has slowed. Against  the  backdrop  of  such  weakening  of  demand  at  home  and  abroad,  inventory adjustment  has  been  prolonged,  especially  in  materials  industries  with  excess  production capacity.  While  the  annualized  real  GDP  growth  rate  is  still  somewhat  high,  it  has  been declining  for  seven  consecutive  quarters  through  this  past  July-September.  In  response, authorities have carried out economic stimulus measures on the monetary and fiscal fronts. So  far,  however,  they  appear  to  maintain  a  cautious  policy  stance  toward  achieving sustainable  growth  even  when  they  are  at  the  crossroads  of  changing  their  policy  stance toward easing, partly based on past experience - namely, the large-scale policy measures following  the  Lehman  shock  that  in  the  end  brought  about  an  excess  in  capacity  and overheating in the real estate market.
+
+At the G-20 meeting that I attended last week, it was noted that economic activities in some regions have reportedly stopped deteriorating and started to show signs of stabilization. On the whole, however, my impression is that momentum for recovery in the global economy following the Lehman shock has been weak. Looking back at where we came from, strong growth  in  the  United  States  and  Europe  toward  the  mid-2000s  owes  much  to  the  credit bubble, which had reached an unprecedented level, and the amount of debt in the private sector has increased markedly (Chart 2). At present, the United States and Europe are in the
+
+BIS central bankers' speeches
+
+process of adjusting excess debt, and until such adjustment is completed, these economies will suffer from a low growth rate, based on our experience from the aftermath of the bubble bursting.  Indeed,  from  the  perspective  of  the  recovery  in  real  GDP  after  the  bursting  of bubbles, economic performance in the United States and Europe has been worse to date in those  economies  than  that  of  Japan  after  its  bursting  of  the  bubble,  notwithstanding  the aggressive monetary policies of central banks, including the Federal Reserve (Chart 3).
+
+Based on such recognition, overseas economies are likely to remain in a deceleration phase for  the  time  being,  but  will  gradually  emerge from  that  phase  and  turn  toward  a  moderate recovery thereafter. Factors behind this scenario include an improving trend in U.S. housing investment,  reflecting  the  bottoming-out  of  house  prices,  and  monetary  easing  effects underpinning momentum for recovery. As for the European debt problem, a safety net has been  put  in  place,  which  includes  such  moves  as  the  European  Central  Bank  (ECB)'s decision to launch a new government bond purchasing program and the establishment of the European  Stability Mechanism  (ESM).  Against  this  background,  a  number  of  policy measures for economic and fiscal reform are expected to make progress gradually, which would improve business and household sentiment. In China, the effects of economic policy measures as well as continued inventory adjustment are expected to materialize. In fact, in its  projections  for  global  economic  growth  released  last  month,  the  International  Monetary Fund (IMF) has forecasted that the global economy will gradually post higher growth, from 3.3 percent in 2012 to 3.6 percent in 2013, and further to 4.1 percent in 2014.
+
+I  fully  recognize,  however,  that  such  projections  regarding  overseas  economies  rest  on considerable uncertainties, including future developments in the European debt problem, the outcome of the problem surrounding the 'fiscal cliff' in the United States, and the likelihood of economic deceleration in China being prolonged further. The Bank will closely monitor these developments.
+
+## II. Developments in Japan's economy
+
+Next, I will outline the current situation of and the outlook for Japan's economy, taking into account the developments in overseas economies I have touched upon.
+
+As for recent developments, exports have shown a marked decline in the July-September quarter  of  2012  following  a  rapid  increase  in  April-June,  and  industrial  production  has decreased for two consecutive quarters, as overseas economies have moved deeper into the deceleration  phase.  Looking  at  exports  by  destination,  those  to  the  European  Union  (EU) have been declining for four consecutive quarters and those to China have recently shown a notable decline (Chart 4). The implications of the relations between Japan and China have begun to  affect  Japan's  economy,  reflected  in  areas  such  as  trade  activities  and  tourism. Whether  the  implications  of  Japan's  relations  with  China  will  expand  any  further  requires close attention.
+
+In  contrast,  domestic  demand  had  been  relatively  firm  on  the  whole  until  recently,  mainly against  the  background  of  an  increase  in  demand  related  to  reconstruction  following  the Great East Japan Earthquake. Effects of the weakness in exports have gradually appeared in the employment situation, however, as seen in the fact that the number of new job offers in the  manufacturing  sector  has  been  negative  on  a  year-on-year  basis  since  June.  Private consumption has also lost some of its momentum compared with the period leading up to early  summer,  partly  due  to  the  ending  of  subsidies  for  the  purchase  of  environmentally friendly cars. As for business fixed investment, firms' investment plans for fiscal 2012 in the September Tankan (Short-Term  Economic  Survey  of  Enterprises  in  Japan)  have  posted relatively  high  growth  for  that  time  of  year.  Nevertheless,  attention  needs  to  be  paid  to whether firms might abandon their business fixed investment plans. Taking this situation into account, the Bank has continued to revise downward its assessment of Japan's economy as a whole, and assessed at the Monetary Policy Meeting on October 30 that the economy has been 'weakening somewhat.'
+
+Going forward, developments in Japan's economy will basically depend on those in overseas economies. Using the outlook for overseas economies I mentioned earlier as an assumption basis,  Japanese  economic  activity  is  expected  to  be  more  or  less  flat  for  the  time  being. Exports and production are likely to remain relatively weak for the time being, and domestic demand as a whole is unlikely to increase at a pace that will outperform the weakness in exports.
+
+Under  such  circumstances,  the  Bank  decided  to  undertake  further  aggressive  monetary easing  at  the  Monetary  Policy  Meeting  on  October  30.  As  for  the  outlook  for  economic activity after incorporating the effects of such monetary easing and those of the government's efforts to invigorate the growth potential, the economy, which will be more or less flat for the time being, is expected to return to a moderate recovery path in due course. Expressing this in numerical terms, the median of the Bank's nine Policy Board members' forecasts for the annualized growth rate is 1.5 percent, 1.6 percent, and 0.6 percent for fiscal 2012, 2013, and 2014,  respectively  (Chart  5).  Reflected  in  these  figures,  however,  are  the  effects  of  the front-loaded increase and subsequent decline in demand prior to the consumption tax hike, and adjustment of such effects brings the median of the forecasts to 1.0-1.5 percent for both fiscal 2013 and 2014. The output gap is therefore expected to improve steadily, given that these  forecast  figures  exceed  the  potential  growth  rate,  which  appears  to  be  around 0.5 percent.
+
+This  naturally  affects  price  developments  as  well.  The  year-on-year  rate  of  change  in  the consumer price index (CPI) for all items less fresh food is currently around 0 percent. It is expected to hover around that level for the time being, but will start rising gradually thereafter as the output gap that I just mentioned narrows. In terms of the median of the Policy Board members'  forecasts,  figures  for  fiscal  2012  and  2013  are  -0.1  percent  and  0.4  percent, respectively, and 0.8 percent for fiscal 2014 excluding the effects of the consumption tax hike (Chart 6). The Bank publishes, in a numerical form, 'the price stability goal in the medium to long term,' which is the inflation rate that it aims to achieve in conducting monetary policy. In concrete terms, the Bank judges 'the price stability goal in the medium to long term' to be in a positive range of 2 percent or lower in terms of the year-on-year rate of change in the CPI, and  has  set  a  goal  of  1  percent  for  the  time  being. 1 The  Bank  is  determined  that  it  will continue with the current powerful easing until it judges the 1 percent goal to be in sight, but on the condition that it identifies no significant risk to the sustainability of economic growth, such as from the accumulation of financial  imbalances.  The forecast  that  I  have  provided suggests that, in fiscal 2014, it appears likely that the rate will move steadily closer toward this goal of 1 percent. At the same time, we have not reached a stage where the 1 percent goal is in sight.
+
+Such  an  outlook  is  attended  by  considerable  uncertainties  -  in  particular,  the  future developments in overseas economies described earlier - that could deviate either upward or downward from the projection, and relatively closer attention should be paid to the downside risk for the time being.
+
+## III. Bank of Japan's conduct of monetary policy
+
+I will now move on to the Bank's conduct of monetary policy. The Bank's implementation of further aggressive monetary easing on October 30 marks the fourth time this has been done, counting from the beginning of this year - in February, April, September, and October. At its Monetary Policy Meeting on October 30, the Bank made the following two decisions. First, it
+
+1 For details on the introduction of the Bank's "Price Stability Goal in the Medium to Long Term," please see Masaaki  Shirakawa,  "The  Bank  of  Japan's  Efforts  toward  Overcoming  Deflation"  (Speech  at  the  Japan National Press Club in Tokyo), February 17, 2012. http://www.boj.or.jp/en/announcements/ press/koen\_2012/data/ko120217a1.pdf.
+
+decided  to  increase  the  size  of  the  Asset  Purchase  Program  (hereafter,  the  Program)  by about 11 trillion yen, from about 80 trillion yen to about 91 trillion yen. Second, it established a new lending facility called the 'Stimulating Bank Lending Facility.'
+
+In  the following, while I will mainly discuss our monetary policy decision on October 30, in order to facilitate a better understanding of the aim and content of such a decision, I will start by concisely explaining how a monetary easing policy permeates the economy and prices. The monetary transmission mechanism can be divided into two stages. The first stage is the transmission of monetary easing effects from the realm of monetary policy to the financial environment,  where  firms  and  households  can  achieve  necessary  financing  from  financial markets  and  financial  institutions  at  low  costs.  The  second  stage  is  the  transmission  of effects  from  the  financial  conditions  to  economic  activity  and  prices;  in  other  words,  the extent  to  which  firms  and  households  can  take advantage  of the  accommodative financial conditions to increase their investment and spending.
+
+## Increase in the size of the Asset Purchase Program: stimulating the first stage of the Monetary Transmission Mechanism
+
+Among the decisions at the Monetary Policy Meeting on October 30, the increase in the size of the Program is aimed at stimulating the first stage of the transmission mechanism more forcefully (Chart 7). The Program was introduced in October 2010 in order to generate further easing effects in a situation where the overnight call rate - that is, the Bank's target rate had already been at virtually zero percent. Through the Program, the Bank purchases not only Japanese government bonds (JGBs) and T-Bills but also various types of risk assets, including  CP,  corporate  bonds,  exchange-traded  funds  (ETFs),  and  Japan  real  estate investment trusts (J-REITs). Such purchases of risk assets are unprecedented for a central bank  (Chart  8).  The  aim  of  the  Program  is  to  encourage  a  decline  in  longer-term  market interest rates and a reduction in risk premiums.
+
+Since the introduction of the Program, longer-term market interest rates have been declining steadily (Chart 9). Government bond yields up to three years have declined to an extremely low level of 0.1 percent. The 5-year bond yields have come to nearly 0.2 percent. Reflecting such  developments  in  the  market  rates,  bank  lending  rates  have  also  been  declining. Recently,  these  rates,  both  in  the  short  term  and  long  term,  have  hit  1.0  percent  -  an unprecedented level. The lending attitudes of financial institutions as perceived by firms have also improved clearly, and have reached a level that exceeds the average since the 2000s. The issuing conditions for CP and corporate bonds are also accommodative on the whole. The Bank decided to increase the size of the Program with additional purchases of a wide range of assets that comprise not only JGBs but also risk assets including ETFs. Through such  measures,  the  Bank  intends  to  firmly  maintain  extremely  accommodative  financial conditions, even after entering next year, and support Japan's economy forcefully from the financial side.
+
+## Establishment of the Stimulating Bank Lending Facility: stimulating the second stage of the Monetary Transmission Mechanism
+
+On top of this, the extent to which the private sector can make use of such accommodative financial  conditions  -  in  other  words,  the  second  stage  of  the  transmission  mechanism - becomes crucial. On this issue, while firms' profitability relative to total assets - i.e., ROA has recovered to 3-3.5 percent, the average interest rate paid by firms declined to nearly 1.5 percent, and the gap between these two indicators has become large (Chart 10).
+
+Why is it the case that business activity has not necessarily been invigorated even though it is profitable for firms to raise funds and make business outlays? Among several reasons that I can think of, the first reason owes to the difference in profitability between existing and new investments. The ROA that I just mentioned indicates the profitability of past investment. If the profitability of new investment is lower than that in the past, firms are unlikely to invest. The  second  reason  is  that,  as  a  result  of  prolonged  periods  of  low  growth,  business
+
+sentiment has become cautious and there is not enough risk-taking activity in the corporate sector.  As  for  the  third  reason,  it  is  far  more  profitable  to  invest  overseas  than  at  home (Chart 11).
+
+The  Bank  hears  from  many  corporate  managers  that  there  are  only  a  few  attractive investment opportunities at home. Unless we somehow manage to change this view, it will be difficult to stimulate business investment. The flipside is that investment will increase if we are able to change this view. While the first stage of the monetary transmission channel is the process of encouraging a further decline in market interest rates, we also need efforts to raise 'natural interest rates,' if I may use an economist's jargon.
+
+In order to encourage the second stage of the transmission mechanism, it is vital that a wide range of economic entities, including firms, financial institutions, and the government, play their  respective  roles  with  a  view  to  invigorating  the  growth  potential  of  the  economy. However, the Bank also strongly asserts that we will also do our best, making every possible effort from the perspective of monetary policy. This assertion led to the introduction back in 2010  of  the  Growth-Supporting  Funding  Facility,  which  is  now  generating  some  positive outcomes. Moreover, the Bank decided to establish the 'Stimulating Bank Lending Facility' in October in order to promote the proactive lending activity of financial  institutions  and  help stimulate the credit demand of firms and households (Chart 12).
+
+Under  this  facility,  the  Bank  will  provide  yen-denominated  funds  -  up  to  an  amount equivalent to the net increase in lending - to financial institutions, at their request. The total amount of funds provided by the Bank will be 'unlimited' - that is, there shall be no upper limit.  In  calculating  net  increases in loans, only those extended to the non-financial private sector  will  be  counted,  and  this  can  take  the  form  of  either  yen-denominated  lending  or foreign  currency-denominated  lending.  This  is  because  firms'  overseas  activities  and financial  institutions'  encouragement  of  such  activities  through  lending  have  important implications for the development of Japan's economy in the midst of globalization. Loans with a duration of up to three years can be chosen by the banks, and loans can be rolled over up to  four  years  at  the  request  of  these  banks.  Furthermore, the  interest rate  charged  by  the Bank will be 0.1 percent per annum for now. Thus, financial institutions can borrow funds at a long-term fixed rate equivalent to the Bank's target for the uncollateralized overnight call rate.
+
+The size of this facility will be determined by the voluntary efforts of depository institutions to increase lending. According to data for the 12 months up through August 2012, the amount of loans increased by a total of approximately 15 trillion yen for financial institutions that saw a  rise  in  their  lending.  Of  this,  11  trillion  yen  constitutes  loans  that  originated  at  domestic branches  and  4  trillion  yen  at  overseas  branches  (Chart  13).  Going  forward,  if  these institutions manage to increase their lending more aggressively, the amount of funds that can be  provided  by  the  Bank  will  rise  accordingly.  At  present,  the  Bank  is  in  the  process  of making the necessary arrangements. We plan to release the details of this facility before the end of the year and start its operation as soon as possible.
+
+The Bank decided to call the combination of the Stimulating Bank Lending Facility and the aforementioned Growth-Supporting Funding Facility the 'Loan Support Program.' The aim of this program is to vigorously push forward use of the accommodative financial conditions by the private sector. In doing so, the importance of the Growth-Supporting Funding Facility will not be undermined at all. Under this facility, the Bank - irrespective of whether or not lending has  increased  -  continues  to  encourage  financial  institutions  to  carry  out  lending  or investment in support of invigorating the foundations for Japan's economic growth, and to ensure that the public is well aware of the need to raise the growth potential.
+
+## IV. Issues concerning the overcoming of deflation
+
+Next, in order to facilitate a better understanding of the Bank of Japan's conduct of monetary policy, I wish to go 'back to basics' and describe what it really means to overcome deflation, and what is necessary to accomplish this goal, by referring to several issues.
+
+## Relationship between overcoming deflation and the rate of price rises
+
+The first issue is the relationship between overcoming deflation and the rate of price rises. In general,  the  term  'deflation'  is  used  to  describe  a  continued  decline  in  prices.  Thus,  to overcome deflation means to achieve a state in which such a drop in prices comes to a halt or  in  which  prices  start  rising  at  a  very  moderate  pace,  if  one  looks  at  the  definition  of deflation  from  the  opposite  angle.  According  to  the  Bank's  forecasts  that  I  touched  upon earlier, prices are expected to rise moderately from fiscal 2013 toward fiscal 2014. Given that its  price  stability  goal  of  1  percent  for  the  time  being  has  not  come  in  sight,  the  Bank  is committed to continuing with aggressive monetary easing. In any case, when  we say that overcoming deflation is an important challenge, we are not simply looking for a pick-up in the price index. On this point, we can derive important implications from the Opinion Survey on the General Public's Views and Behavior that the Bank conducts, based on the responses collected from individuals (Chart 14). Among the respondents who felt that prices had gone up, more than 80 percent viewed the price rise as 'rather unfavorable.' In contrast, among those  who  felt  that  prices  had  gone  down,  about  one  third  deemed  the  price  decline  as 'rather  favorable.'  The  results  of  the  survey  may  seem  odd  at  first  sight,  considering  the broadly shared goal of the Japanese population to overcome deflation. On second thought, however, they may not come as a surprise at all. Respondents in the former group may have chosen  'unfavorable'  when  they  were  asked  solely  about  prices;  they  had  to  base  their response on a situation where prices rose without the associated increase in wages.
+
+Our goal is to overcome deflation and have Japan's economy return to sustainable growth with  price  stability.  In  other  words,  in  overcoming  deflation  we  are  not  merely  aiming  to achieve a state in which prices simply rise, but one where better economic conditions are realized on the whole by increasing corporate profits, employment, and wages. There may also be a state in which the economy is overheating but the inflation rate is low. The bubble period in the second half of the 1980s is a typical example. The rate of change in the CPI remained below 1 percent for three years starting from 1986, but nobody refers to that period as one in which Japan was in a state of deflation (Chart 15). In short, what is necessary is to check economic activity, prices, and the financial environment in a balanced manner from the perspective of realizing sustainable growth.
+
+## Reality of inflation expectations
+
+The  second  issue  regarding  the  overcoming  of  deflation  concerns  inflation  expectations. Counter to the view that economic growth is necessary to overcome deflation, we hear the argument  that  the  priority  should  be  to  lift  inflation  expectations  in  order  to  improve  the economy, and that this is exactly what a central bank should do. The mechanism underlying this argument is that lifting inflation expectations in the private sector will lead to a decline in the real interest rate, which is derived by subtracting the inflation expectation rate from the nominal rate, which will in turn stimulate the economy.
+
+Nonetheless, in an environment where neither prices nor wages have risen for a number of years, it is not realistic to believe that the general public's inflation expectations will go up all of a sudden, or that we can manage to lift these expectations somehow. We can think of a situation where inflation expectations alone go up - for example, when the economy is hit by oil shocks - but this is not exactly the same as the overcoming of deflation that we seek.
+
+According  to  the  opinion  survey  that  I  have  just  mentioned,  the  fact  that  most  of  the respondents viewed the price rise as 'rather unfavorable' suggests that there is a possibility of  wide acceptance in the public realm that it is normal for prices not to rise, or that price rises  cannot  be  tolerated.  In  fact,  looking  at  detailed  consumer  price  data  for  the  last 15 years  or  so,  in  the  United  States,  those  items  for  which  prices  pick  up  at  the  rate  of 2.5-3.0 percent have the largest weight, whereas in Japan, those items for which prices pick up at the rate of 0-0.5 percent have the largest weight (Chart 16). On the whole, the CPI is slightly less than 0 percent, but this is due in part to the fact that, compared to the United States, there are a few items - such as televisions and personal computers - for which, for
+
+the purpose of statistics, prices are deemed to be declining significantly in reflection of their improved qualities.
+
+The general public's common understanding on prices - or its perception regarding prices has been formulated on the basis of such conditions, and this is the reality of the abstract notion  of  'inflation  expectations'  in  economic  theory.  Consumers,  with  the  perception  that prices should not rise, are unlikely to accept price hikes by firms, who in return reduce costs including wages; hence, it will take longer for the economy to overcome deflation. After all, it is more important to generate material changes in the economy, including strengthening the economy's  growth  potential  and  achieving  higher  wages.  I  will  come  back  to  this  point shortly.
+
+## Meaning of the output gap
+
+The  third  issue  regarding  overcoming  deflation  concerns  the  meaning  of  the  output  gap. According to the Cabinet Office's estimation, the output gap amounts to about 2 percent of GDP or approximately 10 trillion yen on an annual basis, in line with the Bank of Japan's estimation. Given that it was about 40 trillion yen right after the Lehman shock, the output gap has narrowed substantially,  though  it  still  exists.  Because  the  output  gap  is  generally recognized as a shortage of demand, one can argue that, if a fiscal measure equivalent to the amount of the gap is taken, the gap will be wiped out and this will put an end to deflation. Surely, if such a shortage is temporary in nature, this argument may hold. Nevertheless, one has to bear in mind that the output gap assumes only the present supply-side structure and merely  captures  the  shortage  of  demand  corresponding  to  that  structure.  Society  and  the economy keep changing all the time, and in Japan new demand is being created constantly on the back of the aging population, women's entry into the labor market, and increasingly diverse  preferences.  In  the  medical  and  nursing  business,  one  often  hears  that  services sufficient  to  meet  demand  are  not  being  provided,  mainly  due  to  various  regulations  and labor  shortages  at  worksites,  even  though  there  is  rapidly  expanding  potential  demand resulting from the aging population. Moreover, with regard to the elderly's spending - which has received considerable attention lately - there is a big difference among the elderly in terms of income, health conditions, and taste. Therefore, unlike the consumption by younger members  of  the  population,  the  elderly's  spending  pattern  is  increasingly  granular,  and depending on the creativity of the supply side, there is considerable room left to expand the elderly's  spending.  The  cause  of  this  inability  to  meet  potential  demand  -  namely,  the shortage  of  supply  in  growing  business  areas  -  is  not  measured  in  the  output  gap.  Put differently,  in  a  rapidly  changing  economy,  the  output  gap  only  captures  the  shortage  of demand  in  terms  of  the  current  supply  of  goods  and  services,  and  does  not  capture  the shortage of supply against new potential demand. In this sense, the notion of the output gap is  asymmetric.  Put  differently,  what  should  essentially  be  recognized  as  the  mismatch between supply and demand is instead perceived in the form of the shortage of demand.
+
+In order to improve the output gap in a sustainable manner, it is necessary to restructure the supply side according to economic changes, which enables potential demand to materialize. The newly created demand is based on what people willingly want; hence, this is likely to create a virtuous circle of increasing expenditure, revenue, and income. As such, not only short-term macroeconomic policies but also initiatives to change the economic structure in which new businesses are more likely to emerge, such as enhancing the metabolism of the economy, play an important role in achieving improvement in the output gap.
+
+## Importance of invigorating the growth potential
+
+Last, but not least, is the importance of invigorating the growth potential. This is the issue that provides an overall summary of what I have been talking about.
+
+The  Bank  has  been  emphasizing  repeatedly  that  Japan's  economy  faces  the  critical challenge  of  overcoming  deflation  and  returning  to  a  sustainable  growth  path  with  price stability,  and  that  this  challenge  can  only  be  met  if  efforts  by  a  wide  range  of  economic
+
+agents to strengthen growth potential and support from the financial side proceed hand in hand. Growth potential  is  ultimately  the  ability  to  differentiate  from  the  existing  goods  and services  and  to  cultivate  new  demand  swiftly  at  home  and  abroad.  If  one  succeeds  in providing attractive goods and services that consumers can acknowledge as having worth, one can maintain the ability to control prices while preserving value-added. Such value-added  will  initially  generate  an  increase  in  corporate  profits.  If  this  is  eventually distributed in a balanced manner to the household sector in the form of a rise in employment and higher wages, it will result in a broad-based increase in purchasing power. Furthermore, this will lay out the foundation for the economy where cultivating new demand is likely to be successful. Once the virtuous circle in which rising wages leads to an increase in expenditure and income starts to work through, the general public will begin to willingly accept the idea of moderately rising prices. This is the avenue that the change in price perception - that is, a rise  in  inflation  expectations  -  will  take  in  line  with  the  economic  reality,  and  this  is  the fundamental  mechanism  for  overcoming  deflation.  After  the  Lehman  shock,  wages  have been relatively firm compared with the immediately preceding recovery phase, and we will monitor carefully how they feed into prices in the future (Chart 17).
+
+The ability to cultivate new demand derives from firms' spirit of challenge. At the same time, however,  financial  institutions  need  to  support  the  funding  of  firms  that  exhibit  risk-taking behavior  arising  from  this  spirit,  and  the  government  should  lay  out  foundations  such  as expanding, through decisive deregulation, business areas for firms; such efforts play pivotal roles in helping firms take on challenges. This recognition is shared by the government. At the  Monetary  Policy  Meeting  held  on  October  30,  in  addition  to  the  aggressive  monetary easing, the Bank decided to release the 'Measures Aimed at Overcoming Deflation' jointly with  the  government  in  order  to  state  clearly  their  shared  understanding.  In  this  'shared understanding,'  the  government  showed  a  clear  recognition  that,  in  order  to  overcome deflation, it is essential to reform an economic structure that is predisposed to deflation, as well as conduct appropriate macroeconomic policy management. The Bank strongly expects the government to vigorously promote measures for strengthening Japan's growth potential. Of course, the Bank will make its utmost efforts from the financial side. Once various efforts by a wide range of economic entities come into play, I am confident that sustainable growth with price stability can be achieved.
+
+## V. Issues concerning the Bank of Japan's conduct of monetary policy
+
+In the following, I will introduce issues concerning the conduct of the Bank's monetary policy, bearing in mind questions that are often raised.
+
+## Is monetary easing enough or not?
+
+We have heard the opinion that, with a view to overcoming deflation as early as possible, the Bank's  policy  stance  is  not  enough.  By  contrast,  there  is  another  opinion  arguing  that financial  conditions  are  already  accommodative  enough  and  asking  if  there  is  anything meaningful  to  be  gained  by  further  enhancement  of  monetary  easing.  At  the  press conference  held  after  the  Monetary  Policy  Meeting  at  the  end  of  October,  I  received questions based on both arguments. 2
+
+As  I  have  argued  so  far,  in  order  to  create  a  situation  in  which  prices  would  rise,  it  is imperative  to  pursue  powerful  aggressive  easing  -  that  is,  the  first  stage  of  the  monetary transmission  mechanism  -  and  make  efforts  to  strengthen  the  growth  potential  -  i.e.,  the main feature of the second stage of the mechanism. It will take some time before the efforts to strengthen the growth potential bear fruit. For our part, the effect of monetary easing will
+
+2 For  details,  please  refer  to  the  minutes  of  the  Governor's  regular  press  conference  (available  only  in Japanese) on October 30, 2012. http://www.boj.or.jp/announcements/press/kaiken\_2012/kk1210b.pdf.
+
+be maximized by pursuing further aggressive measures at a pace most consistent with these efforts.
+
+It  is  certainly  true,  as  pointed  out  at  the  press  conference,  that  financial  conditions  have already become quite accommodative, but there is no question that the Bank should exert every effort to enhance its easing effects as much as possible, in an effort to achieve its goal by  imaginatively  using  its  policy  instruments.  In  view  of  this,  the  Bank  decided  to  further enhance  monetary  easing  at  this  juncture,  when  the  economy  has  started  to  weaken somewhat, after carefully examining economic activity and prices.
+
+## Should the bank announce 'unlimited' purchases of financial assets?
+
+With respect to the second issue for discussion regarding monetary policy, we have heard a view that the effect of monetary easing will be reinforced if we announce unlimited purchases of financial assets. In support of this view, the Federal Reserve's policy is sometimes pointed to  as  an  example.  Specifically,  the  Federal  Reserve  decided  at  the  Federal  Open  Market Committee  in  September  to  continue  purchasing  agency  mortgage-backed  securities  until improvement in the labor market is achieved  in  the context of price stability.  The  Bank  of Japan has also stated clearly that it will continue to pursue aggressive monetary easing until it judges the rate of change in the CPI of 1 percent to be in sight. In other words, the Federal Reserve and the Bank of Japan share things in common in their conduct of monetary policy, in  the  sense  that  both  central  banks  are  determined  to  continue  with  necessary  policy measures  to  achieve  appropriate  economic  conditions  and  prices  to  which  they  are committed.
+
+Indeed, looking back at the track record of the Bank of Japan's monetary policy conduct, the Program  started  off  at  a  size  of  about  35  trillion  yen,  with  purchases  of  financial  assets expected to be completed by end-2011. At present, its size has become about 91 trillion yen and its  timeframe  has  been  extended  until  end-2013.  The  Program  has  become  far  more aggressive than the one envisaged at the time of its introduction. Furthermore, the Bank has embarked  upon  a  number  of  policy  measures  -  including  the  enhancement  of  the growth-supporting funding facility and the introduction of the stimulating bank lending facility - in response to changes in economic developments.
+
+I stress once again that the Bank of Japan has been conducting further aggressive monetary easing until it judges the 1 percent goal - in terms of the rate of change in the CPI - to be in sight, and that the Bank has been making full use of new policy measures while not setting any timeframe a priori . I should also note that, in terms of purchasing financial assets without any  timeframe,  the  Bank  regularly  purchases  JGBs  in  line  with  the  increasing  trend  in banknote demand, which grows with the economy, and continues to purchase at the rate of 21.6 trillion yen per year.
+
+## Does increasing 'money' solve the problem?
+
+As  for  the  third  issue,  there  is  a  view  that  the  Bank  should  increase  'money'  more aggressively  in  order  to  overcome  deflation  as  early  as  possible.  There  are  a  number  of indicators of 'money.' Looking at the monetary base - which is the central bank's liabilities and consists of banknotes in circulation and current account balances held at the Bank of Japan - its ratio relative to nominal GDP in Japan has been higher than those in the United States and Europe (Chart 18). In the case of the United States and Europe, it was only after the Lehman shock that this ratio started to rise. On the contrary, in the case of Japan it has been rising for longer periods of time, which gives the impression that the increase in Japan following  the  Lehman  shock  has  not  been  very  noticeable.  However,  even  when  focusing specifically on the period after the Lehman shock, the amount of increase in the monetary base as a ratio relative to nominal GDP is about the same for Japan as it is for the United States and the euro area. Similarly, looking at the money stock - which is equivalent to the amount of cash held by non-financial private sectors - its ratio relative to nominal GDP in
+
+Japan has again been outperforming those in the other two economies, and it is currently on a clear uptrend (Chart 19).
+
+The quantity theory of money - under which one argues that increasing the amount of money will lead to a pick-up in prices - is easy to understand but cannot explain the reality of the current  circumstances  of  zero  interest  rates  that  persist  in  Japan  and  the  United  States (Chart 20).
+
+For the sake of clarity, starting from fiscal 2000, if one assumes that an increase in money will  feed  into  prices  in  accordance  with  the  quantity  theory  of  money,  the  average  rate  of inflation  in  terms  of the year-on-year rate of change in the CPI would become 4.8 percent when one uses the monetary base and 1.6 percent when one uses the money stock. These two figures are considerably different from -0.2 percent, which is what we actually see in the real world. The same argument can be made in the case of the United States and Europe. The  point  that  I  have  been  making  so  far  -  that  is,  in  order  to  overcome  deflation,  it  is necessary not only to achieve accommodative financial conditions but also to have the ability to  make  use  of  them  -  can  also  be  understood  from  the  perspective  of  the  actual money-price relationship.
+
+Apart from the discussion based on quantitative indicators of money, we often hear the view that  the  Bank  should  print  money  more  aggressively,  which  is  a  somewhat  loose  term. Everyone would welcome a situation in which money was distributed freely. But such a story sounds too good to be true, of course.
+
+When one talks about 'money,' this means either cash or deposits; in other words, liquidity at hand. Normally, however, this means either income or wealth. 'A man with a lot of money' ('Okanemochi'  in  Japanese)  refers  to  a  person  with  abundant  income  or  wealth.  But  the money the Bank supplies is different from this. The fact that fund provisioning by the Bank is often referred to as 'printing money' likely generates such a misunderstanding. The Bank's fund provisioning is usually done in the following way: first, the Bank purchases government bonds from financial institutions; and second, those institutions in return receive money in the form of increasing the amount outstanding of the current deposits held at the Bank. In other words,  monetary  easing  is  not  simply  printing  money  and  distributing  it  for  free.  It  is distributed  in  exchange  for  equivalent  purchases  of  financial  assets,  such  as  sovereign bonds, as well as loans with sovereign bonds as collateral. Neither income nor wealth will increase at this stage.
+
+What increases is 'money' in the form of the current deposits at the Bank. Such an action by the central bank generates a decline in interest rates, stimulates the credit demand of firms, and invigorates a variety of economic activities such as investment. Ultimately, it will increase 'money,' which represents income and wealth.
+
+A  possible  counter-argument  is  that  dropping  money  from  a  helicopter  -  or  money  from heaven  -  will  stimulate  the  economy  and  raise  prices. 3 This  is  also  a  loose  expression. Recently, whether or not to cancel the holding of government bonds by the central bank was discussed in the United Kingdom, and this is essentially equivalent to what one means by dropping  money  from  a  helicopter.  Were  this  to  be  done,  the  central  bank  would  record losses, resulting in either a reduction of the bank's profit disbursements or a request to the government  for  injection  of  capital.  Whatever  the  outcome,  the  resulting  action  by  the government would have to be backed up by tax receipts. This action falls into the domain of fiscal policy, which must be determined by the government and the parliament.
+
+3 In  his  speech  on  October  23,  2012,  Governor  King  of  the  Bank  of  England  (BOE)  referred  to  the  thinking behind money creation as well as the problem of combining monetary and fiscal policies. http://www.bankofengland.co.uk/publications/Documents/speeches/2012/speech613.pdf.
+
+Under  the  current  circumstance  of  zero  interest  rates,  holding  money  does  not  incur  any cost; no matter how much money the Bank supplies, money is absorbed just as water is by a sponge. I acknowledge that the total amount of money is important and that the monetary base  is  expected  to  continue  expanding  substantially  on  the  back  of  the  Bank's  current purchases of financial assets. At this juncture, however, it is more important to ensure that money is actually deployed, by invigorating the growth potential of the economy.
+
+## Should the bank purchase foreign bonds?
+
+Lastly, there is a view that the Bank should purchase foreign bonds in order to correct the strong yen.
+
+However, the Bank of Japan Act stipulates that the Bank shall buy and sell foreign exchange as an 'agent handling national government affairs' - that is, an agent of the Finance Minister - when the purpose of the buying and selling, like that of foreign exchange intervention, is to stabilize the exchange rate of the Japanese currency. The Finance Minister is responsible for foreign exchange intervention. This reflects, as I understand, the debates in the Diet on the bill  that  became  the  current  Bank  of  Japan  Act,  when  the  view  was  presented  that  it  was desirable  to  centralize  this  currency  diplomacy  under  the  auspices  of  the  government because there was always a counterparty when it comes to the issue of foreign exchange policy. Under the current legal framework, the government intervenes when it judges that it is necessary  to  do  so,  and  the  amount  of  intervention  since  2010  has  in  fact  exceeded 15 trillion yen (Chart 21). In addition, the government can issue financing bills (FBs) to raise ample funds for intervention at virtually a zero interest rate.
+
+Meanwhile, the Bank monitors with great interest any development in the foreign exchange market  and  its  effect  on  economic  activity  and  prices.  In  particular,  under  the  present circumstances where there is a high degree of uncertainty with regard to future developments  for  overseas  economies,  we  should  be  mindful  of  the  negative  effects  on Japan's  economy  as  a  result  of  the  yen's  appreciation  leading  to  a  decline  in  corporate profits  and  deterioration  in  business  sentiment.  The  Bank  has  been  conducting  monetary policy by taking due account of such effects, and it will continue to do so.
+
+While  factors  determining  foreign  exchange  rates  are  complex,  there  are  several  forces behind the appreciation of the yen after the Lehman shock, including the following: first, as the interest rates in the United States and Europe have declined markedly and the interest rate  differentials  with  Japan  have  narrowed,  there  was  a  reversal  of  yen  carry  trades; second, the yen has come to be perceived as a relatively safe currency on the back of the European debt problem. As for determinants of the foreign exchange rate, one sometimes hears a view that the aforementioned developments in the monetary base have influenced the formation of the exchange rate. Based on historical experience, there seems to be no clear  relationship  between the monetary base and the exchange rate on the whole (Chart 22).  In  any  event,  the  fact  that  the  Bank  has  been  pursuing  powerful  monetary  easing  by depressing  the  already  low  interest  rates  to  an  even  lower  level  should  have  mitigated upward pressure on the yen to some extent.
+
+## Concluding remarks
+
+Today,  I  have  covered  a  wide  range  of  topics,  including  issues  concerning  the  Bank's conduct  of  monetary  policy  and  the  importance  of  invigorating  the  economy's  growth potential. Let me conclude by raising two key subjects that I believe are important in order for the  economy  to  overcome  deflation  and  return  to  a  sustainable  growth  path  -  namely, 'perception' and 'mood.' Such topics may be viewed as the last things to be on the mind of a central  bank's  governor.  They  do,  however,  raise  the  same  awareness  as  did  Keynes' reference to 'animal spirits.'
+
+In handling these topics, let me introduce a fact that I often times refer to these days, that is, an international  comparison  related to  changes in  the  real  GDP  between  the  year  2007  -
+
+prior  to  the  financial  crisis  -  and  today  (Chart  23).  Japan's  current  real  GDP,  like  that  of European  countries,  remains  below  the  level  seen  in  2007.  Looking  at  per  capita  GDP figures, this trend holds true for major countries including the United States. It is worth noting, however, that the drop for Japan is the lowest among these countries. Furthermore, Japan's real GDP per working-age population has exceeded its pre-crisis level, while those for the United States and Europe remain below their levels at that time. Put differently, while Japan as a whole tends to register low growth because of the decline in the working-age population, each  individual  Japanese  worker  contributes  to  an  increase  in  value-added  at  a  pace exceeding that in the United States and Europe. This suggests that we should not become excessively pessimistic. At the same time, however, this implies that merely maintaining the status quo and abandoning efforts to invigorate the economy's growth potential could quite easily send Japan's economy into a severe condition. The average growth rate for the next decade  or  two  is  defined  by  the  potential  growth  rate.  The  potential  growth  rate  can  be broken  down  into  the  rate  of  growth  in  the  number  of  workers  and  that  of  real  GDP  per worker  -  in  other  words,  the  labor  productivity  growth  rate.  Future  developments  in  the number of workers can be determined quite accurately on the assumption of the most recent labor  participation  rate  by  gender  and  age.  According  to  such  estimates,  the  number  of workers will grow at a rate of -0.6 percent in the 2010s and -0.8 percent in the 2020s. The labor productivity growth rate for the years 2000 through 2008 - a period characterized by relatively  favorable  economic  conditions  -  was  1.5  percent  (Chart  24).  Efforts  to  raise  the labor  productivity  growth  rate  are  necessary,  of  course.  However,  we  cannot  expect advanced economies - having already completed their 'catching up' process - to maintain a growth rate as high as 2 or 3 percent. In objectively acknowledging this reality, it is important to  continue  making  efforts  to  raise  the  labor  productivity  growth  rate  and  to  increase  the number of workers through a rise in the labor participation rate.
+
+The starting point of such efforts is the combination of the dispassionate appreciation of the facts  that  I  have  just  mentioned,  and  a  positive  mood  generated  from  awareness  of  the strengths  of  Japan's  economy.  While  the  economy  faces  an  unprecedented  headwind  namely, the rapid aging of and decline in the population - it seems to be that its strengths in such a situation are not objectively understood. For example, today, many Japanese firms maintain  sound  balance  sheets  and  the  business  conditions  of  financial  institutions  have been stable, since Japan did not encounter any large-scale credit bubbles in the mid-2000s. This situation is in stark contrast to the 1990s, when the country was faced with the task of resolving  the  'three  excesses,'  as  evident  at  least  in  the  fact  that  a  financial  base  for supporting efforts to invigorate the economy's growth potential is readily available. What is more, the fact that Japan leads the world in addressing the global issues of population aging and  energy  constraints  can  be  interpreted  as  an  opportunity  to  heighten  its  presence  by continuing to be the world's driving force when dealing with these issues in the future. The so-called  soft  power  is  another  of  Japan's  strengths  that  must  not  be  overlooked.  At  the annual meetings of the IMF and the World Bank held in Tokyo last month, for the first time in 48  years,  Japan  successfully  reinforced  a  strong  impression  on  the  world  of  its  high operational skills for event management, and of its warm hospitality. I have found this to be a reflection of Japan's soft power.
+
+As such, it is important for Japan to unite its strengths and make determined efforts toward invigorating  its  economy's  growth  potential.  In  doing  so,  we  must  recognize  the  various positive qualities that I have just mentioned while holding onto a sense of urgency, although without falling into pessimism. The Bank is determined to continue making its utmost efforts as  the  central  bank  toward  overcoming  deflation  as  early  as  possible  and  realizing sustainable growth with price stability.
+
+Thank you.
+
+BIS central bankers' speeches
+
+## Real GDP Forecasts by Private Sector-Economists
+
+
+
+Note: NIEs consist of South Korea, Taiwan, Hong Kong, and Singapore. Figures are calculated using GDP weight based on the purchasing power parity (calculated by IMF).
+
+'Source: Consensus Economics Inc., "Consensus Forecasts."
+
+## Chart 2
+
+## Private Sector Debt and Public Sector Debt
+
+in
+
+Advanced
+
+Economies
+
+'Sources: BEA; FRB; ONS; Eurostat; Bank of Japan, etc.
+
+
+
+## Real GDP in Advanced Economies after the Bursting of Bubbles
+
+Chart 4
+
+
+
+## Japan's Real Exports by Destination
+
+
+
+Note: NIEs consist of South Korea, Taiwan, Hong Kong, and Singapore. ASEAN4 refers to Thailand, Indonesia, Malaysia, and the Philippines. Sources: Ministry of Finance; Bank of Japan.
+
+## Japan's Real GDP
+
+
+
+2. The circles in the bar charts indicate the median of the Policy Board members' forecasts (point estimates). The vertical lines in the bar charts indicate the range of the forecasts of the majority of Policy Board members.
+
+## Japan's CPI (All Items Less Fresh Food)
+
+
+
+&amp;
+
+lower
+
+30t0.40%
+
+&amp;
+
+lower
+
+40%
+
+to
+
+2. The circles im the bar charts indicate the median of the Policy Board members' forecasts (point estimates). The vertical lines in the bar charts indicate the range of the forecasts
+
+10
+
+t0
+
+20%
+
+- of the majority of Policy Board members.
+3. The forecast for the CPI excludes the direct effects of the scheduled consumption tax hikes.
+
+## Chart 8
+
+## Asset Purchase
+
+Program
+
+Maximum Amount and Actual Amount of Increase in the Size of the Program
+
+
+
+## Breakdown of the Asset Purchase Program
+
+|                   | ; Started in Oct. 2010   | Program size before : recent decision   | i 2   | : Change in amount   | : Amount outstanding   |
+|-------------------|--------------------------|-----------------------------------------|-------|----------------------|------------------------|
+| htended tmescal i |                          |                                         |       |                      |                        |
+|                   |                          |                                         | 2)    |                      |                        |
+| Total size        | as                       | Co                                      | an    | About +11            |                        |
+
+'Note: In addition to purchases under the Program, the Bank of Japan regularly purchases JGBs at the pace of 21.6 trillion yen per year.
+
+## Chart 9
+
+## Interest Rates
+
+
+
+Note: Average contracted interest rate: are the six-month backward moving average: on new loan: and discounts. Sources: Bank of Japan; Bloomberg.
+
+Chart 10
+
+## ROA and Paid Interest Rate
+
+
+
+'Sources: Ministry of Finance; Bank of Japan.
+
+## Chart 11
+
+## Rates of Return on Investment by Domestic Corporations at Home and Abroad
+
+
+
+Sources:
+
+Ministry of
+
+Finance;
+
+Bank of
+
+Japan.
+
+Chart 12
+
+## Establishment of the "Stimulating Bank Lending Facility"
+
+
+
+## Increase in Lending by Financial Institutions
+
+
+
+Note: Financial institutions refer to domestic banks and shinkin banks that are counterparties of the Bank. Source: Bank of Japan.
+
+## Chart 14
+
+## Comments on Prices in the Opinion Survey on the General Public's Views and Behavior
+
+
+
+Source: Bank of Japan.
+
+Note: The Bank conducts its quarterly Opinion Survey on the General Public's Views and Behavior in order to grasp how the public's current 'impression of household circumstances and changes in financial and economic conditions affect their perceptions and actions.
+
+## Long-term Developments in the CPI
+
+
+
+Sources: Ministry of Intemal Affairs and Commumications; Bank of Japan.
+
+## Chart 16
+
+## Distribution of Changes in the CPI by Item
+
+
+
+## United States
+
+
+
+(2) Contribution to CPI Fluctuation? contribution, %
+
+
+
+
+
+Notes: 1. Figures are the annualized rates of cumulative changes from 1997 to 2011 for items comprising the CPI (all items, 2010 base for Japan and as of 2011 for the United States). The weights used in the calculation are 2010 base for Japan and as of December 2011 for the United States. 2. Figures for Japan are calculated by "changes in (1)" x "weights (the 2010 base) " and those for the United States by "changes in (1)" x "weights (as of December 2011)."
+
+Source: Ministry of Intemal Affairs and Communications.
+
+## Chart 17
+
+## Wage Developments in Recovery Phases
+
+
+
+'Note: Figures are total cash earnings for establishments with at least five 7
+
+- Ql = March-May, Q2 = June-August, Q3 = September-November, Q4 = December-February.
+
+Source: Ministry of Health, Labour and Welfare.
+
+## Chart 18
+
+## Monetary Base in Major Countries
+
+
+
+'Note: 1. Monetary base is the sum of banknotes in circulation. coins in circulation, and current account deposits at a central bank.
+
+Sources: Cabinet Office; Bank of Japan; FRB; ECB; Eurostat.
+
+2. Figures for the euro area for 2012/Q3 and Q4 are calculated using its nominal GDP figures for 2012/Q2. Figures for Japan and the United States for 2012/Q4 are calculated using their nominal GDP figure for 2012/Q3.
+
+## Chart 19
+
+## Monetary Stock in Major Countries
+
+
+
+Note: Figures for the euro area for 2012/Q3 and Q4 are calculated using its nominal GDP figures for 2012/Q2. Figures for Japan and the United States for 2012/Q4 are calculated using their nominal GDP figure for 2012/Q3.
+
+Sources: Cabinet Office; Bank of Japan; FRB; ECB; Eurostat.
+
+## Chart 20
+
+## Money, and Economic Activity and Prices
+
+
+
+Note: Figures for the CPI ((a)-(c), (b)-(c)) represent the rates of change in the CPI on the assumption that changes in the monetary base and money stock are reflected in prices in accordance with the "quantity theory of money."
+
+'Sources: Cabinet Office; Ministry of Intemal Affairs and Commumications; Bank of Japan.
+
+cy
+
+## Exchange Rate and Exchange Intervention Results
+
+
+
+Note: Yen/U.S. dollar rates are monthly averages, while the amount of foreign exchange intervention is the monthly total. Sources: Ministry of Finance; Bank of Japan.
+
+Chart 22
+
+## Monetary Base and Exchange Rates
+
+Japan and the United States
+
+Japan and the Euro Area
+
+
+
+
+
+C¥
+
+99
+
+09
+
+Sources: Bank of Japan; Federal Reserve Board; European Central Bank; Bloomberg.
+
+United States and the Euro Area
+
+
+
+Real GDP
+
+
+
+## GDP of Advanced Economies
+
+Real GDP per Capita
+
+Real GDP per Working-Age Person
+
+2007=100
+
+
+
+Notes:
+
+1.
+
+A
+
+15
+
+2.
+
+Figure:
+
+for
+
+2012
+
+
+
+are
+
+January-June averages.
+
+Figure:
+
+for the
+
+population for
+
+2012
+
+are calculated
+
+using the
+
+growth rate
+
+for
+
+2011.
+
+working-age person
+
+refers to
+
+those between
+
+and
+
+64
+
+years old.
+
+Sources: Cabinet Office, "National Accounts"; World Bank; BEA; Eurostat; ONS.
+
+Chart 24
+
+## Developments in Labor Productivity Growth Rate (Real GDP per Worker)
+
+
+
+Note: To eliminate the effects of the financial crisis after the failure of Lehman Brothers, figures for the 2000s are the averages for 2000 through 2008. Figures for the 1970s are the averages for 1971 through 1979. Sources: OECD; Cabinet Office; Ministry of Intemal Affairs and Commumications.

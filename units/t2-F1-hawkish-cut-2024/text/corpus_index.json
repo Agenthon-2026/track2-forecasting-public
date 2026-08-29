@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F1-hawkish-cut-2024",
+  "asof": "2024-12-18",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2024-11-07",
+      "timestamp": "2024-11-07",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20241107.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20241107",
+      "timestamp": "2024-11-26",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20241107_released_2024-11-26.txt",
+      "note": "minutes of the 20241107 meeting, public release 2024-11-26"
+    },
+    {
+      "doc_id": "beige_book-2024-11-30",
+      "timestamp": "2024-11-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202411.txt"
+    },
+    {
+      "doc_id": "macro_release-2024-12-11",
+      "timestamp": "2024-12-11",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2024-12-11.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2024-12-18",
+      "timestamp": "2024-12-18",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20241218.txt"
+    }
+  ]
+}

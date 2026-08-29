@@ -1,0 +1,163 @@
+# source: BIS central bankers' speeches (https://www.bis.org/review/r100729e.pdf) | date: 2010-07-22 | type: cb_speech
+
+Hu Xiaolian: Three characteristics of the managed floating exchange rate regime
+2010-07-22
+
+Hu Xiaolian: Three characteristics of the managed floating exchange rate
+regime
+Article by Ms Hu Xiaolian, Deputy Governor of the People’s Bank of China, Beijing,
+22 July 2010.
+
+                                         *    *    *
+
+The content of the managed floating exchange rate regime includes three aspects. First, the
+floating of exchange rate is based on market supply and demand so that the exchange rate
+plays a role as a price signal. Second, the range of floating adjustment is based on trade and
+current account balances to reflect the “managed floating” nature. Third, the exchange rate is
+determined with reference to a basket of currencies, rather than the bilateral exchange rate
+between RMB and any single currency.
+
+
+I.         A managed floating exchange rate regime based on market supply and
+           demand is to achieve the general balance of the balance of payments account.
+In theory and practice, resource allocation is efficient when the supply and demand is broadly
+in balance. When the supply and demand is not in balance, optimization of resource
+allocation is not possible. When total exports are persistently smaller than total imports,
+resources are not adequately channelled to the export sector, and it would result in shortage
+of foreign exchange and consequently import demand for consumer and capital goods
+cannot be met; when total imports are persistently smaller than total exports, resources are
+overly concentrated in the export sector and subsequently the foreign exchange earned
+through export cannot be absorbed by import and can only be invested overseas. If
+investment is concentrated in low-yield sectors overseas, the resource is not allocated
+efficiently. Since the establishment of a socialist market economy was identified as an
+objective in the 14th CPC National Congress, efficient resource allocation based on market
+supply and demand has become the focus of reform.
+To evaluate the efficiency of resource allocation from a BOP perspective, we mainly look at
+whether the current account is in balance. The capital and financial account, the component
+of the BOP account other than the current account, records, among others, inter-temporal
+investment and would inevitably include speculative activities. International experiences have
+shown that the capital and financial account does not offer a perspective as good as the
+current account in measuring the impact of the exchange rate on efficiency of resource
+allocation. Foreign exchange reserve is an important item in the BOP account. A country’s
+need for foreign exchange reserve may vary in different development stages. The build-up of
+foreign exchange reserves may also be inter-temporal. Inadequacy of foreign exchange
+reserve can be made up by appropriate-surplus, but in the medium and long run a balanced
+current account is best for resource allocation and social welfare.
+The BOP balance, and current account balance in particular, is the basis for equilibrium
+exchange rate analysis. An internationally accepted indicator is the current account balance
+to GDP ratio. For example, the current account norm is the core concept in the
+macroeconomic balance (MB) approach, which is used by the IMF to assess member
+country’s exchange rate. If a country’s current account balance exceeds the norm in the
+medium term, its exchange rate is believed to be undervalued, and otherwise the exchange
+rate is overvalued. The size of the gap between current account balance and the current
+account norm indicates the degree of undervaluation or overvaluation.
+In the medium and long term, the correlation between exchange rate and current account
+balance may not be this simple because resource endowment, industrial division of labor and
+consumption behaviors are more significant factors in international trade and economic
+
+
+
+BIS Review 101/2010                                                                          1
+activities. Nevertheless, good policy-making on exchange rate needs to be supported by
+forward-looking judgment on the supply and demand on the foreign exchange market and
+such judgment is based on analysis of current account balance. The supply and demand on
+the foreign exchange market is of course related to the overall BOP situation, not only the
+current account. Generally speaking, however, the current account reflects activities of the
+real economy, and the current account balance accounts for the major part of BOP. Since
+2007, the share of current account surplus in China’s BOP surplus has been over 75 percent.
+Moreover, with a full convertibility, China’s current account is responsive to market supply
+and demand. Therefore, the analysis of the foreign exchange market based on the current
+account will not lead to systematic errors.
+Since return on investment as a current account item is related to the capital account, as a
+practical consideration, it is not included in current account balance analysis. Instead, the
+analysis looks at trade balance, which is represented by trade statistics from the Customs
+because it is regularly updated and readily available.
+
+
+II.      The Exchange rate floating is based on the current account, mainly the trade
+         account balances
+Managed floating exchange rate serves three purposes. It is needed to deal with any
+unexpected movements in domestic and international markets to avoid dramatic currency
+fluctuations and curb financial speculation; to bring the exchange rate to an appropriate level
+that helps improve resources allocation and promote a balanced BOP account; and to make
+sure that any improvement in resources allocation could be absorbed by most companies
+and would not lead to massive closures and job cuts.
+The equilibrium exchange rate determination theory treats exchange rate as a function of
+current account balance or trade balance. If the function has a linear relationship with current
+account balance, it could be adjusted accordingly. However, the relationship is much likely to
+be non-linear, which means exchange rate floating needs to be progressed in a gradual and
+proper manner and should be managed in line with the state of the economy and BOP
+position.
+Exchange rate adjustment poses pressures on the corporate sector’s structural adjustment.
+A large or rapidly growing trade surplus means companies are generally adaptive to such
+pressures, while a shrinking surplus suggests companies need to enhance their ability to
+deal with exchange rate adjustment. The adjustment process needs to be properly paced to
+take full advantage of favorable factors and contain the impact of disadvantages. It should
+also take into account global economic development and international cooperation to help
+secure the current period of strategic opportunities.
+Exchange rate adjustment helps improve the relative position of domestic and external
+prices, and optimize resources allocation between domestic-oriented sectors and the
+external sector. It supports domestic consumption growth, industrial restructuring and
+innovations. This progress will in turn facilitate market-based adjustment of current account
+position and ultimately contribute to balanced and sustainable growth.
+Exchange rate adjustment also affects capital account. Therefore, it is necessary to closely
+monitor capital flows, stand ready to conduct sterilization operations, and impose limits on
+external debts. It is important to put restrictions on converting the external debts of foreign
+currencies into RMB, and step up efforts to address irregularities in foreign exchange flows,
+as experiences from Thailand and other countries show, borrowing external debt and
+converting it into domestic currencies by the private sector, corporate sector or other sectors
+is a major channel for capital inflows. Temporary control on capital inflow and outflow may
+also be introduced if circumstances warrant, as what has been done recently by a number of
+emerging market economies.
+
+
+
+
+2                                                                                BIS Review 101/2010
+III.       Measure the exchange rate with reference to a basket of currencies
+A floating exchange rate has impact on total imports and exports of an economy. Therefore,
+the floating cannot be aimed to adjust bilateral trade balance and it is not advisable to just
+look at the RMB/USD exchange rate. Theoretically, the best indicator to measure the
+international relative price of tradables is real effective exchange rate, i.e. the exchange rate
+measured by a basket of currencies of major trading partners. Real effective exchange rate
+reflects the movement of dollar exchange rate to other major currencies and has been
+adjusted against the cross country inflation differentials. There are various opinions on the
+currencies in the basket. Though it is necessary to take into account trade, capital flow and
+other factors, weighted trade is usually the major factor to consider because capital flow
+fluctuates. Specifically, the effective exchange rate basket should have a variety of
+currencies to reflect diversification of trade and investment. The weight is to be determined
+based on the current account situation and the currency structure of capital and financial
+account and of cross-border receipt and payment.
+The reference of a basket of currencies is reasonable in theory. In practice, however, the
+nominal effective exchange rate, which is not inflation-adjusted, is more frequently used, for
+the following reasons: First, it is hard to settle on a universally accepted and comparable
+price index. Though commonly used, the CPI may not be appropriate according to
+academicians as it includes prices of many non-tradables. Other options, such as PPI, GDP
+deflator and the index of per unit labor cost, are not widely accepted. Second, the calculation
+of real effective exchange rate has to deal with the time lag and availability of data, and price
+indices such as the CPI are subject to time lags and comparability. There are easily
+accessible and real time data for nominal exchange rate while it takes one month to get CPI
+and PPI readings, at least one quarter to get GDP deflator and even longer for the index of
+per unit labor cost. Moreover, statistical coverage of countries varies greatly and some
+countries hardly have comparable data.
+Compared with pegging to a single currency, the exchange rate regime with reference to a
+basket of currencies will help adjust exports and imports, current account, and balance of
+payment in a more effective manner. It has two-way movements of exchange rate. The RMB
+exchange rate has been basically stable at an adaptive and balanced level though it may
+fluctuate in both ways against any particular single currency.
+Since the RMB exchange rate regime reform that started in 2005, the focus of public
+communications has been the RMB exchange rate regime with reference to a basket of
+currencies. But the mindset of focusing too much attention on RMB/USD exchange rate
+cannot be changed overnight due to behavioral habits and the dominant use of US dollar in
+accounting and statistics. This underpins the necessity for China to make more efforts to
+improve the exchange rate regime based on market supply and demand (mainly through the
+current account and especially the trade account balances) with reference to a basket of
+currencies. In the future, consideration can be given to disclosure of the nominal effective
+exchange rate information on a regular basis and to gradually shift the public’s attention on
+RMB/USD exchange rate to the effective exchange rate of RMB, which is the true reference
+for its movement.
+
+
+
+
+BIS Review 101/2010                                                                             3

@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F4-ust10y-supply-2023",
+  "asof": "2023-09-29",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beige_book-2023-07-31",
+      "timestamp": "2023-07-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202307.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20230726",
+      "timestamp": "2023-08-16",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20230726_released_2023-08-16.txt",
+      "note": "minutes of the 20230726 meeting, public release 2023-08-16"
+    },
+    {
+      "doc_id": "bis_powell_2023-08-25",
+      "timestamp": "2023-08-25",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_powell_2023-08-25.txt"
+    },
+    {
+      "doc_id": "macro_release-2023-09-13",
+      "timestamp": "2023-09-13",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2023-09-13.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2023-09-20",
+      "timestamp": "2023-09-20",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20230920.txt"
+    }
+  ]
+}

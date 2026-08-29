@@ -1,0 +1,28 @@
+{
+  "card_id": "t2-F1-chf-highly-valued-2021",
+  "asof": "2021-06-17",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "bis_jordan_2021-04-30",
+      "timestamp": "2021-04-30",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_jordan_2021-04-30.txt"
+    },
+    {
+      "doc_id": "beige_book-2021-04-30",
+      "timestamp": "2021-04-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202104.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2021-06-16",
+      "timestamp": "2021-06-16",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20210616.txt"
+    }
+  ]
+}

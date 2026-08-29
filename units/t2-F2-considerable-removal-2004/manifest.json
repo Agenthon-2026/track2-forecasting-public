@@ -1,0 +1,112 @@
+{
+  "manifest_version": "2.0",
+  "unit_id": "t2-F2-considerable-removal-2004",
+  "generated_by": "Ruolan Sun",
+  "notes": "Public practice copy. Answer material (reference/) stripped and de-listed by scripts/make_public_dev_copy.py. Panel verified to reach zero ranked targets (ranked-set fingerprint 609d01a848678f34).",
+  "files": [
+    {
+      "path": "card.toml",
+      "role": "fixture",
+      "source": "organizer-authored (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "2202da28b3faab3dcd612ba3db6663547cce336b804fe91e00c37e0a2be9e4b2",
+      "bytes": 2959,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "forecast_card.md",
+      "role": "fixture",
+      "source": "organizer-authored (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "5ee146e21641248c76d30d4a2788b9fad84f6b65f11d043ffed652812fb310b5",
+      "bytes": 1029,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "forecast_spec.json",
+      "role": "fixture",
+      "source": "organizer-authored (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "ceb0eeba3b646cb72558c12b895a87d4a78c1e5daee12f5ffc5b70cc972eb902",
+      "bytes": 959,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "rates_daily.parquet",
+      "role": "input",
+      "source": "U.S. Treasury constant-maturity par yields, Federal Reserve Board H.15 Selected Interest Rates, retrieved via FRED (series: DGS2, DGS5, DGS7, DGS10, DGS20, DGS30)",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "5d8bbb5f143d3255b6e122c37f19079eabe7e655830493acbd80d9638b266049",
+      "bytes": 18231,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/corpus_index.json",
+      "role": "corpus",
+      "source": "organizer-authored corpus index (Agenthon 2026 Track 2)",
+      "license": "MIT",
+      "sha256": "00f9eeb9a700e6c691f7a80023fed3e82d3ce2cdc1da1bd668ec1cfbce999353",
+      "bytes": 873,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/fomc_statement_20031028.txt",
+      "role": "corpus",
+      "source": "U.S. Federal Reserve Board of Governors (federalreserve.gov) -- fomc_statement 'fomc-statement-2003-10-28', dated 2003-10-28",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "6178edacc00a68cc63a9cb67db5cea84028a5814d6d3e5a3d5b8204e04d92bce",
+      "bytes": 1447,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/fomc_statement_20031209.txt",
+      "role": "corpus",
+      "source": "U.S. Federal Reserve Board of Governors (federalreserve.gov) -- fomc_statement 'fomc-statement-2003-12-09', dated 2003-12-09",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "716f7b84cb318f18e45f82d762c0c2d40cabc97ff41ffc1b87188a6e15956329",
+      "bytes": 1357,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    },
+    {
+      "path": "text/fomc_statement_20040128.txt",
+      "role": "corpus",
+      "source": "U.S. Federal Reserve Board of Governors (federalreserve.gov) -- fomc_statement 'fomc-statement-2004-01-28', dated 2004-01-28",
+      "license": "LicenseRef-US-Gov-Public-Domain",
+      "sha256": "66ae95ff4c128623899feb0a935d47bb301572243c484c33df8f6fc2c213e123",
+      "bytes": 1382,
+      "split": "validation",
+      "cutoff": "2004-01-30",
+      "public_release_date": "2026-07-03",
+      "redistributable": true,
+      "pii_stripped": true
+    }
+  ]
+}

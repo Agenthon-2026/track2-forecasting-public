@@ -1,0 +1,525 @@
+Mark Carney: Mark Carney: Pull, push, pipes - sustainable capital flows for a new world order
+2019-06-06
+
+
+
+
+
+## Pull, Push, Pipes:  Sustainable Capital Flows for a New World Order
+
+Speech given by Mark Carney Governor of the Bank of England
+
+Institute of International Finance Spring Membership Meeting, Tokyo
+
+6 th  June 2019
+
+I am grateful to Daisy McGregor and Simon Whitaker for their assistance in preparing these remarks, and to Fernando Eguren Martin, Lukas von dem Berge, Carlos Van Hombeeck, Simon Lloyd, Ambrogio Cesa-Bianchi, Nitya Aasaavari, Delma Essel, Sameeta Thakrar and Wayne Chapman for research and analysis. The research presented in this speech will be detailed in a forthcoming Bank of England working paper.
+
+1
+
+It is a pleasure to be at the IIF. I would like to speak today about your raison d'etre: sustainable cross border capital flows.
+
+Capital flows can be an enormous force for good.  For example, when my native Canada was an emerging economy, net capital inflows averaged 10% of GDP every year for around three decades.
+
+But the recent history of capital flows is more chequered.
+
+After all, the IIF was founded 36 years ago in response to the Latin American debt crisis.  That crisis was the product of an initially well founded and productive - but ultimately over exuberant and destructive - recycling of petro dollars by the banking system.
+
+That period provided painful examples both of how capital flows can support development and how capital flow volatility can undermine it.
+
+The Asian crisis almost 15 years later underscored the risks of relying on inflows that look stable but prove ephemeral.  And subsequent crises in Latin America around the turn of the millennium and in advanced economies (AEs) a decade ago reinforced the risks of taking capital flows for granted.
+
+In theory, foreign capital inflows should support growth through greater allocative efficiency, better risk sharing and increased technology transfer.
+
+But in reality financial openness has proven a double-edged sword.  The typical emerging market economy (EME) receiving higher capital inflows will grow 0.3 percentage points faster, all else equal ( Chart 1 ).  But the typical EME with higher capital flow volatility will grow 0.7 percentage points slower ( Chart 2 ). 1
+
+Charts 1 and 2: Financial openness is a double-edged sword
+
+
+
+
+
+Source: IMF.
+
+Notes: Volatility is the coefficient of variation of gross inflows scaled by external liabilities.  Real GDP growth, gross inflows to GDP and volatility are averaged over 1970 to 2017 for 38 emerging market economies.
+
+1   Comparison is between medians for the high and low groups of the sample shown in Chart 1 and 2, with high and low groups defined as those above and below medians of the sample.
+
+2
+
+Time and again, waves of investment into EMEs are sharply withdrawn ( Chart 3 ).  And more generally, financial openness has tended to amplify domestic imbalances and leave EMEs more vulnerable to foreign shocks. 2
+
+As a consequence, a fifth of all surges in capital flows to EMEs have ended in financial crises.  And EMEs are at least three times more likely to experience a financial crisis after capital flow surges than in normal times. 3
+
+Chart 3: Net private capital flows to emerging market economies and incidences of crises
+
+
+
+Source: IMF. Notes: Excludes China.
+
+Chart 4: Financial openness
+
+
+
+Sources: IMF International Financial Statistics and Lane Milessi-Ferretti (2007) External Wealth of Nations dataset.
+
+2 For a recent summary of all the literature on the factors affecting capital flows to EMEs see Keopke (2019), What drives capital flows to emerging markets? A survey of the empirical literature, Journal of Economic Surveys.
+
+3   Ghosh et al (2016), When do capital inflows surges end in tears?, American Economic Review.  Surges are defined as a net capital flow observation that lie in the top thirtieth percentile of both the country-specific and the full sample's distribution of net capital flows, expressed in percent of GDP.
+
+3
+
+Given the uncertainty over the sustainability of capital inflows, EMEs have defensively accumulated reserves and limited the opening of their capital accounts, including by resorting to overt capital flow management in some cases.  Overall, EMEs have increased their financial openness by considerably less than advanced economies (AEs) since 1980, leaving their external balance sheets only around a third the size of those in AEs, despite much faster growth in external trade ( Chart 4 ).
+
+These responses, while understandable, carry significant opportunity costs.  Excess precautionary savings in EMEs are pushing down equilibrium interest rates, increasing the risks of a global liquidity trap.  And enormous cross border flows will be required to close EME infrastructure investment gaps and to finance the essential transition to a low carbon economy.
+
+Today, I want to examine what drives capital flow volatility and, in the process, sketch an agenda for sustainable capital flows in the new world order.
+
+Specifically, what should be the priorities to increase sustainable cross border capital flows?  How many are the responsibility of the receiving country?  What about the advanced economies who set the tone for the global financial cycle?  And to what extent does the structure of the international monetary financial system itself, including the global safety net, determine safe flows?
+
+To begin to answer these questions, the Bank of England is developing a holistic 'Capital Flows-at-Risk' framework that assesses the relative contribution of the three drivers of Capital Flows-at-Risk: 4
+
+-  'Pull factors' - domestic conditions and institutions that affect the relative attractiveness of investing in an individual country.
+-  'Push factors' - that determine global risk appetite and financial conditions, particularly the level and prospects for US monetary policy and financial stability.
+-  'The Pipes' - the structure of the global financial system itself, particularly the degree to which it dampens or amplifies shocks.
+
+4 This builds on early work by the IMF presented in the October 2018 Global Financial Stability Report relating to portfolio flows.  More details on the Bank of England work will be forthcoming in a Working Paper.
+
+4
+
+Chart 5 : The distribution of capital flows to emerging market economies
+
+
+
+Capital flows as a % of GDP
+
+Sources: IMF and Bank of England staff calculations.
+
+Notes: This chart shows the unconditional distribution of capital flows to EMEs over 2006-2018, and an estimated distribution conditional on a one standard deviation negative shock to pull factors.  The diamonds highlight the fifth percentile, which is our preferred measure of Capital Flows-at-Risk.  We estimate several quantiles of the distribution through quantile regression and then fit a skewed-t distribution; hence, the distribution can both shift and change shape in response to shocks - see annex for further details.
+
+The grey line in Chart 5 shows the unconditional distribution of capital flows, and the purple line shows how the distribution shifts in response to a negative shock.  'Capital Flows-at-Risk' are defined as capital outflows in a severe, low-probability event (that with 5% probability or less). The left tail 'fattens' if bad outcomes become more likely and/or the '5% probability event' becomes more severe - shown by the shift from A (Capital Flows-at-Risk of 1.2% of GDP) to B (Capital Flows-at-Risk of 4.2% of GDP).
+
+The Bank's framework can be used to assess policy options and associated trade-offs, and to communicate policy decisions.
+
+Today, I will provide some tentative conclusions in order to spur further debate and analysis, including as part of the IMF's work on its 'Integrated Policy Framework' and the G20 discussions on the future of the financial architecture.
+
+Our core finding is that the distribution of capital flows will shift and change shape when there is a change in any of the three drivers - pull, push or pipes. 5   In an interdependent world, everyone - advanced economies,
+
+5  The Capital Flows-at-Risk model presented in chart 6 does not explicitly model 'the pipes'. The impact of augmenting the framework with pipes is shown later on in charts [15 and 16].
+
+5
+
+emerging economies as well as the public and private sectors - is responsible for reducing capital flow volatility and increasing sustainable capital flows in order to meet the challenges of our age.
+
+Turning to the three drivers in more detail.
+
+## Pull factors
+
+The conventional wisdom, prior to the financial crisis, was that the best contribution each country can do for itself and others would be to 'keep its own house in order'. 6
+
+The foundations of that house are:
+
+-  Credible inflation targeting regimes.  Credible domestic frameworks for implementing monetary policy - with an operationally independent and accountable central bank at their core - have generally delivered inflation rates that are both lower and less variable. 7   This directly benefits all citizens in good times.  Moreover, greater monetary policy credibility gives a central bank more scope to respond to shocks, and enables financial markets to anticipate better the path for monetary policy, thereby providing a stabilising force during bad times . During the taper tantrum, those economies with betteranchored inflation expectations were able to keep monetary policy relatively more accommodative. 8
+-  Flexible exchange rates. A flexible exchange rate acts as a valuable shock absorber for an economy because domestic wages and prices are relatively 'sticky' (in other words, slow to adjust). For example, suppose there is a spike in global risk aversion. As capital flows are withdrawn flexible exchange rates depreciate. In general, this boosts an economy's competitiveness. However, where economies borrow heavily in foreign currency, and this exposure is unhedged, depreciations can be detrimental for the economy. 9
+-  Fiscal sustainability.  A sustainable fiscal position provides governments with more room to respond to adverse shocks to demand.  Financial markets therefore reward more sustainable fiscal positions: the IMF found that declines in inflows between 2010 and 2015 were 1 percentage points of GDP larger for countries with above-average public debt ratios. 10   Fiscal sustainability is also necessary for a credible nominal anchor.
+
+6   Fischer, S (1988), International Macroeconomic Policy Coordination, in International Economic Cooperation, ed. by Martin Feldstein, Chicago: University of Chicago Press.
+
+7  Rose (2007), A stable international monetary system emerges: Inflation targeting is Bretton Woods, reversed, Journal of International Money and Finance, Elsevier, vol. 26(5), pages 663-681, September.
+
+8   See Chapter 3 of the October 2018 IMF World Economic Outlook.
+
+9  Cesa-Bianchi et al (2015), Global Liquidity, House Prices, and the Macroeconomy: Evidence from Advanced and Emerging Economies, Journal of Money, Credit and Banking, show that for AEs flexible exchange rates dampen the impact of push shocks, whereas for EMs they can amplify the impact of push shocks via a collateral valuation effect
+
+10   See Chapter 2, IMF April 2016 World Economic Outlook.
+
+6
+
+-  An effective macroprudential policy toolkit to curtail the damaging extremes of domestic financial cycles.  Macroprudential policy can guard against rapid credit growth, which is amongst the best early warning indicators of an impending downturn. 11   And higher domestic bank capital ratios reduce the sensitivity of capital inflows to changes in global volatility. 12
+-  And deep domestic capital markets to reduce the reliance on foreign investors and the need to issue in foreign currency, which dampens capital flow volatility ( Chart 6 ).
+
+Chart 6 : Correlation of capital flow volatility and the share of FX-denominated corporate debt
+
+Volatity of capital flows
+
+Share of non-financial corporate debt denominated in USD
+
+
+
+Sources: IMF and IIF. Notes: Measured as coefficient of variation of gross inflows scaled by external liabilities.
+
+11  For example, see Bridges, J, Jackson, C, McGregor, D (2017) Down in the slumps: the role of credit in five decades of recessions , Bank of England Staff Working Paper N. 659; Borio, C, Drehmann, M, Xia, D (2018) The financial cycle and recession risk , BIS quarterly review; Taylor, A, Schularick, M (2012) Credit Booms Gone Bust: Monetary Policy,
+
+Leverage Cycles, and Financial Crises, 1870-2008 , American Economic Review and Cesa-Bianchi, Eguren Martin, Thwaites, (2019), Foreign booms, domestic busts: The global dimension of banking crises, Journal of Financial Intermediation, Elsevier.
+
+12  Hoggarth, G, Jung, C. and Reinhardt, D. (2016) Capital inflows - the good, the bad and the bubbly. Bank of England Financial Stability Paper No. 40.
+
+7
+
+## Capital Flows-at-Risk as a % of GDP
+
+
+
+Sources: IMF and Bank of England staff calculations.
+
+Notes: The grey bars on this chart show the unconditional 5th percentile of the distribution of capital flows in a panel of 13 EMEs since 1996. The purple bars build on the contribution of pull factors to the conditional 5th percentile of capital flows in the current quarter and two quarters ahead. Pull factors are proxied by domestic financial condition indices (DFCIs), which are mean-orthogonalised by a global financial conditions index (GFCI). The coefficient on the DFCIs is estimated by panel quantile regressions. The chart shows PPP-weighted averages across the 13 EMEs in our panel. See Annex for further details.
+
+The Bank of England's analysis finds that the conventional prescription to concentrate on putting one's own house in order had merit: pull factors were the main drivers of capital flow instability prior to the 2008 crisis ( Chart 7 ).  Over the years, this advice has been taken to heart. 13
+
+80% of EMEs are now inflation-targeters, compared to none just prior to the Asian Financial Crisis.  These regimes have generally been successful: inflation has been low and stable across EMEs since the mid-2000s at a median rate of 2.5%, close to the rate in AEs.  In many respects, the exceptions such as Argentina and Turkey prove the norm.
+
+Fiscal policy is more of a mixed picture; debt ratios are lower than in advanced economies but fiscal deficits have widened materially in recent years.
+
+In general, the resilience of emerging economy banking systems has increased with implementation of most of the FSB post-crisis reforms on track.  EMEs are the most active users of macroprudential policy.
+
+13 In the model pull factors are proxied by domestic financial conditions (mean-orthogonalised by global financial conditions), which encompass market views about domestic institutional frameworks.
+
+8
+
+However, while there has been progress in developing domestic capital markets - the depth of EME financial markets has doubled since the turn of millennium - this has been insufficient to meet rising financing needs. As a result, the share of FX-denominated debt has increased sharply ( Chart 8 ).
+
+And while domestic markets have deepened, the share of foreign ownership in EME local currency bond markets has risen, up from 5% on average pre-crisis to around 25% today.
+
+Chart 8 : EM foreign currency debt as a share of GDP
+
+
+
+- (a) Excludes China, non-bank borrowers only.
+
+Sources: IIF and BIS.
+
+Despite these vulnerabilities, the Bank's analysis finds that, for EMEs as a whole, reforms to domestic institutional 'pull factors' have substantially increased the sustainability of capital flows and so shifted the distribution of capital flows to the right ( Chart 9 ), all else equal.
+
+9
+
+Chart 9 : Pull factors have reduced Capital Flows-at-Risk for EMEs since the Asian Financial Crisis
+
+
+
+Sources: IMF and Bank staff calcluations.
+
+Notes: Chart shows the contribution of pull factors to capital flows to EMEs during the Asian Financial Crisis (purple), and since 2008 (green). In both distributions push factors are held at their sample average, so only pull factors are changing. See chart 5 and annex for further details.
+
+## Push factors
+
+Unfortunately for EMEs, all else has not been equal. The importance of 'push factors' has increased over time as monetary policy and financial stability shocks in advanced economies have become both more prevalent and more potent.
+
+And push factors are arguably becoming more important as the fundamental asymmetry at the heart of the global economy deepens.
+
+When the IIF was founded, EMEs made up a little more than 1/3 of global GDP.  Since the last Fed tightening cycle, their share of global activity has risen from around 45% to 60%.  By 2030, it is projected to rise to around three quarters.
+
+But while the real global economy is being reordered, the international monetary financial system has barely begun its transition.  The dollar represents the currency of choice for at least half of international trade invoices, two-thirds of global securities issuance, it denominates two-thirds of EME foreign currency external debt and acts as the monetary anchor in countries accounting for 70% of global GDP . 14
+
+14  Gopinath, Gita, and Jeremy C. Stein. (2018) Banking, Trade, and the Making of a Dominant Currency, Working paper, Harvard University, Cambridge, MA.  Gourinchas, P, Rey, H Sauzet, M (2019), The International Monetary and Financial System, NBER Working Paper No. 25782.
+
+10
+
+## US share of the global e economy
+
+
+
+USd slobal me share of markets
+
+
+
+In fact, the dollar is as dominant today as it was during the Bretton Woods era, and is likely to remain so for some time, as its roles in international payments, as a reserve asset and a funding currency are mutually reinforcing.  15
+
+This means developments in the US have disproportionate influence on global economic and financial conditions.  Indeed, our research suggests that the influence of US financial conditions on foreign GDP has increased by a third relative to its average from 1990 to 2005, despite the US's rapidly declining share of global GDP.
+
+Chart 10: Capital-Flows-at-Risks in emerging market economies are growing again
+
+outflow
+
+
+
+Sources: IMF and Bank staff calculations.
+
+Notes: See chart 7 for notes. Push factors are proxied by the Bank of England's global financial conditions index.
+
+15   Ilzetzki, Ethan, Carmen M. Reinhart, and Kenneth S. Rogoff (2019), Exchange Arrangements Entering the 21st Century: Which Anchor Will Hold? Quarterly Journal of Economics 134 (2): 599-646.
+
+1
+
+s
+
+When the Fed responds to domestic developments (such as a loosening in fiscal policy) global financial conditions and activity react strongly.  This was the case during both the 2013 'taper tantrum' and over the past year, as Fed communications significantly shifted expectations for US monetary policy.  During both periods, Capital Flows-at-Risk in EMEs spiked ( Chart 10 ).
+
+Financial (in)stability in advanced economies has also influenced the sustainability of capital flows to EMEs. During the 2008 global financial crisis, severely undercapitalised and liquidity-constrained banks in advanced economies severely contracted lending to emerging markets, global risk appetite deteriorated, investors everywhere retreated out of EMEs into 'safe haven' economies, and Capital Flows-at-Risk spiked sharply. Similar channels operated again three years later during the 2011 euro crisis ( Chart 10 ).
+
+In total, push factors from AEs have weighed more heavily over the past decade, which has offset some of the improvement in 'pull factors', and shifted the distribution of capital flows back to the left ( Chart 11 ).  Keeping one's own house in order is necessary but not sufficient for sustainable capital flows in the new world order. 16
+
+Chart 11 : Push shocks have been increasing Capital Flows-at-Risk
+
+
+
+Capital flows as a % of GDP
+
+Sources: IMF and Bank of England staff calculations.
+
+Notes: Notes: This chart shows conditional distributions of capital flows to EMEs post-the 2008 crisis (green), and conditioning on a one standard deviation negative 'push shock' (red), as proxied by our global financial conditions index. See chart 5 and annex for further details.
+
+16  Some recent papers have proposed that the existence of a Global Financial Cycle has transformed the well-known international finance trilemma into a 'dilemma', according to which independent monetary policies are possible if and only if the capital account is managed, directly or indirectly (see Rey, H (2013), Dilemma not trilemma: the global financial cycle and monetary policy independence, in Global dimensions of unconventional monetary policy, proceedings of the Federal Reserve Bank of Kansas City Jackson Hole symposium, 2013, pp 285-333).  Other papers suggest the trilemma is still alive, but the process of trade and financial globalisation has worsened the trade-offs that domestic central banks face, raising the marginal value of macroprudential tools (see Obstfeld, M (2015), Trilemmas and Tradeoffs: Living with Financial Globalization," Central Banking, Analysis, and Economic Policies Book Series, in: Claudio Raddatz &amp; Diego Saravia &amp; Jaume Ventura (ed.), Global Liquidity, Spillovers to Emerging Markets and Policy Responses, edition 1, volume 20, chapter 2, pages 013-078 Central Bank of Chile).
+
+12
+
+## Pipes
+
+This underscores the importance of the third driver of Capital Flows-at-Risk, the Pipes, or the structure of the global financial system itself.
+
+Since the crisis, 'the pipes' have changed Capital Flows-at-Risk in at least three ways.
+
+First, over the past decade G20 reforms have made the core safer, simpler and fairer, which has reduced Capital Flows-at-Risk.
+
+Large global banks' common equity requirements and buffers are ten times higher than the pre-crisis standard.  In keeping with new global liquidity standards, banks have changed their funding models and their liquid assets - relative to their liabilities that can readily run - are tenfold higher now than before the crisis.
+
+Regulation has also made banks less complex and more focused.  Trading assets have been cut in half, and interbank lending is down by one-third.
+
+Second, the growth in assets under management, from around $50 trillion a decade ago to over $80 trillion today, is bringing welcome diversity to the financial system, but is also increasing the risks of sudden stops and sharp capital reversals.
+
+Chart 12 : Structure of external liabilities for emerging market economies
+
+
+
+Sources: IMF, EPFR and Bank of England calculations
+
+For EMEs, market-based finance has accounted for all the increase in foreign lending since the crisis, as bank lending has declined and FDI has stayed fairly constant ( Chart 12 ).
+
+13
+
+Within market-based finance, investment funds are growing, accounting for the bulk of the growth in asset management over the last decade.
+
+In parallel, investment fund flows to EMEs now account for around one third of total portfolio flows, compared to around one tenth pre-crisis.
+
+These flows are particularly flighty ( Chart 13 ), reflecting the fact that more than $30 trillion of global assets are held in investment funds that promise daily liquidity to investors despite investing in potentially illiquid underlying assets, such as EME debt. 17   We have recently seen analogous situations in the UK within some niche managers and smaller markets, such as open-ended property funds investing in commercial real estate. 18   The complications would be much greater if a major asset class like EME debt were to freeze up.
+
+This structural mismatch means that these funds can behave particularly pro-cyclically.  Bank of England work finds that redemptions by EME bond funds (those with larger structural mismatches) in response to price falls are five times those for EME equity funds (those with less structural mismatch).  In turn, EME equity funds are twice as responsive as AE equity funds.
+
+While the shift to market-based finance has increased global capital flows to EMEs , it also amplifies spikes in Capital Flows-at-Risk.  Moreover, market-based finance flows are particularly sensitive to push shocks, especially in extreme scenarios ( Chart 13 ).  The recent global growth in assets under management has not yet been fully tested in an extreme scenario, such as a global downturn.
+
+Chart 13 : The sensitivity of Capital Flow-at-Risk to push factors, by source of capital flow
+
+
+
+Capital Flows-at-Risk as a % of GDP
+
+Sources: IMF, EPFR, Bank calculations.
+
+Notes: Chart shows the sensitivity of different capital flows to a negative "push" shock. Coefficients are standardised by each component's share of total flows e.g. the red MBF bar shows how total Capital Flows-at-Risk would respond to a one standard deviation tightening in global financial conditions if all capital flows were accounted for by MBF.
+
+17  Estimates are based on the FSB's measure of 'collective investment vehicles with features that make them susceptible to runs', see FSB Global Monitoring Report on Non-Bank Financial Intermediation 2018.
+
+18  The initial version of the speech mistakenly referred to Real Estate Investment Trusts here, instead of open-ended funds.
+
+14
+
+The third aspect of the pipes is the global financial safety net (GFSN).  Developments in this regard have arguably further increased Capital Flows-at-Risk.  The GFSN has become more fragmented over the past two decades and its core - IMF resources - has shrunk relative to the size of the global financial system ( Chart 14 ).  As a result, individual countries have chosen to self-insure at high cost to both themselves and the rest of the world.
+
+While the IMF's nominal resources have more than tripled over the past decade, they still only represent around 1% of global gross external liabilities and have been on a downward trend from 2.5% in 1980.  Other multilateral arrangements, such as Regional Financing Arrangements (RFAs) and swap lines, are only partial substitutes.  RFAs are largely untested and swap lines may only be used in very specific situations between specific countries.
+
+There is no evidence the formal GFSN deters countries from holding reserves. 19   The extra reserves that EMEs have accumulated over the past two decades have reduced the sensitivity of Capital Flows-at-Risk to Push factors by almost 50%.  But this extra insurance has come at a domestic high cost, both to finance and because reserves can crowd out domestic investment. 20   And it has global externalities, with the vast accumulation of safe assets distorting yields, building global imbalances and increasing the risks of a global liquidity trap. 21
+
+Chart 14 : Components of the global financial safety net as a per cent of global external liabilities
+
+
+
+Sources: IMF, central bank websites, RFAs, Lane Milessi-Ferretti (2007) External Wealth of Nations dataset and Bank calculations.
+
+Notes: FX reserves exclude gold.
+
+19 See Scheubel, B, L Stracca and C Tille (2019), Taming the global financial cycle: What role for the global financial safety net?, Journal of International Money and Finance 94: 160-182.
+
+20  To limit the impact of FX reserve accumulation on the domestic money supply, most central banks sterilise their intervention through the issuance of bonds. The fiscal cost of FX reserve accumulation can be calculated as the difference between the interest paid on the sterilisation instrument and the interest received on FX reserve assets, which are typically low-yielding, low-risk foreign government bonds. The IMF estimated this wedge to be around 200 bps on average.  It can crowd out domestic investment as central bank sterilisation bonds compete for domestic savings.
+
+21  The increased demand for safe assets driven by this desire for safety - which Ben Bernanke christened a 'savings glut' - helped drive down the equilibrium interest rate, the interest rate central banks must deliver in order to balance demand with supply and so achieve stable inflation.
+
+15
+
+Augmenting the Bank of England's Capital Flows-at-Risk framework with the major structural changes in the global financial system materially changes the Bank's assessment of the quantum of Capital Flows-at-Risk when there are push shocks.
+
+Chart 15 : Major structural changes are increasing the sensitivity of Capital Flows-at-Risk to  push shocks
+
+Capital Flows-at-Risk as a % of GDP
+
+
+
+Total
+
+Sources: IMF, EPFR, IIF, Bank calculations.
+
+Notes: This chart shows estimates and projections for the sensitivity of Capital Flows-at-Risk to negative push shocks at different points in time. The chart is based on separate panel quantile regressions for FDI, banking, market-based finance and investment fund flows. We use the global FCI (push), country-specific FCIs (pull), and the share of NFC debt denominated in foreign currency as regressors. The third bar combines regression results with projections for the composition of flows and the role of FX-denominated debt in 2030, as described below and in footnote 21. The fourth bar also takes into account projected growth in EM's external balance sheets as described below and in footnote 21.
+
+In particular, we estimate that the growing shares of FX-denominated debt, market-based intermediation and, within that, the increasing role of investment funds, have increased the sensitivity of Capital Flows-at-Risk to push factors by 50% since the crisis (second bar, Chart 15 ) - largely using up the self-insurance purchased by EMEs.
+
+Left unattended, these vulnerabilities are likely to grow.
+
+If history serves as a guide to the evolution of EME balance sheets, EMEs' external liabilities could double as a share of GDP by 2030: market-based finance could then account for half of external liabilities, up from onethird today.  And if investment funds keep growing as they have over the past few years they could represent 40% of market-based finance flows to EMEs in a decade's time.  22
+
+22  There is a systematic cross-country relationship between the size and composition of external balance sheets with levels of incomes per capita.  This has been combined with current forecasts (and for investment funds recent trends) to generate scenarios for the size and composition of EM balance sheets in 2030. In early stages of development a country's cross-border finance tends to reflect trade finance provided by banks.  As global value chains develop FDI becomes more important.  Finally, market-based finance increases as financial
+
+16
+
+These flows will benefit EMEs in good times, but if domestic institutional frameworks do not evolve in parallel, they could also be major sources of instability.  By 2030, the sensitivity of Capital Flows-at-Risk to push factors could triple (fourth bar, Chart 15 ).
+
+This would fully cancel out the positive impact of domestic reforms in EMEs over the past two decades: the shift left in the distribution when there is a push shock (grey distribution, Chart 16 ) is likely to be at least as great as the shift right that we have seen over the past two decades because of improvements in pull factors.
+
+While these calculations should be taken with a grain of salt, they suggest that in a new world order that combines growing market-based finance with a deepening asymmetry at the heart of the international monetary financial system, fast reforming EMEs could be running to stand still in their quest for higher sustainable capital flows.
+
+Chart 16 : Emerging market economies could be running to stand still in the future
+
+Average 2009-18
+
+
+
+Sources: IMF, EPFR, IIF and Bank staff calculations.
+
+Notes: The green and red distributions in this chart are the same as in Chart 11. The dotted grey distribution results from increasing the sensitivity of the distribution to push shocks in line with the scalar in the third column of chart 15, assuming they apply through the distribution (rather than only to 5th percentile). Estimating the impact of these vulnerabilities on the full distribution is a rich area for future work. The teal distribution conditions on average push and pull factors 1996-06. See Chart 5 and Annex for further details.
+
+systems become more sophisticated and institutions trusted and assets and liabilities created by the first two layers are actively managed. See, BIS Annual Review (2017), Understanding globalisation.
+
+17
+
+## Policy Priorities
+
+This possibility underscores that everyone must contribute to building the sustainable capital flows we need.
+
+Emerging market economies should continue determined reform of domestic institutional frameworks to turn pull factors into insulators rather than amplifiers.
+
+Historically, countries have only benefited from financial openness once they reach a critical threshold of financial depth and institutional quality. 23
+
+EMEs therefore need to reinforce the significant progress they have made on monetary policy credibility, including safeguarding central bank independence.
+
+Fiscal space will need to be used carefully given ongoing structural imperatives, the rising risks of global shocks, and the clear limits of monetary policy.
+
+To realise fully the benefits of financial openness EMEs need to reinforce banking system resilience and deepen their domestic capital markets, particularly to reduce reliance on foreign-denominated debt. 24
+
+It will be particularly important for EMEs to continue to develop macroprudential policy toolkits to guard against excessive credit growth and high levels of indebtedness.  Tightening of prudential policy in EMEs dampens the spillover from US monetary policy tightening by around a quarter, 25  and reduces Capital Flows-at-Risk ( Chart 17 ).
+
+23 Kose, M, Prasad, E and Taylor, A (2010), Thresholds in the process of international financial integration, Journal of International Money and Finance.
+
+24  The G20 has previously discussed these issues, for example see Report of the G20 Eminent Persons Group on Global Financial Governance (October 2018) and G20 Action Plan on the Development of Local Currency Bond Markets (July 2013) 25  Coman, A, Lloyd, S (forthcoming) In the Face of Spillovers: Prudential Policies in Emerging Economies .
+
+18
+
+Chart 17 : The impact of macroprudential policy on Capital Flows-at-Risk
+
+
+
+Sources: IMF, Cerutti et al (2015) and Bank staff calculations
+
+Notes: Chart shows conditional distributions of capital flows to EMEs under an average macro-prudential stance and a one standard deviation tighter macro-prudential stance, as measured by Cerutti et al. (2014). The unconditional distribution differs from others in the speech given data on macro-prudential actions only starts in 2001 rather than in 1996 as the rest of our data. See chart 5 and annex for further details.
+
+So many of the traditional imperatives for EMEs remain, but the Bank of England's analysis shows that keeping one's house in order won't be sufficient, the neighbourhood too must change. 26
+
+It is in the interest of advanced economies to moderate push factors.
+
+As EMEs have grown as a share of the global economy, so too have 'spillbacks' to advanced economies.
+
+The projected rise in capital flow volatility because of structural changes in the global financial system could take 1.2 percentage points off EME growth by 2030, all else equal.  Rising 'spillbacks' to advanced economies means growth there could also be at least 0.2 percentage points lower. 27
+
+And while it is unrealistic to expect advanced economy policymakers to internalise fully spillovers from their actions on emerging markets, given their domestic mandates, AE monetary policies will increasingly need to take account of spillbacks . The spillover from a one standard deviation tightening in US financial conditions now reduces GDP for the average emerging market economy by around 0.2%, twice its 1990-2004 average. And the spillback from a 1% hit to EME GDP now drags on US activity by 0.15%, compared to 0.1% in 1990.
+
+26  Some economists have called for monetary policy rules that constrain the actions of sending-country central banks under some circumstances, see Rajan, R (2019), Rising Tide, Finance and Development, June.  Certain kinds of unconventional monetary policy actions in specific environments could be ruled out of order because of the large adverse spillovers they create-much as sustained one-directional intervention in the exchange rate was frowned on until recently. In this view, adhering to such rules would not be a matter of altruism. Countries that have signed the IMF Articles of Agreement already accept responsibility for the international consequences of their actions.
+
+27  The impact on EME growth combines estimated higher volatility, derived from the Capital Flows-at-Risk model in the face of increasing sensitivity of capital flows to global factors, with the historical relationship between growth and volatility shown in Chart 2. The spillback to advanced economies is consistent with estimates in the following paragraph for the US.
+
+19
+
+Taking the two together, spillbacks from a tightening in US financial conditions have tripled - accounting for around 6% of the impact of changes in US financial conditions on US GDP.  These effects will grow as financial integration continues.
+
+Continued transparency around monetary policy will also help EMEs to anticipate Capital Flows-at-Risk, and take pre-emptive actions where warranted.
+
+As long as there remains a fundamental asymmetry between the multi-polar global economy and dollardominated international monetary financial system, absent other reforms EMEs may turn to Capital Flow Management (CFM) measures to safeguard financial stability in the face of push shocks.
+
+For example, limits on foreign currency borrowing and restrictions on the activities of open-ended investment funds could help EMEs to avoid dangerous build-up in volatile debt.
+
+But there are clear shortcomings to CFMs.  History has shown them to be addictive and often highly distortionary.  That is why the IMF's Institutional View makes clear that CFMs should not substitute for domestic institutional reforms nor warranted macroeconomic adjustments.
+
+There are two major challenges in operationalising CFMs.  The first is proving intent so as not to provoke retaliation.  The second is that they can panic investors and make matters worse.
+
+A Capital Flows-at-Risk framework might help with these judgements.  If authorities can develop and agree a holistic approach it could inform policy actions, including the occasional disciplined use of Capital Flow Management tools in EMEs and the deployment of macroprudential measures in AEs.
+
+Indeed, policymakers in 'push' economies also have special responsibilities to manage risks in these global public goods.  This is especially the case for the Bank of England, given the City's role as the world's leading internationally active financial centre.  Recognising that the City is a global public good, we have transformed the resiliency of UK-based banks, we are well on the path to ending too-big-to-fail, and we have overhauled our liquidity facilities to support continuously open markets. 28   We have simplified the complex and opaque web of OTC derivatives trade.  And we have convened market participants to develop new standards of market practice, such as the Global FX Code and the FMSB standards for FICC markets.  The UK's Senior Managers Regime (SMR) gives teeth to voluntary codes by incentivising firms to embed them and by reestablishing the link between seniority and accountability.
+
+The Bank's findings suggest that the global macroprudential responsibilities of AEs will likely extend to the oversight of market-based finance given its potential for major cross-border spillovers.
+
+28 See Carney, M (2017), 'True Finance - Ten years after the financial crisis'.
+
+20
+
+## Reinforcing the best of resilient non-bank financial intermediation
+
+Over half of investment funds have a structural mismatch between the frequency with which they offer redemptions and the time it would take them to liquidate their assets. 29   Under stress they may need to fire sell assets, magnifying market adjustments and triggering further redemptions - a vicious feedback loop that can ultimately disrupt market functioning.
+
+Two-thirds of investment funds with structural mismatches are domiciled in the US and Europe so, as is the case for banks, ensuring leverage and liquidity risks are managed in funds investing abroad is both a national asset and a global public good.
+
+System-wide stress simulations are currently being developed, including at the Bank of England, to assess these risks. 30   And authorities are beginning to consider macroprudential policy tools to guard against the build-up of systemic risks in non-banks.
+
+Regulators currently have far less sight of risks within funds compared to the core banking system, particularly synthetic leverage arising from funds' use of derivatives.  IOSCO is consulting on a set of metrics for measuring leverage.  To be most decision-useful, these need to be consistent and comprehensive across countries.
+
+The upcoming FSB-IOSCO evaluation of implementation and effectiveness of recommendations to address liquidity mismatch in funds will be crucial to improve our understanding of best practice, including the merits of adjustments to redemption periods to be more consistent with investments.
+
+We are mindful that these decisions could have global as well as local implications.  And we would welcome the IIF's contributions to informing these judgements.
+
+## The GFSN
+
+Better surveillance, a more resilient core of the financial system and a macroprudential approach to marketbased finance will all help increase sustainable capital flows, but they will be most effective if they are underpinned by an adequate GFSN.
+
+Pooling resources at the IMF is much more efficient than individual countries self-insuring against Capital Flows-at-Risk, distributing the costs across all 189 member countries.  To maintain reserve adequacy in the face of future larger and more risky external balance sheets, EMEs would need to double their current level of reserves over the next 10 years - an increase of $9 trillion.  A better alternative would be to hold $3 trillion in
+
+29  Estimates are based on the FSB's measure of 'collective investment vehicles with features that make them susceptible to runs', see FSB Global Monitoring Report on Non-Bank Financial Intermediation 2018.
+
+30  For example see Baranova, Y; Coen, J; Lowe, P; Noss, J; and Silvestri, L (2017), Simulating stress across the financial system: the resilience of corporate bond markets and the role of investment funds, BoE FS Paper No. 42, July.
+
+21
+
+pooled resources, achieving the same level of insurance for a much lower cost. 31   This would imply a tripling in the IMF's resources over the next decade, enough to maintain their current share of global external liabilities. 32
+
+The design of the GFSN is also important.  Positive steps have been made in recent years by introducing precautionary liquidity facilities so countries can borrow to prevent crises, as well as mitigate their impact. This should also reduce stigma of drawing on the facilities.  But so far, only a few countries have taken them up.  It is important to do everything we can to normalise use of these precautionary facilities. 33
+
+## Conclusion
+
+In the deceptively simpler time of the pre-crisis world order, 'keeping your house in order' was a handy prescription of the G7 to EMEs.  When countries were hit by volatile capital flows, they were admonished that there were 'no innocent bystanders' and that only by doubling down on the Washington Consensus reforms could they be free to enjoy the benefits of sustainable cross-border investment.
+
+The experience of successive crises and shocks - confirmed by the Bank of England's analysis - suggests that advice was once worthy but is increasingly incomplete.  The significant improvements in the institutional frameworks of EMEs are being offset by the deepening fundamental asymmetry in the international monetary financial system, the continued shrinking of the GFSN, and the rapid rise of market-based finance.
+
+Now there can be innocent bystanders: but there should be no disinterested observers.
+
+We are all responsible for addressing the fault lines in the global financial system and its safety net.  The IIF with its diverse and global membership can make a major contribution.
+
+In doing so we will reduce the volatility of capital flows, increase the sustainability of cross-border investment, and meet the great challenges of our age.
+
+31  Since 1980 a maximum of 30% of EMs have concurrently been in an IMF programme, and since 1970 a maximum of 38% of EMs have experienced a crisis concurrently.
+
+32  This is based on projections of emerging market economies' external balance sheets - see footnote 21.
+
+33  To date three countries, Colombia, Mexico, and Poland, have used the IMFs Flexible Credit Line.  While none of the three countries have so far drawn down on these lines, the FCL has provided a valuable backstop for these countries and helped boost market confidence during the period of heightened risks.
+
+2
+
+## Annex: Capital flows-at-risk
+
+The Bank's capital flows-at-risk (KF@R) framework is based on the use of quantile regression methodology. It models the entire distribution of gross capital inflows to emerging market economies (EMs) based on a set of covariates, and focuses on the dynamics of the left tail of those conditional distributions, which is taken to be the relevant measure of capital flows-at-risk .
+
+In  the  baseline  specification, the  distribution  of  capital  flows  is  estimated  conditional  on  proxies  for  'push' and 'pull' factors.  For this purpose, the framework makes use of in-house financial conditions indices (FCIs), which measure co-movement in a series of financial indicators at the country level. 34   The global average of these  indices  is  considered  to  be  a  summary  measure  of  'push'  factors,  and  the  residual  obtained  from regressing country indices on this global FCI to be a country-specific summary measure of 'pull' factors.
+
+For different horizons (h) and quantiles (φ) of the distribution, a panel regression of capital flows is performed on a constant, and the proxies for push and pull factors: 35
+
+
+
+This specification allows capital flows-at-risk to be estimated, which is measured as the 5th percentile of the distribution in the baseline case. This specification is estimated on quarterly gross-inflows from non-residents to a set of 13 EMs over the period 1996-2018. 36   The specification is estimated separately for FDI, banking and  portfolio  flows,  and  a  split  of  portfolio  flows  into  those  intermediated  via  investment  funds  and  those which  are  not.    The  analysis  focuses  on  the  effect  of  push  and  pull  shocks  on  capital  flows  in  the contemporaneous quarter and the subsequent two quarters.
+
+In a second specification the role of a set of additional factors ( X ) in affecting the sensitivity of capital flowsat-risk to global push shocks is considered.  This is done by adding an interactive effect to equation (1): 37
+
+
+
+A  series  of  factors  is  considered:  in  one  specification  the  focus  is  on  the  share  of  foreign  currencydenominated  debt  and  a  measure  of  reserve  adequacy,  while  in  another  specification  the  role  of  macroprudential policy is analysed.
+
+34  The FCI is the first principal component of the following series: long term government bond yields, term spreads, sovereign spreads, interbank spreads, corporate spreads, equity returns, equity volatility and financials market capitalisation (normalised by the broader market). These indices are based on those presented by the IMF in their April 2017 GFSR.
+
+35  The main difference between this specification and the one proposed by the IMF in their October 2018 GFSR is that they consider capital flows in aggregate across EMs and, consequently, can only look at the effect of push factors. The choice to do this in a panel setting  with  country-specific series means pull factors can be incorporated into the analysis. The current  analysis also broadens the scope from portfolio flows to different types of capital flows.
+
+36 The  EMs  considered  are  Argentina,  Brazil,  Chile,  Colombia,  Hungary,  India,  Indonesia,  Mexico,  Peru,  Philippines,  Russia,  South Africa and Turkey.
+
+37 Horizon and quantile subscripts are dropped here for simplicity.
+
+23

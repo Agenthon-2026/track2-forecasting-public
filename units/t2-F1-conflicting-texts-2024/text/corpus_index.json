@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F1-conflicting-texts-2024",
+  "asof": "2024-06-12",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2024-05-01",
+      "timestamp": "2024-05-01",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20240501.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20240501",
+      "timestamp": "2024-05-22",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20240501_released_2024-05-22.txt",
+      "note": "minutes of the 20240501 meeting, public release 2024-05-22"
+    },
+    {
+      "doc_id": "beige_book-2024-05-31",
+      "timestamp": "2024-05-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202405.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2024-06-12",
+      "timestamp": "2024-06-12",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20240612.txt"
+    },
+    {
+      "doc_id": "macro_release-2024-06-12",
+      "timestamp": "2024-06-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2024-06-12.txt"
+    }
+  ]
+}

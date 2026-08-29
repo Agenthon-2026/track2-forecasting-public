@@ -1,0 +1,35 @@
+{
+  "card_id": "t2-F2-aud-taper-2013",
+  "asof": "2013-05-24",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "bis_stevens_2013-04-10",
+      "timestamp": "2013-04-10",
+      "source": "BIS central bankers' speeches (full archive)",
+      "doc_type": "cb_speech",
+      "file": "bis_stevens_2013-04-10.txt"
+    },
+    {
+      "doc_id": "beige_book-2013-04-30",
+      "timestamp": "2013-04-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201304.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2013-05-01",
+      "timestamp": "2013-05-01",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20130501.txt"
+    },
+    {
+      "doc_id": "bernanke_jec_testimony_2013",
+      "timestamp": "2013-05-22",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "bernanke_jec_testimony_2013.txt"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+Kazuo Ueda: Ueda Kazuo: Basic thinking on monetary policy and the outlook for economic activity and prices
+2023-05-19
+
+
+
+May  19,  2 0 2 3
+
+Bank  of  Japan
+
+## Basic Thinking on Monetary Policy and the Outlook for Economic Activity and Prices
+
+Speech at a Meeting Held by the Naigai Josei Chosa Kai (Research Institute of Japan)
+
+## UEDA Kazuo
+
+Governor of the Bank of Japan
+
+(English translation based on the Japanese original)
+
+## Introduction
+
+It  is  my  great  pleasure  to  have  the  opportunity  to  address  you  today  at  the  Naigai  Josei Chosa Kai.
+
+This is my first speech since assuming office as Governor of the Bank of Japan. As I fulfill my duties as governor over the next five years, one of the things I will endeavor to do is to make logical  decisions  and  provide  explanations  as  clearly  as  possible.  Monetary  policy exerts its intended effects by working on financial markets and people's behavior at large. Therefore,  it  is  important  for  the  Bank  to  gain  the  public's  understanding  of  the  thinking underlying the Bank's policy conduct and the background to its policy decisions. Since the economy  is  driven  by  a  complex  interplay  of  a  variety  of  factors  and  monetary  policy involves  specialized  and  technical  aspects,  I  will  try  to  provide  clear  and  detailed explanations, unraveling the complexities one by one.
+
+I  have  been an economist for nearly 50  years. Academics focus on a particular aspect of what  is  actually  happening  and  construct  theories  designed  for  that  aspect.  In  contrast, central bank policymakers are confronted with the actual complexities of the economy and need  to  make  timely  and  appropriate  decisions,  so  the  perspectives  of  the  two  groups naturally differ. However, economic theory provides a useful perspective for understanding economic phenomena, and conversely, insights gained from the policy field can lead to the development  of  new  theories.  Economic  theory  and  policy  practice  evolve  in  a  closely interrelated manner, and I am committed to implementing the practice of monetary policy responsibly, while keeping the theoretical basis in mind.
+
+Today, as a first step, I would like to share with you the Bank's basic thinking on monetary policy,  including  the  course  of  policy  conduct  to  date.  I  will  also  talk  about  the  Bank's current  conduct  of  monetary  policy,  referring  to  the Outlook  for  Economic  Activity  and Prices (Outlook Report) released at the end of April.
+
+## I. The Basic Thinking on Monetary Policy
+
+The Bank is currently conducting large-scale monetary easing, with the aim of achieving the price  stability  target  of  2  percent.  The  last  time  I  was  involved  in  the  Bank's  monetary
+
+policy conduct was from 1998 to 2005 as a Policy Board member. 1998 was the year that the new Bank of Japan Act came into effect and monetary policy was implemented under a new  framework,  including  the  Monetary  Policy  Meetings;  it  was  also  the  year  when deflation began. It is no exaggeration to say that the 25 years since then have been marked by a battle toward achieving price stability.  In  the  following,  I  would  like  to  explain  the Bank's basic thinking on monetary policy, while also referring to this history.
+
+## Transmission Mechanisms of Monetary Policy
+
+Let me start with the mechanisms through which monetary policy affects prices. Today, I will  explain  a  somewhat  simplified  version  of  the  main  mechanisms,  focusing  on  two (Chart 1).
+
+The first mechanism concerns the relationship between interest rates and economic activity. The starting point for monetary policy is interest rates. The Bank raises or lowers interest rates to influence economic activity. For example, when the Bank lowers interest rates, the borrowing rates at which firms make business fixed investment and households purchase homes  also  decline,  thereby  stimulating  demand.  This  creates  employment  and  boosts economic  activity.  Conversely,  an  increase  in  interest  rates  works  in  the  direction  of reducing demand and suppressing economic activity and employment.
+
+The  second  mechanism  concerns  the  relationship  between  economic  activity  and  prices. Prices are thought to be determined by the balance between supply of and demand for goods and services in the economy as a whole, or the output gap. When the economy is booming and demand is high, there is a higher probability of a rise in the inflation rate. Conversely, when the economy is sluggish and demand is weak, the inflation rate falls. This relationship between the inflation rate and the output gap is known as the "Phillips curve" in economics. It  is  named  after  the  New  Zealand  economist  William  Phillips,  who  first  discovered  the relationship between the nominal wage growth rate and the unemployment rate in the late 1950s. Since then, it  has become an important framework for explaining the relationship between prices and economic activity.
+
+Once  the  position  and  shape  of  the  Phillips  curve  are  identified,  it  becomes  clear  how monetary policy should be conducted. To adjust the output gap to a level that corresponds to the  inflation target,  monetary  policy  should  be  tightened  if  the  inflation  rate  is  above  the target, and conversely should be eased if it is below the target. This is the simple yet most fundamental principle of monetary policy.
+
+Of course, monetary policy in practice is not that straightforward. This is partly because the position of the Phillips curve can change and the inflation rate can temporarily deviate from the curve (Chart 2).
+
+I  will  explain  two  factors  behind  these  developments  here:  inflation  expectations  and temporary  supply  shocks.  Inflation  expectations  refer  to  people's  expectations  about  the future rate of inflation. When firms set prices for goods and services, they consider not only supply and demand at that point in time, but also their expectations for prices in the future. For example, when setting the price of ramen noodles, firms make their outlooks  for the price  of  ingredients  and  the  wages  of  part-time  workers  and  add  an  appropriate  profit margin to determine the price. Since frequent price changes may confuse customers, prices are  not  revised  that  frequently.  Therefore,  if  raw  material  prices  and  part-time  wages  are expected to rise, firms will set correspondingly higher prices in advance. In other words, for a given current supply and demand environment, higher inflation expectations will lead to higher  inflation,  and  vice  versa.  Applying  this  to  the  Phillips  curve,  changes  in  inflation expectations will cause the curve itself to shift up or down.
+
+What about the other factor, temporary supply shocks? A typical example is a sharp rise in crude  oil  prices,  such  as  that  seen  last  year  due  to  supply  concerns  associated  with  the situation surrounding Ukraine. International commodity prices such as crude oil prices are determined  regardless  of  the  domestic  output  gap  in  Japan.  However,  since  crude  oil  is widely used as an energy source and raw material, a rise in the price of crude oil will not only  increase  the  price  of  gasoline,  but  also  the  prices  of  various  goods  and  services, including dining-out. If such developments are not sustained and instead are temporary, the observed inflation rate will rise briefly to a greater extent than what can be explained by the output gap and thereafter move back to somewhere on the original Phillips curve again as
+
+the effects of the supply shock fade away. Needless to say, if inflation expectations rise due to a supply shock, this could shift the Phillips curve upward, and thus the two factors are interrelated.  The  rise  in  inflation  brought  through  these  developments  is  known  as  the second-round effects of the supply shock.
+
+So far, I have talked about the basic framework of monetary policy. Next, I would like to explain in detail changes in the environment surrounding prices over the past 25 years and the Bank's policy responses, using the framework of the Phillips curve.
+
+## The "Two Challenges" since the Bursting of the Bubble Economy
+
+Let me turn the clock back to the 1990s. Monetary policy faced major challenges in the two mechanisms  I  mentioned  earlier;  namely,  the  relationship  between  interest  rates  and economic activity and that between economic activity and prices (Chart 3). First, in terms of interest rates and economic activity, monetary policy faced the lower bound on interest rates. As a result  of  a  series  of  policy  rate  cuts  following  the  bursting  of  the  bubble  economy, short-term interest rates fell to almost zero percent by the late 1990s. This meant that it was no longer possible to stimulate the economy by lowering interest rates further. Second, in terms of economic activity and prices, as wage growth and the rate of inflation declined, a mindset  and  behavior  based  on  the  assumption  that  wages  and  prices  will  not  rise  have taken hold in Japan. In terms of inflation expectations, this corresponds to a situation where these have become entrenched at a low level.
+
+How did the actual Phillips curve change during this period (Chart 4)? Two developments can be noted here. First, the economy deteriorated substantially following the bursting of the  bubble economy. Since there was little room to lower interest rates,  monetary easing measures  lacked  sufficient  power  to  boost  the  economy.  As  a  result,  the  output  gap deteriorated,  moving  down  to  the  left  along  the  Phillips  curve,  which  put  downward pressure on the inflation rate. Second, the Phillips curve itself shifted downward as a result of a decline in people's inflation expectations, meaning that the inflation rate that could be achieved with the same output gap was lower. Due to these two developments, a situation where the economy and prices stagnate for a prolonged period took hold.
+
+## Unconventional Monetary Policy as a Means of Overcoming the Two Challenges
+
+Faced with this situation, the Bank devised a variety of measures, which later were to be called "unconventional monetary policy" (Chart 5).
+
+First,  in  1999,  the  Bank  made  a  commitment  to  continue  with  monetary  easing  so  as  to generate the policy duration effect and thereby influence longer-term interest rates. While short-term  interest  rates,  the  conventional  monetary  policy  tool,  were  already  at  zero percent, the Bank committed to maintaining short-term interest rates at zero percent "until deflationary concern is dispelled." The  policy duration effect exerted through this commitment  was  intended  to  create  the  expectation  that  short-term  interest  rates  would remain at zero percent into the future. The idea was that longer-term interest rates, which reflect expectations for future short-term interest rates, would also decline, thus providing additional economic stimulus. This approach has since been widely adopted by other central banks and has come to be called "forward guidance."
+
+Next, in 2001, as a further easing measure, the Bank introduced quantitative easing, which increased the amount of funds supplied to financial institutions. Since there were concerns over financial instability at that time, supplying large amounts of funds to the market had the effect of supporting the economy through improving banks' liquidity and reducing the negative  impact  from  the  financial  side.  However,  because  this  policy  was  simply  the exchange  of  assets  that  were  economically  similar  in  nature  --  that  is,  the  purchase  of treasury bills to supply current account deposits at the Bank -- my understanding is that it had only a limited stimulative effect on the economy in this regard.
+
+Subsequently, in the aftermath of the Global Financial Crisis in 2008, the Federal Reserve introduced a policy of large-scale purchases of long-term bonds, such as government bonds and  mortgage-backed  securities.  The  large-scale  purchases  of  government  bonds  and mortgage-backed securities, which are risk assets, were intended to have a positive impact on the economy -- the former by pushing down even longer-term interest rates than forward guidance and the latter by reducing risk premiums. Since then, quantitative easing has come to  mainly  refer  to  policies  that  directly  lower  long-term  interest  rates  by  purchasing long-term government bonds, rather than those that simply supply a large amount of funds.
+
+Furthermore,  in  2013,  the  Bank  introduced  quantitative  and  qualitative  monetary  easing (QQE).  This  policy  incorporated  to  the  greatest  extent  possible  the  unconventional monetary  policy  experience  gained  until  then  both  at  home  and  abroad,  such  as  making clear the Bank's stance on the future policy conduct, pushing down long-term interest rates through  large-scale  purchases  of  government  bonds,  and  strengthening  the  impact  of lowering  risk  premiums  in  stock  markets  through  an  increase  in  purchases  of  exchange traded funds (ETFs). This, together with measures by the government, had been effective in pushing up economic activity and prices even under the first challenge -- the lower bound on  interest  rates  --  and  Japan's  economy  achieved  a  situation  where  it  was  no  longer  in deflation,  in  the  sense  of  a  sustained  decline  in  prices  (Chart  6).  There  have  also  been changes in inflation expectations and wage growth, as seen in the fact that base pay, which virtually  stopped  rising  during  the  deflationary  period,  has  started  to increase  again  since 2014. However, I must add that it gradually became clear that the second challenge -- the entrenched mindset that prices and wages were unlikely to rise -- would take more time to overcome.
+
+## Review of Monetary Policy over the Past 25 Years from a Broad Perspective
+
+As  described,  the  Bank  has  devised  various  monetary  policy  measures,  with  Japan's economy  facing  the  challenge  of  deflation  and  the  need  to  transform  the  mindset  and behavior based on the assumption of low inflation, as the aftereffect of deflation. However, since the conduct of these measures had no precedent, practice may have preceded theory in some respects. In this  sense,  there  remains  some room  for  further  analysis  regarding,  for example,  the  positive  effects  and  side  effects  of  the  measures.  Furthermore,  although  I spoke  earlier  about  macroeconomic  developments  during  the  past  25  years  in  a  very simplified  manner,  in  practice,  the  various  factors  are  intricately  intertwined,  such  as problems in the financial system after the bursting of the bubble economy, rapid advances in deregulation and globalization, and demographic changes. Moreover, the series of monetary easing  measures  has  been  implemented  in  response  to  such  developments  in  economic activity, prices, and financial conditions. Therefore, the positive effects and side effects of the easing measures should be understood and examined in the context of interaction with these developments.
+
+Based on these considerations, the Bank decided at its Monetary Policy Meeting last month to conduct a review of its monetary policy over the past 25 years from a broad perspective (Chart 7). The purpose of the review is to further deepen the Bank's understanding of the interaction  between  monetary  policy,  economic activity,  and  various  other  factors,  and  to gain  insights  that  will  be  useful  for  future  policy  conduct.  The  Bank  intends  to  steadily work on this project and spend a sufficient amount of time of around one to one and a half years, drawing on the knowledge it has gained from its experience to date and the research that has accumulated in the academic community in Japan and abroad.
+
+## II. Outlook for Economic Activity and Prices and the Conduct of Monetary Policy
+
+So far, I have described the basic thinking on and history of monetary policy. I would now like to change the subject and talk about the outlook for economic activity and prices and the  conduct  of  monetary  policy  for  the  time  being.  I  will  begin  with  an  overview  of developments in economic activity and prices in Japan, based on the Outlook Report that was just published at the end of April.
+
+## Outlook for Economic Activity and Prices
+
+Japan's economy has picked up (Chart 8). Currently, what is driving the economy is pent-up demand;  that  is,  the  materialization  of  demand  that  had  been  suppressed  during  the pandemic.  This  consists  mainly  of  demand  for  services,  including  inbound  tourism,  and business  fixed  investment.  The  economy  is  expected  to  continue  recovering  moderately until  around  the  middle  of  fiscal  2023,  mainly  due  to  such  materialization  of  pent-up demand.
+
+Thereafter,  the  main  driver  of  improvement  in  the  economy  is  expected  to  shift  from pent-up demand to a more sustainable factor of a virtuous cycle from income to spending. The rate of wage increases in this year's annual spring labor-management wage negotiations appears  to  be  significantly  higher  than  that  of  last  year.  This  is  likely  to  boost  private consumption through improvement in household incomes. Moreover, it is expected that the impact of past high commodity prices will wane and overseas economies will pick up again. Under  these  circumstances,  corporate  profits  are  likely  to  improve  and  business  fixed investment to increase further. The increase in demand at home and abroad is projected to
+
+lead to further increases in wages and corporate profits, creating a virtuous cycle. As a result, the output gap, one of the factors that determine prices, which is currently slightly negative, is  expected  to  turn  positive  around  the  middle  of  fiscal  2023  and  expand  moderately thereafter.
+
+Next, let me turn to prices. The year-on-year rate of change in the consumer price index (CPI)  for  all  items  less  fresh  food  has  been  at  3.4  percent,  owing  to  the  effects  of  a pass-through to consumer prices of cost increases led by a rise in import prices (Chart 9). The main reason why the rate has come down from a peak of around 4 percent in January is that the government's economic measures have pushed down energy prices. Looking ahead, it is expected that the effects of the pass-through will wane and the CPI inflation rate will decelerate  to  a  level  below  2  percent  toward  the  middle  of  fiscal  2023.  In  fact,  the year-on-year  rate  of  change  in  the  import  price  index  has  turned  negative  recently.  It  is expected that, after running below 2 percent, the rate of increase in the CPI will accelerate again moderately, albeit with fluctuations, as the output gap improves and as medium- to long-term inflation expectations and wage growth rise, accompanied by changes in factors such as firms' price- and wage-setting behavior. However, the uncertainties surrounding this outlook are extremely high.
+
+I  would like to raise two key points regarding the economic and price outlooks. The first concerns overseas economies (Chart 10). The main scenario is that overseas economies will pick  up  again  as  global  inflationary  pressures,  which  increased  significantly  last  year, decline.  However,  there  are  persistent  concerns  in  the  market  over  whether  it  will  be possible  to  contain  inflation  and  maintain  economic  growth  simultaneously.  Although central banks in the United States and Europe have been raising interest rates rapidly since last year, there is still a high level of concern about the risk of inflation rates remaining high through wage  increases. Since early spring, there  have  been  phases  when  market participants'  risk  sentiment  deteriorated,  mainly  due  to  the  effects  of  issues  surrounding some financial institutions in the United States and Europe. Attention needs to be paid to the risk that global financial conditions will tighten further, mainly through adjustments in asset prices, fluctuations in foreign exchange markets, changes in financial institutions' lending
+
+positions,  and  capital  outflows  from  emerging  economies, leading  overseas economies to deviate downward from the baseline scenario.
+
+The second point concerns wage increases (Chart 11). The base pay increase following this year's  annual  spring  labor-management wage negotiations is expected to mark its highest level  in  three  decades.  This  is  the  result  of  a  combination  of  various  factors,  including widespread moves to reflect higher prices in wages that were partly due to calls from the government and various sectors, efforts by firms facing labor shortages to recruit and retain employees, and the fact that an overall favorable environment surrounding corporate profits has allowed firms to secure the resources to raise wages. With regard to the outlook, labor market  conditions  are  more  likely  to  tighten  further  as  it  becomes  difficult  for  the  labor force participation of women and seniors, which has supported labor supply to date, to see an  additional  increase.  On  the  other  hand,  wage  developments  also  depend  on  various factors,  including  the  future  course  of  overseas  economies  and  the  domestic  economy,  as well as developments in moves to pass on higher labor costs to selling prices. The Bank will carefully examine whether the wage increases will be sustained and whether they will take hold.
+
+## Conduct of Monetary Policy for the Time Being and the Bank's Thinking
+
+At the Monetary Policy Meeting held at the end of April, the Bank decided to continue with its existing monetary easing in the form of QQE with Yield Curve Control. I would like to explain  the  Bank's  thinking  behind  this  decision  in  response  to  questions  that  are  often asked.
+
+## (1) Why continue with monetary easing even though the inflation rate is above the 2 percent target?
+
+Since last year, a question that is often asked is why the Bank continues to pursue monetary easing when CPI inflation is above 2 percent. The answer to this question is that the Bank aims to achieve price stability in a sustainable and stable manner. The main reason prices are currently rising at a rate above 3 percent is not strength of demand, but cost-push factors originating  from  overseas.  In  terms  of  the  Phillips  curve  I  mentioned  earlier,  this  can  be interpreted  as  a  temporary  upward  deviation  (Chart  12).  Since  cost-push  inflation  puts
+
+downward pressure on real income and corporate profits, it places a burden on households and firms. However, tightening monetary policy in an attempt to rein in such inflation will worsen the  economic  and  employment  situations.  As  a  result,  households  and  firms  will have to shoulder a different kind of burden and the inflation rate will be even lower once the cost-push  factors  have  abated.  The  Bank  aims  to  achieve  the  price  stability  target  of  2 percent in a sustainable and stable manner, accompanied by wage increases. To this end, it is necessary for the Bank to support economic activity by continuing with monetary easing.
+
+## (2) How is an underlying inflation trend assessed?
+
+The second question is how an underlying inflation trend is assessed. One way, for example, is to construct indicators that make it easier to gauge the trend in prices by excluding items with  large  short-term  price  fluctuations  or  by  performing  certain  statistical  processing. However, in a situation such as the current one, where the price of a wide range of items fluctuates due to the impact of rising import prices, such an impact cannot be completely eliminated. As much as policymakers and economists struggle with this problem, there is unfortunately  no  "ideal  indicator"  that  can  be  used  on  its  own  to  assess  the  underlying inflation trend. Therefore, what is required is to make a comprehensive assessment, not only by taking the various price indicators and their individual characteristics into account, but also by examining factors that shape prices, such as the output gap, inflation expectations, and wage growth, as well as considering anecdotal information from firms.
+
+- (3)  Given that base pay is expected to increase substantially and inflation is  projected to approach 2 percent, can't it be said that there is an increasing possibility that the target will be achieved?
+
+There is no doubt that this year's large increase in base pay is a tailwind for achieving the 2 percent  target.  The  Outlook  Report  also  shows  that  the  underlying  rate  of  inflation  is expected to near 2 percent through fiscal 2025. Therefore, the third question is, if this is the case, isn't the possibility of achieving the price stability target getting higher?
+
+Regarding developments in wages, it is necessary to examine whether wage increases will be sustained and whether they will take hold, including the extent to which they spread to small  and  medium-sized  firms.  Moreover,  although  the  underlying  rate  of  inflation  is
+
+expected to gradually increase toward the price stability target, it is likely to take some more time. Furthermore, this outlook is based on the assumption that the output gap will improve and that medium- to long-term inflation expectations and wage growth will rise. In order to achieve the price stability target of 2 percent, it is necessary for inflation expectations to rise and the Phillips curve to shift upward (Chart 13). The Bank aims to achieve this situation amid  a  virtuous  cycle  where  both  wages  and  prices  increase.  Although  it  projects  in  its Outlook Report that Japan's price developments will gradually approach this situation, the uncertainties surrounding the outlook for prices are high, as mentioned earlier, as risks to economic  activity  are  considered  to  be  skewed  to  the  downside  for  the  time  being, especially with regard to overseas economies. The Bank therefore judges that, at this point in time, achieving the price stability target of 2 percent in a sustainable and stable manner has not yet come in sight.
+
+## (4) How are side effects evaluated?
+
+Needless to say, it is necessary to pay close attention not only to the positive effects but also to the side effects of conducting monetary easing over a long period. The fourth question therefore is: what are the Bank's thoughts on this point?
+
+One of the side effects  often  pointed  out is  that  conducting  monetary  easing  over  a  long period undermines the functioning of financial intermediation. In this context, the Bank's assessment is that Japan's financial institutions are well capitalized and have ample liquidity, and  that  financial  intermediation  has  continued  to  function  smoothly.  In  fact,  lending  by financial institutions has recently seen a year-on-year rate increase of more than 3 percent. Moreover,  financial  institutions'  lending  attitudes  as  perceived  by  firms  have  remained accommodative. In regard to the impact on the functioning of the bond market, various data and surveys suggest that market functioning has deteriorated to a certain extent. However, in addition to taking measures such as expanding the range of 10-year Japanese government bond (JGB) yield fluctuations last December, the Bank has deliberated on the specifics of daily  market  operations,  such  as  temporary  lending  of  JGBs.  On  top  of  this,  overseas interest rates have declined, and the Bank's assessment therefore is that some improvement in the market functioning has been observed recently, such as the relatively smooth shape of the yield curve.
+
+In any case, it is important not to focus on and evaluate the side effects of monetary easing only, but to consider the balance with its positive effects on economic activity and prices, such as whether and to what extent the side effects offset or outweigh the positive effects.
+
+## The Bank's Thinking on the Future Conduct of Monetary Policy
+
+As mentioned, it is necessary for the Bank to firmly continue with monetary easing at this stage. In this regard, the Bank decided at its Monetary Policy Meeting last month to clearly express its basic stance that, with the extremely high uncertainties surrounding economies and financial markets at home and abroad, it would patiently continue with monetary easing while  nimbly  responding  to  developments  in  economic  activity  and  prices  as  well  as financial conditions, and that by doing so, it would aim to achieve the price stability target of 2 percent in a sustainable and stable manner, accompanied by wage increases (Chart 7).
+
+In addition to expressing its basic stance, the Bank, based on changes in the assessment of risks associated with the pandemic and other factors, has reexamined and clarified its stance on the future conduct of monetary policy. The expression regarding its stance on the policy rates  related  to  the  pandemic  was  deleted  because  it  became  unsuitable  in  view  of  the reclassification of COVID-19 under the Infectious Disease Control Law and a decline in the risk of COVID-19 affecting economies and financial markets at home and abroad. Although risks associated with the pandemic have decreased, the uncertainties surrounding economies and  financial  markets  at  home  and  abroad  are  extremely  high.  The  Bank's  stance  of patiently continuing with monetary easing therefore is unchanged. Under these circumstances, the Bank will continue to maintain the stability of financing, mainly of firms, and financial markets, and will not hesitate to take additional easing measures if necessary.
+
+The  Bank  will  continue  with  large-scale  monetary  easing  under  yield  curve  control. Conduct of monetary policy can be viewed as the process of identifying realistic options and selecting the most appropriate one in the face of various constraints and uncertainties regarding developments in economic activity and prices, as well as financial conditions. On this point, when conducting monetary policy, there is an approach that places importance on the social welfare implications of each of the various future paths of the economy, based on the assumption that the economy entails uncertainties. This approach is known as the risk
+
+management approach,  which  was  advocated  by  former  Federal  Reserve  Chairman  Alan Greenspan. Applying this to the current situation in Japan, the cost of impeding the nascent developments toward achieving the 2 percent price stability target, which are finally in sight, by making hasty policy changes would likely be extremely high. While there is an opposite risk that inflation will remain above 2 percent if a change in policy falls behind the curve, the  cost  of  waiting  for  underlying  inflation  to  rise  until  it  can  be  judged  that  2  percent inflation has fully taken hold is not as large as the cost of making hasty policy changes. In this sense, it is appropriate to take time to decide on adjustments to monetary easing toward a future exit. The Bank will carefully support these nascent developments to mature and aim to  achieve  the  price  stability  target  of  2  percent  in  a  sustainable  and  stable  manner, accompanied by wage increases.
+
+Thank you very much for your attention.
+
+## Basic Thinking on Monetary Policy
+
+## and the Outlook for Economic Activity and Prices
+
+Speech at a Meeting Held by the Naigai Josei Chosa Kai (Research Institute of Japan)
+
+May 19, 2023
+
+## UEDA Kazuo
+
+Governor of the Bank of Japan
+
+## Introduction
+
+- I. The Basic Thinking on Monetary Policy
+- II. Outlook for Economic Activity and Prices and the Conduct of Monetary Policy
+
+I. The Basic Thinking on Monetary Policy
+
+## Mechanisms of Conventional Monetary Policy
+
+- (1) Relationship between Interest Rates and Economic Activity
+- (2) Relationship between Economic Activity and Prices (Represented by the Phillips Curve)
+
+
+
+1
+
+I. The Basic Thinking on Monetary Policy
+
+Chart 2
+
+## Determinants of Inflation Other than the Output Gap and Their Effects
+
+## Inflation Expectations
+
+Temporary Supply Shocks
+
+
+
+
+
+2
+
+## The Two Challenges
+
+## since the Bursting of the Bubble Economy
+
+## (1) Lower Bound on Interest Rates
+
+- (2) The Entrenched Mindset and Behavior Based on the Assumption That Wages and Prices Will Not Rise
+
+
+
+## Inflation Expectations
+
+
+
+2. In the right-hand chart, figures for inflation expectations are economists' forecasts for 6 to 10 years ahead. Figures for CPI inflation are for all items excluding the effects of
+
+Notes: 1. In the left-hand chart, figures are monthly averages of the uncollateralized overnight call rate.
+
+the consumption tax hike. Figures for wage growth before the January-March quarter of 1991 are for establishments with 30 or more employees, while figures from that quarter onward are for establishments with 5 or more employees.
+
+Sources: Bank of Japan; Consensus Economics Inc., "Consensus Forecasts"; Ministry of Internal Affairs and Communications; Ministry of Health, Labour and Welfare.
+
+I. The Basic Thinking on Monetary Policy
+
+3
+
+Chart 4
+
+## Changes in the Phillips Curve through the Deflationary Period
+
+
+
+Note: The CPI figures exclude fresh food and energy, for which prices are volatile. They also exclude temporary factors, which consist of mobile phone charges and the effects of the consumption tax hikes, policies concerning the provision of free education, and travel subsidy programs. These Phillips curves are based on statistical estimates and should be interpreted with some latitude (the same applies to Charts 6 and 12).
+
+Sources: Ministry of Internal Affairs and Communications; Bank of Japan.
+
+I. The Basic Thinking on Monetary Policy
+
+## Evolution of Unconventional Monetary Policy and Quantitative and Qualitative Monetary Easing
+
+Evolution of Unconventional Monetary Policy
+
+* Each policy was first introduced by the central banks shown in parentheses.
+
+- ■ Apr. 1999: Introduction of the idea of the policy duration effect (forward guidance) (Bank of Japan)
+- Commitment to continue with the existing monetary policy until deflationary concern is dispelled
+- ■ Mar. 2001: Introduction of quantitative easing (Bank of Japan)
+- Change in the target for market operations from the uncollateralized overnight call rate to the outstanding balance of the current accounts at the Bank
+- ■ From Nov. 2008 onward: Introduction of large-scale asset purchases (Federal Reserve)
+- Purchases of mortgage-backed securities, which are risk assets, and U.S. Treasury securities at a large scale
+- ■ July 2012: Introduction of negative interest rate policy (Danmarks Nationalbank)
+- ■ Sept. 2016: Introduction of yield curve control (YCC) (Bank of Japan)
+- Maintain the short-term policy interest rate at minus 0.1 percent and the 10-year JGB yields at around zero percent
+
+## BOJ's Quantitative and Qualitative Monetary Easing (From Apr. 2013 Onward)
+
+- ■ Commitment with regard to the future conduct of monetary policy
+- ■ Lowering of long-term interest rates through large-scale purchases of JGBs
+- -Introduction of negative interest rate policy in Jan. 2016 and YCC in Sept. 2016
+- ■ Lowering of risk premiums in stock markets, etc. through purchases of risk assets such as ETFs
+
+## Positive Effects
+
+- ■ Economic improvement, significant increase in employment
+
+## Side Effects
+
+■
+
+Achievement of a situation where Japan's economy is no longer in deflation
+
+- ⇒ Effective in pushing up economic activity and prices
+- ■ Impact on the functioning of financial intermediation
+- ■ Impact on market functioning
+- ⇒ BOJ responded by devising various measures
+
+## I. The Basic Thinking on Monetary Policy
+
+5
+
+Chart 6
+
+## Changes in the Phillips Curve since the Introduction of QQE
+
+CPI (less  fresh  food  and energy),  y/y % chg.
+
+
+
+## Monetary Policy Meeting (April 27 and 28, 2023)
+
+## "A Broad-Perspective Review" of Monetary Policy
+
+## Stance on Future Conduct of Monetary Policy
+
+- ■ Since the late 1990s, when Japan's economy fell into deflation, achieving price stability has been a challenge for a long period of 25 years .
+- ■ During this period, the Bank has implemented various monetary easing measures. These measures have interacted with and influenced wide areas of Japan's economic activity, prices, and financial sector.
+- ■ In light of this, the Bank has decided to conduct a broadperspective review of monetary policy, with a planned time frame of around one to one and a half years .
+
+
+
+II. Outlook for Economic Activity and Prices and the Conduct of Monetary Policy
+
+## Japan's Economy
+
+## Economic Activity by Sector
+
+## The BOJ's Forecasts for Real GDP
+
+
+
+
+
+s.a., ann.,  tril.  yen
+
+- Notes: 1. In the left-hand chart, figures for manufacturing are from the Indices of Industrial Production, while those for the other sectors are from the Indices of Tertiary Industry Activity. Figures for nonmanufacturing exclude accommodations, eating and drinking services, services for amusement and hobbies, and transport.
+2. In the right-hand chart, the forecasts presented are the medians of the Policy Board members' forecasts in the April 2023 Outlook for Economic Activity and Prices (Outlook Report). The values of real GDP for fiscal 2023 onward are calculated by multiplying the actual figure for fiscal 2022 by all successive projected growth rates for each year. Sources: Ministry of Economy, Trade and Industry; Cabinet Office; Bank of Japan.
+- ■ The Bank reexamined its stance on the future conduct of monetary policy , given the reclassification of COVID-19 under the Infectious Disease Control Law and a decline in the risk of COVID-19 affecting economies and financial markets at home and abroad.
+
+## Newly Included Its Basic Stance in the Statement
+
+With extremely high uncertainties surrounding economies and financial markets at home and abroad, the Bank will patiently continue with monetary easing while nimbly responding to developments in economic activity and prices as well as financial conditions. By doing so, it will aim to achieve the price stability target of 2 percent in a sustainable and stable manner, accompanied by wage increases.
+
+## Maintained the Following Stance
+
+The Bank will continue with QQE with Yield Curve Control, aiming to achieve the price stability target, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed CPI (all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. The Bank will continue to maintain stability of financing, mainly of firms, and financial markets, and will not hesitate to take additional easing measures if necessary .
+
+7
+
+Chart 8
+
+## Prices
+
+## The BOJ's Forecasts for the CPI
+
+## Import Prices
+
+
+
+
+
+- Notes: 1. In the left-hand chart, figures for temporary factors are staff estimates and consist of mobile phone charges and the effects of travel subsidy programs. The forecasts presented are the medians of the Policy Board members' forecasts in the April 2023 Outlook Report. The estimated contribution to changes in the forecasts is calculated using the medians of the members' forecasts for the CPI (all items less fresh food) and for the CPI (all items less fresh food and energy), and using the respective shares of each index in the overall CPI as weights.
+2. In the right-hand chart, the contribution of changes in commodity prices, etc. is calculated using changes in the import price index on a contract currency basis. The contribution of changes in exchange rates is calculated using the difference between the index on a yen basis and that on a contract currency basis.
+
+Sources: Ministry of Internal Affairs and Communications; Bank of Japan.
+
+II. Outlook for Economic Activity and Prices and the Conduct of Monetary Policy
+
+## Overseas Economies
+
+## Inflation
+
+## Policy Interest Rates
+
+
+
+
+
+- Notes: 1. In the left-hand chart, figures are based on national statistics compiled by the OECD.
+
+2. In the right-hand chart, figures for the United States are the federal funds target rate or the medians of the target ranges. Those prior to July 1995 are monthly averages of the effective federal funds rate. Figures for the euro area are the rates on the deposit facility.
+
+Sources: Haver; Bloomberg.
+
+9
+
+Chart 10
+
+## Wages
+
+## Business and Employment Conditions in the Tankan
+
+## Inflation and Base Pay Increase
+
+
+
+II. Outlook for Economic Activity and Prices and the Conduct of Monetary Policy
+
+Chart 12
+
+## Phillips Curve before and after the Pandemic
+
+
+
+## Upward Shift in the Phillips Curve
+
+
+
+Note: Figures for the CPI (less fresh food and energy) exclude temporary factors (see note in Chart 4). Sources: Ministry of Internal Affairs and Communications; Bank of Japan.
+
+13

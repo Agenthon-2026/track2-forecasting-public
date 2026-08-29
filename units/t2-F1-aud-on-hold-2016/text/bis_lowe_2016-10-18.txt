@@ -1,0 +1,237 @@
+Philip Lowe: Philip Lowe: Inflation and monetary policy
+2016-10-18
+
+## Philip Lowe: Inflation and monetary policy
+
+Address  by  Mr  Philip  Lowe,  Governor  of  the  Reserve  Bank  of Australia,  to  Citi's  8th Annual Australian and New Zealand Investment Conference, Sydney, 18 October 2016.
+
+*   *   *
+
+I would like to thank James Bishop, Andrea Brischetto and Merylin Coombs for assistance in the preparation of this talk.
+
+I would like to thank Citi for the invitation to speak at this year's Investment Conference. I am very pleased to be here.
+
+This is my first speech as Governor of the Reserve Bank of Australia, so I would like to organise my remarks around the topic of inflation and monetary policy.
+
+Nominal interest rates around the world have been at record low levels for some years and there has been extraordinary balance sheet expansion by a number of the world's major central banks. Yet, at the same time, inflation rates in most advanced economies remain below target. There are also concerns in some economies that inflation expectations have declined too far and are perhaps stuck at levels that are too low. This is quite a different world to the one that has existed over the past half-century. Indeed, I am the first Governor of the RBA to have taken office where the concern of the day is more that inflation might turn out to be a bit too low rather than a bit too high.
+
+This morning I would like to focus on three interrelated issues. The first is why we have seen these low inflation outcomes across much of the world. The second is how we think about the low inflation outcomes in Australia in the context of our flexible medium-term inflation target. And the third is decisions on monetary policy by the Reserve Bank Board over recent times.
+
+## Low Global Inflation: Why?
+
+It is always useful to start with the facts.
+
+This first graph (Graph 1) shows the average rate of inflation for a range of countries over the past two years (the blue bars) as well as the average rate over the past 20 years (the black dots). In almost all economies, inflation has recently been noticeably below its long-term average.
+
+Graph 1
+
+## Inflation — Select Industrialised Economies
+
+Annual
+
+
+
+* — Price index for personal consumption expenditures
+* Excludes estimated effect of the 2014 consumption tax increase
+
+Sources: CEIC Data; IMF; RBA; Thomson Reuters
+
+This second graph (Graph 2) shows a time series of headline and core inflation rates averaged across the major advanced economies. Again, the picture is clear. While headline inflation has picked  up  a  little  recently,  the  outcomes  over  recent  years  have  been  the  lowest  for  many decades, with the exception of a short period during the global financial crisis. Core inflation rates have also been low, although not as remarkably so, as they do not capture the large fall in oil prices over recent years.
+
+Graph 2
+
+## Inflation — Advanced Economies*
+
+Major Year-ended
+
+
+
+- PPP GDP-weighted inflation for the euro area, Japan and the United States; core inflation is an aggregate of Germany, Japan and the United States before 1997 *
+
+Sources: IMF; RBA; Thomson Reuters
+
+This  third  graph  (Graph  3)  shows  inflation  rates  for Australia.  The  two  measures  shown  are headline  CPI  inflation  and  the  trimmed  mean  measure.  We  too  have  now  joined  the  club  of countries with headline inflation noticeably below the medium-term average, although we are a more recent member than many others. Headline inflation here is 1 per cent and measures of underlying inflation are running at around 1½ per cent.
+
+## Graph 3
+
+## Inflation — Australia*
+
+## Year-ended
+
+
+
+Sources: ABS; RBA
+
+These low inflation outcomes globally and in Australia are coexisting with low wage outcomes. In many industrialised countries, wage growth has been close to multi-decade lows and below what historical relationships with the unemployment rate would suggest.
+
+So why has this been happening?
+
+There are three main factors at work.
+
+The first - and the most conventional - explanation is that the low inflation reflects the economic slack  in  the  global  economy.  Economic  growth  has  generally  disappointed  since  the  global financial crisis, weighed down by an overhang of debt. The result is that excess capacity exists in many parts  of  the  global  economy.  Broad  measures  of  labour  utilisation  continue  to  suggest ongoing slack, despite unemployment rates in some industrialised economies being the lowest in some decades. And in parts of Asia, there is considerable overcapacity in some manufacturing industries.  This  collective  economic  slack  has  reduced  upward  pressure  on  both  prices  and wages.
+
+The second factor is a self-reinforcing dynamic originating from the decline in headline inflation caused by the fall in commodity prices, including oil prices. With headline inflation rates so low, many  workers  have  agreed  to  smaller  wage  increases  than  would  have  otherwise  been  the case,  especially  where  expectations  of  future  inflation  are  also  low.  The  low  wage  increases have in turn reinforced the low inflation outcomes.
+
+BIS central bankers' speeches
+
+The third factor is that there has been a shift in the perceived pricing power of many workers and businesses. This could simply be the consequence of the increased economic slack but, in my view,  there  is  something  more  structural  going  on,  driven  by  the  globalisation  of  markets  and technology.
+
+Perhaps the strongest effect of globalisation is that it increases competition. This is one reason why open markets can be such a positive force for our collective good. But, in many cases, increased competition means less pricing power, which means a lower level of prices. Open markets and advances in technology mean that more businesses feel that if they put their prices up, they will not only lose market share to domestic competitors but to foreign competitors as well.  Many  workers  have  a  similar  feeling.  For  some  decades,  workers  in  the  manufacturing sectors in most industrialised economies have felt the pressure of competition from international trade. T oday, many workers in the services sectors are now also feeling this same pressure, as they too are exposed to the increased competitive pressure from globalisation and technology. And  faced  with  more  potential  competitors,  workers,  like  firms,  are  less  inclined  to  put  their prices up.
+
+Another  contributing  factor  is  that  many  workers  and  companies  still  carry  scars  from  the financial crisis. The crisis generated a lot of uncertainty and increased the value placed on job security.  This  occurred  just  at  the  time  that  other  structural  changes  in  the  economy  were making jobs less secure. This increased value put on job security has made many workers less inclined to push for large wage rises.
+
+So the low inflation outcomes in the advanced economies reflect a combination of three factors excess capacity, lower commodity prices and perceptions of reduced pricing power.
+
+I would like to offer some reflections on these three factors from an Australian perspective.
+
+First,  excess capacity. While the Australian economy has performed better than many others over  the  past  decade,  we  still  have  some  spare  capacity.  Determining  exactly  how  much  is difficult, but Bank staff estimate that the current unemployment rate of 5.6 per cent is around ½ percentage point or a bit more above full employment. While this gap has narrowed over the past year,  we  do  still  have  some  spare  capacity.  Looking  at  broader  measures  of  labour  market utilisation reinforces this point (Graph 4). Over the past year, the Australian Bureau of Statistics' (ABS)  measure  of  underemployment  has  risen,  not  fallen,  so  that  overall  labour  market underutilisation  has  been  little  changed.  This  largely  reflects  the  fact  that  many  of  the  people finding work recently have been employed in part-time jobs and report that they would like to work more hours.
+
+Graph 4
+
+## Labour Market
+
+
+
+* — Full-time workers on reduced hours for economic reasons and part-time workers who would like, and are available, to work more hours
+- ** — Sum of the unemployment rate and the underemployment rate
+
+Source: ABS
+
+The second factor is the decline in commodity prices. The most direct effect is the fall in petrol prices. Over the past two years, the price of petrol in Australia has declined by around 20 per cent. This has lowered the year-ended rate of headline inflation by almost 0.4 percentage points over each of these years. More broadly though, the decline in commodity prices has perhaps had a bigger effect in Australia than elsewhere, given that it has weighed on our aggregate income and thus demand. Over the past five years, the prices of Australia's commodity exports have fallen by more than 50 per cent and Australia's terms of trade have fallen by 35 per cent as a result, which is the main reason that growth in national income has been weak over recent years.
+
+The third factor is the feeling of reduced pricing power, partly from greater competition.
+
+One good example of this is in the retail sector, where the entry of foreign retailers has made a real  difference  in  groceries  and  clothing.  Over  recent  times,  food  price  inflation  has  been unusually  low  and  the  prices  of  many  goods  have  not  risen  as  quickly  as  suggested  by  the conventional relationship with import prices. Increased competition has forced existing retailers to find efficiencies to lower their cost bases and, in turn, their prices. Reflecting this, there has been  a  pick-up  in  the  rate  of  productivity  growth  in  the  retail  sector,  which  is  good  news  for consumers. More broadly, though, many Australian workers are facing some of the insecurities that workers in other advanced economies are facing. 1
+
+The  effects  of  these  three  factors  -  excess  capacity,  lower  commodity  prices  and  reduced pricing power - are evident in the wage outcomes in Australia. In particular, the wage price index
+
+(WPI) has increased by just over 2 per cent over the past year, which is the slowest rate of increase since the series began in the late 1990s (Graph 5).
+
+Graph 5 Wage Price Index Growth* Year-ended
+
+
+
+The Reserve Bank and the ABS have been working together to obtain some additional insight into what  is  happening  here.  T ogether  we  have  looked  at  the  wage  increases  for  all  the  18,000 individual jobs that the ABS uses to construct the WPI. The results are interesting. Over recent years, there has been a decline in the frequency of wage increases and, when wage increases do occur, the average size is lower (Graph 6). The decline in the average size of increases is largely due to a very sharp drop in the share of jobs where wages are increasing at what, by today's standards, would be considered a rapid rate. For example, six years ago, almost 40 per cent of the 18,000 individual jobs being tracked by the ABS received a wage increase in excess of 4 per cent (Graph 7). In contrast, over the past year, less than 10 per cent of jobs got this type of wage increase. And almost half of the individual jobs tracked by the ABS had a wage increase of between 2 and 3 per cent.
+
+Graph 6
+
+## Frequency and Size of Wage Changes
+
+Quarterly*
+
+* — Smoothed using a four-quarter trailing average
+- ** Share of jobs with a wage change
+- "= Average percentage wage change, conditional on a wage change
+
+
+
+Sources: ABS; RBA
+
+## Graph 7
+
+## Wage Changes of Different Sizes
+
+Share of jobs that experience a wage change*
+
+
+
+The low CPI and wage outcomes in Australia have seen some decline in inflation expectations, although  not  to  the  levels  seen  in  many  other  countries.  Consumer  inflation  expectations  are lower than they were some years back, but are not at unprecedented levels (Graph 8). Marketbased  measures  of  long-term  inflation  expectations  have  also  declined,  but  they  remain consistent with the inflation target.
+
+## Graph 8
+
+## Inflation Expectations
+
+
+
+* Three-month moving average of the trimmed mean of responses
+- Inflation swaps five-to-ten year forward ek
+
+Sources: Bloomberg; Melbourne Institute of Applied Economic and Social Research
+
+Looking to the future, we expect that the various factors holding inflation down will continue for a while yet. But this does not mean that we have drifted into a world of permanently lower inflation in Australia.
+
+Domestic demand is expected to strengthen gradually as the drag on our economy from the decline in mining investment comes to an end. As this happens, the excess capacity, including in the labour market, is likely to be wound back. Some pick-up in wages and prices could then be expected.  In  addition,  commodity  prices,  after  having  declined  over  the  preceding  four  years, have increased this year. If sustained, this will boost national income and falls in petrol prices will no longer be having a significant effect on headline inflation. In terms of the downward pressure on prices and wages from increased competition, this is likely to continue for a while yet, but it is probable that this pressure will lessen at some point as domestic demand strengthens.
+
+Putting all this together, our central forecast remains that inflation in Australia will gradually pick up over the next couple of years, although it is still likely to be closer to 2 per cent than 3 per cent by the end of this period.
+
+## Flexible Inflation Targeting
+
+I  would now like to turn to the monetary policy framework as this provides the structure within which  the  Reserve  Bank  Board  makes  its  decisions.  The  centrepiece  of  this  framework  is  a
+
+BIS central bankers' speeches
+
+flexible medium-term inflation target, with the objective of delivering an average rate of inflation over time of between 2 and 3 per cent. By achieving this we can provide a strong medium-term anchor for people's inflation expectations and reduce one element of uncertainty in the economy. This is an important precondition to sustainable growth in employment and incomes. Most people can cope without too much difficulty with a bit of variation in inflation from year to year, but it is the medium-term uncertainty that is really damaging to planning.
+
+I  hope that it is well understood that our framework allows for temporary deviations of inflation from the medium-term target. In this regard, we have a degree of flexibility not available to some other central banks that have a singular focus on inflation. Some of these central banks have felt that given their mandates they had little choice but to take whatever measures were available to them to push inflation higher.
+
+We have never thought of our job as keeping the year-ended rate of inflation between 2 and 3 per cent at all times. Indeed, since June 1993, CPI inflation has been below 2 per cent for 24 per cent of the time, and coincidentally above 3 per cent for 23 per cent of the time. What is important is that we deliver an average rate of inflation consistent with the medium-term target.
+
+Given the flexibility in our arrangements, it is a perfectly reasonable question to ask what degree of variation in inflation is acceptable.
+
+I  can't  give  you  a  precise quantitative answer here. What I can do, though, is explain how we think about this issue.
+
+The general starting point is to ask: what is in the public interest?
+
+The medium-term inflation target is pursued as way of achieving our broad goals as set out in legislation. This legislation, which was passed in 1959, states that the Reserve Bank Board must exercise its powers in a way that best contributes to: (i) the stability of the currency of Australia; (ii) the maintenance of full employment in Australia; and (iii) the economic prosperity and welfare of  the  people of Australia. These are lofty goals and, in my new position, I feel the weight of them. 2
+
+So when thinking about what type of variation in inflation is acceptable, it is natural for us to start by  asking  ourselves:  what  is  in  the  public  interest?  Granted,  this  can  be  hard  to  define  and opinions can differ. But, when thinking about the issue, there are two factors that have particular prominence.
+
+These are employment and the stability of the financial system.
+
+When we find ourselves with inflation that is either lower, or higher, than normal, we want to feel confident that, over time, inflation will return to more normal levels. There is, however, always a choice  about  the  exact  path  we  take.  When  thinking  about  that  choice,  developments  in  the labour market and in balance sheets in the economy have particular importance.
+
+Take the current situation of low inflation as an example. Over recent times, we have considered the impact of our decisions not only on the future path of inflation, but also on the health of the balance sheets in the economy. Achieving the quickest return of inflation back to 2½ per cent would be unlikely to be in the public interest if it came at the cost of a weakening of balance sheets and an unsustainable build-up of leverage in response to historically low interest rates. Conversely, the case for moving more quickly would be strengthened in a world where the labour market was deteriorating and people were having increasing difficulty finding jobs.
+
+To be clear, our core objective is to deliver a rate of inflation that averages between 2 and 3 per cent over time. But we want to do that in a way that best serves the public interest. A flexible medium-term inflation target, paying close attention to the labour market and keeping a wary eye
+
+BIS central bankers' speeches
+
+on balance sheets in the economy is the best way of doing this. This framework has served Australia well for more than two decades now. And, in my view, it remains the right monetary policy framework for Australia.
+
+This might all be less tightly defined than some people would like. But given the uncertainties in the  world,  something  more  prescriptive  and  mechanical  is  neither  possible  nor  desirable. Inevitably,  judgement  has  to  be  exercised.  Successive  governments  have  appointed  nine dedicated  Australians  to  the  Reserve  Bank  Board  to  exercise  that  judgement  in  the  public interest.
+
+I recognise that not everybody agrees with the decisions that the Board makes. The best way of dealing with this is for us to communicate as clearly as possible the reasons for the decisions that we have made. I am committed to doing that to the best of my ability.
+
+So this  is  an  appropriate  point  to  talk  about  the  Reserve  Bank  Board's  decisions  over  recent times.
+
+## Recent Decisions
+
+Over the course of this year the Board has lowered the cash rate twice, in May and August. These reductions followed inflation outcomes early in the year that were lower than expected as well as an assessment that inflation was likely to remain quite low for some time, for the reasons that I have discussed. The easing in policy was not in response to concerns about economic growth. If anything, the growth outcomes over the past year, as measured by real GDP or the trend in unemployment, have been a bit better than expected.
+
+In easing policy, the Board has been conscious that interest rates are already low - very low in fact,  by  historical  standards.  These  low  rates  are,  in  part,  a  consequence  of  what  has  been happening abroad. Monetary settings elsewhere in the world have affected international capital flows  and  exchange  rates,  and  interest  rates  here  in Australia  too.  The  Board  has  also  been conscious that the low rates mean low returns for many savers.
+
+In addition, the Board has paid close attention to developments in household balance sheets and the housing market. Over the course of 2016, there has been some lessening of the concerns that were building up last year. Aggregate credit growth slowed, as did the rate of housing price appreciation. Lending standards were also tightened. These developments meant that the Board felt  that  the  lowering  of  the  cash  rate  would  improve  prospects  for  sustainable  growth  and achieving the inflation target without creating unacceptable risks on the financial side.
+
+Over the past couple of months, the Board has held the cash rate steady at 1.5 per cent.
+
+We  have  continued  to  carefully  examine  the  incoming  flow  of  data.  On  balance  these  data suggest that the economy is continuing to adjust reasonably well to the downswing in mining investment. This downswing still has some way to go, but the end is now in sight. And recently, commodity prices have picked up, which is a marked change from the large declines in prices we have seen for some years. Measures of business and consumer sentiment are also slightly above average.
+
+In  terms  of  inflation,  we  have  been  looking  carefully  at  the  various  measures  of  inflation expectations, which have clearly declined, although not to unprecedented levels. The experience elsewhere suggests that we do need to guard against inflation expectations falling too far, for if this were to occur it would be more difficult to achieve the inflation target. Of course, one of the key  influences  on  inflation  expectations  is  the  actual  outcomes  for  inflation.  We  will  get  an important update next week, with the release of the September quarter CPI.
+
+In terms of the labour market, as I said earlier, the picture is mixed. The unemployment rate has
+
+BIS central bankers' speeches
+
+drifted down, but growth in hours worked is weak and many part-time workers would like to work longer hours. Wage pressures remain weak, although there are some signs that the downward pressure on average wages from workers moving out of high-paying mining-related jobs might be coming to an end.
+
+The  recent  data  on  the  housing  market  are  also  mixed.  Prices  seem  to  be  increasing  quite briskly again in some areas, although are falling in others. Growth in rents is very low and there is a  big  increase  in  housing  supply  still  to  come.  T o  add  to  the  picture,  credit  growth  is  still exceeding income growth, although by a smaller margin than last year. It is also noteworthy that much of this credit is being used to finance new housing construction rather than consumption. It is a complex picture.
+
+So  these  are  the  issues  we  have  been  focused  on.  At  its  most  recent  meeting,  the  Board reached the judgement that holding the cash rate at 1.5 per cent was consistent with sustainable growth in the economy and achieving the inflation target over time. We will, of course, continue to review that judgement at future meetings.
+
+## Conclusion
+
+We continue to live in unusual times. Inflation is quite low and growth in labour costs has been very subdued. While this largely reflects the usual cyclical factors, to some extent there is more than that going on.
+
+The low inflation outcomes around the world have posed some challenges for policy frameworks, including inflation targeting. But our flexible medium-term target has served us well. The Reserve Bank can contribute to stability and confidence in the Australian economy by continuing to be guided by this framework, which has proved its worth for over two decades now, and to use the flexibility afforded by the framework to respond sensibly to the situation we face.
+
+Of course, we have to explain that response and I hope these remarks today have assisted in that regard.
+
+I  remain  confident  that  the  framework  we  have,  sensibly  operated,  will  guide  us  to  prudent decisions in pursuit of what is, after all, the ultimate goal of our policy: the welfare and prosperity of the people of Australia.
+
+Thank you.
+
+See Ballantyne A and S Langcake (2016), 'Why has Retail Inflation been so Low?', RBA  Bulletin, June, pp 9-17. 1
+
+See Section 10(2) of the Reserve Bank Act 1959 (&lt;www.legislation.gov.au/Details/C2015C00201&gt;) 2
+
+BIS central bankers' speeches

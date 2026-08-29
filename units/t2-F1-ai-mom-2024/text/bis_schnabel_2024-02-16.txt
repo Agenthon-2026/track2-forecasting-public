@@ -1,0 +1,504 @@
+Isabel Schnabel: Isabel Schnabel: From laggard to leader? Closing the euro area's technology gap
+2024-02-16
+
+SPEECH
+
+## From laggard to leader? Closing the euro area's technology gap
+
+## Inaugural lecture of the EMU Lab by Isabel Schnabel, Member of the Executive Board of the ECB, at the European University Institute
+
+Florence, 16 February 2024
+
+More than 30 years after its inception, Economic and Monetary Union is widely seen as a success. It has steadily gained support among Europeans. Nearly 80% of euro area citizens support the single currency.
+
+(4)
+
+This is a strong vote of confidence, which shows that the euro is more than a currency. Our monetary union has become a global leader in social protection, a pioneer in fighting climate change and a guardian of free trade and democracy.
+
+But these values and achievements are being increasingly questioned and challenged in a world that is becoming less open, less stable and less reliable. To assert its role, the euro area needs to remain competitive; it must be capable of creating the sustainable growth that our social and economic fabric depends on.
+
+However, this capability is increasingly under threat. At the turn of the millennium, Europe was operating at the global technological frontier, but today many euro area firms are laggards. Compared with many of their global peers, they invest less in both physical capital and research and development, and they are less productive.
+
+Today | will explain the factors behind the euro area's competitiveness crisis and propose remedies to address its deeper root causes.
+
+| will argue that our most potent weapon for enabling European firms to catch up to the technological frontier is to eliminate the remaining barriers to the free movement of goods, services and capital in the European Union. European firms would then be able to compete and thrive in an environment of disruptive technological change where the "winner takes most".
+
+## Europe's lost IT revolution
+
+Europe looks back on a long history of innovation and fundamental transformation.
+
+In the 16th and 17th centuries, the discoveries of Nicolaus Copernicus and Isaac Newton marked watershed moments for social and scientific progress. In the 18th and 19th centuries, the rise of industrial Europe laid the foundations for modern society and the ensuing significant improvements in the standard of living.
+
+After World War II, Europe once again became the world's engine of productivity growth. In the four largest economies in the euro area, the ratio of labour productivity compared with that of the United States increased rapidly, soaring from 25% in 1945 to 100% in 1995 and thereby closing the productivity gap with the United States (Slide 2, left-hand side).
+
+These gains were widely shared across euro area economies, reflecting the fast integration in trade and finance in the run-up to the establishment of the EU's Single Market, with new technologies spreading rapidly across borders (Slide 2, right-hand side).4
+
+So, going into the 21st century, Europe was operating at the global productivity frontier.&amp;] Productivity growth was slowing over time, but that was to be expected as the distance to the frontier narrowed. But in the following years, the euro area took a different course and fell behind other economies like the United States.
+
+Between 1995 and 2007, annual growth in GDP per hour surged measurably in the United States, whereas it slowed and diverged in the euro area. By the time of the global financial crisis in 2008, euro area economies had accumulated productivity losses of some 20% relative to the United States, with the productivity ratio falling back to 0.8.
+
+The euro area has not been able to recover from this loss of competitiveness. Productivity growth has remained subdued, a development reinforced more recently by the repercussions of the pandemic and the Russian war in Ukraine.
+
+The dismal trajectory of Europe's productivity has been subject to much analysis. Most economists agree that European firms' failure to reap the efficiency gains brought about by information and communication technologies — or ICT for short — is one of the root causes. This shows up in both the capital stock and total factor productivity.
+
+Over the past three decades, a striking gap in the real IT-related capital stock has emerged between the euro area and the United States (Slide 3).4 Broad-based investments in ICT fundamentally transformed the US economy, especially the services sector, as ICT became a general purpose technology which radically changed the way many firms operated and served their customers. 8]
+
+As a result, annual productivity growth in the services sector in the United States increased by 3.2% on average between 1995 and 2005, compared with just 0.9% in Europe./2]
+
+But even in the United States, the productivity boost driven by the ICT boom proved temporary. Since the global financial crisis, productivity growth has been subdued across advanced economies, despite continued rapid technological change, including the rise of generative artificial intelligence (Slide 4).
+
+The potential causes of this slowdown have been discussed intensively and controversially. Some argue that the most recent technological innovations are simply less revolutionary than earlier inventions, such as the railway, electricity or the telephone.UI
+
+Others claim that we have yet to see the full benefits of Al and other cutting-edge technologies, as history shows that technology adoption rates can be slow. In 1987 Robert Solow famously remarked that computers were everywhere except in productivity statistics.44]
+
+Empirical evidence supports this second hypothesis. It finds that although technologies developed at the global frontier are spreading across countries ever faster, they are spreading to all firms within an economy ever more slowly.42]
+
+Slow technology diffusion is also at the core of why firms in the euro area have failed to benefit from the ICT revolution.
+
+Two explanations have been identified in the literature.
+
+## The role of competition and capital markets
+
+One is that the business environment in the United States made it easier, or more pressing, for firms to invest in ICT.
+
+Despite important progress on reforms in the wake of the sovereign debt crisis, product and labour markets in the euro area often remain heavily regulated.41 For example, many euro area countries set higher administrative requirements for start-ups than other advanced economies. 5]
+
+High barriers to entry protect the rents of incumbents, reduce technology diffusion and constrain the entry of younger firms, which are more likely to innovate.)
+
+In the euro area, younger firms that survive are on average almost three times as productive as their older peers (Slide 5, left-hand side).44 Most of this gap can be explained by young "superstar" firms, which increase their productivity on average by around 100% per year. These firms invest more than their competitors, particularly in intangible assets, such as software and databases, and they use fewer and more specialised workers (Slide 5, right-hand side).
+
+The link between firm demography, technology diffusion and productivity growth can be seen in the manufacturing sector in particular. The marked decline in productivity growth of high-tech frontier firms in this sector during the past decade coincided with a measurable slowdown in business dynamism (Slide 6, left-hand side).48]
+
+Today, the average age of a high-tech frontier firm in the manufacturing sector is about 50% higher than it was before the global financial crisis, and about twice as high as that of their peers in the services sector (Slide 6, right-hand side). This lack of "creative destruction" is often associated with a lower level of innovation activity,42]
+
+Empirical evidence also shows that firm size is an important factor driving investments in ICT, as the fixed costs related to process reorganisation weigh particularly on small and medium-sized enterprises.
+
+However, higher administrative requirements may prevent younger firms from expanding. In France, for example, several labour laws only become binding when a firm exceeds the 50-employee threshold.!24] Such requirements have made it harder for euro area firms to grow to a sufficient size. In the United States, firms with more than 250 employees account for almost 60% of total employment (Slide 7). In the euro area, the share is between 12 and 37%.
+
+Similarly, the lack of external capital often makes it difficult for firms to scale up. In the euro area, venture capital investments are much lower than in the United States, so that many innovative companies hit funding constraints once they have entered the growth phase.!24] This may lead them to relocate to places where funding is more readily available and capital markets are deeper.
+
+Having young firms that are highly productive, while displaying low productivity at country level means that a large part of our available resources is stuck in corners of our economies that are comparatively less productive.
+
+## The US management hypothesis
+
+A large body of empirical evidence suggests, however, that broader business conditions have not been the only impediment to ICT-related productivity growth in the euro area.
+
+A look at US multinationals doing business in Europe illustrates this well.23] These firms have significantly higher productivity gains from IT than their European peers, despite facing the same regulatory environment. This seems to be because US firms consistently score higher in people management practices.
+
+The "US management hypothesis" rests on the observation that IT adoption requires complementary changes in a firm's organisation to reap the productivity gains of digital technologies.!~41
+
+That is, as the price of IT equipment falls and computational capacity rises, improvements in productivity mainly depend on skilled people using data, software and new procedures that leverage these technologies.
+
+The experience of police departments in the United States is a good example.!25] Higher IT investment alone had no statistically significant effect on reductions in crime rates or increases in clearance. However, when IT adoption was complemented by the introduction of CompStat — a management system created by the New York City Police Department — crime rates fell and clearance rates rose.
+
+The evidence from the euro area confirms these patterns.
+
+Research by ECB staff shows that only about 30% of firms, those closest to the technology frontier, manage to use digital technologies in ways that raise productivity over time (Slide 8, left-hand side).25) For most firms, investment in ICT has no significant impact on their efficiency.
+
+In other words, digital technologies require a large stock of human and managerial capital. In many euro area countries, however, a significant share of adults — in some cases more than a third — have not completed upper secondary school (Slide 8, right-hand side). Such gaps in the education system can help explain why many firms have not been able to reap the benefits of the ICT revolution so far.
+
+## Why Europe urgently needs to tackle its competitiveness crisis
+
+Closing the euro area's technology gap has become more urgent than ever.
+
+Russia's war of aggression against Ukraine is weighing heavily on the price competitiveness of euro area firms. Today, electricity prices in the industrial sector in the EU are almost three times as high as in the United States and more than twice as high as in China (Slide 9, left-hand side).
+
+As a result, the production of high energy-intensive goods is declining at a concerning pace, undermining the euro area's stronghold in traditional industries (Slide 9, right-hand side).
+
+Energy from fossil fuels is bound to become even more expensive over time as carbon prices rise. This implies that the only way to sustainably regain competitiveness is to reduce our dependency on fossil fuels by accelerating the green transition.
+
+However, since high carbon-intensive sectors, such as mining, refineries and air transport, have so far been on average more productive than greener ones, the reallocation of production factors across sectors during the green transition will mechanically reduce aggregate productivity over the short run.24
+
+Boosting technology adoption in less carbon-intensive sectors could help offset some of these effects. And by raising wages and reducing inflation, this could also secure public support for the green transition.
+
+Domestic headwinds are further aggravating the euro area's productivity malaise. Three of them are particularly relevant.
+
+## Demographic headwinds require higher productivity growth
+
+First, the euro area is facing demographic change of unprecedented magnitude. Based on the latest population projections by Eurostat, the old-age dependency ratio — that is the number of people aged 65 or above relative to those of working age (20 to 64) -is expected to increase on average from 37% in 2022 to 60% in 2070 (Slide 10, left-hand side).
+
+The rapid ageing of our society coincides with a shift in preferences, as more and more people prefer to work fewer hours. Average hours worked per employee have been on a secular downward trend since the 1970s, mostly reflecting a decline in the number of hours employees desire to work (Slide 10, right-hand side),28]
+
+With fewer working-age adults working fewer hours per each elderly person, output per hour worked needs to increase for our social system to remain sustainable.
+
+## Slow technology diffusion risks raising market concentration
+
+Second, as productivity gains from digitalisation remain confined to a few highly innovative and productive firms, we are seeing a concerning trend in market concentration.
+
+Recent estimates by ECB staff suggest that while the median price mark-up of firms has remained broadly unchanged over the past two decades, the upper tail of the mark-up distribution has increased considerably (Slide 11, left-hand side).29]
+
+Such "winner-takes-most" dynamics are mainly observed in the services sector, where the productivity gap between frontier and non-frontier firms has been widening rapidly, also because many laggards have failed to exploit the efficiency gains from ICT (Slide 11, right-hand side).
+
+The experience of the United States suggests that the rise of "superstar" firms, such as Apple, Amazon and Alphabet, can have lasting macroeconomic consequences and can help explain several secular trends, including the fall in the labour share of income and the rise in income inequality in the United States, 8
+
+Moreover, to the extent that some monopoly rents are increasingly earned outside the euro area, such "winner-takes-most" dynamics increase the dependency of domestic firms on third countries for the supply of technology, constraining strategic autonomy.
+
+## Productivity growth supports monetary policy
+
+Third, productivity growth is a key determinant of medium-term inflation and real interest rates, which means it directly affects the conduct of monetary policy.
+
+Over the past year, we have made considerable progress in restoring price stability after the largest inflationary shock in decades (Slide 12, left-hand side). Raising our key interest rates was instrumental in curbing high loan growth that risked entrenching the adverse cost-push shocks that the euro area economy had faced since 2020,84)
+
+But persistently low, and recently even negative, productivity growth exacerbates the effects that the current strong growth in nominal wages has on unit labour costs for firms (Slide 12, right-hand side). This increases the risk that firms may pass higher wage costs on to consumers, which could delay inflation returning to our 2% target.
+
+In this environment, monetary policy needs to remain restrictive until we can be confident that inflation will sustainably return to our medium-term target. The recent long period of high inflation suggests that, to avoid being forced into adopting a stop-and-go policy akin to that of the 1970s, we must be cautious not to adjust our policy stance prematurely.
+
+Measures that help firms boost productivity growth directly support monetary policy in achieving its objective of securing price stability over the medium term.22]
+
+Such measures would also expand the future policy space for central banks if faced with new disinflationary shocks. This is because higher productivity growth pushes up the marginal product of capital and hence the neutral real interest rate r*, which is the interest rate at which monetary policy is neither expansionary nor restrictive.23)
+
+New estimates show that an increase in trend productivity growth by one percentage point can increase ~* by 0.6 percentage points. 24] A higher r* would reduce the need to embark on unconventional policy measures that often come with larger side effects.{25]
+
+## How to boost productivity?
+
+How, then, can we solve the euro area's competitiveness crisis?
+
+My diagnosis of the problem suggests that aggregate productivity growth depends both on how technologies are used and advanced at the firm level — the management hypothesis — and on how resources are allocated across firms — in other words the broad business environment.24)
+
+There are important interactions between these two factors. A slower technology diffusion across firms, as suggested by the divergence of productivity between frontier and laggard firms, boosts the gains that arise from reducing an inefficient allocation of resources. 24
+
+These gains are estimated to be significant in the euro area. 88] In Italy, for example, it is estimated that aggregate productivity in the manufacturing sector would be around 15% higher if national frontier firms were as large as the global frontier benchmark (Slide 13),89
+
+If these firms were empowered to scale up, aggregate productivity growth could rise significantly. This is what happened in the United States in the 1970s and 1980s. Research shows that a substantial part of productivity growth in manufacturing during this period can be explained by output shifting from less productive to more productive firms.42
+
+The European Commission recently presented concrete action points for improving competitiveness in the euro area, and it is working towards a regulatory framework for enhancing growth.44] In addition, Mario Draghi is expected to deliver a comprehensive report on the EU's competitiveness later this year.
+
+From a euro area perspective, | see three mutually reinforcing factors as critical for reducing resource misallocation and for promoting and easing the diffusion of digital technologies in the euro area.
+
+## Increased competition raises diffusion of skills
+
+First, we need a regulatory framework that more strongly embraces and encourages competition.
+
+There is broad evidence showing that strict product market regulations, rigid labour markets and excessive red tape have significantly inhibited the adoption of digital technologies in the past.42]
+
+Since the euro area sovereign debt crisis, many governments have made measurable progress in making their economies more flexible and less rigid 49] However, the momentum of reform slowed notably after 2012.
+
+In an environment of rapid technological change, this slowdown has made existing regulation more costly, as the impact of regulations on economic activity is highly state-dependent.
+
+For example, competition policies are typically less important in countries that are far away from the global technological frontier. During the 1960s and 1970s Europe was able to catch up with the United States despite lower business dynamics. 441
+
+In today's digital world, however, competition matters significantly more than it did in the 20th century. Research shows that stronger competition is associated with significant improvements in managerial ability, which we have seen is a key ingredient in reaping the benefits of digitalisation.45]
+
+To kickstart this virtuous circle, the cost of firm entry and expansion as well as the cost of closing a failing business need to be reduced. For example, in the euro area it takes, on average, more than twice as long as in the United States — two years instead of one — for creditors to recover what they are owed after a company defaults.
+
+Bolstering the Schumpeterian process of creative destruction has become even more important after the pandemic, as government support schemes have led to fewer firms exiting the market than during previous crises, although this process has started to reverse.
+
+## Strengthening the Single Market and fostering integration
+
+Second, we need to foster integration in the euro area.
+
+Firms operating in larger markets can more easily build economies of scale and tend to be more innovative.45] The single market is our strongest weapon for combining our economic weight and allowing European firms to compete and thrive in an environment where the "winner takes most".42]
+
+However, the level of European integration, especially in the area of market services, which account for around 70% of the EU's GDP, remains disappointing. Intra-EU trade in services accounts for only about 15% of GDP compared with more than 50% for goods (Slide 14, left-hand side).
+
+Similarly, only 25% of large firms offer cross-border online sales in the EU. For small and medium-sized enterprises, the share is below 10%. To a significant extent, this reflects remaining regulatory and administrative barriers restricting cross-border trade in services, with little if any progress having been made in addressing this in recent years.
+
+Our financial markets also remain segmented along national borders. Financial integration in the euro area has not increased from where it stood in the early years of monetary union. This contributes to capital misallocation and reduces the potential for cross-border risk sharing (Slide 14, right-hand side).
+
+Research shows that deeper and more integrated capital markets could measurably boost diffusion of technology: increasing access to capital can reduce the distance from the technological frontier 5 to7 %, 481
+
+by
+
+ECB President Christine Lagarde recently laid out how important timely progress towards a true capital markets union is for succeeding in the ongoing green and digital transitions.42] Consolidating rules and market infrastructures and reviving the securitisation market would go a long way towards reducing segmentation and improving access to external finance.21
+
+Completing banking union is equally important. Banks remain the backbone of our economy. Yet, since the establishment of ECB Banking Supervision in 2014, we have made little progress in creating the conditions for banks to operate freely across borders. Total EU cross-border assets held by banks, especially via subsidiaries, remain far below the level seen before the sovereign debt crisis (Slide 15).
+
+Deepening our banking union requires two additional steps. One is reducing regulatory impediments that continue to hinder cross-border consolidation and competition. These impediments include fragmented tax and insolvency regimes and limited cross-border fungibility of capital and liquidity within a single banking group as a result of ring-fencing measures by national competent authorities.
+
+As it takes time for such obstacles to be removed, a faster means of achieving this goal would be for banks to rely more extensively on branches instead of providing services through subsidiaries. In this regard, ECB Banking Supervision has already brought forward important suggestions for facilitating the use of branches. 24)
+
+Further steps are completing the ratification of the amendment of the Treaty establishing the European Stability Mechanism and creating a European deposit insurance scheme (EDIS). Regrettably, national sovereign safety nets remain the ultimate backstop for banks. This cements the sovereign-bank nexus that led the euro area into a deep crisis more than ten years ago.
+
+Progress on risk sharing through EDIS needs to be accompanied by stronger market discipline to mitigate adverse incentives and make risk sharing more politically palatable. 2] Therefore, risk sharing and market discipline should be advanced in parallel.
+
+## Raising public investment
+
+Third, we need to raise public investment, both at national and European levels, in order to deal with pressing structural challenges: the green transition, territorial security, digitalisation and a growing shortage of skilled workers.
+
+Complementarities between public and private investments mean that capital deepening by firms alone will not be sufficient to overcome the euro area's competitiveness crisis.23]
+
+Public investment has been weak in the euro area for a long time. After the sovereign debt crisis, a visible gap in public investment opened between the euro area and the United States (Slide 16, left-hand side). [54]
+
+Against this background, the ECB welcomes the recent agreement in the European Parliament and the Council on a new economic governance framework that attempts to balance the need to ensure debt sustainability against incentives for investments and structural reforms. The latter are essential for raising productivity and economic growth, and therefore also vital in supporting debt sustainability.
+
+Now governments must take full ownership of the new rules. Besides consolidation efforts, this means meeting the reform and investment commitments made in their national Recovery and Resilience Plans, which are at the heart of the Next Generation EU (NGEU) programme. 25]
+
+NGEU can play a significant role in overcoming the euro area's competitiveness crisis, as it allocates most of its funding to public investment, including in education and training.©9) For the euro area, financial support offered by national Recovery and Resilience Plans amounts to €513 billion, or almost 4.1% of euro area GDP.241
+
+Estimates by ECB staff suggest that NGEU has the potential to measurably boost productivity growth over the coming years (Slide 16, right-hand side). However, this requires full implementation of previous commitments.
+
+Reforms and investments are being actively pursued across the EU. By the third quarter of 2023, around 500 reform-related milestones and targets had been assessed as satisfactorily fulfilled (Slide 17).25)
+
+At the same time, despite a significant catch-up in December last year, the latest evidence points to some backloading in the implementation of investment plans. For the euro area aggregate, the latest estimates by ECB staff indicate a cumulative shortfall over the period 2021-2023 of around 4% in relation to the total that was funding initially available. 22]
+
+Next week, the European Commission will publish an independent evaluation report on the progress made on implementing investment plans so far. The delays highlight two potential areas for reflection on the way the Recovery and Resilience Facility (RRF) is designed.
+
+One is the administrative burden. The RRF regulation requires Member States to set up an effective control and audit system. Such a system is important for protecting the EU's financial interests, but anecdotal evidence suggests that this system poses a considerable challenge for national administrations which has led to delays in payment requests. It is a trade-off that requires reassessment.
+
+The other area for reflection relates to NGEU's ambitious horizon: all funds need to be tapped by 2026 the latest. While we have no time to lose when it comes to stimulating productivity and fighting climate change, rushing the implementation of investment projects could translate into supply bottlenecks, unwarranted demand-driven inflationary pressures and the risk of selecting "easy-to-fulfil" projects that favour government consumption over investment.
+
+These issues demand attentive contemplation, as we cannot allow NGEU to fail. The stakes are simply too high, also for the ECB.
+
+With NGEU, the euro area temporarily addressed three important gaps in its institutional architecture: (i) it set up a central fiscal tool to provide stabilisation through common resources, which supports monetary policy; (ii) it led to closer integration in economic policymaking by coordinating strategic investment decisions at the European level; and (iii) it increased the liquidity of EU bonds and it deepened euro area capital markets, thus making progress towards the creation of a truly European safe asset, [20]
+
+How effectively governments use the NGEU funds to make our economies fit for the challenges we face will therefore critically define the future path of European integration.
+
+Successful implementation of NGEU presents a unique opportunity to boost productivity, lay the groundwork for completing the euro area's institutional architecture and make monetary policy more effective.
+
+## Conclusions
+
+Let me conclude.
+
+Nobel laureate Paul Krugman once noted "Productivity isn't everything, but, in the long run, it is almost everything." European leaders recognised this already more than 20 years ago when they signed the Lisbon strategy. But progress has so far been disappointing.
+
+Growing economic nationalism, threats to our territorial security and a rising technology gap between ours and other advanced economies make the case for boosting the euro area's competitiveness ever more urgent. The responses to the pandemic and the war in Ukraine demonstrate that Europe is able to pull together when faced with adversity.
+
+Turning from laggard to leader requires initiating a virtuous circle between public and private investment on the one hand and productivity growth on the other. This starts with full implementation of previous commitments under the Recovery and Resilience Facility. Priority must be given to measures that strengthen competition, reduce bureaucracy and stimulate further integration in product, labour and financial markets.
+
+These measures will help channel capital and labour towards their most productive uses, challenging incumbents and removing barriers that are holding back young productive firms from growing to their full potential.
+
+And, importantly, Europe leading the way on productivity also helps the ECB maintain price stability.
+
+Thank you.
+
+## Annexes
+
+16 February 2024
+
+## Slides
+
+
+
+2.
+
+The number of trade restrictions imposed by countries rose from almost 2,300 in 2019 to 2,600 in 2022, peaking at 4,500 in 2020. Metals, cereals, pharmaceuticals and high-tech sectors have been most affected by these measures. See International Chamber of Commerce (2023), /CC 2023 Trade report: A fragmenting world.
+
+3.
+
+Productivity growth during that period was mainly due to European companies catching up to the global technological frontier after the two World Wars. See Gordon, R.J. and Sayed, H. (2019), "The Industry Anatomy of the Transatlantic Productivity Growth Slowdown", NBER Working Papers, No 25703, March.
+
+4.
+
+See also Boltho, A. and Eichengreen, B. (2008), "Ihe Economic Impact of European Integration", CEPR Discussion Papers, No 6820; and Badinger, H. (2005), "Growth Effects of Economic Integration: Evidence from the EU Member States", Review of World Economics, Vol. 141(1), pp. 50-78.
+
+5.
+
+See also Crafts, N. (2012), "Western Europe's Growth Prospects: an Historical Perspective", CEPR Discussion Papers, No 8827.
+
+6.
+
+For an overview, see Schivardi, F. and Schmitz, T. (2020), "The IT Revolution and Southern Europe's Two Lost Decades", Journal of the European Economic Association, Vol. 18(5), pp. 2441-2486, October; and Gordon, R.J. and Sayed, H. (2020), "Transatlantic Technologies: The Role of ICT in the Evolution of U.S. and European Productivity Growth", NBER Working Papers, No 27425, June.
+
+7.
+
+These shortfalls likely persisted after the pandemic. In a recent survey, small firms reported only a moderate impact of the COVID-19 pandemic on digital activities. See ECB (2024), "Digitalisation and productivity", Occasional Paper Series, forthcoming.
+
+8.
+
+Stiroh, K.J. (2002), "Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?", American Economic Review, Vol. 92(5), pp. 1559-1576, December.
+
+9.
+
+This productivity boom largely preceded the rise of the large technology firms that exist today, such as Amazon and Alphabet.
+
+See, for example, Gordon, R.J. (2000), "Does the "New Economy" Measure Up to the Great Inventions of the Past?", Journal of Economic Perspectives, Vol. 14(4), pp. 49-74; Gordon, R.J. (2015), "Secular Stagnation: A Supply-Side View', American Economic Review, Vol. 105(5), pp. 54-59, May.
+
+11.
+
+Brynjolfsson, E., Rock, D. and Syverson, C. (2021), "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies", American Economic Journal: Macroeconomics, Vol. 13(1), pp. 333-372, January.
+
+12.
+
+Solow, R.M. (1987), "We'd better watch out", New York Times Book Review.
+
+13.
+
+Comin, D. and Mestieri, M. (2018), "If Technology Has Arrived Everywhere, Why Has Income Diverged?", American Economic Journal: Macroeconomics, Vol. 10(3), pp. 137-178.
+
+14.
+
+Anderton, R., Di Lupidio, B. and Jarmulska, B. (2019), "Product market regulation, business churning and productivity: evidence from the European Union countries", Working Paper Series, No 2332, ECB,
+
+## November.
+
+15.
+
+OECD (2018), Indicators of Product Market Regulation.
+
+16.
+
+Aghion et al. (2004), "Entry and Productivity Growth: Evidence from Microlevel Panel Data", Journal of the European Economic Association, Vol. 2, No 2/3, Papers and Proceedings of the Eighteenth Annual Congress of the European Economic Association, pp. 265-276.
+
+17.
+
+Barrela, R., Botelho, V. and Lopez-Garcia, P. (2022), "Firm productivity dynamism in the euro area", Economic Bulletin, Issue 1, ECB.
+
+18.
+
+Power, and Technology", IWH Discussion Papers, No 19.
+
+19.
+
+Aghion, P. and Howitt, P. (2006), "Joseph Schumpeter Lecture: Appropriate Growth Policy: A Unifying Framework", Journal of the European Economic Association, Vol. 4, No 2/3, Papers and Proceedings of the Twentieth Annual Congress of the European Economic Association, pp. 269-314.
+
+20.
+
+Bugamelli, M. and Pagano, P. (2004), "Barriers to Investment in ICT", Applied Economics, Vol. 36, pp. 2275-2286; Fabiani, S., Schivardi, F. and Trento, S. (2005), "ICT adoption in Italian manufacturing: firmlevel evidence", Industrial and Corporate Change, Vol. 14, pp. 225-249.
+
+21.
+
+Garicano, L., Lelarge, C. and Van Reenen, J. (2016), "Firm Size Distortions and the Productivity Distribution: Evidence from France", American Economic Review, Vol. 106(11), pp. 3439-79. 22.
+
+Aghion, P. et al. (2010), "Volatility and growth: Credit constraints and the composition of investment', Journal of Monetary Economics, Vol. 57(3), pp. 246-265. Exit options for venture capitalists make investments in unlisted companies particularly attractive.
+
+23.
+
+Bloom, N., Sadun, R. and Van Reenen, J. (2012), "Americans Do IT Better: US Multinationals and the Productivity Miracle", American Economic Review, Vol. 102(1), pp. 167-201.
+
+24.
+
+See, for example, Milgrom, P. and Roberts, J. (1990), "The economics of modern manufacturing: Technology, strategy, and organization", American Economic Review, Vol. 80(3), pp. 511-28; Brynjolfsson, E. and Hitt, L.M. (2000), "Beyond Computation: Information Technology, Organizational Transformation and Business Performance", Journal of Economic Perspectives, Vol. 14(4), pp. 23-48; and Bresnahan, T.F., Brynjolfsson, E. and Hitt, L.M. (2002), "Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence", The Quarterly Journal of Economics, Vol. 117(1), pp. 339-376.
+
+25.
+
+Garicano, L. and Heaton, P. (2010), "Information Technology, Organization, and Productivity in the Public Sector: Evidence from Police Departments", Journal of Labor Economics, Vol. 28(1), pp. 167-201. Another example is the impact of broadband internet on the productivity of skilled and unskilled workers in Norway. See Akerman, A., Gaarder, |. and Mogstad, M. (2015), "The Skill Complementarity of Broadband Internet", The Quarterly Journal of Economics, Vol. 130(4), pp. 1781-1824.
+
+26.
+
+sideshow?", Working Paper Series, No 2794, ECB, March.
+
+See also André, C. et al. (2023), "Rising energy prices and productivity: short-run pain, long-term gain?", OECD Economics Department Working Papers, No 1755. 28.
+
+Astinova, D. et al. (2024), "Dissecting the Decline in Average Hours Worked in Europe", IMF Working Papers, WP/24/2, January.
+
+29.
+
+Kouvavas, O. et al. (2021), "Markups and inflation cyclicality in the euro area", Working Paper Series, No 2617, ECB, November.
+
+30.
+
+De Loecker, J., Eeckhout, J. and Unger, G. (2020), "The Rise of Market Power and the Macroeconomic Implications", The Quarterly Journal of Economics, Vol. 135(2), pp. 561-644; Autor, D. et al. (2020), "The Fall of the Labor Share and the Rise of Superstar Firms", The Quarterly Journal of Economics, Vol. 135(2), pp. 645-709; and Autor, D. et al. (2017), "Concentrating on the Fall of the Labor Share", American Economic Review, Vol. 107(5), pp. 180-185.
+
+31.
+
+Schnabel, |. (2023), "Money and inflation", Thinen Lecture at the annual conference of the Verein fiir Socialpolitik, Regensburg, 25 September.
+
+32.
+
+The ICT-related productivity shock in the United States at the turn of the millennium was a major factor behind the coinciding of declining unemployment and low inflation. Alan Greenspan, who was then the Chairman of the Board of Governors of the Federal Reserve System, decided not to raise interest rates as he saw the rise in productivity as the main factor behind the favourable developments in labour markets.
+
+33.
+
+Cesa-Bianchi, A., Harrison, R. and Sajedi, R. (2022); Mankiw, G.N. (2022); and Solow, R.M. 34.
+
+(1956).
+
+Ferreira, T.R.T. and Shousha, S. (2023), "Determinants of global neutral interest rates', Journal of International Economics, Elsevier, Vol. 145(C).
+
+35.
+
+Schnabel, |. (2021), "Monetary policy and inequality", speech at a virtual conference on "Diversity and Inclusion in Economics, Finance, and Central Banking", Frankfurt am Main, 9 November; and Schnabel, I. (2023), "Quantitative tightening: rationale and market impact", speech at the Money Market Contact Group meeting, Frankfurt am Main, 2 March.
+
+36.
+
+See also Gamberoni, E., Giordano, C. and Lopez-Garcia, P. (2016), "Capital and labour (mis)allocation in the euro area: some stylized facts and determinants", Working Paper Series, No 1981, ECB.
+
+37.
+
+Comin, D. and Mestieri, M. (2018), op. cit.
+
+38.
+
+Gita Gopinath and co-authors have documented this resource misallocation for a number of euro area countries that faced relatively high interest rates in the run-up to the adoption of the euro. They show that firms with high net worth but low productivity managed to attract most of the capital inflows that took place during the first decade of the euro. See Gopinath et al. (2017), "Capital Allocation and Productivity in South Europe", The Quarterly Journal of Economics, Vol. 132(4), pp. 1915-1967.
+
+39.
+
+Andrews, D., Criscuolo, C. and Gal, P.N. (2015), "Frontier Firms, Technology Diffusion and Public Policy: Micro Evidence from OECD Countries", OECD.
+
+40.
+
+Baily, M.N., Hulten, C. and Campbell, D. (1992), "Productivity Dynamics in Manufacturing Plants", Brookings Papers on Economic Activity: Microeconomics, Vol. 1992, pp. 187-267.
+
+41.
+
+European Commission (2023), Long-term competitiveness of the EU: looking beyond 2030.
+
+42.
+
+Gust, C. and Marquez, J. (2004), "International comparisons of productivity growth: the role of information technology and regulatory practices", Labour Economics, Vol. 11(1), pp. 33-58; and Conway, P., de Rosa,
+
+- D., Nicoletti, G. and Steiner, F. (2006), "Regulation, Competition and Productivity Convergence", OECD Economics Department Working Papers, No 509.
+
+43.
+
+Masuch et al. (2018), "Structural policies in the euro area", Occasional Paper Series, No 210, ECB, June.
+
+44.
+
+Aghion, P. and Howitt, P. (2006), op. cit.
+
+45.
+
+Bloom, N., Sadun, R. and Van Reenen, J. (2016), "Management as a Technology?", NBER Working Papers, No 22327, June.
+
+46.
+
+Kumar, K.B., Rajan, R.G. and Zingales, L. (1999), "What Determines Firm Size?", NBER Working Papers, No 7208, July.
+
+47.
+
+See also Buti, M. and Corsetti, G. (2024), "The first 25 years of the euro", CEPR Policy Insights, No 126. 48.
+
+Amoroso, S. and Martino, R. (2020), "Regulations and technology gap in Europe: The role of firm dynamics", European Economic Review, Vol. 129, 103551, October.
+
+49.
+
+Lagarde, C. (2023), "A Kantian shift for the capital markets union", speech at the European Banking Congress, Frankfurt am Main, 17 November.
+
+50.
+
+The EU has three times as many stock exchanges as the United States, and it has 18 central counterparties and 22 central securities depositories, while the United States has one of each. See Asimakopoulos, P., Hamre, E.F. and Wright, W. (2022), "A New Vision for EU Capital Markets: Analysis of the State of Play and Growth Potential in EU Capital Markets", New Financial, February.
+
+51.
+
+See, for example, Enria, A. (2021), "How can we make the most of an incomplete banking union?", speech at the Eurofi Financial Forum, Ljubljana, 9 September. 52.
+
+Bénassy-Quéré et al. (2018), "Reconciling risk sharing with market discipline: A constructive approach to euro area reform", CEPR Policy Insights, No 91; and Véron, N. and Schnabel, |. (2018), "Breaking the stalemate on European deposit insurance", VoxEU column, 7 April.
+
+53.
+
+See also Brasili, A. et al. (2023), "Complementarities between local public and private investment in EU regions", Economics Working Papers, No 2023/04, European Investment Bank, July; and Labhard, V. and Lehtimaki, J. (2022), "Digitalisation, institutions and governance, and growth: mechanisms and evidence", Working Paper Series, No 2735, ECB, September.
+
+54.
+
+The unresponsiveness of public investment to historically low interest rates was a key reason why the ECB failed to lift the euro area out of the low-inflation environment during this period. See Schnabel, |. (2021), "Unconventional fiscal and monetary policy at the zero lower bound", keynote speech at the Third
+
+Annual Conference organised by the European Fiscal Board on "High Debt, Low Rates and Tail Events:
+
+Rules-Based Fiscal Frameworks under Stress", Frankfurt am Main, 26 February. 55.
+
+The Recovery and Resilience Facility was officially established in February 2021 to provide financial support of up to €723.8 billion, in the form of both loans (€385.8 billion) and grants (€338 billion), to EU Member States.
+
+56.
+
+As referred to in Article 3 of the Recovery and Resilience Facility Regulation, the facility's scope of application extends to policy areas of European relevance grouped into six pillars: i) green transition; ii) digital transformation; iii) smart, sustainable and inclusive growth; iv) social and territorial cohesion; v) health, and economic, social and institutional resilience; and vi) policies for the next generation, including education.
+
+57.
+
+Based on 2021 euro area GDP.
+
+58.
+
+This corresponds to roughly 20% of the amount envisaged over the full life cycle of the Recovery and Resilience Facility.
+
+59.
+
+Most of the payment requests in 2023 were not submitted on time in accordance with the time frame agreed in the Operational Arrangements.
+
+60.
+
+Bletzinger, T., Greif, W. and Schwaab, B. (2022), "Can EU bonds Serve as Euro-Denominated Safe Assets?", Journal of Risk and Financial Management, Vol. 15(11), pp. 1-13, November.
+
+61.
+
+Krugman, P. (1997), The Age of Diminished Expectations, 3rd edition, The MIT Press.

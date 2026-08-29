@@ -1,0 +1,206 @@
+Claudia Buch: Claudia Buch: Building a resilient future - how Europe's financial stability fosters growth and competitiveness
+2024-09-12
+
+SPEECH
+
+## Building a resilient future: how Europe's financial stability fosters growth and competitiveness
+
+## Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, at the Eurofi Financial Forum 2024 in Budapest
+
+Budapest, 12 September 2024
+
+Sustainable growth and the competitiveness of European firms are high on the European policy agenda. Over the coming years, growth in the euro area is projected to remain below 2% and thus lower than in the United States." This divergence in growth is not a new phenomenon./! Increasing the productivity of European firms, while mastering the energy transition, and revamping crucial parts of the (digital) infrastructure are key challenges. And all this is happening in an environment characterised by heightened geopolitical risk. What Europe needs is long-term investment and firms that successfully innovate.
+
+In Europe, more so than in other markets, banks play a particularly relevant role in funding the real economy, managing risks and safeguarding deposits. A stable and well-functioning banking system is thus a prerequisite for economic growth in Europe. Banks are regulated and supervised so that they can perform their roles without taking undue risks or threatening financial stability.
+
+In the current debate, the question has been raised as to whether regulation and supervision have become too conservative to the point that they may constrain growth. Does the European approach to regulation and supervision prevent European banks from becoming more efficient, from providing better services to their clients and from successfully competing on a global scale? Would deregulation and lighter-touch banking supervision release more funding and promote sustainable growth?
+
+In my view, the suggestions being put forward to relax banking regulation and supervision to promote growth are misguided and could have negative side effects.
+
+The establishment of the banking union, ten years ago, was a significant achievement that has served European citizens well. European leaders responded to the global financial crisis and the European sovereign debt crisis by centralising supervision and resolution, by building new, strong institutions. The creation of European banking supervision in 2014 has had a positive impact on the stability of banks and market confidence. The banking union authorities apply harmonised prudential standards in an integrated banking market.
+
+Strong banking regulation and supervision ensure that banks are resilient and manage risks well. By acting within their mandate, supervisors and regulators also contribute to growth and competitiveness. One key focus of good supervision is that banks have sustainable business models to deal with an evolving competitive landscape in financial services. More resilient and better capitalised banks are better equipped to take risks, to compete, and to lend to the real economy, including during economic downturns. The reforms that have been implemented since the global financial crisis have made the banking sector more resilient and improved banks' ability to fund the real economy. Banking deregulation or more lenient supervision would compromise these achievements.
+
+A European policy agenda that promotes growth needs to tackle the root causes of low productivity. Ultimately, growth is driven by innovation. Policies to promote innovation and the Single Market are thus important levers. We need further progress to complete the banking union and towards a capital markets union (CMU). Supervision and regulation contribute to the proper functioning of financial markets by enhancing transparency and efficiency, streamlining reporting requirements and reducing complexity, but without compromising on resilience.
+
+## Competition in banking, risk taking and the role of supervision
+
+Good supervision ensures that individual banks remain safe and sound, that they can manage risks well and that they have sustainable business models. This allows banks to better compete in the market. But should supervisors directly focus their efforts on banks' ability to compete?
+
+As supervisors, we are in principle neutral about competition between banks. Our focus is on banks' risk management and resilience, which are key drivers of their ability to finance investment and innovation. The degree of competition and market concentration matters, but not in a clear-cut way — just as risk taking can be more pronounced in competitive markets, a high degree of market concentration can be a source of risk if banks become too systemic.
+
+new
+
+So how has competition changed, how does it affect risk, and what role does supervision play? Over the past decades, competition in financial services has become more intense. Global crossborder financial assets and liabilities increased from around 120% of GDP in 1990 to over 450% in 2021.2] The market share of non-bank financial intermediaries has also risen, particularly since the global financial crisis. Today, almost 50% of global financial assets are held by non-bank intermediaries, compared with 43% in 2008.4 This can promote a better allocation of risks in the system, but it also requires risks in the non-bank financial sector to be adequately regulated. And digital providers of financial services are entering the market, threatening to disintermediate the traditional value chains of banks.
+
+At the same time, market structures in national banking markets are relatively persistent. Many banks provide retail banking services at the national level, and cross-border market entry has often been limited. Within the banking sector, there have been shifts in market shares away from weaker banks to stronger banks, which benefits growth and stability.
+
+Competition between internationally active investment banks is an area where national borders matter less. In investment banking, the market shares of European banks have declined relative to their global competitors. In the Asia-Pacific region, Chinese investment banks have increased their market shares over the past decade, overtaking both US and European banks. As regards corporates' access to finance, the market has adapted with more efficient banks stepping in, potentially improving the quality and availability of financial services.
+
+For supervisors, it is not competition per se that matters but its impact on risk taking and resilience. Greater competition has many positive effects for welfare, but it can also have a dampening effect on profit margins and franchise values with the potential to incentivise adverse outcomes. To compensate, banks may search for riskier investments with higher returns.
+
+Empirically, the link between banks' risks and the competitive structure of banking markets is not universal. There are studies confirming that more intense competition increases risks. Due to smaller margins, the benefits from obtaining information are smaller in more competitive markets, which can lead to an underinvestment in information and, in turn, increase fragility. Crises are more likely in less concentrated banking sectors; banks' risk exposure increases when their market power is limited. But a high degree of market concentration can bring risks of its own and have negative implications for welfare. The costs of financial services tend to be higher in more concentrated markets. Larger banks may become too big to fail, and they may perform critical functions which are difficult to replace.
+
+Good regulation and supervision can curb such potential negative side effects. The creation of European banking supervision in 2014 had a positive impact on banks' financial conditions, market confidence, bank performance and market integration. Generally, banks that are subject to more intense supervisory scrutiny tend to be safer, without showing signs of lower profitability. More intense supervision reduces banks' risk taking and improves their stability, with little or no impact on bank performance. And more frequent supervisory examinations of banks are associated with reduced loan losses and delinquencies and thus higher profitability.
+
+Concerns | sometimes hear that European supervision and regulation would be too conservative and would lead to losses of market shares are not supported by the evidence. In fact, current capital standards in Europe are not higher than in other jurisdictions, in particular the United States. ECB internal analysis asked the question: would European banks face lower requirements under the current US prudential framework? We found that, under the US framework, the requirements for European global systemically important banks (G-SIBs) would be higher than their actual requirements today. Requirements would be lower for most smaller and medium-sized European banks in the sample.42]
+
+Moreover, the forthcoming application of Basel III rules in the EU will impact European banks' capital requirements by less than if the standards had been applied without any Europe-specific modifications. The of CRR III would halve the increase in from implementation capital requirements 18.0%, which would be fully compliant with the Basel standards, to 8.6%. And this estimate is an upper bound as it assumes a static balance sheet. It does not factor in how banks would react to the new rules. Banks would certainly adjust their activities to reduce the impact of the final Basel III rules. In this case, the impact would be lower. Anecdotal evidence suggests that banks' internal estimates of the impact of the reform are lower than official estimates.
+
+Long transition periods further mitigate the impact of Basel Ill. Banks have until the year 2032 to fully comply with the new rules — 25 years after the global financial crisis and 15 years after the international agreement on Basel Ill in 2017.
+
+So let me sum up: changing patterns in competition between banks, between banks and non-bank providers of financial services and across borders can affect risks in banking. This is an effect that supervisors need to carefully consider within their mandate — making sure that risks are managed well and that banks are resilient. There is no evidence that the European approach to supervision and regulation has gone too far or that it limits European banks' ability to compete. Giving supervisors additional objectives related to growth or competition could in fact have negative repercussions for their existing mandate to ensure the safety and soundness of the banking sector,12]
+
+## The impact of regulation and supervision on the real economy
+
+How about the real economy? Have the banking reforms that have been implemented over the past decade and the changing patterns of competition affected the way in which services are provided to households and firms? Let's look at how the efficiency of the provision of financial services and lending to the real economy have evolved.
+
+In banking, like other sectors of the economy, the potential benefits of competition are well known. Competition enhances efficiency, lowers prices, favours innovation and provides consumers with a wider range and higher quality of products. This benefits the real economy by lowering funding costs, enhancing risk sharing and providing better saving opportunities. Increased competition has been accompanied by efficiency gains in banking. Driven by technological advancements, banks' operating costs have declined.
+
+elusive.45]
+
+However, benefits in terms of lower financial intermediation costs are more While the volume of financial services provided has increased, financial intermediation costs have remained largely flat on both sides of the Atlantic. For the United States, these trends can be tracked over a long period of around 130 years. Time series for Europe start in the 1950s and show a similar pattern. In recent years, total factor productivity (TFP) in the euro area banking sector has actually decreased from over 2.0% in 2007 to 0.8% in 2017.4] This decline is primarily due to slowed technological progress and persistent structural inefficiencies within the sector. Banks' digitalisation strategies can be an important driver of future productivity gains, but associated risks also have to be managed. That's why European banking supervision has made digitalisation one of its core supervisory priorities.
+
+European banks have maintained a strong role in funding the real economy. In 2022 euro area banking assets measured 290% of GDP, which is higher than in 2002 (240%). In Europe, around 67% of debt funding for the corporate sector is provided by banks. Bank funding is much less relevant in the United States, where banking assets relative to GDP stood at around 110% in 2023.
+
+In particular, banks are a key funding source for small and medium-sized enterprises (SMEs) that cannot easily access the capital market. If more intense competition reduces the incentives to acquire information about borrowers, this may reduce the provision of credit, particularly to smaller and newer firms,and shift it towards riskier borrowers."©] Good supervision can mitigate these effects by ensuring that sound lending standards and risk assessment procedures are maintained across all banks. Impact assessments do in fact show that the post-GFC financial sector reforms have not come at the expense of lending to SMEs.44
+
+Generally speaking, strong supervision and regulation have positive implications for the real economy by bolstering trust and market confidence. Good supervision supports the resilience of the overall financial system, ensuring that the real economy has access to finance. It promotes trust in the business environment, which ultimately benefits economic growth.
+
+effects.
+
+But, as with any kind of regulation, bank regulation and supervision may have unintended side Monitoring the effects of supervision and regulation is therefore a key element of accountability and transparency.18] The Basel Committee on Banking Supervision (BCBS) and the Financial Stability Board (FSB) have evaluated the post-crisis reform agenda. The European Banking Authority (EBA) monitors the impact of EU transitional deviations that were introduced with the CRR III. European banking supervision is currently developing a framework to better assess supervisory effectiveness.
+
+In general, impact assessments find that better capitalised banks are better able to provide funding to the real economy. In the short term, banks already struggling to meet supervisory requirements may have to reduce their activity if regulations are tightened. This could indeed be an intended effect, by shifting market share away from weaker banks toward stronger ones. In the medium to long term, the positive effects of tighter regulations on aggregate lending and growth prevail. As regards the Basel reforms, impact assessments show that the transitory economic costs are outweighed by the permanent, long-run benefits, including an increase in economic resilience.
+
+Hence, there is little to suggest that higher resilience has come at the expense of the provision of financial services to the real economy and economic growth. In this sense, relaxing regulations and supervision would do more harm than good: such a move would weaken resilience and ultimately impair the ability of banks to provide financial services in a sustainable way.
+
+## Reforming supervision and reducing complexity
+
+Overall, there is no indication that the European supervisory and regulatory approach might stand in the way of higher growth. At the same time, we can always improve in terms of making supervision more effective, more efficient and less complex.
+
+The European banking supervision approach is currently undergoing reform to make it more efficient and effective but also more intrusive. Enhancements to the Supervisory Review and Evaluation Process (SREP) are a prime example of the changes being made. The enhanced SREP has six main objectives: conducting more focused risk assessments, improving the integrated planning of the different types of supervisory activities, using the full supervisory toolkit, enhancing communication with banks, making methodologies more stable, and making better use of IT systems and analytics 29 We are building on previous work to enhance transparency and accountability. Over the past years, we have made significant strides to enhance the transparency of supervisory practices and methodologies to become more predictable.
+
+Reducing unnecessary complexity can complement enhanced transparency and efficiency. The current regulatory framework is complex, reflecting the complexity of modern banking as well as input received during consultations. National regulations and the use of national options add to this complexity. This effect could be mitigated through direct regulation rather than directives.
+
+One example of the complexity inherent in banking regulation is the capital framework. This framework includes minimum requirements and buffers, parallel risk-based and leverage requirements, and distinct components of going-concern and gone-concern capital.
+
+The framework's structure is multidimensional by design. It recognises that the diverse risks banks face cannot be captured by a single metric. However, complexity also stems from industry concerns raised during the calibration phase about the costs of capital.
+
+Indeed, banks have their own role to play to reduce complexity. For instance, simplifying the landscape of internal risk models would make it possible to better focus on banks' actual risks while freeing up resources. The number of model-related weaknesses and subsequent findings would decrease, which would reduce the resources needed for remediation.
+
+To assist banks in their deployment of internal models, European banking supervision has made its interpretation very transparent. The standardised approach should be favoured if the available data do not meet the requirements to produce high-quality internal models. We recently updated our guide to internal models.24] The guide will be maintained and updated regularly to align with the modifications of the upcoming CRR III, which offers banks an opportunity to further streamline their internal model landscape.
+
+But let me be very clear: Any steps towards reducing complexity cannot come at the expense of resilience in the system. Reducing resilience by weakening capital requirements or risk controls would impair growth and stability in Europe.
+
+We do not control the external risks that banks face. Geopolitical, climate and environmental-related risks, and risks arising from the digital transformation, are certainly heightened. This needs to be reflected in microprudential capital requirements. Similarly, macroprudential requirements need to be adjusted when there are increased levels of financial stability risk. Our primary responsibility is to ensure the stability of the financial system, which requires adjustments based on real-time risk assessments.
+
+If banking deregulation and more lenient supervision is not the solution to Europe's growth conundrum, then what is?
+
+A European policy agenda to promote growth needs to tackle the root causes of low productivity. Ultimately, growth is driven by innovation.
+
+Many relevant policies promoting innovation will benefit the financial sector and the real economy. Take, for example, regulation of the provision of digital services, which are integral to banking. Effective regulation of these services ensures a secure and efficient digital infrastructure, which supports innovation of banks and firms. Another example is a stable political and institutional framework for the energy transition. Investments to finance the energy transition are subject to a high degree of uncertainty and are made over a long time horizon. They require equity capital alongside debt financing. A stable policy framework provides the clarity needed to invest in sustainable ventures and adequately manage the related risks.
+
+The capital markets union can promote the integration of markets, equity markets in particular, improve private sector risk sharing, and enhance the willingness to take risks.
+
+Focus should be placed on the core elements of the CMU, including harmonising regulation, reducing national discretion and centralising supervision as needed to address systemic risks beyond banking. Of no less importance, tax systems that favour debt over equity finance should be reviewed.
+
+In addition, ways to promote securitisation are currently being discussed.
+
+From a prudential perspective, the right balance needs to be struck between the risks and benefits of securitisation. Securitisation can have positive effects if it enhances market liquidity through standardisation and if it transfers risk to investors that have the comparative advantage to bear such risk. However, securitisation can also impair financial stability if it weakens the incentives to monitor risks or if it shifts risks to unregulated, highly leveraged parts of the financial system, with potential spillover risks to the banking sector in times of stress.
+
+Post-GFC regulatory reforms related to securitisation have served us well. An international discussion at the Basel Committee, informed by an impact assessment, would be needed before discussing any change to bank capital charges applicable to securitisation in Europe.
+
+At the same time, securitised products can be highly complex and differentiated. European banking supervision therefore cooperates closely with the banking industry to simplify the approval process for a given risk transfer. Ultimately, however, it is up to the industry to agree and commit to a level of simplification in line with supervisory requirements.
+
+## Concluding remarks
+
+Over the past decade, Europe has built a strong, reliable and recognised supervisory and regulatory framework. This joint response to the financial crisis serves Europe well in promoting stability while not hampering growth or competitiveness. There is no evidence of excessive conservatism in terms of resilience.
+
+Supervisors and regulators can best contribute to growth and competitiveness by ensuring that banks and the financial system remain sound and stable. Becoming more lenient or adding other policy objectives to their mandates would weaken financial stability. Instead, policies are needed to tackle the root causes of low productivity, promote innovation and foster the Single Market. Completing the banking union and introducing a capital markets union are key elements.
+
+A resilient future for Europe requires a stable international institutional order. The Basel framework contributes to that by setting globally agreed standards to strengthen banks' ability to better withstand future stresses. We should not allow the memory of the global financial crisis to fade in the rear-view mirror. Its lessons are as relevant today as they were then, and applying those lessons will be key to securing a stable, resilient financial system that supports sustainable growth for the future.
+
+1.
+
+According to the June 2024 Eurosystem staff macroeconomic projections for the euro area, growth rates are expected to reach 0.9% in 2024, 1.4% in 2025 and 1.6% in 2026, reflecting a gradual recovery supported by improving labour market conditions and easing financing constraints. According to the Federal Reserve's June 2024 Summary of Economic Projections, growth will be 2.1% in 2024 and 2.0% in both 2025 and 2026, driven by stable consumer spending and investment. 2.
+
+ECB Forum on Central Banking, 1-3 July.
+
+3.
+
+International Monetary Fund (2023), Global Financial Stability Report, April.
+
+4.
+
+Financial Stability Board (2023), Global Monitoring Report on Non-Bank Financial Intermediation, 18 December.
+
+5.
+
+Goodhart, C. and Schoenmaker, D. (2016), "The United States dominates global investment banking: does it matter for Europe?", Bruegel Policy Contribution, No 2016/06, March. See also S&amp;P Global (2020), "European Investment Banks Face a Continued Fight to Remain Competitive", 28 September; and Di Vito, L., Martin Fuentes, N. and Matos Leite, J. (2023), "Understanding the profitability gap between euro area and US global systemically important banks", Occasional Paper Series, No 327, ECB.
+
+6.
+
+Beck, T. (2008), "Bank Competition and Financial Stability: Friends or Foes?", World Bank Policy Research Working Paper, No 4656.
+
+7.
+
+Beck, T., Demirgti¢-Kunt, A. and Levine, R. (2006), "Bank concentration, competition, and crises: First results", Journal of Banking &amp; Finance, Vol. 30, No 5, May, pp. 1581-1603; Berger, A.N., Klapper, L.F. and Turk-Ariss, R. (2009), "Bank Competition and Financial Stability', Journal of Financial Service Research, Vol. 35, pp. 99-118; Canta, C., Nilsen, @. A. and Ulsaker, S.A. (2023), "Competition and risk taking in local bank markets: Evidence from the business loans segment", Journal of Empirical Finance, Vol. 73, pp. 153-169; Hauswald, R. and Marquez, R. (2006), "Competition and Strategic Information Acquisition in Credit Markets", Review of Financial Studies, Vol. 19, No 3, pp. 967-1000.
+
+8.
+
+Beck, T., De Jonghe, O. and Schepens, G. (2013), "Bank competition and stability: Cross-country heterogeneity", Journal of Financial Intermediation, Vol. 22, No 2, April, pp. 218-244; Hirtle, B. and Kovner, A. (2022), "Bank supervision", Annual Review of Financial Economics, Vol. 14, pp. 39-56; Rezende, M. and Wu, J. (2014), "The Effects of Supervision on Bank Performance: Evidence from Discontinuous Examination Frequencies", paper at the Midwest Finance Association 2013 Annual
+
+Meeting; Hirtle, B., Kovner, A. and Plosser, M. (2020), "The Impact of Supervision on Bank Performance", Journal of Finance, Vol. 75, No 5, pp. 2765-2808; Bisetti, E. (2024), "The Value Regulators as Monitors: Evidence from Banking', Management Science, forthcoming.
+
+of 9.
+
+Avgeri, |., Dendramis, Y. and Louri, H. (2021), "The Single Supervisory Mechanism and its implications for the profitability of European banks", Journal of International Financial Markets, Institutions and Money, Vol. 74, September.
+
+10.
+
+Enria, A. (2023), "Banking supervision beyond capital", speech at the EUROFI 2023 Financial Forum organised in association with the Spanish Presidency of the Council of the EU, Santiago de Compostela, 14 September.
+
+11.
+
+The ECB results are in line with those published by the European Banking Authority last September (available on the EBA's website). According to EBA estimates, the increase in Tier 1 Minimum Required Capital (T1 MRC) after a full implementation of the Basel III reform would have been +12.6% across all banks, but under the EU scenario with the existing and new deviations the T1 MRC impact would be +9.0% (in 2033). The temporary output floor EU deviations bring the T1 MRC estimate to +8.5% (in 2030).
+
+12.
+
+Kirakul, S., Yong, J. and Zamil, R. (2021), "The universe of supervisory mandates ~ total eclipse of the core?", FSI Insights on policy implementation, No 30, Financial Stability Institute, March.
+
+13.
+
+Philippon, T. (2015), "Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation", American Economic Review, Volume 105, No 4, pp. 14081438, April; Bazot, G. (2018), "Financial Consumption and the Cost of Finance: Measuring Financial Efficiency in Europe (1950-2007)", Journal of the European Economic Association, Volume 16, Issue 1, pp. 123-160, February.
+
+14.
+
+Huljak, |., Martin, R. and Moccero, D. (2019), "The cost-efficiency and productivity growth of euro area banks", Working Paper Series, No 2305, ECB, Frankfurt am Main, August. See also Huljak, |., Martin, R. and Moccero, D. (2018), "Cost efficiency of euro area banks", Financial Stability Review, Euro area financial institutions, May.
+
+2023”,
+
+Financial Stability Board (2023), "Global monitoring report on non-bank financial intermediation December. According to data compiled by the Bank for International Settlements in cooperation with the European Central Bank, the share of debt funding provided by banks to euro area non-financial corporations (NFC) was around 67% in the fourth quarter of 2022. This share excludes intra-group NFC loans.
+
+16.
+
+Petersen, M.A. and Rajan, R.G. (1995), "The effect of credit market competition on lending relationships", Quarterly Journal of Economics, Volume 110, pp. 407-443; Canta, C., Nilsen, @. A. and Ulsaker, S.A. (2023), op. cit.; Marquez, R. (2002), "Competition, adverse selection, and information dispersion in the banking industry", Review of Financial Studies, Volume 15, No 3, pp. 901-926;
+
+17.
+
+Financial Stability Board (2019), "Evaluation of the effects of financial regulatory reforms on small and medium-sized enterprise (SME) financing: Final report".
+
+18.
+
+See Financial Stability Board (2024), "Assessing the effects of reforms", and Bank for International Settlements (2022), "Evaluation of the impact and efficacy of the Basel II| reforms". See also Recital 17 of Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024 amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor. For a survey of quantitative impact estimates, see the FRAME online repository maintained by the BIS.
+
+19.
+
+Budnik, K., Dimitrov, |., Gross, J., Lampe, M. and Volk, M. (2021), "Macroeconomic impact of Basel II! finalisation on the euro area", Macroprudential Bulletin, No 14, European Central Bank. See also Siciliani, P., Eccles, P., Netto, F., Vitello, E., Sivanathan, V. and van Hasselt, |. (2023), "Paper 2: The links between prudential regulation, competitiveness and growth. Background working paper published by PRA staff in support of the conference on the role of financial regulation in international competitiveness and economic growth conference 2023", Bank of England Prudential Regulation Authority, 11 September.
+
+20.
+
+Buch, C. (2024) "Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment", The Supervision Blog, 28 May
+
+21.
+
+ECB guide to internal models, ECB, Frankfurt am Main, February 2024.

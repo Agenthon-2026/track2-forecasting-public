@@ -1,0 +1,4 @@
+# source: synthetic regression fixture | date: 2024-09-01 | type: fomc_statement
+
+Synthetic fomc_statement document dated 2024-09-01. The committee observed that the synthetic series continued
+to evolve as a random walk, and decided to keep the regression suite's expectations unchanged.

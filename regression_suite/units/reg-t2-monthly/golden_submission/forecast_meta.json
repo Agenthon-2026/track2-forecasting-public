@@ -1,0 +1,17 @@
+{
+  "unit_id": "reg-t2-monthly",
+  "asof": "2026-06-09",
+  "representation": "samples",
+  "asset_ids": [
+    "SYN_CPI"
+  ],
+  "horizons": [
+    3
+  ],
+  "n_draws": 500,
+  "target": "level",
+  "rationale": {
+    "file": "forecast_rationale.md",
+    "method": "joint gaussian random walk, no text"
+  }
+}

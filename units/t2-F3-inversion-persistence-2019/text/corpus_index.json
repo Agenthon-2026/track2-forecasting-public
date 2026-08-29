@@ -1,0 +1,36 @@
+{
+  "card_id": "t2-F3-inversion-persistence-2019",
+  "asof": "2019-08-14",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-minutes-20190619",
+      "timestamp": "2019-07-10",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20190619_released_2019-07-10.txt",
+      "note": "minutes of the 20190619 meeting, public release 2019-07-10"
+    },
+    {
+      "doc_id": "fomc-statement-2019-07-31",
+      "timestamp": "2019-07-31",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20190731.txt"
+    },
+    {
+      "doc_id": "beige_book-2019-07-31",
+      "timestamp": "2019-07-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201907.txt"
+    },
+    {
+      "doc_id": "macro_release-2019-08-13",
+      "timestamp": "2019-08-13",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2019-08-13.txt"
+    }
+  ]
+}

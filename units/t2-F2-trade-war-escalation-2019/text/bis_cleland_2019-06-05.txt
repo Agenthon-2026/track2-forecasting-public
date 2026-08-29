@@ -1,0 +1,131 @@
+Victoria Cleland: Victoria Cleland: Payments - diversity matters
+2019-06-05
+
+
+
+## Payments: Diversity Matters
+
+Speech given by
+
+Victoria Cleland, Executive Director, Banking, Payments and Innovation
+
+European Women Payments Network Annual Conference, Amsterdam
+
+5 June 2019
+
+I would like to thank Samantha Leighton, Richard Lewis and Sara Ward for their help in preparing this speech.
+
+1
+
+I am delighted to be speaking today at the European Women Payments Network (EWPN) Annual Conference.  Amsterdam, as home to what is reputedly the world's oldest stock exchange, founded in 1602 1 , is an apt location to discuss payments.  While people's fundamental requirements when exchanging value probably have not changed very much since then, the choice of how people make payments, and the technology which facilitates this, certainly has.
+
+Such changes can only come about through listening to what is needed and harnessing innovation.   How much more quickly would these changes have come about if EWPN had been around a few centuries ago? EWPN's focus is 'making diversity matter in fintech', by building a community for women and by championing a more diverse and inclusive payments industry for all.  In keeping with this, I want to set out how, through the lens of our work in payments, we are embracing the changes that fintech can bring and why diversity matters to the Bank of England.
+
+The Bank's mission is to promote the good of the people of the United Kingdom by maintaining monetary and financial stability.  We also have a complementary interest in enabling innovation and encouraging competition - including in the fast-moving payments landscape.
+
+To deliver against these objectives, we must embrace diversity in the broadest possible sense.  As the Bank of England Governor Mark Carney recently stated, 'a public institution should reflect the public it serves.' 2   If we want to respond to the needs of the public, we need to understand what matters to them - and what better way of doing that than having a diverse range of staff reflecting the population?  Diverse teams can reduce group-think and excessively optimistic views, and ultimately reduce the likelihood of poor decisions.  And research has shown that companies with more diverse leadership teams tend to outperform their peers in terms of profitability and that diversity in companies is positively correlated with innovation.  3 4
+
+Payments is an area which is responding well to an increasingly vocal and diverse range of preferences and demands across the world.  Different people want - and may need - different ways to pay.  They want genuine choice in how, when and where they make payments: they want a new finance. 5   Back in the 17 th century, the Amsterdam stock exchange would have been relying on exchanging coins and printed stocks and bonds.  The world of payments has grown significantly - banknotes, cheques, credit/debit cards, and now a plethora of mobile payments, e-wallets and even the ability to pay using a watch.  While the wave of new fintech providers has greatly increased this choice, for many cash remains the preferred or sole means to pay (17% of the UK population are unsure how they would cope, or would not cope at all in a cashless society). 6   Facilitating access to cash, maintaining confidence in the currency and ensuring that people have
+
+1  http://www.worldsfirststockexchange.com/the-worlds-first-stock-exchange.html
+
+2  https://www.bankofengland.co.uk/-/media/boe/files/speech/2019/investing-in-ethnicity-and-race-speech-by-mark-carney.pdf
+
+3  https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters
+
+4  http://media-publications.bcg.com/22feb2017-mix-that-matters.pdf
+
+5  https://www.bankofengland.co.uk/-/media/boe/files/speech/2019/a-platform-for-innovation-remarks-by-mark-
+
+carney.pdf?la=en&amp;hash=49FE92075B4C7DBB0C7E0975CDF38488BB0A02FB
+
+6  https://www.accesstocash.org.uk/media/1087/final-report-final-web.pdf
+
+2
+
+a diverse range of safe and efficient payment methods to choose from, are strategically important for the Bank.
+
+A diverse set of firms providing a diverse set of payment options is also important for financial stability and the operational resilience of the industry.  This gives the public confidence when making and receiving payments.  The Bank plays a role in this resilience through the safe functioning of our own payment operations such as banknote issuance and the Real-Time Gross Settlement (RTGS) service.  We also deliver this through monitoring and mitigating systemic risk across the payment industry, defending the Bank and financial sector against increasingly sophisticated cybercrime, conducting risk assessments and supervisory activity on those firms that use the Bank's payment infrastructure, as well as supervising the systemically important payment systems themselves.  And we consider the benefits and risks to financial stability from the rapidly changing fintech industry.
+
+The Bank enables diversity in payment types and providers through the policy and rules we set and the infrastructure we operate.  An important catalyst is the renewal of RTGS, where we are making both policy and infrastructure changes to support not just a resilient payment system, but one that new players can enter and where innovation and competition can thrive.  For those not familiar with RTGS, it is a critical piece of national infrastructure and the backbone of UK payments.  Well in excess of £600bn every working day is settled through RTGS, including from CHAPS, the Bank-operated high-value payment system, and from the final settlement of the UK's retail payment systems.
+
+The Bank has established the RTGS Renewal Programme to develop a new service which will not only enhance resilience but will also be fit for the future and promote innovation.  Having defined the Programme scope, with input from the payments industry, we are now running a competitive public procurement process to appoint a Technology Delivery Partner.  They will work with the Bank on the design and build of the core settlement engine.  In supplementing the skills and resources we have in-house, the procurement provides the opportunity to benefit from diverse views and to draw on world-class expertise and cutting-edge experience on how we design and build RTGS for the future.
+
+In renewing RTGS, we are seeking to achieve five key outcomes, all of which will support a safe and diverse payment landscape.
+
+Despite being over 20 years old, the current RTGS service remains highly resilient.  But we want to do more. The new service will be materially stronger and more resilient in an increasingly complex and sophisticated environment.  It will be flexible to protect against the threats we understand today and the ones we will need to adapt to in the future.
+
+RTGS Renewal will promote greater access to payment systems.  We have already made policy changes to allow non-bank payment service providers direct access to payment systems and RTGS Renewal will reduce
+
+3
+
+some of the barriers that we know exist today.  It will speed up on-boarding times to the system and reduce the operational overheads of membership.  These changes will further accelerate the number and range of firms that can gain direct access to payment systems.  Since 2018 five non-bank payment service providers have opened accounts in RTGS and around twenty further firms are exploring the possibility of joining. These firms can benefit from faster transaction times and reduced individual transaction costs.
+
+Consequently, the Bank hopes to encourage a greater diversity of players in the payments market, thereby encouraging innovation and competition through development of new business models and ultimately creating a more diverse payments landscape.  This will increase efficiency and reduce concentration risk thus supporting financial stability.
+
+RTGS Renewal will also promote resilience and efficiency through greater interoperability across payment systems.  An important step to achieving this is the introduction of a new payment messaging standard for UK payments: ISO20022, the emerging global standard for payments messaging.  This will bring significant and long term benefits for a wide range of firms.  In particular, the Bank and Pay.UK will introduce a Common Credit Message across CHAPS, Bacs and FPS which will bring message harmonisation for the UK's main interbank payment systems and compatibility with the emerging international consensus.
+
+We will provide improved user functionality in the new RTGS service and build a flexible infrastructure capable of adapting easily to new and changing requirements, enabling us to respond to continued innovation from new fintech firms as well as established players.  Improved functionality will include read and write APIs and richer payment and liquidity data.
+
+In 2017 we brought the operation of CHAPS into the Bank to strengthen end-to-end risk management and to enhance the safety and security of the £330bn of payments that flow through CHAPS on an average day. We are increasingly able to draw on the diverse set of tools and expertise available within the Bank, e.g. cyber security skills, to support CHAPS.  We are starting to reshape the requirements that apply to CHAPS direct participants, reflecting the expanding range of participants: up from 14 in 1987 to 34 today.  CHAPS access criteria and requirements already accommodate a wider range of participants than five years ago including three Financial Market Infrastructures and one non-bank payment service provider.
+
+In designing the new RTGS infrastructure to achieve these five key outcomes, and in running the current CHAPS and RTGS services, we believe it is important to engage a wide range of firms across the payments industry, as well as their customers.  This goes much wider than the current membership: we need to think about prospective participants too and to understand the evolving needs of end-users.  To bring a range of perspectives and diversity of thought to our approach, the RTGS/CHAPS Board 7  has four independent members with commercial and international experience and is attended by a representative from the National Cyber Security Centre.
+
+7  https://www.bankofengland.co.uk/payment-and-settlement
+
+4
+
+We have a number of channels to facilitate engagement, including the RTGS Renewal External Advisory Body, the Standards Advisory Panel and the CHAPS Strategic Advisory Forum. 8   Membership spans current CHAPS direct and indirect participants and not just the traditional large banks, but also new players, trade bodies, regulators, various UK government departments, software vendors and end users such as corporates.  We work closely with the Prudential Regulation Authority, Financial Conduct Authority and Payment Systems Regulator on a range of topics.  And the Bank also engages extensively with Pay.UK, who are delivering change across the retail payment schemes through their New Payments Architecture 9 programme.
+
+Understanding the needs and challenges of a diverse set of firms and their customers informs our decision making.  It means we are better able to reflect the requirements of the firms that use the services we provide and ultimately the people of the UK.  And we can balance the potentially competing needs of different stakeholders on an informed basis rather than relying only on the views of longstanding contacts.
+
+A key piece of engagement took place in summer 2018 when we ran a joint consultation 10  with Pay.UK and the Payments Systems Regulator on the implementation of ISO 20022. Over 70 organisations replied and their responses 11  helped refine our approach, for example on Legal Entity Identifiers (LEIs).  Responses showed widespread support for making LEIs mandatory for transactions between financial institutions in CHAPS.  Many respondents also saw the benefits of mandating LEIs for a wider range of payments but flagged the need for wider adoption of LEIs before these benefits could be fully reaped.  The Bank has committed to working with key stakeholders including HM Government and the Global LEI Foundation (GLEIF), as well as providing further education about the wider economic value of the LEI.  This will lay the foundations to make LEIs mandatory for a much wider set of CHAPS payments in the future.
+
+We are also seeking industry views on whether the renewed RTGS service could facilitate synchronised settlement and importantly what the demand might be.  Synchronisation, or atomic settlement, is the concept that two or more transactions (payments or movements of assets) are linked in such a way as to ensure that each transaction completes if, and only if, they complete together.  This is an innovative proposition, and we are working in close collaboration with the payments industry and potential users on the policy, technical and operational design.  Later this year we will provide an update on our August 2018 call for interest on this topic.
+
+This is an exciting time for payments internationally as well as domestically.  We therefore have a strong engagement programme with other central banks and overseas authorities.  We work with our peers to set, and role model, global best practice and to find ways to drive harmonisation.  And we can learn from their
+
+8  https://www.bankofengland.co.uk/payment-and-settlement
+
+9  https://www.wearepay.uk/new-payments-architecture-programme/
+
+10  https://www.bankofengland.co.uk/-/media/boe/files/payments/rtgs-renewal-programme/iso-20022/iso-20022-consultation-paper.pdf
+
+11  https://www.bankofengland.co.uk/-/media/boe/files/payments/rtgs-renewal-programme/iso-20022/iso-20022-consultation-response.pdf
+
+5
+
+experiences.  This collaboration will be all the more important as we seek to address issues around cross-border payments.
+
+To deliver the intended outcomes for the RTGS Renewal Programme we will continue with our extensive industry engagement and outreach.  And as the transition approaches we also need the payments industry to act: to start preparing for the changes needed to their own organisations and to harness the benefits for their own firms and customers.
+
+Listening, and responding, to a diverse range of views is important in enabling the Bank to advance its objectives to benefit the public .  But to be able to react effectively we also need diverse technology and diverse and talented staff.
+
+Developments in technology, both to enhance resilience of existing payments and to innovate in new forms of payments, are important to support the Bank in advancing its objectives.  This is equally true for physical and electronic payments.
+
+In my previous role as Chief Cashier, I led our work to issue banknotes printed on polymer.  We harnessed innovative technology both in the security features selected, and in introducing a tactile feature on the new £10 polymer banknote to help blind and vision impaired people identify our notes.  This meant we exploited technology to produce banknotes which are not only secure, but inclusive.
+
+And now we are assessing how we can embrace diverse technologies through RTGS Renewal.  Although the Bank has concluded that Distributed Ledger Technology (DLT) is not yet sufficiently mature to provide the core for the next generation of RTGS, we still place a high priority on ensuring the new service is capable of interfacing with DLT.  In summer 2018 we ran a Proof of Concept 12  with four firms to develop payment arrangements using innovative technologies.  Importantly, the results demonstrated that participants using such technologies could connect to and settle in RTGS.  This has informed our thinking on how RTGS could support settlement in a more diverse range of systems, and provided broader insight into the range of functionality the Bank might need to offer to support this sector.
+
+We are also seeking to develop a renewed service that will be message network agnostic: capable of sending and receiving payment messages from multiple sources and interfacing with multiple messaging networks without compromising on levels of security or proof.  And we will continue to support the resilience of the renewed RTGS by diversifying operations across two sites with a third stand-by settlement platform which is geographically remote.
+
+As I stressed at the start, the Bank needs to reflect the diversity of the people it serves and so increasing the diversity of the Bank's workforce is at the top of our agenda.  We have set ourselves stretching but
+
+12  https://www.bankofengland.co.uk/-/media/boe/files/payments/rtgs-renewal-proof-of-concept.pdf
+
+6
+
+achievable targets in respect of increasing the representation of women and BAME colleagues at all levels of the business. 13   And we have implemented a wide range of initiatives designed to improve diversity in our recruitment, development and retention of talent across a range of protected characteristics.
+
+As a member of the Bank's senior leadership team, I have personal accountability for delivering a step change in the Bank's diversity.  This is crucial in my own Directorate but also for the Bank as a whole.  I am the Executive Sponsor of the Bank's disAbility Network, a staff-led network whose objectives are to:
+
+-  Raise awareness of the full spectrum of disabilities, be they visible or not; and
+-  Provide support by identifying and removing barriers for individuals with disabilities and enabling them to reach their full potential.
+
+The Network celebrated its 10 th  Anniversary last year, and during that time has seen physical changes to the building, including an external wheelchair lift (no mean feat in a listed building), hearing loops in key rooms, and accessible toilets.  But it is also important to create an inclusive and supportive culture that works for everyone.  The disAbility Network is just one of ten staff networks, and it is only through fostering these initiatives, ideas and enthusiasm that we can attract and retain a truly diverse range of staff.
+
+So to conclude, diversity in payments does matter.  It matters to the Bank; to the firms providing payment services; and to the businesses and individuals that use payments every day.  The Bank is playing a leading role in facilitating and enabling that diversity through our policy-making, and through our current and renewed RTGS infrastructure, in order to promote a diverse, resilient and thriving financial system.
+
+13 https://www.bankofengland.co.uk/-/media/boe/files/speech/2019/gender-diversity-speech-by-joanna-place.pdf
+
+7

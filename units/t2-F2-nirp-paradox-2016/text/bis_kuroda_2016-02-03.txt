@@ -1,0 +1,330 @@
+Haruhiko Kuroda: Haruhiko Kuroda: Introduction of "Quantitative and Qualitative Monetary Easing with a Negative Interest Rate"
+2016-02-03
+
+## Haruhiko Kuroda: Introduction of 'Quantitative and Qualitative Monetary Easing with a Negative Interest Rate'
+
+Speech by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the Kisaragi-kai meeting, Tokyo, 3 February 2016.
+
+*      *      *
+
+## Introduction
+
+It is my great pleasure to have the opportunity today to speak at the Kisaragi-kai meeting. At the Monetary Policy Meeting held on January 29, the Bank of Japan decided to introduce 'Quantitative and Qualitative Monetary Easing (QQE) with a Negative Interest Rate' in order to achieve the price stability target of 2 percent at the earliest possible time. Today, I will first explain the Bank's recognition of and prospects for economic activity and prices in Japan, and then elaborate on the background to the policy decision made this time around.
+
+## I. Economic activity in Japan
+
+First, I would like to talk about economic activity in Japan.
+
+Japan's economy has continued to recover moderately on the back of firm domestic private demand, although exports and production have been affected by the slowdown in emerging economies. In the corporate sector, profits clearly have continued to improve, registering a record high, with support from an improvement in the real economy as well as the low crude oil prices and the low yen rate (Chart 1). Against this background, business fixed investment has been on a moderate increasing trend. According to the business fixed investment plans in the December 2015 Short-Term Economic Survey of Enterprises in Japan ( Tankan ), firms have maintained their positive fixed investment stance. In the household sector, labor market conditions  have  continued  to  tighten.  The  active  job  openings-to-applicants  ratio  and  the diffusion index for employment conditions in the December Tankan have improved to almost the same levels as around the first half of 1992 (Chart 2). Moreover, the unemployment rate has been declining and is in the range of 3.0-3.5 percent for the first time in 18 years, since 1997.  It  can  be  judged  that  the  labor  market  is  in  a  situation  of  'full  employment,'  where remaining  unemployment  is  due  solely  to  mismatches  between  job  openings  and  job applicants. Reflecting the tightening of labor market conditions, employee income has been increasing  moderately.  Under  such  steady  improvement  in  the  employment  and  income situation, private consumption has been resilient.
+
+Looking ahead, domestic demand is likely to follow an uptrend, with a virtuous cycle from income to spending being maintained in both the corporate and household sectors. Exports are expected to increase moderately on the back of emerging economies moving out of their deceleration  phase.  As  in  the  January  2016 Outlook  for  Economic  Activity  and  Prices (Outlook Report) released by the Bank last week, the real GDP growth rate is projected to be 1.1 percent for fiscal 2015 and 1.5 percent for fiscal 2016, and thus is estimated to continue to  exceed  the  potential  growth  rate  (Chart  3).  Against  this  backdrop,  Japan's  economy  is likely to shift from the phase of recovery to expansion; namely, the output gap is expected to turn  positive  (excess  demand).  In  fiscal  2017,  the  real  GDP  growth  rate  is  projected  to maintain positive growth of 0.3 percent, although with a slowing in its pace to around a level somewhat below the potential growth rate, reflecting the effects of a front-loaded increase and subsequent decline in demand prior to and after the consumption tax hike as well as the cyclical developments in the economy.
+
+## II. Price developments in Japan
+
+Let me now turn to price developments in Japan.
+
+BIS central bankers' speeches
+
+The year-on-year rate of change in the consumer price index (CPI, all items less fresh food), which had been minus 0.5 percent just before the introduction of QQE, increased to as high as  1.5  percent  in  April  2014,  excluding  the  effects  of  the  consumption  tax  hike  (Chart  4). However,  as  a  result  of  a  substantial  fall  in  crude  oil  prices  since  summer  2014,  it  has declined gradually and currently is around 0 percent. Nonetheless, the Bank is of the view that  the  underlying  trend  in  inflation  has  been  improving  steadily.  Next,  I  would  like  to elaborate on the background to our view on prices.
+
+To begin with, I would like to touch on the relationship between the price stability target of 2 percent and the underlying trend in inflation. The Bank has set the target at 2 percent in terms  of  the  year-on-year  rate  of  change  in  the  all-item  CPI.  It  is  common  in  major economies to define the price stability target as the all-item inflation rate. This is because the all-item  CPI  comprehensively  covers  goods  and  services  that  households  consume. However,  when  assessing  price  developments  at  each  point  in  time,  there  is  a  need  to exclude  the  effects  stemming  from  the  factors  that  fluctuate  temporarily  and  evaluate  the underlying  trend  in  inflation  appropriately.  Since  such  factors  will  dissipate  eventually,  we cannot make appropriate policy decisions if we look only at superficial price developments, which are affected by temporary factors.
+
+We usually refer to the CPI (all items less fresh food) to explain price developments because prices  for  fresh  food  fluctuate  remarkably  in  Japan.  Given  this,  in  a  case  where  crude  oil prices  fluctuate  largely,  it  is  natural  to  think  that  the  CPI  should  be  looked  at  on  a  basis excluding energy.
+
+On this basis, I would like to examine the underlying trend in inflation in Japan. The Bank is of  the  view  that  the  underlying  trend  in  inflation  has  been  improving  steadily,  and  this  is based on two factors. First, the year-on-year rate of change in the CPI excluding fresh food and  energy  -  both  of  which  are  with  large  fluctuations  -  had  been  negative  until  the introduction  of  QQE,  but  turned  positive  in  October  2013.  Since  then,  it  has  remained positive for 27 consecutive months and increased to 1.3 percent recently (Chart 4). Second, both the output gap and medium- to long-term inflation expectations, which determine the underlying trend in inflation, have been improving. Let me now briefly reflect on the output gap and medium- to long-term inflation expectations. First off, the output gap - an indicator for the supply and demand balance - fluctuates, reflecting the utilization of labor and capital. As I mentioned earlier, the labor market is in a situation of 'full employment,' and the output gap has steadily followed an improving trend driven mainly by labor market developments, with  the  tightening  trend  in  labor  market  conditions  having  continued  (Chart  5).  With  the economy continuing to grow at a pace above its potential, the tightening of the labor market conditions is likely  to  strengthen  and  capacity  utilization  rates  are  expected to  increase  as exports  and  production  pick  up.  Against  this  background,  the  output  gap  is  likely  to  turn positive, or in other words, become a situation of excess demand.
+
+Secondly, we have medium- to long-term inflation expectations. According to various survey results and the beak-even inflation rate using inflation-indexed bonds, there is concern that medium-  to  long-term  inflation  expectations  have  been  somewhat  weak  recently,  mainly reflecting  the  decline  in  crude  oil  prices.  On  the  other  hand,  the  share  of  price-increasing items  minus  the  share  of  price-decreasing  items  in  the  CPI,  as  well  as  daily  and  weekly indices of the prices of food and daily necessities, have been on a remarkable expanding trend since last spring up to the present (Chart 6). In the annual labor-management wage negotiations,  2015  represented  the  second  consecutive  year  of  base  pay  increasing,  and movements toward wage increases have continued to be seen in various sectors this year. What  these  indicators  and  developments  suggest  is  that  firms'  price-  and  wage-setting stance  has  clearly  changed  and  that  households  seem  to  be  increasingly  accepting  price rises.  Against  this  backdrop,  price  hikes  by  firms  have  been  widespread  and  sustained. Inflation  expectations therefore  appear to be rising on the whole from a somewhat longerterm  perspective  and  it  can  be  assessed  that  conversion  of  the  deflationary  mindset  has been progressing steadily thus far.
+
+I  have  just  explained  the  recent  developments  and  outlook  for  the  underlying  trend  in inflation. I would now like to give an overview of the Bank's projections for the CPI (all items less fresh food) in the January 2016 Outlook Report (Chart 3). In brief, the forecasts of the CPI (all items less fresh food) are obtained by adding the underlying trend in inflation to the contribution  of  energy  items  to  the  CPI.  The  January  Outlook  Report  assumes  that  Dubai crude oil prices will rise moderately from the recent 35 U.S. dollars per barrel to the range of 45-50 dollars per barrel toward the end of fiscal 2017, which marks the end of the projection period. The contribution of energy items to the year-on-year rate of change in the CPI (all items less fresh food) is estimated to be slightly more than minus 1 percentage point and is at  its  highest  level  recently.  However,  under  the  aforementioned  assumption  of  crude  oil prices, the contribution is projected to decrease gradually. Meanwhile, since the underlying trend in inflation is likely to rise steadily, this is likely to be seen clearly in the CPI (all items less fresh food) as the contribution of energy items to the CPI lessens. Taking these factors into  account,  the  year-on-year  rate  of  change  in  the  CPI  (all  items  less  fresh  food)  is projected to reach around 2 percent - the price stability target - around the first half of fiscal 2017.
+
+## III. Risk factors regarding the outlook for economic activity and prices
+
+Thus  far,  I  have  explained  the  outlook  for  economic  activity  and  prices  that  the  Bank considers most probable. The baseline scenario assumes that Japan's economy is likely to be on a moderate expanding trend and the year-on-year rate of change in the CPI is likely to accelerate toward 2 percent. However, there are various risks associated with this outlook. In the following, I would like to touch on two important factors to this end.
+
+## Changes in firms' behavior
+
+The first factor is changes in firms' behavior.
+
+As I mentioned earlier, corporate profits are at historical high levels and the labor market is in a situation of 'full employment.' In theory, under an economic mechanism, this situation will lead  to  economic  growth  and  an  increase  in  wages  and  prices.  In  fact,  as  I  have  noted, Japan's economy has continued to recover moderately, and the underlying trend in inflation has  been  improving  steadily  in  a  situation  where  wages  have  increased  moderately. Nevertheless,  it  is  true  that,  given  the  high  level  of  corporate  profits  and  the  degree  of tightening of labor market  conditions,  the spread  of this favorable condition to the expenditure  side,  such  as  in  terms  of  wages  and  business  fixed  investment,  is  somewhat weak at an aggregate level. Of course, many firms are proactively investing in physical and human  capital.  The  Bank  judges  that  firms'  and  households'  deflationary  mindsets  have steadily been converting under QQE. However, the degree of conversion differs largely by industry  and  firm;  thus,  seeing  Japan's  economy  as  a  whole,  it  cannot  be  said  that  firms' incentives to spend have fully taken hold. Moreover, it is inevitable that a conversion of firms' deflationary mindset, which had taken root under the protracted deflation, will take time. At this  stage,  attention  is  warranted  to  a  significant  risk  that,  in  the  case  where  business sentiment deteriorates, reflecting uncertainties over overseas economies, firms might revert to acting based on a deflationary mindset.
+
+## Slowdown in emerging and commodity-exporting economies
+
+Next,  I  would  like  to  touch  on  the  slowdown  in  emerging  and  commodity-exporting economies, which has been drawing attention recently as the most significant risk factor.
+
+The  baseline  scenario  for  the  global  economy  assumes  that  advanced  economies  will continue  to  grow  firmly  and  that  emerging  economies,  with  the  spread  of  such  growth's effects,  will  move  out  of  their  deceleration  phase.  A  similar  projection  is  presented  in  the World Economic Outlook (WEO) Update released in January by the International Monetary
+
+Fund (IMF) (Chart 7). Recently, however, uncertainties over the outlook for emerging and commodity-exporting economies, mainly China, have heightened in the financial markets.
+
+In this situation, international commodity prices, such as crude oil prices, have been declining substantially (Chart 8). The  decline in commodity  prices exerts positive effects on commodity-importing economies, mainly advanced economies. In Japan, this decline is one of  the  factors  that  encourage  favorable  corporate  profits  and  it  also  has  been  supporting households' real income. In contrast, the possibility that the decline might exert considerable downward  effects  on  commodity-exporting  economies  -  mainly  Brazil,  Russia,  and  oilproducing countries in the Middle East - warrants attention.
+
+What  kinds  of  risks  would  these  be  for  Japan's  economic  activity  and  prices?  A  further slowdown  in  emerging  and  commodity-exporting  economies  could  possibly  lead  to  a decrease in exports. But what warrants more attention is its effect brought through sentiment. Specifically,  if  business  sentiment  were  to  deteriorate,  reflecting  uncertainties  over  the outlook for emerging and commodity-exporting economies or reflecting volatile developments in  the  financial  markets,  there  is  a  risk  that  firms'  fixed  investment  stance  and  price-  and wage-setting  stance  will  become  cautious.  If  such  risk  materializes,  the  virtuous  cycle  of economic recovery from income to spending would be impaired and the underlying trend in inflation would also be affected. As I have explained, although business sentiment has been on an improving trend, it still is not bullish enough, and thus warrants extra attention.
+
+## IV. Monetary policy management
+
+## Rationale for a negative interest rate policy and its effects
+
+Taking  account  of  the  environment  surrounding  Japan's  economy,  such  as  the  decline  in crude oil prices and the developments in emerging and commodity-exporting economies, as well  as  the  volatility  in  global  financial  markets  reflecting  these  developments,  there  is  an increasing  risk  that  an  improvement  in  business  sentiment  and  conversion  of  peoples' deflationary  mindset  might  be  delayed  and  that  the  underlying  trend  in  inflation  might  be negatively  affected.  In  order  to  preempt  the  manifestation  of  this  risk  and  to  maintain momentum  toward  achieving  the  price  stability  target  of  2  percent,  the  Bank  decided  to introduce 'QQE with a Negative Interest Rate' at its Monetary Policy Meeting on January 29, 2016 (Chart 9). I will explain the objectives and rationale for the newly introduced policy as follows.
+
+The  Bank  introduced  QQE  in  April  2013,  about  three  years  ago.  The  main  transmission mechanism of QQE is envisaged as pushing down real interest rates by lowering nominal rates across the entire yield curve by large-scale purchases of Japanese government bonds (JGBs) and by raising inflation expectations through a strong and clear commitment toward achieving the price stability target of 2 percent. QQE has been exerting its intended effects. Yields on 10-year JGBs have been lowered to a record low level, and inflation expectations have been rising on the whole from a somewhat longer-term perspective. The decline in real interest rates has been stimulating private demand, and, as I explained earlier, has brought record profits of firms and a full-employment labor market condition.
+
+'QQE with a Negative Interest Rate' introduced this time is a new policy framework in which a 'negative interest rate' is added to the existing options of 'quantity' and 'quality.' So what does  a  'negative  interest  rate'  mean  in  practice?  If  an  interest  rate  is  negative,  you  can receive interest when you borrow money and you have to pay interest when you lend money. In  normal  financial  transactions,  such  a  thing  would  never  happen.  When  a  central  bank wants to lower interest rates through its monetary policy, it normally will increase the amount of money provided to the markets. As a result, a greater number of people want to lend or invest extra money. With the supply of money exceeding the demand for money, the interest rate,  which  is  a  charge  for  money  lent,  will  decline.  If  a  central  bank  continues  to  provide more money to the markets, to what extent will the interest rate be lowered? The lower limit,
+
+or floor,  should  be  at  the  level  where  one  cannot  make  more  profits  even  if  one  can  lend more money; i.e., at zero percent. This is called the 'zero lower bound' of a nominal interest rate.
+
+Since  central  banks  in  major  advanced  economies  started  their  unconventional  monetary policies after the global financial crisis, they have been providing money to the markets in various  ways,  and  the  last  constraint  to  be  conquered  was  the  'zero  lower  bound'  of  a nominal interest rate. However, in some European countries, as various policy options have been tried to address slowdown in economic activity and lower inflation, a negative interest rate was introduced, starting with the central bank in Sweden, followed by those in Denmark, Switzerland,  and  the  European  Central  Bank  (ECB).  How  have  these  central  banks overcome the 'zero lower bound'? The starting point of the mechanism is a framework where an  interest  rate  applied  to  deposits  financial  institutions  hold  at  the  central  bank  is  set  in negative territory. As financial institutions incur losses on cash they hold at the central bank, they  will  try  to  invest  it  in  the  markets  even  at  a  negative  interest  rate  if  they  can  reduce losses in comparison with holding it at the central bank. As those raising funds can make profits  by  simply  borrowing  money, there  will  be  demand for funds  in  the  markets.  As  the needs  of  both  investors  and  those  needing  funds  match  in  this  way,  short-term  money market transactions will be made at a negative interest rate. This is how a negative interest rate is achieved in practice. A negative interest rate in the money markets means that the short end of the yield curve will be lowered to below zero percent. The objective of monetary easing is to push down the entire yield curve; therefore, a negative interest rate will be a very powerful 'weapon' for monetary easing. In combination with the continuation of large-scale purchases of JGBs, a negative interest rate will exert downward pressure on interest rates across the entire yield curve more powerfully. It will lower real interest rates, and thus have favorable effects on the economic activity of firms and households.
+
+So why did the Bank of Japan adopt a negative interest rate at this timing? QQE has been exerting its intended effects. If judged necessary, there is ample room to further expand the size of asset purchases. We do not share the view that the Bank's asset purchases are now approaching their limit.
+
+That said, after nearly three years have passed since the launch of QQE, it is true that it took time  more  than  initially  envisioned  to  achieve  the  price  stability  target  of  2  percent,  due mainly to a substantial decline in crude oil prices. Against this background, we decided to further  enhance  and  strengthen  QQE  by  taking  account  of  the  experiences  in  European countries with a negative interest rate.
+
+However, it should be noted that financial conditions significantly differ between Japan and Europe. In Japan, the relative size of the current account balance at the central bank is far larger than that in Europe. Moreover, it will continue to increase at an annual pace of around 80 trillion yen under QQE. If a negative interest rate is applied to the entire balance of the current account, financial institutions will have to bear excessive burdens. In that case, there is a risk that a negative interest rate will actually have an adverse impact on the functions of financial intermediation. With this in mind, a 'multiple-tier system,' where a negative interest rate is applied only to a marginal increase in the current account balance, has been adopted. The multiple-tier system is designed so that a negative interest rate can have its full impact on  market  rates  while  minimizing  its  side  effects.  This  is  a  unique  policy  framework  of  a negative interest rate that fits well into the Japanese system.
+
+## Scope for further monetary easing in terms of three dimensions
+
+Under the newly introduced framework of 'QQE with a Negative Interest Rate,' the Bank will pursue  monetary  easing  by  making  full  use  of  possible  measures  in  terms  of  three dimensions: quantity, quality, and a negative interest rate (Chart 10).
+
+Going  forward,  if  judged  necessary,  it  is  possible  to  further  cut  the  interest  rate  from  the current  level  of  minus  0.1  percent.  In  Europe,  the  ECB  has  set  the  deposit  rate  at  minus
+
+0.3 percent, Swiss National Bank at minus 0.75 percent, and Riksbank (the central bank in Sweden) at  minus  1.1  percent.  As  shown  by  these  examples,  there  is  sufficient  room  for further monetary easing in the 'negative interest rate' dimension. If deemed necessary, the Bank will cut the interest rate further into negative territory.
+
+With regard to the purchases of JGBs, which are conducted so that the Bank's holding will increase at an annual pace of about 80 trillion yen, about two thirds of the total outstanding JGBs are left  in  the  market.  Therefore,  we  believe  that  there  is  sufficient  room  for  further expansion in the size of purchase. In this context, let me remind you that, at the Monetary Policy Meeting last December, the Bank decided various measures, including the expansion of  eligible  collateral  that  it  will  accept  from  banks,  the  extension  of  the  average  remaining maturity of its  JGB purchases, and the increase in the maximum amount of each issue of Japan real estate investment trust (J-REIT) to be purchased. Possible technical obstacles for further monetary easing in terms of 'quantity' and 'quality' dimensions already have been removed.
+
+You might think that the introduction of a negative interest rate would make it difficult for the Bank  to  carry  out  its  asset  purchase  operations.  At  first  sight,  such  concern  sounds reasonable, because when financial institutions sell their assets such as JGBs to the Bank, they end up holding the current account balance as proceeds, on which a negative interest rate will be applied. In that case, however, the costs of holding the current balance with a negative  interest  rate  will  be  compensated  by  higher  sales  prices,  or  lower  yields,  of  the assets sold to the Bank. Therefore, a negative interest rate policy will not necessarily make the Bank's purchases difficult. Of course, the Bank will implement JGB purchases by paying due attention to how a negative interest rate affects the dynamics of JGB markets.
+
+## Monetary policy going forward
+
+The Bank will continue with 'QQE with a Negative Interest Rate,' aiming to achieve the price stability  target  of  2  percent,  as  long  as  necessary  for  maintaining  that  target  in  a  stable manner.  It  will  examine  risks  to  economic  activity  and  prices,  and  take  additional  easing measures in terms of three dimensions - quantity, quality, and a negative interest rate - if it is  judged necessary for achieving the price stability target. It is no exaggeration that 'QQE with a Negative Interest Rate' is the most powerful monetary policy framework in the history of modern central banking.
+
+Sometimes  it  is  argued  that  the  Bank  of  Japan  is  running  out  of  ammunition  for  further monetary easing. Frankly speaking, I feel uncomfortable with such an argument. If we judge that existing measures in the toolkit are not enough to achieve the goal, what we have to do is  to  devise  new  tools,  rather  than  give  up  the  goal.  Indeed,  the  constraint  of  'zero  lower bound' of a nominal interest rate, which was believed to be impossible to conquer, has been almost overcome by the wisdom and practices of central banks, including those of the Bank of Japan. I am convinced that there is no limit to measures for monetary easing. The Bank will continue to devote itself to innovation in monetary policy measures.
+
+The commitment by the Bank to achieve the price stability target of 2 percent is firm and unshaken. Given that the central bank is firmly committed to the price stability target and is taking necessary measures as appropriate, the goal will surely be achieved. Let me conclude my speech by reiterating what I have repeatedly stated since I took the governorship of the Bank of Japan:
+
+The Bank of Japan will do whatever we can to achieve the price stability target of 2 percent.
+
+Thank you.
+
+BIS central bankers' speeches
+
+## Corporate Profits and Business Fixed Investment
+
+1
+
+
+
+## Labor Market Conditions
+
+Job Openings-to-Applicants Ratio and Employment Conditions DI
+
+Unemployment Rate ploy
+
+
+
+Notes:
+
+1. There is a discontinuity in the data in December 2003 for employment conditions DI due to a change in the survey framework.
+
+2.
+
+is
+
+Sources:
+
+Ministry of
+
+Health,
+
+Labour and
+
+Welfare;
+
+Bank of
+
+Japan;
+
+Ministry of
+
+Intemal
+
+Affairs and
+
+Commmnications.
+
+The structural
+
+unemployment rate
+
+estimated by
+
+the
+
+Research and
+
+Statistics
+
+Department,
+
+Bank of
+
+Japan\_
+
+2
+
+## Outlook for Economic Activity and Prices (as of January 2016)
+
+yly % chg.
+
+| po                            | Real GDP }netcor   | CPI . (all tems less fiesh food)   | - Excluding the effects of the consumption tax hikes   |
+|-------------------------------|--------------------|------------------------------------|--------------------------------------------------------|
+| Fiscal 2015                   | +11                | +0.1                               | +0.1                                                   |
+| Forecasts made m October 2015 | + 1.2              |                                    |                                                        |
+| Fiscal 2016                   |                    |                                    |                                                        |
+| Forecasts made m October 2015 |                    |                                    |                                                        |
+| Fiscal 2017                   |                    |                                    |                                                        |
+| Forecasts made m October 2015 |                    |                                    |                                                        |
+
+Note:
+
+Source: Japan.
+
+Figures indicate the median of the Policy Board members' forecasts (point estimates). Bank of
+
+Chart 4
+
+## Consumer Prices
+
+
+
+Note: Figures are adjusted to exclude the estimated effects of changes in the consumption tax rate.
+
+Figures
+
+Source: Ministry of Intemal Affairs and Communications.
+
+for the
+
+CPI
+
+(all items
+
+less fresh
+
+food and
+
+energy)
+
+are calculated
+
+by the
+
+Research and
+
+Statistics
+
+Department,
+
+Bank of
+
+Japan.
+
+## Output Gap
+
+
+
+Sources:
+
+Cabinet
+
+Office;
+
+Ministry of
+
+Economy,
+
+Trade and
+
+Industry.
+
+etc.
+
+## Price Developments
+
+
+
+Notes: 1. The share of increasing/decreasing items is the share of items in the consumer price index (all items less fresh food) whose price indices increased/decreased from a year earlier. The price indices are adjusted to exclude the estimated effects of changes in the consumption tax rate. 2. The Nikkei CPINow-T is a 7-day backward moving average.
+
+
+
+Sources: Ministry of Intemal Affairs and Communications; Nowcast; Research Center for Economic and Social Risks, Institute of Economic Research, Hitotsubashi University.
+
+CY
+
+## World Economic Outlook Released by the IMF
+
+Real GDP Growth Rate
+
+Projections for Major Economies
+
+
+
+90
+
+92
+
+94
+
+96
+
+00
+
+04
+
+06
+
+yiy che.
+
+O8
+
+Notes: 1. Figures for 2015 are estimates.
+
+'Source: IMF.
+
+2. ASEANS are Indonesia. Malaysia, the Philippines, Thailand, and Viet Nam.
+
+7
+
+## Crude Oil Prices
+
+Chart 8
+
+
+
+Source: Bloomberg.
+
+
+
+8
+
+%
+
+## Lo. Lo, . Quantitative and Qualitative Monetary Easing with a Negative Interest Rate
+
+It is designed to enable the Bank to pursue additional monetary easing
+
+## in terms of three dimensions,
+
+combining a negative interest rate with quantity and quality.
+
+The Bank will apply a negative interest rate of
+
+## minus 0.1 percent
+
+to current accounts that financial institutions hold at the Bank.
+
+
+
+The Bank will exert further downward pressure on interest rates across the entire yield curve, in combination with large-scale purchases of JGBs.
+
+Chart 10
+
+Scope for Additional Monetary Easing in Terms of Three Dimensions
+

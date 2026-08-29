@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F2-whatever-it-takes-2012",
+  "asof": "2012-07-27",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "ecb_draghi_2012-06-15",
+      "timestamp": "2012-06-15",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2012-06-15.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2012-06-20",
+      "timestamp": "2012-06-20",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20120620.txt"
+    },
+    {
+      "doc_id": "beige_book-2012-06-30",
+      "timestamp": "2012-06-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201206.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2012-07-09",
+      "timestamp": "2012-07-09",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2012-07-09.txt"
+    },
+    {
+      "doc_id": "draghi_whatever_it_takes_2012",
+      "timestamp": "2012-07-26",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "draghi_whatever_it_takes_2012.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2012-07-26",
+      "timestamp": "2012-07-26",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2012-07-26.txt"
+    }
+  ]
+}

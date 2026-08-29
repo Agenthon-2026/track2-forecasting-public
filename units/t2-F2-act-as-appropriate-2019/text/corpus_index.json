@@ -1,0 +1,50 @@
+{
+  "card_id": "t2-F2-act-as-appropriate-2019",
+  "asof": "2019-06-19",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beige_book-2019-04-30",
+      "timestamp": "2019-04-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201904.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2019-05-01",
+      "timestamp": "2019-05-01",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20190501.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20190501",
+      "timestamp": "2019-05-22",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20190501_released_2019-05-22.txt",
+      "note": "minutes of the 20190501 meeting, public release 2019-05-22"
+    },
+    {
+      "doc_id": "bis_powell_2019-06-04",
+      "timestamp": "2019-06-04",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_powell_2019-06-04.txt"
+    },
+    {
+      "doc_id": "macro_release-2019-06-12",
+      "timestamp": "2019-06-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2019-06-12.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2019-06-19",
+      "timestamp": "2019-06-19",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20190619.txt"
+    }
+  ]
+}

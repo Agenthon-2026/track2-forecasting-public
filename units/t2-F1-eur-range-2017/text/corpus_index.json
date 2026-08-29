@@ -1,0 +1,35 @@
+{
+  "card_id": "t2-F1-eur-range-2017",
+  "asof": "2017-09-07",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2017-07-26",
+      "timestamp": "2017-07-26",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20170726.txt"
+    },
+    {
+      "doc_id": "beige_book-2017-07-31",
+      "timestamp": "2017-07-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201707.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2017-08-23",
+      "timestamp": "2017-08-23",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2017-08-23.txt"
+    },
+    {
+      "doc_id": "ecb_draghi_2017-08-25",
+      "timestamp": "2017-08-25",
+      "source": "ECB (all_ECB_speeches.csv)",
+      "doc_type": "cb_speech",
+      "file": "ecb_draghi_2017-08-25.txt"
+    }
+  ]
+}

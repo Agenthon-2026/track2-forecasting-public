@@ -1,0 +1,21 @@
+{
+  "card_id": "t2-EXAMPLE-ust-curve-1m",
+  "asof": "2024-06-28",
+  "note": "Stub corpus for the public exemplar card. Contains two short dated snippets from public Federal Reserve releases. All timestamps are <= 2024-06-28 (the card as-of date). Gate g2_cutoff_resource verifies this at scoring time. In production cards, replace with a full corpus of relevant dated documents.",
+  "documents": [
+    {
+      "doc_id": "fomc-statement-2024-06-12",
+      "timestamp": "2024-06-12",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_2024_06_12.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-2024-05-22",
+      "timestamp": "2024-05-22",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_excerpt_2024_05_22.txt"
+    }
+  ]
+}

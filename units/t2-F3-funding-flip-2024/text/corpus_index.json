@@ -1,0 +1,42 @@
+{
+  "card_id": "t2-F3-funding-flip-2024",
+  "asof": "2024-07-26",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "boj_ycc_20240319",
+      "timestamp": "2024-03-19",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "boj_ycc_20240319.txt"
+    },
+    {
+      "doc_id": "beige_book-2024-05-31",
+      "timestamp": "2024-05-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202405.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2024-06-12",
+      "timestamp": "2024-06-12",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20240612.txt"
+    },
+    {
+      "doc_id": "bis_ueda_2024-07-03",
+      "timestamp": "2024-07-03",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_ueda_2024-07-03.txt"
+    },
+    {
+      "doc_id": "cftc_cot_japanese_2024",
+      "timestamp": "2024-07-26",
+      "source": "CFTC",
+      "doc_type": "positioning_report",
+      "file": "cftc_cot_japanese_2024.txt"
+    }
+  ]
+}

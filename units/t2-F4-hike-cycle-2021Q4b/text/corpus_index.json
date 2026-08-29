@@ -1,0 +1,43 @@
+{
+  "card_id": "t2-F4-hike-cycle-2021Q4b",
+  "asof": "2021-12-31",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beige_book-2021-10-31",
+      "timestamp": "2021-10-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202110.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2021-11-03",
+      "timestamp": "2021-11-03",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20211103.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20211103",
+      "timestamp": "2021-11-24",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20211103_released_2021-11-24.txt",
+      "note": "minutes of the 20211103 meeting, public release 2021-11-24"
+    },
+    {
+      "doc_id": "macro_release-2021-12-10",
+      "timestamp": "2021-12-10",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2021-12-10.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2021-12-15",
+      "timestamp": "2021-12-15",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20211215.txt"
+    }
+  ]
+}

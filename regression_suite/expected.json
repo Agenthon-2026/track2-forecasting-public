@@ -1,0 +1,39 @@
+{
+ "numpy_at_regen": "2.0.2",
+ "units": {
+  "reg-t2-daily": {
+   "admissible": true,
+   "gates": {
+    "g0_integrity": true,
+    "g1_schema": true,
+    "g2_cutoff_resource": true,
+    "g3_domain_semantics": true
+   },
+   "composite": 0.2253232411418254,
+   "detail": {
+    "score": 0.2253232411418254,
+    "marginal": 0.3979101787880569,
+    "joint": 0.007893839159323103,
+    "tail": 0.12000000000000005,
+    "composite": 0.2253232411418254
+   }
+  },
+  "reg-t2-monthly": {
+   "admissible": true,
+   "gates": {
+    "g0_integrity": true,
+    "g1_schema": true,
+    "g2_cutoff_resource": true,
+    "g3_domain_semantics": true
+   },
+   "composite": 0.6723684893380941,
+   "detail": {
+    "score": 0.6723684893380941,
+    "marginal": 0.8933158850733317,
+    "joint": 0.0,
+    "tail": 0.12000000000000005,
+    "composite": 0.6723684893380941
+   }
+  }
+ }
+}

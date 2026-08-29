@@ -1,0 +1,23 @@
+SOURCE: Federal Reserve FOMC Meeting Minutes (excerpt)
+DATE: 2024-05-22
+DOC_TYPE: fomc_minutes
+DOC_ID: fomc-minutes-2024-05-22
+
+---
+
+In their discussion of monetary policy for this meeting, participants generally judged that
+it was appropriate to maintain the current restrictive stance of monetary policy. Participants
+noted that while inflation had declined over the past year, it remained above the Committee's
+2 percent longer-run goal. Some participants mentioned that they would be willing to tighten
+policy further if inflation were to prove more persistent than expected.
+
+Participants broadly supported keeping the target range for the federal funds rate unchanged.
+Several participants noted that, given the data on inflation received so far this year, they
+had moved their assessment of the timing of rate reduction later than earlier anticipated.
+
+With respect to the outlook for monetary policy, participants reaffirmed that they did not
+expect it would be appropriate to reduce the target range until they had gained greater
+confidence that inflation was moving sustainably toward 2 percent.
+
+[EXEMPLAR STUB — This is a representative public excerpt for illustrative purposes only.
+Full minutes available at federalreserve.gov. As-of cutoff: 2024-06-28.]

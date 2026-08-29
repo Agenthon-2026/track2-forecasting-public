@@ -1,0 +1,4 @@
+# source: synthetic regression fixture | date: 2026-05-29 | type: cb_speech
+
+Synthetic cb_speech document dated 2026-05-29. The committee observed that the synthetic series continued
+to evolve as a random walk, and decided to keep the regression suite's expectations unchanged.
