@@ -208,10 +208,10 @@ argument after the image reference. Your image must either expose `forecast` as 
 accept `forecast` as a leading positional argument. An image that ignores the verb exits 2 on
 every unit before reading any input. The full contract is [`SUBMISSION_CLI.md`](SUBMISSION_CLI.md).
 
-> **Status (2026-08-27): the reference implementation ships in this repo — and its image does not
-> run yet.** The paragraph that used to sit here said there was no reference `forecast` CLI, no
-> `argparse` entry point, no `__main__`, no `[project.scripts]` and no `Dockerfile`. All five were
-> true when it was written and none of them is true now, so do not start from scratch:
+> **Status (2026-08-30): the reference implementation and its image both ship in this repo.** The
+> paragraph that used to sit here said there was no reference `forecast` CLI, no `argparse` entry
+> point, no `__main__`, no `[project.scripts]` and no `Dockerfile`. All five were true when it was
+> written and none of them is true now, so do not start from scratch:
 >
 > - `qfbench2_track_forecasting/cli.py` implements the verb above, with a `__main__` guard;
 > - `pyproject.toml` declares `[project.scripts] forecast = "qfbench2_track_forecasting.cli:main"`;
