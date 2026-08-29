@@ -238,9 +238,11 @@ every unit before reading any input. The full contract is [`SUBMISSION_CLI.md`](
 >
 > The image installs the shared toolkit itself, so `docker build` followed by
 > `docker run --rm <image> forecast --help` works with no extra steps. If you build your own
-> image from scratch rather than from this `Dockerfile`, carry the `qfbench2-common` line from
-> "Inheriting the shared toolkit" below into it — `qfbench2_track_forecasting.limits` imports
-> the toolkit, so an image without it builds cleanly and then fails at run time.
+> image from scratch rather than from this `Dockerfile`, carry its `qfbench2-common` line across
+> — `qfbench2_track_forecasting.limits` imports the toolkit, so an image without it builds
+> cleanly and then fails at run time. Copy that line from the `Dockerfile` rather than from
+> "Inheriting the shared toolkit" below: slim base images ship no `git`, so the `git+https://`
+> form fails at build time where the tarball form does not.
 > `units/t2-EXAMPLE-ust-curve-1m/run_example.sh` drives the same pipeline through the Python API
 > and also runs offline.
 
@@ -478,6 +480,13 @@ repository that publishes it, `Agenthon-2026/Agenthon2026-public`:
 
 ```bash
 pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+```
+
+That form needs a `git` binary. Slim container base images ship none, so inside an image install
+the same tag from its source tarball instead — this is what the repo-root `Dockerfile` does:
+
+```bash
+pip install "qfbench2-common @ https://github.com/Agenthon-2026/Agenthon2026-public/archive/refs/tags/v2.3.1.tar.gz#subdirectory=common"
 ```
 
 **Pin the tag, and pin this one.** `v2.3.1` is the first toolkit release that carries

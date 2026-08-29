@@ -28,12 +28,16 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 # Pinned. The scorer's own CI was red for a week because a pinned type checker met an unpinned
 # numpy; a submission image that floats its deps has the same failure mode with worse timing.
+#
+# The toolkit installs from a source tarball, not `git+https://`: pip shells out to a
+# `git` binary for a VCS URL and this slim base ships none, so the VCS form fails the
+# build. Same repository, same pinned `v2.3.1` tag.
 RUN pip install --no-cache-dir \
         "numpy==2.1.3" \
         "pandas==2.2.3" \
         "pyarrow==18.1.0" \
         "jsonschema==4.23.0" \
-        "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+        "qfbench2-common @ https://github.com/Agenthon-2026/Agenthon2026-public/archive/refs/tags/v2.3.1.tar.gz#subdirectory=common"
 
 WORKDIR /work
 COPY qfbench2_track_forecasting /opt/qfbench2_track_forecasting
