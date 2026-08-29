@@ -32,11 +32,16 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 # The toolkit installs from a source tarball, not `git+https://`: pip shells out to a
 # `git` binary for a VCS URL and this slim base ships none, so the VCS form fails the
 # build. Same repository, same pinned `v2.3.1` tag.
+#
+# `scipy` is pinned here although nothing in this repo imports it directly: it arrives as
+# a dependency of the toolkit, whose floor is `scipy>=1.11`. Left implicit it would be the
+# one floating dependency in an image that pins everything else.
 RUN pip install --no-cache-dir \
         "numpy==2.1.3" \
         "pandas==2.2.3" \
         "pyarrow==18.1.0" \
         "jsonschema==4.23.0" \
+        "scipy==1.18.1" \
         "qfbench2-common @ https://github.com/Agenthon-2026/Agenthon2026-public/archive/refs/tags/v2.3.1.tar.gz#subdirectory=common"
 
 WORKDIR /work
