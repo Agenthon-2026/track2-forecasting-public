@@ -11,15 +11,15 @@ Four legs of the parity matrix need infrastructure that is not present. Each is 
 `skip` with a named reason, because a suite that silently omits a leg reads exactly like a suite
 that passed it:
 
-* **the scoring image** — needs Docker plus a digest-pinned image and registry credentials;
-* **the CodaBench wrapper** — needs a live platform and a bundle upload, which the remediation
-  packet forbids mutating;
+* **the scoring image** — needs Docker plus a published, digest-pinned scoring image;
+* **the submission-platform wrapper** — needs a live platform instance and a bundle upload, which
+  a local run must not perform against a shared instance;
 * **NFC (Unicode) collision** in a staged tree — macOS APFS normalizes filenames, so the two
   colliding names become one file on creation and the case cannot be constructed at all;
 * **case-insensitive collision** — same reason, APFS folds case.
 
-The last two must be exercised in **Linux CI**, and the frozen contract says so normatively:
-"A06 may not be closed on the strength of a local green run."
+The last two must be exercised in **Linux CI**: neither can be constructed on macOS at all, so a
+green local run is not evidence about them and must not be read as any.
 """
 
 from __future__ import annotations
@@ -117,8 +117,8 @@ def test_a_reordered_declaration_is_refused_on_both_paths(tmp_path: pathlib.Path
 
 @pytest.mark.integration
 @pytest.mark.skip(
-    reason="needs Docker, a digest-pinned scoring image and registry credentials; this host has "
-    "Docker but no image and no registry. Run in Linux CI with the image published."
+    reason="needs Docker and a published, digest-pinned scoring image. Run in Linux CI once the "
+    "image is published."
 )
 def test_scoring_image_parity() -> None:  # pragma: no cover - infrastructure
     raise AssertionError("unreachable")
@@ -126,8 +126,8 @@ def test_scoring_image_parity() -> None:  # pragma: no cover - infrastructure
 
 @pytest.mark.integration
 @pytest.mark.skip(
-    reason="needs a live CodaBench instance and a bundle upload; the remediation packet forbids "
-    "mutating live CodaBench state. Run against a staging instance."
+    reason="needs a live submission-platform instance and a bundle upload. Run against a staging "
+    "instance; a local run must not mutate a shared one."
 )
 def test_codabench_wrapper_parity() -> None:  # pragma: no cover - infrastructure
     raise AssertionError("unreachable")
@@ -136,8 +136,8 @@ def test_codabench_wrapper_parity() -> None:  # pragma: no cover - infrastructur
 @pytest.mark.skipif(
     sys.platform == "darwin",
     reason="macOS APFS normalizes filenames to NFC, so the two colliding names become ONE file on "
-    "creation and the collision cannot be constructed. Exercise in Linux CI; the frozen contract "
-    "says A06 may not be closed on a local green run.",
+    "creation and the collision cannot be constructed. Exercise in Linux CI; a green local run is "
+    "not evidence about this case.",
 )
 def test_nfc_collision_in_a_staged_tree_is_refused(tmp_path: pathlib.Path) -> None:
     from qfbench2_common.contracts import digest_tree
