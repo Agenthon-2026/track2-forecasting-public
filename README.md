@@ -236,12 +236,11 @@ every unit before reading any input. The full contract is [`SUBMISSION_CLI.md`](
 > directory when `--panels` holds no `.parquet`, which is why the command above still runs — but a
 > staged unit really does ship `panels/`, so keep passing `/input/panels/`.
 >
-> **The image is the part that is not finished.** `docker build` succeeds, and then `forecast`
-> inside it dies on `ModuleNotFoundError: No module named 'qfbench2_common'`: the `Dockerfile`
-> installs `numpy`, `pandas`, `pyarrow` and `jsonschema` but not the shared toolkit, which
-> `qfbench2_track_forecasting.limits` imports. Add the `qfbench2-common` line from
-> "Inheriting the shared toolkit" below to your own image, or run the CLI locally against an
-> installed toolkit.
+> The image installs the shared toolkit itself, so `docker build` followed by
+> `docker run --rm <image> forecast --help` works with no extra steps. If you build your own
+> image from scratch rather than from this `Dockerfile`, carry the `qfbench2-common` line from
+> "Inheriting the shared toolkit" below into it — `qfbench2_track_forecasting.limits` imports
+> the toolkit, so an image without it builds cleanly and then fails at run time.
 > `units/t2-EXAMPLE-ust-curve-1m/run_example.sh` drives the same pipeline through the Python API
 > and also runs offline.
 

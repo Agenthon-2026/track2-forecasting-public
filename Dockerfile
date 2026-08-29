@@ -32,7 +32,8 @@ RUN pip install --no-cache-dir \
         "numpy==2.1.3" \
         "pandas==2.2.3" \
         "pyarrow==18.1.0" \
-        "jsonschema==4.23.0"
+        "jsonschema==4.23.0" \
+        "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
 
 WORKDIR /work
 COPY qfbench2_track_forecasting /opt/qfbench2_track_forecasting
