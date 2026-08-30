@@ -175,3 +175,52 @@ jobs:
           PYEOF
       - name: Validate all public units
         run: python .github/validate_units.py forecasting
+
+  image:
+    name: Build the reference image and run the verb inside it
+    runs-on: ubuntu-latest
+    # A CodaBench submission IS the Docker image, so the image -- not the package -- is the
+    # deliverable. Until this job existed nothing ever built it: `Dockerfile` shipped without
+    # `qfbench2-common` for as long as it took someone to run it by hand, because a green CI
+    # over the package says nothing about whether the image can start.
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+      - name: Build
+        # linux/amd64 only. The Dockerfile also claims linux/arm64; emulating it here costs
+        # more than it catches, so arm64 stays a manual check before a release.
+        run: docker build -t t2-reference:ci .
+      - name: The verb starts
+        # The whole point. `docker build` succeeding proves nothing -- the failure this job
+        # exists to catch was an image that built clean and then died on its first import.
+        run: docker run --rm t2-reference:ci forecast --help
+      - name: The shared toolkit is importable inside the image
+        run: |
+          docker run --rm -i t2-reference:ci python3 - <<'PYEOF'
+          import sys
+          try:
+              from qfbench2_common.contracts import CONTRACT_SET
+          except Exception as exc:
+              sys.exit(f"toolkit not importable inside the image ({exc})")
+          print("contract set", CONTRACT_SET)
+          PYEOF
+      - name: Every dependency is at the version the Dockerfile pins
+        # An image that floats its deps fails the same way a pinned type checker meeting an
+        # unpinned numpy did. `scipy` is here because the toolkit depends on it: nothing in
+        # this repo imports it directly, so only an explicit check keeps it pinned.
+        run: |
+          docker run --rm -i t2-reference:ci python3 - <<'PYEOF'
+          import importlib.metadata as m
+          want = {"numpy": "2.1.3", "pandas": "2.2.3", "pyarrow": "18.1.0",
+                  "jsonschema": "4.23.0", "scipy": "1.18.1", "qfbench2-common": "2.3.1"}
+          bad = [f"{p}: {m.version(p)} != {v}" for p, v in want.items() if m.version(p) != v]
+          if bad:
+              raise SystemExit("unpinned drift inside the image: " + "; ".join(bad))
+          print("all pins match")
+          PYEOF
+      - name: It runs with no network, the way the harness runs it
+        run: docker run --rm --network=none t2-reference:ci forecast --help
+      - name: It runs as a non-root user
+        run: |
+          uid=$(docker run --rm t2-reference:ci id -u)
+          [ "$uid" != "0" ] || { echo "image runs as root; the harness expects a non-root user" >&2; exit 1; }
+          echo "uid $uid"
