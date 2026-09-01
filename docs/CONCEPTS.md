@@ -115,9 +115,11 @@ An **agentic forecast** combines two components:
 The two components interact: the LLM nudges or conditions the forecasting component's output.
 How exactly they interact is up to you — this is the design space of Track 2.
 
-**Contrast with the baselines.** The five text-blind baselines (Theta/AutoARIMA, Chronos,
-TimesFM, Lag-Llama, MOIRAI) use only the numeric panel. They implement the forecasting
-component but have no LLM reasoning component. They are the bar your agent must beat.
+**Contrast with the baselines.** A text-blind baseline uses only the numeric panel: it implements
+the forecasting component and has no LLM reasoning component. That is the bar your agent must
+beat, and it is what your leaderboard score is normalized against. Note that the five files in
+`baselines/` are **not** that baseline — they are interface scaffolds that all return a Gaussian
+random walk, whatever model they are named after. See [`baselines/README.md`](../baselines/README.md).
 
 ---
 

@@ -510,10 +510,13 @@ pre-committed worst-case value (4.0) rather than dropping out of the average. Th
 - The winning submission is typically the one that reads text well, applies it consistently
   across assets and time horizons, and produces fat-tailed joint distributions.
 
-The baselines (Theta/AutoARIMA, Chronos, TimesFM, Lag-Llama, MOIRAI) are text-blind
-reference points. A submission that does not beat at least two baselines on the validation
-split receives a warning flag on the leaderboard. The goal is to build something
-demonstrably better — not just to pass the gates.
+The reference point is a **text-blind baseline that runs organizer-side**, and it is the divisor
+in the normalization: a normalized score of 1.0 means "no better than it". The goal is to build
+something demonstrably better than that, not just to pass the gates.
+
+The five files in `baselines/` are **not** that reference point. They are interface scaffolds and
+each one returns a Gaussian random walk regardless of the model it is named after — see
+[`baselines/README.md`](../baselines/README.md). Beating them measures nothing.
 
 The **information uplift** (the best text-blind baseline's score minus yours on the same
 cards — composite scores are lower-better, so positive uplift means you beat the baseline)

@@ -12,18 +12,19 @@ served behind `$MODEL_ENDPOINT`. Nothing GPU-shaped in the stack affects your ra
 Track 2 is leveled the opposite way from Track 3. There, every submission gets identical hardware
 and no runtime LLM; here, the LLM is the centerpiece of the loop and the GPU never touches your
 rank: no scored component measures hardware. Since the 2026-08 caps change every T2 card grants
-the same generous sandbox — 16 vCPU / 128G / `gpu = true` — sized so a BYO team can run its own
-weights in-image; an `api`-category submission simply has no use for the GPU, and using or
-ignoring it moves no score. The network mode is `restricted` — model calls through the audited eval proxy
+the same generous sandbox — 16 vCPU / 128G / `gpu = true`. Neither category needs that GPU for
+its own code: an `api` submission has no use for it, and on a BYO run the worker's GPU is what
+serves the base model. Using or ignoring it moves no score. The network mode is `restricted` — model calls through the audited eval proxy
 only, **never data fetching** ([SUBMISSION_CLI.md](../SUBMISSION_CLI.md), "Network modes") — and
 official scoring happens organizer-side against sealed realized outcomes, with a scorer that
 needs no network at all (local smoke runs use `--network=none`). The house endpoint is free and
 identical for everyone (exposed as `$MODEL_ENDPOINT` when available), so what separates
 submissions is **elicitation and calibration skill** — how much verifiable predictive signal you
-extract from the corpus, and how honestly you spread your uncertainty. Teams bringing their own
-weights (`byo-small` / `byo-large`) prepare them **off-cluster, before submission** and bake
-them into the image; at run time every category gets the same card caps, so bundled weights
-run on the granted GPU — see the submission-categories table in
+extract from the corpus, and how honestly you spread your uncertainty. Bring-your-own is **adapter-only**: a BYO team
+trains one LoRA adapter (rank ≤ 64) **off-cluster, before submission** against the house base
+model, ships `adapter_model.safetensors` + `adapter_config.json` in its image, and the organizer
+serves the adapter on that base — the image never carries model weights and never runs a model
+server. See "Bring your own model: adapter-only, rank ≤ 64" in
 [SUBMISSION_CLI.md](../SUBMISSION_CLI.md).
 
 ## Per-tool fit
@@ -31,9 +32,9 @@ run on the granted GPU — see the submission-categories table in
 | Tool | Fit for T2 | How to use it | Caveat |
 |---|---|---|---|
 | **Nemotron behind `$MODEL_ENDPOINT`** | **Core — the one NVIDIA component in your loop** | An OpenAI-compatible chat endpoint; the pinned house-model id is published and arrives as `$MODEL_NAME`. Use it as your **text-reader**: extract stance, dates, revisions and surprises from the corpus, then let them adjust a statistical prior ([CONCEPTS.md](CONCEPTS.md) on information uplift) | If the pin is a reasoning variant, thinking toggles via the system prompt (`detailed thinking on\|off`) and responses may omit the opening `<think>` tag — parse tolerantly. And do not build a strategy on the model's *memory* of famous market episodes: the organizers will publish closed-book recall baselines (the house model queried with no panel and no corpus) alongside the text-blind baselines, so recall of an outcome earns no credit |
-| **NeMo (customization / fine-tuning)** | **Off-cluster only** | `byo-small` weight preparation (e.g. PEFT/LoRA on a ≤ ~8B model for macro-text conditioning) before you submit | No tuning or training path can execute in the T2 sandbox, and the NeMo customization stack ships in no T2 image |
-| **Megatron-LM** | **Off-cluster only** | `byo-large` weight preparation — the organizers maintain a Megatron recipe for this (linked from the submission-categories docs when published) | GPU-mandatory with a multi-GB dependency closure, and it contains no time-series or forecasting code; it is never part of a T2 image |
-| **CUDA / RAPIDS / cuDF** | **No fit** | — | T2's scored pipeline has no GPU surface: solving is file I/O + endpoint calls + sampling, and scoring is CPU CRPS arithmetic. Unless you are a `byo` team running your own weights in-image, vendoring GPU libraries only bloats your image |
+| **NeMo (customization / fine-tuning)** | **Off-cluster only — and this is the BYO path** | PEFT/LoRA adapter training against the house base model for macro-text conditioning, before you submit. Rank ≤ 64; ship the adapter, not the merged weights | No tuning or training path can execute in the T2 sandbox, and the NeMo customization stack ships in no T2 image |
+| **Megatron-LM** | **No fit** | — | It is a full-weight training stack, and full fine-tuning is not a permitted BYO submission: BYO ships one LoRA adapter. GPU-mandatory with a multi-GB dependency closure and no time-series or forecasting code; it is never part of a T2 image |
+| **CUDA / RAPIDS / cuDF** | **No fit** | — | T2's scored pipeline has no GPU surface: solving is file I/O + endpoint calls + sampling, and scoring is CPU CRPS arithmetic. That holds for BYO too — your code calls `$MODEL_ENDPOINT` like an `api` submission does — so vendoring GPU libraries only bloats your image |
 | **Nsight / DCGM** | **No fit** | — | T2 has no throughput or efficiency component — nothing to profile, nothing to meter (these are Track 3 concerns) |
 | **NeMo Guardrails** | **No fit** | — | A participant-side self-check rail relevant only to Track 4's citation surface; T2's admissibility gates are numeric and schema-level, and the rationale review reads your reasoning, not your I/O |
 

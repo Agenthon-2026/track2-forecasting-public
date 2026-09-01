@@ -116,8 +116,8 @@ public/
 │       ├── text/           ← tiny frozen text corpus stub (dated snippets)
 │       └── ...
 ├── scoring/scoring.py      ← reference scorer (calls qfbench2-common; g2 checks text dates)
-├── baselines/              ← five text-blind TS foundation model adapters + README
-│   └── README.md           ← explains the text-blind vs. reasoning-agent comparison
+├── baselines/              ← five adapter SCAFFOLDS (all return a Gaussian random walk) + README
+│   └── README.md           ← says plainly what they do and do not provide
 └── templates/
     └── card.toml           ← includes [text] section template
 ```

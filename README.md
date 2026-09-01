@@ -59,7 +59,14 @@ The text corpus is what lets a reasoning agent beat a text-blind baseline. An ag
 
 `units/` contains **103 practice units** with full specifications, covering all four card
 families: **F1 23 · F2 27 · F3 22 · F4 31**. Every one carries its panels, its dated text
-corpus, its card and its spec.
+corpus, its card and its spec. By `target_type` the 103 split **87 `level` · 16 `log_return`**;
+the type is stated in each unit's `card.toml` and `forecast_spec.json`, and your output must
+match it.
+
+`units/` holds **104 directories**, not 103: the extra one is the worked exemplar
+`t2-EXAMPLE-ust-curve-1m`, which is referenced throughout this README and ships no
+`forecast_spec.json`. It is the only unit here without one, and it is not counted as a practice
+unit above.
 
 **They carry no answers.** That is deliberate and it bounds what a local run can tell you:
 
@@ -67,7 +74,7 @@ corpus, its card and its spec.
 |---|---|
 | that your agent runs, reads the card, and writes all three output files | how accurate your forecast is |
 | that it passes the admissibility gates (g0–g3) | your CRPS composite |
-| what the five text-blind baselines produce on the same panel | whether you beat them |
+| that the `baselines/` scaffolds run against the same panel (their forecast is a placeholder — see below) | anything about the scored baseline, or whether you beat it |
 
 Accuracy feedback comes from submitting: the Development leaderboard scores you on units you
 have not seen. Use the practice units to get *admissible*, and the leaderboard to find out how
@@ -89,19 +96,33 @@ this practice data reaches.
 
 `scoring/scoring.py` is the reference implementation of all three score components plus all admissibility gates. The production harness runs this exact code. Run it locally to verify your output before submitting.
 
-### Five text-blind baselines
+### `baselines/` — five adapter scaffolds, not five working models
 
-`baselines/` contains working Docker-compatible adapters for five **text-blind** time-series foundation models:
+`baselines/` contains five files named after text-blind time-series models. **None of them runs the
+model it is named after.** Each demonstrates the adapter interface — the `BaselineForecaster` shape,
+the request/result types, seeding, output validation — and then returns samples from a Gaussian
+random walk. The import at the top of each file is a presence check whose result is never used.
 
-| Baseline | Method |
-|----------|--------|
-| `theta_arima` | Theta decomposition + AutoARIMA (per series) |
-| `chronos` | Amazon Chronos foundation model |
-| `timesfm` | Google TimesFM foundation model |
-| `lag_llama` | Meta Lag-Llama (time-series LLM) |
-| `moirai` | Salesforce MOIRAI |
+| File | Interface it demonstrates | Forecast actually produced |
+|------|---------------------------|----------------------------|
+| `theta_arima` | classical statistical adapter (Theta / AutoARIMA shape) | Gaussian random walk |
+| `chronos` | foundation-model adapter (Amazon Chronos shape) | Gaussian random walk |
+| `timesfm` | foundation-model adapter (Google TimesFM shape) | Gaussian random walk |
+| `lag_llama` | time-series LLM adapter (Lag-Llama shape) | Gaussian random walk |
+| `moirai` | multi-frequency adapter (Salesforce MOIRAI shape) | Gaussian random walk |
 
-These baselines do **not** use the text corpus — they see only the numeric panel. They are the bar your reasoning agent must beat. See `baselines/README.md` for the full comparison protocol.
+They say so themselves: every result carries `"implementation": "gaussian-rw-placeholder"` and
+`"real_adapter_implemented": false` in its metadata. The five use different fixed seeds, so they
+produce different numbers; that difference is seed noise, not method.
+
+**These are not a bar to clear.** Do not calibrate against them and do not read a gap between your
+agent and one of them as information uplift — the comparison would be against noise. Take the files
+for their interface and bring your own forecaster. Details and the scoring consequences are in
+[`baselines/README.md`](baselines/README.md).
+
+The baseline your score is normalized against is a different thing: it runs organizer-side, it is
+not any of these files, and you never see it directly — you see it only through the normalization,
+described next.
 
 **Their scores are not published per unit, and this is not an oversight.** A card's score is normalized by the same baseline's components, so a published per-unit baseline score plus a reproducible baseline forecast inverts to the sealed value — most sharply on single-asset cards, which are the majority here. What you get instead is the normalization itself: on every card, **1.0 means "no better than the text-blind baseline"**, so your own leaderboard number already reads as a ratio against them, with no separate table needed.
 
@@ -125,7 +146,8 @@ modes you will encounter:
 
    Vendor model APIs (`api.anthropic.com`, `api.openai.com`,
    `generativelanguage.googleapis.com`, any other) are **refused by the proxy** (policy
-   2026-08-04). Bundle your own weights in the image if you need a different model.
+   2026-08-04). If you need a different model, adapt the house model: ship a LoRA adapter and
+   the organizer serves it for you. See "The three submission categories" below.
 
    Every connection is logged (domain, bytes, timestamps). These logs are the audit artifact
    for the verification phase. **Vendor-side tools — web search, code execution, retrieval —
@@ -149,9 +171,16 @@ are not.
 
 | Category | What you bundle | Model access |
 |----------|-----------------|--------------|
-| `api` | Prompts, harness, system prompts, agent code | API-accessible models via the allowlist and/or the house endpoint |
-| `byo-large` | Your own large model weights in-image (GPU tier: 80 GB-class) | Local weights; may ALSO call APIs as in `api` |
-| `byo-small` | Your own small model weights (≤ ~8 B; CPU or small GPU) | Local weights; may ALSO call APIs as in `api` |
+| `api` | Prompts, harness, system prompts, agent code | The house endpoint only, via the proxy |
+| `byo-large` / `byo-small` | One LoRA adapter (`adapter_model.safetensors` + `adapter_config.json`) — not weights, and not a model server | The house endpoint only, via the proxy; on a BYO run `MODEL_NAME` names *your adapter* |
+
+**Bring-your-own is adapter-only.** You ship one LoRA adapter, rank ≤ 64 (enforced by the server
+at load), and the organizer starts a server on the house base model with your adapter loaded, then
+tears it down when your run ends. Full fine-tuning is not permitted, and **there is no
+small-weights tier** — `byo-large` and `byo-small` are legacy enum names the descriptor schema
+still accepts, and both select this same contract. The full rules, including the local
+`vllm serve` recipe for testing your adapter, are under "Bring your own model: adapter-only,
+rank <= 64" in [`SUBMISSION_CLI.md`](SUBMISSION_CLI.md).
 
 Every entry is tagged with its category, the models it used (pinned versions), and their
 training cutoffs. All categories compete together — there is no separate board per category.
@@ -600,15 +629,15 @@ you will be cut off partway through the set with the remaining units unscored.
 
 **The clock starts at `docker create`, so it covers pulling your image**, not just process
 start-up. On this fleet a cold pull has measured 90–187 s against roughly 15 s warm, and it is
-billed to the same per-unit budget as your solve. A large `byo` image pays that on its first
-unit.
+billed to the same per-unit budget as your solve. Keep your image small: under the adapter-only
+BYO rule it carries a LoRA adapter, not model weights, so there is no reason for it to be large.
 
-**On the GPU.** Every card declares `gpu = true`, and the caps are sized so a `byo-small` or
-`byo-large` image can load its own weights in-image rather than off-loading to the house
-endpoint. Whether a physical device is attached is a property of the worker your submission
-lands on, not of the card, so **make sure your image still starts when no device is present**.
-An `api`-category submission has no use for the GPU either way, and no scored component of
-Track 2 measures hardware ([docs/NVIDIA-STACK.md](docs/NVIDIA-STACK.md)).
+**On the GPU.** Every card declares `gpu = true`, but your own code has no use for it in either
+category: an `api` submission does not touch it, and on a BYO run the worker's GPU is what serves
+the base model your adapter is loaded onto — your code still calls `MODEL_ENDPOINT` over the
+proxy. Whether a physical device is attached is a property of the worker your submission lands on,
+not of the card, so **make sure your image still starts when no device is present**. No scored
+component of Track 2 measures hardware ([docs/NVIDIA-STACK.md](docs/NVIDIA-STACK.md)).
 
 ---
 
