@@ -28,11 +28,22 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 # Pinned. The scorer's own CI was red for a week because a pinned type checker met an unpinned
 # numpy; a submission image that floats its deps has the same failure mode with worse timing.
+#
+# `qfbench2-common` is required, not optional: `qfbench2_track_forecasting.limits` imports
+# `qfbench2_common.contracts`, so an image without it BUILDS CLEANLY and then dies on the first
+# `forecast` call. Measured before this line existed: build exit 0, `forecast --help` exit 1 with
+# ModuleNotFoundError.
+#
+# Same repository and tag the README installs, in the TARBALL form rather than `git+https://`.
+# That is deliberate: the base image is `python:3.13-slim-bookworm`, which ships no `git`, so the
+# `git+` form fails at build time with "Cannot find command 'git'". The tarball needs no VCS
+# client and no extra apt layer.
 RUN pip install --no-cache-dir \
         "numpy==2.1.3" \
         "pandas==2.2.3" \
         "pyarrow==18.1.0" \
-        "jsonschema==4.23.0"
+        "jsonschema==4.23.0" \
+        "qfbench2-common @ https://github.com/Agenthon-2026/Agenthon2026-public/archive/refs/tags/v2.3.1.tar.gz#subdirectory=common"
 
 WORKDIR /work
 COPY qfbench2_track_forecasting /opt/qfbench2_track_forecasting
