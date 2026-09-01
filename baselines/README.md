@@ -94,7 +94,9 @@ not exist; the repository ships one `Dockerfile`, at the root, and it builds the
 Earlier revisions of this section told you to build `baselines/<name>.Dockerfile` against
 `units/t2-EXAMPLE-ust-curve-1m/input/panels` — neither path exists. The exemplar unit has no
 `input/` subdirectory, and the harness mounts **the unit directory itself** at `/input`
-(`-v <unit-dir>:/input:ro`), so panels and text are `/input/panels/` and `/input/text/` inside it.
+(`-v <unit-dir>:/input:ro`), so a unit's panel parquets sit directly at `/input/` (for example
+`/input/rates_daily.parquet`) and its corpus at `/input/text/`. No unit has a `panels/`
+subdirectory.
 See the container section of the repository [README.md](../README.md).
 
 Call a scaffold in-process instead — that is what it is for:
