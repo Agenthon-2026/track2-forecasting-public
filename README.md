@@ -147,7 +147,7 @@ modes you will encounter:
    Vendor model APIs (`api.anthropic.com`, `api.openai.com`,
    `generativelanguage.googleapis.com`, any other) are **refused by the proxy** (policy
    2026-08-04). If you need a different model, adapt the house model: ship a LoRA adapter and
-   the organizer serves it for you. See "The three submission categories" below.
+   the organizer serves it for you. See "Submission categories" below.
 
    Every connection is logged (domain, bytes, timestamps). These logs are the audit artifact
    for the verification phase. **Vendor-side tools — web search, code execution, retrieval —
@@ -167,7 +167,7 @@ Data and text cutoffs (gate g2) are unchanged and still enforced by the harness.
 contract does not weaken any leakage rule: model APIs are reachable, market data and live text
 are not.
 
-### The three submission categories
+### Submission categories
 
 | Category | What you bundle | Model access |
 |----------|-----------------|--------------|
