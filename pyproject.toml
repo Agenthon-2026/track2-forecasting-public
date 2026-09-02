@@ -22,17 +22,22 @@ dependencies = [
   "pandas>=2.2",
   "pyarrow>=18",
   "jsonschema>=4.21",
-  # Pinned to the published toolkit by URL and tag.
+  # A MINIMUM, not a URL. `agenthon2026-runner/scoring-image/build.sh` stages the toolkit from a
+  # local checkout, and its builder has no git and no credentials, so `check_no_git_dep` refuses
+  # any `@ git+` dependency in every profile. The git-URL form this line carried from 2026-08-29
+  # to 2026-09-02 therefore refused every scoring-image build, development profile included,
+  # while Track 1 and Track 4 already declared a floor. Every install path this repository
+  # documents installs the toolkit FIRST, by URL and tag (README "Running the scorer locally" and
+  # "Install", Dockerfile, .github/workflows/ci.yml), and this floor is then satisfied by it.
   #
-  # This used to be the bare name `qfbench2-common`, deferred while the distribution decision was
-  # open. That name is UNCLAIMED on PyPI (measured: pypi.org returns 404), so a bare requirement
-  # resolves to whatever anyone chooses to register under it -- in every participant environment
-  # that runs `pip install .`. The distribution decision is now made: the toolkit ships from its
-  # own public repository at a tag, not from an index, so the URL can be stated here directly.
-  #
-  # The cost the old comment named is real but not load-bearing: a git URL makes THIS package
-  # unpublishable to an index, and this package is not published to one.
-  "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common",
+  # The URL's own argument still stands and is not answered here: `qfbench2-common` is
+  # UNREGISTERED on PyPI (404), so a bare name is a dependency-confusion surface, and a cold
+  # `pip install .` with nothing installed cannot resolve it from any index -- install the
+  # toolkit first, as documented. ">=2.3.1" because v2.3.1 is the first toolkit release that
+  # carries `qfbench2_common.contracts`, which `qfbench2_track_forecasting.scoring` imports at
+  # module scope; "<3" because this toolkit ships real content across minor versions and no 3.x
+  # has been seen.
+  "qfbench2-common>=2.3.1,<3",
 ]
 
 [project.optional-dependencies]
