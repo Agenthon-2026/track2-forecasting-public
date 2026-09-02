@@ -27,8 +27,13 @@ def test_coverage_arm_reproduces_the_shared_composite_exactly(joint, ref):
     """The control: the default metric must not move a single score."""
     s, y = _draws(), np.array([0.3, -1.2, 2.4, 0.0])
     mine = scoring._composite(
-        s, y, weights=(0.5, 0.3, 0.2), tail_levels=LEVELS,
-        joint=joint, tail_metric="coverage", ref_scale=ref,
+        s,
+        y,
+        weights=(0.5, 0.3, 0.2),
+        tail_levels=LEVELS,
+        joint=joint,
+        tail_metric="coverage",
+        ref_scale=ref,
     )
     theirs = crps.crps_composite(
         s, y, weights=(0.5, 0.3, 0.2), tail_levels=LEVELS, joint=joint, ref_scale=ref
