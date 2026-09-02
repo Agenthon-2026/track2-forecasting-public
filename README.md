@@ -211,9 +211,9 @@ scoring detail.
 - `api` entries are verified statistically (bootstrap-CI overlap on rerun); BYO entries
   bit-reproducibly.
 
-### Model-API budget (PROVISIONAL — finalized before dev-phase open)
+### Model-API budget (FINAL, ruled 2026-08-28)
 
-A uniform per-unit model-API budget applies to every submission. The provisional figure is
+A uniform per-unit model-API budget applies to every submission. The figure is
 **1,000,000 input + 100,000 output tokens per unit**, enforced via proxy logs and spot audit.
 Whether API keys are sponsor-provisioned or team-provided is TBD pending sponsorship — the
 mechanics are identical either way, and both modes are supported.
