@@ -141,8 +141,11 @@ jobs:
       # the gate unrunnable in the image.
       - name: jsonschema is installed, because g1 refuses to run without it
         run: python -c "import jsonschema; print(jsonschema.__name__)"
+      # No -q here: pyproject `addopts` already carries one, and a doubled -q suppresses pytest's
+      # summary line, so every green run of this step printed 171 dots and no count
+      # (measured 2026-09-02 on run 33655399470). The count is the evidence; the dots are not.
       - name: Pytest
-        run: python -m pytest tests -q
+        run: python -m pytest tests
       - name: Regression suite (positive AND negative controls)
         run: python regression_suite/run_regression.py
 
