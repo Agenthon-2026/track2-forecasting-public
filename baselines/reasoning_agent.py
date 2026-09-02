@@ -92,6 +92,7 @@ import numpy as np
 import pandas as pd
 
 _TIMEOUT_SEC = 60
+_TRACE_CHARS = 4000
 _MAX_DOC_CHARS = 6000
 _MAX_DOCS = 8
 _VOL_CLAMP = (0.5, 2.0)
@@ -196,21 +197,34 @@ def build_prompt(
     return "\n".join(lines)
 
 
-def call_model(prompt: str) -> tuple[dict[str, Any] | None, str]:
-    """(parsed, reason_if_skipped). The ONLY network call this module makes."""
+def call_model(prompt: str) -> tuple[dict[str, Any] | None, str, str]:
+    """(parsed, reason_if_skipped, reasoning_trace). The ONLY network call this module makes."""
     endpoint = os.environ.get("MODEL_ENDPOINT", "").strip()
     model = os.environ.get("MODEL_NAME", "").strip()
     if not endpoint:
-        return None, "MODEL_ENDPOINT is unset"
+        return None, "MODEL_ENDPOINT is unset", ""
     if not model:
-        return None, "MODEL_NAME is unset"
+        return None, "MODEL_NAME is unset", ""
+
+    # A reasoning model spends the completion budget thinking BEFORE it emits any JSON, and a
+    # reply cut off mid-thought carries that thinking in `content` -- so it reads as prose, not
+    # as a truncation. Measured against nvidia/nemotron-3.5-lightning-30b-a3b on a real unit:
+    # 4470 characters of reasoning, finish_reason "length", completion_tokens exactly 1200, and
+    # the JSON never reached. Default the thinking off; this task wants a small table, not a
+    # visible derivation. MODEL_THINKING=on turns it back on, and needs the room to match.
+    thinking = os.environ.get("MODEL_THINKING", "off").strip().lower() in ("1", "on", "true")
+    try:
+        max_tokens = max(1, int(os.environ.get("MODEL_MAX_TOKENS", "3000")))
+    except ValueError:
+        return None, "MODEL_MAX_TOKENS is not an integer", ""
 
     body = json.dumps(
         {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0,
-            "max_tokens": 1200,
+            "max_tokens": max_tokens,
+            "chat_template_kwargs": {"enable_thinking": thinking},
         }
     ).encode("utf-8")
     req = urllib.request.Request(
@@ -226,19 +240,35 @@ def call_model(prompt: str) -> tuple[dict[str, Any] | None, str]:
         with urllib.request.urlopen(req, timeout=_TIMEOUT_SEC) as resp:
             payload = json.loads(resp.read().decode("utf-8"))
     except (urllib.error.URLError, TimeoutError, ValueError, OSError) as exc:
-        return None, f"{type(exc).__name__}: {exc}"
+        return None, f"{type(exc).__name__}: {exc}", ""
 
     try:
-        content = payload["choices"][0]["message"]["content"]
+        choice = payload["choices"][0]
+        message = choice["message"]
+        content = message["content"]
     except (KeyError, IndexError, TypeError):
-        return None, "reply had no choices[0].message.content"
+        return None, "reply had no choices[0].message.content", ""
+    trace = message.get("reasoning_content") or ""
+    if not isinstance(content, str):
+        return None, "choices[0].message.content was not a string", trace
+
     start, end = content.find("{"), content.rfind("}")
     if start < 0 or end <= start:
-        return None, "reply contained no JSON object"
+        if choice.get("finish_reason") == "length":
+            # Not "the model ignored the schema" -- we did not give it room to answer.
+            return (
+                None,
+                (
+                    f"reply hit max_tokens={max_tokens} before emitting JSON -- raise "
+                    "MODEL_MAX_TOKENS or set MODEL_THINKING=off"
+                ),
+                trace,
+            )
+        return None, "reply contained no JSON object", trace
     try:
-        return json.loads(content[start : end + 1]), ""
+        return json.loads(content[start : end + 1]), "", trace
     except ValueError as exc:
-        return None, f"reply JSON did not parse: {exc}"
+        return None, f"reply JSON did not parse: {exc}", trace
 
 
 def apply_adjustment(
@@ -247,7 +277,7 @@ def apply_adjustment(
     last: dict[str, float],
     sd_h: dict[str, float],
     parsed: dict[str, Any],
-) -> tuple[np.ndarray, dict[str, dict[str, Any]]]:
+) -> tuple[np.ndarray, dict[str, dict[str, Any]], int]:
     """Shift the mean and scale the spread, per asset. Clamped, and reported.
 
     Applied to the DRAWS rather than re-sampling, so the cross-asset correlation the statistical
@@ -271,9 +301,20 @@ def apply_adjustment(
     """
     out = samples.copy()
     applied: dict[str, dict[str, Any]] = {}
-    per_asset = (parsed or {}).get("assets", {})
+    # The prompt asks for {"assets": {...}}. Models comply about half the time and otherwise key
+    # the assets at the top level; both are honest readings, so accept both. But COUNT what
+    # matched -- an unrecognised shape must be reported as a skipped run, never applied as a
+    # silent zero that still calls itself a reasoning run.
+    top = parsed if isinstance(parsed, dict) else {}
+    nested = top.get("assets")
+    per_asset = nested if isinstance(nested, dict) and any(a in nested for a in assets) else top
+    matched = 0
     for i, a in enumerate(assets):
-        spec = per_asset.get(a) or {}
+        spec = per_asset.get(a)
+        if isinstance(spec, dict):
+            matched += 1
+        else:
+            spec = {}
         note = ""
         try:
             drift_bp = float(spec.get("drift_bp", 0.0))
@@ -299,7 +340,7 @@ def apply_adjustment(
             "note": note,
             "because": str(spec.get("because", ""))[:300],
         }
-    return out, applied
+    return out, applied, matched
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -338,18 +379,28 @@ def main(argv: list[str] | None = None) -> int:
 
     docs, excluded, truncated = read_corpus(pathlib.Path(a.text), a.asof)
     if not docs:
-        parsed, reason = None, "no corpus document is dated at or before the as-of date"
+        parsed, reason, trace = None, "no corpus document is dated at or before the as-of date", ""
     else:
-        parsed, reason = call_model(
+        parsed, reason, trace = call_model(
             build_prompt(assets, horizons, a.asof, t["target_type"], last, sd_h, docs)
         )
 
     applied: dict[str, dict[str, Any]] = {}
+    matched = 0
     if parsed is None:
         reasoning_applied = False
     else:
-        samples, applied = apply_adjustment(samples, assets, last, sd_h, parsed)
-        reasoning_applied, reason = True, ""
+        adjusted, applied, matched = apply_adjustment(samples, assets, last, sd_h, parsed)
+        if matched == 0:
+            keys = sorted(parsed)[:8] if isinstance(parsed, dict) else []
+            applied, reasoning_applied = {}, False
+            reason = (
+                f"reply named none of the requested assets {assets}; "
+                f"its top-level keys were {keys}"
+            )
+        else:
+            samples = adjusted
+            reasoning_applied, reason = True, ""
 
     out = pathlib.Path(a.out)
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -412,6 +463,7 @@ def main(argv: list[str] | None = None) -> int:
                 f"- documents excluded by the cutoff or a missing index entry: **{excluded}**",
                 f"- documents dropped by this file's {_MAX_DOCS}-document prompt budget: "
                 f"**{truncated}**",
+                f"- assets named by the reply: **{matched} of {len(assets)}**",
                 f"- adjustment applied: **{reasoning_applied}**",
                 *([f"- skipped because: {reason}"] if not reasoning_applied else []),
                 "",
@@ -432,6 +484,23 @@ def main(argv: list[str] | None = None) -> int:
                     ]
                 ),
                 "",
+                *(
+                    [
+                        "## Model trace",
+                        "",
+                        "Emitted by the model before its answer, reproduced verbatim. It is",
+                        "commentary on the table above, not a substitute for it: the table is",
+                        "what moved the draws. Present only when MODEL_THINKING is on.",
+                        "",
+                        "```",
+                        trace[:_TRACE_CHARS]
+                        + ("\n...[truncated]" if len(trace) > _TRACE_CHARS else ""),
+                        "```",
+                        "",
+                    ]
+                    if trace
+                    else []
+                ),
                 "## What would change this",
                 "",
                 "A document dated at or before the as-of date that contradicts the cited",
