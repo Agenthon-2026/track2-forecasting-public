@@ -1,8 +1,13 @@
-# Track 2 Baselines — adapter scaffolds
+# Track 2 Baselines — adapter scaffolds, and one runnable reasoning agent
 
 ## Read this first
 
-**These are scaffolds, not working model adapters.** Each file shows the shape a real adapter
+This directory holds two different kinds of file. Five **adapter scaffolds** (`theta_arima.py`,
+`chronos.py`, `timesfm.py`, `lag_llama.py`, `moirai.py`) and one **runnable reasoning agent**
+(`reasoning_agent.py`). Everything in the next section is about the five scaffolds; the agent has
+its own section below.
+
+**The five scaffolds are scaffolds, not working model adapters.** Each file shows the shape a real adapter
 takes — the `BaselineForecaster` interface, the request/result types, seeding, and output
 validation — and then produces samples from a **Gaussian random walk**. None of them calls the
 model it is named after.
@@ -37,10 +42,11 @@ noise and nothing else — it is not a difference in method.
 
 
 All five scaffolds:
-- Are **Python classes, not command-line programs.** None of them ships a `__main__` or an
+- Are **Python classes, not command-line programs.** None of the five ships a `__main__` or an
   argument parser; the `forecast --panels ... --text ... --asof ... --out ...` verb lives in
   `qfbench2_track_forecasting/cli.py` and is installed as the `forecast` console script. Call a
-  scaffold in-process, as shown below.
+  scaffold in-process, as shown below. (`reasoning_agent.py` is the exception in this directory
+  and *is* a command-line program — see its section below.)
 - Take a `ForecastRequest` and return a `ForecastResult`. They never read `--text`, or any text.
 - Respect the leakage guard: only panel rows with `date <= asof` reach the series.
 - Produce sample output shaped `[n_draws, n_assets, n_horizons]` with `n_draws` from the request
@@ -116,16 +122,35 @@ the repository [README.md](../README.md).
 
 ---
 
-## The agentic baseline — not shipped
+## The reasoning agent — `reasoning_agent.py`
 
-`baselines/agentic_baseline.py` **does not exist in this repository.** It is a specification, and
-the five scaffolds above are the only code in this directory. Do not plan around it.
+`baselines/agentic_baseline.py` **does not exist**; the file that landed is
+`baselines/reasoning_agent.py`, and unlike the five scaffolds it reads the corpus, calls the
+model endpoint, and runs from the command line:
 
-What it is meant to be, if it lands: a deliberately simple reasoning agent — a time-series
-component plus a minimal LLM component that retrieves the most recent corpus documents, extracts a
-directional signal, and nudges the forecast mean. A floor for reasoning-agent performance, not a
-ceiling, demonstrating the minimum viable integration of text and time series. Until it ships
-there is nothing here to run or compare against.
+```bash
+MODEL_ENDPOINT=https://... MODEL_NAME=... \
+  python3 -m baselines.reasoning_agent \
+    --panels units/t2-F1-ai-mom-2024 --text units/t2-F1-ai-mom-2024/text \
+    --asof 2024-05-31 --card units/t2-F1-ai-mom-2024/card.toml \
+    --out /tmp/out/forecast.parquet
+```
+
+It is the minimum viable integration of text and time series: the joint random walk from
+`qfbench2_track_forecasting.cli._draw`, plus two model-supplied scalars per asset (`drift_bp`,
+`vol_scale`) that move the draws. Both scalars land in `forecast_rationale.md` so a reader can
+disagree with them.
+
+**It runs without a model endpoint.** With `MODEL_ENDPOINT` unset, or unreachable, or returning
+something that will not parse, it emits the unadjusted statistical floor and records
+`adjustment applied: False` with the reason. That matters today: the proxy that serves
+`MODEL_ENDPOINT` on the platform is not built yet, so the no-endpoint path is the only one a
+participant can exercise right now. Measured on all 104 shipped units with no endpoint: every
+unit runs and every output is admissible under g0-g3.
+
+**A floor, not a ceiling.** Whether two scalars from one prompt beat the text-blind floor is
+unmeasured and needs a real endpoint. Read the file for the loop — dated retrieval, a bounded
+model call, a labelled failure path — not for the numbers.
 
 ---
 
