@@ -17,7 +17,7 @@ and (7) running the leakage check for both panel rows and text document timestam
 
 **The two most common card authoring mistakes are:**
 1. Letting realized-outcome information touch the public repo.
-2. Including a text corpus document dated after the as-of date (text leakage — gate g2 will catch this in production, but it is embarrassing and makes the card invalid).
+2. Including a text corpus document dated after the as-of date (text leakage — `cutoff.scan_text_corpus_cutoff` catches this at staging, but it is embarrassing and makes the card invalid).
 
 ---
 
@@ -372,7 +372,7 @@ Work through this list in order. All boxes must be checked before the card enter
   ```bash
   qfbench2-smoke units/<card_id>/ output/ --track forecasting
   ```
-- [ ] Gate g2 passes: text corpus timestamps all <= asof (verify in smoke output)
+- [ ] `cutoff.scan_text_corpus_cutoff` passes: text corpus timestamps all <= asof (verify in the staging output)
 - [ ] Gate g0 through g3 all pass green for a valid test submission
 
 ---
@@ -386,10 +386,13 @@ trivially "forecast" it. The entire scoring system depends on outcomes being unk
 useful signal from text that was available before the forecast date. Allowing post-asof text
 would let the agent "read" the future — defeating the purpose and inflating scores unfairly.
 
-**Why gate g2 checks text timestamps?** The gate's name is g2_cutoff_resource — it enforces
-both the panel data cutoff (no rows with `date > asof`) and the text corpus cutoff (no
-document with timestamp > asof). These two checks are bundled because they share the same
-purpose: ensuring the agent sees only information available on the as-of date.
+**Where are the panel and text cutoffs checked?** At staging, before a unit ships:
+`cutoff.scan_panel_cutoff` (no rows with `date > asof`) and `cutoff.scan_text_corpus_cutoff`
+(no document with timestamp > asof), run by the regression suite. Gate `g2_cutoff_resource`
+at scoring time binds the submission's declaration to the trusted card and checks the card's
+own cutoff; it cannot rescan the corpus, because the scoring program never sees `/input/text/`.
+The two staging scans share one purpose: ensuring the agent sees only information available on
+the as-of date.
 
 **Why the minimum gap?** A 1-day forecasting horizon would be trivially predictable. The gaps
 chosen (1-6 months by family) target the range where models genuinely differentiate.

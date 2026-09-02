@@ -76,7 +76,8 @@ panel_ids = ["TEMPLATE_PANEL"]            # each must have a manifest.json entry
 # ---------------------------------------------------------------------------
 # [text] — the frozen, time-stamped text corpus available to the agent.
 # Every document in the corpus must have timestamp <= data_cutoff (the as-of date).
-# Gate g2_cutoff_resource checks this. A post-asof document causes leakage rejection.
+# The staging gate cutoff.scan_text_corpus_cutoff checks this before the unit ships; a
+# post-asof document is refused there. Gate g2 at scoring time binds the declaration to this card.
 # Agents read from /input/text/ at inference time; the restricted network blocks live
 # fetches (model-API calls via the audited proxy are the only permitted egress).
 # ---------------------------------------------------------------------------

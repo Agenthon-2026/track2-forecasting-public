@@ -56,7 +56,7 @@ internet** in official scoring.
 > **No participant API keys exist.** The harness injects none and there is no mechanism for a
 > submission to supply one, so a vendor key would have nothing to reach even if you had one.
 
-Data and text cutoffs (gate `g2_cutoff_resource`) are unchanged and still enforced by the harness
+Data and text cutoffs are unchanged: enforced by the organizer's staging gates before a unit ships, with gate `g2_cutoff_resource` binding your declaration to the trusted card
 in both modes — network access is for **model calls only**, never for fetching data.
 
 ### Submission categories (agent tracks only)
@@ -158,7 +158,7 @@ category, the models used (pinned versions), and their training cutoffs.
 | Track | Verb | Inputs (under `/input`) | Required output (under `/output`) |
 |---|---|---|---|
 | **T1 Coding** | `solve --task-dir /input --out /app/output` | task spec + environment files | task-specified deliverables written to **`/app/output`** (QFBench/Harbor convention); the `checks/` step asserts correctness and writes **both** `reward.txt` and `reward.json` (see T1 note below) |
-| **T2 Time-Series Forecasting** | `forecast --panels /input/panels/ --text /input/text/ --asof <YYYY-MM-DD> --out /output/forecast.parquet` | `panels/` — multivariate time-series parquet files; `text/` — time-stamped text corpus (news, FOMC, macro releases); all timestamps must be ≤ `--asof` (gate g2 enforces both) | joint predictive distribution conforming to `forecast.schema.json`; sidecar `forecast_meta.json` required; **`forecast_rationale.md` required and never scored** (see T2 note below) |
+| **T2 Time-Series Forecasting** | `forecast --panels /input/panels/ --text /input/text/ --asof <YYYY-MM-DD> --out /output/forecast.parquet` | `panels/` — multivariate time-series parquet files; `text/` — time-stamped text corpus (news, FOMC, macro releases); all timestamps must be ≤ `--asof` (enforced by the organizer's staging gates before the unit ships) | joint predictive distribution conforming to `forecast.schema.json`; sidecar `forecast_meta.json` required; **`forecast_rationale.md` required and never scored** (see T2 note below) |
 | **T3 Simulation** (single scenario) | `simulate --config /input/scenario.json --out /output/trace.parquet` | scenario config + ABIDES environment | message-level trace conforming to `sim_scenario.schema.json` + `events.json` (counts/timing) |
 | **T3 Simulation** (batched, family GB) | `simulate-batch --batch-dir /input/scenarios --out-dir /output` | `batch.json` — the sub-scenario roster; `scenarios/` — one config per sub-scenario. These units have **no** top-level `scenario.json`. | one output subdir per sub-scenario, each with `trace.parquet` + `events.json`, plus `batch_events.json` at the root of `--out-dir` |
 | **T4 Tabular Prediction** | `analyze --task /input/task.json --corpus /input/corpus/ --out /output/answer.json` | `task.json` — tabular dataset (rows = entities) + target column spec + `target_type` (classification/regression/ranking); `corpus/` — frozen evidence corpus | prediction + interval + citations per row conforming to `analysis.schema.json`; `target_type` in output must match card |
@@ -208,10 +208,11 @@ everything else to `simulate`. Six of the public dev units (`t3-gbatch-*`) are b
 4. Determinism: the harness sets `QFBENCH_SEED`; verification phase reruns on fresh seeds/resamples and
    compares against the final-phase result (reproducibility gate).
 5. Wall-clock and resource caps are per-track (`card.environment`); exceeding them is a `g2` failure.
-6. **T2 text cutoff (g2):** every document in `/input/text/` must have a timestamp field ≤ `--asof`.
-   The harness checks text timestamps in addition to panel data timestamps. A document with a
-   post-as-of date causes a `shared.leakage.cutoff_violation` failure label
-   (`FailureLabel.LEAKAGE_CUTOFF` in `qfbench2_common.failure_labels`).
+6. **T2 text cutoff:** every document in `/input/text/` has a timestamp field ≤ `--asof`, enforced by the organizer's staging gates before a unit ships (gate g2 at scoring time binds your declaration to the trusted card; it does not rescan the corpus).
+   The staging gates check text timestamps in addition to panel data timestamps; a unit with a
+   post-as-of document does not ship. The `shared.leakage.cutoff_violation` label
+   (`FailureLabel.LEAKAGE_CUTOFF` in `qfbench2_common.failure_labels`) is what g2 emits when your
+   declaration's cutoff disagrees with the trusted card.
 7. **T4 target type:** the `target_type` field in `/input/task.json` (and matching `card.toml`) declares
    the task as `classification`, `regression`, or `ranking`. The `answer.json` output must include a
    matching `target_type` field. Mixed task types within one unit are not allowed.

@@ -111,8 +111,8 @@ the intended stress for F1.
 - The panel available to the agent ends strictly at the as-of date. No row with
   `date > asof` may appear in any input panel file.
 - The text corpus contains only documents with timestamps on or before the as-of date.
-  Gate g2 enforces this: if any text document has a post-asof timestamp, the submission
-  fails g2 (leakage). Agents may not fetch live text — the restricted network permits
+  The staging gates enforce this: if any text document has a post-asof timestamp, the unit
+  does not ship (leakage). Agents may not fetch live text — the restricted network permits
   model-API calls only (audited proxy; vendor-side web search/retrieval disabled).
 - Panels are truncated at the as-of date **before publication**: the staging step reads every
   row of every panel and refuses the unit if one is dated after the as-of. There is no runtime
@@ -152,8 +152,8 @@ its distribution slightly relative to a model that only extrapolated the numeric
    penalizes both under-confidence and over-confidence.
 5. **Wrong target date.** Horizons are in **business days**, not calendar days.
    21 business days is approximately 1 calendar month but not exactly 21 calendar days.
-6. **Including post-asof text.** Even one document dated after the as-of date will fail gate
-   g2. Always filter the text corpus by date before mounting.
+6. **Including post-asof text.** Even one document dated after the as-of date fails the staging
+   gate (`cutoff.scan_text_corpus_cutoff`). Always filter the text corpus by date before mounting.
 
 ---
 
@@ -212,7 +212,7 @@ with a seen anchor). But for multi-asset regime-shift cards, joint behavior matt
   Example: as-of `2023-04-03` → earliest target `2023-07-03`.
 - The text corpus contains only documents with timestamps on or before the as-of date.
   The regime-shift signal is in the pre-asof text — the whole point of F2 is that the
-  text warns in advance. Gate g2 rejects any corpus document dated after the asof.
+  text warns in advance. The staging gates reject any corpus document dated after the asof before the unit ships.
 - For transfer-configuration F2 cards: the target series must be **entirely absent from
   the input panel**. The harness checks that no row with the target asset ID appears in
   `/input/panels`. The text corpus (not the numeric panel) is the primary information source
@@ -316,8 +316,8 @@ recommends >= 500.
   (Shorter than F1/F2 because the dependence structure, not the forecast horizon, is the
   test.) Example: as-of `2024-01-02` → earliest target `2024-02-02`.
 - All target assets must be excluded from the panel after the as-of date.
-- The text corpus contains only documents with timestamps <= as-of date. Gate g2 enforces
-  this. A post-asof FOMC release would constitute leakage if it informed the joint forecast.
+- The text corpus contains only documents with timestamps <= as-of date. The staging gates enforce
+  this before the unit ships. A post-asof FOMC release would constitute leakage if it informed the joint forecast.
 - Derived features (rolling covariance, DCC-GARCH estimates, PCA loadings) must be
   constructed using only data through the as-of date. Post-asof correlation estimates are
   leakage.
@@ -430,7 +430,7 @@ the draw distribution accordingly." Use at least 1,000 draws for F4 cards.
   For a 63-BD (approximately 3-month) card targeting the Q1 2022 rate shock, the as-of date
   must be no later than approximately 2021-10-01.
 - The text corpus contains only documents with timestamps <= as-of date. The shock-foreshadowing
-  text is in the pre-asof corpus. Gate g2 rejects any corpus document dated after the asof.
+  text is in the pre-asof corpus. The staging gates reject any corpus document dated after the asof before the unit ships.
 - No post-event data may appear in the input panel. This includes Fed funds futures, swap
   rates, or any series that would reveal the event's timing or magnitude in advance.
 - **Critical**: participants must NOT engineer features that use look-ahead knowledge of the
@@ -530,7 +530,7 @@ and retrieval strategy.
 
 ### F1
 - [ ] All target assets are present in the training panel through the as-of date
-- [ ] Text corpus has timestamps <= as-of date (gate g2 will check this)
+- [ ] Text corpus has timestamps <= as-of date (`cutoff.scan_text_corpus_cutoff` checks this at staging)
 - [ ] Agent actually reads and uses the text corpus (not just the panel)
 - [ ] As-of date >= 6 calendar months before first target date
 - [ ] n_draws >= 200; per-asset standard deviation > 0
