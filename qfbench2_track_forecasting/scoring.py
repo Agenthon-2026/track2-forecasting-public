@@ -651,6 +651,10 @@ def _cmd_score(args: argparse.Namespace) -> int:
                 "marginal_crps": detail["marginal"],
                 "joint_variogram": detail["joint"],
                 "tail_penalty": detail["tail"],
+                # Which metric produced that number. `tail_penalty` alone is ambiguous: coverage
+                # and pinball are different quantities on different scales, and a score a
+                # participant cannot attribute to a metric is a score they cannot check.
+                "tail_metric": detail["tail_metric"],
                 "composite_score": detail["composite"],
                 "n_draws": detail["n_draws"],
                 "cell_count": detail["cell_count"],
