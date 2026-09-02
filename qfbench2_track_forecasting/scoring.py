@@ -206,7 +206,11 @@ def hydrate_ctx(ctx: dict[str, Any]) -> None:
                 "normalization mode is 'ref_scale' but no reference root was supplied, so the "
                 "answer-equivalent scale cannot be located. Refusing to fall back to raw."
             )
-        ctx["ref_scale"] = load_ref_scale(reference_root, limits=ctx["limits"])
+        ctx["ref_scale"] = load_ref_scale(
+            reference_root,
+            cell_count=ctx["expected_grid"].cell_count,
+            limits=ctx["limits"],
+        )
     ctx.setdefault("ref_scale", None)
 
 
@@ -480,7 +484,9 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
         weights=weight_tuple,
         tail_levels=tuple(params.get("tail_levels", (0.01, 0.05, 0.95, 0.99))),
         joint=params.get("joint", "variogram"),
-        ref_scale=ref_scale.as_mapping() if ref_scale is not None else None,
+        ref_scale=(
+            ref_scale.as_mapping(joint_weight=weight_tuple[1]) if ref_scale is not None else None
+        ),
     )
     composite = float(out["composite"])
     if not np.isfinite(composite):
