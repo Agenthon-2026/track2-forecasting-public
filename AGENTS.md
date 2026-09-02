@@ -115,7 +115,7 @@ public/
 │       ├── card.toml       ← includes [text] section
 │       ├── text/           ← tiny frozen text corpus stub (dated snippets)
 │       └── ...
-├── scoring/scoring.py      ← reference scorer (calls qfbench2-common; g2 checks text dates)
+├── scoring/scoring.py      ← reference scorer (calls qfbench2-common; g2 binds the declaration to the card — corpus dates are checked at staging)
 ├── baselines/              ← five adapter SCAFFOLDS (all return a Gaussian random walk) + README
 │   └── README.md           ← says plainly what they do and do not provide
 └── templates/

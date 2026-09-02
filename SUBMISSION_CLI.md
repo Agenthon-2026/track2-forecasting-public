@@ -56,7 +56,7 @@ internet** in official scoring.
 > **No participant API keys exist.** The harness injects none and there is no mechanism for a
 > submission to supply one, so a vendor key would have nothing to reach even if you had one.
 
-Data and text cutoffs (gate `g2_cutoff_resource`) are unchanged and still enforced by the harness
+Data and text cutoffs are unchanged: enforced by the organizer's staging gates before a unit ships, with gate `g2_cutoff_resource` binding your declaration to the trusted card
 in both modes — network access is for **model calls only**, never for fetching data.
 
 ### Submission categories (agent tracks only)
@@ -209,9 +209,10 @@ everything else to `simulate`. Six of the public dev units (`t3-gbatch-*`) are b
    compares against the final-phase result (reproducibility gate).
 5. Wall-clock and resource caps are per-track (`card.environment`); exceeding them is a `g2` failure.
 6. **T2 text cutoff:** every document in `/input/text/` has a timestamp field ≤ `--asof`, enforced by the organizer's staging gates before a unit ships (gate g2 at scoring time binds your declaration to the trusted card; it does not rescan the corpus).
-   The harness checks text timestamps in addition to panel data timestamps. A document with a
-   post-as-of date causes a `shared.leakage.cutoff_violation` failure label
-   (`FailureLabel.LEAKAGE_CUTOFF` in `qfbench2_common.failure_labels`).
+   The staging gates check text timestamps in addition to panel data timestamps; a unit with a
+   post-as-of document does not ship. The `shared.leakage.cutoff_violation` label
+   (`FailureLabel.LEAKAGE_CUTOFF` in `qfbench2_common.failure_labels`) is what g2 emits when your
+   declaration's cutoff disagrees with the trusted card.
 7. **T4 target type:** the `target_type` field in `/input/task.json` (and matching `card.toml`) declares
    the task as `classification`, `regression`, or `ranking`. The `answer.json` output must include a
    matching `target_type` field. Mixed task types within one unit are not allowed.

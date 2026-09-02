@@ -338,7 +338,7 @@ intentionally — uses information from after the as-of date.
 
 2. **Text corpus leakage.** A document in the text corpus has a timestamp after the as-of
    date. Gate g2 checks every document timestamp in `card.toml [text] cutoff` and in the
-   corpus metadata. If any text document is dated after the asof, the submission fails g2.
+   corpus metadata. A corpus with a document dated after the asof is refused by the organizer's staging gates (`cutoff.scan_text_corpus_cutoff`) before the unit ships; g2 does not rescan it.
    The agent may not fetch new text at inference time — the restricted network (model-API
    proxy only, everything else blocked) enforces this.
 
@@ -354,7 +354,7 @@ intentionally — uses information from after the as-of date.
 **How the harness prevents leakage:**
 1. Panel cutoff, enforced at PUBLICATION time: every row of every staged panel is read against
    the card's as-of, and a unit with a post-as-of row is refused rather than published.
-2. Text corpus cutoff: gate g2 verifies every text document timestamp <= asof.
+2. Text corpus cutoff: the organizer's staging gates (`cutoff.scan_text_corpus_cutoff`) verify every text document timestamp <= asof before the unit ships; g2 binds the declaration to the trusted card.
 3. Restricted network: at scoring time the only egress is model-API calls through the
    organizer's audited proxy; every connection is logged. Local smoke runs use
    `--network=none`, which blocks all network calls outright.
