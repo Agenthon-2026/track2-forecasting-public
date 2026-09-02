@@ -431,7 +431,8 @@ which it always does:
   "rankable": false,
   "marginal_crps": 0.03404892146955248,
   "joint_variogram": 0.09275650421885016,
-  "tail_penalty": 0.12000000000000005,
+  "tail_penalty": 0.06635287209486329,
+  "tail_metric": "pinball",
   "composite_score": 0.0688514120004313,
   "n_draws": 500,
   "cell_count": 4

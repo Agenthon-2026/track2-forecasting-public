@@ -9,13 +9,13 @@
     "g2_cutoff_resource": true,
     "g3_domain_semantics": true
    },
-   "composite": 0.2253232411418254,
+   "composite": 0.21459381556079962,
    "detail": {
-    "score": 0.2253232411418254,
-    "marginal": 0.3979101787880569,
-    "joint": 0.007893839159323103,
-    "tail": 0.12000000000000005,
-    "composite": 0.2253232411418254
+    "score": 0.21459381556079962,
+    "marginal": 0.3979101787880598,
+    "joint": 0.007893839159323549,
+    "tail": 0.06635287209486329,
+    "composite": 0.21459381556079962
    }
   },
   "reg-t2-monthly": {
@@ -26,13 +26,13 @@
     "g2_cutoff_resource": true,
     "g3_domain_semantics": true
    },
-   "composite": 0.6723684893380941,
+   "composite": 0.6498607072684922,
    "detail": {
-    "score": 0.6723684893380941,
+    "score": 0.6498607072684922,
     "marginal": 0.8933158850733317,
     "joint": 0.0,
-    "tail": 0.12000000000000005,
-    "composite": 0.6723684893380941
+    "tail": 0.04122276275639351,
+    "composite": 0.6498607072684922
    }
   }
  }

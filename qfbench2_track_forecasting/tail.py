@@ -1,6 +1,16 @@
-"""Track 2's tail term, and the reason there is a choice of two.
+"""Track 2's tail term. The shipped code does not compute the metric the docs describe.
 
-The shipped tail penalty is a COVERAGE statistic:
+`docs/CONCEPTS.md:285` tells participants, with the formula spelled out:
+
+    pinball(y, q_hat, tau) =
+        tau * (y - q_hat)         if y > q_hat
+        (1 - tau) * (q_hat - y)   if y <= q_hat
+
+and `README.md:361` calls the term "Mean pinball loss at the 1st, 5th, 95th, and 99th
+percentiles", promising that "a model that misses a rate shock or macro surprise will pay a
+massive tail penalty". `docs/CONCEPTS.md:451` repeats it in the results glossary.
+
+The code computes something else entirely -- a COVERAGE statistic:
 
     P_tail = sum_a |coverage_a - a|,   coverage_a = mean_d 1{y_d <= Q_a}
 
@@ -22,7 +32,11 @@ Two structural consequences, both measured on the private tree:
 The effect lands hardest on F4, whose stated test *is* tail calibration: the term meant to
 separate those submissions cannot separate them.
 
-`pinball` replaces the indicator with the quantile (pinball) loss, which is proportional to
+None of that is what the participant was promised. "A massive tail penalty" is not something
+coverage can produce: it is bounded by sum(levels) and reaches that bound the moment the
+outermost quantile is crossed at all.
+
+`pinball` is the documented metric, implemented to the documented formula -- proportional to
 the distance by which each quantile is missed:
 
     L_a(y, q) = (a - 1{y < q}) * (y - q)          >= 0, minimised at the true a-quantile
@@ -33,8 +47,8 @@ number and MUST NOT be reused. Regenerate the scales under the same metric that 
 
 Which metric runs is read from the card's `[scoring.params] tail_metric` and reported in the
 verdict detail as `tail_metric`, so a score can always be attributed to the metric that
-produced it. The default is `coverage`, i.e. today's behaviour, until the organizers flip it
-together with a regenerated set of reference scales.
+produced it. The default is `pinball`: the documented metric is the one that should need no
+card to ask for it. `coverage` stays reachable so a pre-change score can be reproduced.
 """
 
 from __future__ import annotations
@@ -45,8 +59,8 @@ import numpy as np
 from numpy.typing import NDArray
 from qfbench2_common.scoring import crps
 
-#: The metric the cards default to: what the competition scores today.
-DEFAULT_TAIL_METRIC = "coverage"
+#: The metric the cards default to. This is the one `docs/CONCEPTS.md` documents.
+DEFAULT_TAIL_METRIC = "pinball"
 
 
 def tail_coverage(
@@ -63,10 +77,15 @@ def tail_coverage(
 def tail_pinball(
     samples: NDArray[np.float64], y: NDArray[np.float64], levels: Sequence[float]
 ) -> float:
-    """Sum over levels of the mean pinball loss at that level. Lower is better.
+    """Mean pinball loss over the (level, cell) pairs. Lower is better.
 
-    Mean over cells (not sum) so the term does not grow with grid size, matching how
-    `crps_marginal` averages its d marginals.
+    A MEAN over levels, not a sum, because that is what the docs call it: "Mean pinball loss at
+    the 1st, 5th, 95th, and 99th percentiles". The two differ by a constant factor of
+    `len(levels)` that `ref_scale.tail` divides straight back out, so it changes no ranking --
+    but the number a participant reads should be the number the sentence describes.
+
+    Mean over cells too, so the term does not grow with grid size, matching how `crps_marginal`
+    averages its d marginals.
     """
     s = np.asarray(samples, dtype=np.float64)
     y = np.asarray(y, dtype=np.float64)
@@ -76,7 +95,7 @@ def tail_pinball(
         # (a - 1{y < q})(y - q): a*(y-q) above the quantile, (1-a)*(q-y) below it.
         loss = np.where(y >= q, a * (y - q), (1.0 - a) * (q - y))
         total += float(np.mean(loss))
-    return total
+    return total / len(tuple(levels))
 
 
 #: name -> metric. `scoring.py` refuses anything not named here rather than falling back.

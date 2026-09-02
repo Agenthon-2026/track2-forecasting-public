@@ -69,6 +69,33 @@ def test_pinball_is_minimised_at_the_true_quantile():
     assert np.all(np.diff(qs.ravel()) >= 0)
 
 
+def test_the_default_is_the_documented_metric():
+    """docs/CONCEPTS.md:285 and README.md:361 both describe pinball. The default must be it."""
+    from qfbench2_track_forecasting.tail import DEFAULT_TAIL_METRIC
+
+    assert DEFAULT_TAIL_METRIC == "pinball"
+
+
+def test_pinball_matches_the_formula_the_docs_give_participants():
+    """`docs/CONCEPTS.md:288-292`, transcribed and evaluated independently.
+
+        pinball(y, q_hat, tau) = tau * (y - q_hat)        if y >  q_hat
+                                 (1 - tau) * (q_hat - y)  if y <= q_hat
+
+    and README.md:361 calls the term the MEAN of those over the four levels.
+    """
+    s, y = _draws(seed=5, d=3), np.array([0.4, -1.7, 2.9])
+    from_docs = []
+    for tau in LEVELS:
+        q_hat = np.quantile(s, tau, axis=0)
+        per_cell = [
+            tau * (yy - qq) if yy > qq else (1 - tau) * (qq - yy)
+            for yy, qq in zip(y, q_hat, strict=True)
+        ]
+        from_docs.append(float(np.mean(per_cell)))
+    assert tail_pinball(s, y, LEVELS) == pytest.approx(float(np.mean(from_docs)), rel=1e-12)
+
+
 def test_unknown_metric_is_refused_not_defaulted():
     from qfbench2_track_forecasting.tail import TAIL_METRICS
 
