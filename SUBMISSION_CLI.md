@@ -146,8 +146,8 @@ model, high enough for real domain adaptation.
    that is the base model's cutoff; declare your adapter's training data separately.
 4. **Pin temperature/seed** where the API supports it. `api`-category entries are verified
    *statistically* (bootstrap-CI overlap on organizer rerun); BYO entries bit-reproducibly.
-5. **Budget (PROVISIONAL — finalized before dev-phase open).** A uniform per-unit budget applies
-   to every submission — provisional figure: **1,000,000 input + 100,000 output tokens per unit**
+5. **Budget (FINAL, ruled 2026-08-28).** A uniform per-unit budget applies
+   to every submission — **1,000,000 input + 100,000 output tokens per unit**
    — enforced via proxy logs and spot audit. It applies to every submission in the same way,
    `api` and BYO alike: a BYO run's calls go to `MODEL_ENDPOINT` too, so there is no locally-run
    path outside the budget.
@@ -232,7 +232,9 @@ everything else to `simulate`. Six of the public dev units (`t3-gbatch-*`) are b
 
 ## Open Division tag
 
-Submissions whose every model call uses the house endpoint exclusively may set
-`house_endpoint_only: true` in `submission.json`. This drives an "Open Division" display
-filter of the single leaderboard (never a separate ranking) and is verified against the
-audited egress-proxy logs during the verification phase.
+Do **not** add `house_endpoint_only` -- or any key the descriptor schema does not list -- to
+`submission.json`: the schema refuses unknown keys, so a submission carrying it is rejected
+before it runs. Whether every model call used the house endpoint exclusively is read from
+the audited egress-proxy logs during the verification phase; it drives an "Open Division"
+display filter of the single leaderboard (never a separate ranking) and needs nothing
+from you.
