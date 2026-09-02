@@ -43,7 +43,7 @@ The canonical panels shipped in `data/` are the ones the harness uses.
 ### Text corpus
 
 Each evaluation card comes with a frozen, time-stamped **text corpus** mounted at `/input/text/`.
-The corpus contains only documents with timestamps on or before the card's as-of date. No document with a date after the as-of date is included — this is enforced by gate g2. Your agent may read the corpus freely; it may not fetch any text or market data from the internet at inference time. The restricted network allows model-API calls only (see the network contract below), and vendor-side tools such as web search and retrieval must be disabled in those calls.
+The corpus contains only documents with timestamps on or before the card's as-of date. No document with a date after the as-of date is included — this is enforced **before publication** by the organizer's staging gates (`cutoff.scan_text_corpus_cutoff`), not by gate g2 at scoring time: the scoring program never sees `/input/text/`. Your agent may read the corpus freely; it may not fetch any text or market data from the internet at inference time. The restricted network allows model-API calls only (see the network contract below), and vendor-side tools such as web search and retrieval must be disabled in those calls.
 
 Typical corpus contents:
 
@@ -545,7 +545,7 @@ Leakage — using information from after the as-of date — is the most common r
 Four rules are enforced by the harness, at three independent levels:
 
 1. **Panel timestamp rule.** Every panel you are handed is truncated at the as-of date **before it is published**: the organizers read every row of every staged panel and refuse the unit if any row is dated after the as-of. There is no runtime interceptor and there never was — earlier revisions of this document described a `LeakageViolation` exception that exists in no repository, and a guard that does not exist is worse than an acknowledged gap, because you would have planned around it. What protects the cutoff is the publication gate, not your process.
-2. **Text corpus timestamp rule.** Gate g2 verifies that every document in the text corpus has a timestamp ≤ the card's as-of date. If any text-corpus entry is dated after the as-of date, the submission fails g2. Your agent may not fetch new text at inference time — the restricted network permits model-API calls only, and vendor-side tools (web search, retrieval) must be disabled.
+2. **Text corpus timestamp rule.** Every document in the text corpus has a timestamp ≤ the card's as-of date; the organizer's staging gates (`cutoff.scan_text_corpus_cutoff`) enforce it before a unit ships, and gate g2 at scoring time binds your declaration to the trusted card and checks the card's own cutoff — it does not rescan the corpus. If any text-corpus entry is dated after the as-of date, the submission fails g2. Your agent may not fetch new text at inference time — the restricted network permits model-API calls only, and vendor-side tools (web search, retrieval) must be disabled.
 3. **No external data at inference time.** The restricted network blocks everything except the audited model-API proxy; every connection is logged and audited. Local smoke runs use `--network=none`, which blocks all network calls outright.
 4. **Weight freeze.** Model weights must be frozen at image build time. The harness records the Docker image digest.
 ### One more rule, and it is not one of the enforced ones

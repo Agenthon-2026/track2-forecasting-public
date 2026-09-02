@@ -74,7 +74,8 @@ notes      = "FRED H.15 constant-maturity par yields. Business-day observations;
 # ---------------------------------------------------------------------------
 # [text] — the frozen, time-stamped text corpus available to the agent.
 # All documents have timestamp <= 2024-06-28 (the as-of date).
-# Gate g2_cutoff_resource verifies this. Agents read from /input/text/ at inference time.
+# Enforced by the organizer's staging gates before the unit ships (g2 binds the declaration to
+# this card; it does not rescan the corpus). Agents read from /input/text/ at inference time.
 # This corpus tests whether the agent applies FOMC language consistently across all
 # yield-curve tenors (the cross-asset reasoning task of family F3).
 # ---------------------------------------------------------------------------

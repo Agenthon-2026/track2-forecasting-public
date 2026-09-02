@@ -16,7 +16,7 @@ This card stresses the **joint/variogram score** (weight 0.3) because the primar
 |---|---|---|---|---|---|---|
 | rates_daily | FRED H.15 | DGS2, DGS5, DGS10, DGS30 | UST_2Y, UST_5Y, UST_10Y, UST_30Y | Business daily | 2000-01-03 | 2024-06-28 |
 
-**Note:** Missing values are forward-filled within a 3-business-day window only. Days with no value for ≥2 series are dropped entirely. The panel file is provided at `/input/rates_daily.parquet` with columns `[date, asset_id, value]`.
+**Note:** Missing values are forward-filled within a 3-business-day window only. Days with no value for ≥2 series are dropped entirely. The panel file is provided at `/input/rates_daily.parquet` with columns `[date, asset, value, panel_id]` (the shape every Track 2 panel uses; `panel_id` is `rates_daily`).
 
 ## As-Of Date
 `2024-06-28` (Friday, end of Q2 2024). All input data has `date <= 2024-06-28`. No observations from 2024-06-29 onward may be used.

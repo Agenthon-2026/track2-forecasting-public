@@ -9,10 +9,11 @@
 | Column | Type | Description |
 |---|---|---|
 | `date` | `date32` | Calendar date of the observation (business days only; no weekends or US federal holidays) |
-| `asset_id` | `string` | Asset identifier: one of `UST_2Y`, `UST_5Y`, `UST_10Y`, `UST_30Y` |
+| `asset` | `string` | Asset identifier: one of `UST_2Y`, `UST_5Y`, `UST_10Y`, `UST_30Y` |
+| `panel_id` | `string` | The panel this row belongs to: always `rates_daily` here |
 | `value` | `float64` | Constant-maturity Treasury par yield in percent per annum (e.g., 4.72 = 4.72% p.a.) |
 
-The file is in long/tidy format: one row per (date, asset_id) pair. For N business days and 4 series the file contains approximately 4N rows.
+The file is in long/tidy format: one row per (date, asset) pair. For N business days and 4 series the file contains approximately 4N rows.
 
 ## Construction
 
