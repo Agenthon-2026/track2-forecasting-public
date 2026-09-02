@@ -337,7 +337,7 @@ intentionally — uses information from after the as-of date.
    `LeakageViolation` that exists in no repository.
 
 2. **Text corpus leakage.** A document in the text corpus has a timestamp after the as-of
-   date. Gate g2 checks every document timestamp in `card.toml [text] cutoff` and in the
+   date. The staging gate `cutoff.scan_text_corpus_cutoff` checks every document timestamp in `card.toml [text] cutoff` and in the
    corpus metadata. A corpus with a document dated after the asof is refused by the organizer's staging gates (`cutoff.scan_text_corpus_cutoff`) before the unit ships; g2 does not rescan it.
    The agent may not fetch new text at inference time — the restricted network (model-API
    proxy only, everything else blocked) enforces this.

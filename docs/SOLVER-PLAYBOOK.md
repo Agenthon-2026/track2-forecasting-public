@@ -31,8 +31,8 @@ Three consequences that dictate everything below:
   it is known. Horizons are in **business days** after the as-of.
 - Read `forecast_spec.json`: target `asset_ids`, `horizons`, `target_type` (`level` vs `log_return`
   — this changes everything downstream), `value_unit`, `n_draws_min`.
-- Confirm no leakage: every panel row and every text timestamp is ≤ as-of. (The harness enforces
-  this at gate g2; a post-as-of document is a disqualification, not a hint.)
+- Confirm no leakage: every panel row and every text timestamp is ≤ as-of. (The staging gates enforce
+  this before the unit ships; a post-as-of document is a disqualification, not a hint.)
 
 ## 2. Read the numbers before the words — build the statistical backbone
 

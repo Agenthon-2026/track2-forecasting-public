@@ -152,8 +152,8 @@ its distribution slightly relative to a model that only extrapolated the numeric
    penalizes both under-confidence and over-confidence.
 5. **Wrong target date.** Horizons are in **business days**, not calendar days.
    21 business days is approximately 1 calendar month but not exactly 21 calendar days.
-6. **Including post-asof text.** Even one document dated after the as-of date will fail gate
-   g2. Always filter the text corpus by date before mounting.
+6. **Including post-asof text.** Even one document dated after the as-of date fails the staging
+   gate (`cutoff.scan_text_corpus_cutoff`). Always filter the text corpus by date before mounting.
 
 ---
 
@@ -316,8 +316,8 @@ recommends >= 500.
   (Shorter than F1/F2 because the dependence structure, not the forecast horizon, is the
   test.) Example: as-of `2024-01-02` → earliest target `2024-02-02`.
 - All target assets must be excluded from the panel after the as-of date.
-- The text corpus contains only documents with timestamps <= as-of date. Gate g2 enforces
-  this. A post-asof FOMC release would constitute leakage if it informed the joint forecast.
+- The text corpus contains only documents with timestamps <= as-of date. The staging gates enforce
+  this before the unit ships. A post-asof FOMC release would constitute leakage if it informed the joint forecast.
 - Derived features (rolling covariance, DCC-GARCH estimates, PCA loadings) must be
   constructed using only data through the as-of date. Post-asof correlation estimates are
   leakage.
