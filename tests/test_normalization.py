@@ -182,3 +182,96 @@ def test_refscale_construction_is_the_validation() -> None:
     assert set(REF_SCALE_COMPONENTS) == {"marginal", "joint", "tail"}
     with pytest.raises(OrganizerFault):
         RefScale(marginal=1.0, joint=0.0, tail=1.0)
+
+
+# --------------------------------------------------------------------------- #
+# The joint component does not exist on a 1-cell grid                          #
+# --------------------------------------------------------------------------- #
+# The variogram is a between-cells statistic, so a 1-cell baseline scores 0 and `0.0` is the
+# CORRECT scale -- which the positivity rule refused, making the correct scale unloadable for 60 of
+# 104 public cards. `load_ref_scale` raises outside the participant try/except, so that was a
+# whole-evaluation abort, not a dropped unit.
+
+
+def test_single_cell_zero_joint_is_the_correct_value_not_a_fault(tmp_path: pathlib.Path) -> None:
+    """The regression. Before `cell_count`, this raised `ref_scale.joint=0.0 is not positive`."""
+    reference = tmp_path / "reference"
+    _write_scale(reference, {"marginal": 0.5, "joint": 0.0, "tail": 0.12})
+    scale = load_ref_scale(reference, cell_count=1)
+    assert scale.joint is None
+    assert scale.as_mapping(joint_weight=0.0) == {"marginal": 0.5, "joint": 1.0, "tail": 0.12}
+
+
+@pytest.mark.parametrize(
+    "payload", [{"marginal": 0.5, "tail": 0.12}, {"marginal": 0.5, "joint": None, "tail": 0.12}]
+)
+def test_single_cell_scale_may_omit_the_joint_component(
+    tmp_path: pathlib.Path, payload: dict[str, object]
+) -> None:
+    reference = tmp_path / "reference"
+    _write_scale(reference, payload)
+    assert load_ref_scale(reference, cell_count=1).joint is None
+
+
+def test_single_cell_positive_joint_is_accepted_and_unused(tmp_path: pathlib.Path) -> None:
+    """The generator writes `1.0` there today; refusing it would fail every existing scale file."""
+    reference = tmp_path / "reference"
+    _write_scale(reference, {"marginal": 0.5, "joint": 1.0, "tail": 0.12})
+    assert load_ref_scale(reference, cell_count=1).joint == 1.0
+
+
+@pytest.mark.parametrize("joint", [0.0, -1.0])
+def test_multi_cell_still_requires_a_positive_joint(tmp_path: pathlib.Path, joint: float) -> None:
+    reference = tmp_path / "reference"
+    _write_scale(reference, {"marginal": 0.5, "joint": joint, "tail": 0.12})
+    with pytest.raises(OrganizerFault):
+        load_ref_scale(reference, cell_count=2)
+
+
+@pytest.mark.parametrize("cell_count", [None, 2])
+def test_an_absent_joint_is_refused_off_the_single_cell_path(
+    tmp_path: pathlib.Path, cell_count: int | None
+) -> None:
+    """`None` means the caller did not say, and a caller that did not say gets the strict rule."""
+    reference = tmp_path / "reference"
+    _write_scale(reference, {"marginal": 0.5, "tail": 0.12})
+    with pytest.raises(OrganizerFault):
+        load_ref_scale(reference, cell_count=cell_count)
+
+
+def test_an_absent_joint_cannot_be_handed_to_a_live_joint_weight() -> None:
+    """The placeholder is reachable only where the composite multiplies it by zero."""
+    scale = RefScale(marginal=0.5, joint=None, tail=0.12)
+    with pytest.raises(OrganizerFault) as exc:
+        scale.as_mapping(joint_weight=0.3)
+    assert "0.3" in str(exc.value)
+
+
+def test_a_single_cell_unit_scores_under_ref_scale_mode(tmp_path: pathlib.Path) -> None:
+    """End to end: the shape that used to abort the evaluation now produces a composite."""
+    import tomllib
+
+    from qfbench2_track_forecasting.scoring import build_verifier
+
+    unit = build_unit(
+        tmp_path / "unit",
+        assets=["SYN-A"],
+        horizons=[1],
+        ref_scale={"marginal": 0.5, "tail": 0.12},
+    )
+    out = build_submission(tmp_path / "out", assets=["SYN-A"], horizons=[1])
+    ctx = {
+        "card": tomllib.loads((unit / "card.toml").read_text(encoding="utf-8")),
+        "unit_dir": unit,
+        "output_dir": out,
+        "normalization_mode": NormalizationMode.REF_SCALE,
+    }
+    verdict = build_verifier(ctx).run(ctx)
+    assert verdict.admissible, verdict.labels
+    assert ctx["ref_scale"].joint is None
+    assert verdict.detail["cell_count"] == 1
+    assert verdict.detail["joint"] == 0.0
+    assert verdict.detail["weights_effective"] == [0.5 / 0.7, 0.0, 0.2 / 0.7]
+    assert verdict.score == pytest.approx(
+        (0.5 / 0.7) * verdict.detail["marginal"] / 0.5 + (0.2 / 0.7) * verdict.detail["tail"] / 0.12
+    )

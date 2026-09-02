@@ -206,9 +206,9 @@ def score_roster(
 
         # Organizer material is resolved FIRST and outside the participant try/except, so a defect
         # in it can never be recorded as a participant failure.
-        ref_scale = load_ref_scale(reference_root, limits=limits)
-        realized = _reference_vector(reference_root, entry, limits)
         spec = grid_from_plan_entry(entry)
+        ref_scale = load_ref_scale(reference_root, cell_count=spec.cell_count, limits=limits)
+        realized = _reference_vector(reference_root, entry, limits)
 
         output_dir = res_root / handle
         ctx: dict[str, Any] = {
