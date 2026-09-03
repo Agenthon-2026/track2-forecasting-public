@@ -37,8 +37,10 @@ are why it was replaced, and they remain true of it wherever it is still selecte
   three values for the default levels, with a non-zero floor. A large share of the roster is
   single-cell, and the single-cell renormalization lifts the tail's live weight from 0.20 to
   0.2857 there.
-* The frozen `ref_scale.tail` denominators are drawn from that same small value set, so under
-  `coverage` the normaliser inherits the degeneracy instead of correcting it.
+* On those same single-cell units the frozen `ref_scale.tail` denominator is drawn from that same
+  three-element set, so under `coverage` the normaliser inherits the degeneracy there instead of
+  correcting it. This is a property of the single-cell case specifically: a multi-cell unit's
+  coverage values, and so its denominator, come from a larger set.
 
   (Stated structurally and without the distribution. `ref_scale.tail` is derived from the
   reference forecast's realized outcome, which `normalization.py:33` already documents as
