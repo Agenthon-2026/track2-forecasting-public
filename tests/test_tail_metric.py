@@ -1,8 +1,10 @@
-"""The tail term is selectable, and the default arm is byte-identical to the shared toolkit.
+"""The tail term is selectable; the default is pinball, and the coverage arm stays exact.
 
-The point of the control below: `scoring._composite` replaced a direct call to
-`crps.crps_composite`, so the default path must be provably the same function. Without it, a
-change meant to add an option could silently move every score.
+Two controls. `scoring._composite` replaced a direct call to `crps.crps_composite`, so the
+`coverage` arm must be provably the same function -- a card that asks for the shared behaviour
+gets it unchanged. And the default must be the documented metric AND the documented function:
+a label that still says "pinball" while the table points at the coverage arm would pass a
+name-only test and move every score.
 """
 
 from __future__ import annotations
@@ -24,7 +26,7 @@ def _draws(seed: int = 0, m: int = 500, d: int = 4) -> np.ndarray:
 @pytest.mark.parametrize("joint", ["variogram", "energy"])
 @pytest.mark.parametrize("ref", [None, {"marginal": 0.8, "joint": 0.01, "tail": 0.5}])
 def test_coverage_arm_reproduces_the_shared_composite_exactly(joint, ref):
-    """The control: the default metric must not move a single score."""
+    """The control: the retained coverage arm must not move a single score."""
     s, y = _draws(), np.array([0.3, -1.2, 2.4, 0.0])
     mine = scoring._composite(
         s,
@@ -102,3 +104,32 @@ def test_unknown_metric_is_refused_not_defaulted():
     assert set(TAIL_METRICS) == {"coverage", "pinball"}
     with pytest.raises(KeyError):
         TAIL_METRICS["quantile"]
+
+
+def test_the_pinball_label_is_bound_to_the_pinball_function():
+    """A mutation that kept the name and rewired the table to the coverage arm passed every unit
+    test before this existed (measured 2026-09-03); only the regression suite caught it."""
+    from qfbench2_track_forecasting import tail
+
+    assert tail.TAIL_METRICS[tail.DEFAULT_TAIL_METRIC] is tail.tail_pinball
+    assert tail.TAIL_METRICS["coverage"] is tail.tail_coverage
+
+
+def test_the_default_arm_moves_the_composite_off_the_coverage_number():
+    """Same control at the arithmetic: the default composite differs from the coverage composite
+    on fixed draws, and the difference is entirely the tail term."""
+    from qfbench2_track_forecasting import tail
+
+    s, y = _draws(), np.array([0.3, -1.2, 2.4, 0.0])
+    kw = dict(
+        weights=(0.5, 0.3, 0.2),
+        tail_levels=(0.01, 0.05, 0.95, 0.99),
+        joint="variogram",
+        ref_scale=None,
+    )
+    default = scoring._composite(s, y, tail_metric=tail.DEFAULT_TAIL_METRIC, **kw)
+    coverage = scoring._composite(s, y, tail_metric="coverage", **kw)
+    assert default["tail"] != coverage["tail"]
+    assert default["marginal"] == coverage["marginal"]
+    assert default["joint"] == coverage["joint"]
+    assert default["composite"] != coverage["composite"]

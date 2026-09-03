@@ -429,11 +429,11 @@ which it always does:
   "failure_labels": [],
   "normalization_mode": "raw_unrankable",
   "rankable": false,
-  "marginal_crps": 0.03404892146955248,
-  "joint_variogram": 0.09275650421885016,
-  "tail_penalty": 0.06635287209486329,
+  "marginal_crps": 0.15974256368939124,
+  "joint_variogram": 0.37771455294457157,
+  "tail_penalty": 0.03721824163617158,
   "tail_metric": "pinball",
-  "composite_score": 0.0688514120004313,
+  "composite_score": 0.2006292960553014,
   "n_draws": 500,
   "cell_count": 4
 }

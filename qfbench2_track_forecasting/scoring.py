@@ -407,9 +407,10 @@ def _composite(
 
     Track 2 is the only track that scores with `crps` (0 hits for it in the other three public
     repos), but the composite lives in the SHARED toolkit, so the tail metric is chosen here
-    rather than there -- this change reaches no other track. `tests/test_tail_metric.py` asserts
-    that the `coverage` arm reproduces `crps.crps_composite` exactly, so the default path cannot
-    drift from the shared implementation it replaces.
+    rather than there -- this change reaches no other track. The default arm is `pinball`, the
+    metric the docs describe; `tests/test_tail_metric.py` pins the default to that function and
+    asserts that the retained `coverage` arm still reproduces `crps.crps_composite` exactly, so a
+    card that asks for the shared behaviour gets it unchanged.
     """
     w_m, w_j, w_t = weights
     marg = crps.crps_marginal(samples, y)
