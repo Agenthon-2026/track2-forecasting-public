@@ -65,8 +65,8 @@ REF_SCALE_COMPONENTS: tuple[str, ...] = ("marginal", "joint", "tail")
 
 #: Required on every grid shape. `joint` is excluded: the variogram is a between-cells statistic, so
 #: on a 1-cell grid it is 0 by construction, making `0.0` the CORRECT scale — which the positivity
-#: rule below refuses. That made the correct scale unloadable for 60 of 104 public cards (private:
-#: 40/71 validation, 38/123 test), and `load_ref_scale` raises outside the participant try/except,
+#: rule below refuses. That made the correct scale unloadable for 60 of 104 public cards, and
+#: `load_ref_scale` raises outside the participant try/except,
 #: aborting the whole evaluation. See `load_ref_scale`.
 REF_SCALE_ALWAYS_REQUIRED: tuple[str, ...] = ("marginal", "tail")
 
@@ -76,8 +76,8 @@ REF_SCALE_ALWAYS_REQUIRED: tuple[str, ...] = ("marginal", "tail")
 _JOINT_PLACEHOLDER = 1.0
 
 #: Keys the generator writes for provenance and the metric never reads. Named as a CLOSED set
-#: rather than tolerated by a wildcard: every one of the 114 scale files in the private tree
-#: carries all three, so refusing them outright would fail every legitimate unit — and a gate that
+#: rather than tolerated by a wildcard: every scale file the generator has written carries all
+#: three, so refusing them outright would fail every legitimate unit — and a gate that
 #: rejects the legitimate case makes every rejection beside it uninterpretable. Anything outside
 #: the union of these and `REF_SCALE_COMPONENTS` is still refused.
 REF_SCALE_PROVENANCE_KEYS: tuple[str, ...] = ("method", "seed", "generated")

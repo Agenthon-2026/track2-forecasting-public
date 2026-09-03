@@ -29,7 +29,7 @@ about *how the number was produced* rather than about the roster:
 
 1. **Mixed normalization is refused.** A raw composite and a `ref_scale`-normalized composite are
    different quantities on different scales; averaging them yields a leaderboard whose ordering
-   depends on which units happened to carry a scale file. Today 114 of 226 units have one, so the
+   depends on which units happened to carry a scale file. Today only some units have one, so the
    mix is latent rather than live — and it arms the moment the backfill runs.
 2. **A card-derived grid cannot be ranked.** `grid_source` must be `"plan"` for every scored row.
    The card travels inside the participant mount; a ranked score graded against it is graded

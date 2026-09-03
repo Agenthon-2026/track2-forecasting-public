@@ -377,7 +377,13 @@ value of text within your own system.
 ### Running the scorer locally
 
 ```bash
+# 1. The shared toolkit, pinned.
 pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+
+# 2. This track's package, from the repository root. Without it neither the reference CLI nor
+#    the smoke scorer can import `qfbench2_track_forecasting`, and both stop at an ImportError
+#    before they parse a single argument. It also brings in pandas and pyarrow.
+pip install .
 
 # Gates only -- this is what a participant can run. Realized outcomes are sealed and are
 # NOT shipped in this repository, so there is no --realized file to point at locally.
@@ -448,14 +454,21 @@ and it is not the `unit_id` your `forecast_meta.json` must declare.
 
 ## Smoke scorer (quick sanity check)
 
-Run the smoke scorer before the full end-to-end test:
+Run the smoke scorer before the full end-to-end test. It needs both installs from
+[Running the scorer locally](#running-the-scorer-locally) — the toolkit **and** `pip install .`
+for this repository:
 
 ```bash
-qfbench2-smoke units/t2-EXAMPLE-ust-curve-1m/ output/ --track forecasting
+qfbench2-smoke units/t2-EXAMPLE-ust-curve-1m/ out/ --track forecasting
 ```
 
 This runs admissibility gates g0–g3 without requiring realized outcomes. A green smoke run
 means your submission will not DNF on structural grounds.
+
+The output directory is `out/`, which is where the reference CLI above writes. Pointing it at a
+directory nothing has written — `output/`, as this line used to read — reports
+`admissible=False labels=['shared.schema.invalid_output']` and creates nothing, which looks like
+a failing submission rather than a mistyped path.
 
 ---
 
@@ -510,6 +523,10 @@ repository that publishes it, `Agenthon-2026/Agenthon2026-public`:
 ```bash
 pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
 ```
+
+The toolkit is half of what you need. Running the scorer or the exemplar also requires this
+repository itself — `pip install .` from the repository root — which is what brings in pandas and
+the rest. See the Quick-start checklist, step 0.
 
 **Pin the tag, and pin this one.** `v2.3.1` is the first toolkit release that carries
 `qfbench2_common.contracts`, which `qfbench2_track_forecasting.scoring` imports at module scope —
@@ -594,7 +611,8 @@ is finalized, rather than treating one clean result as settled.
 
 The current run: **0 exposed**, pooling all 146,692 `(asset, date, value)` rows from every
 published panel against every sealed answer that exists today. The honest scope of that number is
-that only **12 of the 123** sealed units have a resolved outcome yet; the rest resolve in the
+that only a small fraction of the sealed units have a resolved outcome yet; the rest resolve in
+the
 future and cannot be checked until they do. The re-run before the Final bundle is the one that
 covers them, and it is the run that matters. So a lookup table built from the
 practice data is worth exactly zero on it, and the Final phase gives you one submission to discover
@@ -644,6 +662,13 @@ component of Track 2 measures hardware ([docs/NVIDIA-STACK.md](docs/NVIDIA-STACK
 
 ## Quick-start checklist
 
+0. **Install both packages first.** The toolkit alone is not enough — this repository's own
+   dependencies (pandas among them) come from `pip install .`, and without it step 3 fails with
+   `ModuleNotFoundError: No module named 'pandas'`:
+   ```bash
+   pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+   pip install .
+   ```
 1. Read `docs/CONCEPTS.md` — understand CRPS, variogram, tail penalty, text uplift, and leakage.
 2. Read `docs/CATEGORIES.md` — understand what each card family (F1–F4) tests and the role of text in each.
 3. Run the exemplar end-to-end:

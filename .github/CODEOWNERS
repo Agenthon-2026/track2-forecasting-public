@@ -1,20 +1,11 @@
 # CODEOWNERS — Track 2 public repository
 #
-# ## Status: PROPOSAL, and inert until the org plan permits enforcement
+# ## Status: PROPOSAL, not a live gate
 #
-# Measured read-only against the GitHub API on 2026-08-21: `orgs/Agenthon-2026` reports
-# `plan: free`, this repository is private, and `repos/.../branches/main/protection` and
-# `repos/.../rulesets` both return **HTTP 403 "Upgrade to GitHub Pro or make this repository
-# public"**. Required reviews and required checks are not merely unconfigured here — on this plan
-# they are unavailable.
-#
-# This file is committed anyway because it is correct and costs nothing: it takes effect the moment
-# the plan permits, with no second change needed. AGENTS.md has been corrected to say that the
-# review rule is a project rule rather than an enforced control.
-#
-# Activating enforcement (branch protection, required reviews, required checks) is a governance
-# action for the named human owner. No repository file can do it and no coding agent may mark it
-# done.
+# Committed because it is correct and costs nothing: it takes effect the moment required reviews
+# are turned on, with no second change needed. Until then the review rule is a project rule, as
+# AGENTS.md says. Activating enforcement is a governance action for the named human owner; no
+# repository file and no coding agent can do it or mark it done.
 
 *                                     @Agenthon-2026/track2-leads
 
