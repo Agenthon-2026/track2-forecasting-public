@@ -20,16 +20,10 @@ contract and submission categories"). Local smoke runs use `--network=none`.
 Koutsoyannis. Every pull request to this repository must be reviewed and approved by Polak
 before it merges.
 
-> **Status of that rule, measured 2026-08-21.** It is a project rule, not an enforced control.
-> `.github/CODEOWNERS` exists in this repository as a *proposal* and is inert: read-only against
-> the GitHub API, `orgs/Agenthon-2026` reports `plan: free`, this repository is private, and both
-> `branches/main/protection` and `rulesets` return **HTTP 403 "Upgrade to GitHub Pro or make this
-> repository public"**. Required reviews and required checks are therefore not merely
-> unconfigured — on this plan they are unavailable. This file used to say the rule was "enforced
-> via CODEOWNERS + branch protection", and a documented control that does not exist is worse than
-> an acknowledged gap, because everyone downstream plans around it. Activating enforcement is a
-> governance action for the named human owner; no repository file and no coding agent can do it or
-> mark it done.
+> **Status of that rule.** It is a project rule, not an enforced control, and `.github/CODEOWNERS`
+> is a proposal rather than a live gate. This file used to claim the rule was "enforced via
+> CODEOWNERS + branch protection"; a documented control that does not exist is worse than an
+> acknowledged gap, because everyone downstream plans around it.
 
 Read `Agenthon-2026/Agenthon2026-public`, file `AGENTS.md` first: it covers the shared
 `qfbench2-common` toolkit and the local gate loop every track uses.
