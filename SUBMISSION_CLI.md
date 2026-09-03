@@ -145,7 +145,8 @@ model, high enough for real domain adaptation.
    submission metadata (`models[].training_cutoff` in `submission.json`). For a BYO submission
    that is the base model's cutoff; declare your adapter's training data separately.
 4. **Pin temperature/seed** where the API supports it. `api`-category entries are verified
-   *statistically* (bootstrap-CI overlap on organizer rerun); BYO entries bit-reproducibly.
+   *statistically* (bootstrap-CI overlap on organizer rerun for T2/T3/T4; for T1, the single-pass
+   per-unit verdicts must agree exactly); BYO entries bit-reproducibly.
 5. **Budget (FINAL, ruled 2026-08-28).** A uniform per-unit budget applies
    to every submission — **1,000,000 input + 100,000 output tokens per unit**
    — enforced via proxy logs and spot audit. It applies to every submission in the same way,
