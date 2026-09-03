@@ -459,11 +459,16 @@ Run the smoke scorer before the full end-to-end test. It needs both installs fro
 for this repository:
 
 ```bash
-qfbench2-smoke units/t2-EXAMPLE-ust-curve-1m/ output/ --track forecasting
+qfbench2-smoke units/t2-EXAMPLE-ust-curve-1m/ out/ --track forecasting
 ```
 
 This runs admissibility gates g0–g3 without requiring realized outcomes. A green smoke run
 means your submission will not DNF on structural grounds.
+
+The output directory is `out/`, which is where the reference CLI above writes. Pointing it at a
+directory nothing has written — `output/`, as this line used to read — reports
+`admissible=False labels=['shared.schema.invalid_output']` and creates nothing, which looks like
+a failing submission rather than a mistyped path.
 
 ---
 
@@ -518,6 +523,10 @@ repository that publishes it, `Agenthon-2026/Agenthon2026-public`:
 ```bash
 pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
 ```
+
+The toolkit is half of what you need. Running the scorer or the exemplar also requires this
+repository itself — `pip install .` from the repository root — which is what brings in pandas and
+the rest. See the Quick-start checklist, step 0.
 
 **Pin the tag, and pin this one.** `v2.3.1` is the first toolkit release that carries
 `qfbench2_common.contracts`, which `qfbench2_track_forecasting.scoring` imports at module scope —
@@ -652,6 +661,13 @@ component of Track 2 measures hardware ([docs/NVIDIA-STACK.md](docs/NVIDIA-STACK
 
 ## Quick-start checklist
 
+0. **Install both packages first.** The toolkit alone is not enough — this repository's own
+   dependencies (pandas among them) come from `pip install .`, and without it step 3 fails with
+   `ModuleNotFoundError: No module named 'pandas'`:
+   ```bash
+   pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+   pip install .
+   ```
 1. Read `docs/CONCEPTS.md` — understand CRPS, variogram, tail penalty, text uplift, and leakage.
 2. Read `docs/CATEGORIES.md` — understand what each card family (F1–F4) tests and the role of text in each.
 3. Run the exemplar end-to-end:

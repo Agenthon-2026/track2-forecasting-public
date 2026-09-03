@@ -1,4 +1,13 @@
-"""Track 2's tail term. The shipped code does not compute the metric the docs describe.
+"""Track 2's tail term, and the record of a defect that is now FIXED.
+
+For a period the shipped code did not compute the metric the docs describe. It does now:
+`pinball` is the default, none of the 104 shipped cards overrides it, and
+`tests/test_tail_metric.py` pins the default to that function. A submission scored today is
+scored by the metric `docs/CONCEPTS.md:285` spells out.
+
+The history below is kept rather than deleted, because two things outlive the fix: the
+`coverage` arm is still reachable, and a `ref_scale` generated under it is still invalid for
+scoring under `pinball` (see the regeneration note at the end). Read it in the past tense.
 
 `docs/CONCEPTS.md:285` tells participants, with the formula spelled out:
 
@@ -10,7 +19,8 @@ and `README.md:361` calls the term "Mean pinball loss at the 1st, 5th, 95th, and
 percentiles", promising that "a model that misses a rate shock or macro surprise will pay a
 massive tail penalty". `docs/CONCEPTS.md:451` repeats it in the results glossary.
 
-The code computes something else entirely -- a COVERAGE statistic:
+The code USED TO compute something else entirely -- a COVERAGE statistic, still reachable
+today as the `coverage` arm:
 
     P_tail = sum_a |coverage_a - a|,   coverage_a = mean_d 1{y_d <= Q_a}
 
@@ -20,25 +30,26 @@ identically -- measured, both 2.000000, while the marginal CRPS over the same ra
 from 1.68 to 101.67. The term saturates at `sum(levels)` the instant the outermost quantile
 is crossed.
 
-Two structural consequences, both measured on the private tree:
+Two structural consequences OF THE COVERAGE ARM, both measured on the private tree. They
+are why it was replaced, and they remain true of it wherever it is still selected:
 
 * On a **1-cell grid** `coverage_a` can only be 0 or 1, so the whole term collapses to one of
   three values for the default levels, with a non-zero floor. A large share of the roster is
   single-cell, and the single-cell renormalization lifts the tail's live weight from 0.20 to
   0.2857 there.
-* The frozen `ref_scale.tail` denominators concentrate heavily on that floor and that ceiling, so
-  the normaliser is itself close to a degenerate quantity.
+* The frozen `ref_scale.tail` denominators are drawn from that same small value set, so under
+  `coverage` the normaliser inherits the degeneracy instead of correcting it.
 
-  (Deliberately stated without the counts. `ref_scale.tail` is derived from the reference
-  forecast's realized outcome -- the floor means it landed inside the interval, the ceiling means
-  it missed every quantile -- so publishing how the denominators are distributed would leak the
-  shape of sealed answers across the roster. The argument here needs the term's structure, not
-  the census.)
+  (Stated structurally and without the distribution. `ref_scale.tail` is derived from the
+  reference forecast's realized outcome, which `normalization.py:33` already documents as
+  answer-equivalent, so any description of how those denominators are spread would leak the
+  shape of sealed answers across the roster. The argument needs the term's structure, and the
+  structure is enough.)
 
 The effect lands hardest on F4, whose stated test *is* tail calibration: the term meant to
 separate those submissions cannot separate them.
 
-None of that is what the participant was promised. "A massive tail penalty" is not something
+None of that was what the participant was promised. "A massive tail penalty" is not something
 coverage can produce: it is bounded by sum(levels) and reaches that bound the moment the
 outermost quantile is crossed at all.
 
