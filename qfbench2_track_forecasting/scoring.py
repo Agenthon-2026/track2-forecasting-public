@@ -72,6 +72,7 @@ from .limits import (
     stat_regular_file,
 )
 from .normalization import NormalizationMode, RefScale, load_ref_scale
+from .tail import DEFAULT_TAIL_METRIC, TAIL_METRICS
 
 __all__ = [
     "ACCEPTED_REPRESENTATIONS",
@@ -392,6 +393,46 @@ def _g3_domain_semantics(ctx: dict[str, Any]) -> GateResult:
 # --------------------------------------------------------------------------------------------
 
 
+def _composite(
+    samples: NDArray[np.float64],
+    y: NDArray[np.float64],
+    *,
+    weights: tuple[float, float, float],
+    tail_levels: tuple[float, ...],
+    joint: str,
+    tail_metric: str,
+    ref_scale: dict[str, float] | None,
+) -> dict[str, float]:
+    """The Track 2 composite. Same shape as `crps.crps_composite`, with the tail term selectable.
+
+    Track 2 is the only track that scores with `crps` (0 hits for it in the other three public
+    repos), but the composite lives in the SHARED toolkit, so the tail metric is chosen here
+    rather than there -- this change reaches no other track. The default arm is `pinball`, the
+    metric the docs describe; `tests/test_tail_metric.py` pins the default to that function and
+    asserts that the retained `coverage` arm still reproduces `crps.crps_composite` exactly, so a
+    card that asks for the shared behaviour gets it unchanged.
+    """
+    w_m, w_j, w_t = weights
+    marg = crps.crps_marginal(samples, y)
+    if joint == "energy":
+        jnt = crps.energy_score(samples, y)
+    elif joint == "variogram":
+        jnt = crps.variogram_score(samples, y, p=0.5)
+    else:
+        raise ValueError(f"unknown joint score '{joint}'")
+    tail = TAIL_METRICS[tail_metric](samples, y, tail_levels)
+
+    m_n = marg / ref_scale["marginal"] if ref_scale else marg
+    j_n = jnt / ref_scale["joint"] if ref_scale else jnt
+    t_n = tail / ref_scale["tail"] if (ref_scale and "tail" in ref_scale) else tail
+    return {
+        "marginal": marg,
+        "joint": jnt,
+        "tail": tail,
+        "composite": float(w_m * m_n + w_j * j_n + w_t * t_n),
+    }
+
+
 def _score(ctx: dict[str, Any]) -> dict[str, Any]:
     """Compute the composite. A scorable unit with no realized outcome is an organizer fault.
 
@@ -432,6 +473,13 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
         )
 
     params = ctx["card"].get("scoring", {}).get("params", {})
+    tail_metric = str(params.get("tail_metric", DEFAULT_TAIL_METRIC))
+    if tail_metric not in TAIL_METRICS:
+        raise organizer_fault(
+            f"[{ctx['unit_handle']}] card [scoring.params] tail_metric={tail_metric!r} is not one "
+            f"of {sorted(TAIL_METRICS)}; refusing rather than falling back to a metric the card "
+            "did not ask for"
+        )
     weights = params.get("weights", {"marginal": 0.5, "joint": 0.3, "tail": 0.2})
     try:
         weight_tuple = (
@@ -478,12 +526,13 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
             "normalization mode is 'ref_scale' and no scale is loaded; there is no raw fallback"
         )
 
-    out = crps.crps_composite(
+    out = _composite(
         samples,
         y,
         weights=weight_tuple,
         tail_levels=tuple(params.get("tail_levels", (0.01, 0.05, 0.95, 0.99))),
         joint=params.get("joint", "variogram"),
+        tail_metric=tail_metric,
         ref_scale=(
             ref_scale.as_mapping(joint_weight=weight_tuple[1]) if ref_scale is not None else None
         ),
@@ -502,6 +551,7 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
         "grid_source": ctx["grid_source"],
         "cell_count": spec.cell_count,
         "rank_group": "single" if spec.cell_count == 1 else "multi",
+        "tail_metric": tail_metric,
         "weights_effective": [float(w) for w in weight_tuple],
         "n_draws": int(samples.shape[0]),
         **{k: float(v) for k, v in out.items()},
@@ -602,6 +652,10 @@ def _cmd_score(args: argparse.Namespace) -> int:
                 "marginal_crps": detail["marginal"],
                 "joint_variogram": detail["joint"],
                 "tail_penalty": detail["tail"],
+                # Which metric produced that number. `tail_penalty` alone is ambiguous: coverage
+                # and pinball are different quantities on different scales, and a score a
+                # participant cannot attribute to a metric is a score they cannot check.
+                "tail_metric": detail["tail_metric"],
                 "composite_score": detail["composite"],
                 "n_draws": detail["n_draws"],
                 "cell_count": detail["cell_count"],
