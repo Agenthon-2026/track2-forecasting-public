@@ -377,7 +377,13 @@ value of text within your own system.
 ### Running the scorer locally
 
 ```bash
+# 1. The shared toolkit, pinned.
 pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.3.1#subdirectory=common"
+
+# 2. This track's package, from the repository root. Without it neither the reference CLI nor
+#    the smoke scorer can import `qfbench2_track_forecasting`, and both stop at an ImportError
+#    before they parse a single argument. It also brings in pandas and pyarrow.
+pip install .
 
 # Gates only -- this is what a participant can run. Realized outcomes are sealed and are
 # NOT shipped in this repository, so there is no --realized file to point at locally.
@@ -448,7 +454,9 @@ and it is not the `unit_id` your `forecast_meta.json` must declare.
 
 ## Smoke scorer (quick sanity check)
 
-Run the smoke scorer before the full end-to-end test:
+Run the smoke scorer before the full end-to-end test. It needs both installs from
+[Running the scorer locally](#running-the-scorer-locally) — the toolkit **and** `pip install .`
+for this repository:
 
 ```bash
 qfbench2-smoke units/t2-EXAMPLE-ust-curve-1m/ output/ --track forecasting

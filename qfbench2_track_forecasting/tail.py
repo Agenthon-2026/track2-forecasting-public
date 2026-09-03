@@ -22,12 +22,18 @@ is crossed.
 
 Two structural consequences, both measured on the private tree:
 
-* On a **1-cell grid** `coverage_a` can only be 0 or 1, so the whole term takes one of three
-  values -- {0.12, 1.02, 2.00} for the default levels -- and its floor is 0.12, never 0. More
-  than half the roster is single-cell (40 of 71 validation, 38 of 123 private-test), and the
-  single-cell renormalization lifts the tail's live weight from 0.20 to 0.2857 there.
-* 79% of the frozen `ref_scale.tail` denominators are already at that floor or that ceiling
-  (64 of 115 at 0.12, 26 at 2.0), so the normaliser is itself a degenerate quantity.
+* On a **1-cell grid** `coverage_a` can only be 0 or 1, so the whole term collapses to one of
+  three values for the default levels, with a non-zero floor. A large share of the roster is
+  single-cell, and the single-cell renormalization lifts the tail's live weight from 0.20 to
+  0.2857 there.
+* The frozen `ref_scale.tail` denominators concentrate heavily on that floor and that ceiling, so
+  the normaliser is itself close to a degenerate quantity.
+
+  (Deliberately stated without the counts. `ref_scale.tail` is derived from the reference
+  forecast's realized outcome -- the floor means it landed inside the interval, the ceiling means
+  it missed every quantile -- so publishing how the denominators are distributed would leak the
+  shape of sealed answers across the roster. The argument here needs the term's structure, not
+  the census.)
 
 The effect lands hardest on F4, whose stated test *is* tail calibration: the term meant to
 separate those submissions cannot separate them.
