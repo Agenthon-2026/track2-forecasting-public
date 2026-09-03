@@ -496,9 +496,10 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
     # The variogram is a between-cells statistic: on a 1-cell grid it is 0 by construction,
     # not by merit, so its weight deflates the composite and the documented anchor breaks --
     # the frozen baseline lands at exactly w_m + w_t = 0.7 instead of the 1.0 that
-    # SCORING-AGGREGATION.md promises. Measured across the private tree: 40 of 71 validation
-    # units and 38 of 123 private-test units are single-cell, so the leaderboard mean was
-    # averaging two different scales. On a 1-cell grid the live weights are renormalized over
+    # SCORING-AGGREGATION.md promises. Measured across both splits, single-cell units are a
+    # large minority of each -- enough that the leaderboard mean was averaging two different
+    # scales rather than hitting an edge case. (Stated as a proportion, not a census: the counts
+    # that were here gave the size of each sealed split.) On a 1-cell grid the live weights are renormalized over
     # the components that structurally exist ((0.5, 0.3, 0.2) -> (0.714286, 0, 0.285714));
     # every multi-cell unit is byte-identical.
     #

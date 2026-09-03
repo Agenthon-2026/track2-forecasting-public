@@ -79,7 +79,7 @@ def test_unknown_key_in_the_scale_is_refused(tmp_path: pathlib.Path) -> None:
 def test_positive_control_the_generator_shape_loads(tmp_path: pathlib.Path) -> None:
     """`build_ref_scales.py` writes `method`, `seed` and `generated` beside the three components.
 
-    All 114 scale files in the private tree carry them. A loader that refused them would reject
+    Every scale file the generator has written carries them. A loader that refused them would reject
     every legitimate unit, and a gate that rejects the legitimate case makes every rejection
     beside it uninterpretable.
     """
