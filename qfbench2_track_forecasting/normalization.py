@@ -65,9 +65,8 @@ REF_SCALE_COMPONENTS: tuple[str, ...] = ("marginal", "joint", "tail")
 
 #: Required on every grid shape. `joint` is excluded: the variogram is a between-cells statistic, so
 #: on a 1-cell grid it is 0 by construction, making `0.0` the CORRECT scale — which the positivity
-#: rule below refuses. That made the correct scale unloadable for 60 of 104 public cards, and a
-#: comparable share on each sealed split, and `load_ref_scale` raises outside the participant
-#: try/except,
+#: rule below refuses. That made the correct scale unloadable for 60 of 104 public cards, and
+#: `load_ref_scale` raises outside the participant try/except,
 #: aborting the whole evaluation. See `load_ref_scale`.
 REF_SCALE_ALWAYS_REQUIRED: tuple[str, ...] = ("marginal", "tail")
 

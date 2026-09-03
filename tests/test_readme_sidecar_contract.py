@@ -13,7 +13,7 @@ all. Measured against `units/t2-EXAMPLE-ust-curve-1m/card.toml`:
                                         against 't2-EXAMPLE-ust-curve-1m'
     with unit_id instead             -> ADMISSIBLE
 
-That is 226 of 226 ranked units failing g1 for a correct forecast, so it is not a typo class of
+That is EVERY ranked unit failing g1 for a correct forecast, so it is not a typo class of
 defect -- it is a total DNF for anyone who trusted the documentation.
 
 The tests below read the example out of the README rather than restating it, because a test that
