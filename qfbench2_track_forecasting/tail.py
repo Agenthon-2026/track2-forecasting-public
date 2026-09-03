@@ -34,7 +34,7 @@ Two structural consequences OF THE COVERAGE ARM, both measured on the private tr
 are why it was replaced, and they remain true of it wherever it is still selected:
 
 * On a **1-cell grid** `coverage_a` can only be 0 or 1, so the whole term collapses to one of
-  three values for the default levels, with a non-zero floor. A large share of the roster is
+  three values for the default levels, with a non-zero floor. A large share of the SHIPPED cards is
   single-cell, and the single-cell renormalization lifts the tail's live weight from 0.20 to
   0.2857 there.
 * On those same single-cell units the frozen `ref_scale.tail` denominator is drawn from that same

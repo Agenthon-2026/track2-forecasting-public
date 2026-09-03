@@ -1,7 +1,7 @@
 """T2-7: a rankable unit without a complete positive finite scale is an ORGANIZER failure.
 
-Two faults, both armed and both latent because today's 114 units that have a scale are
-exactly the 114 that have an answer:
+Two faults, both armed and both latent because today every unit that has a scale is exactly a
+unit that has an answer:
 
 * a partial scale (`{"tail": 1.0}`) raised an **uncaught `KeyError: 'marginal'`** out of the
   scorer, because `crps_composite` indexes `ref_scale["marginal"]` unconditionally whenever the
