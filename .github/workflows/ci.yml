@@ -32,10 +32,13 @@ permissions:
   contents: read
 
 env:
-  # The toolkit release this repository is built and tested against. `v2.3.1` is the first tag
-  # carrying `qfbench2_common.contracts`; earlier tags predate it. Keep this a TAG, never a
-  # branch — a floating ref lets a local result and a scored result diverge with no diff.
-  TOOLKIT_TAG: v2.3.1
+  # The toolkit release this repository is built and tested against, and the SINGLE place this
+  # workflow names one -- every install below reads it, so the jobs cannot drift from each other
+  # or from this line. It must also stay the string the README pins: v2.3.1 refuses a descriptor
+  # the evaluation verifier accepts (it demands a non-empty `models`), so testing against it made
+  # a green build mean nothing. Keep this a TAG, never a branch -- a floating ref lets a local
+  # result and a scored result diverge with no diff.
+  TOOLKIT_TAG: v2.4.0
 
 jobs:
   # Runs FIRST and installs nothing at all, so it still runs when the toolkit install breaks.
@@ -73,7 +76,7 @@ jobs:
           # qfbench2-common; if a pinned-and-ageing type checker stops parsing it, pin numpy here
           # too rather than pinning mypy further back.
           pip install "ruff==0.4.7" "mypy==1.19.1"
-          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.4.0#subdirectory=common"
+          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@${{ env.TOOLKIT_TAG }}#subdirectory=common"
       - name: Confirm the toolkit is importable
         # The job used to gate on a private token. It no longer needs one -- the toolkit
         # installs from its public repository -- but the discipline the old guard encoded
@@ -108,7 +111,7 @@ jobs:
       - name: Install pinned dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.4.0#subdirectory=common"
+          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@${{ env.TOOLKIT_TAG }}#subdirectory=common"
           pip install -e ".[test]"
       - name: Confirm the toolkit is importable
         # The job used to gate on a private token. It no longer needs one -- the toolkit
@@ -161,7 +164,7 @@ jobs:
       - name: Install pinned shared toolkit
         run: |
           python -m pip install --upgrade pip
-          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@v2.4.0#subdirectory=common"
+          pip install "qfbench2-common @ git+https://github.com/Agenthon-2026/Agenthon2026-public.git@${{ env.TOOLKIT_TAG }}#subdirectory=common"
       - name: Confirm the toolkit is importable
         # The job used to gate on a private token. It no longer needs one -- the toolkit
         # installs from its public repository -- but the discipline the old guard encoded
