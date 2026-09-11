@@ -718,7 +718,7 @@ if __name__ == "__main__":
     raise SystemExit(_main())
 
 
-def scorer_identity() -> dict:
+def scorer_identity() -> dict[str, str]:
     """The provenance block an entrypoint stamps onto its output.
 
     This is what a participant resolves when asking which revision scored them. It is deliberately

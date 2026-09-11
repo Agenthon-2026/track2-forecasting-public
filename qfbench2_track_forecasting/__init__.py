@@ -9,10 +9,11 @@ and `qfbench2 smoke ... --track forecasting`) can import it. All evaluation math
 comes from `qfbench2_common` — this is a track-specific wrapper only.
 """
 
-__version__ = "2.0.0"
+from .scoring import SCORER_VERSION, scorer_identity
 
-# The shared scorer version (see scoring.SCORER_VERSION). Re-exported so a
-# participant can read it without importing the scoring module.
-from .scoring import SCORER_VERSION, scorer_identity  # noqa: E402
+__all__ = ["SCORER_VERSION", "scorer_identity"]
 
+# The shared scorer version (see scoring.SCORER_VERSION), so a participant can read it
+# without importing the scoring module. This package previously declared 2.0.0 here while
+# pyproject.toml said 2.1.0; the version is now derived, so the two cannot disagree.
 __version__ = SCORER_VERSION

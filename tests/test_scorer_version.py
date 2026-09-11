@@ -40,3 +40,16 @@ def test_scorer_identity_carries_the_version():
     ident = scorer_identity()
     assert ident["scorer_version"] == SCORER_VERSION
     assert ident["scorer_package"].endswith(".scoring")
+
+
+def test_the_package_itself_exposes_the_version():
+    """A participant reads `qfbench2_track_forecasting.__version__`, not the scoring module's constant.
+
+    Track 4 shipped `SCORER_VERSION` in `scoring` and re-exported it, but exposed no
+    `__version__` and no `scorer_identity` on the package -- and the tests above could not see
+    that, because they import from `.scoring` directly and bypass the re-export entirely.
+    """
+    import qfbench2_track_forecasting
+
+    assert qfbench2_track_forecasting.__version__ == SCORER_VERSION
+    assert qfbench2_track_forecasting.scorer_identity() == scorer_identity()
