@@ -74,6 +74,20 @@ from .limits import (
 from .normalization import NormalizationMode, RefScale, load_ref_scale
 from .tail import DEFAULT_TAIL_METRIC, TAIL_METRICS
 
+#: The scorer version, SHARED BY ALL FOUR TRACKS and bumped together (owner ruling 2026-09-11).
+#:
+#: Before this the four packages declared 2.0.0, 2.1.0, 0.1.0 and 3.0.0 -- numbers with no
+#: relationship to each other, to the toolkit, or to anything a participant could see, and three of
+#: the four exposed no version at all. A participant asking which scorer produced their number had
+#: nothing to resolve. 3.1.0 was chosen because nothing may appear to go backwards: Track 4 was
+#: already at 3.0.0, so a lower shared number would have been a downgrade for it.
+#:
+#: `pyproject.toml` must agree with this, and a test in this repository asserts it -- the Track 2
+#: package previously said 2.1.0 there and 2.0.0 here, so even a participant who found a version
+#: could not trust it.
+SCORER_VERSION = "3.1.0"
+
+
 __all__ = [
     "ACCEPTED_REPRESENTATIONS",
     "GATES",
@@ -702,3 +716,15 @@ def _main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(_main())
+
+
+def scorer_identity() -> dict:
+    """The provenance block an entrypoint stamps onto its output.
+
+    This is what a participant resolves when asking which revision scored them. It is deliberately
+    small and stable: a name and a version, not a dump of internal configuration.
+    """
+    return {
+        "scorer_package": "qfbench2_track_forecasting.scoring",
+        "scorer_version": SCORER_VERSION,
+    }

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "qfbench2-track-forecasting"
-version = "2.1.0"
+version = "3.1.0"
 description = """\
 QFBench 2.0 Track-2 canonical scorer. Exposes qfbench2_track_forecasting.scoring.build_verifier(ctx) \
 for the shared smoke runner and qfbench2_track_forecasting.official.score_roster(...) as the ONE \
