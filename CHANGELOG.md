@@ -255,6 +255,14 @@ cards.
 - **Final tie-break in `SUBMISSION_CLI.md`.** Its schedule paragraph now carries the sentence the
   README has carried since 2026-09-22: if two Final submissions finish this track with the same
   ranking score, the one uploaded earlier ranks ahead. No rule change.
+- **Track 1 reruns in `SUBMISSION_CLI.md`.** Rule 4 of the model-API rules said Track 1 per-unit
+  verdicts must agree exactly on an organizer rerun. It and contract invariant 4 now say what has
+  to match on a Track 1 rerun: the submitted image and program, not the House model's answers.
+  Track 2 rules, scoring and verification: unchanged.
+- **No Docker `VOLUME` in a Final image.** `README.md` and `SUBMISSION_CLI.md` now say the Final
+  cannot run an image that declares a Docker `VOLUME`, including one inherited from its base
+  image. Such an upload is marked Failed when its run starts and does not use an attempt; remove
+  the `VOLUME` (or choose another base image) and upload again.
 - **Runtime guide links moved to `main`.** The Development runtime guide links in `README.md`
   and `SUBMISSION_CLI.md` pointed at the toolkit's `v2.4.4` copy, which still states the
   withdrawn allowance of 1,000,000 input tokens per unit and lacks the tie-break and

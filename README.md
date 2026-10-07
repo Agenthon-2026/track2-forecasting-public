@@ -748,6 +748,10 @@ for anonymous public pulls and organizer-confirmed private mirrors. The writable
 temporary filesystem and output mount are separate; do not infer an image-size quota or a
 writable workspace allowance from a card's memory or disk field.
 
+The Final cannot run an image that declares a Docker `VOLUME`, including one inherited from its base
+image. Such an upload is marked Failed when its run starts and does not use an attempt; remove the
+`VOLUME` (or choose another base image) and upload again.
+
 ---
 
 ## Quick-start checklist

@@ -27,6 +27,10 @@ The harness logs `sha256(image)` (anti-cheat), applies the card's CPU, memory, G
 settings, and mounts only files whose `manifest.json` checksum matches.
 `LABEL qfbench2.interface_version="2.0"` is required on the image.
 
+The Final cannot run an image that declares a Docker `VOLUME`, including one inherited from its base
+image. Such an upload is marked Failed when its run starts and does not use an attempt; remove the
+`VOLUME` (or choose another base image) and upload again.
+
 For Development, Coding and Explainability take the per-unit timeout from `[agent].timeout_sec`;
 Forecasting and Simulation use the launcher's 1,800-second fallback where no timeout is supplied.
 The unit clock includes container creation and an image pull when needed. The ingestion stage
@@ -167,8 +171,9 @@ server.
    See the [artifact policy](docs/ARTIFACT-POLICY.md) for local learned models, provenance and
    the narrow approved-base exception. Disclosure alone does not establish eligibility.
 4. **Pin temperature/seed** where the API supports it. Entries are verified *statistically*
-   (bootstrap-CI overlap on organizer rerun for T2/T3/T4; for T1, the single-pass per-unit
-   verdicts must agree exactly).
+   (bootstrap-CI overlap on organizer rerun for T2/T3/T4). For T1, what has to match on a rerun
+   is the submitted image and program, not the House model's answers: a per-unit verdict that
+   differs only because the House model answered differently is not a violation.
 5. **House API allocation — the budget is requests per unit.** The House allowance is
    **25 admitted requests per unit**, with **at most 4,000 output tokens per call**; both are
    counted and applied by the House route. Omitted output limits use 4,000; larger limits are
@@ -237,6 +242,9 @@ everything else to `simulate`. Six of the public dev units (`t3-gbatch-*`) are b
    targets are never mounted.
 4. Determinism: the harness sets `QFBENCH_SEED`; organizer verification within the joint Final + Verification phase
    reruns on fresh seeds/resamples and compares against the final-submission result (reproducibility gate).
+   Because the rerun's `QFBENCH_SEED` is fresh, a seed meant to repeat must be a constant in your code.
+   Track 1: what has to match on the rerun is the submitted image and program, not the House model's answers,
+   so a per-unit verdict that differs only because the House model answered differently is not a violation.
 5. Wall-clock and resource caps are per-track (`card.environment`); exceeding them is a `g2` failure.
 6. **T2 text cutoff:** every document in `/input/text/` has a timestamp field ≤ `--asof`, enforced by the organizer's staging gates before a unit ships (gate g2 at scoring time binds your declaration to the trusted card; it does not rescan the corpus).
    The staging gates check text timestamps in addition to panel data timestamps; a unit with a
