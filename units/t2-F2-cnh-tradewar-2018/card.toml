@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2t-cnh-2018"]
 expert_time_estimate_min = 45.0
@@ -81,12 +80,12 @@ end_date   = "2018-06-15"
 notes      = "Target-asset basis for a transfer card, deliberately incomplete: an EARLY window (1998-06-15..2008-06-13) plus a single row at the as-of date carrying the level anchor (CNY = 6.4379). The decade between 2008-06-13 and 2018-06-15 is withheld on purpose -- enough history to learn the asset's character (regime, order of magnitude of volatility), not enough to extrapolate its recent path. Estimators must not difference across the gap."
 
 [text]
-source         = "BIS central bankers' speeches; BIS central bankers' speeches (full archive); Federal Reserve; People's Bank of China (via BIS)"
+source         = "BIS central bankers' speeches; BIS central bankers' speeches (full archive); Federal Reserve; People's Bank of China (via BIS); People's Bank of China; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2018-06-15"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 10
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement", "landmark"]
+n_documents    = 14
 notes          = "Transfer configuration: the target currency has no recent path in any input panel — only an early window and an as-of anchor (CNY = 6.4379). Transfer card at the moment the first tariff list is finalized: the PBoC governor's own remarks (in corpus) frame the policy stance, Fed texts price the macro spillover. A managed currency facing a terms-of-trade shock can absorb it through reserves or through the fix — the two regimes imply very different distributions, and the choice is readable from policy text."
 
 [targets]

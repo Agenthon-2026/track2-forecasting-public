@@ -1,0 +1,148 @@
+Isabel Schnabel: From green neglect to green dominance?
+2021-03-03
+
+SPEECH
+
+## From green neglect to green dominance?
+
+Intervention by Isabel Schnabel, Member of the Executive Board of the ECB, at the 'Greening Monetary Policy - Central Banking and Climate Change' online seminar, organised as part of the 'Cleveland Fed Conversations on Central Banking', 3 March 2021
+
+Frankfurt am Main, 3 March 2021
+
+Climate change is one of the biggest challenges that humankind is facing. [ ] It exposes our society and economy to substantial risks - both physical risks resulting from the greater incidence of climate-related disasters, and transition risks arising from policy responses - that could potentially impair the balance sheets of households, firms, financial institutions and central banks. 1
+
+There can be no doubt that climate change also poses risks for price stability, for example by hampering monetary transmission due to stranded assets, by affecting potential growth and the natural real interest rate, or by causing greater macroeconomic volatility. It is becoming increasingly clear that these risks will not materialise in the distant future but much faster than expected. The tragedy of an alleged long horizon [ ] is increasingly turning into a tragedy of having too little time to act. 2
+
+The urgency of this topic, mainly due to the partial irreversibility of climate change and the significant costs of delaying action [ ] , requires all policymakers to explore their roles in tackling this challenge. This has been fully recognised by European policymakers who have made the European Green Deal a top priority. 3
+
+Central banks are also reflecting on their role in environmental protection. [ ] The European Central Bank (ECB) has made this issue an important component of its ongoing monetary policy strategy review, which will be finalised in the second half of this year. Today's remarks will not pre-empt the outcome of those discussions. 4
+
+## The obligation to act
+
+While it is widely acknowledged that governments and regulators bear the primary responsibility for designing and implementing environmental policies, there is by now a widely shared understanding that central banks cannot stand on the sidelines. [ ] My fellow ECB Executive Board member Frank Elderson recently argued convincingly that the ECB is not only allowed, but required, by the Treaties to take climate change into account in its actions. [ ] 5 6
+
+This is true under the primary mandate if central bank actions are necessary in order to maintain price stability. Emerging evidence suggests that climate change is poised to affect price stability and the transmission of monetary policy to the real economy, especially - but not only - in a disorderly transition scenario. [ ] 7
+
+It is also true under the secondary mandate if environmental protection is a priority of European policymaking, and as long as the ECB's actions are taken 'without prejudice to the objective of price stability'. This suggests, for example, that if faced with a choice between two monetary policy measures that have the same impact on price stability, the ECB would have to choose the one that is more in line with EU policies.
+
+And it is equally true in light of the Treaty obligation for all EU institutions to integrate environmental protection in the definition and implementation of all their policies and activities. Last but not least, the
+
+ECB has the obligation to mitigate risks, both in the area of banking supervision and when it comes to its own balance sheet.
+
+So the question is not whether the ECB should incorporate climate change and other aspects of environmental protection into its monetary policy decisions, but how and to what degree this should be done. [ ] 8
+
+Importantly, the Treaties not only define obligations but also limitations to what the ECB can do.
+
+Clearly, the ECB cannot be transformed into an environmental agency conducting climate policies autonomously. This would also violate the principle of institutional balance. The ECB was created to maintain price stability in the euro area, and the mandate foresees a clear hierarchy of objectives, with price stability taking precedence over other objectives.
+
+Moreover, the ECB has to adhere to a number of important principles of EU law, including the proportionality principle as well as that of 'an open market economy with free competition, favouring an efficient allocation of resources'. [ ] 9
+
+## The principle of market neutrality
+
+In the public debate, the latter principle has often been equated with the concept of 'market neutrality' [ ] , which is a core principle guiding the implementation of our private sector asset purchases. Under the current interpretation of this principle, prevailing market structures as reflected in the issuance behaviour of firms are taken as given. 10
+
+However, this interpretation of the principle of market neutrality is increasingly challenged on the ground that it may reinforce market failures that decelerate society's transition to a carbon-neutral economy and may therefore impede, rather than favour, an efficient allocation of resources. [ ] More generally, one may question whether the market is the appropriate benchmark in the presence of environmental externalities. 11
+
+[ ] 12
+
+These considerations are at the core of a recent working paper by Papoutsi, Piazzesi and Schneider (2021). [ ] Based on the ECB's Securities Holdings Statistics (SHS) and Centralised Securities Database (CSDB), the paper considers the relative sectoral shares of the ECB's corporate asset holdings and contrasts them with various benchmarks. 13
+
+As a starting point for the empirical analysis, the authors quantify the sectoral shares of the 'market portfolio', based on the sectors' capital income. [ ] As in most other advanced economies, particularly in the United States, the services sector accounts by far for the largest proportion, with a share of over 60% in the euro area ( Chart 1 ). Manufacturing represents the second largest sector. 14
+
+Chart 1 Market portfolio
+
+Source: Papoutsi, Piazzesi, Schneider (2021).
+
+Data sources: ECB (SHS &amp; CSDB), Eurostat, Orbis.
+
+Notes: Market shares measured as capital income by sector. 'Dirty Manufacturing' = oil &amp; coke, chemicals, basic metals, nonmetallic minerals. Other Manufacturing = food, beverages, tobacco, textiles, leather, wood, paper, pharmaceuticals, electronics, electrical equipment, machinery, furniture, construction, and other manufacturing.
+
+Papoutsi et al. (2021) then compare the sectoral distribution of the market portfolio to the ECB's current holdings under its corporate sector purchase programme (CSPP) [ ] , highlighting a clear divergence in the portfolios' sectoral composition. [ ] While the services sector is underrepresented in the ECB portfolio, the manufacturing, utility, automobile and transportation sectors are overrepresented relative to the market portfolio ( Chart 2 ). 15 16
+
+## Chart 2
+
+## Market portfolio vs. ECB holdings
+
+Source: Papoutsi, Piazzesi, Schneider (2021).
+
+Data sources: ECB (SHS &amp; CSDB), Eurostat, Orbis.
+
+Notes: Market shares measured as capital income by sector. 'Dirty Manufacturing' = oil &amp; coke, chemicals, basic metals, nonmetallic minerals. Other Manufacturing = food, beverages, tobacco, textiles, leather, wood, paper, pharmaceuticals, electronics, electrical equipment, machinery, furniture, construction, and other manufacturing.
+
+Based on Eurostat's air emissions accounts by sector, the authors go on to show that the ECB's portfolio distribution across sectors is positively correlated with sectoral emission shares, in contrast to the overall market portfolio ( Chart 3 ). [ ] Hence, the overrepresented sectors tend to be those with particularly high emission shares. 17
+
+Chart 3 Market portfolio vs. ECB holdings vs. sectoral emission intensity
+
+Source: Papoutsi, Piazzesi, Schneider (2021).
+
+Data sources: ECB (SHS &amp; CSDB), Eurostat, Orbis.
+
+Notes: Market shares measured as capital income by sector. Emission intensity measured by Scope 1 air emissions by sector. 'Dirty Manufacturing' = oil &amp; coke, chemicals, basic metals, nonmetallic minerals. Other Manufacturing = food, beverages, tobacco, textiles, leather, wood, paper, pharmaceuticals, electronics, electrical equipment, machinery, furniture, construction, and other manufacturing.
+
+The emission bias of the ECB portfolio appears to be driven by the underlying structure of the bond market. The issuance behaviour of large firms in emission-intensive sectors systematically differs from firms in other sectors: they are more likely to enter the bond market, not least due to their high level of fixed assets that can serve as collateral. The higher bond issuance by emission-intensive firms translates into a higher emission intensity of both the CSPP-eligible universe and the ECB portfolio ( Chart 4 ). [ ] 18
+
+Chart 4 Market portfolio vs. ECB holdings vs. CSPP eligibility vs. bond market
+
+Source: Papoutsi, Piazzesi, Schneider (2021).
+
+Data sources: ECB (SHS &amp; CSDB), Eurostat, Orbis.
+
+Notes: Market shares measured as capital income by sector. 'Dirty Manufacturing' = oil &amp; coke, chemicals, basic metals, nonmetallic minerals. Other Manufacturing = food, beverages, tobacco, textiles, leather, wood, paper, pharmaceuticals, electronics, electrical equipment, machinery, furniture, construction, and other manufacturing.
+
+In light of these empirical results, there is a case for considering how to mitigate the emission bias induced by the traditional market neutrality principle. Proposals range from the exclusion of emission-intensive sectors to more sophisticated 'tilting' approaches, which have the advantage of retaining incentives of the most emission-intensive sectors to reduce their greenhouse gas emissions. [ ] Beyond the net asset purchase phase, such approaches could still be applied to reinvestment under the asset purchase programmes. These proposals do not dispense with the market neutrality principle but replace it with a more appropriate benchmark that would start to reflect the significant societal costs associated with climate change. 19
+
+Without prejudice to the objective of price stability
+
+Importantly, such actions must not prejudice the primary objective of price stability as enshrined by the Treaties. This has two important implications for the conduct of monetary policy.
+
+First, our climate-related actions must not impede the smooth functioning of monetary policy.
+
+For example, a focus on bonds with low emission intensity may unduly reduce the amount of purchasable assets and hence constrain the implementation of the appropriate monetary policy stance.
+
+However, this is merely a transition problem. Central banks can play an important catalyst role in speeding up the green transition and in supporting the development of the 'green' market segment. [ ] One example is the recently announced acceptance of sustainability-linked bonds as collateral and for outright asset purchases, which may foster the issuance of such asset classes. [ ] 20 21
+
+By pre-announcing planned measures well in advance, central banks enhance incentives for timely action on the side of market participants to adjust to the new measures.
+
+Second, the precedence of price stability over other objectives implies that if monetary policy needs to be tightened to achieve our price stability objective for reasons unrelated to climate change - for example, because of underlying price pressures - then we must not hesitate to act. Climate change is, and will remain, only one among many factors shaping the inflation outlook relevant for monetary policy.
+
+While a reorientation of our policies in line with the political priorities set by European decision-makers seems necessary, this must not question our commitment to price stability, which will at times mean that we have to stop purchasing green bonds, thereby defying the threat of 'green dominance'.
+
+Strict adherence to our primary mandate is crucial in order to safeguard the legitimacy of our actions as an independent institution.
+
+## Conclusion
+
+Let me conclude.
+
+There can be no doubt that climate change requires urgent policy action. As part of a broad-based societal endeavour to combat climate change, the ECB has an obligation to consider how it can contribute to this collective effort within the limitations imposed by the Treaties.
+
+One possible avenue for action is to incorporate sustainability criteria into the implementation of our private sector asset purchases. In light of the observed emission bias in our corporate bond portfolio, we need to carefully re-assess the current notion of market neutrality. In its current interpretation, it appears to hamper an efficient allocation of resources as it does not reflect the significant externalities that climate change exerts on society.
+
+At the same time, it has to be acknowledged that central bank policy cannot, and must not, replace government policies. Monetary policy actions vary over the business cycle, while the effective mitigation of climate change requires permanent and structural measures, which only governments can provide.
+
+Thank you for your attention.
+
+1. I would like to thank Melina Papoutsi for her contributions to this speech.
+2. See Carney, M. (2015), ' ', 29 September. Breaking the tragedy of the horizon - climate change and financial stability 
+3. See ECB and ESRB (2020), ' ', June. Positively green: Measuring climate change risks to financial stability 
+4. See Lagarde, C. (2021), ' ', 25 January. Climate change and central banking
+5. See Schnabel, I. (2020),' ', 17 July. Never waste a crisis: COVID-19, climate change and monetary policy
+6. See Elderson, F. (2021), ' ', The ECB Blog, 13 February. Greening monetary policy
+7. See Parker, M. (2018), ' ', Economics of Disasters and Climate Change, Vol. 2, No. 1, pp. 2148; ECB and ESRB, (2020, ibid.). The Impact of Disasters on Inflation 
+8. The challenge goes beyond climate change. Other aspects of environmental protection, in particular the preservation of biodiversity, are equally important.
+9. See (TFEU). Art. 127(1), Treaty on the Functioning of the European Union 
+10. When the Eurosystem launched its public sector purchase programme (PSPP), Benoît Cœuré referred to the concept of market neutrality for the first time. 'The concept of market neutrality means that, while we do want to affect prices, we do not want to suppress the price discovery mechanism. We will operationalise this principle by ensuring a high degree of transparency around our interventions and by closely monitoring their impact on liquidity and collateral availability.' See Cœuré, B. (2015), ' ', 10 March. Embarking on public sector asset purchases
+11. See Schnabel, I. (2020), ' ', 28 September. When markets fail - the need for collective action in tackling climate change
+12. See, for example, the recent speeches by François Villeroy de Galhau and Klaas Knot. Villeroy de Galhau, F. (2021), ' The role of 
+
+', 11 February; Knot, K. (2021), central banks in the greening of the economy
+
+- ' ', 11 February. Getting the Green Deal done: how to mobilize sustainable finance 
+13. See Papoutsi, M., Piazzesi, M. and Schneider, M. (2021) 'How unconventional is green monetary policy?', JEEA-FBBVA Lecture at ASSA (January 2021), Working paper .
+14. Based on Eurostat national accounts, sector capital income is defined as the difference between gross value-added and compensation of employees for each sector at year-end 2017.
+15. The implementation of the ECB's corporate sector purchase programme (CSPP) is described in the ECB Economic Bulletin article ' ', Issue 4/2017. The ECB's corporate sector purchase programme: its implementation and impact 
+16. The ECB portfolio is estimated using data from the ECB Securities Holdings Statistics data as of December 2017. The portfolio only includes securities held under the corporate sector purchase programme that was initiated in March 2016.
+17. The Eurostat data only includes Scope 1 (i.e. direct) emissions. The inclusion of Scope 2 (indirect emissions from energy consumption) and Scope 3 (all other indirect emissions, including from product usage) emissions from other data sources yields a qualitatively similar conclusion.
+18. The overall bond market sector shares are estimated using the ECB Centralised Securities Database (CSDB). Special purpose entities that were originally characterised as financial firms are correctly allocated under the sector of the parent company. For this estimation, privately placed bonds are excluded.
+19. See Schoenmaker, D. (2021), ' ', Climate Policy, for a concrete proposal on how a tilting approach could be implemented in practice. Greening Monetary Policy 
+20. See also Lagarde, C. (2020), ' ', 27 February. Climate change and the financial sector
+21. See the ECB's on 27 September 2021. press release

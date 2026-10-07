@@ -1,0 +1,134 @@
+Elizabeth McCaul: Beyond the spotlight - using peripheral vision for better supervision
+2024-10-08
+
+## Elizabeth McCaul: Beyond the spotlight - using peripheral vision for better supervision
+
+Speech by Ms Elizabeth McCaul, Member of the Supervisory Board of the European Central Bank, at the S&amp;P European Financial Institutions Conference, Frankfurt am Main, 8 October 2024.
+
+* * *
+
+## Introduction
+
+Thank you very much for inviting me to today's conference, it is a pleasure to be here.
+
+The former German Chancellor Helmut Schmidt used to say "People with visions should go to the doctor". This sounds concerning to a supervisor. After all, the word "supervision" is made up of the prefix "super", which means "over" or "above", and "vision". But what exactly is vision? To find out, I followed Helmut Schmidt's advice and went to the doctor.
+
+What I learnt is that eye doctors distinguish between central vision, fringe vision and peripheral vision.
+
+Central vision is the very centre of the visual field. It delivers sharp, detailed pictures, allowing us to focus on objects straight ahead. In the banking world, these are the issues directly in front of us: capital, asset quality, profitability and key risk categories including climate-and environmental risks or cyber risk etc.
+
+Fringe vision refers to the area right outside the central vision, around 30 to 60 degrees of the visual field, where visual clarity and detail recognition start to decrease. Fringe vision helps us to absorb information faster when we read as our brains anticipate the next words and letters, making the process faster and smoother. Translating this to banking, this would be like noticing changes in the macroeconomic environment, rising geopolitical tensions, and their impact on banks' business models and risk profiles.
+
+Finally, peripheral vision is everything that occurs outside the very centre of our gaze, beyond 60 degrees. It encompasses everything that can be seen to the sides, providing spatial awareness which helps with navigation and balance. Improving peripheral vision is crucial for athletes as it increases reaction speed, improves anticipation and reduces the risk of injury. In banking, beyond the centre of our gaze are the structural transformations of our societies and economies: the acceleration of technological progress, including the rise of generative artificial intelligence or the impact of social media on depositor behaviour; the reconfiguration of the financial value chain; new entrants in the competitive landscape or the growing share of non-bank financial institutions.
+
+Good supervision and good risk management in banks require central, fringe and peripheral vision. Good peripheral vision sets apart decent athletes from great ones, allowing them to anticipate movements and respond swiftly to changes on the field. And the same holds true for banking supervisors: while central vision and fringe vision are
+
+crucial in focusing on immediate risks, it is the ability to maintain a broad, strategic view - our "peripheral vision" - that ensures truly effective supervision. This broader perspective enables us to detect emerging risks in the wider financial system, anticipate potential disruptions and respond proactively.
+
+In my remarks today, I will share our assessment of the current risk landscape, describing what we see in our central, fringe and peripheral vision.
+
+## Central vision
+
+Let me start with the central vision of the state of the European banking system.
+
+In recent years, Europe's banking sector has shown resilience in the face of unforeseen challenges: the pandemic, the energy supply shock following Russia's invasion of Ukraine and a period of high inflation.
+
+This resilience is reflected in the numbers: in 2015, the average ratio of non-performing loans (NPLs) for significant banks in the banking union was 7.5%, at a time when some banking systems had ratios close to 50%. At the end of the second quarter of this year, this ratio had decreased to 2.3%, driven mainly by the reduction of NPLs in high-NPL banks. Similarly, the Common Equity Tier 1 ratio for significant banks has risen from 12.7% in 2015 to 15.8% today. Bank profitability has considerably increased in recent quarters, benefiting from higher interest rates, and return on equity now stands at 10.1%.
+
+On the one hand, this resilience is a result of the strengthened supervisory and regulatory framework put in place after the global financial crisis and the related improvements in banks' risk management. On the other hand, looking particularly at recent years, banks have also benefited from policy support which has helped shield the real economy from adverse shocks. For example, during the pandemic, comprehensive fiscal support measures contained corporate insolvencies and the associated loan losses. While bank profitability and valuations have recently improved due to higher interest rates, the effects of this supporting factor are gradually diminishing.
+
+Turning to liquidity, banks continue to show strong positions despite an ongoing reduction in excess liquidity. Access to both retail and wholesale funding remains robust, and the higher-than-expected stickiness of deposits has contributed to a stable funding environment. Nevertheless, banks should remain cautious and ensure that their liquidity and funding strategies are resilient to potential market disruptions. They need to maintain robust asset and liability management frameworks to enhance their resilience to both liquidity and funding risks as well as interest rate risk in the banking book. I will return to this topic later again.
+
+Finally, our supervisory priorities also include banks' capabilities to manage climateand environmental risks and cyber risk. Climate change can no longer be regarded only as a long-term or emerging risk, which is why banks need to address the challenges and grasp the opportunities of climate transition and adaptation. With regard to cyber risk, we have recently concluded a cyber resilience stress test to assess how banks would respond to and recover from a severe but plausible cybersecurity incident. While
+
+cyber risk has become a key risk for the banking sector, geopolitical tensions have further increased the threat of cyber-attacks.
+
+So, we may ask: how much of this resilience is structural, how much is cyclical? To get a more accurate picture of the current risk landscape, we need to slightly widen our gaze.
+
+## Fringe vision
+
+This brings me to the fringe vision, looking at the broader macroeconomic environment.
+
+While the macro-financial environment has recently been improving as inflation decreases, near-term growth remains weak and subject to high uncertainty. Recent data indicate a gradual recovery in real GDP growth, primarily driven by the services sector, while industrial activity continues to face headwinds.
+
+Credit risk has only partially materialised so far, supported by strong fundamentals of households and corporates. Still, NPLs are slowly increasing, particularly in the commercial real estate (CRE) and small and medium-sized enterprise (SME) sectors. While the macroeconomic outlook signals a lower immediate risk of recession, asset quality in riskier segments is slowly deteriorating as the higher interest rate environment experienced over the last two years after a decade of 'low for long' weighs and may affect the debt servicing capacity of borrowers. In this context, we are conducting targeted reviews on banks' portfolios that demonstrate more sensitivity to the current macro-financial environment. This includes targeted reviews of SME portfolios and following up on the findings from residential real estate and CRE portfolio reviews as well as from deep dives on forbearance and unlikely-to-pay policies. Banks also need to remediate persistent shortcomings in their IFRS 9 frameworks and maintain an adequate level of provisions. In this context, we are continuing IFRS 9 targeted reviews focusing on, among other things, the use of overlays and coverage of novel risks.
+
+The current market risk environment is characterised by high risk appetite and benign risk pricing, which has prevailed in financial markets over the past year. This environment is susceptible to sudden shifts in market sentiment and episodes of high volatility, as seen in the recent global financial market sell-off. Although markets showed substantial resilience during the spike in volatility in August, banks should be ready for and able to cope with further episodes of sharp repricing and high volatility. The implementation of the recently postponed market risk part of the Basel III reform, the Fundamental Review of the Trading Book, will strengthen capital requirements for banks and help boost their resilience.
+
+## Rising geopolitical tensions
+
+Also within the broader macro-environment, the evolving geopolitical risk landscape has been on our radar for some time, considering the events of the past two and a half years, namely Russia's war in Ukraine and the conflict in the Middle East.
+
+While the direct impact of recent geopolitical events on the banking sector has been contained so far and the immediate threats are limited, we need to remain attentive and systematically assess the possible ramifications for banks. Geopolitical shocks are
+
+cross-cutting and could have direct and indirect effects on banks' financial and nonfinancial risks.
+
+For example, geopolitical shocks can exacerbate governance, operational and business model risks they lead to more sanctions or increased cyberattacks. We have seen a clear increase in the number of significant cyber incidents in 2023 and 2024, driven by attacks on service providers (typically ransomware) and by distributed denial-of-service attacks on banks. There can also be material consequences for banks' credit, market, liquidity, funding and profitability risks, especially in cases where banks have largescale direct or indirect balance sheet exposures to the countries, sectors, supply chains or firms and households that may be adversely affected by a geopolitical shock.
+
+Moreover, geopolitical events can also have wider second-round effects that could have negative knock-on consequences for the banking sector. For instance, downside risks to growth from slower economic activity or worsened sentiment as well as upward pressure on inflation related to supply or price shocks in energy or broader commodity markets can disrupt banks' operating environment. Escalating geopolitical tensions might also result in heightened financial market volatility, triggering further episodes of asset price corrections.
+
+The recent increase in geopolitical tensions calls for heightened scrutiny and robust risk management frameworks in banks, so that supervisors and banks can properly assess potential risks in the evolving geopolitical environment and proactively mitigate them. As Supervisory Board Chair Claudia Buch said recently , strengthening resilience to 1 geopolitical shocks is a key priority for ECB Banking Supervision, and we will focus on a range of risk factors, from governance and risk management to capital planning, credit risk and operational resilience.
+
+## Peripheral vision
+
+And now, let us exercise our athletic capabilities, and use our peripheral vision to look at the wider risk landscape.
+
+Structural trends, such as the reconfiguration of the financial value chain, the impact of digitalisation and social media on liquidity, and the rise of non-bank financial institutions, are reshaping the environment in which banks operate.
+
+## Reconfiguration of the financial value chain
+
+The emergence of big tech companies and other non-banking firms offering financial services is leading to a major restructuring in the market, changing the risk landscape, blurring traditional industry lines and challenging conventional regulatory boundaries.
+
+Companies whose primary business is technology are entering the financial sector through e-commerce and payment platforms and subsequently expanding into retail credit, mortgage lending or crypto services. These firms may explore alternative, less regulated lending forms like crypto lending using peer-to-peer platforms, ultimately mimicking the economic functions of banks without being subject to the same comprehensive oversight.
+
+We need to expand our tools and surveillance to prevent gaps in oversight and ensure they are robust and versatile enough to oversee disintermediated, increasingly interconnected and possibly distributed-ledger-based business models. We must adapt the regulation and oversight of such firms, especially for entities that are mainly active in non-financial services, to gain a thorough understanding of the financial activities of large non-bank groups across jurisdictions and sectors. Let me underscore that we should avoid a regulatory "race to the bottom" driven by a narrow mission of prioritising innovation and attracting large firms, which may not contribute to the good of society.
+
+## Liquidity risk supervision post-March 2023
+
+Earlier, I asked how much of banks' resilience is structural and how much is cyclical. Let us look at the banking turmoil of March 2023 to better understand how banks weathered this crisis and identify what lessons we have learnt with regard to liquidity and funding.
+
+First, the events were a reminder to banks of the changing and increasingly volatile nature of depositor behaviour. Social media can play a pivotal role in encouraging large numbers of customers to withdraw deposits. In the case of Silicon Valley Bank, this behaviour was exacerbated by a highly networked and concentrated depositor base. Moreover, the advent of online banking, digitalisation, and the influence of non-bank competitors may also have a significant impact on depositor behaviour, affecting the stability of liquidity and funding sources. Therefore, banks must adapt their approaches so that they can monitor these risks more closely and understand the channels through which deposits are collected.
+
+We recently conducted a targeted review on the diversification of funding sources and the adequacy of funding plans. Our findings indicate a concerning heterogeneity in the adverse scenarios considered by significant banks. Often, these scenarios are only described at a high level, are not conservative, or only "stress" individual balance sheet items. The absence of comprehensive and credible underlying assumptions in these adverse scenarios reduces the reliability of funding plans and increases execution risk.
+
+The events of March 2023 also underscored the importance of banks' readiness to swiftly implement contingency and recovery measures. Another recent targeted review focused on collateral mobilisation. It found that banks have the operational capacity to tap central bank liquidity facilities. However, banks' assumptions about the time needed to monetise the assets appear rather optimistic in some cases, especially under stressed conditions. This optimism could hinder banks' ability to cover any unexpected outflows in a timely and sufficient manner.
+
+Furthermore, banks need to adopt a more holistic and comprehensive cross-risk analysis of potential vulnerabilities. The turmoil demonstrated how quickly deficiencies in business models and shortcomings in the management of interest rate risk in the banking book (IRRBB) can escalate into liquidity issues. It is essential to assess spillover effects and understand how shortcomings in one area can amplify risks in another.
+
+From a regulatory perspective, the events of spring 2023, along with past crises, have shown that compliance with the liquidity coverage ratio (LCR) and the net stable funding
+
+ratio (NSFR) may not provide sufficient assurance about a bank's liquidity and funding situation. For instance, an LCR above 100% might still hide significant cliff risks just beyond the 30-day horizon. Two banks with identical LCRs might have vastly different liquidity profiles owing to concentration risks not captured by the ratio.
+
+However, it is important to remember that the LCR and the NSFR do not - and are not intended to - prevent all liquidity crises. They are not designed to address every residual risk, which should be managed on a case-by-case basis under Pillar 2. So while we support a review of specific aspects of the current calibration of these metrics, we are cautious about drastic changes.
+
+Instead, I would focus on the supervisory follow-up. And I can draw four main lessons with regard to the supervision of liquidity risk.
+
+First, supervisors, like banks, need to carry out holistic cross-risk analysis. Instead of looking at risks in isolation, we need to broaden our gaze and also focus on the interplay between IRRBB, liquidity risk management and governance arrangements.
+
+Second, we need increased supervisory scrutiny of banks' modelling of non-maturity deposits, as these models are sometimes not based on proper economic evidence.
+
+Third, it is essential that supervisors consider supplementary liquidity and funding risk indicators, such as survival period or concentration metrics, to capture residual risks not addressed by the LCR or the NSFR. In European banking supervision we have successfully used maturity ladder reporting to calculate survival periods, which provides a more comprehensive analysis beyond the fixed calibration of the LCR and the NSFR.
+
+Finally, the March 2023 turmoil demonstrated the need for timely and up-to-date information on liquidity and funding. We therefore introduced weekly data collections for liquidity risks in September 2023. This has been instrumental in identifying changes and detecting structural shifts across the banking system.
+
+## Growth of non-bank financial institutions
+
+Another issue we detect in our peripheral vision is the staggering growth of the nonbank financial institution (NBFI) sector. In the euro area, the sector has more than doubled in size, from €15 trillion in 2008 to €32 trillion in 2024. Globally, the numbers are even more worrying, with the sector growing from €87 trillion in 2008 to €200 trillion in 2022.
+
+The private credit market is of particular concern. It accounts for €1.6 trillion of the global market and has also seen significant growth recently. The European private credit market has grown by 29% in the last three years but is still much smaller than the market in the United States, which is where investors and asset managers are often based. The end investors are pension funds, sovereign wealth funds and insurance firms, but banks play a significant role in leveraging and providing bridge loans at various levels to credit funds. We have recently completed a deep dive on the topic and found that banks are not able to properly identify the detailed nature and levels of their full exposure to private credit funds. Therefore, concentration risk could be significant.
+
+We know that risk from the NBFI sector can materialise through various channels. One of them is through the correlation of exposures, especially given the growth in private credit and equity markets. We supervisors do not have a full picture of the level of exposure and correlations between NBFI balance sheets and bank lending arrangements, lines of credit or derivatives to and from NBFIs.
+
+To make the market less opaque and more visible within even our fringe and central line of sight, we should further harmonise, enhance and expand reporting requirements. We need to make information sharing between authorities easier at global level to provide the visibility we need to play with more agility on the field.
+
+## Conclusion
+
+Earlier, I asked how much of the banking system's resilience is cyclical and how much is structural. I think it is safe to say that the European banking system is in better shape today than it was ten years ago. This won't surprise anyone in this room. Stronger capital and liquidity positions and healthier balance sheets are objective factors contributing to the resilience of the system.
+
+Still, I am a supervisor, so I am paid to worry. If my career has taught me anything, it's that accidents are more likely to happen when people get complacent. This is why I am calling on you to use your full vision - not only your central and fringe vision, but your peripheral vision too. Crises often emerge from the shadows, and it's the overlooked risks that pose the greatest danger.
+
+Let me conclude with another lesson that I have learnt during my career. It's a quote from Mark Twain: "There is no education in the second kick of a mule". We have seen too many crises caused by hidden risks lurking beneath the surface - the ones we fail to see until it's too late - which is precisely why we must get ahead of these risks this time around.
+
+Thank you very much for your attention.
+
+1 Buch, C. (2024), "Global rifts and financial shifts: supervising banks in an era of geopolitical instability", keynote speech at the eighth European Systemic Risk Board (ESRB) annual conference on "New Frontiers in Macroprudential Policy", 26 September.

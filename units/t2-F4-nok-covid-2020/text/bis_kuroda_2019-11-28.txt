@@ -1,0 +1,63 @@
+Haruhiko Kuroda: International financial regulation and supervision - past achievements, current issues, and future agendas
+2019-11-28
+
+## Haruhiko Kuroda: International financial regulation and supervision - past achievements, current issues, and future agendas
+
+Remarks by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the 2019 Paris Europlace International Financial Forum, Tokyo, 28 November 2019.
+
+* * *
+
+## Introduction
+
+I am very honored to have the opportunity to speak at the Paris Europlace Financial Forum again this year. This is a valuable forum for exchanging ideas on interesting topics such as global financial regulation, financial innovation, and ESG, which are featured today. The forum also plays an important role in promoting Paris as a financial center. Turning to Tokyo, there is an ongoing effort to realize 'Tokyo's vision for a global financial city' and Mr. Nakaso, who appeared as a speaker earlier today, is leading this effort as chairman of the Organization of Global Financial City Tokyo. I think this is a valuable opportunity for interaction between the global financial centers of Tokyo and Paris.
+
+Over the past three years, I have talked about future challenges, such as financial innovation and demographic changes. This year, I will change focus slightly and look back on the discussions on regulation and supervision in the wake of the Global Financial Crisis, and then discuss issues that are currently of particular importance. I would also like to touch on issues that are likely to increase in importance in the future.
+
+## I. Past, Present, and Future of International Financial Regulation and Supervision
+
+Since the Global Financial Crisis, financial institutions around the world have increased their capital adequacy ratios under new international financial regulations, such as Basel III. These regulations have been discussed and formulated by authorities worldwide and have helped increase the robustness of the global financial system.
+
+However, looking back on history, financial crises have repeatedly occurred in different forms, often with the advent of new financial technologies. As we are not crystal gazers and cannot foresee the future completely, we need to identify risks to the financial system in as forwardlooking a manner as possible. Based on a deep understanding of our past experience, we must monitor the progress of new financial innovation and changes in the environment surrounding financial institutions. We then need to design international financial regulations so that any risks identified do not lead to the next financial crisis. Even after global financial regulations have been carefully formulated and implemented, their effectiveness may be impaired by progress in financial technology and changes in the business environment. There is also the risk of unintended negative side effects that may demand further intervention if they outweigh the positive effects of any financial regulations. When designing global financial regulation and supervision, the following four-step cycle must be repeated: first, designing systems from a forward-looking perspective; second, steady implementation; third, evaluation of the positive effects and negative side effects, taking into account new technologies and changes in financial environment; and fourth, addressing any problems when necessary, such as when the negative side effects exceed the positive effects.
+
+Ten years have passed since the review of global financial regulations and supervision began in earnest after the Global Financial Crisis. In what follows, I will first assess the regulatory development work done during this period, particularly at the Financial Stability Board (FSB) and the Basel Committee. Then, among the work currently underway, I would like to highlight the importance of work on the evaluation of financial regulations. Finally, I will mention climate-related risk as one of the challenges for future financial stability.
+
+## II. Past A chievements: Evaluation of Discussions over the Last 10 years
+
+After the Global Financial Crisis, work on reforming financial regulations started with a review of past crises, including the causes of each crisis. It revealed that before each financial crisis, there had always been a build-up of debt at financial institutions and in the non-financial sectors - socalled leverage build-up. Financial regulations were therefore strengthened in a forward-looking manner. For example, attention was focused on the credit-to-GDP ratio, which has implications as a leading indicator of potential problems.
+
+There has been much valuable progress in international financial regulation and supervision over the past 10 years, including Basel III. For example, an expansion of the Basel III framework was made in each of its three pillars: the first pillar being minimum requirement; the second pillar, supervisory review process; and the third pillar, market discipline through disclosure. In terms of content, policy tools such as liquidity regulations were expanded, in addition to the previous riskbased capital regulation. Also important was the introduction of a macroprudential perspective at the international level. Specifically, first, a countercyclical capital buffer (CCyB) was introduced in response to the issue of procyclicality over time; and second, the structural issue of the 'too-bigto-fail' problem has been addressed by the introduction of a new framework for identifying global systemically important banks (G-SIBs) and a total loss-absorbing capacity (TLAC) framework. Both of these measures are key features of macroprudential policy: the first is seen as a response from a time-dimensional viewpoint of suppressing influence over time, and the second measure is a response from a cross-sectional viewpoint.
+
+## III. Current Issues for International Financial Regulation and Supervision: Market Fragmentation
+
+Following the discussions described earlier, Basel III was finalized in December 2017. It is at present of paramount importance that each jurisdiction fully implements international agreements in a timely manner.
+
+After the finalization of Basel III, work continues in terms of both the confirmation of the intended effects of regulations and research into unintended effects, particularly in the FSB and the Basel Committee. The ongoing assessment work takes into account the interrelationships of multiple regulations in a more explicit way and adopts a more comprehensive and general equilibrium perspective. This continued assessment work is extremely valuable.
+
+The issue of 'market fragmentation' is also crucial to this ongoing regulatory impact assessment work. That is why this issue was one of the policy priorities at this year's Group of Twenty (G20) meeting under the Japanese presidency. Some of the financial regulations that have been designed over the past 10 years are likely to involve a degree of market fragmentation. As an example of market fragmentation, it is often mentioned among national authorities and market participants that regulatory responses to different OTC derivative trading markets in each country have an impact on global derivatives market trading. Unintended forms of market fragmentation may arise as the details of regulations and the timing of their implementation differs across countries. Unintended market fragmentation should be avoided because it can have a negative effect on the stability and efficiency of the financial system. Market fragmentation is an important consideration when conducting analysis-based policy evaluations, and its discussion with a highlevel consideration in international forums is to be welcomed. 1
+
+## V. Future A gendas of International Financial Regulation and Supervision: Environmental Problems as a New Financial Stability Issue
+
+The progress made over the past 10 years is something to be proud of, but we must not rest on our laurels. There are issues remaining for financial institutions other than banks - for example, non-bank financial intermediaries that are subject to less stringent regulations. The banking
+
+sector itself is undergoing changes in its business model due to the effects of digitalization and other factors. These are situations that require continuous monitoring. Therefore, it is necessary to continue the steady implementation of the four-step cycle mentioned earlier.
+
+Against this background, I would like to mention climate-related risk as an example of a new issue for financial stability. Nationwide efforts have continued in the recovery from the damage caused by Typhoon No. 19 and the ensuing floods in October this year, and there has been an increase in Japan in recent years in severe natural disasters, such as typhoons. It may not be easy to establish a causal relationship, but some have pointed to global warming as a cause of the increase in catastrophic natural disasters. While it is human lives that are ultimately at stake, the impact of such disasters may also lead to a decrease in asset value and collateral value, and the associated risk may come to be a significant challenge for financial institutions.
+
+Climate-related risk differs from other risks in that its relatively long-term impact means that the effects will last longer than other financial risks, and the impact is far less predictable. It is therefore necessary to thoroughly investigate and analyze the impact of climate-related risk. If any regulatory or supervisory response is required, the four-step cycle mentioned above should be implemented carefully: systems must be designed from a forward-looking perspective, implementation must be steady, the positive effects and negative side effects must be evaluated, and any problems must be addressed as necessary. In considering the regulation and supervision of climate-related risk, it is necessary to keep in mind to what extent industrial policies and environmental regulations and guidelines are effective in addressing such risks. Therefore, there may be room in this case for cooperation between the industrial sector and the financial sector.
+
+Climate-related risk raises both cross-sectional and time-dimensional issues: the crosssectional problem is that carbon emissions affect a wide range of industries, and the timedimensional problem is that this effect is a long-term problem. In the context of financial regulation and supervision, we have shown our expertise in addressing cross-sectional and timedimensional problems through our response to the 'too-big-to-fail' issue and in the design and operation of CCyB. In addressing environmental risks as a new issue in financial stability, the wealth of previous discussions on financial regulation and supervision may provide some valuable insights.
+
+Let me also note that there is the Network for Greening the Financial System (NGFS) as a place for global discussions related to the issue of climate change. The Bank of Japan has joined this network and is looking forward to working with the NGFS member institutions and contributing to the discussions. Our decision to seek membership of the NGFS was greatly encouraged by our dialogues with Governor Villeroy de Galhau, who is also here today, and other colleagues at la Banque de France, an institution that has always taken strong international leadership in this area.
+
+## Concluding Remarks
+
+In my speech today I have mentioned climate-related risk as a new issue in considering financial stability. There are many other challenges that need to be addressed, such as cyber risk, antimoney laundering (AML), countering the financing of terrorism (CFT), and the issue of crypto assets.
+
+In addressing these new challenges, I think it is important to continue implementing the four-step cycle that has been repeatedly mentioned today. Let me conclude with a quote from a French mathematician Henri Poincare: 'Mathematics is a technique that regards different things as the same." Even if they seem to be different on the surface, things often share a common essence. 2
+
+Thank you for your attention.
+
+1
+
+- See for example in the OTC derivatives markets, Financial Stability Board, 'FSB Report on M arket Fragmentation,' June 2019. 1
+- Jules Henri Poincare, Kagaku to Hoho , trans. Y oichi Y oshida (Toky o: Iwanami Bunko, 1953), 37. 2

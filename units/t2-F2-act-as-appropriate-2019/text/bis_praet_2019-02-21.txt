@@ -1,0 +1,82 @@
+Peter Praet: On the importance of real estate statistics
+2019-02-21
+
+## Peter Praet: On the importance of real estate statistics
+
+Speech by Mr Peter Praet, Member of the Executive Board of the European Central Bank, at the International Conference on Real Estate Statistics, Luxembourg, 21 February 2019.
+
+* * *
+
+I am very pleased to open this session of the International Conference on Real Estate Statistics, which was organised by Eurostat in close cooperation with the ECB. The quality of real estate statistics is an issue not just of relevance to statisticians, but increasingly to policymakers, too. The real estate market has been shown to be a key transmitter of shocks in advanced economies - and, by and large, the real estate market in the euro area as a whole is no different. 1
+
+## The importance of real estate markets for euro area stability
+
+Residential real estate (RRE) is the main component of euro area household wealth. Housing accounts for around 50% of asset holdings and is largely financed through borrowing, with mortgages making up 85% of household liabilities. The corollary is a tight linkage between RRE prices and the balance sheets of the euro area banking sector. Mortgage loans account for between 40% and 90% of total lending by euro area banks to households across EU countries. 2
+
+Falls in prices therefore affect the euro area business cycle through two main channels. First, by reducing households' net wealth, which has decelerator effects on consumption , and weakening banks' balance sheets through the decline in collateral and property values (the asset valuation channel); and second, by increasing the riskiness of households and of construction firms, prompting banks to tighten their lending standards (the credit risk channel). 3
+
+ECB analysis finds that housing market variables in the euro area have predictive power for future prolonged contractions. The effects of RRE bubbles on financial stability are also well known. More than two-thirds of the past 46 systemic banking crises were preceded by boombust patterns in house prices. And recessions coinciding with house price busts have been found to yield a cumulative loss in GDP that is around three times greater than in recessions without such busts. 4 5
+
+Developments in the commercial real estate (CRE) sector are also relevant for the business cycle and, even more so, for financial stability. Price collapses in CRE markets have played a central role in a number of recent financial crises, such as those in the Nordic countries and the United States in the early 1990s, in some Asian economies in the late 1990s, and in some EU countries during the global financial crisis.
+
+CRE lending is less significant in terms of volume than RRE lending in the euro area, but it still makes up between 20% and 50% of total bank lending to corporates. And historically, losses on banks' CRE exposures during crises have often been higher than losses on their RRE exposures, despite those exposures being lower. This is because most CRE loans are arranged on a non-recourse basis, coupled with the fact that CRE property is much less liquid than RRE property. 6
+
+So it is highly important for policymakers to have a good overview of the real estate market. In order to mitigate the build-up of systemic risks and calibrate policy responses, policymakers need to be able to understand the underlying factors driving both fundamental and nonfundamental real estate prices, the dynamics of lending underlying price growth, the level and evolution of household indebtedness and the quality of banks' mortgage loan portfolios.
+
+While this mostly applies to macroprudential policies, it also applies to monetary policy,
+
+particularly in respect of the RRE sector. It is essential for us to be able to distinguish clearly between country-specific developments in real estate markets that warrant responses from macroprudential authorities, and area-wide developments that might, in some circumstances, warrant a monetary policy response. And this distinction is especially important in a low interest rate environment.
+
+## The need for higher-quality real estate statistics in the EU
+
+However, in the wake of the great financial crisis, most advanced economies realised that significant data gaps were severely hampering their ability to monitor developments in real estate markets. This led to the G20 Data Gaps initiative, which recommended improvements in both RRE and CRE statistics. But in the euro area, statistical challenges remain in both areas.
+
+For RRE markets, the quality and granularity of price data is relatively good. The main challenge lies in the availability of harmonised and granular data on lending standards for RRE. At present, only average figures are available for most countries: information on the distribution of lending standards is still scarce and does not break down the borrowing population by relevant segments, such as first-time buyers, buy-to-let buyers or owner-occupiers. And the definitions of lending standards across EU countries' indicators are still not adequately harmonised.
+
+For CRE markets, statistical gaps are more pervasive, with even the available price data not being of sufficient quality. A study by the ECB and Eurostat concluded that only nine EU countries have their own commercial property price statistics, six more obtain them from private sources, and 13 EU countries have no price data at all. Where CRE statistics from official sources are available, they are not derived using a harmonised methodology.
+
+There is similarly patchy coverage in statistics for rent indices and rent yields, vacancy rates, transaction numbers and values, and to a lesser extent, construction starts and construction completions. As a result, policymakers are often forced to rely on non-data information sources, such as surveys or market participants' reports. Data on the financial system's exposures to commercial real estate have comparable shortcomings, while information on lending standards is very limited.
+
+Closing these data gaps would offer several advantages for policymakers.
+
+First, it would enhance the ability of macroprudential authorities to assess systemic risks exante. For RRE, more granular data on lending standards would enable the identification of risks that may be building up in the tail of the distribution, risks that are typically hidden by average figures - for example, loans with high debt-to-income (DTI), debt-service-to-income (DSTI) or loan-to-value (LTV) ratios. In the CRE segment, wider data coverage would provide a clearer picture of market developments and improve the assessment of potential vulnerabilities.
+
+Data on rent indices and rent yields for CRE, for example, would help indicate whether a given price level reflects realised returns, or inflated expectations of future returns. Details on vacancy rates and building permits would help in assessing property supply and demand. And transaction numbers and values could serve as an indicator of market liquidity, conveying information on potential market overheating or on vulnerability to fire sales should banks or investors have to quickly recover their positions.
+
+More complete CRE data would also help inform monetary policymakers of the impact of the policy stance on CRE markets. Decomposing the rental yield into the risk-free rate and the risk premium can help in identifying whether price developments reflect fundamentals. A highly compressed or negative spread between yields and the risk-free rate can indicate an overvalued property market.
+
+Second, harmonising key definitions and concepts would facilitate cross-country comparisons of
+
+emerging risks and of the prudential policy stance. For example, at present the definition of income in the denominator in DTI and DSTI ratios supplied to the ECB is not homogeneous: some countries base these ratios on net income and others on gross income. Using a gross income concept leads to lower levels of DTI or DSTI than using a net income concept.
+
+Another example is that valuation methodologies for RRE and CRE are not aligned, with Germany and Austria using a long-term sustainable value concept and others using true market value. Developments in valuations across countries are therefore not comparable.
+
+The third benefit from higher-quality real estate statistics would be for policy implementation. Greater granularity in RRE data would help in calibrating macroprudential policies and tailoring them to specific segments of the borrowing population. At present, most countries rely on qualitative methods for policy calibration, as the lack of granular data on lending standards prevents them from using more sophisticated quantitative methods.
+
+For the CRE sector, improved data coverage would enable policymakers to identify local price bubbles before they enter into national data. That would in turn facilitate region-specific policy guidance, such as the introduction of lending limits on commercial property in a specific city.
+
+Finally, more complete data would improve ex post assessments of policy effectiveness. Once macroprudential policies are introduced, it is far more difficult to monitor their impact on the target variables if only aggregate data are available. In addition, more granular information on the distribution of credit standards would allow policymakers to assess whether policies are effective in curbing tail risks.
+
+## Closing the gaps in real estate statistics
+
+Work is now under way to close the gaps in real estate statistics.
+
+In 2016, the ESRB published a Recommendation laying the foundations for improving the availability and comparability of data on real estate markets in the EU. The Recommendation on closing real estate data gaps provides detailed definitions of the indicators needed to monitor real estate sectors across countries, and sets data requirements in terms of granularity and frequency. It includes a specific requirement for the European supervisory authorities to disclose annually aggregated information on the exposure to real estate markets of the entities under their supervision. 7
+
+The need for detailed data on real estate markets for prudential purposes was also recognised by the Economic and Financial Affairs Council in 2017.
+
+That said, statisticians in Europe - and further afield - still need to resolve a number of technical issues in terms of methodology and data sources. In line with the division of responsibilities at the European level, this work is being led by the ECB in the field of financial variables and by Eurostat for the physical market variables. The two institutions are cooperating closely on the topic and we are confident that they will make good progress.
+
+Real estate data is not merely a technical issue. The availability of these data could have profound consequences for macroprudential and monetary policymaking and so for all euro area citizens. It is therefore an opportune time for statisticians and other stakeholders to meet to discuss these issues and I trust this conference will help move the debate forward.
+
+See for example M ian, A . and Sufi, A . (2014), House of Debt , The University of Chicago Press. 1
+
+Household wealth is mainly held in the form of real assets, which represent 82.2% of total assets owned by households; the remaining assets (17.8%) are financial. The household main residence, with a portfolio share of 49.5% of total assets, is the largest component of real assets. See ECB (2016), 'The Household Finance and 2
+
+Consumption Survey: methodological report for the second wave', Statistics Paper Series No 18, ECB, Frankfurt am Main, December.
+
+- For a discussion of the relationship between wealth effects and consumption in the euro area see Guerrieri, C. and Mendicino, C. (2018), 'Wealth effects in the euro area', Working Paper Series, No 2157, ECB, Frankfurt am Main, June. 3
+- See Battistini, N. and V ourdas, J., European Central Bank (2018), 'The housing market as a predictor of prolonged contractions in economic activity', Box 1 of the article 'The state of the housing market in the euro area', Economic Bulletin , Issue 7. 4
+- See Crowe, C., Dell'A riccia, G., Igan, D. and Rabanal, P . (2011) 'How to Deal with Real Estate Booms: Lessons from Country Experiences', IM F Working Paper 11/91. 5
+- See Dierick, F ., Point, E., Cornacchia, W . and Pirovano, M . (2017), 'Closing real estate data gaps for financial stability monitoring and macroprudential policy in the EU', IFC Bulletins chapters, in: Bank for International Settlements (ed.), Data needs and Statistics compilation for macroprudential analysis, volume 46 Bank for International Settlements. 6
+- ESRB Recommendation 2016/14 adopted on 31 October 2016. 7

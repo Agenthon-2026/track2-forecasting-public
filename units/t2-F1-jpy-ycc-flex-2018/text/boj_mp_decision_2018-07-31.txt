@@ -1,0 +1,102 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2018/k180731a.htm | date: 2018-07-31 | type: central_bank_decision
+
+Strengthening the Framework for Continuous Powerful Monetary Easing
+Bank of Japan, 31 July 2018
+
+1. At the Monetary Policy Meeting (MPM) held today, with a view to persistently continuing with powerful monetary easing, the Policy Board of the Bank of Japan decided to strengthen its commitment to achieving the price stability target by introducing forward guidance for policy rates, and to enhance the sustainability of "Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control."
+
+(1) Forward guidance for policy rates [Note 1]
+
+The Bank intends to maintain the current extremely low levels of short- and long-term interest rates for an extended period of time, taking into account uncertainties regarding economic activity and prices including the effects of the consumption tax hike scheduled to take place in October 2019.
+
+(2) Yield curve control
+
+The Bank decided, by a 7-2 majority vote, to set the following guideline for market operations for the intermeeting period. [Note 2]
+
+The short-term policy interest rate:
+
+The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate:
+
+The Bank will purchase Japanese government bonds (JGBs) so that 10-year JGB yields will remain at around zero percent. While doing so, the yields may move upward and downward to some extent mainly depending on developments in economic activity and prices.[1] With regard to the amount of JGBs to be purchased, the Bank will conduct purchases in a flexible manner so that their amount outstanding will increase at an annual pace of about 80 trillion yen.
+
+(3) Guidelines for asset purchases
+
+With regard to asset purchases other than JGB purchases, the Bank decided, by a unanimous vote, to set the following guidelines.
+
+a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) so that their amounts outstanding will increase at annual paces of about 6 trillion yen and about 90 billion yen, respectively. With a view to lowering risk premia of asset prices in an appropriate manner, the Bank may increase or decrease the amount of purchases depending on market conditions.[2]
+
+b) As for CP and corporate bonds, the Bank will maintain their amounts outstanding at about 2.2 trillion yen and about 3.2 trillion yen, respectively.
+
+2. In addition, the Bank decided to make the following adjustments in accordance with the measures described above.
+
+a) Change in the size of the Policy-Rate Balance
+
+The Bank, under the condition that yield curve control can be conducted appropriately, will reduce the size of the Policy-Rate Balance in financial institutions' current account balances at the Bank -- to which a negative interest rate is applied -- from the current level of about 10 trillion yen on average. This Balance is calculated assuming that arbitrage transactions take place in full among financial institutions.
+
+b) Change in the amount of each ETF to be purchased
+
+The Bank will revise the purchase amount of each ETF and increase that of ETFs which track the Tokyo Stock Price Index (TOPIX).
+
+3. Japan's economy is expanding moderately, with a virtuous cycle from income to spending operating, and labor market conditions have continued to tighten steadily. Meanwhile, prices have continued to show relatively weak developments compared to the economic and employment conditions. As shown in the July 2018 Outlook for Economic Activity and Prices (Outlook Report) released today, this is attributable to a combination of factors such as firms' cautious wage- and price-setting stance and households' continuous cautiousness toward price rises, and it is likely to take more time than expected to achieve the price stability target of 2 percent. However, the year-on-year rate of change in the consumer price index (CPI) is likely to increase gradually toward 2 percent with the output gap remaining positive.
+
+4. Based on the above recognition, the Bank judged it appropriate to introduce forward guidance for policy rates and to enhance the sustainability of "QQE with Yield Curve Control" by conducting market operations as well as asset purchases in a more flexible manner, thereby maintaining the output gap as long as possible within positive territory. The Bank recognizes that this will lead to achieving the price stability target of 2 percent at the earliest possible time, while securing stability in economic and financial conditions.
+
+5. The Bank will continue with "QQE with Yield Curve Control," aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed CPI (all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. The Bank will examine the risks considered most relevant to the conduct of monetary policy and make policy adjustments as appropriate, taking account of developments in economic activity and prices as well as financial conditions, with a view to maintaining the momentum toward achieving the price stability target.
+
+[Note 1] Mr. Y. Harada dissented, considering that it was appropriate to introduce forward guidance that would further clarify its relationship with the price stability target. With a view to achieving the price stability target of 2 percent at the earliest possible time, Mr. G. Kataoka dissented, considering that it was appropriate for the Bank to make a commitment to taking additional easing measures if it revised downward its assessment of medium- to long-term inflation expectations, rather than to make the commitment to maintaining the levels of short- and long-term interest rates.
+
+[Note 2] Voting for the action: Mr. H. Kuroda, Mr. M. Amamiya, Mr. M. Wakatabe, Mr. Y. Funo, Mr. M. Sakurai, Ms. T. Masai, and Mr. H. Suzuki. Voting against the action: Mr. Y. Harada and Mr. G. Kataoka. Mr. Y. Harada dissented, considering that allowing the long-term yields to move upward and downward to some extent was too ambiguous as the guideline for market operations decided by the Policy Board. Mr. G. Kataoka dissented, considering that (1) taking account of the current sluggishness in prices and risk factors going forward, it was desirable to strengthen monetary easing so that yields on JGBs with maturities of 10 years and longer would broadly be lowered further, and (2) controlling the long-term yields in a flexible manner would make their target level of around zero percent unclear.
+
+[1] In case of a rapid increase in the yields, the Bank will purchase JGBs promptly and appropriately.
+
+[2] The Bank will continue purchasing ETFs composed of stocks issued by firms that are proactively investing in physical and human capital at an annual pace of about 300 billion yen, as decided at the MPM held in December 2015.
+
+(Reference)
+
+Meeting hours:
+
+Monday, July 30: 14:00-15:30
+Tuesday, July 31: 9:00-12:56
+
+Policy Board members present:
+
+Haruhiko Kuroda (Governor)
+Masayoshi Amamiya (Deputy Governor)
+Masazumi Wakatabe ( Deputy Governor )
+Yutaka Harada
+Yukitoshi Funo
+Makoto Sakurai
+Takako Masai
+Hitoshi Suzuki
+Goushi Kataoka
+
+(Others present)
+
+July 30
+
+From the Ministry of Finance:
+Eiji Chatani, Deputy Vice Minister for Policy Planning and Co-ordination (14:00-15:30)
+
+From the Cabinet Office:
+Akihiro Nakamura, Vice-Minister for Policy Coordination (14:00-15:30)
+
+July 31
+
+From the Ministry of Finance:
+Minoru Kihara, State Minister of Finance (9:00-12:25, 12:33-12:56)
+
+From the Cabinet Office:
+Takao Ochi, State Minister of Cabinet Office (9:00-12:25, 12:33-12:56)
+
+Release Dates and Time:
+
+Strengthening the Framework for Continuous Powerful Monetary Easing -- Tuesday, July 31 at 13:03
+Outlook for Economic Activity and Prices (The Bank's View) -- Tuesday, July 31 at 13:03
+
+Release Schedule:
+
+Outlook for Economic Activity and Prices (Outlook Report, full text including The Background) -- Wednesday, August 1 at 14:00
+Summary of Opinions -- Wednesday, August 8 at 8:50
+Minutes -- Tuesday, September 25 at 8:50

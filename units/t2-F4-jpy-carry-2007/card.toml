@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f4"]
 expert_time_estimate_min = 45.0
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "daily"
-description      = "USD/JPY Carry Under Subprime Funding Stress (21 BD). As-of 2007-07-20; targets JPY at horizons [21] BD. BNP08 canonical: positioning + funding-stress text => whether the carry unwinds over the horizon is the forecasting question, and the tail should be shaped accordingly."
+description      = "USD/JPY Carry Under Subprime Funding Stress (21 BD). As-of 2007-07-20; targets JPY at horizons [21] BD. Positioning and funding-stress text on the yen."
 created_by       = "Ruolan Sun"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -73,13 +71,13 @@ end_date   = "2007-07-20"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; CFTC; Federal Reserve"
+source         = "BIS central bankers' speeches; CFTC; Federal Reserve; Bank of Japan; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2007-07-20"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "positioning_report"]
-n_documents    = 8
-notes          = "COT table (in corpus): speculative yen shorts near record as carry peaks. Subprime-fund stress texts accumulate through July. BNP08 conditions — crowded funding-currency shorts + building credit stress — make the carry-unwind tail material; whether it triggers over the horizon is the forecasting question, so keep a fat tail."
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "landmark", "positioning_report"]
+n_documents    = 12
+notes          = "The COT table in the corpus shows large net speculative yen shorts through 2007, and texts on deteriorating subprime mortgage credit accumulate through July (the Fed chair's July testimony, the June minutes released 19 July). The documents bear on crowded funding-currency positioning together with building credit stress; how that combination plays out over the horizon is the forecasting question."
 
 [targets]
 asset_ids        = ["JPY"]

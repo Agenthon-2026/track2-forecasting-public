@@ -1,0 +1,105 @@
+Claudia Buch: Evolving risks – evolving supervision
+2024-06-12
+
+## Claudia Buch: Evolving risks - evolving supervision
+
+Speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bundesbank Symposium "Bundesbank im Dialog", Frankfurt am Main, 12 June 2024.
+
+* * *
+
+Thank you very much for the invitation to speak at this year's Symposium "Bundesbank im Dialog". For more than 25 years, this symposium has been a key forum in Germany, facilitating a dialogue between relevant stakeholders. This dialogue is particularly important at the current juncture.
+
+The environment in which banks operate has changed significantly in recent years. Several major shocks, including the COVID-19 pandemic, the Russian invasion of Ukraine, the energy crisis, the increase in inflation and the turbulence on international banking markets in March 2023, have had profound economic and societal effects. Climate change and nature degradation require deep structural changes in the economy and affect the risks banks are facing. Digitalisation and the market entry of new financial institutions are changing the competitive nature of banking markets. In addition, heightened geopolitical risks are having an impact on the post-war global institutional order and international economic relations. 1   All of this triggers structural changes in the real economy and the financial system - changes that will take time to fully materialise and whose final effects are highly uncertain.
+
+These evolving risks mean that supervision also has to evolve, and it is evolving.
+
+This year, we are celebrating the tenth anniversary of European banking supervision, which is the first pillar of the banking union. The banking union was a direct response to the global financial crisis and the European sovereign debt crisis. The increase in cross-border banking activity and the risk of contagion, both across borders and between banks and sovereigns, meant that supervision in Europe needed to be harmonised. In its first ten years the Single Supervisory Mechanism (SSM) has delivered effective supervision in the euro area through a common, consistent supervisory framework building on national best practices.
+
+In the case of Germany, its 25 significant banks are now directly supervised by the ECB. But national supervision continues to play a significant role. The ECB and national supervisors work together in Joint Supervisory Teams (JSTs) led by the ECB. Less significant institutions (LSIs) remain under national supervision while the ECB has an oversight function. For Germany, this means that the Federal Financial Supervisory Authority/Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) and the Deutsche Bundesbank supervise more than 1,000 banks, accounting for 40% of the domestic market in terms of assets - the highest share of LSIs in the euro area. 2   The ECB's Supervisory Board includes representatives from national supervisory authorities. Moreover, 90% of inspectors responsible for on-site inspections are employed by national authorities.
+
+So European supervision only works well if national supervision works well. And national supervision has evolved. For example, in response to the Wirecard scandal that erupted in 2019, national supervision in Germany has been reformed significantly, with BaFin being granted new powers and tools. 3
+
+Supervision in Europe and Germany has come a long way over the past decade. And it must continue to evolve if we are to respond to the new environment and become more efficient and effective.
+
+In May this year the ECB's Supervisory Board took important decisions to further develop supervision in Europe. But before I describe this reform in more detail, let me give you a quick overview of where we stand in terms of risks and banks' resilience.
+
+## Risk and resilience in the European banking sector
+
+The resilience of banks in Europe has increased over the past decade, driven by several factors.
+
+First, legacy risks have been reduced. Non-performing loans (NPLs), once the bane of the European banking system, have fallen significantly. The NPL ratio of significant banks declined from over 7% in 2015 to less than 2% in 2023. This is the result of better macroeconomic conditions, better supervision, better regulatory frameworks and better loan workouts at banks. But financial crises cast long shadows. It takes a long time for the burden of NPLs to be fully removed from the balance sheets of households and firms, with negative implications for growth dynamics. 4   So it is crucial to avoid a renewed build-up of NPLs as European economies go through phases of transformation and are exposed to new shocks.
+
+Second, and in addition to improvements in asset quality, the resilience of banks has been strengthened through better capitalisation. Banks' aggregate Common Equity Tier 1 ratio, which is based on their risk-weighted assets, increased from 12.7% in 2015 to 15.6% in 2023. By contrast, the leverage ratio, which is based on their total assets, increased less, from 5.3% in 2016 to 5.6% in 2023. One important driver of the increased capitalisation has been the post-crisis strengthening of the regulatory framework. But it is also important to note that the shocks that have hit European economies in recent years have largely been buffered by fiscal and monetary policy, thus shielding the banks from their full impact.
+
+The third factor at play is robust liquidity. Banks' liquidity coverage ratio increased from 138% in 2015 to 158% in 2023. Effective liquidity risk management is becoming even more important in the current environment. The monetary tightening that began in July 2022 followed years of highly accommodative monetary policy and ample liquidity provision. Moreover, heightened geopolitical risks are not fully priced in by markets, which may lead to abrupt market reactions following negative news.
+
+However, even if banks may meet capital and liquidity requirements, this will not shield them from the impact of adverse shocks if risk management systems and governance are ineffective. This is one of the key lessons from the turmoil on international banking markets in March 2023.
+
+The fourth factor is thus improving governance and risk management, which has been a priority for European banking supervision in recent years. While progress has been made here, more needs to be done. Strong internal governance and effective strategic steering remains one of our top supervisory priorities. We will soon publish a guide on governance and risk culture, including examples of good practice in this field.
+
+Overall, there is no room for complacency. Risk management in banks needs to continue focusing on forward-looking risk assessments and sustained resilience, including capital, liquidity and operational resilience. European banking supervision needs to foster this sound risk management in banks and ensure sufficient resilience.
+
+The risk environment in which banks operate has evolved substantially in recent years. IT and cyber risks, for example, are on the rise: the number of reported cyber incidents at European banks doubled from 2022 to 2023. 5   And these attacks have become more sophisticated. They can heavily disrupt the functioning of banks, with potentially significant financial, reputational and legal implications. This is why European banking supervision has flagged this topic as a key priority. The results of this year's cyber resilience stress test will be published later this summer.
+
+It is important to note that many changes are not merely cyclical; they are in fact structural. Becoming climate neutral requires changes in relative prices for CO -2
+
+intensive activities and in the patterns of production and consumption. This will have implications for the structure and location of energy-intensive corporate activity. In the financial sector, the growing importance of non-bank financial intermediaries and digitalisation require structural adjustments in the banking sector.
+
+New risks are already materialising and impairing asset quality. But new NPLs emerge slowly and often not in the countries or sectors affected by legacy NPLs. The most visible increase is in commercial real estate, a sector that is particularly sensitive to higher interest rates and weakening growth. More recently, the portfolio of loans to small and medium-sized enterprises has also started to show heightened vulnerabilities. Since the middle of 2023, banks have been reporting an increase in Stage 2 loans and early arrears, highlighting fragilities that might turn into future NPLs. Banks' provisioning flows have often not yet accounted for this emerging deterioration in asset quality, and coverage ratios for NPLs are declining.
+
+Other areas where NPLs could arise are less visible. It will take time for potential loan losses to start materialising as pressure for structural change reaches the real economy, affected firms use up their financial buffers and the effects of fiscal support programmes fade away.
+
+As risks evolve, banks' risk management needs to evolve, too. Many risks are quite novel and have barely affected banks in recent years, meaning that past data and
+
+existing risk models provide little guidance for the future. There is a high degree of uncertainty. Banks thus have to work with scenarios analyses, placing additional demands on governance and risk management.
+
+This implies that supervision must also evolve. Supervisors need to understand the changing risks and their impact on banks, they need to be forward-looking, and they need to provide banks with guidance on scenario analysis. They also need to communicate clearly with banks and ensure that identified deficiencies are remedied promptly. All this takes time and resources, meaning existing tasks need to be reprioritised.
+
+## Reforming ECB Banking Supervision's supervisory processes
+
+This is why the ECB's Supervisory Board has embarked on a journey to make supervision in Europe more efficient and effective. A new risk tolerance framework has been in place since 2023, enabling supervisors to set bank-specific priorities in line with the overall priorities of European banking supervision. A multi-year approach has been put in place, allowing JSTs to spread the assessments of the Supervisory Review and Evaluation Process (SREP) modules over a four-year cycle.
+
+In addition, ECB Banking Supervision asked a panel of independent experts to assess European supervision. Their report, published in April 2023, concluded that ECB Banking Supervision has established itself as an effective and respected supervisory authority. But it also noted that we could further improve our efficiency and effectiveness by making existing supervisory processes more integrated and more risk sensitive.
+
+On this basis, in May 2024 the Supervisory Board decided on a reform of the SREP, its annual check-up of banks' health . This reform will make supervision more efficient and effective, while ensuring that the SREP remains fully compliant with the relevant European Banking Authority (EBA) guidelines. Changes will be implemented gradually, starting in the second half of 2024, and will be finalised for the 2026 SREP cycle.
+
+## The Supervisory Board has six main goals for the new SREP.
+
+1. Focusing risk assessments: to assess bank-specific risks, supervisors need common tools, methodologies and procedures. But this does not mean that every supervisory team has to address every risk with the same intensity every year. The new SREP will build on and strengthen the multi-year approach. If assessments show no material changes in a bank's risk profile, SREP decisions can be updated every two years, under some conditions. This possibility - so far limited to a small number of banks - will be extended, thereby making supervision more proportionate.
+
+Smaller banks already report less complex and fewer data. Whether banks are classified as small and non-complex institutions or as banks with a high impact determines the intensity and nature of the supervisory approach. But we should be clear that a smaller bank is not necessarily a less risky bank. Smaller banks also often
+
+struggle with complex risk management and governance. The US banking market turmoil in March 2023 was a stark reminder - it originated from relatively small banks, not from larger banks.
+
+2. Better integrating supervisory activities: ECB Banking Supervision carries out various supervisory activities, including on-site inspections of risks, risk controls and governance. Together with internal model assessments, these inspections complement off-site supervision and targeted deep-dive analyses by JSTs on dedicated topics. Horizontal thematic reviews, involving benchmarking across banks, enable a thorough assessment of specific issues. Together, these activities provide an integrated assessment of the risks that banks are facing and their ability to manage them. These activities need to be well coordinated. In the new SREP, integrated planning of different supervisory activities will be further improved to maximise synergies. This will also provide banks with a clearer overview of supervisory plans, thereby making supervision more predictable and more transparent.
+3. Using the full supervisory toolkit: the European legal framework provides several tools that can be used to ensure that risks are mitigated. These tools differ in their intrusiveness. Moral suasion and operational letters are the softest, least intrusive tools. Sanctions, higher capital requirements and periodic penalty payments are more intrusive tools.
+
+In the reformed SREP, supervision will become more effective and intrusive by using the full range of supervisory tools. 6   If identified weaknesses are not sufficiently remediated, ECB Banking Supervision will expeditiously increase the severity of supervisory tools and swiftly move up the escalation ladder. In addition to issuing binding quantitative requirements, this includes making wider use of legally binding qualitative requirements and enforcement measures such as periodic penalty payments. This is particularly relevant for areas in which banks have left supervisory findings unaddressed for too long.
+
+Let me give you an example. There is a large number of outstanding findings for weaknesses in risk data aggregation and reporting - the lowest-scoring sub-category in the area of internal governance in the 2022 and 2023 SREP cycles. This is not just a technical issue, but one that can have severe implications for banks' decision-makers when identifying and steering risks.
+
+4. Enhancing communication: supervisory communication to banks needs to be clear and concise. But SREP decisions can be long documents. In 2021, ECB Banking Supervision introduced executive letters to facilitate better communication with banks about key priorities. In the future, SREP decisions will be more focused, clearly outline supervisory expectations and include strong measures when needed. Reducing the length of SREP decisions will not, however, compromise their legal clarity or enforceability. The length of decisions will continue to vary across banks, depending on their specific situation and risks.
+5. Making methodologies more stable: good supervision is based on consistent and robust methodologies. Starting from very different practices across countries, European
+
+banking supervision has made significant progress in developing common methodological approaches, thus making supervision more predictable and more transparent.
+
+At the same time, our methodological framework is complex - reflecting the complexity of modern banking. This complexity can be costly, for both supervisors and banks, as analytical capabilities need to be built up and maintained. We therefore need to make existing methodologies more stable and, where possible, simpler. ECB Banking Supervision is currently working on a revised methodology for setting Pillar 2 capital requirements, which will be published by the end of 2024 and fully applied in the 2026 SREP cycle. Making existing methodologies simpler and more stable also enables supervisors to focus methodological work on novel risks.
+
+6. Making better use of IT systems and analytics: reliable IT systems and good data analytics are crucial if banks are to serve their clients well. They are equally important for supervisors. Evolving supervision thus requires continued investment in IT systems, not least to reap efficiency gains from the use of artificial intelligence. We have therefore prioritised our digital agenda. Our IT strategy for the years 2024-28 foresees continued investment to improve efficiency, access to data, risk analysis and collaboration. For instance, fit and proper assessments account for almost half of supervisory decisions. They are used to assess whether members of a supervised bank's management body are suitable for their roles. The tool supports Heimdall experts in processing the vast amounts of information they receive when carrying out these assessments. This helps improve the quality of assessments, as the manual workload is reduced and supervisors can focus on more complex cases. Another example is , a web-based platform helping supervisors find, extract and compare Athena information from a corpus of millions of articles, supervisory assessments and bank documents.
+
+## Supervision will not become "light touch"
+
+These changes will improve European banking supervision. They will make supervisory processes more targeted, efficient, predictable and transparent. The SREP will become shorter. From 2026 onwards, SREP decisions will be sent to most banks by the end of September, rather than December as is currently the case. This will reduce the time lag between the identification of deficiencies and the remedial action that banks are expected to take. Supervision will become more intrusive by using the full range of supervisory tools and moving up the escalation ladder more swiftly when findings are not remediated.
+
+The reformed SREP will not mean less supervision or a "light touch" approach. The key purpose of supervision - to ensure that banks remain safe and sound - will not change. But supervision will become more effective. This is more relevant than ever in the fast-evolving environment that we live in. As the risk environment evolves, supervision is evolving, too.
+
+All of this will, ultimately, benefit growth and financial stability in Europe. The evidence is clear: banks that are safe and sound are better equipped to lend to the real economy. Banks that are well capitalised and resilient are better placed to compete in international financial markets. And banks that have state-of-the-art governance
+
+structures have better forward-looking risk assessments, can more easily shield themselves against unforeseen events, and can continue to provide services to their customers, including during periods of structural change and in times of crisis.
+
+- 1 Yellen, J.L. (2024), " The Importance and Strength of the Transatlantic Alliance", remarks at Frankfurt School of Finance and Management, 21 May.
+- 2 VØron, N. (2020), " Banking Regulation in the Euro Area: Germany Is Different", 11 May.
+- 3 BaFin (2021), " Reform as a long-distance race", 8 December.
+- 4 Research shows that unresolved NPLs are associated with lower output growth and slower dynamic recovery. See Ari, A., Chen, S. and Ratnovski, L. (2019), "The Dynamics of Non-Performing Loans During Banking Crises: A New Database", IMF , No 19/272, International Monetary Fund, December. Working Papers
+- 5 Tuominen, A. (2024), , 28 March. Interview with Il Sole 24 Ore
+- 6 Elderson, F. (2023), "Powers, ability and willingness to act - the mainstay of effective banking supervision", speech at the House of the Euro, Brussels, 7 December.

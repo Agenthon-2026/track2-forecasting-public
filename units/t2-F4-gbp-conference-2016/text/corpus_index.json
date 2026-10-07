@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_fischer_2016-06-22",
+      "timestamp": "2016-06-22",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_fischer_2016-06-22.txt"
+    },
+    {
+      "doc_id": "bis_draghi_2016-07-06",
+      "timestamp": "2016-07-06",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_draghi_2016-07-06.txt"
+    },
+    {
       "doc_id": "beige_book-2016-07-31",
       "timestamp": "2016-07-31",
       "source": "Federal Reserve (Beige Book)",
@@ -44,6 +58,13 @@
       "source": "BIS central bankers' speeches",
       "doc_type": "cb_speech",
       "file": "bis_mersch_2016-09-03.txt"
+    },
+    {
+      "doc_id": "boe_mp_decision_2016-09-15",
+      "timestamp": "2016-09-15",
+      "source": "Bank of England",
+      "doc_type": "central_bank_decision",
+      "file": "boe_mp_decision_2016-09-15.txt"
     },
     {
       "doc_id": "fomc-statement-2016-09-21",

@@ -1,0 +1,194 @@
+Michelle W Bowman: Responsive and responsible bank regulation and supervision
+2023-06-25
+
+For release on delivery 9:30 a.m. EDT (3:30 p.m. local time) June 25, 2023
+
+Responsive and Responsible Bank Regulation and Supervision
+
+Remarks by
+
+Michelle W. Bowman
+
+Member
+
+Board of Governors of the Federal Reserve System
+
+at
+
+The Salzburg Global Seminar on Global Turbulence and Financial Resilience: Implications for Financial Services and Society
+
+Salzburg, Austria
+
+June 25, 2023
+
+It is a pleasure to be with you here in Salzburg. 1 Bank regulators, particularly in the United States, have come to an inflection point where we are again taking stock of the reforms implemented after the 2008 financial crisis and evaluating whether these reforms have proven to be sufficient. One justification for pushing these reviews forward has been the recent stress in the banking system.
+
+The regulatory framework has evolved substantially since the 2008 financial crisis. The regulatory landscape has become more restrictive, with large increases in capital and liquidity requirements, and other post-crisis reforms to improve bank resiliency. Since that time, the banking landscape has also evolved. Today, to stay competitive, banks need to be able to quickly adopt new and innovative technology.
+
+My remarks this afternoon will address the importance of a responsive and responsible regulatory framework, including regulation and supervision. A responsive framework adapts quickly to changing economic conditions, changing business activities and models, and emerging risks. A responsible framework enables regulators to make changes that are informed by open debate and take into account intended and unintended consequences. These two conceptsadapting to changing conditions, and transparency about regulatory adjustments-are intertwined. They inform my view about how bank regulation should evolve and adapt over time. This is particularly relevant now in light of the calls for reform of the regulatory framework, motivated in part by a desire to remediate perceived weaknesses that contributed to recent bank failures.
+
+1 The views expressed here are my own and not necessarily those of my colleagues on the Federal Open Market Committee or the Board of Governors.
+
+## Responsive Regulation and Supervision
+
+This year, we have seen the failures of Silicon Valley Bank (SVB), Signature Bank (Signature), and First Republic Bank, and the merger of Credit Suisse into UBS. In the United States, the bank failures of SVB and Signature were accompanied by government intervention in the form of a guarantee on uninsured deposits at these institutions, and the creation of a new, broad-based, emergency liquidity facility designed to calm markets and provide reassurance about the underlying strength of the U.S. banking system. These bank failures also highlighted the need for regulators to consider reform efforts to make the financial system stronger and more resilient.
+
+Many of the problems we have seen at these banks-interest rate risk, liquidity risk, poor risk management-are not caused by any evolution in banking. These bank failures and recent stress in the banking system have highlighted key deficiencies in risk management practices, and key deficiencies in supervisory priorities. The Federal Reserve and other banking agencies have been trying to determine what more can be done to respond to the recent stress, but we also need to reflect on how reform efforts can lead to the best results, while minimizing unintended consequences.
+
+## Independent Review
+
+In my view, a necessary next step is to engage an independent third party to analyze the surrounding events of the recent bank failures to fully understand the factors and circumstances that contributed to the recent bank failures and to the ensuing stress in the banking system. 2
+
+2 Michelle W. Bowman, 'The Evolving Nature of Banking, Bank Culture, and Bank Runs,' (speech at the 21st Annual Symposium on Building the Financial System of the 21st Century: An Agenda for Europe and the United States, Frankfurt, Germany, May 12, 2023),
+
+https://www.federalreserve.gov/newsevents/speech/files/bowman20230512a.pdf.
+
+Several efforts have been undertaken to provide this type of after-the-fact review. 3 Much of the work done to date has been helpful and has brought to light some uncomfortable realities about the lead-up to the bank failures. But much of this work was prepared internally, by Federal Reserve supervision staff, relying on a limited number of unattributed source interviews, and completed on an expedited timeframe with a limited scope. Although the report was published as a report of the Board of Governors, it was the product of one Board Member, and was not reviewed by the other members of the Board prior to its publication. Troublingly, other Board members were afforded no ability to contribute to the report's content. There is a genuine question whether these efforts provide a sufficient accounting of what occurred. A supplemental, independent review would help overcome the limitations of scope and timing of these initial efforts, and address concerns about the impartiality and independence of the reviews.
+
+Additional, independent reviews could add substantial value. 4 These reviews should play an important role in informing the future path of supervision and regulation. The diagnosis of what went wrong can help inform necessary changes to supervision and regulation, the Fed's
+
+3 See Government Accountability Office, Bank Regulation: Preliminary Review of Agency Actions Related to March 2023 Bank Failures GAO-23-106736 (Washington: Government Accountability Office, April 2023), https://www.gao.gov/assets/gao-23-106736.pdf; Federal Deposit Insurance Corporation, FDIC's Supervision of Signature Bank (Washington: Federal Deposit Insurance Corporation, April 28, 2023),
+
+https://www.fdic.gov/news/press-releases/2023/pr23033a.pdf; Michael S. Barr, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, 'Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank' (April 28, 2023), https://www.federalreserve.gov/publications/files/svb-review20230428.pdf.
+
+4 See, e.g., Michael S. Barr, 'Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank' ('We welcome external reviews of SVB's failure, as well as congressional oversight, and we intend to take these into account as we make changes to our framework of bank supervision and regulation to ensure that the banking system remains strong and resilient.'); letter from Senator Jon Tester and Senator Thom Tillis to President Joe Biden, March 18, 2023 ('Though the regulatory agencies tasked with overseeing our financial institutions have released a series of internal reports examining causes, failures, and corrective measures, we believe an independent examination that covers the full jurisdictional scope of these failures, led by non-partisan experts, is critically important.'); Margaret E. Tahyar, Statement before the Subcommittee on Financial Institutions and Monetary Policy of the House Committee on Financial Services, Washington, D.C. (May 10, 2023),
+
+https://docs.house.gov/meetings/BA/BA20/20230510/115890/HHRG-118-BA20-Wstate-TahyarM-20230510.pdf ('There should be a structurally independent investigation conducted with the same level of depth and professional standards that the major federal agencies require of independent investigations in the private sector.').
+
+emergency authorities and liquidity tools, and the resolution, auction, and insurance processes of the Federal Deposit Insurance Corporation (FDIC). Misperceptions and misunderstandings about the root causes and related issues could result in changes that are not only unnecessary but result in real harm to banks and their customers, to the financial system, and to the broader economy.
+
+The policy agenda-the set of reforms to supervision and regulation that are intended to remediate perceived shortcomings-has already begun to take shape, driven by the conclusions from the current set of limited reviews. And while I think some changes to supervision and regulation-such as a renewed examination focus on core banking risks like liquidity and interest rate risk and a careful review of liquidity requirements and expectations-are warranted and helpful, I am concerned that other reforms may be based on faulty assumptions or incomplete information.
+
+In particular, as the United States moves forward with implementing new international capital standards, I am concerned that new capital requirements could unnecessarily hinder bank lending and diminish competition. We need to consider whether examiners have the appropriate tools and support to identify important issues and demand prompt remediation. Increasing capital requirements simply does not get at this underlying concern about the effectiveness of supervision.
+
+I have heard the argument that recent bank stress was the result of changes Congress made several years ago to promote risk-based and tailored supervision, and a shift to a less assertive supervisory approach. I have not seen compelling evidence to support this. As I and many of my colleagues have noted, the banking system today is strong and resilient, despite
+
+recent banking stress. 5 This is in no small part due to the extensive reforms implemented after the 2008 financial crisis. Banks today are much better capitalized, with substantially more liquidity, and are subject to a new range of supervisory tools that did not exist prior to 2008. The strong foundation of the banking system results in banks that are well prepared to continue lending to their communities and supporting the broader economy even in stressful economic times. The underlying strength and resilience of the banking system also begs the questionwhat are the justifications for higher capital requirements?
+
+## Supervisory Reform
+
+Supervisory reform proposals-particularly those that address a perceived retreat from robust supervision over the last few years-could similarly be improved by additional review, analysis, and discussion. The notion that any regulator, including the Federal Reserve, would purposefully promote a less assertive supervisory approach or try to limit the ability of examiners to identify issues and require remediation, is inconsistent with every experience of my nearly 14 years in the professional banking and regulatory environments-as a banker, a state bank commissioner, and as a member of the Federal Reserve Board. 6 Supervision has long been and
+
+5 See Joint Statement of Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Chairman Martin J. Gruenberg (March 12, 2023)
+
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm ('The U.S. banking system remains resilient and on a solid foundation, in large part due to reforms that were made after the financial crisis that ensured better safeguards for the banking industry.'); Michelle W. Bowman, 'Considerations for Revisions to the Bank Regulatory Framework' (speech at the Texas Bankers Association Annual Convention, San Antonio, Texas, May 19, 2023) https://www.federalreserve.gov/newsevents/speech/files/bowman20230519a.pdf ('While we have seen stress in some parts of the banking system, overall the system is strong and resilient. U.S. banks have high levels of capital and liquidity, and banks of all sizes continue to support the economy. To a large degree, this strength comes from the work done at the direction of Congress, most recently pursuant to the bipartisan Economic Growth, Regulatory Relief, and Consumer Protection Act, which better aligned regulation with risk'); Michael S. Barr, Testimony before the Financial Services Subcommittee, U.S. House of Representatives, Washington, D.C. (May 16, 2023) https://www.federalreserve.gov/newsevents/testimony/barr20230516a.htm ('Overall, the U.S. banking system remains strong and resilient, and depositors should be confident that all deposits in our banking system are safe.').
+
+6 See, e.g., Randal K. Quarles, 'Spontaneity and Order: Transparency, Accountability, and Fairness in Bank Supervision' (speech at the American Bar Association Banking Law Committee Meeting, Washington, D.C.,
+
+continues to be a critical element of the regulatory framework at the Federal Reserve, the other U.S. banking agencies, and internationally. While I have long been an advocate for greater transparency in supervision, transparency should not be mistaken for leniency. 7 When we provide regulated institutions with clear expectations, and institutions fail to live up to those expectations, examiners are better positioned to require prompt remediation. This approach results in greater consistency and fairness and supports bank efforts to meet supervisory expectations by facilitating open engagement with examiners.
+
+## Echoes of the Past
+
+The recent banking stress presents many of the same dynamics that led to the savings and loan crisis in the 1980s. Savings and loan institutions have been and continue to be important providers of banking services in the United States, but during the 1980s many of these institutions failed. These institutions experienced a period of rapid asset growth, followed by rapidly rising interest rates that depressed the value of some of these assets and an erosion of customer confidence that led to deposit withdrawals.
+
+Many of these same dynamics created banking stress over the past few months, but the buildup of these risks was foreseeable. The failure to identify and properly address the buildup of these risks was a substantial oversight for the management and supervisors of SVB and was
+
+January 17, 2020) https://www.federalreserve.gov/newsevents/speech/files/quarles20200117a.pdf ('Through their engagement with banks, supervisors promote good risk management and thus help banks preemptively avert excessive risk taking that would be costly and inefficient to correct after the fact. Where banks fall materially out of compliance with a regulatory framework or act in a manner that poses a threat to their safety and soundness, supervisors can act rapidly to address the failures that led to the lack of compliance or threat to safety and soundness.').
+
+7 See Michelle W. Bowman, 'Independence, Predictability, and Tailoring in Banking Regulation and Supervision' (speech at the American Bankers Association Community Banking Conference, Orlando, Florida, February 13, 2023) https://www.federalreserve.gov/newsevents/speech/files/bowman20230213a.pdf ('To be clear, I do not consider transparency to mean leniency. We hold banks of all sizes to high standards, commensurate with their size and risk, and being transparent does not dilute the rigor of our regulatory standards. Transparency helps ensure that banks are aware of these standards and expectations so that they can work more effectively and efficiently to meet them.').
+
+ultimately fatal to the bank. It seems obvious that reform efforts should concentrate on supervision programs and their effectiveness in identifying material risks to banking institutions.
+
+It is incumbent on policymakers, as we revisit the regulatory framework, to pursue policy informed by an impartial review of the facts. There are several areas where it is apparent that improvements are needed-more effective communication among regulators and within the Federal Reserve System and Board's supervisory program, greater transparency in supervisory expectations with enforceable and timely consequences when expectations are not met, a focus on the most relevant banking risks with a demonstrated nexus to bank stability and safety and soundness, and a clearly articulated and implementable approach to the supervision of novel banking activities.
+
+One area in particular that requires attention is the current approach to the supervision of novel banking activities, which leaves financial institutions in a supervisory void. While there have been some efforts to provide guidance, there remains substantial uncertainty about the permissibility of and supervisory expectations for these activities, including banking as a service, digital assets, and other novel activities. This leaves banks in the perilous position of relying on general but non-binding statements by policymakers only to be criticized at some point in the future. The absence of a clear regulatory and supervisory approach creates the risk that regulators may determine novel activities are impermissible or impose new requirements and expectations on these activities after the fact and, for some first movers, after significant investment. If our role is effective supervision and regulation, we must be willing to engage on both the novel and traditional activities.
+
+These changes in supervisory approach could help remediate current shortcomings and build capacity to embrace, evolve with, and respond to emerging risks. Failure to follow this
+
+approach could have significant consequences for banks navigating higher interest rates while meeting the credit and financial needs of their customers.
+
+## Responsible Reform of the Regulatory Framework
+
+A review of bank regulation would be incomplete without a discussion of some basic principles for how the regulatory framework should evolve over time. In my view, responsible reforms reflect and incorporate a number of principles I have spoken about in the past: a commitment to transparency, accountability, efficiency, and due process. 8 These considerations are all important, but one overlooked aspect of responsible reform is the imperative of evaluating the consequences of revisions. I view this as an extension of the need for efficiency. A broader consideration of consequences does not assume the need for a particular reform, but instead takes into account how a particular policy change would interact with the regulatory framework and the impact on the broader financial system.
+
+In thinking through regulatory reform, it is critical to understand the context. Requirements for capital, liquidity, resolution plans, stress testing, and supervisory approach are all elements of the regulatory framework. Each of these complements the others in support of safety and soundness. So, when considering reforms, we must think about which tools are most effective and efficient in addressing identified shortcomings. I expect that we will find improvements to supervision, revisions to liquidity requirements, or improvements to bank
+
+8 See, e.g., Michelle W. Bowman, 'Independence, Predictability, and Tailoring in Banking Regulation and Supervision' (speech at the American Bankers Association Community Banking Conference, Orlando, Florida, February 13, 2023) https://www.federalreserve.gov/newsevents/speech/files/bowman20230213a.pdf; Michelle W. Bowman, 'Large Bank Supervision and Regulation' (speech at the Institute of International Finance, Washington, D.C., September 30, 2022) https://www.federalreserve.gov/newsevents/speech/files/bowman20220930a.pdf;
+
+Michelle W. Bowman, 'Creating a New Model for the Future of Supervision' (speech at the Community Banking in the 21st Century Research and Policy Conference, St. Louis, Missouri, September 28, 2021),
+
+https://www.federalreserve.gov/newsevents/speech/files/bowman20210928a.pdf.
+
+preparedness to access liquidity are more effective than increases in capital for a broad set of banks, especially during a time of economic uncertainty.
+
+Last year, the U.S. banking regulators confirmed their commitment to implementing the Basel III endgame reforms, and I expect a proposal for public comment will be published this summer. 9 I intend to approach the proposal with an open mind, as we consider taking appropriate and measured steps to reform the U.S. capital framework. I support providing sufficient time, of at least 120 days, for industry and stakeholders to review and provide comment on the proposal.
+
+A key element of the rulemaking process is openness and transparency. In the past, the Board has held public meetings to consider rules of significance. During the pandemic, the Board largely departed from this practice. I believe we should return to having more public, open meetings on matters of importance. Public Board meetings enable Board members to air their views and perspectives and raise potential concerns about how proposals will affect economic activity and financial stability. Public meetings also promote accountability by allowing interested parties to hear the discussion and debate among policymakers on matters that directly affect them.
+
+As we and other regulators around the world begin the process for implementing the final elements of the Basel III international capital framework, it is imperative that we understand both the underlying goals of these changes and their practical impacts. When policymakers raise capital requirements, the tendency can be to singularly focus on the perceived benefits-higher capital implies greater resiliency of the banking system. But there's a tradeoff. Resiliency, in
+
+9 See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, and Office of the Comptroller of the Currency, "Agencies Reaffirm Commitment to Basel III Standards" joint press release (September 9, 2022), https://www.federalreserve.gov/newsevents/pressreleases/bcreg20220909a.htm.
+
+terms of higher capital, comes at a cost-namely, decreased credit availability and increased cost of credit in normal times-and can have broad impacts on banks, the broader financial system, and the economy.
+
+One of the core objectives of the Basel capital standards is to promote a level playing field internationally among banks subject to the standards. This objective can be challenging to evaluate-the business activities, structure, and broader financial landscape varies significantly from country to country, which complicates a horizontal evaluation of capital standards across jurisdictions. And while Basel capital standards are negotiated and internationally agreed to among financial regulators, they also require implementation by each of the many jurisdictions.
+
+In contrast, regulators in the United States have often adopted 'gold-plating' for international Basel capital standards during implementation, layering on higher or expanded requirements above those adopted internationally, including an added stress capital buffer, the enhanced supplementary leverage ratio, and the 'method two' calculation methodology for the global systemically important bank (G-SIB) surcharge. Some gold-plating in the United States is the product of Congressional directives, like the so-called Collins floor, which requires large U.S. banks to calculate their capital requirements using multiple methodologies and apply the one resulting in higher aggregate capital requirements. This is not an indictment of the robust capital standards we have in the United States today, but this U.S. gold-plating is the current baseline as we consider the impact of future capital changes.
+
+While some deviation in standards is to be expected during local implementation of international capital requirements, policymakers should not ignore the underlying goal of promoting international consistency and parity. We often see deviations across jurisdictions to adjust to local market conditions and for other reasons, often by including extended phase-in
+
+periods or reducing the size of capital increases. Gold-plating U.S. standards could further exacerbate the existing differences in international capital standards. We should be mindful of how such jurisdiction-specific deviations could impact international banking activities and crossborder competition. While the policy objective in implementing capital standards is not to disadvantage U.S. banks in non-U.S. markets, or to give an advantage to foreign banks operating in the United States, if international capital standards present substantial variability across jurisdictions, they could have detrimental consequences.
+
+## Non-Bank Financial Services Firms
+
+The effects of capital, however, extend well beyond the impact on international competition, particularly in light of the growing role of non-bank companies in financial services, the so-called shadow banking system. Non-bank competitors, who often already have a pricing advantage, compete in many of the same markets as banks without the same regulatory expectations. Rising bank capital requirements may exacerbate the competitive dynamics that result in advantages to non-bank competitors and push additional financial activity out of the regulated banking system. This shift-while possibly leaving a stronger and more resilient banking system-could create a financial system in which banks simply can't compete in a costeffective manner. The shadow banking system has many connections to the regulated banking system. Even the resiliency of a smaller, safer banking system could prove illusory when we look deeper into the connections between banks and non-banks, for example, with subscription lines of credit supporting the private credit industry, and the indirect bank-financing of non-bank mortgage lending activities through traditional bank credit lines.
+
+How much and what types of financial activity should exist inside versus outside the regulated financial sector? We should be aware that making banks safer and sounder by pushing activity and risk to the shadow banking system may not make the broader financial system safer.
+
+## Regulatory Influence on Banking Products and Services and the Broader Banking System
+
+Regulation has the power to dramatically reshape banking by affecting which products and services banks offer, the price of financial services, and the competitive landscape.
+
+Regulation can affect whether certain banks will be insulated from competition, ensconcing toobig-to-fail institutions atop the banking system and reducing competition and the availability of banking services in certain product markets and geographies. A thorough consideration of these dynamics should be a key element of regulatory reform.
+
+## Availability of Products
+
+Beyond the effects of capital on competition with foreign firms and non-banks, capital requirements can also have a direct impact on bank willingness and ability to engage in core banking activities. Banks pursue business strategies and offer products not despite capital requirements, but with the full knowledge and understanding of the capital allocations required to engage in that activity. Increasing capital requirements can result in banks retreating from certain activities. The net result of a pullback could be higher costs due to the pass-through of higher regulatory requirements, or less availability of certain products and services for consumers. This could also increase concentration risks among competitors that remain in certain product markets.
+
+Policymakers should fully consider these real-world consequences and engage in a transparent and public discussion of the pros and cons of options for capital reform. Banking regulatory and supervisory policy-including capital policy-should be focused on promoting a
+
+safe and sound banking system. I am concerned about the adoption of reforms that attempt to steer banks toward or away from business activities. Bank regulators are not and should not be in the business of making capital allocation decisions regarding bank lending. In the same way, bank regulators should also not direct bank business strategy about the products and services offered by establishing capital requirements that are disproportionate to risk.
+
+## Regulatory Reform and the Banking Landscape
+
+A broader concern about regulatory policy, of which capital requirements are an important component, is the impact on the broader banking landscape. A regulator's initial reaction to a bank failure may be to increase capital costs, focusing on the impact of increased capital on the failed bank and limiting consideration of that impact to the point of the failure. In that narrow test sample, there is no doubt that more capital is preferable and would improve solvency. But broader regulatory reform does not impact only one bank, or impact only banks experiencing significant banking stress, or only banks that have a history of mismanagement.
+
+Broad-based changes can affect the incentives of the various tiers of firms. For example, flattening regulatory requirements-imposing the same high bar on all firms over a certain size-at first blush seems like it would improve financial resiliency. But we should not assume that the banking system would remain static in response to uniform higher regulatory standards across institutions of dramatically different sizes, complexity, business models, and risk.
+
+Eliminating banking standards tailored for these characteristics would create intense pressure on the smaller end of that spectrum to consolidate, as smaller banks struggle to adapt to regulation ill-suited for their size or complexity, applying instead regulations designed for a G-SIB. My intuition is that this type of approach could become a self-fulfilling prophecy, as banks regulated like G-SIBs would have strong incentives to grow or merge, to help develop
+
+economies of scale that come with larger size. Instead of addressing the problem of too-big-tofail banks, regulation could become a tool that insulates too-big-to-fail banks from competition from smaller competitors.
+
+Fundamentally, this raises the question of the ongoing role of tailoring in supervision and regulation. The concept of tailoring-of aligning supervision and regulation with bank risk and complexity, alternatively called risk-based supervision-has recently come under threat of being eroded through regulatory reform efforts in the United States. 10 The tailoring approach has long been a feature of regulation and supervision in the United States, and I think it provides a useful framework for how to think about responsible approaches to regulatory reform.
+
+The Potential Impact of Risk-Insensitive Regulatory Reform on Banks and Competition
+
+What are the consequences of deviating from risk-based supervision and tailoring, when we apply standards designed for larger and more complex firms to smaller and simpler firms?
+
+As an academic matter, and operating in a vacuum, higher standards imply that banks get safer; they hold more capital, face increased scrutiny by examiners, and are subjected to higher standards on all aspects of their business. But we need to consider whether this is truly necessary, and if implemented, what would be the practical outcome?
+
+Under the weight of overly burdensome or redundant regulation, the business models of some banks may simply cease to be viable. Many banks would be unable to operate under the weight of increased compliance costs. Of course, the banking system cannot tolerate unlimited risk, and regulatory policy bears within it the choice about how much risk is appropriate within
+
+10 See, Michelle W. Bowman, 'Statement on Third Party Risk Management Guidance' (June 6, 2023), https://www.federalreserve.gov/newsevents/pressreleases/bowman-statement-20230606.htm ('[O]ne size fits all regulatory expectations for banks, including small banks, and failing to appropriately consider and mitigate the compliance and implementation burden imposed on these small banks, signals a concerning trend in our regulatory approach.').
+
+the banking system. While conservatism, and ensuring safety and soundness, may be appropriate to some degree, at a certain point regulatory requirements become unmoored from risk and force good banks out of the market.
+
+The consequences of excessive and overlapping regulations will inevitably be forced consolidation and reduced consumer choice, especially in underserved banking markets. Even in the absence of consolidation, banks always face choices in responding to regulation, and may pare back on lending to small businesses, or forfeit their banking charter and choose to operate instead within the nonbank sector. Overregulation in trading book capital requirements could increase the cost of market-making-impacting the liquidity of debt and equity markets-and increase the cost of market funding. We cannot understate the potential impacts. Communities often fund local infrastructure projects by issuing municipal bonds in public debt markets. If this funding source evaporates, or becomes more expensive, that can have severe consequences for these communities. Banking is not risk-free, and the goal of the regulatory framework is to support the safe and sound operation of banks, not to eliminate risk altogether.
+
+If one is concerned about those who are underserved in the current market, it is necessary to understand that different sizes of banks often meet the specific banking needs of unique communities and customers in geographic areas or within product lines that may not provide a variety of options. Smaller banks support their communities in unique ways, and often have deeper community ties and commitments than out-of-market competitors without direct relationships to their community. There seems to be a misperception by some-based solely on the aggregate number of banks in the United States-that there are simply too many bank charters competing for too little business. It is difficult to know what the optimum number of
+
+banks in the banking system may be, but it is important to recognize that the number of charters does not tell the whole story.
+
+A real concern is whether regulatory reform could have the unintended consequence of hollowing out the mid-sized tier of banks, effectively preventing the largest banks from facing new competition. If we believe in the virtue of competition as a way to spur innovation and improve customer choice, we need to be cautious about less risk-sensitive regulatory and supervisory expectations. If we were to apply some of the same heightened standards for banks with $50 billion or $100 billion in assets as we have for banks with trillions of dollars in assets, this inevitably would create pressure to merge to create economies of scale to lessen the cost of regulatory compliance, resulting in further bank consolidation. By doing so, we would eliminate the current dynamic banking system that incorporates institutions regulated in tiers. We would prevent the next large bank from growing to be a viable competitor, and essentially permanently and officially designate a handful of banks as 'too big to fail,' despite years of policymaker efforts fighting against the perceived government guarantee of only the largest banks. Our goal should not be to create a 'barbell' of banking institutions based on size, with a small number of too-big-to-fail banks at the large end of the spectrum, and some smaller community banks at the low end.
+
+Bank regulation is most effective when it adapts to changing economic conditions, changing business activities and models, and emerging risks. But policymakers should not be shortsighted about the potential consequences of policy changes, consequences that may have long-term effects on the contours of the banking system. Driving activity out of banks into the shadow banking system does not make the financial system safer, it simply makes banks less competitive, and increases economic and financial stability risks. As we consider the evolution
+
+of the financial system, and the current and future role of banks within it, a renewed focus on unintended consequences is a particularly important topic to consider and would ensure that our actions support resiliency in the global financial system.
+
+## Closing Thoughts
+
+My remarks today should not be interpreted as a categorical rejection of reform efforts. Some reform efforts-to both regulation and supervision-are a natural part of the evolution of the regulatory framework, and some would address weaknesses revealed by the recent bank failures. There is room to improve bank supervision for large banks, particularly those in Category IV of the U.S. tailoring framework, and we need to evaluate whether our regulations could have inadvertently contributed to stress in the banking system. 11 But these reform efforts should be both informed by an impartial and independent review of what led to the failures and healthy public debate, which should take into account the unintended consequences of reform. We must be circumspect about what went wrong, deliberate about what to fix, and cognizant of unintended consequences. It is imperative that we preserve a dynamic banking sector, with banks of all sizes that serve the needs of their unique customers wherever they are located.
+
+It is abundantly clear that regulatory and supervisory reform is on the way. But we should ensure that changes ultimately promote a safe and sound banking system. That system should serve the needs of customers and support the broader economy.
+
+11 See 12 CFR 252.5(e) (defining a Category IV banking organization).

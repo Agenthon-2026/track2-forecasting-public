@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-third-cut-2019"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "BLS/BEA news release; Federal Reserve"
 path           = "text/"
 cutoff         = "2019-10-30"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
+n_documents    = 8
 notes          = "Third consecutive cut with language shifting to 'the current stance…will likely remain appropriate' — a signalled pause. The honest six-month distribution keeps meaningful width in BOTH directions for states the text cannot anticipate."
 
 [targets]

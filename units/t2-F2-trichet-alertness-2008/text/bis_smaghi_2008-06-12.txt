@@ -1,0 +1,196 @@
+Lorenzo Bini Smaghi: Supervision and central banking - improving the exchange of information
+2008-06-12
+
+## Lorenzo Bini Smaghi: Supervision and central banking - improving the exchange of information
+
+Remarks by Mr Lorenzo Bini Smaghi, Member of the Executive Board of the European Central Bank, at the Workshop 'Financial turmoil and missing risks: new challenges for bankers and regulators', Milan, 12 June 2008.
+
+* * *
+
+## 1. Introduction 1
+
+Ladies and gentlemen,
+
+It is an honour and a pleasure for me to speak today at this event. As the title of the session indicates, this is a time when both bankers and authorities need to think hard about the lessons to be drawn from the financial market turmoil, and even challenge conventional wisdom if necessary.
+
+In the last few years, the relationship between supervision and central banking has evolved. Following the example of the UK, supervisory responsibilities have been allocated in some countries to independent authorities, separate from the central bank. In other countries, such as the Netherlands, prudential supervision of all financial institutions has been fully integrated in the central bank. I do not want to repeat here all the arguments for or against the separation of supervision from central banking (they have been thoughtfully analysed by Charles Goodhart and Donato Masciandaro, among others). But I do recall that the ECB took a position in 2001 on the fundamental role of central banks in prudential supervision, stressing the importance of confidential supervisory information in the conduct of central banking functions. 2
+
+The recent financial market turmoil has confirmed the importance of a smooth and efficient relationship between the central banking and supervisory functions; it has also led to a debate about a reform of the current supervisory structure in some countries such as the UK and the US. The report by the Financial Stability Forum (FSF) entitled 'Enhancing Market and Institutional Resilience' presented to the G7 last April includes a number of policy recommendations to help prevent any recurrence of financial stresses similar to the ones experienced during the current turmoil. Among its many recommendations, the FSF refers to the need for supervisory authorities and central banks to improve cooperation and their exchanges of information. It calls in particular for such exchanges to be rapid during periods of market strain.
+
+Today, I will focus my remarks on why supervisory information is relevant for central banks in general, and for the ECB in particular, in three core central banking functions: monetary policy, liquidity policy and financial stability assessment. I will consider each of these in turn.
+
+## 2. Monetary policy
+
+Let me start by considering the usefulness of supervisory information in the conduct of monetary policy. I will analyse, in particular, two points. First, the possible role of supervisory information to gain a better understanding of the behaviour of monetary and credit aggregates. Second, the potential usefulness of such information in understanding banks'
+
+1 The views expressed are those of the author. I thank C. Kok Sørensen, C. Beuve, C. Ohlerich, S. Kerjean, N. Valckx and F. Recine for their input into the preparation of these remarks.
+
+2 See ECB, 'Recent developments in supervisory structures in the EU and acceding countries', October 2006, available on the ECB's website.
+
+lending behaviour, the transmission of monetary policy through the banking system and financing conditions for households and firms.
+
+Since its inception, the European Central Bank has regularly utilised a wide array of banking data in its monetary analysis. The data are mainly based on the aggregate balance sheet statistics of euro area monetary and financial institutions (MFI) collected and compiled by the ECB/Eurosystem. Another important source of information on the situation of the euro area banking sector compiled by the Eurosystem is the quarterly Bank Lending Survey, which provides qualitative information about changes in banks' credit standards and loan demand, and describes the factors contributing to these changes.
+
+Supervisory information is used to a limited extent. Let me make four general points about the usefulness of supervisory information in monetary policy decision-making. First, the ECB strongly encourages the ongoing efforts conducted under the aegis of the Committee of European Banking Supervisors (CEBS) to achieve greater convergence in supervisory reporting by banks across the EU; second, supervisory data, by providing information about the distribution of key balance sheet and profit ratios across different groups of banks, can point to developments in specific areas of the economy not detectable by aggregate statistics; third, access to bank level-based supervisory data would allow central banks to more clearly identify empirical regularities and to better understand the interrelation between the various factors affecting and driving banks' activities; fourth, and finally, I would like to stress the mutual benefits arising from an enhanced dialogue between banks, supervisors and central banks. From a monetary policy perspective, a more direct interaction with banks and supervisors would clearly enhance the scope of analysis and decision-making by giving the central banks a better feeling (in real time) for the underlying drivers of monetary and credit developments.
+
+As you will surely know, the ECB's monetary analysis consists of extracting information about the risks to price stability from the analysis of developments in the monetary aggregates and their counterparts, in particular credit to the private sector, and it does so by exploiting the long-run link between money and prices. The Eurosystem MFI balance sheet statistics were designed with the monetary analysis in mind, and hence fulfil most of the requirements for conducting such an analysis. However, in some cases, supervisory information, such as that embedded in the so-called COREP ('Common Solvency Ratio Reporting') and FINREP ('Financial Reporting') templates, which bring together harmonised information about solvency ratios and other financial statement data of EU banks, could add substantial value to the analysis. In particular, supervisory-based information provides a more detailed breakdown of bank asset and liabilities than in the MFI balance sheet statistics, thus making it easier to interpret monetary and credit aggregates. For example, supervisory information on banks' securitisation activities can help to improve the analysis of credit developments by avoiding the bias that would be incurred by not including assets transferred from the banks' balance sheets. In addition, having access to supervisory information about the distribution across banks of key bank ratios, such as the capital position or write-downs and losses, would help to detect whether certain groups of banks (catering to specific types of borrowers) are more or less likely to cut back (or increase) their lending, in particular following changes in policy rates. The need to understand the reasons for the recent strong corporate loan growth is a clear example of how a regular dialogue with banks and their supervisors might contribute to improving the monetary analysis of the ECB. Indeed, supervisory information might lead to a better understanding of the relative importance of pre-committed credit lines and the precautionary nature of recent corporate lending. Hence, in certain cases supervisory information can help to improve the analysis of 'special factors' influencing money and credit demand.
+
+The value of supervisory data on the euro area banking sector can arguably be even greater with respect to the ECB's economic analysis. Consider the various channels through which banks may affect the way in which monetary policy actions are transmitted to the real side of the economy. In the euro area, banks are the major source of financing for firms and
+
+households. The extent to which banks adjust their lending and the pricing of loans in response to monetary policy actions influences the various channels through which monetary policy affects the economy.
+
+One transmission channel affected by bank behaviour is the degree and speed with which banks pass on changes in policy rates. Banks tend to adjust their lending rates only sluggishly in response to changes in monetary policy rates. 3 The stickiness of bank rates hinges among other things on financial structures and competition within the banking sector as well as on competition from market-based sources, including securitisation. 4 Supervisory information on banking activities, such as the use of credit transfer instruments and the relative importance of assets and liabilities held for trading, can be useful in enhancing this analysis.
+
+Another transmission channel often cited in the literature which has received increasing attention over the past two decades is the credit channel. Owing to informational asymmetries and principal-agent problems between banks and their borrowers, monetary policy may impact on the supply of loans. This can happen through the narrow or broad credit channel. 5 In the narrow credit channel, a monetary policy tightening may mean that some banks face balance sheet constraints, such as lower liquidity or capital holdings, and hence they may choose to restrain lending. Supervisory information about the health of the banking system can provide valuable input to any assessment of potential loan supply constraints. This analysis would be based on data on solvency and liquidity ratios, capital buffers, securitisation and credit risk transfer instruments. Whereas, for example, the Eurosystem Bank Lending Survey provides input into disentangling loan supply and demand effects, and thus helps to identify relevant supply-side effects, the survey remains qualitative in nature. Supervisory information based on a direct dialogue between the banks and supervisors can provide more enlightening evidence on these issues. This type of information may prove particularly relevant in times of turbulence.
+
+In the broad credit channel, monetary policy influences the creditworthiness of bank borrowers, for example, through changes in asset and hence collateral values, leading to a change in their external financing premium. This, in turn, may induce banks to alter their supply of loans to these borrowers. Supervisory information that could bear on these questions and that cannot be derived from either MFI balance sheet statistics or marketbased sources are the extent to which banks hold collateralised exposures and the size of their exposures to the small and medium sized enterprises.
+
+All in all, while stressing that information currently available to the ECB/Eurosystem provides a very good basis for the economic and monetary analyses, the quality of the assessment of economic and monetary developments could in certain areas be further improved by accessing supervisory information. This would be particularly beneficial in times of bank distress. In particular, access to euro area-wide bank-level data is a key element in understanding empirical regularities and in projecting developments in monetary and credit aggregates. Research in the US has shown that bank supervisory information can help the central bank in forecasting macroeconomic variables and in guiding monetary policy. 6
+
+3 For the US, see e.g. Hannan and Berger (1991), Berger and Udell (1992), Mester and Saunders (1995), Berlin and Mester (1999). For more recent studies on the euro area, see e.g. Mojon (2001), de Bondt (2005), Gambacorta (2004), Sander and Kleimeier (2004) and Kok Sørensen and Werner (2006).
+
+4 See e.g. Cottarelli and Kourelis (1995), Mojon (2001), Estrella (2002), Gropp et al. (2006) and Van Leuvensteijn et al. (2007).
+
+5 See Bernanke and Blinder (1988), Bernanke and Gertler (1989, 1995), Bernanke and Gertler and Gilchrist (1999) and Kashyap and Stein (2000) for some of the seminal contributions to this line of the literature. Empirical findings for the euro area can be found in Ehrmann et al. (2001), Angeloni and Ehrmann (2003), Gambacorta and Mistrulli (2004), Altunbas et al. (2007).
+
+6 See Peek, Rosengren and Tootell (1999).
+
+Likewise, research based on euro area banks has illustrated the usefulness of supervisory information in exploring the links between macroeconomic developments, monetary policy and the banking sector. 7 For example, drawing on individual bank data on variables such as the risk characteristics of loans, non-performing loan ratios, solvency ratios and other measures of bank distress, many studies find a relationship between monetary policy actions and banks' risk-taking and lending behaviour. Importantly, bank-level supervisory data would also make it possible to detect whether such relationships differ across banks of different type and size.
+
+## 3. Liquidity policy
+
+I will now examine why supervisory information is important in assessing the credit risk (e.g. quality of collateral) that the central bank faces, especially in times of financial turbulence. Let me start by stating a general principle: to be effective, monetary policy implementation has to lie on sound financial institutions. If financial institutions are not sound, it will be harder to evaluate not only their demand for central bank money, but also the risks in supplying it to them. In the euro area, the main demand for central bank money is imposed by the Eurosystem on banks via reserve requirements, which need to be fulfilled by commercial banks on average over a so-called maintenance period, i.e. on a monthly basis. The ECB supplies the amount of central bank money that enables banks to smoothly fulfil their reserve requirements.
+
+Through its operations, the Eurosystem provides liquidity to a large group of banks, which then redistribute the liquidity to other institutions across the euro area. This is why, according to our procedures, 8 counterparties for Eurosystem monetary policy operations must fulfil certain eligibility criteria. First and foremost, counterparties must be financially sound. Therefore, up-to-date and constant supervisory information is absolutely critical in order to identify any distortion in the smooth functioning of the money markets, which then may impair monetary policy implementation. Indeed, the eligibility of our counterparties is under constant review.
+
+Such information has been crucial especially since the start of the financial turmoil. It allows us to identify the root causes of the tensions in money markets and to choose the appropriate remedies. As you know, substantial changes have affected the size, the composition and the funding of the asset side of banks' balance sheets since August 2007. The size of banks' balance sheets has increased because banks have had to retain assets initially intended for securitisation or sale and because they have had to transfer the underlying assets from their off-balance sheet vehicles back into their balance sheets. The sources of funding have also changed since securitisation has stopped and the repo market for non-government bonds has dried up. As a result, banks have raised their liquidity buffers by reducing their funding maturity gaps and by applying larger liquidity shocks as stress scenarios. As a result, banks have hoarded cash and cut back on their lending activities by reducing their counterparty limits and the range of collateral accepted for their repo operations. This type of behaviour is based on information asymmetry, namely the fact that one counterpart (the borrower) has more or better information on its own creditworthiness than the other counterpart (the lender) owing to the lack of transparency about the true valuation of its own assets. In a way, banks try to protect themselves against the dangers of increased adverse selection, i.e. a high probability of selecting the most risky counterpart.
+
+7 For a few examples, see e.g. Quagliariello (2006, 2007); Jimenez, Ongena, Peydro and Saurina (2007); Jimenez and Saurina (2005); and De Graeve, Kick and Koetter (2008).
+
+8 See General Documentation attached to the Guideline of the ECB on monetary policy instruments and procedures of the Eurosystem (available at www.ecb.europa.eu).
+
+On top of that, the traditional group of investors, suppliers of liquidity for the banking sector, have altered their investment strategies. There is some evidence that money market funds and central banks (in the management of their foreign reserves) have shifted their investments from the banking system to safe-haven assets like Treasury bills or overnight repo transactions. These developments and frictions have inhibited a smooth distribution of liquidity through the inter-bank market, leading to a segmentation of the euro cash money market. This segmentation has led to a dramatic widening of the spreads between the unsecured (Euribor) and secured (OIS) markets. Against this background, a number of banks feel that they must secure their bids at the Eurosystem's tender operations in order to get the liquidity they need from the Eurosystem, whom they see as the (almost) unique provider of euro liquidity. They are thus ready to bid very aggressively, in particular if they are 'excluded' from the inter-bank and repo markets. In addition, banks have been very eager to pledge assets as collateral with us for which the private repo market continues to be at a standstill.
+
+The ECB normally collects this type of information through its Money Market Contact Group and in bilateral contacts with bank treasurers. Supervisory information could provide useful additional information, particularly on any change in banks' funding conditions. Since midMarch, banks have shown their ability to enhance their balance sheets by raising capital, issuing long-term debt and selling portfolios of leveraged loans. At the end of May, USD 276 billion of capital had been raised by banks, which may be compared with the approximately USD 387 billion of write-downs and losses that had already been announced. This type of news, combined with the various actions taken by central banks, has contributed to a recovery in the prices of risky assets.
+
+Overall, supervisory information would be an important input into the ECB's efforts to ensuring an effective implementation of monetary policy. It has proven to be particularly crucial during the turmoil. Looking ahead, cooperation between supervisors and bodies responsible for monetary policy implementation could be enhanced through a more frequent transmission of information related to the composition and the funding of the balance sheets of financial institutions (like the change in the so-called funding gaps).
+
+## 4. Financial stability assessment
+
+I turn now to assess to what extent supervisory information may help the financial stability monitoring and assessment conducted by central banks, including the ECB. The ECB has in fact developed this activity in line with the Treaty, which stipulates that the ESCB 'shall contribute to the smooth conduct of policies pursued by the competent authorities relating to the prudential supervision of credit institutions and the stability of the financial system' (Art. 105.5). 9
+
+With respect to financial stability, I will address two questions. First, what precise information do we need for carrying out our financial stability assessment function? Second, what would we do with this information, if we had it?
+
+The ECB regularly monitors the stability of the financial system - comprising financial intermediaries, markets and market infrastructures - in the euro area and has published since December 2004 its assessment every six months in its Financial Stability Review. The Review draws attention to the main sources of risk and vulnerabilities, and assesses whether the euro area financial system is capable of withstanding shocks and disruptions which are severe enough to significantly impair its intermediation function.
+
+This periodic assessment is based on information stemming from manifold sources, including of supervisory nature. In particular, regular aggregate information on the solvency and
+
+9 This provision is replicated in Art. 3.3. of the Protocol on the Statute of the European System of Central Banks and of the European Central Bank.
+
+profitability of the banking sector as well as ad hoc information on specific exposures of the banking sector are collected by the ECB in cooperation with the Banking Supervision Committee. There is certainly room for enhancing the access to supervisory information for the ECB's financial stability assessment. In normal times, a wider access - in terms of the timeliness and frequency of information on banks' exposures and risk concentrations - would improve the identification of potential risks to the stability of the euro area financial system as well as the assessment of the potential impact on the system of the possible materialisation of the identified risks. As Fed Chairman Bernanke recently said: 'For risks to financial stability to be successfully managed, they must first be identified and measured. Recent developments have revealed deficiencies in this respect'.
+
+Before the outbreak of the market turmoil in mid-2007, conventional wisdom held that banks had successfully removed credit risk from their balance sheets, thanks to financial innovations such as mortgage-backed securities, collateralised debt obligations and the use of structured investment vehicles (SIVs). Relatively little was known about the role and activities of SIVs and the exact nature of their relationship with banks. One could argue that, if more in-depth supervisory information had been available on these aspects, central banks, including the ECB, could have seen that banks' credit risk transfer to SIVs and investors was in many cases incomplete and that banks remained liable for SIVs' liabilities. Of course, it's easy to say this with hindsight but we should now learn from this experience.
+
+In a situation of financial stress, supervisory information remains essential is the central bank financial stability assessment is to be effective. However, the nature of each financial stress is likely to differ from the previous ones. Therefore, the information needs have to be identified on a case-by-case basis. In the context of the current turmoil, a key supervisory information is that on bank direct exposures to the US sub-prime sector and to structured financial products as well as to the effects of write-downs on banks' capital position.
+
+Overall, a wide access by central banks, including the ECB, to supervisory information would render their financial stability assessment more effective both to monitor and prevent financial stresses. At the same time, the outcome of the central banks' financial stability assessment can be of use to supervisory authorities, for instance, by helping them focus their monitoring activity on certain categories of risk. This is the rationale behind the specific FSF recommendation which I mentioned at the beginning, namely, to enhance the interplay between central banks and supervisory authorities.
+
+## 5. Legal and institutional aspects
+
+Coming closer to the end of my remarks, let me now turn to institutional arrangements.
+
+The task of contributing to the smooth conduct of supervisory policies, mentioned in Art. 105.5 of the EU Treaty, was given to the ESCB on several grounds. Central banks have a large body of inside knowledge which may help in the exercise of prudential supervision, and measures to counter financial market fragility may, on the other hand, have monetary aspects which should be discussed by central banks. 10 Moreover, information held by the ESCB, for instance, in the context of its role in the oversight of payment systems may be of great use for supervisory authorities. Payment systems oversight and prudential supervision focus on avoiding systemic risks and safeguarding the soundness of financial institutions. At the same time, it should be stressed that the flow of information from (instead of to ) the supervisory authorities and a mutually fruitful cooperation between supervisory authorities and central banks are crucial, with the latter being entrusted with a contributory task in the field of macro-prudential supervision. 11 The ECB has pointed out in various opinions that
+
+10 See R. Smits, The European Central Bank, Institutional aspects (Kluwer International, 2000), p.340.
+
+11 R. Smits (Ibid), p.342.
+
+'central bank access to prudential information and cooperation between financial supervisory authorities and central banks are essential for the conduct of macro-prudential monitoring, the oversight of payment systems and the safeguarding of other market infrastructures, which are in turn essential for the smooth conduct of monetary policy'.
+
+If we examine closely the current EU legal framework applicable to the exchange of information between central banks and supervisory authorities, we note that the EU Treaty is 'asymmetric' since it does not contain any provisions requiring the banking supervisory authorities to contribute to the performance of the tasks under the responsibility of the ECB or the ESCB, in the same way that the ECB and the ESCB contribute to the smooth functioning of supervisory policies. This may have historical roots: the national supervisory authorities, unlike the ECB or the ESCB, are not Community law bodies and do not have a European mandate enshrined in the Treaty. However, this entails some limitation in the ability of the ECB and the ESCB to perform their tasks.
+
+One has to take into account a series of facts that make this problem less acute. First, a number of central banks in the euro area perform supervisory functions and therefore have easy access to supervisory information. Second, European secondary legislation, namely a number of Community directives applicable to the financial sector - and, for instance, the Capital Requirements Directive (CRD) - addresses the issue of the cooperation and exchange of information at EU level between supervisory authorities themselves but also between banking supervisory authorities and central banks. The CRD identifies a number of exceptions or 'gateways' through which Member States may authorise confidential information to be disclosed, in most cases subject to conditions of professional secrecy. This Directive provides in particular that exchange of information should be authorised between supervisory authorities and central banks in their capacity as monetary authorities. Third, in previous Opinions on draft national laws, the ECB has observed that virtually all Member States that have adopted supervisory models based on an independent financial supervisory authority have included provisions stipulating a duty of cooperation and authorising the exchange of information between central banks and supervisory authorities. 12
+
+Against this backdrop, it is essential to eliminate all legislative obstacles that prevent supervisory authorities from providing information to the ECB and Eurosystem central banks on specific banking and financial institutions as well as to guarantee more generally a duty of cooperation between central banks and supervisory authorities, whose ultimate purpose is to put in place effective and practical arrangements for cooperation and information-sharing. This should be a priority in the European Union.
+
+The European Commission has recently launched a public consultation on possible targeted amendments to the CRD 13 which includes aspects relating to cooperation and exchange of information between banking supervisory authorities and central banks. More specifically, the proposed amendments to the CRD include two new provisions. First, ' in an emergency situation, Member States shall allow competent authorities to communicate information to central banks in the EU when this information is relevant for the exercise of their respective statutory tasks, including the conduct of monetary policy, the oversight of payments and securities settlement systems, and the safeguarding of financial stability '. Second, the consolidating supervisor should alert the relevant central banks and communicate to them all information that is essential for the pursuance of their tasks should an emergency situation,
+
+12 See, for instance, the Opinion of the ECB of 5 November 2007 at the request of the Austrian Ministry of Finance on a draft law amending the Law on banking, the Law on savings banks, the Law on the Financial Market Supervisory Authority and the Law on the Oesterreichische Nationalbank (CON/2007/33), paragraph 2.4.1 or the Opinion of the ECB of 9 March 2006 at the request of the Polish Minister of Finance on a draft law on the supervision of financial institutions (CON/2006/15), paragraph 2.2.2.
+
+13 European Commission, 'Public consultation on possible changes to the Capital Requirements Directive (CRD, consisting of Directives 2006/48/EC and 2006/49/EC)' (available at www.europa.eu).
+
+including adverse developments in financial markets, arise within a banking group which potentially jeopardises the stability of the financial system in any of the Member States where entities of the group are located.
+
+## 6. Conclusions
+
+In 2001 the Eurosystem highlighted the importance of the role played by central banks in supervision. The experience gained by central banks during the financial market turmoil confirms the fundamental appropriateness of the Eurosystem's position, which is also shared across the Atlantic.
+
+In the US, a discussion has already started on how to improve coordination between the various authorities and on how to put the Federal Reserve in a position to better contribute to financial market stability. Tim Geithner has recently called for more powers to be given to the Federal Reserve in the field of oversight.
+
+In the European Union, the European Commission has launched initiatives to further reinforce the legal underpinnings for the cooperation and the exchange of information between supervisory authorities and central banks, and to build a consistent institutional framework for such an exchange. These initiatives are strongly supported by the ECB and should be implemented soon. Improving the institutional framework is necessary, but not sufficient. It has to be followed by an effective implementation of the provisions and the activation of the available channels of communication between supervisors and the central banks, including the ECB. A substantial amount of work is already underway. It is up to us to make sure that it is finalised in time to address any challenges that global financial markets may pose to stability.
+
+Thank you for your attention.
+
+## References
+
+Altunbas, Y., Gambacorta, L. and Marqués, D. (2007), 'Securitisation and monetary policy', forthcoming ECB Working Paper.
+
+Angeloni, I., Kashyap, A.N., Mojon, B., eds. (2003), Monetary Policy Transmission in the Euro Area , Cambridge University Press.
+
+Berger, A.N. and Udell, G.F. (1992), 'Some evidence on the empirical significance of credit rationing', The Journal of Political Economy , Vol. 100, No 5 (October), 1047-1077.
+
+Berlin, M. and Mester, L.J. (1999), 'Deposits and relationship lending', The Review of Financial Studies, Fall 1999, Vol. 12, No 3, 579-607.
+
+Bernanke, B.S. and Blinder, A.S. (1988), 'Credit, money, and aggregate demand', American Economic Review , 78(2), May, 435-439.
+
+Bernanke, B.S. and Gertler, M. (1989), 'Agency costs, net worth, and business fluctuations', American Economic Review , 79(1), March, 14-31.
+
+Bernanke, B.S. and Gertler, M. (1995), 'Inside the black box: the credit channel of monetary policy transmission', Journal of Economic Perspectives , 9(1), 27-48.
+
+Bernanke, B.S., Gertler, M. and Gilchrist, S. (1999), 'The financial accelerator in a quantitative business cycle framework', in Handbook of Macroeconomics, Taylor, J. and Woodford, M. (eds.).
+
+Bernanke, B.S. (2007), 'The financial accelerator and the credit channel', Remarks at the conference on the Credit Channel of Monetary Policy in the Twenty-first Century, Federal Reserve Bank of Atlanta, Georgia, June 15, 2007.
+
+Bondt, G. de (2005), 'Interest rate pass-through: Empirical results for the euro area', German Economic Review , Vol 6, No 1 (February), 37-78.
+
+Cottarelli, C. and Kourelis, A. (1994), 'Financial structure, bank lending rates, and the transmission of monetary policy', IMF Working Paper 94/39.
+
+De Graeve, F., Kick, T. and Koetter, M. (2008), 'Monetary policy and bank distress: An integrated micro-macro approach', Deutsche Bundesbank Discussion Papers No 03/2008 (Series 2: Banking and Financial Studies).
+
+Ehrmann, M., Gambacorta, L., Martinés Pagés, J., Sevestre, P., and Worms, A. (2001), 'Financial systems and the role of banks in monetary policy transmission in the euro area', ECB Working Paper No 105.
+
+Estrella, A. (2002), 'Securitization and the Efficacy of Monetary Policy', Economic Policy Review , Volume 8, No 1. New York: Federal Reserve Bank of New York. May, pp. 243-255.
+
+Gambacorta, L. (2004), 'How do banks set their interest rates?', NBER Working Paper No 10295.
+
+Gambacorta, L. and Mistrulli, P.E. (2004), 'Does bank capital affect lending behaviour?', Journal of Financial Intermediation , 13, 436-457.
+
+Goodhart, C.A.E. (2000), The Organisational Structure of Banking Supervision, FSI Occasional Papers, No 1 - November 2000-10-25.
+
+Gropp, R., Kok Sørensen, C. and Lichtenberger, J. (2007), 'The dynamics of bank spreads and financial structure', ECB Working Paper No 714.
+
+Hannan, T.H. and Berger, A.N. (1991), 'The rigidity of prices: Evidence from the banking industry', American Economic Review , Vol. 81, No 4 (September), 938-945.
+
+Jimenez, G. and Saurina, J. (2005), 'Credit cycles, credit risk and prudential regulation', Banco de España Working Paper No 0531.
+
+Jimenez, G., Ongena, S., Peydro, J. and Saurina, J. (2007), 'Hazardous times for monetary policy: What do twenty-three million bank loans say about the effects of monetary policy on credit risk taking?', CEPR Discussion Paper No 6514.
+
+Kashyap and Stein (2000), 'What do a million observations on banks say about the transmission of monetary policy?', American Economic Review , Vol. 90, No 3, pp. 407-428.
+
+Kok Sørensen, C. and Werner, T. (2006), 'Bank interest rate pass-through in the euro area: A cross-country comparison', ECB Working Paper No 580.
+
+Masciandaro, D. (2008), Politicians and Financial Supervision outside the Central Bank: Why Do They Do it?, American law and Economics Association Annual Meetings, Paper 121.
+
+Mester, L.J. and Saunders, A. (1995), 'When does the prime rate change?', Journal of Banking and Finance , Vol. 19, No 5 (August), 743-764.
+
+Mojon, B. (2001), 'Financial structure and the interest rate channel of monetary policy', Economie et Prevision No 147, 1, pp 89-115.
+
+Peek, J., Rosengren, E.S., and Tootell, G.M.B. (1999), 'Is bank supervision central to central banking?', The Quarterly Journal of Economics, Vol. 114 (2), pp. 629-653, May.
+
+Quagliariello, M. (2006), 'Banks' riskiness over the business cycle: A panel analysis of Italian intermediaries', Banca d'Italia Temi di Discussioni No 599, September.
+
+Quagliariello, M. (2007), 'Macroeconomic uncertainty and banks' lending decision: The case of Italy', Banca d'Italia Temi di Discussioni No 615, February.
+
+Sander, H. and Kleimeier, S. (2004), 'Convergence in Euro Zone retail banking?', LIFE Working Paper 04-005.
+
+Van Leuvensteijn, M., Kok Sørensen, C., Bikker, J.A. and van Rixtel, A. (2007), 'Impact of bank competition on the interest rate pass-through in the euro area', ECB Working Paper No 885.

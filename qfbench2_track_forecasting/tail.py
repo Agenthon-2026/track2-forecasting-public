@@ -37,16 +37,12 @@ are why it was replaced, and they remain true of it wherever it is still selecte
   three values for the default levels, with a non-zero floor. A large share of the SHIPPED cards is
   single-cell, and the single-cell renormalization lifts the tail's live weight from 0.20 to
   0.2857 there.
-* On those same single-cell units the frozen `ref_scale.tail` denominator is drawn from that same
-  three-element set, so under `coverage` the normaliser inherits the degeneracy there instead of
-  correcting it. This is a property of the single-cell case specifically: a multi-cell unit's
-  coverage values, and so its denominator, come from a larger set.
+* On those same single-cell units a `ref_scale.tail` computed under `coverage` is drawn from that
+  same three-element set, so the normaliser inherits the degeneracy there instead of correcting
+  it. This is a property of the single-cell case specifically: a multi-cell unit's coverage
+  values, and so its denominator, come from a larger set.
 
-  (Stated structurally and without the distribution. `ref_scale.tail` is derived from the
-  reference forecast's realized outcome, which `normalization.py:33` already documents as
-  answer-equivalent, so any description of how those denominators are spread would leak the
-  shape of sealed answers across the roster. The argument needs the term's structure, and the
-  structure is enough.)
+  (Stated structurally: the argument needs the term's structure, and the structure is enough.)
 
 The effect lands hardest on F4, whose stated test *is* tail calibration: the term meant to
 separate those submissions cannot separate them.

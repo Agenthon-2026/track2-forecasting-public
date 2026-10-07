@@ -4,11 +4,18 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
-      "doc_id": "bis_elderson_2020-01-25",
-      "timestamp": "2020-01-25",
+      "doc_id": "bis_guindos_2019-11-06",
+      "timestamp": "2019-11-06",
       "source": "BIS central bankers' speeches",
       "doc_type": "cb_speech",
-      "file": "bis_elderson_2020-01-25.txt"
+      "file": "bis_guindos_2019-11-06.txt"
+    },
+    {
+      "doc_id": "bis_quarles_2019-12-04",
+      "timestamp": "2019-12-04",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_quarles_2019-12-04.txt"
     },
     {
       "doc_id": "fomc-statement-2020-01-29",

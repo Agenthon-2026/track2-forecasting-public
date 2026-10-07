@@ -1,0 +1,71 @@
+Christopher J Waller: Payments innovation, technical standards, and the Federal Reserve's roles
+2024-05-17
+
+## Christopher J Waller: Payments innovation, technical standards, and the Federal Reserve's roles
+
+Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the International Organization for Standardization Technical Committee 68 Financial Services 44th Plenary Meeting, hosted by the Federal Reserve Bank of Minneapolis, Minneapolis, Minnesota, 17 May 2024.
+
+* * *
+
+Thank you, President Kashkari, for the introduction, and thank you to the conference participants for the opportunity to speak with you. 1 As you all know, the payment system relies on the kind of cooperation and collaboration that this body represents. So, let's begin by acknowledging that ongoing effort.
+
+From its founding, the Federal Reserve has played a central role in payments. We seek to foster a payment and settlement system that is safe and efficient. Such a system promotes a vibrant economy, since it allows for participation from a broad range of individuals and businesses without requiring them to invest heavily in bilateral arrangements. Technical standards are the common language used by payment system participants like businesses, financial institutions, payment system operators, and payment service providers. Technical standards can help contribute to payment system safety and efficiency, benefitting the full range of participants. Technical standards for payments are in no way new-we have had them in place for decades, and those standards make it more efficient to process a check, access cash at an ATM, and carry out other functions less visible to consumers but essential to the payment system. As payments technology advances at a rapid pace, technical standards must also evolve. And they must do so in a way that supports innovation while promoting safety, efficiency, and interoperability among a growing number of payments products and technologies. Today I will share some perspectives on technical standards, particularly in the context of evolving payments technology.
+
+## Everything Old Is New Again
+
+But before getting to that, I would like to provide some historical context since the benefits of standardization within an evolving payment system predate this current wave of innovation.
+
+Let's start with some early examples from U.S. payments history. The free-banking era from 1837 to 1863 experienced significant fragmentation and corresponding frictions in the payment system as competing banknotes circulated across different geographical regions, requiring costly and inefficient trading of various forms of currency and featuring high levels of fraud and counterfeiting. 2 Later, during the national banking era from 1863 to 1913, checks were becoming a predominant form of payment at the same time that the population of the United States was moving westward, requiring a nationwide method to clear checks. The check clearing infrastructure at the time, however, was regional, creating a patchwork network reliant on correspondent banks to move and clear checks across regions, often at high cost and with long delays. Congress created the Federal Reserve in 1913 and assigned the Fed a number of key
+
+roles including issuance of Federal Reserve Notes and, in short order, establishment of a national check-clearing network. These are examples that predate electronic payments where standardization improved the efficiency of payments.
+
+We can also call on examples where we have seen rapid changes in the technology of payments, and technical standards supported innovation by providing a common language for systems to communicate with each other. Immediately after 9/11, planes were grounded, and check payments, which were still largely paper-based, could not be processed. This highlighted inefficiency in the clearing of paper checks. In response, 3 Congress passed the Check 21 Act, which enabled banks to process check information electronically using digital images of an original check. The Check 21 Act created a framework for the substitute check to be provided under generally applicable industry standards and also served as a bridge until industry acceptance of fully electronic checks became ubiquitous. Electronic check processing at such scale necessitated 4 common check image exchange standards, which were developed and adopted through industry and Fed collaboration.
+
+And, as I mentioned earlier, the payment system once again is experiencing a technology-driven revolution. 5 Shifting consumer preferences and new technologies have led to new financial products and services. This includes the introduction of instant payments, advances in digital wallets and mobile payment apps, and the emergence and growth of digital assets. Innovators see an opportunity for enhancements in payments, whether through the introduction of new capabilities or finding ways to alleviate frictions such as speed, cost, and accessibility.
+
+While the potential benefits of these advances are significant, disjointed or incompatible innovations could increase fragmentation in the payment system or exacerbate frictions at different points of the payment chain. Will platforms that use newer technologies, for example, be able to talk with one another and traditional payment rails, or will they lead to siloed, parallel networks-so-called "walled gardens"?
+
+Supporting compatibility or interoperability is important because payment systems are similar to other networks in that greater participation in the network usually means greater value for its users. The network effects in turn can drive a more vibrant economy, since a well-functioning payment system can promote commerce across a broader range of consumers and businesses. While achieving goals like network scale and interoperability is a complex problem, technical standards are one part of the solution to support consistent communication among existing and emerging technologies.
+
+## Perspectives on Technical Standards
+
+A technical standard is simply a common specification or guideline. For example: when I drive across the country, I do not need to worry about whether pumps at different gas stations will fit my gas tank. That is because there is an agreed-upon standard. Or, in the example of payments, financial institutions adopt messaging standards to allow systems and networks to communicate with one another.
+
+If done well, the development and adoption of technical standards can help increase efficiency across payment chains and promote consistency in how disparate systems communicate. This requires standards that are technically sound, implemented consistently, and timed correctly to meet a market need.
+
+Technical standards-such as those developed within the International Organization for Standardization (ISO)-are voluntary, open, and consensus-based. The collective market can identify frictions where standards would be beneficial, and then individual firms can choose whether and when to adopt them based on perceived benefit. The process to develop the standards is open and transparent, and it requires consensus at every step. This process establishes standards that are seen as credible and legitimate.
+
+## Considerations and Lessons Learned
+
+It is important to note that simply having a standard in place will not automatically translate to economic benefits. To achieve network effects, standards must be widely adopted. Developing consensus-based standards implies that all relevant participants are at the table and advocating for their interests, which is not a given, but is critical if standards are to be widely adopted. Timing is also important. In the early stages of technological advances, standards should not be overly prescriptive to stifle innovation and should be flexible and adaptable as the market changes. Conversely, waiting too long to adopt a technical standard could lead to inefficiencies and high costs to comply after the fact.
+
+Standards also need to be implemented consistently, which requires industry coordination to align on common practices. Building on previous lessons learned, the ISO 20022 messaging standard was developed to be a common standard for multiple payment rails, with a structured data format, and aims to align messages across payment systems. Nonetheless, there has been variation in ISO 20022 implementation, and further industry coordination over time will be necessary to align on common practices.
+
+All of this-identifying the need and timing for standards, incorporating a breadth of industry perspectives, and aligning on implementation approaches-requires an immense amount of coordination. And much of this coordination must take place among competitors. So often a neutral convener is needed to achieve better outcomes. That is why we have standard development organizations like ISO to provide a forum where participants from the private sector, academia, and the public sector can contribute expertise and collectively shape standards in a way that meets business and public sector objectives, providing some comfort that the needs of all market participants and consumers will be considered.
+
+## The Federal Reserve and Payments Technical Standards
+
+That brings me to the Federal Reserve's roles in this process-not role but roles. One such role is to serve as a convenor, with this week's conference being a typical example. Among standards development organizations, like the Accredited Standards Committee X9 domestically and ISO internationally, the Fed is known for impartial facilitation of efforts to work toward a common goal.
+
+In another role, the Federal Reserve leverages its expertise as a payment system operator to inform future standards and broader improvements in the payment system. For example, in 2015, the Fed issued a call to action in its paper, "Strategies for Improving the U.S. Payment System," asking stakeholders to come together in pursuit of a better payment system for the future. The paper, and subsequent work, highlighted the role of standards to enhance payments security and efficiency at various points in the payment and ancillary processing flows, noting the importance of supporting industry efforts to develop and adopt standards, as well as common approaches to implementation. 6
+
+The Federal Reserve itself adopts standards in its role as a payment system operator. For example, the FedNow Service, which went live in July 2023, was built using the ISO 20022 messaging standard. Incorporating this standard enables a number of operational efficiencies, including improved information exchange between financial institutions, support for straight-through processing, and reduction in errors and the need for manual processing steps. We have also committed to adopting the ISO 20022 messaging standard for the Federal Reserve's wholesale payments service, the Fedwire Funds Service, by March 2025. We expect this adoption will improve the speed of wholesale cross-border payments by reducing operational costs and promoting consistent communication across global platforms. The richer data in ISO 20022 could also improve anti-money laundering and sanctions screening and support broader adoption of extended remittance information.
+
+In serving as a neutral convenor, providing payments expertise, and improving payments in our role as a payment system operator, the Fed extends its long history of engaging in the development of payments technical standards.
+
+## Conclusion
+
+As we navigate the latest wave of technological innovation in payments, the fundamental payment system dynamics and role of technical standards are not new. However, the pace of change is a lot faster now than in the 1910s, when paper checks were used. Collaboration among a broad range of private and public stakeholders can help to establish standards for integrating the new technologies into the payment system.
+
+Advocating for an open and transparent standards development process, where participants adopt standards that are technically sound and supportive of business and public objectives, is one way the Federal Reserve can help to foster payment system safety and efficiency, as well as support responsible innovation at its present rapid clip.
+
+1 Thank you to Alex Sproveri, Hannah Kim, and Cy Watsky of the Federal Reserve Board and Ainsley Hargest of the Federal Reserve Bank of Minneapolis for their assistance in preparing this text. The views expressed here are my own and not necessarily those of my colleagues on the Federal Reserve Board.
+
+- 2 See Alan Greenspan, "Our banking history" (remarks at the Annual Meeting and Conference of the Conference of State Bank Supervisors, Nashville, TN, May 2, 1998),
+
+and Daniel Sanches, "The Free-Banking Era: A Lesson for Today? (PDF)," Economic Insights (Third Quarter 2016): 9-14.
+
+- 3 See Christopher J. Neely, "The Federal Reserve's Response to the September 11 Attacks," Regional Economist, January 01, 2002.
+- 4 See section 3 of the Check 21 Act, Pub. L. No. 108-100 (2003).
+- 5 See Christopher J. Waller, "Reflections on Stablecoins and Payments Innovations" (speech delivered via webcast at the 2021 Financial Stability Conference, cohosted by the Federal Reserve Bank of Cleveland and the Office of Financial Research, Cleveland, OH, November 17, 2021).
+- 6 See Federal Reserve System, "Strategies for Improving the U.S. Payment System (PDF)," last modified January 26, 2015, and Federal Reserve System, "Strategies for Improving the U.S. Payment System: Federal Reserve Next Steps in the Payments Improvement Journey (PDF)," last modified September 6, 2017.

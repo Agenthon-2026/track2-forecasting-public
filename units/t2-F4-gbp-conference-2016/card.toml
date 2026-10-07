@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f4", "t2c-F4-gbp-political-calendar-2016"]
 expert_time_estimate_min = 45.0
@@ -23,7 +22,6 @@ target_frequency = "daily"
 description      = "GBP Into a Political-Calendar Fog (21 BD). As-of 2016-09-30; targets GBP at horizons [21] BD. Political-calendar tail with deliberately weak text; width honesty test."
 created_by       = "Ruolan Sun (catalog t2c-F4-gbp-political-calendar-2016)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -73,13 +71,13 @@ end_date   = "2016-09-30"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; Federal Reserve"
+source         = "BIS central bankers' speeches; Federal Reserve; Bank of England"
 path           = "text/"
 cutoff         = "2016-09-30"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement"]
-n_documents    = 7
-notes          = "The panel has stabilised and BoE texts focus on stimulus transmission. The known unknown is political — a party-conference calendar starts inside the window and the constitutional-process stance is undefined. Thin-signal tail card: the corpus justifies variance, and thin-liquidity microstructure justifies a jump component."
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement"]
+n_documents    = 10
+notes          = "The panel has stabilised and BoE texts focus on stimulus transmission. A party-conference calendar starts inside the window, and the corpus says little about the constitutional process. The documents are for weighing that calendar against the BoE texts; the corpus is thin by design."
 
 [targets]
 asset_ids        = ["GBP"]

@@ -1,0 +1,82 @@
+Vítor Constâncio: Accounting and financial reporting by central banks
+2014-06-03
+
+## Vítor Constâncio: Accounting and financial reporting by central banks
+
+Speech by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the fourth ECB conference on accounting, financial reporting and corporate governance for central banks, Frankfurt am Main, 3 June 2014.
+
+* * *
+
+Good morning ladies and gentlemen,
+
+Welcome to the fourth ECB conference on accounting, financial reporting and corporate governance for central banks. And, of course, a special welcome to the distinguished speakers and our thanks for their participating and sharing their thoughts on the topics covered today and tomorrow.
+
+This conference has become well established in the meantime, as demonstrated by the audience, the size of which, to our regret, had to be restricted on account of insufficient space. The good news is that in the years to come, we will have more room at the ECB's new premises.
+
+The conference will deal with four main topics on which I would like to say a few words:
+
+developments in international accounting standards;
+
+interaction between financial reporting and financial regulation;
+
+central bank balance sheets in stormy times; and central bank financial reporting and governance issues.
+
+On the first topic , the ECB supports the establishment of a single set of global accounting and financial reporting standards. This is vital for the sake of consistency, comparability and thus transparency. It is also important not only for investors and other stakeholders, but also with a view to banking supervision and regulation. As you all know, accounting information serves as a basis for various prudential measures, such as minimum capital requirements and the leverage ratio. In the EU, the new capital framework for banks that came into effect on 1 January 2014 (what is known as the 'CRR/CRD IV'), and the supervisory approach within the Single Supervisory Mechanism (SSM), is aimed at harmonising prudential requirements and practices for all EU banks. This is commonly referred to as the 'single EU rulebook' or the 'single supervisory model'. The coexistence of different accounting frameworks would obviously be inconsistent with this objective.
+
+Nevertheless, the ECB understands that the International Accounting Standards Board (IASB) may have to go towards the finalisation of International Financial Reporting Standard (IFRS) 9, even if a broader agreement cannot be achieved.
+
+To pick out one particular issue, the ECB considers the more forward-looking loan-loss provisioning as a positive development. While acknowledging that the replacement of the incurred-loss model by the expected-loss model may be criticised as being judgemental and as allowing a considerable degree of subjectivity, it nonetheless has the advantage of being more forward-looking and, therefore, less pro-cyclical.
+
+Furthermore, the ECB welcomes the Maystadt report on how to reinforce the EU's contribution to the IFRS and to the improvement of the governance of the European institutions developing these standards. The ECB broadly supports the enhanced role of public authorities in the new Board of the European Financial Reporting Advisory Group (EFRAG), which would contribute towards ensuring that financial stability and public interest considerations are adequately taken into account in the endorsement process for IFRS. The need for taking into account financial stability considerations in the process of setting accounting standards is an issue that has long been championed by the ECB. In our view, enhancing the role of public authorities in this process is conducive towards achieving that
+
+goal, and would, through an increased interaction between standard setters and regulators, contribute to taking financial stability considerations into account in a more pronounced way in accounting standard-setting.
+
+The presentations of the first session of this conference will shed light on these issues and provide you with information on the latest developments in this area.
+
+The second part of this conference deals with the interaction between financial reporting and financial regulation.
+
+As you are aware, the ECB has been entrusted with the responsibility for banking supervision in Europe within the framework of the SSM. The SSM will provide for the aforementioned 'single supervisory model', which will be applicable to all banks in the euro area. In the future, other EU countries may also decide to participate in the SSM. The ECB/SSM will formally take over supervision in November 2014. It is being designed to solve the 'financial trilemma' 1 created by the unstable co-existence of national supervision, financial integration and financial stability by moving supervision to the European level.
+
+The ECB/SSM's currently on-going comprehensive assessment exercise covers 128 banks that represent 85% of the total assets of the euro area banking sector. The exercise, which is to be concluded ahead of the operational start of the SSM, will contribute to greater transparency of the banks' balance sheets. Moving forward, the SSM will ensure consistency of supervisory practices in Europe. It will lead to a harmonised treatment of non-performing exposures and provisioning rules, which varies between jurisdictions at present and is not directly comparable for investors. It will moreover address heterogeneity in banks' calculations regarding risk-weighted assets.
+
+Many measures analysed in the comprehensive assessment exercise are based on accounting data. The vast majority of the banks undergoing the assessment report their accounts in line with IFRS. But some euro area banks still apply local Generally Accepted Accounting Principles (GAAP). This creates challenges regarding the comparability of data at the European level. It is therefore now appropriate to discuss the links between financial reporting and financial regulation.
+
+In the context of applying a more harmonised approach to supervision, the European Banking Authority (EBA) has developed technical standards for the regular reporting of banklevel supervisory data, using the CRR/CRD IV as a basis.
+
+Accounting values are the basis for determining regulatory capital. Nonetheless, accounting capital and regulatory capital reported under the new regulatory reporting standards will generally differ. This is due to the different objectives of accounting and supervisory data. Consequently, prudential filters, as well as other instruments, are applied in order to adjust accounting figures to prudential figures.
+
+In addition to supervisory information, banks have to report further financial data to the supervisory authorities. These reports consist of 'pure' accounting data without any regulatory adjustments and include the balance sheet, off-balance-sheet activities and the income statement, as well as detailed breakdowns thereof. The reported values are measured according to the applicable accounting framework, which is IFRS for most banks in the EU, as said before. Furthermore, consistency of data reported in the annual accounts and regulatory reports has to be ensured.
+
+All these aspects show that banking supervisors have convincing reasons to call for the application of high-quality accounting frameworks. Regulatory ratios and reports depend heavily on accounting figures, and the accounting framework applied can substantially influence the reported values. It is thus crucial for supervisors to understand the accounting
+
+1 Dirk Schoenmaker, 'The financial trilemma', Economic Letters , No 111, 2011, pp. 57-9.
+
+rules behind the figures and to promote sound accounting practices. Therefore, I would like to emphasise once more that the ECB supports a greater harmonisation of accounting frameworks by applying IFRS, also with a view to ensuring equivalence in the supervisory assessment of reported data. Indeed, it would seem desirable that all banks regulated under the SSM apply IFRS, thereby ensuring equivalence in any assessment of data dependent on accounting information.
+
+We have a number of interesting speeches on various aspects of this challenging topic in our conference programme for this afternoon, which deal with interaction and repercussion effects between financial reporting, financial regulation and financial stability. Given that accounting data are used as the basis for financial reporting, regulatory reporting, and for market and financial stability analysis, you may hear some interesting views on, for example certain accounting approaches, and with regard to the extent of disclosures and transparency.
+
+Turning to the third part of our conference that will deal with central bank balance sheets during the crisis, the financial crisis required unconventional monetary policy tools and liquidity support that had a considerable impact on the size of many central banks' balance sheets, influenced their risk profile and left marks on their financial buffers and profit and loss accounts.
+
+The Eurosystem reacted to the financial crisis by increasing its intermediation in bank funding markets via an increased range of monetary policy instruments. Consequently the Eurosystem risk profile partially shifted and increased, from FX rate and gold price risk to credit risk related to domestic assets. Any related counterparty default risk is however mitigated by adequate underlying collateral which provides an additional guarantee. The operational framework was adapted accordingly - examples thereof are the extension of credit maturities, outright purchase programmes for securities and changes to the collateral framework.
+
+Similar developments were experienced by many central banks around the world. In the case of the Eurosystem, the balance sheet expansion was largely due to an increase in the size and maturity of temporary lending operations under the fixed rate full-allotment tender procedures. The Eurosystem had increased its lending to banks after tensions in the money market emerged in August 2007, but the increase in its balance sheet size remained relatively limited until September 2008; it became significant only after the collapse of Lehman Brothers. As of mid-2012, excess liquidity and, concomitantly, the size of the Eurosystem balance sheet have started to decline again. On 23 May 2014, monetary policyrelated lending to euro area credit institutions stood at EUR 640 billion, which is roughly half as much as at the peak in 2012. Other major central banks have conducted mainly largescale outright asset purchases.
+
+In the aftermath of the financial crisis, the Eurosystem's risk control frameworks were developed further and refined. The Eurosystem ensures that it is protected in financial terms, inter alia, through the implementation of prudent risk management and accounting frameworks, and through a cautious allocation of its invested assets. As a result of these risk control measures, the risk profile of the Eurosystem's balance sheet has been contained, despite the use of the various non-standard measures since mid-2007.
+
+Furthermore, financial protection was enhanced. The ways in which central banks can achieve this depend on their legal, statutory and accounting frameworks. Some central banks have sufficient leeway to create reserves and others are able to build up appropriate risk provisions, while some enjoy state guarantees with respect to their recapitalisation in the event of certain losses. Regarding the ECB itself, we gradually doubled our capital during the financial crisis up to its statutory ceiling - at the end of 2013, it amounted to EUR 7.6 billion. Moreover, we have built up a general risk provision that stood at the same level at the end of 2013.
+
+Notwithstanding the significant increase in its balance sheet during the financial crisis, the financial strength of the Eurosystem has been preserved. This reinforces the financial independence of the Eurosystem as a whole, including that of the ECB.
+
+The discussions that take place tomorrow morning will provide some very interesting insight into the issues of central banks' balance sheets, risk management and both current and future financial challenges.
+
+The fourth and final part of this conference will focus on central bank financial reporting and governance issues.
+
+As you know, there is an increasing worldwide demand for transparency to be strengthened, also triggered by the financial crisis. This, in turn, impacts on financial reporting and how it is tackled, as well as on the way in which governance issues are presented.
+
+One aspect that the ECB has paid particular attention to in recent years is the development of its management report. The management report is aimed at providing the ECB's stakeholders with comprehensive information on primarily issues with a financial impact such as portfolio management, the production of its financial accounts, various risk management aspects, financial resources and financial results, as well as related governance issues.
+
+I am sure that many of you face similar considerations and initiatives, and are taking measures to strengthen financial reporting further on an on-going basis. However, we should never forget that central banks exist to conduct policies of price and financial stability and must be judged by their success in ensuring those goals for the general welfare of our societies.
+
+This notwithstanding, we have to recognise that the roles of financial reporting and risk management have become more prominent than they were before, and that they are subject to increased public scrutiny. In this context, both accounting and governance frameworks remain key components when it comes to the understanding of a central bank's financial situation, and we should all aim at applying these frameworks in order to make our positions as clear and understandable as possible to our numerous stakeholders.
+
+Ladies and gentlemen, I thank you for your attention and wish you a fruitful conference.

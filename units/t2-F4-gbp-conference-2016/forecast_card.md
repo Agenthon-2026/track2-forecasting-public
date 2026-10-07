@@ -4,7 +4,7 @@
 at horizons [21] BD · unit `usd_per_gbp` · split validation
 
 Inputs mounted read-only: `/input/panels/g10_fx_daily.parquet` (rows only through
-the as-of date) and `/input/text/` (7 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (10 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,
@@ -15,4 +15,4 @@ plus `forecast_meta.json`. `value` = level in the stated unit on the target date
 Scoring: S = 0.5 x marginal CRPS + 0.3 x joint variogram + 0.2 x tail penalty (lower
 is better) against sealed realized outcomes.
 
-**Text corpus role.** The panel has stabilised and BoE texts focus on stimulus transmission. The known unknown is political — a party-conference calendar starts inside the window and the constitutional-process stance is undefined. Thin-signal tail card: the corpus justifies variance, and thin-liquidity microstructure justifies a jump component.
+**Text corpus role.** The panel has stabilised and BoE texts focus on stimulus transmission. A party-conference calendar starts inside the window, and the corpus says little about the constitutional process. The documents are for weighing that calendar against the BoE texts; the corpus is thin by design.

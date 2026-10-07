@@ -1,0 +1,148 @@
+Lisa D Cook: Artificial intelligence, big data, and the path ahead for productivity
+2024-10-01
+
+For release on delivery 11:10 a.m. EDT October 1, 2024
+
+Artificial Intelligence, Big Data, and the Path Ahead for Productivity
+
+Remarks by
+
+Lisa D. Cook
+
+Member
+
+Board of Governors of the Federal Reserve System at
+
+'Technology-Enabled Disruption: Implications of AI, Big Data, and Remote Work,' a conference organized by the Federal Reserve Banks of Atlanta, Boston, and Richmond
+
+Atlanta, Georgia
+
+October 1, 2024
+
+Thank you, President Bostic. Let me start by saying my thoughts are with all the people of Florida, Georgia, North Carolina, South Carolina, Tennessee and the other communities who have felt the force of Helene's impact. I am saddened by the tragic loss of life and widespread disruption in these regions served by the Federal Reserve Banks of Atlanta and Richmond. As Chair Powell said yesterday, we at the Fed are encouraging banks to work with customers in affected areas and we are working to support the Reserve Banks to ensure there are ample cash supplies, which can be especially important during times of power outages.
+
+I am always happy to be in Atlanta, in Georgia, and at the Federal Reserve Bank of Atlanta. I grew up in Georgia, and I am a proud graduate of Spelman College. Atlanta is an appropriate place to speak about today's topic, artificial intelligence (AI), as it is in the midst of large corporations and startups developing uses for AI and near so many impressive schools, including Georgia Tech, a top AI research university and where I took courses to prepare for a Ph.D. in economics. Our tech entrepreneurship and AI roundtable with Chair Powell, held at Spelman last year, is a testament to Atlanta being such a locus of activity.
+
+Today, I will speak to you about AI, big data, and the path ahead for productivity. 1 My comments today will build upon what I offered a year ago at the NBER AI meeting in Toronto, when I emphasized the importance of business decision-
+
+1 The views expressed here are my own and not necessarily those of my colleagues on the Federal Open Market Committee.
+
+making in our progress along that path. 2 Technology alone will not determine the outcome.
+
+Futurists have dreamed of an autonomous, thinking machine throughout the modern era. Benjamin Franklin once lost a game of chess to such a machine, the 'Mechanical Turk'; of course, there was a human chess master hidden inside. Nowadays, chess engines that beat the top players can run on your phone.
+
+So, what exactly makes these machines merit the label of 'artificial intelligence'? Information systems with AI exploit complex patterns recognized in vast unstructured data sets to mimic human creativity, problem solving, and critical thinking. Some forms of AI-prediction of customer tastes with machine learning, for example-are already employed in the business sector. Others are still emerging, especially generative AIprograms that create new text and images in response to prompts. Applications in software creation, customer service, and marketing are already with us. But the full scope of generative AI's application will be revealed slowly as firms experiment and innovate.
+
+This subject bears careful research and understanding in my role as a monetary policymaker. The Federal Reserve's dual mandate is to promote maximum employment and stable prices. As I discussed in a recent speech at the Ohio State University, the spread of AI and other technologies could have an effect on both. 3
+
+2 See Lisa D. Cook (2023), 'Generative AI, Productivity, the Labor Market, and Choice Behavior,' speech delivered at the National Bureau of Economic Research Economics of Artificial Intelligence Conference, Fall 2023, Toronto, September 22,
+
+https://www.federalreserve.gov/newsevents/speech/cook20230922a.htm.
+
+3 See Lisa D. Cook (2024), 'What Will Artificial Intelligence Mean for America's Workers?' speech delivered at the Ohio State University, Columbus, Ohio, September 26, https://www.federalreserve.gov/newsevents/speech/cook20240926a.htm.
+
+## Artificial Intelligence Adoption on the Rise
+
+Let me say from the outset that there is tremendous uncertainty about AI's implications. We still do not know what the magnitude or intensity of these effects will be, which workers and firms will be most affected, how big the increase in productivity might be, or even the period over which these effects will be realized.
+
+While much is still to be learned, I see growing evidence that AI is poised to have a substantial effect on U.S. and global labor markets. As firms deploy these technologies and workers discover ways to make use of them, such developments can create the conditions for greater productivity and thus higher wage growth consistent with stable prices. And adjustments in the labor market that follow as the economy adapts to technical change can affect maximum employment.
+
+My view is that AI, and generative AI in particular, is likely to become a generalpurpose technology-one that spreads throughout the economy, sparks downstream innovation, and continues to improve over time. Since my speech last year, further evidence in favor of a cautiously optimistic view has accumulated. The list of tasks for which AI performance is at least equivalent to that of a skilled human continues to grow. Remarkably, one AI model reached silver-medal performance at the International Mathematical Olympiad this year. 4 Survey results from the Census Bureau show that AI adoption has risen, with AI in regular use across many sectors of the economy, but is still
+
+4 See Nestor Maslej, Loredana Fattorini, Raymond Perrault, Vanessa Parli, Anka Reuel, Erik Brynjolfsson, John Etchemendy, Katrina Ligett, Terah Lyons, James Manyika, Juan Carlos Niebles, Yoav Shoham, Russell Wald, and Jack Clark (2024), Artificial Intelligence Index Report 2024 (Stanford, Calif.: Stanford University, Institute for Human-Centered AI, AI Index Steering Committee, April),
+
+https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI\_2024\_AI-Index-Report.pdf; and Manon
+
+Bischoff (2024), 'AI Reaches Silver-Medal Level at This Year's Math Olympiad,'
+
+Scientific American,
+
+August 6.
+
+used in only a small share of firms. 5 Other surveys find wider adoption. For example, a study from the Federal Reserve Bank of St. Louis found generative AI is being adopted at a faster rate than the internet and personal computers were at a comparable point after those technologies were widely introduced. 6 In a sign that the prospect of more widespread use of AI is on the horizon, U.S. data center construction spending and semiconductor imports have soared in the past two years.
+
+## Examining Productivity
+
+Since the high-tech boom ended in the early 2000s, smoothing through recessiondriven swings, growth in output per hour worked has been relatively modest, roughly 1.5 percent per year, on average, though it has picked up some over the past two years. In fact, the latest estimate for productivity would not have looked out of place in the hightech boom: it grew 2.7 percent over the year ending in the second quarter. The emergence of generative AI has raised hopes for a technology-fueled revival of strong growth in labor productivity, which could support rising real earnings for workers and purchasing power for households. Like many of the most significant innovations of the past few centuries-such as the steam engine, electricity, computers, and the internet-
+
+5 Of the firms sampled in the U.S. Census Bureau's semiweekly Business Trends and Outlook Survey,
+
+5.5 percent indicated they had used AI in the two weeks preceding the August 25, 2024, survey-
+
+1.5 percentage points higher than a year earlier. Other estimates based on convenience samples report higher shares. For example, McKinsey &amp; Company estimates that 72 percent of firms used AI in at least one business function in August 2024, up from 55 percent the year before. For a comparison of the Census and McKinsey measures, see Kathryn Bonney, Cory Breaux, Cathy Buffington, Emin Dinlersoz, Lucia S. Foster, Nathan Goldschlag, John C. Haltiwanger, Zachary Kroff, and Keith Savage (2024), 'Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey,' NBER Working Paper Series 32319 (Cambridge, Mass.: National Bureau of Economic Research, April), https://www.nber.org/papers/w32319.
+
+6 See Alexander Bick, Adam Blandin, and David Deming (2024), 'The Rapid Adoption of Generative AI,' Federal Reserve Bank of St. Louis, On the Economy (blog), September 23, https://www.stlouisfed.org/onthe-economy/2024/sep/rapid-adoption-generative-
+
+ai?utm\_source=twitter&amp;utm\_medium=SM&amp;utm\_content=stlouisfed&amp;utm\_campaign=dc2f59ec-5fde-491c98fa-f0161b783bd1
+
+AI has the potential to affect labor productivity in a wide swath of economic activities across many industries and occupations.
+
+Although I share the view that AI could lift productivity out of this period of low growth, it bears emphasis that recent productivity gains have been modest despite rather impressive changes in information technology. For example, we live much of our lives on our smartphones, devices that almost no one used 20 years ago. Moreover, the generative AI models that have captured our attention since 2022 were preceded by other forms of AI that have already been integrated into e-commerce and other business operations. In other words, the modest productivity growth seen of late already incorporates gains from some types of AI. Whether generative AI delivers a similar, incremental contribution to productivity growth or something larger remains to be seen.
+
+The degree to which AI leads to productivity improvement bears careful watching, because, if it does meaningfully lift productivity, it could help constrain unit labor costs and inflation in the long run. And, of course, measuring productivity in real time is challenging. Famously, Chairman Alan Greenspan spied productivity gains from information technology in the 1990s long before they appeared in the data.
+
+The challenge for macroeconomic forecasters is that productivity does not follow immediately from invention and innovation. The translation of technology into productivity depends on the choices made by firms, workers, and policymakers. Timeconsuming work at the adopting firm is often needed to tailor the technology to its specific needs. 7 For example, a case study by researchers at Harvard Business School
+
+7 See Timothy Bresnahan, Shane Greenstein, David Brownstone, and Kenneth Flamm (1996), 'Technical Progress and Co-invention in Computing and in the Uses of Computers,' Brookings Papers on Economic Activity: Microeconomics 1996 , pp. 1-83, https://www.brookings.edu/articles/technical-progress-and-coinvention-in-computing-and-in-the-uses-of-computers.
+
+revealed that when GitHub built Copilot, a code-completion tool, on top of generative AI technology adopted from OpenAI, it went through a process of experimentation, false starts, management challenges, and substantial expense. 8
+
+Moreover, while productivity growth follows from translation of clever new ideas into concrete business practices, this full effect is realized only when capital and labor are reallocated to the firms that are most adept at doing so. This 'business dynamism' contribution to productivity dwindled in the years before the pandemic. 9 The recent surge in new business creation provides some hope that dynamism may be rebounding.
+
+## Variation between Firms
+
+The push to use AI algorithms to make more decisions will entail some degree of adjustment at AI-using firms to the jobs of their employees, as well. Understandably, the prospect of those adjustments has many knowledge workers concerned about job security. 10 Importantly, when one considers the wide array of tasks involved in performing most jobs-some of the ones we take for granted are quite difficult to automate-it becomes harder to imagine entire positions becoming redundant. 11 For example, an advertising firm might allow AI to produce suggested copy and images reflecting the identity of a client, but only after providing the AI system with notes based
+
+8 See Frank Nagle, Shane Greenstein, Maria P. Roche, Nataliya Langburd Wright, and Sarah Mehta (2023), 'Copilot(s): Generative AI at Microsoft and GitHub,' Harvard Business School case study, Harvard Business Review, November 16.
+
+9 See Ryan A. Decker, John Haltiwanger, Ron S. Jarmin, and Javier Miranda (2020), 'Changing Business Dynamism and Productivity: Shocks versus Responsiveness,' American Economic Review, vol. 110 (December), pp. 3952-90.
+
+(Redmond,
+
+10 The 2024 Work Trend Index Annual Report, published by Microsoft and LinkedIn, reports that 45 percent of knowledge workers are afraid AI will replace them. See Microsoft Corp. and LinkedIn (2024), 2024 Work Trend Index Annual Report: AI at Work Is Here. Now Comes the Hard Part Wash.: Microsoft Corp. and LinkedIn, May), https://www.microsoft.com/en-us/worklab/work-trendindex/ai-at-work-is-here-now-comes-the-hard-part.
+
+11 See David H. Autor, Frank Levy, and Richard J. Murnane (2002), 'Upstairs, Downstairs: Computers and Skills on Two Floors of a Large Bank,' Industrial and Labor Relations Review, vol. 55 (April), pp. 432-47.
+
+on meetings, observation, and experience. And the proposed advertisement could be further reviewed and revised, presented to the client, and evaluated for success by human beings.
+
+This makes it likely that the bundle of tasks involved in many jobs will change, as will the share of the worker's time spent on each task. AI may field routine customer service requests and leave unusual or especially important requests to human representatives. Indeed, work by Erik Brynjolfsson, Danielle Li, and Lindsey Raymond shows that AI may accelerate the acquisition of skills for new workers by offering suggested responses based on the history of previous interactions on a given subject. 12 This adjustment process entails both modifying the mix of tasks handled by retained workers and hiring new talent from outside the firm. A recent survey conducted by the Federal Reserve Bank of New York found that very few AI-adopting firms had laid off workers as part of that process in the previous six months, and many firms have plans to retrain their workers to use AI. 13
+
+Adapting an incumbent business to fully exploit AI can be a daunting task: the business may need to substantially reorganize its operations to reap the full benefit of AI. 14 Given access to information from throughout the firm, AI may offer insights into business process efficiency, but the data landscape may be Balkanized, with differing
+
+12 See Erik Brynjolfsson, Danielle Li, and Lindsey R. Raymond (2023), 'Generative AI at Work,' NBER Working Paper Series 31161 (Cambridge, Mass.: National Bureau of Economic Research, November), https://www.nber.org/papers/w31161.
+
+13 See Jaison R. Abel, Richard Deitz, Natalia Emanuel, and Benjamin Hyman (2024), 'AI and the Labor Market: Will Firms Hire, Fire, or Retrain?' Federal Reserve Bank of New York, Liberty Street Economics (blog), September 4, https://libertystreeteconomics.newyorkfed.org/2024/09/ai-and-the-labor-market-willfirms-hire-fire-or-retrain. The survey covered firms in the New York-Northern New Jersey region. A June survey of Texas firms yielded similar results.
+
+14 See Marco Iansiti and Karim R. Lakhani (2020), Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World (Boston: Harvard Business Review Press).
+
+standards and restrictive permissions. Reports are that one prominent technology firm addressed this problem by requiring that employees provide widespread access to all data sets within the company and service interfaces to make the access seamless. 15 Not all firms will find it feasible or desirable to take such sweeping measures.
+
+New entrants may have an advantage in this landscape in that they have fewer entrenched practices. In a development that one may speculate is connected to AI, Ryan Decker and John Haltiwanger found that a large share of the surge in new business entry seen in the past three years has been in high tech industries. 16 Importantly, even in this moment of abundant startups, we may be missing the potential contributions of some groups. In my own work before joining the Federal Reserve Board, I found that investors underrate the prospects of Black-founded, or simply outsider-founded, startups in early funding stages. 17 Addressing better assessment in the early stages of invention and innovation could broaden the range of new entrants and the ideas they contribute.
+
+Nonetheless, incumbent firms may be better positioned to fund the gargantuan sums required to train AI models. Leading-edge models, adaptable for a wide range of tasks, cost tens of millions of dollars to train. 18 Big data processing techniquesdistributed computing, scalability, in-memory processing-play an important role in that training, which uses terabytes of unstructured data.
+
+15 See Iansiti and Lakhani, Competing in the Age of AI, in note 14.
+
+16 See Ryan Decker and John Haltiwanger (2024), 'High Tech Business Entry in the Pandemic Era, FEDS
+
+Notes (Washington: Board of Governors of the Federal Reserve System, April 19), https://www.federalreserve.gov/econres/notes/feds-notes/high-tech-business-entry-in-the-pandemic-era20240419.html.
+
+17 See Lisa D. Cook, Matt Marx, and Emmanuel Yimfor (2022), 'Funding Black High-Growth Startups,' NBER Working Paper Series 30682 (Cambridge, Mass.: National Bureau of Economic Research, November), https://www.nber.org/papers/w30682.
+
+18 See Ben Cottier, Robi Rahman, Loredana Fattorini, Nestor Maslej, and David Owen (2024), 'The Rising Costs of Training Frontier AI Models,' arXiv preprint, arXiv:2405.21015 (Ithaca, N.Y.: Cornell University, May), https://doi.org/10.48550/arXiv.2405.21015.
+
+And those firms have the accumulated data from their business operations with which to train AI. Some observers have noted that the finite supply of high-quality data is beginning to constrain model improvement. 19 Apparently, central bankers are not the only ones always looking for 'more good data'! Future gains are expected to be driven by the adaptation of AI to specific contexts using proprietary data available only within the confines of individual firms.
+
+## Conclusion
+
+In closing, looking ahead, I anticipate an acceleration in productivity grounded in the impressive advances in AI, but substantial uncertainty attends that forecast. Such uncertainty arises from the nature of invention, innovation, diffusion, and adaptation of new technologies, as well as from policy decisions that will govern this process. Fostering the global innovation ecosystem remains desirable through research and development, advanced education, worker training and retraining, and legal protections for intellectual property. Moreover, a consensus needs to be forged on the benefits and costs of regulation of the use of AI in the areas of privacy, compensation for training data, perpetuation and amplification of bias, and fraud. Additionally, the ultimate outcomes could benefit from broader inclusion across demographic groups in the startup and research communities and attention to the potential effects on competition of the advantages of incumbent firms.
+
+In short, AI will be translated into productivity improvements with 'long and variable lags,' as we monetary policymakers like to say. The changes we see in the macroeconomy-aggregate output, employment, and income-are the collective effect of
+
+19 See Tammy Xu (2022), 'We Could Run Out of Data to Train AI Language Programs,' MIT Technology Review, November 24.
+
+millions of firms, households, and government policymakers thinking through what AI means for them. You might say that, like the Mechanical Turk, ultimately the human inside the machine is still in charge.
+
+My hope is that rising productivity gains will serve as a counterweight to inflation going forward. We will monitor these developments closely.
+
+Thank you for having me here today. I look forward to your questions.

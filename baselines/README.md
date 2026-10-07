@@ -75,18 +75,20 @@ about what the code does.
 
 ## Baseline scores
 
-**There are none in this repository, and none are published.** There is no `baseline-scores.csv`
-here — the file does not exist and never shipped — and no per-card or aggregate baseline table is
-published anywhere else either. Deliberately: a card's score is normalized by the baseline's own
-components, so a published per-unit baseline score plus a reproducible baseline forecast inverts
-to the sealed value. See the "Their scores are not published per unit" note in the repository
-[README.md](../README.md).
+**There are none in this repository, and none are published per card.** There is no
+`baseline-scores.csv` here — the file does not exist and never shipped — and no per-card baseline
+table is published anywhere else either. Deliberately: a baseline's score on one card is its error
+against that card's sealed outcome, so a published per-card baseline score plus a reproducible
+baseline forecast ([`docs/M0-BASELINE.md`](../docs/M0-BASELINE.md)) inverts to the sealed value.
+The only baseline score published is the text-blind baseline's aggregate, shown as a reference
+row on the leaderboard. See the `baselines/` section of the repository [README.md](../README.md).
 
 **So you cannot calibrate against a baseline number locally, and you should not try.** What you
 can do locally is check that your agent runs, that it is admissible under g0-g3, and that its
-distribution is self-consistent. Accuracy feedback comes from submitting: on the leaderboard the
-normalization does the comparison for you — **1.0 means "no better than the text-blind
-baseline"** — so your own score already reads as a ratio, with no baseline table needed.
+distribution is self-consistent. Accuracy feedback comes from submitting: every card is divided by
+the error the text-blind baseline expects to make on it, so **1.0 means your error equals that
+expected error**, and the baseline's own score sits on the leaderboard as a reference row. Your
+score reads directly against it, with no baseline table needed.
 
 Running a scaffold in this directory tells you nothing about accuracy either. Its output is a
 Gaussian random walk; a score against it is a score against noise.
@@ -176,9 +178,8 @@ What you *can* run locally, and what is worth reporting:
 2. **Run your agent with an empty text corpus** (text ablation). The gap between the ablated and
    the full run isolates the marginal contribution of text *within your own system* — no baseline
    is involved, so this measurement is sound locally.
-3. **Read the baseline comparison off the leaderboard**, where the normalization already performs
-   it: your submitted score is a ratio against the text-blind baseline, and 1.0 means no better
-   than it.
+3. **Read the baseline comparison off the leaderboard**, where the text-blind baseline appears as
+   a reference row, scored against the same outcomes and on the same scale as your entry.
 
 Report your full score, your ablated score, and the gap. The text ablation is the part of the
 Track 2 contribution you can establish yourself.

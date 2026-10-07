@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust2y-language-shift-2019"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2019-01-30"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BLS/BEA news release; Federal Reserve"
+source         = "BLS/BEA news release; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2019-01-30"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 9
 notes          = "Between the 2018-12-19 and 2019-01-30 statements the language shifts sharply on tone: a patience formulation replaces the further-increases bias, alongside new balance-sheet flexibility, while policy action is still pending. The panel shows nothing yet; whether and how the 2Y moves over the horizon must be inferred from text alone."
 
 [targets]

@@ -1,0 +1,495 @@
+# source: https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20240612.htm | date: 2024-06-12 | type: landmark
+
+FOMC Projections Materials: Summary of Economic Projections, June 12, 2024
+Federal Open Market Committee, 12 June 2024
+
+For release at 2:00 p.m., EDT, June 12, 2024
+
+Summary of Economic Projections
+In conjunction with the Federal Open Market Committee (FOMC) meeting held on June 11–12, 2024, meeting participants submitted their projections of the most likely outcomes for real gross domestic product (GDP) growth, the unemployment rate, and inflation for each year from 2024 to 2026 and over the longer run. Each participant's projections were based on information available at the time of the meeting, together with her or his assessment of appropriate monetary policy—including a path for the federal funds rate and its longer-run value—and assumptions about other factors likely to affect economic outcomes. The longer-run projections represent each participant's assessment of the value to which each variable would be expected to converge, over time, under appropriate monetary policy and in the absence of further shocks to the economy. "Appropriate monetary policy" is defined as the future path of policy that each participant deems most likely to foster outcomes for economic activity and inflation that best satisfy his or her individual interpretation of the statutory mandate to promote maximum employment and price stability.
+
+Table 1. Economic projections of Federal Reserve Board members and Federal Reserve Bank presidents, under their individual assumptions of projected appropriate monetary policy, June 2024
+Percent
+
+Variable | Median[1] 2024 | Median[1] 2025 | Median[1] 2026 | Median[1] Longer run | Central Tendency[2] 2024 | Central Tendency[2] 2025 | Central Tendency[2] 2026 | Central Tendency[2] Longer run | Range[3] 2024 | Range[3] 2025 | Range[3] 2026 | Range[3] Longer run
+Change in real GDP | 2.1 | 2.0 | 2.0 | 1.8 | 1.9–2.3 | 1.8–2.2 | 1.8–2.1 | 1.7–2.0 | 1.4–2.7 | 1.5–2.5 | 1.7–2.5 | 1.6–2.5
+  March projection | 2.1 | 2.0 | 2.0 | 1.8 | 2.0–2.4 | 1.9–2.3 | 1.8–2.1 | 1.7–2.0 | 1.3–2.7 | 1.7–2.5 | 1.7–2.5 | 1.6–2.5
+Unemployment rate | 4.0 | 4.2 | 4.1 | 4.2 | 4.0–4.1 | 3.9–4.2 | 3.9–4.3 | 3.9–4.3 | 3.8–4.4 | 3.8–4.3 | 3.8–4.3 | 3.5–4.5
+  March projection | 4.0 | 4.1 | 4.0 | 4.1 | 3.9–4.1 | 3.9–4.2 | 3.9–4.3 | 3.8–4.3 | 3.8–4.5 | 3.7–4.3 | 3.7–4.3 | 3.5–4.3
+PCE inflation | 2.6 | 2.3 | 2.0 | 2.0 | 2.5–2.9 | 2.2–2.4 | 2.0–2.1 | 2.0 | 2.5–3.0 | 2.2–2.5 | 2.0–2.3 | 2.0
+  March projection | 2.4 | 2.2 | 2.0 | 2.0 | 2.3–2.7 | 2.1–2.2 | 2.0–2.1 | 2.0 | 2.2–2.9 | 2.0–2.5 | 2.0–2.3 | 2.0
+Core PCE inflation[4] | 2.8 | 2.3 | 2.0 |  | 2.8–3.0 | 2.3–2.4 | 2.0–2.1 |  | 2.7–3.2 | 2.2–2.6 | 2.0–2.3 |
+  March projection | 2.6 | 2.2 | 2.0 |  | 2.5–2.8 | 2.1–2.3 | 2.0–2.1 |  | 2.4–3.0 | 2.0–2.6 | 2.0–2.3 |
+Memo: Projected appropriate policy path
+Federal funds rate | 5.1 | 4.1 | 3.1 | 2.8 | 4.9–5.4 | 3.9–4.4 | 2.9–3.6 | 2.5–3.5 | 4.9–5.4 | 2.9–5.4 | 2.4–4.9 | 2.4–3.8
+  March projection | 4.6 | 3.9 | 3.1 | 2.6 | 4.6–5.1 | 3.4–4.1 | 2.6–3.4 | 2.5–3.1 | 4.4–5.4 | 2.6–5.4 | 2.4–4.9 | 2.4–3.8
+
+Note: Projections of change in real gross domestic product (GDP) and projections for both measures of inflation are percent changes from the fourth quarter of the previous year to the fourth quarter of the year indicated. PCE inflation and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption expenditures (PCE) and the price index for PCE excluding food and energy. Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. Each participant's projections are based on his or her assessment of appropriate monetary policy. Longer-run projections represent each participant's assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in the absence of further shocks to the economy. The projections for the federal funds rate are the value of the midpoint of the projected appropriate target range for the federal funds rate or the projected appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. The March projections were made in conjunction with the meeting of the Federal Open Market Committee on March 19–20, 2024. One participant did not submit longer-run projections for the change in real GDP, the unemployment rate, or the federal funds rate in conjunction with the March 19–20, 2024, meeting.
+1. For each period, the median is the middle projection when the projections are arranged from lowest to highest. When the number of projections is even, the median is the average of the two middle projections.
+2. The central tendency excludes the three highest and three lowest projections for each variable in each year.
+3. The range for a variable in a given year includes all participants' projections, from lowest to highest, for that variable in that year.
+4. Longer-run projections for core PCE inflation are not collected.
+
+Figure 1. Medians, central tendencies, and ranges of economic projections, 2024–26 and over the longer run
+
+Change in real GDP
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | Longer run
+Actual | 3.2 | -1.1 | 5.4 | .7 | 3.1 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 2.7 | 2.5 | 2.5 | 2.5
+Upper End of Central Tendency | - | - | - | - | - | 2.3 | 2.2 | 2.1 | 2.0
+Median | - | - | - | - | - | 2.1 | 2.0 | 2.0 | 1.8
+Lower End of Central Tendency | - | - | - | - | - | 1.9 | 1.8 | 1.8 | 1.7
+Lower End of Range | - | - | - | - | - | 1.4 | 1.5 | 1.7 | 1.6
+
+Unemployment rate
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | Longer run
+Actual | 3.6 | 6.7 | 4.2 | 3.6 | 3.8 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 4.4 | 4.3 | 4.3 | 4.5
+Upper End of Central Tendency | - | - | - | - | - | 4.1 | 4.2 | 4.3 | 4.3
+Median | - | - | - | - | - | 4.0 | 4.2 | 4.1 | 4.2
+Lower End of Central Tendency | - | - | - | - | - | 4.0 | 3.9 | 3.9 | 3.9
+Lower End of Range | - | - | - | - | - | 3.8 | 3.8 | 3.8 | 3.5
+
+PCE inflation
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | Longer run
+Actual | 1.4 | 1.2 | 5.9 | 5.9 | 2.8 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 3.0 | 2.5 | 2.3 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 2.9 | 2.4 | 2.1 | 2.0
+Median | - | - | - | - | - | 2.6 | 2.3 | 2.0 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 2.5 | 2.2 | 2.0 | 2.0
+Lower End of Range | - | - | - | - | - | 2.5 | 2.2 | 2.0 | 2.0
+
+Core PCE inflation
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026
+Actual | 1.5 | 1.4 | 4.9 | 5.1 | 3.2 | - | - | -
+Upper End of Range | - | - | - | - | - | 3.2 | 2.6 | 2.3
+Upper End of Central Tendency | - | - | - | - | - | 3.0 | 2.4 | 2.1
+Median | - | - | - | - | - | 2.8 | 2.3 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 2.8 | 2.3 | 2.0
+Lower End of Range | - | - | - | - | - | 2.7 | 2.2 | 2.0
+
+Note: Definitions of variables and other explanations are in the notes to table 1. The data for the actual values of the variables are annual.
+
+Figure 2. FOMC participants' assessments of appropriate monetary policy: Midpoint of target range or target level for the federal funds rate
+Number of participants with projected midpoint of target range or target level
+
+Midpoint of target range or target level (Percent) | 2024 | 2025 | 2026 | Longer run
+5.500 |  |  |  |
+5.375 | 4 | 1 |  |
+5.250 |  |  |  |
+5.125 | 7 |  |  |
+5.000 |  |  |  |
+4.875 | 8 | 1 | 1 |
+4.750 |  |  |  |
+4.625 |  |  |  |
+4.500 |  |  |  |
+4.375 |  | 4 |  |
+4.250 |  |  |  |
+4.125 |  | 9 | 1 |
+4.000 |  |  |  |
+3.875 |  | 2 |  |
+3.750 |  |  |  | 1
+3.625 |  | 1 | 3 | 1
+3.500 |  |  |  | 2
+3.375 |  |  | 3 |
+3.250 |  |  |  |
+3.125 |  |  | 7 | 1
+3.000 |  |  |  | 4
+2.875 |  | 1 | 2 |
+2.750 |  |  |  | 3
+2.625 |  |  | 1 | 1
+2.500 |  |  |  | 5
+2.375 |  |  | 1 | 1
+2.250 |  |  |  |
+
+Note: Each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual participant's judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run.
+
+Figure 3.A. Distribution of participants' projections for the change in real GDP, 2024–26 and over the longer run
+Histograms, four panels.
+Number of participants
+
+Percent Range | 2024 March projections | 2024 June projections | 2025 March projections | 2025 June projections | 2026 March projections | 2026 June projections | Longer Run March projections | Longer Run June projections
+1.0 - 1.1 |  |  |  |  |  |  |  |
+1.2 - 1.3 | 1 |  |  |  |  |  |  |
+1.4 - 1.5 |  | 1 |  | 1 |  |  |  |
+1.6 - 1.7 | 1 | 2 | 1 | 1 | 1 | 1 | 5 | 5
+1.8 - 1.9 |  | 2 | 5 | 5 | 6 | 6 | 7 | 8
+2.0 - 2.1 | 8 | 6 | 8 | 7 | 10 | 9 | 4 | 4
+2.2 - 2.3 | 4 | 7 | 2 | 4 | 1 | 2 | 1 | 1
+2.4 - 2.5 | 4 |  | 3 | 1 | 1 | 1 | 1 | 1
+2.6 - 2.7 | 1 | 1 |  |  |  |  |  |
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.B. Distribution of participants' projections for the unemployment rate, 2024–26 and over the longer run
+Histograms, four panels.
+Number of participants
+
+Percent Range | 2024 March projections | 2024 June projections | 2025 March projections | 2025 June projections | 2026 March projections | 2026 June projections | Longer Run March projections | Longer Run June projections
+3.2 - 3.3 |  |  |  |  |  |  |  |
+3.4 - 3.5 |  |  |  |  |  |  | 2 | 2
+3.6 - 3.7 |  |  | 1 |  | 1 |  |  |
+3.8 - 3.9 | 6 | 2 | 4 | 4 | 5 | 5 | 3 | 2
+4.0 - 4.1 | 11 | 14 | 6 | 5 | 6 | 7 | 5 | 5
+4.2 - 4.3 | 1 | 2 | 8 | 10 | 7 | 7 | 8 | 9
+4.4 - 4.5 | 1 | 1 |  |  |  |  |  | 1
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.C. Distribution of participants' projections for PCE inflation, 2024–26 and over the longer run
+Histograms, four panels.
+Number of participants
+
+Percent Range | 2024 March projections | 2024 June projections | 2025 March projections | 2025 June projections | 2026 March projections | 2026 June projections | Longer Run March projections | Longer Run June projections
+1.7 - 1.8 |  |  |  |  |  |  |  |
+1.9 - 2.0 |  |  | 3 |  | 13 | 12 | 19 | 19
+2.1 - 2.2 | 3 |  | 13 | 6 | 5 | 6 |  |
+2.3 - 2.4 | 8 |  | 2 | 12 | 1 | 1 |  |
+2.5 - 2.6 | 4 | 11 | 1 | 1 |  |  |  |
+2.7 - 2.8 | 3 | 4 |  |  |  |  |  |
+2.9 - 3.0 | 1 | 4 |  |  |  |  |  |
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.D. Distribution of participants' projections for core PCE inflation, 2024–26
+Histograms, three panels.
+Number of participants
+
+Percent Range | 2024 March projections | 2024 June projections | 2025 March projections | 2025 June projections | 2026 March projections | 2026 June projections
+1.7 - 1.8 |  |  |  |  |  |
+1.9 - 2.0 |  |  | 1 |  | 12 | 12
+2.1 - 2.2 |  |  | 14 | 3 | 6 | 6
+2.3 - 2.4 | 2 |  | 3 | 13 | 1 | 1
+2.5 - 2.6 | 11 |  | 1 | 3 |  |
+2.7 - 2.8 | 5 | 12 |  |  |  |
+2.9 - 3.0 | 1 | 4 |  |  |  |
+3.1 - 3.2 |  | 3 |  |  |  |
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.E. Distribution of participants' judgments of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate, 2024–26 and over the longer run
+Histograms, four panels.
+Number of participants
+
+Percent Range | 2024 March projections | 2024 June projections | 2025 March projections | 2025 June projections | 2026 March projections | 2026 June projections | Longer Run March projections | Longer Run June projections
+2.13 - 2.37 |  |  |  |  |  |  |  |
+2.38 - 2.62 |  |  |  |  | 3 | 1 | 9 | 6
+2.63 - 2.87 |  |  | 1 |  | 1 | 1 | 2 | 4
+2.88 - 3.12 |  |  |  | 1 | 5 | 2 | 3 | 4
+3.13 - 3.37 |  |  | 2 |  | 6 | 7 | 1 | 1
+3.38 - 3.62 |  |  | 1 |  | 2 | 3 | 2 | 2
+3.63 - 3.87 |  |  | 5 | 1 | 1 | 3 | 1 | 2
+3.88 - 4.12 |  |  | 6 | 2 |  |  |  |
+4.13 - 4.37 |  |  | 1 | 9 |  | 1 |  |
+4.38 - 4.62 | 1 |  | 2 | 4 |  |  |  |
+4.63 - 4.87 | 9 |  |  |  |  |  |  |
+4.88 - 5.12 | 5 | 8 |  | 1 | 1 | 1 |  |
+5.13 - 5.37 | 2 | 7 |  |  |  |  |  |
+5.38 - 5.62 | 2 | 4 | 1 | 1 |  |  |  |
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 4.A. Uncertainty and risks in projections of GDP growth
+
+Median projection and confidence interval based on historical forecast errors
+
+Change in Real GDP
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026
+Actual | 3.2 | -1.1 | 5.4 | .7 | 3.1 | - | - | -
+Upper end of 70% Confidence Interval | - | - | - | - | - | 3.8 | 3.9 | 4.2
+Median | - | - | - | - | - | 2.1 | 2.0 | 2.0
+Lower End of 70% Confidence Interval | - | - | - | - | - | 0.4 | 0.1 | -0.2
+
+FOMC participants' assessments of uncertainty and risks around their economic projections
+Histograms, two panels.
+
+Uncertainty about GDP growth
+Number of participants
+
+ | Lower | Broadly Similar | Higher
+June projections | 0 | 9 | 10
+March projections | 0 | 7 | 12
+
+Risks to GDP growth
+Number of participants
+
+ | Weighted to Downside | Broadly Balanced | Weighted to Upside
+June projections | 3 | 16 | 0
+March projections | 2 | 14 | 3
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the percent change in real gross domestic product (GDP) from the fourth quarter of the previous year to the fourth quarter of the year indicated. The confidence interval around the median projected values is assumed to be symmetric and is based on root mean squared errors of various private and government forecasts made over the previous 20 years; more information about these data is available in table 2. Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections; these current assessments are summarized in the lower panels. Generally speaking, participants who judge the uncertainty about their projections as "broadly similar" to the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections. Likewise, participants who judge the risks to their projections as "broadly balanced" would view the confidence interval around their projections as approximately symmetric. For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty."
+
+Figure 4.B. Uncertainty and risks in projections of the unemployment rate
+
+Median projection and confidence interval based on historical forecast errors
+
+Unemployment rate
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026
+Actual | 3.6 | 6.7 | 4.2 | 3.6 | 3.8 | - | - | -
+Upper end of 70% Confidence Interval | - | - | - | - | - | 4.9 | 5.6 | 6
+Median | - | - | - | - | - | 4.0 | 4.2 | 4.1
+Lower End of 70% Confidence Interval | - | - | - | - | - | 3.1 | 2.8 | 2.2
+
+FOMC participants' assessments of uncertainty and risks around their economic projections
+Histograms, two panels.
+
+Uncertainty about the unemployment rate
+Number of participants
+
+ | Lower | Broadly Similar | Higher
+June projections | 0 | 9 | 10
+March projections | 0 | 9 | 10
+
+Risks to the unemployment rate
+Number of participants
+
+ | Weighted to Downside | Broadly Balanced | Weighted to Upside
+June projections | 0 | 15 | 4
+March projections | 1 | 14 | 4
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the average civilian unemployment rate in the fourth quarter of the year indicated. The confidence interval around the median projected values is assumed to be symmetric and is based on root mean squared errors of various private and government forecasts made over the previous 20 years; more information about these data is available in table 2. Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections; these current assessments are summarized in the lower panels. Generally speaking, participants who judge the uncertainty about their projections as "broadly similar" to the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections. Likewise, participants who judge the risks to their projections as "broadly balanced" would view the confidence interval around their projections as approximately symmetric. For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty."
+
+Figure 4.C. Uncertainty and risks in projections of PCE inflation
+
+Median projection and confidence interval based on historical forecast errors
+
+PCE inflation
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026
+Actual | 1.4 | 1.2 | 5.9 | 5.9 | 2.8 | - | - | -
+Upper end of 70% Confidence Interval | - | - | - | - | - | 3.6 | 4 | 3.4
+Median | - | - | - | - | - | 2.6 | 2.3 | 2.0
+Lower End of 70% Confidence Interval | - | - | - | - | - | 1.6 | 0.6 | 0.6
+
+FOMC participants' assessments of uncertainty and risks around their economic projections
+Histograms, four panels.
+
+Uncertainty about PCE inflation
+Number of participants
+
+ | Lower | Broadly Similar | Higher
+June projections | 0 | 3 | 16
+March projections | 0 | 5 | 14
+
+Risks to PCE inflation
+Number of participants
+
+ | Weighted to Downside | Broadly Balanced | Weighted to Upside
+June projections | 1 | 6 | 12
+March projections | 0 | 8 | 11
+
+Uncertainty about core PCE inflation
+Number of participants
+
+ | Lower | Broadly Similar | Higher
+June projections | 0 | 3 | 16
+March projections | 0 | 5 | 14
+
+Risks to core PCE inflation
+Number of participants
+
+ | Weighted to Downside | Broadly Balanced | Weighted to Upside
+June projections | 1 | 7 | 11
+March projections | 0 | 8 | 11
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the percent change in the price index for personal consumption expenditures (PCE) from the fourth quarter of the previous year to the fourth quarter of the year indicated. The confidence interval around the median projected values is assumed to be symmetric and is based on root mean squared errors of various private and government forecasts made over the previous 20 years; more information about these data is available in table 2. Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections; these current assessments are summarized in the lower panels. Generally speaking, participants who judge the uncertainty about their projections as "broadly similar" to the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections. Likewise, participants who judge the risks to their projections as "broadly balanced" would view the confidence interval around their projections as approximately symmetric. For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty."
+
+Figure 4.D. Diffusion indexes of participants' uncertainty assessments
+Diffusion index
+
+SEP | Change in real GDP | Unemployment rate | PCE inflation | Core PCE inflation
+October 2007 | 0.76 | 0.53 | 0.35 | 0.06
+January 2008 | 0.88 | 0.76 | 0.29 | 0.29
+April 2008 | 0.82 | 0.71 | 0.59 | 0.41
+June 2008 | 0.76 | 0.65 | 0.82 | 0.47
+October 2008 | 1 | 0.94 | 0.65 | 0.71
+January 2009 | 1 | 1 | 0.88 | 0.88
+April 2009 | 1 | 1 | 0.82 | 0.82
+June 2009 | 0.94 | 0.94 | 0.76 | 0.76
+November 2009 | 0.94 | 0.82 | 0.76 | 0.82
+January 2010 | 0.82 | 0.71 | 0.71 | 0.76
+April 2010 | 0.71 | 0.76 | 0.71 | 0.65
+June 2010 | 0.82 | 0.76 | 0.71 | 0.65
+November 2010 | 0.89 | 0.83 | 0.72 | 0.72
+January 2011 | 0.72 | 0.67 | 0.72 | 0.67
+April 2011 | 0.59 | 0.65 | 0.71 | 0.59
+June 2011 | 0.76 | 0.76 | 0.76 | 0.65
+November 2011 | 0.94 | 0.82 | 0.65 | 0.59
+January 2012 | 0.94 | 0.82 | 0.53 | 0.47
+April 2012 | 0.76 | 0.76 | 0.47 | 0.35
+June 2012 | 0.95 | 0.95 | 0.47 | 0.37
+September 2012 | 0.89 | 0.89 | 0.37 | 0.32
+December 2012 | 0.95 | 0.89 | 0.26 | 0.26
+March 2013 | 0.63 | 0.63 | 0.16 | 0.16
+June 2013 | 0.37 | 0.32 | 0.16 | 0.16
+September 2013 | 0.24 | 0.24 | 0.12 | 0.12
+December 2013 | 0.18 | 0.18 | 0 | 0
+March 2014 | 0.12 | 0.12 | 0.06 | 0.06
+June 2014 | 0.19 | 0.12 | 0.12 | 0.12
+September 2014 | 0.24 | 0.24 | 0.06 | 0.06
+December 2014 | 0.06 | 0.12 | 0.24 | 0.12
+March 2015 | 0.12 | 0.12 | 0.24 | 0.18
+June 2015 | 0.18 | 0.12 | 0.18 | 0.06
+September 2015 | 0.12 | 0.06 | 0.18 | 0.18
+December 2015 | 0.12 | 0.06 | 0.12 | 0.12
+March 2016 | 0 | 0 | 0.12 | 0.06
+June 2016 | 0.18 | 0.06 | 0.06 | 0
+September 2016 | 0 | 0 | 0.12 | -0.06
+December 2016 | 0.35 | 0.29 | 0.24 | 0.18
+March 2017 | 0.29 | 0.24 | 0.18 | 0.18
+June 2017 | 0.12 | 0 | 0 | 0
+September 2017 | 0.12 | 0 | 0 | 0
+December 2017 | 0.12 | 0.12 | 0 | 0
+March 2018 | 0.07 | 0.07 | 0 | 0
+June 2018 | 0.07 | 0.07 | 0.07 | 0.07
+September 2018 | 0.12 | 0.19 | 0.06 | 0.06
+December 2018 | 0.18 | 0.29 | 0.06 | 0.06
+March 2019 | 0.18 | 0.24 | 0.12 | 0.12
+June 2019 | 0.35 | 0.47 | 0.18 | 0.18
+September 2019 | 0.35 | 0.47 | 0.24 | 0.24
+December 2019 | 0.24 | 0.24 | 0.12 | 0.12
+June 2020 | 1 | 1 | 1 | 1
+September 2020 | 1 | 1 | 0.94 | 0.94
+December 2020 | 0.94 | 0.94 | 0.82 | 0.82
+March 2021 | 0.83 | 0.89 | 0.89 | 0.89
+June 2021 | 0.83 | 0.89 | 1 | 1
+September 2021 | 0.94 | 0.89 | 1 | 1
+December 2021 | 0.94 | 0.94 | 1 | 1
+March 2022 | 0.94 | 0.88 | 1 | 1
+June 2022 | 1 | 0.94 | 1 | 1
+September 2022 | 1 | 1 | 1 | 1
+December 2022 | 0.95 | 0.89 | 1 | 1
+March 2023 | 1 | 0.94 | 0.94 | 0.94
+June 2023 | 0.78 | 0.78 | 0.83 | 0.83
+September 2023 | 0.74 | 0.63 | 0.79 | 0.79
+December 2023 | 0.79 | 0.68 | 0.79 | 0.79
+March 2024 | 0.63 | 0.53 | 0.74 | 0.74
+June 2024 | 0.53 | 0.53 | 0.84 | 0.84
+
+Note: For each SEP, participants provided responses to the question "Please indicate your judgment of the uncertainty attached to your projections relative to the levels of uncertainty over the past 20 years." Each point in the diffusion indexes represents the number of participants who responded "Higher" minus the number who responded "Lower," divided by the total number of participants. Figure excludes March 2020 when no projections were submitted.
+
+Figure 4.E. Diffusion indexes of participants' risk weightings
+Diffusion index
+
+SEP | Change in real GDP | Unemployment rate | PCE inflation | Core PCE inflation
+October 2007 | -0.76 | 0.71 | 0.47 | 0.41
+January 2008 | -0.71 | 0.76 | 0.35 | 0.29
+April 2008 | -0.76 | 0.71 | 0.47 | 0.41
+June 2008 | -0.82 | 0.82 | 0.76 | 0.53
+October 2008 | -0.82 | 0.88 | -0.29 | -0.18
+January 2009 | -0.81 | 0.88 | -0.44 | -0.44
+April 2009 | -0.65 | 0.71 | -0.24 | -0.24
+June 2009 | -0.41 | 0.41 | -0.06 | -0.06
+November 2009 | -0.06 | 0.18 | 0 | -0.06
+January 2010 | -0.06 | 0.18 | 0.06 | 0.06
+April 2010 | 0.18 | 0.06 | 0 | 0
+June 2010 | -0.53 | 0.47 | -0.18 | -0.18
+November 2010 | -0.33 | 0.5 | -0.17 | -0.17
+January 2011 | 0.11 | 0.11 | 0.06 | 0.06
+April 2011 | -0.12 | 0.06 | 0.47 | 0.35
+June 2011 | -0.65 | 0.53 | 0.29 | 0.24
+November 2011 | -0.65 | 0.65 | -0.06 | -0.06
+January 2012 | -0.65 | 0.59 | 0 | 0
+April 2012 | -0.47 | 0.53 | 0.18 | 0.12
+June 2012 | -0.79 | 0.68 | -0.16 | -0.16
+September 2012 | -0.74 | 0.68 | -0.05 | -0.05
+December 2012 | -0.68 | 0.68 | -0.05 | -0.05
+March 2013 | -0.42 | 0.32 | -0.11 | -0.11
+June 2013 | -0.37 | 0.32 | -0.16 | -0.16
+September 2013 | -0.47 | 0.24 | -0.24 | -0.24
+December 2013 | -0.12 | 0.06 | -0.18 | -0.18
+March 2014 | -0.12 | 0 | -0.25 | -0.25
+June 2014 | -0.25 | 0.06 | -0.12 | -0.12
+September 2014 | -0.18 | -0.06 | -0.24 | -0.24
+December 2014 | -0.12 | -0.06 | -0.29 | -0.24
+March 2015 | -0.24 | 0 | -0.41 | -0.41
+June 2015 | -0.24 | 0.06 | -0.24 | -0.24
+September 2015 | -0.41 | 0.29 | -0.47 | -0.47
+December 2015 | -0.12 | 0 | -0.41 | -0.47
+March 2016 | -0.47 | 0.12 | -0.65 | -0.59
+June 2016 | -0.35 | 0.18 | -0.35 | -0.35
+September 2016 | -0.18 | 0.06 | -0.24 | -0.24
+December 2016 | 0.18 | -0.18 | 0.06 | 0.06
+March 2017 | 0.18 | -0.24 | 0.18 | 0.18
+June 2017 | 0.06 | -0.12 | -0.06 | -0.06
+September 2017 | 0 | -0.06 | -0.19 | -0.19
+December 2017 | 0.19 | -0.19 | 0 | 0
+March 2018 | 0.2 | -0.27 | 0.2 | 0.2
+June 2018 | 0.07 | -0.07 | 0.07 | 0.07
+September 2018 | 0.06 | -0.06 | 0.19 | 0.19
+December 2018 | -0.12 | -0.06 | 0.06 | 0.06
+March 2019 | -0.24 | 0.06 | -0.18 | -0.18
+June 2019 | -0.82 | 0.71 | -0.53 | -0.53
+September 2019 | -0.76 | 0.53 | -0.29 | -0.29
+December 2019 | -0.53 | 0.47 | -0.35 | -0.35
+June 2020 | -0.71 | 0.71 | -0.76 | -0.76
+September 2020 | -0.65 | 0.65 | -0.59 | -0.59
+December 2020 | -0.29 | 0.41 | -0.47 | -0.47
+March 2021 | 0.06 | -0.06 | 0.22 | 0.22
+June 2021 | 0.06 | -0.06 | 0.72 | 0.72
+September 2021 | -0.22 | 0.06 | 0.72 | 0.72
+December 2021 | -0.22 | 0.06 | 0.83 | 0.83
+March 2022 | -0.56 | 0.5 | 1 | 1
+June 2022 | -0.67 | 0.72 | 0.89 | 0.89
+September 2022 | -0.89 | 0.95 | 0.89 | 0.89
+December 2022 | -0.89 | 0.89 | 0.84 | 0.84
+March 2023 | -0.94 | 0.89 | 0.61 | 0.61
+June 2023 | -0.5 | 0.61 | 0.67 | 0.72
+September 2023 | -0.37 | 0.47 | 0.74 | 0.74
+December 2023 | -0.16 | 0.42 | 0.37 | 0.42
+March 2024 | 0.05 | 0.16 | 0.58 | 0.58
+June 2024 | -0.16 | 0.21 | 0.58 | 0.53
+
+Note: For each SEP, participants provided responses to the question "Please indicate your judgment of the risk weighting around your projections." Each point in the diffusion indexes represents the number of participants who responded "Weighted to the Upside" minus the number who responded "Weighted to the Downside," divided by the total number of participants. Figure excludes March 2020 when no projections were submitted.
+
+Figure 5. Uncertainty and risks in projections of the federal funds rate
+
+Median projection and confidence interval based on historical forecast errors
+
+Federal Funds Rate
+Percent
+
+ | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026
+Actual | 1.6 | 0.1 | 0.1 | 4.4 | 5.4 | - | - | -
+Upper end of 70% Confidence Interval | - | - | - | - | - | 5.8 | 6.0 | 5.4
+Median | - | - | - | - | - | 5.1 | 4.1 | 3.1
+Lower End of 70% Confidence Interval | - | - | - | - | - | 4.4 | 2.2 | 0.8
+
+Note: The blue and red lines are based on actual values and median projected values, respectively, of the Committee's target for the federal funds rate at the end of the year indicated. The actual values are the midpoint of the target range; the median projected values are based on either the midpoint of the target range or the target level. The confidence interval around the median projected values is based on root mean squared errors of various private and government forecasts made over the previous 20 years. The confidence interval is not strictly consistent with the projections for the federal funds rate, primarily because these projections are not forecasts of the likeliest outcomes for the federal funds rate, but rather projections of participants' individual assessments of appropriate monetary policy. Still, historical forecast errors provide a broad sense of the uncertainty around the future path of the federal funds rate generated by the uncertainty about the macroeconomic variables as well as additional adjustments to monetary policy that may be appropriate to offset the effects of shocks to the economy.
+The confidence interval is assumed to be symmetric except when it is truncated at zero - the bottom of the lowest target range for the federal funds rate that has been adopted in the past by the Committee. This truncation would not be intended to indicate the likelihood of the use of negative interest rates to provide additional monetary policy accommodation if doing so was judged appropriate. In such situations, the Committee could also employ other tools, including forward guidance and large-scale asset purchases, to provide additional accommodation. Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections.
+* The confidence interval is derived from forecasts of the average level of short-term interest rates in the fourth quarter of the year indicated; more information about these data is available in table 2. The shaded area encompasses less than a 70 percent confidence interval if the confidence interval has been truncated at zero.
+
+Table 2. Average Historical Projection Error Ranges
+Percentage points
+
+Variable | 2024 | 2025 | 2026
+Change in real GDP[1] | ±1.7 | ±1.9 | ±2.2
+Unemployment rate[1] | ±0.9 | ±1.4 | ±1.9
+Total consumer prices[2] | ±1.0 | ±1.7 | ±1.4
+Short-term interest rates[3] | ±0.7 | ±1.9 | ±2.3
+
+Note: Error ranges shown are measured as plus or minus the root mean squared error of projections for 2004 through 2023 that were released in the summer by various private and government forecasters. As described in the box "Forecast Uncertainty," under certain assumptions, there is about a 70 percent probability that actual outcomes for real GDP, unemployment, consumer prices, and the federal funds rate will be in ranges implied by the average size of projection errors made in the past. For more information, see David Reifschneider and Peter Tulip (2017), "Gauging the Uncertainty of the Economic Outlook Using Historical Forecasting Errors: The Federal Reserve's Approach," Finance and Economics Discussion Series 2017-020 (Washington: Board of Governors of the Federal Reserve System, February), https://dx.doi.org/10.17016/FEDS.2017.020.
+1. Definitions of variables are in the general note to table 1.
+2. Measure is the overall consumer price index, the price measure that has been most widely used in government and private economic forecasts. Projections are percent changes on a fourth quarter to fourth quarter basis.
+3. For Federal Reserve staff forecasts, measure is the federal funds rate. For other forecasts, measure is the rate on 3-month Treasury bills. Projection errors are calculated using average levels, in percent, in the fourth quarter.
+
+Forecast Uncertainty
+The economic projections provided by the members of the Board of Governors and the presidents of the Federal Reserve Banks inform discussions of monetary policy among policymakers and can aid public understanding of the basis for policy actions. Considerable uncertainty attends these projections, however. The economic and statistical models and relationships used to help produce economic forecasts are necessarily imperfect descriptions of the real world, and the future path of the economy can be affected by myriad unforeseen developments and events. Thus, in setting the stance of monetary policy, participants consider not only what appears to be the most likely economic outcome as embodied in their projections, but also the range of alternative possibilities, the likelihood of their occurring, and the potential costs to the economy should they occur.
+Table 2 summarizes the average historical accuracy of a range of forecasts, including those reported in past Monetary Policy Reports and those prepared by the Federal Reserve Board's staff in advance of meetings of the Federal Open Market Committee (FOMC). The projection error ranges shown in the table illustrate the considerable uncertainty associated with economic forecasts. For example, suppose a participant projects that real gross domestic product (GDP) and total consumer prices will rise steadily at annual rates of, respectively, 3 percent and 2 percent. If the uncertainty attending those projections is similar to that experienced in the past and the risks around the projections are broadly balanced, the numbers reported in table 2 would imply a probability of about 70 percent that actual GDP would expand within a range of 1.3 to 4.7 percent in the current year, 1.1 to 4.9 percent in the second year, and 0.8 to 5.2 percent in the third year. The corresponding 70 percent confidence intervals for overall inflation would be 1.0 to 3.0 percent in the current year, 0.3 to 3.7 percent in the second year, and 0.6 to 3.4 percent in the third year. Figures 4.A through 4.C illustrate these confidence bounds in "fan charts" that are symmetric and centered on the medians of FOMC participants' projections for GDP growth, the unemployment rate, and inflation. However, in some instances, the risks around the projections may not be symmetric. In particular, the unemployment rate cannot be negative; furthermore, the risks around a particular projection might be tilted to either the upside or the downside, in which case the corresponding fan chart would be asymmetrically positioned around the median projection.
+Because current conditions may differ from those that prevailed, on average, over history, participants provide judgments as to whether the uncertainty attached to their projections of each economic variable is greater than, smaller than, or broadly similar to typical levels of forecast uncertainty seen in the past 20 years, as presented in table 2 and reflected in the widths of the confidence intervals shown in the top panels of figures 4.A through 4.C. Participants' current assessments of the uncertainty surrounding their projections are summarized in the bottom-left panels of those figures. Participants also provide judgments as to whether the risks to their projections are weighted to the upside, are weighted to the downside, or are broadly balanced. That is, while the symmetric historical fan charts shown in the top panels of figures 4.A through 4.C imply that the risks to participants' projections are balanced, participants may judge that there is a greater risk that a given variable will be above rather than below their projections. These judgments are summarized in the lower-right panels of figures 4.A through 4.C.
+As with real activity and inflation, the outlook for the future path of the federal funds rate is subject to considerable uncertainty. This uncertainty arises primarily because each participant's assessment of the appropriate stance of monetary policy depends importantly on the evolution of real activity and inflation over time. If economic conditions evolve in an unexpected manner, then assessments of the appropriate setting of the federal funds rate would change from that point forward. The final line in table 2 shows the error ranges for forecasts of short-term interest rates. They suggest that the historical confidence intervals associated with projections of the federal funds rate are quite wide. It should be noted, however, that these confidence intervals are not strictly consistent with the projections for the federal funds rate, as these projections are not forecasts of the most likely quarterly outcomes but rather are projections of participants' individual assessments of appropriate monetary policy and are on an endof-year basis. However, the forecast errors should provide a sense of the uncertainty around the future path of the federal funds rate generated by the uncertainty about the macroeconomic variables as well as additional adjustments to monetary policy that would be appropriate to offset the effects of shocks to the economy.
+If at some point in the future the confidence interval around the federal funds rate were to extend below zero, it would be truncated at zero for purposes of the fan chart shown in figure 5; zero is the bottom of the lowest target range for the federal funds rate that has been adopted by the Committee in the past. This approach to the construction of the federal funds rate fan chart would be merely a convention; it would not have any implications for possible future policy decisions regarding the use of negative interest rates to provide additional monetary policy accommodation if doing so were appropriate. In such situations, the Committee could also employ other tools, including forward guidance and asset purchases, to provide additional accommodation.
+While figures 4.A through 4.C provide information on the uncertainty around the economic projections, figure 1 provides information on the range of views across FOMC participants. A comparison of figure 1 with figures 4.A through 4.C shows that the dispersion of the projections across participants is much smaller than the average forecast errors over the past 20 years.

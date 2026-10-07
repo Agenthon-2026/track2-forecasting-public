@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-ecb-speech-ladder-2014"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2014-11-28"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "ECB (all_ECB_speeches.csv); Federal Reserve"
+source         = "ECB (all_ECB_speeches.csv); Federal Reserve; European Central Bank"
 path           = "text/"
 cutoff         = "2014-11-28"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 15
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement"]
+n_documents    = 18
 notes          = "All ECB presidential speeches Aug-Nov 2014, ending with late-November addresses whose commitment language escalates sharply, plus the Oct-2014 FOMC statement concluding an asset-purchase program — policy-divergence text on both legs."
 
 [targets]

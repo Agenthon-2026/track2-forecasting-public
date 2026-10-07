@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-jpy-2016"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2016-02-05"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; BIS central bankers' speeches (full archive); Federal Reserve"
+source         = "BIS central bankers' speeches; BIS central bankers' speeches (full archive); Federal Reserve; Bank of Japan"
 path           = "text/"
 cutoff         = "2016-02-05"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement"]
+n_documents    = 10
 notes          = "A week after a surprise negative-rate adoption, the governor's defence of the framework is in corpus alongside the European negative-rate experience. Textbook transmission says easier policy weakens the currency; the European texts document cases where bank-profitability and risk-appetite channels cut the other way. Decide which mechanism governs — and how fast."
 
 [targets]

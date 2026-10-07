@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_bernanke_2007-04-25",
+      "timestamp": "2007-04-25",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bernanke_2007-04-25.txt"
+    },
+    {
+      "doc_id": "bis_kroszner_2007-05-10",
+      "timestamp": "2007-05-10",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kroszner_2007-05-10.txt"
+    },
+    {
       "doc_id": "bis_kroszner_2007-06-01",
       "timestamp": "2007-06-01",
       "source": "BIS central bankers' speeches",
@@ -44,6 +58,20 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20070628.txt"
+    },
+    {
+      "doc_id": "boj_mp_decision_2007-07-12",
+      "timestamp": "2007-07-12",
+      "source": "Bank of Japan",
+      "doc_type": "central_bank_decision",
+      "file": "boj_mp_decision_2007-07-12.txt"
+    },
+    {
+      "doc_id": "bernanke_testimony_mpr_2007-07-18",
+      "timestamp": "2007-07-18",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "bernanke_testimony_mpr_2007-07-18.txt"
     },
     {
       "doc_id": "fomc-minutes-20070628",

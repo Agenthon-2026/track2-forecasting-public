@@ -1,0 +1,426 @@
+Piero Cipollone: Artificial intelligence - a central bank's view
+2024-07-04
+
+## Artificial intelligence: a central bank's view
+
+Keynote speech by Piero Cipollone, Member of the Executive Board of the European Central Bank, at the National Conference of Statistics on official statistics at the time of artificial intelligence
+
+Rome, 4 July 2024
+
+It is a pleasure to be here today to discuss the implications of artificial intelligence (Al) from a central bank's perspective.)
+
+The world is witnessing extraordinary advances in the field of A\.2] We are moving from analytical Al models designed to perform specific tasks"] to generative Al models capable of creating human-like content.
+
+The burgeoning interest in generative Al has boosted Al adoption. 41 A recent international survey revealed that almost three-quarters of organisations had adopted Al for one or more business functions, and around two-thirds of them are using generative Al. Nevertheless, just 8% reported using Al for five or more business functions — suggesting that we are still in the initial stages of Al integration. 5]
+
+Al can be applied to a wide spectrum of activities, from routine and repetitive tasks to knowledgebased and creative work. It has been argued that Al is a general-purpose technology — akin to the steam engine, electricity or the computer — with the potential to transform our economies in the long run.
+
+But, like the computer before it, Al may involve a paradox similar to the one made famous by the economist Robert Solow: "You can see the computer age everywhere but in the productivity statistics." ita}
+
+The dawn of the computer era saw information and communication technology (ICT) profoundly alter our personal lives and the economy. Today, our workplaces, homes and social lives are interwoven with digitalisation.
+
+At the European Central Bank (ECB), our Information Systems department has become the largest business area within the institution. ICT has become key to our core tasks, from the economic models that underpin our forecasts to monetary policy implementation and the operation of market infrastructures.
+
+Yet technology has not fundamentally changed the way we think about monetary policy. Moreover, just as Solow observed, the macroeconomic impact of ICT on productivity has not been as large as might have been expected — at least outside of the tech sector.
+
+Indeed, the transformative potential of Al may not always be productivity-enhancing. Consider, for example, a recent Al-generated deepfake video of the actor Tom Cruise dressed in a bathrobe and singing Elton John's "Tiny Dancer" to Paris Hilton that went viral on TikTok.&amp;
+
+Might we see another Solow paradox emerge in the context of Al? In other words, what is the potential of Al to boost the productive capacity of the economy, as well as that of central banks?
+
+Today | will take stock of what we know about the impact of Al on the economy and discuss its possible implications for our monetary policy. | will then share the ECB's perspective on how we can best use Al in our central banking tasks, while putting in place the necessary safeguards for its responsible use.
+
+## The macroeconomic impact of Al and its implications for monetary policy
+
+## The macroeconomic impact of Al
+
+Al could affect the economy in several areas that are particularly relevant for the conduct of monetary policy. Today | will highlight just three of them.
+
+## Al and productivity
+
+The first area relates to productivity.
+
+The potential of Al to raise productivity is undeniable — from acting as a powerful coding assistant to running autonomous "smart factories". Al could increase productivity through various channels — for example, via direct productivity effects that boost total factor productivity or through individual production factors.
+
+Indeed, several studies already point to sizeable Al-induced productivity gains at firm level." But estimates of aggregate effects over the coming decade differ markedly across studies — from an increase in annual total factor productivity growth of less than 0.1 percentage points to annual labour productivity growth of up to 1.5 percentage points."
+
+The eventual outcome will depend on whether we see a rapid and broad-based adoption and diffusion of Al across all sectors of the economy. Up until now, the sheer speed of diffusion across sectors and firms has little historical precedent. And survey evidence suggests that adoption by European firms nearly matches that of North America.42]
+
+But a key risk stems from the possibility that most of the value created by Al is extracted by a few companies that end up dominating the Al ecosystem.3] This is a key reason why productivity gains from Al at firm level may not translate into sustained value-added gains at the aggregate level, as market power increases costs. We saw this happen already with the rise of IT"4), which resulted in productivity gains being concentrated in the IT sector and primarily benefiting countries with large, successful tech firms. This is also reflected in the unprecedented concentration of market value in the "Magnificent Seven" firms in the United States."5] These are currently benefiting from the Al boom and making higher yearly profits than all the listed companies of France, Germany and Italy combined.
+
+This has important implications for Europe. As Mario Draghi recently observed, EU productivity growth over the past twenty years would have been on a par with that of the United States if it were not for the tech sector." Current data point to the euro area trailing behind the United States in terms of private investment in Al", as well as patent applications and journal publications in the field." It is therefore critical to devise a European Al strategy with a threefold aim: to preserve competition in the Al space (191: to create an ecosystem that supports' European Al firms' competitiveness, generating sectoral productivity gains over time!24). and to support the diffusion of Al across the economy, facilitating the development of Al-supported products and services./24)
+
+## Al and the labour market
+
+The labour market is the second area of the economy that is likely to be affected by A\.221
+
+New technologies can substitute or complement labour. On the one hand, automation implies capital taking over a task previously performed by a worker. On the other, productivity tends to increase with the automation of tasks, which may contribute to increased labour demand for non-automated tasks if price reduction brought about by productivity-improving technology spurs strong demand growth.23] And new technology can lead to the creation of new kinds of jobs. 241 Whether Al represents an or risk for on the net effect.
+
+opportunity employment depends
+
+ECB staff analysis suggests that around 25% of jobs in European countries are in occupations that are highly exposed to Al-enabled automation, while another 30% have a medium degree of exposure. 25] Other research finds that knowledge-intensive services in particular — including finance and insurance, advertising, consultancy and IT — are most likely to be affected by A291
+
+Initial evidence for Europe suggests that, on average, occupations more exposed to Al have seen an increase in their share in total employment — although mostly for highly skilled occupations and younger workers, and with significant heterogeneity across countries.2 But the ultimate impact on employment remains uncertain and is likely to hinge on equipping the workforce with skills that complement Al.!28]
+
+## Al and financial stability
+
+The third area of the economy that may be affected by Al is financial stability.
+
+Certainly, Al can bring benefits to the table. The application of Al could allow banks to conduct more efficient risk assessments and capital and liquidity planning.!29 But there are also risks. If new Al tools are used widely in the financial system and Al suppliers are concentrated, operational risk, market concentration and too-big-to-fail externalities may increase. Furthermore, widespread Al adoption could heighten the potential for herd behaviour, market correlation, deception, manipulation and conflicts of interest.2
+
+## Implications for monetary policy
+
+Central banks, including the ECB, are monitoring these developments closely.24] Not only does Al influence the environment in which we operate, it also affects how that environment interacts with our monetary policy.
+
+## Inflation
+
+First, Al could affect cost pressures in the economy in both directions.
+
+We may see Al exerting downward pressure on prices in various ways. For instance, if the net effect of Al is that it substitutes labour and increases productivity, we could see a reduced risk of labour shortages and downward pressure on unit labour cost growth. This is especially relevant in the euro area, where unemployment is at a record low and the working age population is projected to decline by 19% by the end of the century as a result of population ageing. 24]
+
+Al could also lead to a decline in energy prices through its impact on the supply side, for instance through enhanced grid management and more efficient energy consumption. And it could provide consumers with better tools for price comparison.
+
+But Al could also create upward price pressures.
+
+For instance, the uptake of Al will also have an impact on global energy demand, with the computational power required for sustaining Al's rise doubling every 100 days. 83] This could push up energy costs. Moreover, Al may encourage discriminatory pricing by facilitating the real-time analysis of consumer demand and price elasticities. And algorithms consistently learn to charge collusive prices that are higher than competitive ones, even without communicating with one another — in part by exploiting well-known biases that deviate from rational consumer behaviour. 24]
+
+## Monetary policy transmission
+
+Second, we may see Al affect monetary policy transmission.
+
+Al is likely to create new winners and losers in the labour and capital market, with consequences for income and wealth distribution.25 This matters for monetary policy because it can influence people's marginal propensity to consume and their access to credit, which in turn affect how demand responds to changes in monetary policy.
+
+Moreover, if Al leads to a change in financial structures, such as an increase in non-bank intermediation, it may have further implications for monetary policy transmission. There is evidence to suggest that compared with banks, non-banks are more responsive to monetary policy measures that influence longer-term interest rates, such as asset purchases. Non-banks also exhibit higher levels of credit, liquidity and duration risk compared with the banking sector,
+
+## The natural rate of interest
+
+Third, Al may go on to influence the natural rate of interest. 28]
+
+If Al boosts productivity growth and potential output, we may see upward pressure being exerted on the natural rate of interest, as demand increases for capital to invest in new technologies and expand production capabilities.
+
+But if Al leads to higher rates of labour displacement and causes rising income inequality, we may see some downward pressure on the natural rate, owing to an increase in precautionary savings and a subsequent boost to the supply of loanable funds.
+
+## Using Al in central banking: Al at the ECB
+
+These developments will play out over time outside the walls of the ECB, and we will be monitoring them closely. But within the ECB's walls, Al also has the potential to help with multiple tasks. 89 Let me give you a few examples.
+
+## Statistics
+
+Given that we are here at the National Conference of Statistics, it is fitting to begin with statistics. The ECB needs trustworthy and high-quality statistical products, services and a wide range of data to inform its monetary policy decisions.
+
+A key lesson from the global financial crisis was that aggregate statistics alone are insufficient to grasp the complexity of financial markets. We need more granular data.
+
+As you can imagine, the resulting datasets are so vast in terms of the number of observations they contain that collecting and disseminating them requires the use of statistical processes and analytical methods that surpass traditional statistical approaches.
+
+Around six years ago the ECB began exploring the application of Al to improve the efficiency and effectiveness of its statistical processes. And these efforts are reaping dividends.
+
+We use Al to improve the quality of our datasets, from identifying and matching observations across datasets to using modern machine learning techniques for quality assurance.49
+
+Moreover, large language models (LLMs) can support statistical processes in ways that were once simply not feasible. These include unlocking new and non-traditional data sources — for instance, unstructured data like text, image, video or audio. These sources can complement and enhance our existing data collections.
+
+## Economic analysis
+
+Al is also increasingly being incorporated into the economic analyses we carry out to help us prepare our monetary policy decisions.
+
+Al can identify patterns in data more effectively than traditional methods. This is particularly true for non-linearities, which have been playing a bigger role in an environment that is becoming more shock prone. Al also enables the real-time analysis of economic indicators, helping central banks to make more timely policy decisions — a particularly valuable capability in times of crisis.
+
+What do these applications look like in practice?
+
+ECB staff use Al to nowcast inflation. This includes web-scraping price data and using LLMs for data classification. We are currently exploring the use of Big Data and new generative Al models in close cooperation with the BIS Innovation Hub.44
+
+Staff are also applying machine learning models to euro area inflation forecasting, accounting for possible non-linearities."2] These models are already performing well compared with our conventional forecast and survey-based measures of inflation expectations. Another project is employing machine learning techniques to nowcast global trade.43]
+
+Staff are also exploring the possibilities opened up by innovative datasets. For instance, projects include using a combination of text data and machine learning techniques to quantify risks and tensions in the global economy and exploring the use of satellite data to track economic activity.44]
+
+## Communication
+
+Central bank communication is another area in which Al can contribute.
+
+Al could help in areas where central bank communication is key, such as ensuring that policy decisions are well understood and keeping inflation expectations anchored. With Al, we can rapidly analyse vast volumes of media reporting and market commentary.
+
+Moreover, Al can help us communicate with the public in all parts of the euro area. As a European institution, the ECB communicates in all 24 official languages of the EU. Even today, Al and machine translation are helping us meet a demand for translation that exceeds 6 million pages per year. Without those tools, the ECB's language services would be limited to covering around 150,000 pages per year.
+
+Al can also help broaden our reach by simplifying key messages and communication products for targeted audiences" that have less awareness or knowledge of the ECB./5] And it could help us answer any questions the public may have.
+
+All these innovations could ultimately make the ECB better understood, facilitate the effectiveness of our monetary policy and boost our accountability.
+
+## Market infrastructures and payments
+
+Al might also bring profound changes to the field of market infrastructures and payments.
+
+The technology could help design and develop innovative payments services customised to consumers' needs and preferences. And it could help foster financial inclusion, for example, by facilitating voice activated payments. These potential developments are clearly relevant when it comes to the ECB's role in promoting efficient, integrated and inclusive payments.
+
+Moreover, Al could also help us oversee payment systems. There is an opportunity to use Al as part of early warning models that aim to identify financial stability risks related to financial market infrastructures before these risks materialise. And it could play a supporting role in the scrutiny of information provided by overseen entities, helping us ensure that their practices align with the applicable regulatory frameworks.
+
+The ECB has developed an Al action plan to facilitate the adoption of Al wherever it is relevant to our tasks. It aims to develop and deploy the necessary Al tools and infrastructure, while fostering Al skills and ensuring the technology is used safely and responsibly.
+
+## The limits of Al: putting the necessary safeguards in place
+
+Let me now turn to the limits of Al.
+
+A key strength of human intelligence is the ability to reflect on its limits. As the philosopher Immanuel
+
+Kant once wrote, "we can cognize of things a priori only what we ourselves have put into them".44 But
+
+Al does not have this capacity for self-reflection. Nor does it have the ability to produce its own safeguards independently of human critical thinking. We therefore need to be aware of the limits of Al and their implications for the ECB, so that we can put the necessary guardrails in place.
+
+First, we need to ensure confidentiality and privacy.
+
+Given the sensitivity of central banks' decisions, guaranteeing confidentiality is a key condition for the in-house use of Al. Likewise, when it comes to data use, Al will increase concerns about privacy, underlining the importance of applying technological and governance safeguards and complying with regulations such as the EU Al Act.
+
+Take, for instance, the Al solutions we use for our statistics. These tools need to provide comprehensive documentation. This is a prerequisite for clarifying how Al solutions have been used to assess, improve or integrate data. Trust in these solutions comes from first understanding them.
+
+The second risk stemming from Al is the degree to which it can be used to spread false information and data, facilitate fraud or launch cyberattacks.
+
+Since late 2022 there has been a 53-fold increase in generative Al-related incidents and hazards reported in the media. it is one thing for an Al-generated deepfake video of Tom Cruise to go viral. But it is quite another when a deepfake of a policymaker goes viral — particularly at moments of crisis, when attention levels are high and volatility and uncertainty are already pronounced.
+
+At the same time, Al can be used to detect and address such risks. It can help prevent and detect cyberattacks by identifying anomalies in user, system and network behaviours in real time.42]
+
+The third risk emerges from what we might describe as an over-arching dependence on Al. And this can manifest itself in several ways.
+
+For instance, a greater dependence on Al may inadvertently increase the risk of falling into an "echo chamber' trap.
+
+Given that LLMs are trained using available data and information — which, over time, will increasingly be produced by Al — there is a risk of Al becoming self-referential or repeating existing biases.
+
+To the extent that this dynamic increases the impact of central bank communication on markets, while central banks look to the markets for information, it could increase the risk of central bank echo chambers emerging. This could, for instance, increase the risks of using forward guidance. 2") An excessive reliance on Al could also reduce our own resilience.
+
+operational
+
+As Al becomes a bigger part of our way of working, we may find ourselves growing more dependent on it for core tasks. That is why it is so important to understand the properties of the Al algorithms and models we use to reduce the risks of a potential "black box" effect.
+
+Similarly, if it is not used responsibly, Al could also suppress the diversity and originality of thought, thereby increasing the risk of groupthink and confirmation bias. The mathematician Alan Turing once famously asked, "Can machines think?"=2] The last thing we want is for the same question to be asked about central bankers who end up being too reliant on Al.
+
+Akey feature of human cognition is the ability to question existing theories, produce new ones and identify data to test them. This ability needs to be preserved. ECB Governing Council meetings are best understood as a process of comparing views on the economy, considering alternative interpretations of economic developments and assessing risks from multiple perspectives. The ongoing uncertainty in the economy shows that we need to do this more, rather than less.
+
+The overall lesson is that humans need to remain firmly in control, not only to ensure a trustworthy use of Al systems, but also to address questions of accountability and maintain the public's trust in the central bank.
+
+## Conclusion
+
+To conclude, as we enter the Al age, we face the challenge of realising its potential while managing its risks.
+
+Whether Al will show up in productivity statistics or create a new paradox remains uncertain. To an extent, whether we face an Al productivity paradox will partly depend on our ability to accurately measure its contribution — and statisticians have an important role to play given the complexity of measuring intangible capital. 4]
+
+But as with other technologies, for Al to be able to produce its full effects, the right ecosystem must be in place — one that facilitates competition in the Al sphere, ensures a fair distribution of possible productivity gains, establishes robust regulatory and ethical safeguards and fosters the corresponding skills in the labour market.
+
+For central banks, Al offers opportunities for innovation and efficiency gains, from economic analysis to communication. But there are also risks that must be considered, and we are duly building appropriate safeguards.
+
+As we integrate Al into our processes, we must ensure that human judgement and critical thinking remain at the forefront. This balance will be essential to maintaining trust in our data, our decisions and the broader financial system.
+
+Thank you.
+
+1.
+
+| would like to thank Jean-Francois Jamet and Simon Mee for their help in preparing this speech, and Siria Angino, Katrin Arnold, Maciej Brzezinski, Ant6nio Dias Da Silva, Ferdinand Dreher, Maximilian Freier, Gabriel Glockler, Guzman Gonzalez-Torres, Alexander Hodbod, Daniel Kapp, Baptiste Meunier, Roberto Motto, Chiara Osbat, Tom Sanders, Jurgen Schaff, Hanni Schdlermann, David Sondermann, Anton Van der Kraaij and Balazs Zsamboki for their input and comments.
+
+2.
+
+Artificial intelligence is a collective term for machine-enabled cognitive processing. The Organisation for Economic Co-operation and Development (OECD) defines artificial intelligence as "a machinebased system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments." See OECD (2024), "OECD Al Principles", May.
+
+3.
+
+For instance, shopping recommendations or text analysis.
+
+4.
+
+Within two months of its launch in late 2022, ChatGPT had already attracted 100 million users. See The Economist (2023), "ChatGPT mania may be cooling, but a serious new industry is taking shape", 21 September.
+
+5.
+
+value", 30 May.
+
+6.
+
+See Crafts, N. (2021), "Artificial intelligence as a general-purpose technology: an historical perspective", Oxford Review of Economic Policy, Vol. 37, Issue 3, Autumn 2021, pp. 521-536 and Agrawal, A. et al. (2019), "Economic Policy for Artificial Intelligence", Innovation Policy and the Economy, Vol. 19.
+
+7.
+
+Solow, R.M. (1987), "We'd Better Watch Out", New York Times Book Review.
+
+8.
+
+See TikTok, @ParisHilton and Forbes (2022), "The Story Behind Paris Hilton's Viral TikTok With DeepTomCruise", 22 November.
+
+9.
+
+See, for example, Dell'Acqua, F. et al. (2023), "Navigating the Jagged Technological Frontier: Field Business School Technology &amp; Operations Management Unit Working Paper, No 24-013.
+
+10.
+
+For instance, see Acemoglu, D. (2024), "The Simple Macroeconomics of Al', MIT, 5 April; Briggs, J. and Kodnani, D. (2023), "The Potentially Large Effects of Artificial Intelligence on Economic Growth", Goldman Sachs, 26 March. For an overview, see Filippucci, F. et al. (2024), "Should Al stay or should Al go: The promises and perils of Al for productivity and growth", VoxEU, 2 May.
+
+11.
+
+One international survey finds that three out of every five white-collar workers are already using generative Al on a weekly basis. The survey encompasses 16 countries spanning the Americas, Europe, Asia and Oceania. See Oliver Wyman Forum (2024), "How generative Al is transforming business and society: the good, the bad, and everything in between", p. 23.
+
+In 2023 the proportion of European firms reporting the use of Al technologies stood at 57%, compared with 61% in North America, 58% in Asia Pacific and 48% in China. See Maslej, N. et al. (2024) "The Al Index 2024 Annual Report', Al Index Steering Committee, Institute for Human-Centered Al, Stanford University, Stanford, CA, April.
+
+13.
+
+Acemoglu, D. and Johnson, S. (2023), "Big Tech Is Bad. Big A.|. Will Be Worse", The New York Times, 9 June.
+
+14.
+
+De Ridder, M. (2024), "Market Power and Innovation in the Intangible Economy", American Economic Review, Vol. 114, Issue 1, pp. 199-251. See also Philippon, T. (2019), The great reversal: How America gave up on free markets, Harvard University Press.
+
+## 15.
+
+The "Magnificent Seven" comprise Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta and Tesla. These companies now make up close to one-third of the market value of the S&amp;P index.
+
+16.
+
+See Draghi, M. (2024), "An Industrial Strategy For Europe", acceptance speech at the Monastery of San Jeronimo de Yuste for the Carlos V European Award, 14 June: "If we were to exclude the tech sector, EU productivity growth over the past twenty years would be on par with that of the United States." Empirical evidence also indicates that the ICT-intensive sector in the United States has experienced a much higher increase in labour productivity than in Europe: euro area countries have been less efficient than the United States in both adopting IT technologies and leveraging them to productivity", paper presented at the ECB Forum on Central Banking 2024.
+
+17.
+
+In 2023 private investment in Al reached USD 67 billion in the United States compared with USD 11 billion in the EU and the United Kingdom combined. See Maslej, N. et al. (2024), Ibid.
+
+18.
+
+Euro area firms filed on average 475 Al-related patents per year from 2002 to 2022, three times less than the United States and twice less than China. In terms of citation-adjusted Al journal publications, the United States also took the lead over the euro area and China. See Bergeaud (2024), Ibid.
+
+19.
+
+See Coeuré, B. (2024), "Comments on 'The simple macroeconomics of transformative Al' by Daron Acemoglu", Economic Policy Panel, Brussels, 4 April and Coeuré, B. (2024), "Artificial intelligence:
+
+making sure it's not a walled garden", keynote address at the Bank for International Settlements Financial Stability Institute policy implementation meeting on big tech in insurance, 19 March. 20.
+
+—
+
+Measures in that direction include investing in Al education, encouraging venture capital investment and an environment that supports Al startups, increasing the mobility of financial capital across EU countries, and strengthening the link between European universities and European Al firms to convert Al research into marketable innovations. See Bergeaud (2024), Ibid.
+
+21.
+
+See Meyers, Z. and Springford, J. (2023), "How Europe can make the most of Al", Centre for European Reform Policy Brief, 14 September.
+
+22.
+
+See Albanesi, S. et al. (2023), "Reports of Al ending human labour may be greatly exaggerated", Research Bulletin, No 113, ECB, 28 November.
+
+23.
+
+An elastic demand may support employment even in the face of automation, as productivity growth is reflected in prices and product demand increases. See, for example, Bessen, J. (2020). "Automation
+
+24.
+
+About 60% of employment in 2018 can be classified under job titles that did not exist back in 1940. See Autor, D. et al. (2021), "New frontiers: the origin and content of new work, 1940-2018", MIT Working Paper, July.
+
+25.
+
+Albanesi, S. et al. (2023) "New technologies and jobs in Europe" Working Paper Series, No 2831, ECB.
+
+26.
+
+See Figure 8 in Organisation for Economic Co-operation and Development (2024), "The impact of Artificial Intelligence on productivity, distribution and growth: Key mechanisms, initial evidence and policy challenges", OECD Artificial Intelligence Papers, No 15, 16 April.
+
+27.
+
+Albanesi, S. et al. (2023) "New technologies and jobs in Europe", Working Paper Series, No 2831, ECB.
+
+28.
+
+See Green, A. (2024), "Artificial intelligence and the changing\_demand for skills in the labour market", OECD Artificial Intelligence Papers, No 14, OECD Publishing, Paris.
+
+See Figure B.2 in Leitner, G. et al. (2024), "The rise of artificial intelligence: benefits and risks for financial stability", Financial Stability Review, ECB, May.
+
+30.
+
+See Leitner, G. et al. (2024), "The rise of artificial intelligence: benefits and risks for financial stability", Financial Stability Review, ECB, May; Gensler, G. (2023), "Isaac Newton to Al", Remarks before the National Press Club, 17 July; Gensler, G. and Bailey, L. (2020), "Deep Learning\_and Financial Stability", 1 November; and Gensler, G. (2024), "Al, Finance, Movies, and the Law", Prepared Remarks before the Yale Law School.
+
+31.
+
+Bank for International Settlements (2024), "Artificial intelligence and the economy: implications for central banks", BIS Annual Economic Report 2024, Chapter III, 25 June.
+
+32.
+
+As noted in Freier, M. et al. (2023), "EUROPOP2023 demographic trends and their euro area economic implications", Economic Bulletin, |ssue 3, ECB.
+
+33.
+
+See Ammanath, B. (2024), "How to manage Al's energy demand — today, tomorrow and in the future", World Economic Forum, 25 April.
+
+34.
+
+See Calvano, E. et al. (2020), "Artificial Intelligence, Algorithmic Pricing, and Collusion", American Economic Review, Vol. 110, Issue 10, pp. 3267-97; for biases, see OECD (2024), "The impact of Artificial Intelligence on productivity, distribution and growth: Key mechanisms, initial evidence and policy challenges", OECD Artificial Intelligence Papers, No 15, 16 April, pp. 33-34.
+
+35.
+
+See Cazzaniga, M. et al. (2024), "Gen-Al: Artificial Intelligence and the Future of Work", IMF Staff Discussion Notes, No 2024/001.
+
+36.
+
+The use of artificial intelligence for credit scoring could allow big tech with access to large consumer data to rapidly expand in the area of financial services and to challenge banks' traditional role in financing the economy and serving as the first point of contact for financial services. See Boot, A., Hoffmann, P., Laeven, L. and Ratnovski, L. (2021), "Fintech: what's old, what's new?", Journal of Financial Stability, Vol. 53.
+
+See Work stream on non-bank financial intermediation (2021), "Non-bank financial intermediation in
+
+Series, No 270.
+
+38.
+
+The natural rate of interest is the real rate of interest that is neither expansionary nor contractionary.
+
+39.
+
+See also Moufakkir, M. (2023), "Careful embrace: Al and the ECB", The ECB Blog.
+
+40.
+
+This allows us to identify and prioritise anomalous observations and outliers that require further attention, assessment and potential treatment.
+
+41.
+
+Osbat, C. (2022), "What micro price data teach us about the inflation process: web-scraping in PRISMA", SUERF Policy Brief, No 470, 17 November.
+
+42.
+
+See, for instance, Lenza, M. et al. (2023), "Forecasting euro area inflation with machine learning models", Research Bulletin, No 112, ECB, 17 October.
+
+43.
+
+For example, see Menzie, C. et al. (2023), "Nowcasting world trade with machine learning: a threestep approach", Working Paper Series, No 2836, ECB.
+
+44,
+
+See, for instance, d'Aspremont, A. (2024), "Satellites turn "concrete": tracking cement with satellite data and neural networks", Working Paper Series, No 2900, ECB.
+
+45.
+
+On layered communication, see Work stream on monetary policy communications (2021), "Clear, Paper Series, No 274, ECB; see also Bholat, D. et al. (2018), "Enhancing central bank communications with behavioural insights", Staff Working Paper Series, Bank of England, No 750,
+
+August.
+
+46.
+
+Survey evidence suggests that there is a lack of understanding of the ECB's tasks. Two-thirds of euro area citizens believe that it is the ECB's task to stabilise the foreign exchange rate, while over onethird think that the ECB's role is to finance governments. See Chart 7 in Gardt, M. et al. (2021), "ECB communication with the wider public", Economic Bulletin, Issue 8, ECB.
+
+Kant, |. (1781), Critique of pure reason.
+
+48.
+
+OCED (2024), "OECD Digital Economy Outlook 2024 (Volume 1): Embracing The Technology Frontier", 14 May, p. 38.
+
+49.
+
+introductory remarks at the ninth meeting of the Euro Cyber Resilience Board for pan-European Financial Infrastructures, 17 January; and Bank for International Settlements, "Project Raven: using Al to assess financial system's cyber security and resilience".
+
+50.
+
+The central bank may no longer observe independent signals about the state of the economy from financial markets, instead mainly seeing the mirror image of its own communications.
+
+51.
+
+Echo chamber dynamics can create a circularity between market prices and forward guidance. See Morris, S. and Shin, H. S. (2018), "Central Bank Forward Guidance and the Signal Value of Market Prices", AEA Papers and Proceedings, Vol. 108, May, pp. 572-577.
+
+52.
+
+Turing, A. (1950), "Computing Machinery and Intelligence", Mind, Vol. LIX, Issue 236, October, pp. 433-460.
+
+53.
+
+For instance, see the role of paradigm shifts in scientific development in Kuhn, T. (1962), The structure of scientific revolutions. See also Felin, T. and Holweg, M. (2024), "Theory Is All You Need: Al, Human Cognition, and Decision Making", 24 February.
+
+54.
+
+See Brynjolfsson, E. et al. (2017), "Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics", NBER Working Paper Series, No 24001, November.
+
+CONTACT
+
+European Central Bank

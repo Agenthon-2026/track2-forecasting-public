@@ -25,11 +25,25 @@
       "file": "fomc_statement_20211215.txt"
     },
     {
+      "doc_id": "bis_elderson_2022-02-18",
+      "timestamp": "2022-02-18",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_elderson_2022-02-18.txt"
+    },
+    {
       "doc_id": "macro_release-2022-04-12",
       "timestamp": "2022-04-12",
       "source": "BLS",
       "doc_type": "macro_release",
       "file": "cpi_2022-04-12.txt"
+    },
+    {
+      "doc_id": "bis_panetta_2022-04-25",
+      "timestamp": "2022-04-25",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_panetta_2022-04-25.txt"
     },
     {
       "doc_id": "beige_book-2022-04-30",

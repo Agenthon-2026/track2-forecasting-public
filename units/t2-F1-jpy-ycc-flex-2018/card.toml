@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f1", "t2c-F1-jpy-ycc-flex-2018"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2018-07-31"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve"
+source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve; Bank of Japan"
 path           = "text/"
 cutoff         = "2018-07-31"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement", "macro_release"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement", "macro_release"]
+n_documents    = 10
 notes          = "BoJ widens the tolerated 10Y JGB band while insisting easing persists — a tweak dressed as continuity. Distinguishing a technical adjustment from the start of normalization is precisely the text-reading task; the rate differential still dominates the level."
 
 [targets]

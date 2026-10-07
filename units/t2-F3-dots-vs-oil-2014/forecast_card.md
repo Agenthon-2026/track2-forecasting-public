@@ -4,7 +4,7 @@
 at horizons [63, 126] BD · unit `percent_per_annum` · split validation
 
 Inputs mounted read-only: `/input/panels/rates_daily.parquet` (rows only through
-the as-of date) and `/input/text/` (5 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (8 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,
@@ -15,4 +15,4 @@ Every draw index must contain rows for ALL target assets (joint draw).
 Scoring: S = 0.5 x marginal CRPS + 0.3 x joint variogram + 0.2 x tail penalty (lower
 is better) against sealed realized outcomes.
 
-**Text corpus role.** As-of the 'patient' statement, with dots pointing to mid-2015 liftoff while the same statement flags declining energy prices. The corpus carries two OPPOSING forces: liftoff pricing pushes the front end up; oil disinflation pressures the long end down. Draws should allow opposite-sign tenor moves — parallel-shift and independent-tenor models both fail that test.
+**Text corpus role.** As-of the 'patient' statement. Fifteen of seventeen participants' projections place the first policy firming in 2015, while the statement attributes below-objective inflation partly to declines in energy prices. The documents are for weighing the two, which may bear on the front end and the long end differently; draws should be able to represent opposite-sign tenor moves — parallel-shift and independent-tenor models both fail that test.

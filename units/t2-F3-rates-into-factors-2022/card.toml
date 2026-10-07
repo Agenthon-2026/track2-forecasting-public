@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F3"
 tags                     = ["forecasting", "factors_daily", "rates_daily", "t2-f3", "t2c-F3-duration-of-equities-2022"]
 expert_time_estimate_min = 45.0
@@ -87,8 +86,8 @@ source         = "BLS/BEA news release; Federal Reserve; official (see landmarks
 path           = "text/"
 cutoff         = "2022-01-05"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 5
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 7
 notes          = "As-of the day the December minutes land — balance-sheet runoff discussion arrives years earlier than the market assumed. The rates panel is an INPUT; the targets are equity factors: a discount-rate shock reprices long-duration growth against value, so HML and MOM must co-move through the rates branch."
 
 [targets]

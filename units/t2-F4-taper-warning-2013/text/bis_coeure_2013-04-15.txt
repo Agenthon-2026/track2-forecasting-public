@@ -1,0 +1,78 @@
+Benoît Cœuré: Harmonising cashless payments - the SEPA experience
+2013-04-15
+
+## Benoît Cœuré: Harmonising cashless payments - the SEPA experience
+
+Dinner speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, at the ECB Seminar 'Sharing the European experience in retail payments integration and innovation', Frankfurt am Main, 15 April 2013.
+
+* * *
+
+## Ladies and Gentlemen,
+
+It is a great pleasure to have dinner with you tonight. I am very happy that central bankers from all five continents are together here today and tomorrow to hear about Europe's experience in retail payments integration and innovation, and to talk about how this experience could benefit other countries and communities.
+
+Sharing information and exchanging views with colleagues from different parts of the world benefits us at the ECB, too. In fact, this seminar gives us all an opportunity to enhance our knowledge and to strengthen personal and institutional ties.
+
+Before dinner is served, let me give you some food for thought.
+
+There are different ways to establish and maintain a domestic, integrated retail payments market. To illustrate this, let me first briefly look at the retail payments market in Europe, which has been fragmented along national lines and is still integrating, and then compare it with the market in the US.
+
+Although the population of the US is comparable with that of the euro area 1 , the US still generates a higher GDP 2 . Households have a considerably higher gross disposable income. 3 Yet the gross savings of households in the euro area (as a percentage of their gross disposable incomes, HGDI) are higher than in the US 4 .
+
+Given these figures, it is not surprising that the number of cashless payment transactions per inhabitant in the US is higher than in the euro area. 5 However, the fact that it is twice as high is remarkable.
+
+Why do the retail payments markets in the US and euro area differ? As I will explain, it's not only because of customer preferences and technology, but also because of different approaches to regulation and different pricing. The paths followed for payment transactions will always differ from country to country and region to region. But, the diversity of instruments reveals some interesting facts about the retail payments market in both areas.
+
+In the US, about two-thirds of cashless payment transactions are card payments. Of those card payments, one-third of them are made with credit cards. In the euro area, card payments are less dominant: just over one-third of cashless payment transactions are card payments. Debit cards are generally preferred.
+
+Consequently, whereas consumer credit cards are the biggest driver of revenue in the US payments industry 6 , their role in the euro area is less prominent. It has been rightly pointed out in one of the presentations today that, in contrast to the US, the sustainability of
+
+1 Euro area 332.4, US 312 million, source: Statistics Pocket Book March 2013, 2011 figures.
+
+2 US €12.1 trillion (PPP), euro area €9.4 trillion (PPP), source ibid.
+
+3 US €29,600 HGDI per capita (PPP), euro area €18,700 HGDI per capita (PPP), source ibid.
+
+4 US 8.3 % of HGDI, euro area 13.2% of HGDI, source ibid.
+
+5 US, 366 transactions, euro area 183, source: Red Book for US, SDW for euro area, 2011 figures.
+
+6 Source: McKinsey.
+
+card business models in the euro area depends notably because of regulatory interventions - on improvements in efficiency and on the cost side, and not on driving revenue.
+
+An Occasional Paper published by the ECB in September 2012 entitled 'The social and private costs of cash and retail payment instruments - A European perspective' shows that in Europe debit card payments have on average the lowest social costs per euro transaction value. In other words, society may benefit from an increase in their usage.
+
+The same paper reported that cheques were the most expensive form of payment. Thus, they are not part of the integration efforts in the retail payments market in Europe. In the US however, despite a steady decline, cheques still play an important role as a cashless payment instrument. In fact, they are used more often than credit transfers and direct debits put together. The low number of electronic payments (i.e. credit transfers and direct debits) in the US has not only to do with consumer preference and systemic restrictions on consumerinitiated transfers but also with the set-up of batch processing of electronic payments. The CEO of Western Union has commented that bank-to-bank credit transfers in the US are so complicated that banks ask Western Union to process them. 7
+
+As you heard this morning, the creation of domestic credit transfer and direct debit schemes formed the basis of the Single Euro Payments Area (SEPA). These electronic payment instruments facilitate straight-through-processing (STP) and are thus operationally efficient solutions. They can also serve as the basis for further developments in online and mobile payments.
+
+The ultimate aim of SEPA is to create a truly domestic European retail payments market which does not differentiate between euro payments made by individuals, businesses or public administrations within one country or between SEPA countries. Tommaso PadoaSchioppa, a former member of the ECB's Executive Board, called this the 'principle of indifference'. In that sense, SEPA is also part of the political objective to create a more integrated Europe.
+
+The creation of a safe and efficient domestic retail payments market is also an issue of social relevance because individuals and businesses in any country can benefit from retail payment services. It is a means to increase financial inclusion and it strengthens the formal economy. It also has great potential to make remittance payments cheaper and more efficient.
+
+Let me emphasise: SEPA is one of Europe's most successful financial integration projects. Even during the current financial crisis, SEPA has shown its strengths and its implementation has continued without major obstacles. This may be because, as research has shown, effective retail payment services are associated with greater bank stability and because banks perform better in countries with more developed retail payment services. Last but not least, there is evidence that retail payments have a positive impact on economic growth. 8
+
+Let me conclude by saying that in a world marked by growing mobility and by increasing cross-border trade, retail payments cannot and should not be overlooked. In Europe, with its single market for goods, capital, services and a single currency, it is essential to harmonise cashless payments via such a system as SEPA. I am convinced that this harmonisation can serve as a valuable point of reference for further integration activities in other parts of the world and also at global level.
+
+7 See the Austrian newspaper Der Standard, 26.9.2010, at http://derstandard.at/1285199287021/WesternUnion-Anti-Geldwaesche-Regeln-bringen-uns-Geschaeft.
+
+8 Advisory Committee on the Future of Banks in the Netherlands ('Restoring Trust', April 2009), UK HM Treasury ('Banking reform: delivering stability and supporting a sustainable economy', June 2012), ECB ('Retail payments and economic growth'; work in progress 2013).
+
+European retail payment integration should not be seen as a stand-alone project. There are interdependencies with standardization and regulatory issues at global level. For instance, full EMV migration for cards in Europe and the move to chip-only cards remain difficult as long as there are regions in the world where the magnetic stripe remains dominant.
+
+And yet, SEPA and Europe's retail payments integration is affecting initiatives for integration at global level. International initiatives such as the International Payments Framework Association (IPFA) see SEPA as a blueprint for developing multi-currency schemes for nonurgent cross-border payments. These initiatives face the additional challenge of accommodating control requirements relating to anti-money laundering and countering terrorist finance. Finally, retail payments integration at global level may also extend to the remittance market and make remittance payments cheaper and more efficient.
+
+These are all weighty matters and I'm sure you'll be considering them in the sessions tomorrow. I hope you will have a stimulating, useful and successful morning.
+
+But now, I'd like to wish you bon appétit !
+
+Table 1: Use of payment instruments: number of transaction per inhabitant (BIS Red Book for US figures, ECB SDW for euro area figures, 2011 figures)
+
+| | Euro area | US |
+|-----------------|-------------|------|
+| credit transfer | 51 | 25 |
+| direct debit | 54 | 38 |
+| cheques | 11 | 68 |
+| cards | 67 | 235 |
+| total | 183 | 366 |

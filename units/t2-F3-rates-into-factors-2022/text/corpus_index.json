@@ -11,6 +11,20 @@
       "file": "fomc_statement_20211103.txt"
     },
     {
+      "doc_id": "bis_powell_2021-11-29",
+      "timestamp": "2021-11-29",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_powell_2021-11-29.txt"
+    },
+    {
+      "doc_id": "bis_kuroda_2021-11-29",
+      "timestamp": "2021-11-29",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2021-11-29.txt"
+    },
+    {
       "doc_id": "macro_release-2021-12-10",
       "timestamp": "2021-12-10",
       "source": "BLS",

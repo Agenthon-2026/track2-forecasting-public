@@ -1,0 +1,142 @@
+Frank Elderson: The European Climate Law and the European Central Bank
+2022-12-01
+
+SPEECH
+
+## The European Climate Law and the European Central Bank
+
+Keynote speech by Frank Elderson, Member of the Executive Board of the ECB and Vice-Chair of the Supervisory Board of the ECB, Lustrum Symposium organised by Dutch Financial Law Association
+
+Amsterdam, 1 December 2022
+
+I am honoured to speak at this 20th anniversary dinner, with so many distinguished lawyers around me. In this setting, I feel quite comfortable dwelling on legal issues for a while.
+
+A topic close to my heart - apart from the law - is the ongoing climate and environmental crises. I am glad that we have long since moved on from the time when only scientists and activists were concerned with this topic. It is now high on policymakers' agendas, as we saw at the recent United Nations Conference of Parties (COP27) at Sharm el-Sheikh, at which - along with world leaders and a wide range of policymakers and interest groups - the ECB was also represented.
+
+I was struck by one story in particular. [ ] The tiny Pacific nation of Vanuatu is badly exposed to cyclones and rising sea levels. To the inhabitants of Vanuatu, climate change is a human rights issue. And, as Vanuatu's president, Nikenike Vurobaravu, stated, 'we are measuring climate change not in degrees of Celsius or tonnes of carbon, but in human lives.' 1
+
+Vanuatu now plans to ask the UN General Assembly to seek an opinion from the International Court of Justice on the human rights implications of the climate crisis. That opinion could determine the rights of countries most exposed to climate change. It could also touch on the obligations of those most responsible for driving the climate crisis.
+
+Let's now focus on Europe and the possible implications of these developments in international law for my own institution, the ECB. Under the Paris Agreement adopted at COP21 in 2015, many countries committed to the long-term goal of holding the increase in the global average temperature to well below 2°C above pre-industrial levels. [ ] 2
+
+To fulfil its commitment as one of parties to the Paris Agreement, the EU last year adopted the European Climate Law. [ ] The implications of the Climate Law are significant. Before going into why, let me first explain what the Climate Law does. 3
+
+The Climate Law has three key elements. The first is its objective that the EU reduce its greenhouse gas emissions by at least 55% by 2030, with a new reduction target to be set for 2040. The EU should achieve climate neutrality by 2050 and aim to achieve negative emissions thereafter. The second important element is to ensure that we move towards that objective. The European Commission has established a framework for assessing concrete progress and checking whether national and Union measures are consistent with the objective. It will issue regular reports on the conclusions of these assessments. The third and last element is to ensure that we use the most effective instruments to achieve the objective. The introduction of a European Scientific Advisory Board on Climate Change promotes the idea that all policies should be based on up-to-date scientific insights.
+
+It is hard to overstate the importance of the Climate Law. The EU is setting the bar high. Allow me to quote what the law says about the transition to climate neutrality. It ' requires changes across the entire policy spectrum and a collective effort of all sectors of the economy and society […] all relevant Union legislation and policies need to be consistent with, and contribute to, the fulfilment of the climate-neutrality objective while respecting a level playing field ' [ ] . 4
+
+We are starting to see this happen. From housing to energy and from transport to finance, the EU is introducing reforms to put Europe on track to become the first climate-neutral continent by 2050. So how will the Climate Law affect the ECB? For me, as a member of the ECB's Executive Board and the ViceChair of its Supervisory Board, this question is relevant to both our monetary policy and banking supervision tasks.
+
+This question matters because, in the field of the environment, the ECB is a policy taker, not a policymaker. So what does the ECB need to take from the policy and objectives reflected in the Climate Law? To answer this, we first need to consider whether the ECB is bound by the Climate Law. If so, the ECB would have to take measures towards achieving the climate-neutrality objective.
+
+There is more, though. If the ECB is bound by the law, it would also have to ensure continuous progress in enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change. Moreover, it would have to ensure that its policies on adaptation are coherent with and supportive of other such policies in the Union. [ ] 5
+
+That is quite a full plate. So, is the ECB bound by the Climate Law? There are definitely indications that it is. The Climate Law is addressed to 'relevant Union institutions and the Member States'. In the European Anti-Fraud Office (OLAF) judgment [ ] , the European Court of Justice made it clear that, in principle, the ECB is bound by all regulations which bind the Union. There is no distinction to be made between the different institutions, bodies, offices and agencies. All are equal under the law, so to say. 6
+
+However, the word 'relevant' is ambiguous. Does it refer to any institution, where relevant? That would mean that every EU institution should comply with the Climate Law, whenever it develops policy or takes action relevant to the objective of the law. Or does it refer only to those institutions with competence to create policy relevant to achieving the objective of the Climate Law? The ECB would be directly bound by the law under the first interpretation but not under the second.
+
+The Climate Law is not crystal clear on this point. It does not define 'relevant institution'. But there are a number of strong indications that the ECB is not a relevant institution under the Climate Law. Let me explain why. The Climate Law does not contain many specific obligations. The law sets out a destination: climate neutrality. It does not tell us how to get there. How we do so will depend on environmental and economic policymaking. This is a Union competence the ECB does not have.
+
+There are further arguments that support this interpretation. If the ECB is deemed to be a relevant institution, then it would have to submit its policies to the Commission for assessment and the Commission would monitor progress. That would be a fundamental change to the ECB's accountability framework. Under current law, the ECB is only directly accountable to the European Parliament and the European Court of Auditors. [ ] 7
+
+A final reason for this view is institutional. If the ECB were deemed to be a relevant institution within the meaning of the Climate Law, this would be an implicit acceptance that the Council of the EU and the Parliament could set additional objectives for the ECB through the ordinary legislative procedure. However, the ECB's objectives are laid down in the Treaty on the Functioning of the European Union (TFEU) [ ] , and their scope cannot be changed by secondary legislation. That would be a violation of the Treaty. Changing the ECB's objectives requires a special procedure. 8
+
+The ECB is - it seems - not directly bound by the Climate Law. So, can we ignore it? Not at all. To do so would be a violation of the Treaties. Article 11 of the TFEU provides that environmental protection requirements must be 'integrated into the definition and implementation of the Union's policies and activities'. This imposes an obligation on the ECB to take into account and consider the objectives of the
+
+Climate Law when performing its tasks. In addition, Article 11 could be understood as supporting measures which incorporate environmental considerations as secondary aims. This means the ECB could rely on Article 11 to support the climate neutrality dimension of measures falling within its monetary policy or supervisory competences. But it does not go so far as to establish an autonomous competence to adopt environmental measures. In addition, under Article 7 of the TFEU, the activities and policies of the ECB need to be consistent with Union law and therefore also with the Climate Law.
+
+We have diligently assessed how these provisions of the Treaty, together with the Climate Law, affect our tasks, always being guided by and staying within our mandate. The ECB is not an environmental policy institution. The ECB is a central bank and banking supervisor. As such, let me share with you what we have done to reflect these legal requirements in the common fight against the climate crisis within our mandate.
+
+First of all, when defining and implementing monetary policy, we need to take into account environmental protection requirements, such as the climate-neutrality objectives contained in the Climate Law. And that is what we have done. Last year the Governing Council adopted a comprehensive action plan [ ] to further incorporate climate change considerations into its monetary policy framework. 9
+
+There are a number of actions to which the ECB is committed under this plan. Let me now give a very concrete example of how the ECB has taken into account climate change considerations in the context of its corporate sector purchase programme (CSPP).
+
+Under the CSPP, the Eurosystem purchases corporate bonds for monetary policy purposes. Right now we are in the reinvestment phase which means that we are no longer increasing our portfolio but only reinvesting bonds that mature. Up until October 2022, the Eurosystem purchased these bonds in accordance with the 'market benchmark'. However, owing to the way the corporate bond market functions, this 'market benchmark' has been criticised as leading to the purchase of a larger proportion of bonds from carbon-intensive firms.
+
+Therefore, from October 2022, the ECB started to implement its decision to 'tilt' CSPP reinvestments to increase the share of assets from issuers with better climate performance, rather than those with poorer climate performance. There are two main reasons for this decision.
+
+First, the ECB considered this essential in order to effectively pursue its primary objective of maintaining price stability. Given that carbon-intensive issuers are more vulnerable to physical and transition risks arising from climate change, large holdings of bonds from such companies pose higher financial risks to the Eurosystem's balance sheet, which has an impact on the implementation of its monetary policy.
+
+Second, 'tilting' the CSPP also serves the ECB's secondary objective of supporting the general economic policies in the Union. 'Tilting' its corporate bond reinvestments towards 'greener' companies enables the ECB to align these reinvestments with the objectives set out in the Climate Law, which form part of those economic policies. This action was assessed as also being conducive, and not prejudicial, to price stability.
+
+More generally, this measure ensures that the CSPP complies fully with the ECB's obligations under Article 11 TFEU by integrating the objectives of the Climate Law into the definition and implementation of the ECB's policies and activities.
+
+This is one of the first steps in the ECB's climate action plan, but the ECB is also looking into other ways to take climate-neutrality objectives into account in its monetary policy - for example, through the collateral that we ask when providing liquidity to banks.
+
+For banking supervision, there are several dimensions that I will briefly discuss. Again, we do not directly apply the Climate Law. The Climate Law does not directly relate to our tasks as a banking supervisor nor does it relate to prudential supervision. Therefore the ECB does not impose an obligation on banks to take the necessary measures to contribute to the achievement of the objectives of the Climate Law. However, we cannot ignore it. Not only because we need to integrate environmental obligations into our policies due to Article 11 TFEU, but also since the law will have prudential implications. Therefore, the Climate Law and its consequences feature in our supervisory assessments, interactions with the banks and measures we take.
+
+Why is that? Banks will be at the forefront of the energy and climate transition, whether they want to be or not. Their clients will face increasing hazards from climate change and environmental degradation as well as increasing regulation. Some clients will have to wind down their operations, others will be stuck with stranded assets. A mandatory energy label has been introduced for real estate [ ] , affecting the value of banks' mortgage portfolios. Therefore, the ECB has identified exposure to climate-related and environmental risks as a key risk driver in the Single Supervisory Mechanism (SSM) Risk Map for the euro area banking system. [ ] In order to guide banks regarding their risk management, the ECB has published supervisory expectations in its Guide on climate-related and environmental risks. [ ] In addition, we have conducted a comprehensive review of banks' practices related to strategy, governance and risk management on climate risks - the . We will continue to set expectations for banks to progressively manage risks on this front. These expectations are certainly not open ended. By the end of 2024, banks need to be in full compliance with all the supervisory expectations we set out in 2020. 10 11 12 2022 thematic review
+
+Banks need to build their capabilities to withstand climate and environmental risks. We are happy that the Commission and the Council have acknowledged that this needs to have a foundation in prudential regulation as well. In the new banking package, the concept of 'transition plans' is important. Under Article 76 of the proposed amendments to the Capital Requirements Directive (CRD VI) [ ] , a bank's management board is required to monitor and address environmental risks arising in the short, medium and long term. [ ] Banks have to make sure that their business model and strategy are not misaligned with the relevant Union policy objectives towards a sustainable economy and they need to manage potential risks from such misalignments. 13 14
+
+Article 11 TFEU, the requirement to integrate environmental requirements into the policies and activities of the Union, plays a role in supervision. The ECB has a duty to integrate the Climate Law's neutrality objectives into its supervisory policies and activities. However, we have some discretion as to how we do this. After all, the climate neutrality objective affects the ECB's mandate in many respects and Article 11 TFEU does not prescribe how the ECB should integrate the environmental requirements. Do not expect us to act to regulate or enforce environmental policies. We will stick to our mandate. Our mandate is to keep under control the risks that banks and the financial system are facing, and in that capacity we have to look closely at the risks that are building up in the banking sector as a consequence of the climate crisis.
+
+Lastly, I would like to draw your attention to the work of the Central Banks and Supervisors Network for Greening the Financial System (NGFS). In November 2021 the NGFS published an important report on climate-related litigation [ ] which seeks to raise awareness about the growing source of litigation risk for public and private actors not convincingly supporting the climate change transition. Understanding the risks arising from climate-related litigation is clearly crucial for central banks and supervisory authorities, and the NGFS is continuing to monitor this field carefully. It plans to publish a further report next year with an update on the many developments since 2021. 15
+
+I hope I am leaving you with the right impression. The ECB is not an environmental activist, but rather a prudent realist. It is our job to point out risks, whether they are macroeconomic, macroprudential, microprudential or related to litigation, and to ensure that the financial sector takes them duly into account.
+
+Before I finish, let's turn back to the brave fight of Vanuatu. You cannot blame Vanuatu's president for seeking to defend the rights of countries most exposed to the ongoing climate and environmental crisis. Nor can we blame him for wanting to impose obligations on those most responsible for driving the crisis. Vanuatu's mission is a stark example what the fight against the climate crisis is about. It underpins the task we have on our side. Europe has realistically no other choice than to deliver on the objectives of the Paris Agreement. If we waiver, the costs will only increase both in a moral and financial sense. Speaking as a
+
+European citizen, I would like us to be ready for the challenge ahead. As European central banker, supervisor and scholar of the law I will be even more forceful: our mandate requires us to be ready.
+
+1.
+
+'The looming legal showdown on climate justice', Financial Times , 10 November 2022.
+
+2.
+
+Article 2(1)(a) of the Paris Agreement.
+
+3.
+
+Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 ('European Climate Law') (OJ L 243, 9.7.2021, p. 1).
+
+4.
+
+Recital 25 of the European Climate Law.
+
+5.
+
+Article 5 of the European Climate Law.
+
+6.
+
+Case C-11/00, Commission v ECB , EU:C:2003:395.
+
+7.
+
+Article 284(3) TFEU and Article 15.3 of the Protocol on the Statute of the European System of Central Banks and of the European Central Bank.
+
+8.
+
+Articles 127(1) and 130 TFEU.
+
+9.
+
+' ', press release, ECB, 8 July 2021. ECB presents action plan to include climate change considerations in its monetary policy strategy
+
+10.
+
+Currently under revision. See Proposal for a Directive of the European Parliament and of the Council on the energy performance of buildings (recast) COM/2021/802 final.
+
+11.
+
+See ' ', ECB, 2021. ECB Banking Supervision - Assessment of risks and vulnerabilities for 2021
+
+12.
+
+See , ECB, November 2020. Guide on climate-related and environmental risks
+
+13.
+
+Proposal for a Directive of the European Parliament and of the Council amending Directive 2013/36/EU as regards supervisory powers, sanctions, third-country branches, and environmental, social and governance risks, and amending Directive 2014/59/EU (COM/2021/663 final).
+
+14.
+
+See also Articles 73 and 74 CRD VI.
+
+15.
+
+' Climate-related litigation: Raising awareness about a growing source of risk', NGFS, November 2021.
+
+Copyright 2022, European Central Bank

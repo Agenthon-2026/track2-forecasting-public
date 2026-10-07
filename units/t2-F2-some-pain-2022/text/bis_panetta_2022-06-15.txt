@@ -1,0 +1,184 @@
+Fabio Panetta: The digital euro and the evolution of the financial system
+2022-06-15
+
+## The digital euro and the evolution of the financial system
+
+## Introductory statement by Fabio Panetta, Member of the Executive Board of the ECB, at the Committee on Economic and Monetary Affairs of the European Parliament
+
+Brussels, 15 June 2022
+
+I am pleased to join you here today to discuss the progress we have made in our digital euro project.
+
+A digital euro would enable Europeans to use public money for digital payments throughout the euro area - just like they can use cash for physical payments.
+
+Bringing central bank money into the digital era is a logical step as payments become increasingly digitalised. And this is critical for two main reasons.
+
+First, we need to preserve the role of public money as the anchor of the payments system in order to ensure the smooth coexistence, the convertibility and the complementarity of the various forms that money takes. A strong anchor is needed to protect the singleness of money, monetary sovereignty and the integrity of the financial system.
+
+Second, a digital euro would contribute to our strategic autonomy and economic efficiency by offering a European means of payment that could be used for any digital payment, would meet Europe's societal objectives and would be based on a European infrastructure.
+
+We will design the digital euro in a way that makes it attractive to users, who would like to use it to pay anywhere. [ ] Giving legal tender status to the digital euro would make this possible, and it will be decided by you, the co-legislators. It would also help to achieve the network effects that are key to the success of payment solutions. [ ] 1 2
+
+We will also strive for the highest standards of privacy [ ] and aim to contribute to financial inclusion and foster digital innovation, including as regards the programmability of payments. [ ] 3 4
+
+As for implementation, we are working to minimise the time to market, costs, risks and ecological footprint associated with the digital euro.
+
+In particular, we will make sure that the digital euro builds on the experience of financial intermediaries in consumer-facing services, does not crowd out private means of payment, and preserves financial stability. And this is the aspect that I will focus on today: the potential impact of a digital euro on the financial system.
+
+## The digital euro and the evolution of the financial system
+
+As we explore the design of the digital euro, we are not only looking at the payments landscape of today - we are in fact also considering how it might evolve in the future.
+
+Imagine a world in which the central bank continues to offer only cash, but people increasingly prefer to pay digitally and the only digital forms of money available to them are private ones. [ ] 5
+
+In such a world, central bank money would lose its key role in payments, and it would not be possible to ensure the complementarity and convertibility of public and private money. [ ] The entire monetary and financial sector would be deprived of its anchor - central bank money - and would be exposed to potential instability. [ ] 6 7
+
+It is also conceivable that non-European digital payment solutions and technologies operated abroad might dominate our payments market, as we are already seeing in some segments like cards and online payments. This risk would be exacerbated by the expansion of means of payment offered by big techs, which could use their very large customer base to their advantage. This would raise questions about our autonomy and privacy in payments. It could even endanger European sovereignty. [ ] 8
+
+Moreover, the international monetary system may see the emergence of central bank digital currencies (CBDCs) in large economies. Such CBDCs would offer benefits in terms of efficiency, scalability, liquidity and safety that would support their attractiveness internationally. And they would have the potential to facilitate cross-border payments, which may enhance their role as a global payment unit. [ ] In such a context, not issuing a digital euro could undermine the international role of the euro and create additional risks to sovereignty. 9
+
+This scenario is not imminent, but it could potentially materialise in the future if we do not start acting today.
+
+And if we don't act, we will also see increasing confusion about digital money. Crypto-assets are a case in point. [ ] Unbacked crypto-assets, for example, cannot perform the functions of money. They are neither stable nor scalable. Transactions are slow and costly. And, in some forms, they pose a danger to the environment and to other societal objectives. Stablecoins, meanwhile, are vulnerable to runs, as we have recently seen with algorithmic stablecoins. In this context, it is vital that any remaining regulatory gaps in the crypto-asset ecosystem are closed. I count on the work of this Parliament to ensure that an ambitious regulatory framework emerges from the current negotiations on the EU Regulation on Markets in Crypto-Assets (MiCA) [ ] and on the current legislative proposals on anti-money laundering and countering the financing of terrorism, especially in relation to information accompanying transfers of funds and certain crypto-assets (FCTR). [ ] 10 11 12
+
+To avoid this confusion about what digital money is and what it is not, we need the central bank to provide one of its own, responding to the demand for digitalisation and providing an anchor of stability in the world of digital finance.
+
+## Protecting the stability of the financial system
+
+For the digital euro to play this role, we need to carefully evaluate its potential impact on monetary policy, financial stability and the provision of services by financial intermediaries. [ ] 13
+
+A digital euro would of course be issued by the central bank. And unlike potentially dominant private actors in tomorrow's digital payments market - such as big techs - the central bank would pay close attention to financial stability considerations and to preserving a diverse and vibrant ecosystem.
+
+This does not imply that the status quo must be maintained. It means that any potential risks emerging from the introduction of a digital euro should be contained in both normal times and times of financial stress. We have been discussing these aspects in detail over the past few months.
+
+We are looking very closely at the risks to monetary policy transmission and financial stability that could be associated with the conversion of large parts of euro area bank deposits into digital euro.
+
+Deposits represent the main source of funding for euro area banks today. [ ] If not well designed, a digital euro could lead to the substitution of an excessive amount of these deposits. Banks can respond to these outflows, managing the trade-off between funding cost and liquidity risk. [ ] The attractiveness of commercial bank deposits will also influence the degree of substitution. 14 15
+
+But any undesirable consequences that may result from the issuance of digital euro for monetary policy, financial stability and the allocation of credit to the real economy should be minimised in advance by design.
+
+And it is indeed possible to design a digital euro with effective tools to prevent it from being used as a form of investment rather than solely as a means of payment.
+
+One such tool entails quantitative limits on individual holdings. [ ] Another involves discouraging its use as a form of investment by applying disincentivising remuneration above a certain threshold, with larger holdings subject to less attractive rates. [ ] 16 17
+
+We intend to embed both types of tool - limits and tiered remuneration - in the design of a digital euro. Closer to the possible introduction of a digital euro, we will decide how to combine and calibrate them to preserve financial stability and our monetary policy stance and transmission. [ ] These choices will need to take into account the economic and financial environment prevailing at that point in time. 18
+
+Our preliminary analyses indicate that keeping total digital euro holdings between one trillion and one and a half trillion euro would avoid negative effects for the financial system and monetary policy. This amount would be comparable with the current holdings of banknotes in circulation. As the population of the euro area is currently around 340 million, this would allow for holdings of around 3,000 to 4,000 digital euro per capita.
+
+Two 'dynamic' factors must be taken into account when drawing up the initial parameters for limiting or disincentivising holdings of digital euro for investment purposes. First, the adoption of the new digital currency by citizens will be gradual; it would likely take several years before a majority hold digital euro. Second, it may be wise to err on the side of caution when calibrating these tools and then adjust based on experience and the take-up of the digital euro over time.
+
+At the same time, when designing the tools, we will aim for simplicity, in terms of both technical implementation and user experience. [ ] We want to provide people with a product that is easy to understand and easy to use. 19
+
+## Contributing to an efficient European monetary and payment system
+
+Not only would ensuring the wide accessibility and usability of public money for digital retail payments throughout the euro area help maintain the integrity and stability of our financial system. It would also contribute to an efficient monetary and payment system in Europe.
+
+A digital euro would play a role in strengthening the strategic autonomy and resilience of the euro retail payments market. This would also allow us to respond to possible disruptions to the flow of euro payments caused by the materialisation of geopolitical risks.
+
+The issuance of a digital euro would support European sovereignty and stability in two ways: first, by contributing to the development of European-governed payment services; and second, by promoting a resilient ecosystem for euro retail payments.
+
+For the digital euro to achieve this objective, private and public parties need to work together towards a truly pan-European digital payment solution. Think back to the introduction of euro cash: the changeover was a common endeavour encompassing public and private players. We should aim to replicate this in the digital age.
+
+Indeed, financial intermediaries would play a key role in distributing the digital euro. Their experience is essential for us, in particular in areas like the onboarding of consumers, anti-money laundering checks and consumer-facing services. [ ] 20
+
+A digital euro should enhance rather than constrain services and business options so that service providers can enrich their portfolio and develop new products and services around a digital euro to the benefit of their customers. In this light, we are stepping up our engagement with banks and other market stakeholders, including consumer representatives and retailers. We are listening carefully to their views. [ ] 21
+
+## Conclusion
+
+Let me conclude.
+
+We are designing a digital euro that would make central bank money usable for digital payments, giving Europeans a digital means of payment that they can use throughout the euro area for their everyday payments and supporting Europe's societal objectives.
+
+Having digital money issued by the central bank and available to everyone would provide an anchor of stability for the payments market, preserving the coexistence of public and private money that has served us well so far.
+
+By distributing digital euro, intermediaries will play a key role.
+
+We are working to address at an early stage any possible undesirable consequences that may result from the issuance of a digital euro for monetary policy, financial stability and the allocation of credit to the real economy.
+
+Your role as co-legislators will be key to ensuring that the necessary regulatory framework is in place for both public and private forms of money in the digital age. For my part, I will continue to report to you regularly as we progress to the next steps in our investigation phase.
+
+I now look forward to our discussion.
+
+1.
+
+The focus groups suggested that people see the ability to 'pay anywhere' as the most important feature of a new digital payment instrument. This emerged in all countries and age groups. Instant, easy, contactless payments, especially for person-to-person payments, were the second-most valued feature. Lastly, participants in the focus groups would like to see a solution that would allow instant person-to-person payments regardless of the platform used by the payers and payees. See Kantar Public (2022), , March. Study on New Digital Payment Methods
+
+2.
+
+A digital economy is driven by network effects and digital money is a network good. This means that the more people hold and use the digital euro, the more attractive and valuable it would become to other users. This would, in turn, increase the potential number of people who may wish to adopt it as a regular means of payment. See Katz, M.L. and Shapiro, C. (1994), 'Systems Competition and Network Effects', Journal of Economic Perspectives , Vol. 8, No 2, pp. 93-115; and Claessens, S., Dobos, G., Klingebiel, D. and Laeven, L. (2003), 'The growing importance of networks in finance and its effects on competition', in Nagurney, A. (ed.), Innovations in financial and economic networks , Elgar, pp. 110135.
+
+3.
+
+Legislative changes to the current regulatory framework for anti-money laundering and countering the financing of terrorism would be needed to enable high levels of privacy beyond the baseline scenario for lower-risk digital euro payments - namely simplified due diligence for low-value online transactions and exemption of low-value proximity payments from monitoring. See Panetta, F. (2022), ' ', introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 30 March and ECB (2022), ' ', presentation to the Eurogroup, 4 April. A digital euro that serves the needs of the public: striking the right balance Digital euro - Privacy options
+
+4.
+
+Panetta, F. (2022), op. cit.
+
+5.
+
+Consumers are already increasingly turning to non-cash payments. Only 20% of the cash stock is now used for payments, down from 35% 15 years ago. See Zamora-Pérez, A. (2021), ' ', Economic Bulletin , Issue 2, ECB, Frankfurt am Main. The paradox of banknotes: understanding the demand for cash beyond transactional use
+
+6.
+
+We are accustomed to using private and public forms of money interchangeably. Euro banknotes and coins are legal tender in the euro area, and cash is the only form of public money to which everyone can have direct access. Confidence in private money - bank deposits, credit cards and e-payment solutions - rests on the ability to convert it, at par, into public money. This allows payment systems to run smoothly and commerce to flow.
+
+7.
+
+Panetta, F. (2021), ' ', speech at the Elcano Royal Institute, Madrid, 5 November. Central bank digital currencies: a monetary anchor for digital innovation
+
+8.
+
+Panetta, F. (2021), ' ', lecture at Federcasse's Lectiones cooperativae, Rome, 10 December. The present and future of money in the digital age
+
+9.
+
+Panetta, F. (2021), ' ', speech at the ECB-CEBRA conference on international aspects of digital currencies and fintech, Frankfurt am Main, 19 October. 'Hic sunt leones' - open research questions on the international dimension of central bank digital currencies
+
+10.
+
+Panetta, F. (2022), ' ', speech at Columbia University, New York, 25 April. See also Hermans, L. et al. (2022), ' ', Financial Stability Review , ECB, May. For a few cryptos more: the Wild West of crypto finance Decrypting financial stability risks in crypto-asset markets
+
+11.
+
+In particular, it would be important for stablecoins with an algorithm-based stabilisation mechanism to be treated as crypto-assets other than e-money tokens (EMTs) and asset-referenced tokens (ARTs), and they should not be used for payment purposes. Given that some algorithmic stablecoins have failed in the past (including the recent collapse of TerraUSD), algorithm-based stabilisation mechanisms without a reserve have proven to be conceptually flawed and have performed no better than bitcoin in terms of stability. This means that algorithmic stablecoins without an issuer and a reserve should be treated in the same way as crypto-assets other than EMTs and ARTs. Moreover, as crypto-assets are not of sufficient quality to back up the value and maintain the stability of ARTs/EMTs, the reserve assets of ARTs/EMTs should not include any crypto-assets - ARTs, EMTs or crypto-assets other than ARTs/EMTs. Finally, further clarification should be made to differentiate ARTs referring to other crypto-assets from conventional financial instruments: an ART designed to maintain a stable value by referring to another crypto-asset, or a basket of crypto-assets, could be considered as a financial instrument (e.g. a crypto-asset tracking the value of another crypto-asset may be an exchange-traded fund (ETF)). Such an asset should be subject to the relevant EU legislation (such as the Markets in Financial Instruments Directive or the Market Abuse Regulation).
+
+12.
+
+It would also be beneficial if the new European anti-money laundering authority were to supervise the riskiest crypto-asset providers, as this would help considerably in harmonising supervision across all EU Member States.
+
+13.
+
+For a full overview of the effects on the monetary and financial system stemming from the introduction of a digital euro, see Panetta, F. (2021), ' ', lecture at Federcasse's Lectiones cooperativae, Rome, 10 December. See also Adalid, R, et al. (2022), ' ', Occasional Paper Series , No 293, ECB, May. The analyses presented in this paper look at different approaches for assessing the effects of a digital euro on euro area banks. The present and future of money in the digital age Central bank digital currency and bank intermediation
+
+14.
+
+Overnight retail (household and non-financial corporation) deposits make up around 40% of euro area banks' total liabilities. Retail deposits are the defining feature of commercial banks - the receiving of deposits and repayable funds is the first criterion of a credit institution in EU law. Most retail deposits can be withdrawn overnight and are remunerated at very low short-term rates. Nevertheless, in practice, they are a sticky or stable form of funding, unless there is a banking crisis. These features allow banks to offer loans with longer maturities and keep only a fraction of the face value of deposits created in this way in central bank 'reserves'. This is the basis of fractional-reserve banking.
+
+15.
+
+Individual banks can respond to outflows in a number of ways in the short term, for instance by (i) using the bank's existing central bank excess reserves that it holds on its balance sheet, thus reducing its holding of excess reserves; (ii) acquiring reserves from other banks in the interbank market, by either selling assets or borrowing, which can be secured or unsecured and of different maturities; and (iii) obtaining more reserves from the central bank by either selling assets or using them as collateral for secured borrowing.
+
+16.
+
+An individual holding limit is the maximum amount of a retail CBDC that can be held by each end user.
+
+See the digital euro . glossary
+
+17.
+
+A retail CBDC remuneration rate is an interest rate applicable to retail CBDC holdings. Remuneration is considered tiered if interest rates applicable to holdings are differentiated across holding buckets defined using thresholds. See the digital euro . glossary
+
+18.
+
+The design of a digital euro would likely include a combination of tools, even if not all are necessarily activated at the time of issuance.
+
+19.
+
+For example, we are investigating a waterfall functionality which would allow users to receive payments in digital euro above the holding limit by linking a digital euro account to a commercial bank account. The waterfall approach is a way of managing end users' retail CBDC holdings via the automated conversion of retail CBDC in excess of a holding threshold into a bank deposit held in a linked commercial bank account chosen by the end user. See the digital euro . Holding limits could also be differentiated by type of user, to account for the payment needs of citizens typically on the payer side and businesses that will mainly be on the receiving end of digital euro payments. 20. glossary
+
+Panetta, F. (2022), ' ', speech at the IESE Business School Banking Initiative Conference on Technology and Finance, Frankfurt am Main, 8 April. More than an intellectual game: exploring the monetary policy and financial stability implications of central bank digital currencies
+
+21.
+
+Broad engagement with market stakeholders will ensure that a digital euro meets users' needs. A relevant set of initiatives have been put in place, including market contact groups, surveys and calls for expression of interest on the technical design features of a digital euro. ECB experts are also exchanging views on a digital euro with representatives from European civil society organisations and academia. See the ECB's . statement on stakeholder engagement

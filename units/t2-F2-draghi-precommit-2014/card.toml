@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-eur-precommit-2014"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2014-05-30"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "ECB (all_ECB_speeches.csv); Federal Reserve"
+source         = "ECB (all_ECB_speeches.csv); Federal Reserve; European Central Bank; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2014-05-30"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 5
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement", "landmark"]
+n_documents    = 9
 notes          = "The May 2014 press conference (in corpus) contains an unusually explicit signal that the Council is prepared to act at its next meeting, and a policy meeting falls inside the window. Instruments under open public discussion in the corpus include deposit rates below zero and targeted lending. Price the probability, composition and FX pass-through of a package without assuming any of them."
 
 [targets]

@@ -4,13 +4,12 @@ schema_version = "2.0"
 [task]
 id    = "t2-F1-ai-mom-2024"
 track = "forecasting"
-title = "Momentum at Peak AI Concentration (127 BD)"
+title = "Momentum Under AI-Theme Concentration (127 BD)"
 split = "validation"
 
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "factors_daily", "t2-f1", "t2c-F1-ai-mom-2024"]
 expert_time_estimate_min = 45.0
@@ -20,7 +19,7 @@ horizons         = [127]
 n_assets         = 1
 target_type      = "log_return"
 target_frequency = "daily"
-description      = "Momentum at Peak AI Concentration (127 BD). As-of 2024-05-31; targets MOM at horizons [127] BD. ILM/DM16: crowded-momentum continuation with crash-risk width."
+description      = "Momentum Under AI-Theme Concentration (127 BD). As-of 2024-05-31; targets MOM at horizons [127] BD. ILM: crowded momentum, and the width that crowding warrants."
 created_by       = "Ruolan Sun (catalog t2c-F1-ai-mom-2024)"
 created_date     = "2026-07-03"
 
@@ -76,8 +75,8 @@ path           = "text/"
 cutoff         = "2024-05-31"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement"]
-n_documents    = 7
-notes          = "Momentum is unusually concentrated in one theme; central-bank texts increasingly reference AI investment. DM16 crash risk grows with crowding — the six-month cumulative distribution needs a left tail even though the trailing panel shows a smooth uptrend."
+n_documents    = 9
+notes          = "Momentum is unusually concentrated in one theme, and central-bank texts increasingly reference AI investment. The documents bear on how crowded the factor is, and on how much width that crowding warrants over six months relative to the trailing panel."
 
 [targets]
 asset_ids        = ["MOM"]

@@ -25,11 +25,25 @@
       "file": "fomc_statement_20181108.txt"
     },
     {
+      "doc_id": "bis_brainard_2018-11-13",
+      "timestamp": "2018-11-13",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_brainard_2018-11-13.txt"
+    },
+    {
       "doc_id": "macro_release-2018-11-14",
       "timestamp": "2018-11-14",
       "source": "BLS",
       "doc_type": "macro_release",
       "file": "cpi_2018-11-14.txt"
+    },
+    {
+      "doc_id": "bis_quarles_2018-11-14",
+      "timestamp": "2018-11-14",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_quarles_2018-11-14.txt"
     },
     {
       "doc_id": "bis_powell_2018-11-28",

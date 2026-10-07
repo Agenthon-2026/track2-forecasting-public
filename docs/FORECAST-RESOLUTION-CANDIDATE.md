@@ -7,8 +7,8 @@ ordinary C1/C2 verifier, CLI, worker, factory or live scoring path. Every return
 explicitly non-rankable and lists the remaining adoption/evidence gaps.
 
 This module requires the coupled Hub `candidate-2` implementation
-(`qfbench2_common.contracts.forecast_protocol`). Toolkit tag `v2.4.4`, the version this
-repository pins, carries it; the public CI installs `v2.4.4` and runs this candidate's synthetic
+(`qfbench2_common.contracts.forecast_protocol`). Toolkit tag `v2.6.0`, the version this
+repository pins, carries it; the public CI installs `v2.6.0` and runs this candidate's synthetic
 tests (`tests/test_resolution.py`, `tests/test_candidate_cutoff.py`), and private staging
 additionally tests against a pinned toolkit candidate commit. Do not skip the new tests. The
 normal scorer has no new import of this module, so its existing entrypoints do not select this

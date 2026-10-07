@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-jpy-2024"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2024-03-15"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; Federal Reserve; official (see landmarks index)"
+source         = "BIS central bankers' speeches; Federal Reserve; official (see landmarks index); Bank of Japan"
 path           = "text/"
 cutoff         = "2024-03-15"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement", "landmark"]
-n_documents    = 8
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement", "landmark"]
+n_documents    = 13
 notes          = "BoJ speeches through the spring condition exit on confirmation of the wage-price 'virtuous cycle', and the first wage-round tally lands the same week as the as-of. The corpus shows the event is close to fully telegraphed and largely priced; when an event is priced, the forecastable component shifts to the rate differential (carry) rather than the event itself. The direction of the currency over the horizon need not follow the direction of the policy move."
 
 [targets]

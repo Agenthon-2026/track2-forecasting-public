@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F3"
 tags                     = ["forecasting", "rates_daily", "t2-f3", "t2c-F3-curve-risk-signal-2020"]
 expert_time_estimate_min = 45.0
@@ -77,7 +76,7 @@ path           = "text/"
 cutoff         = "2020-02-21"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 8
+n_documents    = 9
 notes          = "Jan-2020 statement + minutes (released 2020-02-19, noting a new external risk) and central-bank speeches through the as-of date that discuss an emerging global risk factor. Panel still calm at the as-of date. Joint draws must form a coherent joint scenario across tenors (correlated moves, not independent per-tenor noise); the weight on benign-continuation versus adverse-repricing branches is the forecasting question."
 
 [targets]

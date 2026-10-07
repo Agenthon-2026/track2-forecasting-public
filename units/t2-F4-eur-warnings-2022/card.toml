@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f4", "t2c-eur-published-warnings"]
 expert_time_estimate_min = 45.0
@@ -23,7 +22,6 @@ target_frequency = "daily"
 description      = "EUR Under Published Warnings (21 BD). As-of 2022-02-18; targets EUR at horizons [21] BD. SHIL: publicly-warned tail; text quantifies both probability and channel."
 created_by       = "Ruolan Sun (catalog t2c-eur-published-warnings)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -73,12 +71,12 @@ end_date   = "2022-02-18"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; BLS/BEA news release; ECB (all_ECB_speeches.csv); Federal Reserve"
+source         = "BIS central bankers' speeches; BLS/BEA news release; ECB (all_ECB_speeches.csv); Federal Reserve; European Central Bank; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2022-02-18"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement", "macro_release"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 12
 notes          = "Escalation warnings are published and explicit before the as-of — a rare case of governments pre-announcing a tail. Energy dependence means the geopolitical branch, if it materialises, could act as a terms-of-trade shock for the euro; the tail size is estimable from the corpus, though the branch is conditional and its direction over the horizon is left open."
 
 [targets]

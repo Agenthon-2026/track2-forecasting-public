@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_smaghi_2008-06-12",
+      "timestamp": "2008-06-12",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_smaghi_2008-06-12.txt"
+    },
+    {
+      "doc_id": "bis_tumpel-gugerell_2008-07-02",
+      "timestamp": "2008-07-02",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_tumpel-gugerell_2008-07-02.txt"
+    },
+    {
       "doc_id": "bis_bernanke_2008-07-08",
       "timestamp": "2008-07-08",
       "source": "BIS central bankers' speeches",
@@ -37,6 +51,13 @@
       "source": "BIS central bankers' speeches",
       "doc_type": "cb_speech",
       "file": "bis_hoenig_2008-09-01.txt"
+    },
+    {
+      "doc_id": "rba_mp_decision_2008-09-02",
+      "timestamp": "2008-09-02",
+      "source": "Reserve Bank of Australia",
+      "doc_type": "central_bank_decision",
+      "file": "rba_mp_decision_2008-09-02.txt"
     },
     {
       "doc_id": "beige_book-2008-09-03",

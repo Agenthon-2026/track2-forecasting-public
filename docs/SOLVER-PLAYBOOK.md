@@ -137,6 +137,5 @@ Target: EUR/USD level, 64 BD after an as-of one day after a credible ECB backsto
    the tail term when the path there was not knowable ex-ante.)
 
 ---
-*Companion to `EVALUATION.md` and the difficulty table in `scripts/difficulty_calibration.py`.
-The methods here describe what scored well on the internal blind-solve eval; they are guidance,
+*The methods here describe what scored well on the internal blind-solve eval; they are guidance,
 not a required submission format.*

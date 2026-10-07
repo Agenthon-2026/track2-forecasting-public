@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "factors_daily", "t2-f4", "t2c-readout-calendar-mom-2020"]
 expert_time_estimate_min = 45.0
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "log_return"
 target_frequency = "daily"
-description      = "Momentum Factor Tail Around Published Clinical-Readout Timelines (21 BD). As-of 2020-10-30; targets MOM at horizons [21] BD. DM16 momentum-crash optionality; EDGAR text supplies the catalyst schedule."
+description      = "Momentum Factor Tail Around Published Clinical-Readout Timelines (21 BD). As-of 2020-10-30; targets MOM at horizons [21] BD. Momentum around vaccine trials in progress; the EDGAR text describes planned analyses, not their dates."
 created_by       = "Ruolan Sun (catalog t2c-readout-calendar-mom-2020)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -77,9 +75,9 @@ source         = "Federal Reserve; SEC EDGAR (8-K exhibit)"
 path           = "text/"
 cutoff         = "2020-10-30"
 cutoff_checked = true
-doc_types      = ["beige_book", "corporate_8k", "fomc_statement"]
-n_documents    = 4
-notes          = "SEC 8-K press-release exhibits (timestamps = EDGAR filing dates) from late October 2020 state clinical trial-readout timing ('interim analysis expected in November'). A binary readout inside the 21-BD window can violently reprice crowded momentum (DM16 loser-leg optionality). The text gives the event calendar and its probability, not the outcome."
+doc_types      = ["beige_book", "cb_speech", "corporate_8k", "fomc_statement"]
+n_documents    = 6
+notes          = "SEC 8-K press-release exhibits (timestamps = EDGAR filing dates) from late October 2020 describe COVID-19 vaccine trials in progress: a fully enrolled Phase 3 study with two planned interim analyses, and rolling regulatory submissions. They give no readout date. The documents bear on whether a readout could land inside the 21-BD window and how that possibility should shape the momentum distribution."
 
 [targets]
 asset_ids        = ["MOM"]

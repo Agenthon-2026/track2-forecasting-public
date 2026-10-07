@@ -4,11 +4,25 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_elderson_2022-06-22",
+      "timestamp": "2022-06-22",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_elderson_2022-06-22.txt"
+    },
+    {
       "doc_id": "beige_book-2022-07-31",
       "timestamp": "2022-07-31",
       "source": "Federal Reserve (Beige Book)",
       "doc_type": "beige_book",
       "file": "beigebook_202207.txt"
+    },
+    {
+      "doc_id": "bis_bowman_2022-08-17",
+      "timestamp": "2022-08-17",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2022-08-17.txt"
     },
     {
       "doc_id": "powell_jackson_hole_2022",
@@ -25,6 +39,13 @@
       "file": "cpi_2022-09-13.txt"
     },
     {
+      "doc_id": "riksbank_mp_decision_2022-09-20",
+      "timestamp": "2022-09-20",
+      "source": "Sveriges Riksbank",
+      "doc_type": "central_bank_decision",
+      "file": "riksbank_mp_decision_2022-09-20.txt"
+    },
+    {
       "doc_id": "fomc-statement-2022-09-21",
       "timestamp": "2022-09-21",
       "source": "Federal Reserve",
@@ -37,6 +58,20 @@
       "source": "official (see landmarks index)",
       "doc_type": "landmark",
       "file": "boe_mpc_statement_20220922.txt"
+    },
+    {
+      "doc_id": "norgesbank_mp_decision_2022-09-22",
+      "timestamp": "2022-09-22",
+      "source": "Norges Bank",
+      "doc_type": "central_bank_decision",
+      "file": "norgesbank_mp_decision_2022-09-22.txt"
+    },
+    {
+      "doc_id": "hmt_growth_plan_2022-09-23",
+      "timestamp": "2022-09-23",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "hmt_growth_plan_2022-09-23.txt"
     }
   ]
 }

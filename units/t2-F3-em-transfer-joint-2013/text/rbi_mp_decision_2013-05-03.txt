@@ -1,0 +1,547 @@
+# source: https://www.rbi.org.in/Scripts/BS_ViewMonetaryCreditPolicy.aspx?Id=7956 | date: 2013-05-03 | type: central_bank_decision
+
+Monetary Policy Statement 2013-14
+Reserve Bank of India, 3 May 2013
+
+By Dr. D. Subbarao, Governor
+
+Introduction
+
+The Annual Policy for 2013-14 is formulated in an environment of incipient signs of stabilisation in the global economy and prospects of a turnaround, albeit modest, in the domestic economy.
+
+2. In the advanced economies (AEs), near-term risks have receded, aided by improving financial conditions and supportive macroeconomic policies. But this improvement is yet to fully transmit to economic activity which remains sluggish. Policy implementation risks and uncertainty about outcomes continue to threaten the prospects of a sustained recovery. Emerging and developing economies (EDEs) are in the process of a multi-speed recovery. However, weak external demand and domestic bottlenecks continue to restrain investment in some of the major emerging economies. Inflation risks appear contained, reflecting negative output gaps and the recent softening of international crude and food prices.
+
+3. Domestically, growth slowed much more than anticipated, with both manufacturing and services activity hamstrung by supply bottlenecks and sluggish external demand. Most lead indicators suggest a slow recovery through 2013-14. Inflation eased significantly in Q4 of 2012-13 although upside pressures remain, both at wholesale and retail levels, stemming from elevated food inflation and ongoing administered fuel price revisions. The main risks to the outlook are the still high twin deficits accentuated by the vulnerability to sudden stop and reversal of capital flows, inhibited investment sentiment and tightening supply constraints, particularly in the food and infrastructure sectors.
+
+4. This Statement, set in the above global and domestic context, should be read and understood together with the detailed review in Macroeconomic and Monetary Developments released yesterday by the Reserve Bank.
+
+5. This Statement is organised in two parts. Part A covers Monetary Policy and is divided into four Sections: Section I provides an overview of global and domestic macroeconomic developments; Section II sets out the outlook and projections for growth, inflation and monetary aggregates; Section III explains the stance of monetary policy; and Section IV specifies the monetary measures. Part B covers developmental and regulatory policies and is organised into five sections: Financial Stability (Section I); Financial Markets (Section II); Credit Delivery and Financial Inclusion (Section III); Regulatory and Supervisory Measures (Section IV) and Institutional Developments (Section V).
+
+Part A. Monetary Policy
+
+I. The State of the Economy
+
+Global Economy
+
+6. Global economic activity remains subdued amidst signs of diverging growth paths across major economies. In the US, a slow recovery is taking hold, driven by improvements in the housing sector and employment conditions. However, the pace of recovery remains vulnerable to the adverse impact of the budget sequestration which will gradually gain pace in the months ahead. Japan’s economy stopped contracting in Q4 of 2012. There has been some improvement in consumer confidence on account of monetary and fiscal stimulus along with a pick-up in external demand on the back of a weakening yen. In the euro area, recessionary conditions, characterised by deterioration in industrial production, weak exports and low domestic demand, continued into Q1 of 2013. High unemployment, fiscal drag and hesitant progress on financial sector repair have eroded consumer confidence.
+
+7. Growth in several EDEs rebounded from the moderation in 2012 as domestic demand rose on a turnaround in the inventory cycle and some pick-up in investment. Among BRICS countries, growth accelerated in Brazil and South Africa, while it persisted below trend in China, Russia and India.
+
+8. Inflation has remained benign in the AEs in the absence of demand pressures, and inflation expectations remain well-anchored. The EDEs, on the other hand, present a mixed picture. While inflation has picked up in Brazil, Russia and Turkey, it has eased in China, Korea, Thailand and Chile.
+
+9. Reflecting a pessimistic demand outlook, crude oil prices eased in March-April 2013 from the elevated levels prevailing through 2012. Non-energy commodity prices have been easing through Q1 of 2013 on softening metal prices and decline in food prices.
+
+Domestic Economy
+
+10. With output expansion of only 4.5 per cent in Q3 of 2012-13, the lowest in 15 quarters, cumulative GDP growth for the period April-December 2012 declined to 5.0 per cent from 6.6 per cent a year ago. This was mainly due to the protracted weakness in industrial activity aggravated by domestic supply bottlenecks, and slowdown in the services sector reflecting weak external demand. The Central Statistics Office (CSO)’s advance estimate of GDP growth for 2012-13 of 5.0 per cent implies that the economy would have expanded by 4.7 per cent in Q4.
+
+11. The growth of industrial production slid to 0.6 per cent in February 2013 from 2.4 per cent a month ago, mainly due to contraction in mining and electricity generation and slowing growth in manufacturing. Consequently, on a cumulative basis, growth in industrial production decelerated to 0.9 per cent during 2012-13 (April-February) from 3.5 per cent in the corresponding period of the previous year. The Reserve Bank’s order books, inventories and capacity utilisation survey (OBICUS) suggests that capacity utilisation remained flat. Rabi production, particularly of pulses, is expected to be better than a year ago. However, it may not fully offset the decline in kharif output. Consequently, the second advance estimates of crop production (kharif and rabi) for 2012-13 indicate a decline of 3.5 per cent in relation to the final estimates of the previous year. The composite purchasing managers’ index (PMI), which encompasses manufacturing and services, fell to a 17-month low in March 2013. Thus, most recent indicators suggest that growth in Q4 of 2012-13 would have remained low.
+
+12. On the demand side, the persisting decline in capital goods production during April 2012 – February 2013 reflects depressed investment conditions. The moderation in corporate sales and weakening consumer confidence suggest that the slowdown could be spreading to consumption spending.
+
+13. Headline inflation, as measured by the wholesale price index (WPI), moderated to an average of 7.3 per cent in 2012-13 from 8.9 per cent in the previous year. The easing was particularly significant in Q4 of 2012-13, with the year-end inflation recording at 6.0 per cent. Notwithstanding the moderation in overall inflation, elevated food price inflation was a source of upside pressure through the year owing to the unusual spike in vegetable prices in April 2012 followed by rise in cereal prices on account of the delayed monsoon and the sharp increase in the minimum support price (MSP) for paddy. Fuel inflation averaged in double digits during 2012-13, largely reflecting upward revisions in administered prices and the pass-through of high international crude prices to freely priced items. Non-food manufactured products inflation ruled above the comfort level in the first half of 2012-13 but declined in the second half to come down to 3.5 per cent by March, reflecting easing of input price pressures and erosion of pricing power.
+
+14. Largely driven by food inflation, retail inflation, as measured by the new combined (rural and urban) consumer price index (CPI) (Base: 2010=100), averaged 10.2 per cent during 2012-13. Even after excluding food and fuel groups, CPI inflation remained sticky, averaging 8.7 per cent. Other CPIs also posted double digit inflation.
+
+15. Significantly, inflation expectations polled by the Reserve Bank’s urban households’ survey, showed slight moderation in Q4 of 2012-13, even as they remained in double digits, reflecting high food prices. Wage inflation in rural areas, which rose by an average of close to 20 per cent over the period April 2009 to October 2012, declined modestly to 17.4 per cent in January 2013. House price inflation, as measured by the Reserve Bank’s quarterly house price index, continued to rise on a y-o-y basis.
+
+16. An analysis of corporate performance during Q3 of 2012-13, based on a common sample of 2,473 non-government non-financial companies, indicates that growth of sales as well as profits decelerated significantly. Early results of corporate performance in Q4 indicate continuing moderation in sales though profit margins increased slightly.
+
+17. Money supply (M3) growth was around 14.0 per cent during Q1 of 2012-13 but decelerated thereafter to 11.2 per cent by end-December as time deposit growth slowed down. There was some pick up in deposit mobilisation in Q4, taking deposit growth to 14.3 per cent by end-March. Consequently, M3 growth reached 13.3 per cent by end-March 2013, slightly above the revised indicative trajectory of 13.0 per cent.
+
+18. Non-food credit growth decelerated from 18.2 per cent at the beginning of 2012-13 and remained close to 16.0 per cent for the major part of the year. By March 2013, non-food credit growth dropped to 14.0 per cent, lower than the indicative projection of 16.0 per cent, reflecting some risk aversion and muted demand. While the Reserve Bank’s credit conditions survey showed easing of overall credit conditions, there was some tightening for sectors such as metals, construction, infrastructure, commercial real estate, chemicals and finance in Q4 of 2012-13.
+
+19. The total flow of resources to the commercial sector from banks, non-banks and external sources was higher at ₹12.8 trillion in 2012-13 as compared with ₹11.6 trillion in the previous year. This increase was accounted for by higher non-SLR investment by scheduled commercial banks (SCBs), increase in credit flow from NBFCs, gross private placement and public issues by non-financial entities, and higher recourse to short-term credit from abroad and external commercial borrowings.
+
+20. In consonance with the cuts in the policy repo rate and the cash reserve ratio (CRR) during 2012-13, the modal term deposit rate declined by 11 basis points (bps) and the modal base rate by 50 bps. While the decline in the term deposit rate occurred mostly during the first half, the modal base rate softened by 50 bps to 10.25 per cent in two steps of 25 bps each during Q1 and Q4 of 2012-13. During Q4, 39 banks reduced their base rates in the range of 5-75 bps. The weighted average lending rate of banks declined by 36 bps to 12.17 per cent during 2012-13 (up to February).
+
+21. Liquidity remained under pressure throughout the year because of persistently high government cash balances with the Reserve Bank and elevated incremental credit to deposit ratio for much of the year. The net average liquidity injection under the daily liquidity adjustment facility (LAF), at ₹730 billion during the first half of the year, increased significantly to ₹1,012 billion during the second half. In order to alleviate liquidity pressures, the Reserve Bank lowered the CRR of SCBs cumulatively by 75 bps on three occasions and the statutory liquidity ratio (SLR) by 100 bps during the year. Additionally, the Reserve Bank injected liquidity to the tune of ₹1,546 billion through open market operation (OMO) purchase auctions. The net injection of liquidity under the LAF, which peaked at ₹1,808 billion on March 28, 2013 reflecting the year-end demand, reversed sharply to ₹842 billion by end-April 2013.
+
+22. The revised estimates (RE) of central government finances for 2012-13 show that the gross fiscal deficit-GDP ratio at 5.2 per cent was around the budgeted level and within the target set out in the revised roadmap. Budget estimates (BE) for 2013-14 place the gross fiscal deficit-GDP ratio at 4.8 per cent. The envisaged correction is expected to be achieved through a reduction of 0.6 percentage points in the revenue deficit-GDP ratio.
+
+23. On the back of the policy rate reduction and the announcement of a slew of reform measures by the Government and a firm commitment to fiscal consolidation, the 10-year benchmark yield eased from 8.79 per cent on April 3, 2012 to 7.79 per cent on April 30, 2013.
+
+24. The current account deficit (CAD) came in at an all-time high of 6.7 per cent of GDP in Q3 of 2012-13. There are indications that it may have narrowed in Q4. The narrowing was largely on account of the trade deficit declining, with exports returning to positive growth after contracting in the first three quarters and non-oil non-gold imports and gold imports declining. Even as the CAD expanded, the surge in capital inflows in the second half of the year ensured that it could be fully financed.
+
+II. Domestic Outlook and Projections
+
+Growth
+
+25. For GDP growth during 2012-13, the CSO’s advance estimate of 5.0 per cent is lower than the Reserve Bank’s baseline projection of 5.5 per cent set out in the Third Quarter Review (TQR) of January 2013, reflecting slower than expected growth in both industry and services.
+
+26. During 2013-14, economic activity is expected to show only a modest improvement over last year, with a pick-up likely only in the second half of the year. Conditional upon a normal monsoon, agricultural growth could return to trend levels. The outlook for industrial activity remains subdued, with the pipeline of new investment drying up and existing projects stalled by bottlenecks and implementation gaps. With global growth unlikely to improve significantly from 2012, growth in services and exports may remain sluggish. Accordingly, the baseline GDP growth for 2013-14 is projected at 5.7 per cent (Chart 1).
+
+Inflation
+
+27. By March 2013, WPI inflation at 6.0 per cent turned out to be lower than the Reserve Bank’s indicative projection of 6.8 per cent, mainly due to a sharp deceleration in non-food manufactured products inflation in the second half of the year. The global inflation outlook for the current year appears more benign compared to last year on expectations of some softening of crude oil and food prices. Accordingly, imported inflation is likely to be lower provided the exchange rate remains broadly stable. Indicators of corporate performance, industrial outlook and PMIs are pointing to a declining pricing power. On the other hand, food inflation is likely to be a source of upside pressure because of persisting supply imbalances. Also, the timing and magnitude of administered price revisions, particularly of electricity and coal, will impact the evolution of the trajectory of inflation in 2013-14.
+
+28. Keeping in view the domestic demand-supply balance, the outlook for global commodity prices and the forecast of a normal monsoon, WPI inflation is expected to be range-bound around 5.5 per cent during 2013-14, with some edging down in the first half on account of past policy actions, although there could be some increase in the second half, largely reflecting base effects (Chart 2).
+
+29. It is critical to consolidate and build upon the recent gains in containing inflation. Accordingly, the Reserve Bank will endeavour to condition the evolution of inflation to a level of 5.0 per cent by March 2014, using all instruments at its command.
+
+30. It is important to re-emphasise that although the most recent episode of high and persistent inflation played out over the past three years, during the 2000s as a whole, inflation averaged around 5.4 and 5.8 per cent, in terms of WPI and CPI, respectively, down from its earlier trend rate of about 7.5 per cent. Given this record and the empirical evidence on the threshold level of inflation that is conducive for sustained growth, the objective is to contain headline WPI inflation at around 5.0 per cent in the short-term, and 3.0 per cent over the medium-term, consistent with India’s broader integration into the global economy.
+
+Monetary Aggregates
+
+31. Consistent with the above growth projections and the Reserve Bank’s inflation tolerance threshold, M3 growth for 2013-14 is projected at 13.0 per cent for policy purposes. Consequently, aggregate deposits of SCBs are projected to grow by 14.0 per cent. Keeping in view the resource requirements of the private sector, the growth in non-food credit of SCBs is projected at 15.0 per cent. As always, these numbers are indicative projections and not targets. The conduct of monetary policy would be guided by the evolution of monetary aggregates along these indicative trajectories.
+
+Risk Factors
+
+32. The macroeconomic outlook for 2013-14 is subject to a number of risks as indicated below.
+
+i) By far the biggest risk to the economy stems from the CAD which, last year, was historically the highest and well above the sustainable level of 2.5 per cent of GDP as estimated by the Reserve Bank. Admittedly, the fiscal deficit is programmed to decline, but even factoring that in, it is still high. Large fiscal deficits can potentially spill over into the CAD and undermine its sustainability even further. A large CAD, appreciably above the sustainable level year after year, will put pressure on servicing of external liabilities.
+
+ii) Even as the large CAD is a risk by itself, its financing exposes the economy to the risk of sudden stop and reversal of capital flows. Although the CAD could be financed last year because of easy liquidity conditions in the global system, the global liquidity situation could quickly alter for EDEs, including India, for two reasons. First, the outlook for AEs remains uncertain, and even if there may be no event shocks, there could well be process shocks which could result in capital outflows from EDEs. Second, with quantitative easing (QE), AE central banks are in uncharted territory with considerable uncertainty about the trajectory of recovery and the calibration of QE. Should global liquidity conditions rapidly tighten, India could potentially face a problem of sudden stop and reversal of capital flows jeopardising our macro-financial stability.
+
+iii) Sustained revival of growth is not possible without a revival of investment. But investment sentiment remains inhibited owing to subdued business confidence and dented business profitability. Both borrowers and lenders have become risk averse. Borrowers have become risk averse because of governance concerns, delays in approvals and tighter credit conditions. For lenders, risk aversion stems from the erosion of asset quality, deteriorating cash flow situation of borrowers eroding their credit worthiness and heightened risk premiums.
+
+iv) Looking ahead, the effectiveness of monetary policy in bringing down inflation pressures and anchoring inflation expectations could be undermined by supply constraints in the economy, particularly in the food and infrastructure sectors. Food price pressures, upward revisions in the MSPs and rapid wage increases are leading to a wage-price spiral. Without policy efforts to unlock the tightening supply constraints and bring enduring improvements in productivity and competitiveness, growth could weaken even further and inflationary strains could re-emerge.
+
+III. The Policy Stance
+
+33. The Reserve Bank began exiting from the crisis driven expansionary policy in October 2009. Between January 2010 and October 2011, the Reserve Bank cumulatively raised the CRR by 100 bps and the policy repo rate 13 times by a total of 375 bps, with the monetary policy stance biased towards containing inflation and anchoring inflation expectations.
+
+34. In view of slowdown in growth, especially investment activity, and some moderation in inflation, the Reserve Bank paused in December 2011. It indicated that no further tightening might be required and that future actions would be towards lowering the rates. In January 2012, the Reserve Bank signaled a shift in the policy stance towards addressing increasing risks to growth by reversing the tightening cycle. The CRR was reduced cumulatively by 125 bps during January-March 2012 to prepare liquidity conditions for a front-loaded 50 bps reduction in the policy repo rate in April.
+
+35. Through much of 2012-13, the Reserve Bank persevered with efforts to ease credit and liquidity conditions through a 100 bps reduction in the SLR in August 2012, a cumulative 75 bps reduction in the CRR and 50 bps reduction in the repo rate during September 2012-March 2013.
+
+36. Cumulatively, during the full year 2012-13, the policy repo rate was reduced by 100 basis points, the SLR by 100 bps and the CRR by 75 basis points, supported by liquidity injections through OMOs of the order of ₹1.5 trillion. After reducing the policy repo rate by 25 bps in its Mid-Quarter Review (MQR) of March 2013, the Reserve Bank noted that in view of the policy easing already effected, the sluggish ebbing of inflation and widening CAD, the headroom for further monetary easing was quite limited.
+
+37. Against the backdrop of global and domestic macroeconomic conditions, outlook and risks, the policy stance for 2013-14 has been guided by the following considerations:
+
+38. First, growth has decelerated continuously and steeply, more than halving from 9.2 per cent in Q4 of 2010-11 to 4.5 per cent in Q3 of 2012-13. The Reserve Bank’s current assessment is that activity will remain subdued during the first half of this year with a modest pick-up, subject to appropriate conditions ensuing, in the second half of 2013-14.
+
+39. Second, although headline WPI inflation has eased by March 2013 to come close to the Reserve Bank’s tolerance threshold, it is important to note that food price pressures persist and supply constraints are endemic, which could lead to a generalisation of inflation and strains on the balance of payments.
+
+40. Against this backdrop, the stance of monetary policy is intended to:
+
+• continue to address the accentuated risks to growth;
+
+• guard against the risks of inflation pressures re-emerging and adversely impacting inflation expectations, even as corrections in administered prices release suppressed inflation; and
+
+• appropriately manage liquidity to ensure adequate credit flow to the productive sectors of the economy.
+
+IV. Monetary Measures
+
+41. On the basis of the current assessment and in line with policy stance outlined in Section III, the Reserve Bank announces the following policy measures.
+
+Repo Rate
+
+42. It has been decided to:
+
+• reduce the policy repo rate under the liquidity adjustment facility (LAF) by 25 basis points from 7.5 per cent to 7.25 per cent with immediate effect.
+
+Reverse Repo Rate
+
+43. The reverse repo rate under the LAF, determined with a spread of 100 basis points below the repo rate, stands adjusted to 6.25 per cent with immediate effect.
+
+Marginal Standing Facility Rate
+
+44. The Marginal Standing Facility (MSF) rate, determined with a spread of 100 basis points above the repo rate, stands adjusted to 8.25 per cent with immediate effect.
+
+Bank Rate
+
+45. The Bank Rate stands adjusted to 8.25 per cent with immediate effect.
+
+Cash Reserve Ratio
+
+46. The cash reserve ratio (CRR) of scheduled banks has been retained at 4.0 per cent of their net demand and time liabilities (NDTL).
+
+Guidance
+
+47. The policy action undertaken in this review carries forward the measures put in place since January 2012 towards supporting growth in the face of gradual moderation of headline inflation. Recent monetary policy action, by itself, cannot revive growth. It needs to be supplemented by efforts towards easing the supply bottlenecks, improving governance and stepping up public investment, alongside continuing commitment to fiscal consolidation. With upside risks to inflation still significant in the near term in view of sectoral demand supply imbalances, ongoing correction in administered prices and pressures stemming from MSP increases, monetary policy cannot afford to lower its guard against the possibility of resurgence of inflation pressures. Monetary policy will also have to remain alert to the risks on account of the CAD and its financing, which could warrant a swift reversal of the policy stance. Overall, the balance of risks stemming from the Reserve Bank’s assessment of the growth-inflation dynamic yields little space for further monetary easing. The Reserve Bank will endeavour to actively manage liquidity to reinforce monetary transmission, consistent with the growth-inflation balance.
+
+Mid-Quarter Review of Monetary Policy 2013-14
+
+48. The next mid-quarter review of Monetary Policy for 2013-14 will be announced through a press release on Monday, June 17, 2013.
+
+First Quarter Review of Monetary Policy 2013-14
+
+49. The First Quarter Review of Monetary Policy for 2013-14 is scheduled on Tuesday, July 30, 2013.
+
+Part B. Developmental and Regulatory Policies
+
+50. This part of the Statement reviews the progress on various developmental and regulatory policy measures announced by the Reserve Bank in recent policy statements and also sets out fresh measures.
+
+51. Near-term risks to global financial stability are retreating as the probability associated with tail events has reduced, rekindling risk appetite as reflected in sharp rallies in financial markets. In AEs, funding conditions have improved, but credit conditions remain stressed on concerns about debt overhangs and the persisting fragility of balance sheets. For EDEs, potential spillovers from unconventional policies in AEs remain significant, especially mispricing of credit risk, a rise in liquidity risk, and excessive capital flows entailing increased debt and foreign exchange exposure in response to low borrowing costs. In addition to safeguarding domestic financial stability, these economies also face the challenge of creating conducive financing conditions for accelerating growth with stability.
+
+52. Internationally, efforts towards strengthening the global financial regulatory architecture remain incomplete and delayed, increasing vulnerability and uncertainty. Decisive and well-coordinated actions are needed to progress resolutely on restructuring weak segments of the financial system, building up capital and liquidity buffers and forward looking provisioning, developing a robust framework for systemically important entities, enhancing disclosures to improve market discipline, establishing effective resolution regimes including cross-border resolution agreements, extending the regulatory perimeter to unregulated entities, and convergence of accounting norms.
+
+53. In this challenging and uncertain international environment, ongoing structural reforms seek to make the Indian banking system more efficient, resilient, and socially more relevant. The emphasis has been on strengthening balance sheets and governance frameworks in a non-disruptive manner, sequenced into fortifying and refining the prudential framework in line with Basel III, but adapted to country-specific requirements. A key area of focus has been managing systemic risks in the time dimension through countercyclical policies employing time varying sectoral risk weights and provisioning as also cross-sectionally in terms of interconnectedness and common exposures. The triad of financial inclusion, financial literacy and consumer protection have been recognised as intertwining threads in the pursuit of financial stability. As regards non-bank financial entities, the initial focus on depositor protection has broadened into a more comprehensive framework aimed at mitigating systemic risks. The development of financial markets, products and processes continues to be pursued within the broader context of financial stability, balancing innovations with the containment of excesses in tune with the maturing of the financial system and the needs of the real economy.
+
+54. Against this backdrop, the Statement on Developmental and Regulatory Policies for 2013-14 assesses the progress made on past policy announcements and sets out the policy initiatives in key areas which include strengthening of financial market infrastructure; improving credit flow to productive sectors, including agriculture; implementation of a dynamic provisioning regime for banks; designing of a framework for monitoring liquidity risk; finalisation of guidelines for licensing of new banks in the private sector; reviewing the banking structure in India; regulation of wealth management activities; customer service initiatives; expansion of payment system infrastructure and mitigation of concentration risk in the system; streamlining the system of distribution of banknotes and coins; and improving the mechanism for detection and reporting of counterfeit banknotes.
+
+I. Financial Stability
+
+Assessment of Financial Stability
+
+55. The sixth Financial Stability Report (FSR), released in December 2012, observed that the overall macroeconomic risks in the Indian financial system had increased since the assessment made in June 2012. Apart from risks to global growth and financial stability, domestic factors such as decline in growth coupled with relatively high inflation, fall in domestic saving, and particularly household financial saving, were found to have increased risks to macroeconomic stability. In addition, the high CAD along with weakening external sector parameters, the stressed fiscal situation, and increasing corporate leverage, especially external commercial borrowings with unhedged exposures were identified as other challenges to macroeconomic stability. For the banking sector, concerns relating to tight liquidity conditions and deteriorating asset quality remain, though the sector has remained resilient to credit, market, and liquidity risks and capable of withstanding macroeconomic shocks, given the comfortable capital to risk-weighted assets ratio (CRAR) for the system as a whole. The inter-linkages among diverse sectors of the financial system were, however, found to be strong with risk of contagion in case of a failure of an institution in the core remaining high. Mutual funds and insurance companies were identified as a potential source of liquidity contagion, being lenders in the financial system.
+
+Sub-Committee of the Financial Stability and Development Council – Recent Initiatives
+
+56. Under the aegis of the Sub-Committee of the Financial Stability and Development Council (FSDC), a Memorandum of Understanding (MoU) was signed by the financial sector regulators (Reserve Bank of India, Securities and Exchange Board of India, Insurance Regulatory and Development Authority and Pension Fund Regulatory and Development Authority) on March 8, 2013 with a view to forging greater cooperation in the field of supervision. The MoU envisages cooperation in the field of consolidated supervision and monitoring of financial groups identified as financial conglomerates.
+
+57. The Sub-Committee of the FSDC approved the National Strategy for Financial Education (NSFE). The NSFE entails provision of financial education for all Indians so as to understand the need and use of saving, the advantages of using the formal financial sector and various options to convert saving into investment, protection through insurance and a realistic recognition of the attributes of these options. The NSFE has been revised, incorporating the feedback received from public consultations and from a global peer review.
+
+II. Financial Markets
+
+Working Group on Government Securities and Interest Rate Derivatives Markets
+
+58. As stated in the SQR of October 2012, the Report of the Working Group on Government Securities (g-secs) and Interest Rate Derivatives Markets (Chairman: Shri R. Gandhi) was finalised in August 2012. Some of the recommendations such as reducing the time gap between dissemination of the results of primary auctions on the newswires and the auction system; truncating the time window for bidding in the primary auction; changing the settlement cycle of primary auctions in Treasury Bills (T-Bills) from T+2 to T+1; conduct of primary auctions in g-secs as a mix of both uniform-price and multiple-price formats; re-issuances of existing securities in state development loans; standardising interest rate swap (IRS) contracts to facilitate centralised clearing and settlement of these contracts; and migration of secondary market reporting of over-the-counter (OTC) trades in g-secs (outright and repo) from Public Debt Office-Negotiated Dealing System (PDO-NDS) to Negotiated Dealing System-Order Matching (NDS-OM) and Clearcorp Repo Order Matching System (CROMS), respectively, have already been implemented. Further, the Government of India has announced the introduction of inflation-indexed bonds for retail investors in the Union Budget 2013-14. As will be indicated later in this Section, the dispensation regarding held to maturity (HTM) has also been reviewed.
+
+59. Other recommendations including consolidation of the Government of India’s public debt; introduction of cash settled 10-year interest rate futures (IRF); introduction of single bond futures; and simplification of operational procedures for seamless movement of securities from SGL form to demat form and vice versa are being examined in consultation with all stakeholders.
+
+Fixed Interest Rate Products
+
+60. As indicated in the SQR, the draft report of the Committee to assess the feasibility of introduction of long-term fixed interest rate loan products by banks (Chairman: Shri K.K. Vohra) was placed on the Reserve Bank’s website inviting views/suggestions from the public/stakeholders. Taking into account the feedback received, the final report was put out on the Reserve Bank’s website in January 2013. Banks may consider implementing these recommendations so that retail customers are not adversely impacted by undue interest rate risk arising out of changes in economic cycles and policy rates.
+
+Participation of Foreign Institutional Investors in Currency Derivatives
+
+61. The Finance Minister, in his budget speech for 2013-14, had announced that Foreign Institutional Investors (FIIs) will be permitted to participate in the currency derivatives segment of exchanges to the extent of their rupee-denominated exposure in the country. In line with the above announcement, it is proposed to:
+
+• allow FIIs to hedge their currency risk by using exchange traded currency futures in the domestic exchanges.
+
+Draft guidelines will be issued by end-July 2013.
+
+Dissemination of Market Liquidity Indicators
+
+62. Since the introduction of the NDS-OM in 2005, there has been a significant improvement in liquidity and turnover in the secondary market for g-secs. In order to enhance transparency and enable better data dissemination in respect of liquidity, the Clearing Corporation of India Ltd. (CCIL) would henceforth disseminate market liquidity indicators on its website at regular monthly intervals. To start with, bid-ask spreads, number of trades, order book size, impact cost, turnover ratio and number of securities traded would be disseminated on the CCIL website. Further refinements would be carried out based on experience.
+
+Financial Market Infrastructure
+
+Technical Committee on Services/Facilities for Exporters
+
+63. In order to examine various issues relating to exports such as the availability of credit, transaction costs, insurance, factoring and other procedural aspects in the dealings of exporters with banks and financial institutions, a Technical Committee on Services/Facilities to Exporters (Chairman: Shri G. Padmanabhan) was constituted on February 13, 2013. The Committee submitted its report on April 29, 2013. The recommendations are under examination. The report will be placed on the Reserve Bank’s website shortly.
+
+Export Reporting and Follow-up
+
+64. As stated in the SQR, a Working Group (Chairperson: Smt. Rashmi Fauzdar) was constituted to identify gaps in the current export reporting and follow-up procedure, including large number of unmatched export transactions between customs and bank reporting, and to recommend suitable re-engineering of the system. The recommendations of the Working Group are under implementation. With the envisaged architecture expected to be put in place by end-September 2013, Authorised Dealers (ADs) would be required to regularly update the status of documents evidencing exports and receipt of export proceeds for the transactions pertaining to them in the Reserve Bank’s data base, ensuring effective follow-up of large value transactions/ transactions of serious nature and improvement in the monitoring of export transactions.
+
+III. Credit Delivery and Financial Inclusion
+
+Priority Sector Guidelines
+
+65. In the light of feedback received from stakeholders regarding enhancement in certain loan limits for being eligible to be classified as priority sector advances within the broad contours of the priority sector architecture, it is proposed to:
+
+• increase the loan limit for micro and small enterprises (MSEs) in the services sector, as defined in the Micro, Small and Medium Enterprises Development (MSMED) Act 2006, from ₹20 million to ₹50 million per borrower;
+
+• increase the loan limit from ₹10 million to ₹50 million per borrower for bank loans to dealers/sellers of fertilisers, pesticides, seeds, cattle feed, poultry feed, agricultural implements and other inputs which are classified as indirect finance to agriculture; and
+
+• raise the limit on pledge loans (including against warehouse receipts) from the current limit of ₹2.5 million to ₹5 million for classification as direct agriculture loans in the case of individual farmers and as indirect agriculture loans in the case of corporates, partnership firms and institutions engaged in agriculture and allied activities.
+
+Guidelines are being issued separately.
+
+Micro and Small Enterprises
+
+66. In view of the concerns emerging from the deceleration in credit growth to the MSE sector, an Indian Banking Association (IBA)-led Sub-Committee (Chairman: Shri K.R. Kamath) was set up to suggest a structured mechanism to be put in place by banks to monitor the entire gamut of credit related issues pertaining to the sector. The Committee has since submitted its report and based on its recommendations, it has been decided that banks need to:
+
+• strengthen their existing systems of monitoring credit growth to the sector and put in place a system-driven comprehensive performance management information system (MIS) at every supervisory level (branch, region, zone, head office) which should be critically evaluated on a regular basis;
+
+• put in place a system of e-tracking of MSE loan applications and monitor the loan application disposal process in banks, giving branch-wise, region-wise, zone-wise and State-wise positions. A format for the purpose will be provided to banks as recommended by the Sub-Committee. The position in this regard may be displayed by banks on their websites; and
+
+• monitor timely rehabilitation of sick MSE units. A format for the purpose will be provided to banks as recommended by the Sub-Committee. The progress in rehabilitation of sick MSE units should be available on the website of banks.
+
+Detailed guidelines are being issued separately.
+
+Financial Inclusion
+
+Direct Benefit Transfer
+
+67. With a view to facilitating Direct Benefit Transfer (DBT) for the delivery of social welfare benefits by direct credit to the bank accounts of beneficiaries, it is proposed to advise banks to:
+
+• open accounts for all eligible individuals in camp mode with the support of local government authorities;
+
+• seed the existing accounts or the new accounts opened with Aadhaar numbers; and
+
+• put in place an effective mechanism to monitor and review the progress in the implementation of DBT.
+
+Guidelines are being issued separately.
+
+Financial Inclusion Plan 2013-16
+
+68. The implementation of the Financial Inclusion Plan (FIP) 2010-13, introduced for the first time in April 2010, has led to the establishment of banking outlets in more than 2 lakh villages. In order to take financial inclusion to the next stage of providing universal coverage and facilitating Electronic Benefit Transfer (EBT), banks have been advised to draw up the next FIP for the period 2013-16. The FIPs submitted by banks would be discussed in detail with the Reserve Bank. Banks are, therefore, advised to:
+
+• disaggregate the FIPs to the controlling office and branch level.
+
+Financial Literacy Material
+
+69. In order to link the financially excluded segment with the banking system, a model for conduct of literacy camps by banks has been designed, detailing the operational modalities to culminate in effective financial access to the excluded. Further, to ensure consistency in the financial literacy material reaching the target audience in a simple and lucid manner, the Reserve Bank has prepared comprehensive financial literacy material consisting of a Financial Literacy Guide, a Financial Diary and a set of 16 Financial Literacy Posters. Banks are, therefore, advised to:
+
+• use the model of financial literacy camps as a tool to achieve the targets set under their FIPs;
+
+• use the financial literacy material as a standard curriculum in the literacy camps; and
+
+• be innovative in devising suitable communication channels so that the messages reach the target audience effectively.
+
+Lead Bank Scheme - Metropolitan Areas
+
+70. At present, the Lead Bank Scheme (LBS) is applicable to all districts in the country, excluding districts in metropolitan areas. However, the challenge of financial exclusion is widespread in metropolitan areas also, especially amongst the disadvantaged and low-income groups. With the objective of providing an institutional mechanism for coordination between government authorities and banks, facilitating doorstep banking to the excluded segment of urban poor, and to implement DBT, it has been decided to:
+
+• bring all districts in metropolitan areas under the fold of the LBS.
+
+Rural Cooperatives: Streamlining of Short Term Cooperative Credit Structure
+
+71. As announced in the SQR, the Reserve Bank constituted an Expert Committee (Chairman: Dr. Prakash Bakshi) to undertake an in-depth analysis of the Short-Term Cooperative Credit Structure (STCCS). The Committee submitted its report in January 2013 and made 25 recommendations towards strengthening of the rural cooperative credit architecture.
+
+72. An Implementation Committee (Chairman: Shri V. Ramakrishna Rao) comprising members from the National Bank for Agriculture and Rural Development (NABARD) and the Reserve Bank has been formed to ensure effective and expeditious implementation of the recommendations of the Expert Committee, wherever applicable. Progress in this regard will be reported in the SQR of October 2013.
+
+Customer Service
+
+Implementation of the Damodaran Committee Report
+
+73. As mentioned in the Monetary Policy Statement of April 2012, a sub-group of the IBA was constituted to examine implementation of some of the recommendations of the Damodaran Committee. These include benchmarking of service charges for basic banking services, charges for non-home branch transactions, zero liability for Automated Teller Machine (ATM)/Point-of-Sale (PoS)/Internet Banking Transactions, and placing the onus on banks to prove customer negligence and discrimination in interest rates offered to old and new borrowers under the floating interest rate regime. The IBA has been advised to draw up a strategic roadmap for implementation of these recommendations, increase customer awareness and ensure that the recommendations of the Committee result in optimisation of desired outcomes.
+
+Recommendations of Damodaran Committee – Uniformity in Intersol Charges
+
+74. With the introduction of Core Banking Solution (CBS), it is expected that customers of banks would be treated uniformly at any sales or service delivery point. It is observed, however, that some banks are discriminating against their own customers on the basis of one branch being designated as the ‘home branch’ where charges are not levied for products/services and other branches being referred to as ‘non-home’ branches where charges are levied for the same products/services. This practice is contrary to the spirit of the Reserve Bank’s guidelines on reasonableness of bank charges. With a view to ensuring that bank customers are treated fairly and reasonably without any discrimination and in a transparent manner at all branches of banks/service delivery locations, banks are advised to:
+
+• follow a uniform, fair and transparent pricing policy and not discriminate between their customers at home branch and non-home branches.
+
+Detailed guidelines will be issued by end-June 2013.
+
+Banking Ombudsman Scheme
+
+75. As stated in the SQR of October 2012, the Reserve Bank constituted a Working Group to review, update, and revise the Banking Ombudsman Scheme, 2006 (Chairperson: Smt. Suma Varma) in the light of the recommendations and suggestions of the Committee on Customer Service in Banks and the Rajya Sabha Committee on Subordinate Legislation. The Working Group submitted its report in January 2013, which is under examination.
+
+IV. Regulatory and Supervisory Measures
+
+Implementation of Basel III Capital Regulation
+
+76. The Reserve Bank’s guidelines on Basel III capital regulation have been implemented from April 1, 2013 with the exception of Credit Valuation Adjustment (CVA) risk capital charge for OTC derivatives. Pending resolution of certain issues related to introduction of mandatory forex forward guaranteed settlement through a central counterparty, the implementation of CVA risk capital charge has been deferred to January 1, 2014.
+
+77. As announced in the SQR, draft guidelines were issued on: (i) composition of capital disclosure requirements; and (ii) capital requirements for banks’ exposures to central counterparties. It is proposed to:
+
+• issue the final guidelines on composition of capital disclosure requirements by end-May 2013; and
+
+• issue the final guidelines on capital requirements for banks’ exposures to central counterparties by end-June 2013.
+
+Guidelines on Liquidity Coverage Ratio and Liquidity Risk Monitoring Tools under Basel III
+
+78. The Basel III Framework on Liquidity Standards includes Liquidity Coverage Ratio (LCR), Net Stable Funding Ratio (NSFR) and liquidity risk monitoring tools. The Reserve Bank had issued draft guidelines on Liquidity Risk Management and Basel III Framework on Liquidity Standards in February 2012. After taking into account the feedback received from stakeholders, the guidelines on Liquidity Risk Management were issued in November 2012. These included enhanced guidance on liquidity risk governance, and measurement, monitoring and reporting to the Reserve Bank on liquidity positions. The Basel III liquidity standards were subject to an observation period/revision by the Basel Committee with a view to addressing any unintended consequences that the standards may have for financial markets, credit extension and economic growth. The Reserve Bank indicated in the guidelines on liquidity risk management issued in November 2012 that the guidelines on Basel III liquidity standards will be issued once the Basel Committee finalises the relevant framework. The Basel Committee has issued Basel III: The Liquidity Coverage Ratio and Liquidity Risk Monitoring Tools in January 2013 and is in the process of finalising the NSFR and disclosure requirements. The LCR is to be implemented from January 1, 2015 and the NSFR from January 1, 2018. The Reserve Bank will issue the final guidelines on Basel III liquidity standards and liquidity risk monitoring tools, taking into account the revisions by the Basel Committee.
+
+Implementation of Dynamic Provisioning Regime for Banks in India
+
+79. The Reserve Bank had placed a discussion paper on Introduction of Dynamic Loan Loss Provisioning Framework for Banks in India on its website in March 2012, soliciting views/comments. The comments/views received by the Reserve Bank from stakeholders are under examination and various parameters of the proposed dynamic provisioning are being re-calibrated, based on new and updated data obtained from banks. It is proposed to:
+
+• issue the final guidelines on dynamic provisioning framework and its implementation in a phased manner by end-June 2013.
+
+Final Guidelines on Management of Intra-Group Transactions and Exposures
+
+80. The draft guidelines on Management of Intra-Group Transactions and Exposures (ITEs) were issued in August 2012. The draft guidelines prescribed prudential exposure limits on the intra-group exposure of banks along with measures to ensure that banks maintain an arm’s length relationship in their dealings with group entities and meet minimum requirements with respect to group risk management and group-wide oversight. The measures are aimed at ensuring that banks engage in ITEs in a safe and sound manner for containing concentration and contagion risk arising out of ITEs. The comments/feedback on the draft guidelines have been received from various stakeholders and are under examination. It is proposed to:
+
+• issue final guidelines on management of ITEs by end-June 2013.
+
+Prudential Guidelines on Restructuring of Advances by Banks/Financial Institutions
+
+81. It was announced in the SQR that the recommendations of the Working Group (Chairman: Shri B. Mahapatra) to review the existing prudential guidelines on restructuring of advances by banks/financial institutions as also the comments/suggestions received in this regard were under examination and the draft guidelines would be issued by end- January 2013. Accordingly, the draft guidelines were issued on January 31, 2013 for comments till February 28, 2013. Taking into account the comments received, it has been decided to:
+
+• issue the prudential guidelines on restructuring of advances by banks/financial institutions by end-May 2013.
+
+Commercial Real Estate - Residential Housing: Prudential Norms
+
+82. In September 2009, the Reserve Bank had issued guidelines on classification of certain exposures as Commercial Real Estate (CRE) exposures. CRE exposures are sensitive in view of their inherent price volatilities. Therefore, these exposures generally attract higher risk weights and higher provisioning requirements. However, it has been generally observed that the residential housing complex sector under the CRE poses lower risk than the other components of CRE sector. Accordingly, it is proposed to:
+
+• carve out a sub-sector of ‘CRE-Residential Housing’ within the CRE sector with appropriate prudential regulatory norms on risk weights and provisioning.
+
+Detailed guidelines will be issued by end-June 2013.
+
+Guidelines on Reset of Credit Enhancement in Securitisation
+
+83. The Reserve Bank issued draft guidelines on ‘Revisions to the Guidelines on Securitisation Transactions’ in May 2012. The guidelines introduced norms on minimum holding period, minimum retention ratio, loan origination standards and standards of due diligence with regard to securitisation transactions to ensure orderly growth of the Indian securitisation market. While the extant guidelines do not permit reset of credit enhancements during the life of the securities issued by the special purpose vehicle, it was indicated in May 2012 that guidelines on resetting of credit enhancement would be issued separately. Accordingly, it is proposed to:
+
+• issue the final guidelines on reset of credit enhancement in securitisation by end-June 2013.
+
+SLR Holdings under Held to Maturity Category
+
+84. In terms of extant instructions issued in September 2004, banks are permitted to exceed the limit of 25 per cent of total investments under HTM category, provided the excess comprises only of SLR securities and the total SLR securities held in the HTM category is not more than 25 per cent of their demand and time liabilities (DTL) as on the last Friday of the second preceding fortnight. This relaxation was allowed taking into account the requirement of maintenance of SLR of 25 per cent of DTL under Section 24 of the Banking Regulation Act, 1949 at that time. The SLR requirement has since been brought down to 23 per cent of DTL. Accordingly, it is proposed that:
+
+• banks may exceed the present limit of 25 per cent of total investments under the HTM category provided:
+
+(a) the excess comprises only of SLR securities; and
+
+(b) the total SLR securities held in the HTM category is not more than 23 per cent of their DTL as on the last Friday of the second preceding fortnight, i.e., in alignment with the current SLR requirement.
+
+This realignment from 25 per cent to 23 per cent, in line with the recommendations of the Working Group on Government Securities and Interest Rate Derivatives Markets, would be effected by way of reduction of at least 50 bps every quarter, beginning with the quarter ending June 2013.
+
+Detailed guidelines will be issued separately.
+
+Banking Structure in India
+
+85. The guidelines on Licensing of New Banks in the Private Sector issued in February 2013 indicated that the Reserve Bank would prepare a policy discussion paper on the banking structure in India within two months, keeping in view the recommendations of the Committee on Banking Sector Reforms, 1998 (Chairman: Shri M. Narasimham), the Committee on Financial Sector Reforms, 2008 (Chairman: Shri Raghuram Rajan), and other viewpoints. The discussion paper would cover issues such as consolidation of large-sized banks with a view to having a few global banks, desirability and practicality of having small, localised banks as preferred vehicles for financial inclusion, the need for having investment banks through differentiated licensing regime for domestic and foreign banks instead of granting of universal banking licence, policy regarding presence of foreign banks in India, conversion of urban cooperative banks into commercial banks, and periodicity of licensing new banks, whether in blocks or on tap. It is, therefore, proposed to:
+
+• issue the discussion paper on the banking structure in India for comments by end-June 2013.
+
+Provision of Wealth Management Services and Marketing and Distribution of Third Party Financial Products
+
+86. The Reserve Bank recently undertook investigations in the light of reported allegations that certain banks were involved in structuring transactions to aid tax evasion and fraudulent transfer of funds. The investigations revealed the need for better regulatory compliance by banks. It is proposed to issue guidelines which would include, inter alia, the following:
+
+(a) Wealth Management
+
+87. Wealth management services (WMS) generally include referral services, investment advisory services (IAS) and portfolio management services (PMS). In India, banks with well-developed branch network have access to a large customer base. Banks offering wealth management services are exposed to reputational risks on account of mis-selling of products, conflict of interest, lack of knowledge and clarity about products and frauds. It is, therefore, proposed to:
+
+• issue draft guidelines on wealth management services offered by banks by end-June 2013.
+
+(b) Marketing and Distribution of Third Party Financial Products
+
+88. As per extant instructions, banks are allowed to market insurance and mutual fund products as agents of other entities on non-risk participation basis. It has been observed that in some cases, banks did not have clear segregation of duties of marketing personnel from other branch functions, and bank employees were directly receiving incentives from third parties such as insurance, mutual fund and other entities for selling their products. Such practices may lead to mis-selling and distortion of the staff incentive structure. It is, therefore, proposed to advise banks to:
+
+• ensure segregation of the marketing function from the approval/transactional process at bank branches;
+
+• ensure that its employees do not receive cash/non-cash incentives directly from insurance companies, mutual funds and other third party product providers; and
+
+• have a board approved policy to avoid mis-selling and conflict of interest in marketing and distribution of own or third party financial products.
+
+Detailed guidelines will be issued by end-June 2013.
+
+(c) Know Your Customer (KYC) Norms/Anti-Money Laundering (AML) Standards/Combating Financing of Terrorism (CFT)
+
+89. During the investigations referred to above, it was observed that banks are not carrying out customer due diligence as required under KYC/AML/CFT guidelines while marketing and distributing third party products as agents. Some banks are also not filing Cash Transaction Reports (CTRs) or Suspicious Transaction Reports (STRs) in such cases, wherever required. In this context, it is proposed to advise banks to:
+
+• carry out customer due diligence as required under extant KYC/AML/CFT guidelines wherever third party products are sold as agents as a measure of abundant precaution, even though KYC/AML/CFT regulations are also applicable to the principal, i.e., the third party vendor of the products;
+
+• maintain details of third party products sold and related records for a period and in the manner as prescribed in the KYC/AML/CFT guidelines; and
+
+• file CTRs and STRs wherever required, under the extant KYC/AML/CFT guidelines while marketing and distributing third party products as agents.
+
+Detailed guidelines will be issued by end-June 2013.
+
+Frequently Asked Questions on KYC/AML/CFT
+
+90. In order to educate the general public as also banks, the Reserve Bank has been placing on its website Frequently Asked Questions (FAQs) on KYC/AML/CFT. The existing FAQs on KYC/AML/CFT guidelines were placed on the website in May 2011. Since then, a number of new developments have taken place in this area including simplification of KYC norms for further enhancing financial inclusion. With a view to facilitating understanding of KYC/AML/CFT requirements and compliance thereof in a hassle-free manner by banks and the general public for promoting financial inclusion, it is proposed to:
+
+• replace the existing FAQs on KYC/AML/CFT with a comprehensive set of questions and answers by end-June 2013.
+
+Pricing of Retail Loans
+
+91. The Reserve Bank has observed wide variations in the rate of interest charged to retail borrowers by banks even when the loan was sanctioned on the same day. In terms of extant instructions, all categories of loans (with certain specified exemptions) are to be linked to the Base Rate from July 2010. It is expected that the final rate of interest charged to the borrower will include product and customer specific charges and will be reasonable and transparent. However, the very wide variation in rates of interest charged by banks on retail loans to different borrowers on the same day cannot possibly be attributed to customers’ risk profiles. Such a practice may be reflective of opaqueness in the system.
+
+92. Credit management in a bank is essentially an internal management function and banks are expected to prepare a well-defined loan policy approved by their boards, laying down, inter alia, the factors taken into consideration for deciding interest rates. However, keeping in view the findings in this regard, banks are advised to have management oversight on such practicesand also frame policies that ensure pricing of loans, especially retail loans, is transparent, realistic, and related to the risk perception of the borrowers.
+
+Depositor Education and Awareness Fund
+
+93. Pursuant to the enactment of The Banking Laws (Amendment) Act, 2012, Section 26A has been inserted in the Banking Regulation Act, 1949 which, inter alia, empowers the Reserve Bank to establish a Depositor Education and Awareness Fund (DEAF). DEAF will be credited with the amount to the credit of any account in India with a banking company which has not been operated upon for a period of ten years or any deposit or any amount remaining unclaimed for more than ten years within a period of three months from the expiry of ten years. DEAF shall be utilised for promotion of depositors’ interest and for such other purposes considered necessary for the promotion of depositors’ interests as specified by the Reserve Bank from time to time. However, the provisions of Section 26A do not prevent a depositor from claiming his/her deposit or operating his/her account or deposit after the expiry of the period of ten years and the banking company should pay the deposit amount and claim refund of such amount from DEAF. In view of the above, it is proposed to:
+
+• finalise the modalities for setting up of DEAF by end-September 2013.
+
+Dissemination of Credit Information
+
+94. It was stated in the SQR that credit institutions should furnish timely and accurate credit information on their borrowers and make extensive use of available credit information as a part of their credit appraisal processes.
+
+95. Accordingly, a Committee (Chairman: Shri Aditya Puri) consisting of representatives from Credit Information Companies and Credit Institutions has been constituted to examine the available formats for furnishing of credit information by Credit Institutions to the Credit Information Companies in respect of different sectors. The Committee would also suggest best practices for the guidance of Credit Institutions in respect of usage of credit information as a part of their credit appraisal process. The Committee will submit its report by end-September 2013.
+
+Annual Branch Expansion Plan
+
+96. At present, domestic scheduled commercial banks (SCBs) are required to allocate at least 25 per cent of the total number of branches proposed to be opened during a year in unbanked rural (Tier 5 and Tier 6) centres while preparing their Annual Branch Expansion Plan (ABEP). Branch expansion in rural areas is essential to address the existing asymmetries in achieving financial inclusion. To facilitate speedier branch expansion in unbanked rural centres for ensuring seamless roll out of the DBT Scheme of the Government of India, banks are advised to:
+
+• front-load the opening of branches in unbanked rural centres over a 3 year cycle co-terminus with the FIP. Credit will be given for branches opened in unbanked rural centres in excess of 25 per cent in a year which will be carried forward to the subsequent year of the FIP.
+
+Detailed guidelines will be issued by end-June 2013.
+
+Import of Gold
+
+97. The Working Group on Gold (Chairman: Shri K.U.B. Rao) had recommended aligning gold import regulations with the rest of imports with a view to reducing gold imports by creating a level playing field between gold imports and other imports. Currently, banks authorised by the Reserve Bank are permitted to import gold on: (i) consignment basis; (ii) unfixed price basis; and (iii) loan basis. Gold is also imported directly by export oriented units (EOUs) / units in Special Economic Zones (SEZs) in the gems and jewellery sector and nominated agencies / banks using letters of credit (LCs). The bulk of the gold imported by nominated banks is, however, on consignment basis whereby the nominated banks do not have to fund these stocks. With a view to reducing the demand for gold for domestic use, it is proposed to:
+
+• restrict the import of gold on consignment basis by banks only to meet the genuine needs of exporters of gold jewellery.
+
+Detailed guidelines will be issued by end-May 2013.
+
+Lending Against Gold
+
+98. As per extant instructions, banks are currently permitted to grant advances against gold ornaments and other jewellery and against specially minted gold coins sold by banks. However, no advances can be granted by banks for purchase of gold in any form, including primary gold, gold bullion, gold jewellery, gold coins, units of gold exchange traded funds and units of gold mutual funds. While there may not be any objection to grant of advances against specially minted gold coins sold by banks, there is a risk that some of these coins would be weighing much more, thereby circumventing the Reserve Bank’s guidelines regarding restrictions on grant of advance against gold bullion. Accordingly, it is proposed to:
+
+• restrict the facility of advances against the security of gold coins per customer to gold coins weighing up to 50 gms.
+
+Detailed guidelines will be issued by end-May 2013.
+
+Unhedged Foreign Currency Exposure
+
+99. In terms of extant instructions, banks should put in place a proper mechanism to rigorously evaluate the risks arising out of unhedged foreign currency exposure of corporates and price them in the credit risk premium, while also considering stipulating a limit on the unhedged positions of corporates on the basis of banks’ board-approved policy. These measures are of utmost importance since unhedged forex exposures of borrowers is a source of risk not only to them but also to the financing banks and the financial system, especially in times of currency volatility. The above measures need to be strengthened by requiring the corporates to put in place a risk management policy for their unhedged forex exposures. These measures have not yet been adequately put in place. In view of this and in order to address the risks on account of unhedged forex exposure of corporates, it is proposed to:
+
+• increase the risk weight and provisioning requirement on banks’ exposures to corporates on account of the corporates’ unhedged forex exposure positions.
+
+Detailed guidelines will be issued by end-June 2013.
+
+V. Institutional Developments
+
+Non-Banking Financial Companies
+
+Dealing in Gold Loans
+
+100. On February 6, 2013, the Reserve Bank placed on its website the final Report of the Working Group on Gold (Chairman: Shri K.U.B. Rao). The Working Group has made a number of recommendations pertaining to the non-banking financial companies (NBFCs)involved in lending against the collateral of gold. These include loan to value ratio, branch expansion, and review of Fair Practices Code provisions with regard to auction and transparency in loan terms. The recommendations are being examined by the Reserve Bank and it is proposed to:
+
+• issue guidelines to NBFCs by end-May 2013.
+
+Sharing of Information Technology Resources by Banks
+
+101. With increased use of information technology (IT) infrastructure by banks, there is a need to examine the issue of shared IT resources in order to optimise costs while maintaining the desired levels of efficiency and security. The feasibility of such shared resources by the banking sector needs to be explored wherever possible, taking into account security issues, data integrity and confidentiality. After making an assessment of various issues, it is proposed to advise banks in this regard by end-August 2013.
+
+Business Continuity Plan, Vulnerability Assessment and Penetration Testing of Information Systems by banks
+
+102. As stated in the Monetary Policy Statement of April 2012, banks were advised to put in place appropriate Information Security (IS) framework and IT governance structures to enable, inter alia, better alignment between IT and business. In order for banks to secure their ISs, ensure their continuity, and check their robustness, they are required to put in place appropriate business continuity plans (BCPs) and test them periodically. These ISs should be subjected to vulnerability assessment and penetration testing. Policies governing the above need to be approved at the board level. Suitable guidelines in this regard will be issued to banks by end-June 2013.
+
+Payment and Settlement Systems
+
+White Label Point of Sale
+
+103. In order to increase the reach of Point of Sale (POS) infrastructure to rural areas and promote electronic payments, it is proposed to:
+
+• prepare a discussion paper on White Label POS and place it in the public domain for comments.
+
+Expansion of Payment Infrastructure
+
+104. In order to achieve a truly inter-operable and integrated payment system, it is necessary that the payment systems operated by non-banks are also connected to existing inter-bank card payment systems as envisaged in the document entitled ‘Payment Systems in India: Vision 2012-15’. Accordingly, it is proposed to:
+
+• issue draft guidelines/access policy for allowing non-bank authorised entities to be part of the payment system infrastructure.
+
+Concentration Risk in Payment System Infrastructure
+
+105. Exclusivity or near monopolistic positions of any one or two stakeholders in the payment space is seen as a risk which needs to be addressed. This was highlighted in the ‘Payment Systems in India: Vision 2012-15’. Accordingly, it is proposed to:
+
+• prepare a discussion paper examining the measures to be taken to mitigate and eliminate concentration risk in payment system infrastructure.
+
+Alternate Payments: Committee for Implementation of GIRO Based Payment System
+
+106. Following the announcement in the SQR, a Committee for Implementation of GIRO based Payment System (Chairman: Shri G. Padmanabhan) was constituted in January 2013. The Committee has submitted its report on April 29, 2013. The report is under examination.
+
+Uniform Routing Code and Account Number Structure
+
+107. As announced in the SQR, a Technical Committee (Chairman: Shri Vijay Chugh) comprising various stakeholders was constituted to examine the feasibility of a uniform routing code and uniform account number across banks. The Committee has since submitted its report and its recommendations are being examined by the Reserve Bank.
+
+Working Group to Study Feasibility of Aadhaar as Additional Factor of Authentication for Card Present Transactions
+
+108. Following one of the recommendations of the Working Group on securing card present transactions (Chairperson: Ms. Gowri Mukherjee), a Working Group (Chairman: Shri Pulak Kumar Sinha) has been constituted in March 2013 to study the feasibility of Aadhaar as an additional factor for authentication of card present transactions and other related issues. The Working Group is expected to submit its report by end-June 2013.
+
+Currency Management
+
+Distribution of Banknotes and Coins – Review of Incentives and Penalties
+
+109. In pursuance of the announcement made in the Monetary Policy Statement of April 2012, a roadmap for making available services relating to distribution of banknotes and coins to members of the public by identified branches of banks for improved customer service is being worked out.
+
+Detailed guidelines are being issued by end-June 2013.
+
+Distribution of Banknotes and Coins – Alternative Avenues
+
+110. With a view to effectively meeting the growing demand for banknotes and coins in the country, there is a need for identification of alternative avenues for their distribution by banks. For this purpose, banks may explore the possibility of offering these services through Business Correspondents (BC) and consider engaging the services of Cash in Transit (CIT) entities for the purpose of distribution of banknotes and coins, thereby addressing the last mile connectivity issues.
+Detailed guidelines will be issued by end-June 2013.
+
+Improving Currency Distribution in Districts – Identification of Lead Banks
+
+111. With a view to ensuring that banks have a more pronounced stake in the distribution of banknotes and coins and also to facilitate their uninterrupted supply in places other than metropolitan and urban centres, it is proposed to formulate a scheme on the lines of the Lead Bank Scheme and to allot specific areas (districts/States) to individual banks. The identified Lead Bank will be responsible for ensuring that the genuine needs of people for clean notes and coins are appropriately met through proper coordination with the Currency Chests and Small Coin Depots situated in that area.
+
+Detailed guidelines will be issued by end-June 2013.
+
+Detection and Reporting of Counterfeit Banknotes
+
+112. The Department-related Parliament Standing Committee (DPSC) on Ministry of Home Affairs in its 161st Report has recommended that efforts by the Reserve Bank to constantly upgrade security features in high value currency notes and strengthen mechanisms for detection of counterfeit notes should be made more effective in eradicating the menace of counterfeit notes.
+
+113. While incorporating new security features/new designs in the banknotes to stay ahead of counterfeiters is an ongoing process, the process of incorporation of better and improved security features has since been initiated by the Government of India in consultation with the Reserve Bank and other stakeholders.
+
+114. Furthermore, as a step towards strengthening the mechanism for detection of counterfeit notes, the Reserve Bank has advised banks in May 2012 to re-align their cash management to ensure that cash receipts in denomination of ₹100 and above are not put into re-circulation without being machine-processed for authenticity. Banks were also advised in November 2012 that wherever counterfeit notes are detected but not impounded and reported, it will be construed as wilful involvement of the bank concerned in circulating counterfeit notes and may attract penal measures.
+
+115. In view of the recommendation of the DPSC for addressing the menace of counterfeit notes, it has now been decided that in order to encourage banks to report counterfeit notes detected by them, a scheme of incentives for banks will be introduced. Simultaneously, the existing penalty for non-detection and non-reporting of counterfeit notes by banks is being revisited.
+
+Detailed guidelines will be issued by end-June 2013.
+
+Second Quarter Review
+
+116. The next review of the developmental and regulatory policies will be undertaken as part of the Second Quarter Review of Monetary Policy on Tuesday, October 29, 2013.

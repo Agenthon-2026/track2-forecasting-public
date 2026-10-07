@@ -1,0 +1,179 @@
+Fabio Panetta: A digital euro that serves the needs of the public - striking the right balance
+2022-03-30
+
+Speech
+
+## A digital euro that serves the needs of the public: striking the right balance
+
+## Introductory statement by Fabio Panetta, Member of the Executive Board of the ECB, at the Committee on Economic and Monetary Affairs of the European Parliament
+
+Brussels, 30 March 2022
+
+Thank you for inviting me to update you on the digital euro project and the progress made since we last met in November.
+
+We have previously discussed the broad policy objectives associated with a digital euro. [ ] Today, I would first like to highlight some important features which, by making a digital euro attractive to citizens and merchants alike, would help us to achieve these objectives. 1
+
+I will do so by discussing the findings of the focus groups we held - which we are publishing today on the occasion of this hearing [ ] - and our analysis of 'use cases' for the digital euro. In the jargon of payments, this term refers to the payment segments that a digital euro could serve. 2
+
+I will then present our preliminary findings on how to reconcile the right to confidentiality with the public interest in countering illegal activities, continuing the discussion we had a year ago. [ ] 3
+
+## Meeting the payment needs of Europeans today and tomorrow
+
+The primary aim of a digital euro is to maintain the accessibility and usability of central bank money in an increasingly digitalised economy. But for a digital euro to fulfil this role, people need to be able and willing to use it.
+
+From the outset, I have stressed that a digital euro can only be successful if it meets the payment needs of Europeans today and in the future.
+
+The findings of our focus groups provide valuable input here, though we are mindful of the natural limitations of qualitative analyses of this kind. [ ] 4
+
+The focus groups suggested that people see the ability to 'pay anywhere' as the most important feature of a new digital payment instrument. This emerged in all countries and age groups. It means that, ideally, all merchants across the euro area - both in physical stores and online - would need to accept a digital euro. 20 years ago, the introduction of euro banknotes made it possible for us to pay with physical euros anywhere in the euro area. So it is no surprise that people expect to be able to use the digital complement to banknotes wherever they can pay digitally or online.
+
+Instant, easy, contactless payments, especially for person-to-person payments, were the second-most valued feature. Cash has so far remained dominant in person-to-person payments. And we will ensure that people continue to have access to cash. But the focus groups confirm previous findings: preferences are shifting towards digital payments. [ ] The experience of countries both inside [ ] and outside [ ] the euro area shows that contactless person-to-person payments may grow very rapidly when convenient digital solutions become available. 5 6 7
+
+Participants in the focus groups would like to see a solution that would allow instant person-to-person payments regardless of the platform used by the payers and payees. Today, making mobile payments to friends at the click of a button - for example when splitting bills in restaurants or collecting money for a gift - is often easiest when everyone is using the same app. Participants therefore envisaged a one-stop solution that would reduce the need for multiple cards, devices and identification methods and give them access to a range of payment options on a single device.
+
+Our focus groups also confirmed what I called 'rational inattention' during our exchange in November.
+
+[ ] People tend not to pay attention to - or understand - the difference between the digital euro and the euros they already spend using private digital means of payment. For the financial system to work smoothly, public money and commercial bank money are meant to be fully interchangeable yet distinguishable. People do not think twice about storing and using their money via private intermediaries because they know they can regularly go to the cash machine and withdraw banknotes without any problems. This provides tangible proof that their money in the bank is safe. Convertibility with central bank money on a one-to-one basis therefore anchors people's confidence in private money, supporting its wide acceptance. [ ] 8 9
+
+The findings from focus groups were also used to validate our selection of possible use cases of a digital euro. [ ] We identified them by looking both at our policy objectives and at the importance of different market segments. 10
+
+Physical stores are the most important market segment for digital payments, accounting for more than 40 billion transactions in the euro area in 2019. [ ] E-commerce payments are less numerous but are expected to continue to grow rapidly in the coming years. [ ] These segments are served by a multitude of payment solutions, often with only domestic reach. So far, they have been dominated by non-European providers and technologies. [ ] 11 12 13
+
+Given their importance now and in the future, payments in e-commerce and physical stores, as well as person-to-person payments, are natural candidates to be prioritised among the possible use cases of a digital euro. The digital euro could also be used for payments between governments and individuals, for example to pay out public welfare allowances or to pay taxes. [ ] 14
+
+If a digital euro offered these payment options, we would achieve network effects, continue to ensure public access and full usability of central bank money for digital payments, and help to address sovereignty concerns. In the next steps of our investigation phase, we will therefore focus on assessing the actual feasibility of these use cases.
+
+But we will leave the door open to the inclusion of other use cases in the future. We are monitoring emerging trends such as machine-to-machine payments. [ ] And we are looking into solutions to respond to these trends in future releases of a digital euro. [ ] 15 16
+
+In the coming months, and building on the findings of the focus groups, we will carefully investigate how to design an attractive digital euro product that responds to the expectations of payers and payees alike.
+
+Co-legislators have a key role to play. For instance, the ability to pay with digital euro anywhere could be fostered by giving it legal tender status. We are thoroughly and carefully analysing this issue together with the European Commission. We stand ready to discuss the matter further with you, also on the basis of the outcome of the upcoming consultation on digital euro the Commission has recently announced.
+
+## The trade-offs between privacy and other EU policy objectives
+
+The legal framework will also be key when it comes to privacy, which is one of the most important design features of a digital euro. [ ] 17
+
+The public consultation we conducted between October 2020 and January 2021 indicated that protecting privacy is key, so that the digital euro helps to maintain trust in payments in the digital age. [ ] Focus group participants also said they would appreciate options that give them control over their personal data. 18
+
+It is not surprising that people expect payments in digital euro to guarantee high privacy standards. As payments go digital, private companies are increasingly monetising payment data.
+
+We already provide cash, the payment instrument with the highest level of privacy. We are committed, as a public institution, to retain people's trust in this area if a digital euro is issued.
+
+At the same time, we need to assess privacy in the context of other EU policy objectives, such as antimoney laundering (AML) and combating the financing of terrorism (CFT). Concerns about regulations being circumvented, including to bypass international sanctions, have become even more prominent recently, notably in relation to crypto-assets.
+
+Over the past few months we have investigated various options to address the trade-off between retaining a high degree of privacy and other important public policy objectives. [ ] 19
+
+Full anonymity is not a viable option from a public policy perspective. It would raise concerns about the digital euro potentially being used for illicit purposes. [ ] In addition, it would make it virtually impossible to limit the use of the digital euro as a form of investment, but this limitation is essential from a financial stability perspective. [ ] 20 21
+
+This means that users would need to identify themselves when they start using the digital euro. [ ] Supervised intermediaries - which are the natural candidates for distributing a digital euro - are best placed to manage this onboarding process. [ ] 22 23
+
+Moving beyond onboarding, our analysis suggests that digital euro transaction data should not be visible to the Eurosystem - or any other central entity - beyond what is strictly needed to perform its functions. [ ] 24
+
+In a baseline scenario, a digital euro would provide people with a level of privacy equal to or higher than that of private digital solutions. Under this set-up, personal and transaction data [ ] would only be accessible to intermediaries to ensure compliance with AML/CFT requirements and relevant provisions under EU law. [ ] 25 26
+
+We have also been exploring options to go beyond this baseline and provide greater privacy, should the co-legislators decide in favour of this approach. This could allow the digital euro to replicate some cash-like features and enable greater privacy for lower-value payments, which are usually low risk in terms of money laundering, terrorism financing and violations of relevant EU law.
+
+Consider paying 'offline' in digital euro in a shop, with payer and payee in close proximity to each other. This would be very similar to making a cash payment. Should different standards apply for these two payments, even if the risk profiles are similar? Take the example of a chip that can store up to €200 in digital euro - the risk that it is used for money laundering purposes hardly seems higher than for a physical €200 banknote, especially if the chip requires biometric authentication before you can use it.
+
+We are therefore exploring an offline functionality whereby holdings, balances and transaction amounts would not be known to anyone but the user. To contain the risks, these balances and private offline payments would have an upper limit.
+
+In general, a greater degree of privacy could be considered for lower-value online and offline payments. These payments could be subject to simplified AML/CFT checks, while higher-value transactions would remain subject to the standard controls. [ ] 27
+
+If greater privacy were to be enabled for lower-value payments in digital euro, it should apply to transactions anywhere in the euro area. This would require a harmonised framework for simplified checks, as foreseen in the European Commission's AML/CFT package from July 2021. [ ] 28
+
+The Eurosystem High-Level Task Force that I chair is exploring the technical and regulatory aspects, in close cooperation with the European Commission and the European data protection authorities. [ ] But there are important political choices to be made, which makes our dialogue with you crucial. 29
+
+## Conclusion
+
+Let me conclude.
+
+We are building a broad consensus around the policy objectives for a digital euro through our interactions with stakeholders, political authorities and other major central banks. But just recognising the political need for a digital euro will not by itself guarantee sufficient usage.
+
+Step by step, we are getting a clearer picture of what citizens and merchants want, so we can finetune all the design features of a digital euro before any potential issuance. And co-legislators have a key role to play, for instance to enable greater privacy.
+
+We do not want to be 'too successful' and crowd out private payment solutions and financial intermediation. But the digital euro should be 'successful enough' and generate sufficient demand by adding value for users.
+
+We already have an idea of the views of the prospective users of a digital euro thanks to our discussions with focus groups. Towards the end of the year we will conduct another round of focus groups, this time giving participants a better idea of the envisaged user experience to gather their feedback.
+
+We will also step up our dialogue with stakeholders in the coming weeks and months, listening to prospective users like consumer groups, small and medium-sized enterprises, retailers and large corporations, as well as to banks and payment service providers. We will also continue to interact with academia and think tanks.
+
+We stand ready to discuss these consultations with you at future hearings. The alignment of European authorities and institutions, mindful of their respective mandates and independence, will be key if a digital euro is to be accepted.
+
+I now look forward to our discussion.
+
+1. Panetta, F. (2021), ' ', Designing a digital euro for the retail payments landscape of tomorrow
+
+introductory remarks at the ECON Committee of the European Parliament, 18 November.
+
+2. , Report March 2022 Study on New Digital Payment Methods
+3. See the to Ms Irene Tinagli MEP available on the ECB's website. letter
+4. The qualitative research was conducted by an external company in all euro area countries. To ensure the robustness of the research and to obtain a comprehensive overview of perceptions and attitudes on the topic, a carefully selected range of target audiences were interviewed across all 19 euro area countries. These included 2,160 members of the general public, 142 tech-savvy participants, 138 merchants and retailers, and 89 individuals with limited access to banking services or the internet, all of whom were interviewed using a tailored qualitative design per target group. At the same, given the qualitative nature of the research, no conclusions can be drawn with regard to the representativeness of these results for the population of the euro area.The aim of the focus groups was to explore the user perspective on new digital payment methods and potential key features which could drive the adoption of a new digital means of payment. Participants were not immediately presented with the concept of a digital euro for multiple reasons, including the complexity of the concept of central bank digital currencies in general and the concept of the digital euro specifically. Instead, the idea of a new 'digital wallet' was introduced to encourage discussions about possible desirable features and functionalities of a new digital payment method in comparison with those already on the market. The digital euro was introduced towards the end of the discussion to explore
+
+the existing level of knowledge and understanding among respondents as well as their perception of a digital euro being backed by the ECB/Eurosystem.
+
+5. ECB (2020), , December . Study on the payment attitudes of consumers in the euro area (SPACE)
+6. In 2019 Dutch consumers made 54% of their transactions with relatives, friends, colleagues and other acquaintances in cash and 45% electronically. Between 2018 and 2019, the share of cash fell by 5 percentage points, whereas that of electronic money transfers increased by 7 percentage points.
+
+See De Nederlandsche Bank (2020), ' ', 20 April. Shift of cash to debit card continues
+
+7. In Sweden, the successful introduction and rapid growth of Swish resulted in a sharp decline in the use of cash. See Sveriges Riksbank (2020), ' ', 29 October. Cash is losing ground
+8. Panetta, F. (2021), op. cit.
+9. Panetta, F. (2021), ' ', speech at the Elcano Royal Institute, Madrid, 5 November. Central bank digital currencies: a monetary anchor for digital innovation
+10. A digital euro use case describes a payment segment that a digital euro could serve. For instance, a digital euro could be used by individuals to pay another individual (person to person), to pay eretailers for online purchases (e-commerce) or for purchases made in a physical shop (point of sale).
+
+A digital euro could also be used by businesses to pay an individual (business to person) or to pay another company (business to business). Finally, a digital euro could be used for payments to/by the government (e.g. to pay tax or receive welfare payments) or for machine-initiated payments (e.g. to make fully automated payments initiated by a device or software based on predetermined conditions).
+
+11. ECB (2020), op. cit .
+12. Figures from indicate that the adoption of e-commerce doubled in the euro area between 2015 and 2021. In terms of population reach, 73% of the EU population indicated that they had 'bought online or ordered' 'goods or services' for private use in the previous 12 months, compared with 62% in 2015. Looking at developments across countries, growth rates in e-commerce tend to be inversely correlated with e-commerce penetration. Compared with the United States (20%) and the United Kingdom (24%), e-commerce penetration is still relatively low in key European markets such as Spain (9%), France (9%) and Germany (14%), which suggests there is potential for continued growth. See, for example, McKinsey &amp; Company (2021), ' ', 5 March. Eurostat How e-commerce share of retail soared across the globe: A look at eight countries
+13. Non-European payment providers handle around 70% of European card payment transactions. See ECB (2019), , April . Furthermore, international e-payment solutions are gaining traction. Card payments in Europe
+14. Public payments would allow direct digital payment of government subsidies and allowances to citizens that have no access to bank accounts, which could provide added value compared with existing solutions in the market.
+15. Machine-to-machine payments are automated payments between machines. For example, autonomous vehicles, such as cars or trucks, or other industrial machines could pay for their own energy, maintenance and insurance and accept payments for their services.
+16. Design features like privacy, programmability or an offline functionality could apply to multiple use cases.
+17. Panetta, F. (2021), ' ', introductory remarks at the ECON Committee of the European Parliament, 14 April. A digital euro to meet the expectations of Europeans
+18. About 43% of respondents to the conducted by the ECB from 12 October 2020 to 12 January 2021 ranked privacy as the most important aspect of a digital euro, well ahead of other features. public consultation
+19. From a user perspective, different privacy options could be envisaged. Full anonymity would mean the identity of users is unknown when they access services, with no 'know your customer' (KYC) or customer due diligence (CDD) checks. Payments that would be fully transparent to the central bank would involve KYC checks during onboarding, and all transaction data and user profiling data would be fully transparent to the central bank. Payments that are non-transparent to third parties would also involve KYC checks during onboarding, but balances and transaction amounts would not be known to intermediaries or the central bank. Payments that are transparent to intermediaries would involve KYC checks during onboarding, and transaction data and user profiling data would be transparent to the intermediary for AML/CFT purposes. Selective privacy would involve KYC checks during onboarding, but there would be a higher degree of privacy for low-value transactions, while large-value transactions would remain subject to standard CDD checks. proposed by the European Commission in July 2021 extends the ban on
+20. The anonymous accounts to wallets, in line with the international standards of the Financial Action Task Force. This means that intermediaries of a digital euro will be prohibited from hosting anonymous accounts and/or wallets. AML/CFT package
+21. Panetta, F. (2021), ' ', speech at a Bruegel online seminar, 10 February. Evolution or revolution? The impact of a digital euro on the financial system
+22. The KYC and CDD checks currently in place include processes to determine a customer's status, such as their political exposure, source of funds, appearance on sanction lists, etc. Users will need to go through the onboarding process when first starting to use a digital euro. One possibility could be to provide different types of accounts/wallets where the transaction amounts could be limited in proportion to KYC/CDD measures - similar to the risk-based approach taken by some other central banks.
+23. ECB (2020), , October. Report on a digital euro
+24. The Eurosystem would only access the minimum information required, for example for performing the settlement function (i.e. validating payments if performed by the Eurosystem), or for other central
+
+bank functions, such as supervisory and oversight tasks.
+
+25. Personal data are understood as any information that relates to an individual who can be identified (e.g. name, physical and email addresses and location information). Transaction data include any information related to a specific payment, which includes payer's wallet/account number, transaction counterparty, transaction amount, date/time/location of the transaction, and information about goods/services purchased (including billing or shipping address).
+26. In particular, the requirements set out in the and the . General Data Protection Regulation Payment Services (PSD 2) Directive
+27. Larger-value transactions would still be subject to standard CDD checks and it would be important to ensure that larger payments are not split into many smaller ones to circumvent checks.
+28. The AML package proposes harmonising AML/CFT requirements, including CDD checks, across the EU. This would ensure a level playing field for CDD checks that could also benefit the digital euro.
+5. The package also proposes defining new harmonised conditions for simplified due diligence by means of a regulatory technical standard to be prepared by the future EU AML authority. Where lower risks are identified, simplified due diligence could potentially be applied, in certain circumstances, to certain digital euro transactions.
+
+29. ECB (2021), ' ', MIP News , 19 January. ECB intensifies technical work on digital euro with the European Commission
+
+## You may also be interested in:
+
+ECB publishes report on payment preferences as part of digital euro investigation phase
+
+##  View page
+
+Study on New Digital Payment Methods
+
+-  Download PDF
+
+## CONTACT
+
+## European Central Bank
+
+Copyright 2022, European Central Bank
+
+## Directorate General Communications
+
+Reproduction is permitted provided that the source is acknowledged.
+
+- Sonnemannstrasse 20 
+
+- 60314 Frankfurt am Main, Germany 
+
+-  +49 69 1344 7455
+
+-  media@ecb.europa.eu
+
+## Media contacts

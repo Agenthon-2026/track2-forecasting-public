@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-easing-duration-2003"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "Federal Reserve"
 path           = "text/"
 cutoff         = "2003-08-12"
 cutoff_checked = true
-doc_types      = ["fomc_statement"]
-n_documents    = 5
+doc_types      = ["cb_speech", "fomc_statement"]
+n_documents    = 7
 notes          = "Statements through the as-of day; the newest one adds language committing to keep accommodation in place for an extended, unspecified time, following a sharp long-end reversal already visible in the price data. Front end pinned by guidance; the long end is the question."
 
 [targets]

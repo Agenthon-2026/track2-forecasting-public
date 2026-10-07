@@ -1,0 +1,92 @@
+Sabine Lautenschläger: 20 years of ESCB statistics - past achievements and future challenges
+2018-07-10
+
+## Sabine Lautenschläger: 20 years of ESCB statistics -past achievements and future challenges
+
+Speech by Ms Sabine Lautenschläger, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the Ninth ECB Statistics Conference "20 years of ESCB statistics: What's next", Frankfurt am Main, 10 July 2018.
+
+* * *
+
+## Ladies and gentlemen,
+
+I believe the words of the late US politician Daniel Moynihan are a good starting point tonight. He famously said, 'Everyone is entitled to their own opinion, but not their own facts'. I would add that the best opinions are certainly rooted in facts. And, since we seem to have entered the age of 'alternative facts', I have been reflecting on what real facts are, and how to defend them.
+
+And it's not just the age of 'alternative facts'; it's also the age of 'fake news'. Still, neither of these concepts is entirely new. For as long as there has been public discourse, people have been tempted to propagate their own take on reality. And not all of them have been able to resist this temptation. But still, something has changed. T oday, Twitter and other tools allow almost anyone to communicate with the general public. And fake news is most successful in creating alternative facts when people stop trusting traditional sources of information.
+
+This is what's happening right now, all around us. Traditional media have come under attack. Some people place as much trust in an anonymous tweet or Facebook post as they do in an article in the Financial Times, Le Monde or El País. Some people see 'fake news' as real news and 'alternative facts' as a solid basis for taking decisions.
+
+So, can data and statistics help to counter 'alternative facts' and 'fake news'? Can they help to build a more solid base for making decisions?
+
+Well, over the years, it has become somewhat fashionable to doubt the ability of statistics to shed light on the facts, on the truth. I am sure that every statistician in the room has been told more than once that 'there are three kinds of lies: lies, damn lies and statistics'. Ironically, the quote has been attributed to so many different people that its true source is unknown. So tonight, I think we should focus on how we can defend statistics and good data as a source of facts.
+
+One of the key questions is how we can engage with those who doubt us. In my view, there are two things we need to do.
+
+The first is to admit that real-world statistics have their limits, and to be transparent about how and when we use judgement. The second is to ensure that we, as institutions and as individual experts, earn people's trust. Statistics is a discipline that is certainly aware of its own limits: it not only acknowledges uncertainty, it quantifies it! But we must also admit that there is not just scope, but also a need, to apply judgement when producing good data and statistics. And trust plays a key role here. People can trust the ECB and the national central banks to apply expert judgement when it is needed.
+
+In my speech today, I will focus on key ingredients that have been crucial in building up the ECB's good reputation over the past 20 years. The first is to have good data and to use them well when taking decisions. The second is to ensure good cooperation. The third is to keep pace with changing times.
+
+## Good data for good decisions
+
+I am aware that the need for good data may seem self-explanatory, especially for an audience of statisticians. But that doesn't make it less important, particularly in the case of the ECB. The stakes are extremely high: whether for monetary policy or banking supervision, our decisions impact the lives of over 340 million people. This gives the data we use, and the analysis we carry out, enormous importance.
+
+Our data need to be reliable and our statistics sound. Only then will they be able to form the basis for good decisions. But not all data are created equal. Even well-collected data may fall short of answering the burning questions of our experts. With the 2008 crisis, for example, we learned the hard way why better and more granular data are necessary. Aggregate data provided us with the big picture of the euro area economy and its financial markets. But the big picture was too blurry. And, at times, it was downright misleading.
+
+Money markets were a good example. After all, money markets are where the transmission of monetary policy starts. Prior to the crisis, the ECB collected microdata on these markets through the Euro Money Market Survey, the EMMS for short. This survey shed light on what was happening in the money markets during the crisis. For example, in unsecured markets, we could see that euro area banks were taking fewer counterparty risks with banks from other euro area countries.
+
+But our vision was limited. First, we didn't collect direct information on market rates, so we didn't know how much each market participant was paying for liquidity. If we had had a full picture of the dispersion of rates, we would have had less need to read between the lines. Second, we only published the EMMS annually, which seriously limited the potential for research and analysis. Research on a crisis that was developing by the hour could not be based on data published once a year.
+
+But we understood the shortcomings of the data and got to work. In 2016, we started to collect money market statistical reporting, or MMSR, data. The MMSR data include trade-by-trade granular data on four market segments. This means we receive full information on each trade the maturity date, the rate, the counterparty, the collateral and more. Data on the unsecured market segment are published every six to eight weeks. With this project the ECB took an important step towards the future, becoming a collector of 'big data'. But, of course, we didn't do this on our own.
+
+## A tale of cooperation
+
+Cooperation is often mentioned at conferences like this one. But in the field of statistics, it is simply a reality that you won't get very far if you don't cooperate with others. Projects such as the MMSR would never have come into being without good cooperation. In fact, the genesis of the MMSR involved the central banks of four countries - Germany, France, Italy and Spain - and the ECB. And of course, these institutions needed to cooperate with reporting banks. And cooperation happens not only between institutions, but also within institutions: the constant feedback loop between departments using the data and those preparing them leads to highquality results.
+
+But smooth cooperation has helped us from the start. It allowed the Eurosystem to achieve its objectives from day one, 20 years ago. Thanks to a joint effort by the entire Eurosystem, we had a set of harmonised euro area statistics from the very beginning of the ECB's existence. And some 16 years later, when European banking supervision came into being, the Directorate General Statistics was able to provide the supervisory data we needed right from the start thanks to another joint effort.
+
+Indeed, as the ECB's functions have expanded, statistics have had to follow. And of course, as we have found ourselves needing more data to do our job, banks have found themselves having to report not only more data, but also more granular data. We try at all times to be mindful of the
+
+reporting burden that banks have to bear. Regular merit and cost procedures are applied to new data collections. More recently, we have started to hold public consultations on proposed new statistical reporting requirements. This will help to ensure all stakeholders have the chance to express their views.
+
+Cooperation also helps us to make reporting more efficient, which in turn reduces the burden on banks. And here, we have worked on two fronts. With the ESCB Integrated Reporting Framework, we aim to aggregate and harmonise banks' reporting requirements. With the Banks' Integrated Reporting Dictionary, the BIRD, we support banks in organising their data with a view to reporting it more efficiently. T owards this end, experts from national central banks work with experts from commercial banks to define the data and data transformations needed to comply with the reporting requirements for AnaCredit and the Securities Holdings Statistics. So, banks that choose to participate are being helped to do a job they would otherwise have had to do on their own.
+
+Cooperation with institutions beyond the ESCB has also been vital. The members of the ESCB and the European Statistical System partnership have worked closely to ensure the production of complete and coherent European statistics. We - central banks and statistical institutes - have been doing this with remarkable results in the Committee for Monetary, Financial and Balance of Payments Statistics since 1991. And since 2013, we also meet in the European Statistical Forum to discuss topics of strategic cooperation with the heads of national statistical institutes.
+
+## Keeping pace
+
+It's clear that cooperation is key to getting our job done. But these days, a job well done requires much more than it used to. Central banks need to keep pace with a world that is changing at an ever-faster pace. How do we do that? How do we keep pace? Well, for one thing, we need to be open to new ways of doing things.
+
+On this front, I am sure the two words on everyone's minds are 'big' and 'data'. It's true that we central bankers have not exactly been at the forefront of the big data revolution. After all, we are a bit cautious by nature. And we know that big data means different things to different people; and we know that we cannot yet say with certainty which big data applications will be truly useful
+
+Big data are quite different from traditional, structured data. So we have much to learn and many challenges to tackle. Collecting the data is only where the challenges start. We also need to adapt verification processes to ensure that the data are of high quality. And this is where big data already pay off, indirectly at least. Big data has brought us tools and techniques that can be applied to rapidly process large sets of traditional data too.
+
+This makes it much easier for us to realise projects like MMSR and AnaCredit and helps us to keep pace with an ever-changing world. AnaCredit, for instance, involves immense sets of extremely granular data, reflecting the far greater complexity and interconnectedness of today's economy. To understand this complexity and assess the interconnections, we need a very detailed view. And this is exactly what AnaCredit gives us. Thanks to the granular data it provides, we will be better able to understand what is driving credit growth, making it easier to know whether such growth is healthy or not.
+
+MMSR, on the other hand, is about speed: money markets move fast and never stop. So taking a snapshot every now and then does not suffice. We need much faster data, and that's what MMSR provides. It allows us to constantly assess who lends how much money to whom in the money market and at what rates. This gives us a very clear and quick picture of how the market is structured, how exposed players are to one another and how vulnerable they are.
+
+And MMSR helps us to keep pace in other ways too. Look at the important role benchmark rates play. They provide anchors for contracts in financial markets and are important for the
+
+transmission of monetary policy. The ECB thus decided to develop a benchmark rate: a new daily euro short-term rate, also known as ESTER. This rate will complement existing rates by the private sector and serve as a backstop to them. The ECB will start publishing ESTER by October 2019. This project will entail significant challenges. Every working day, we will need to produce a reliable rate, based on individual transactions. This will need to happen within a very narrow time frame, while ensuring full quality control.
+
+## Leadership
+
+Ladies and gentlemen, I have talked a lot about past achievements and future challenges. And I have talked about the need to work together as a team. But, of course, all good teams need good leaders. And speaking of good leaders brings me to Aurel Schubert. As Aurel is due to retire soon, I would like to take the opportunity tonight to say a few words about what he has done for this institution.
+
+For eight years now, he has steered the ECB statistics ship with great competence. Aurel has made invaluable contributions to some of our most ambitious projects: the granular Securities Holdings Statistics, the MMSR and Anacredit. Thanks to his leadership, supervisory statistics were available from the start of European banking supervision. He helped amend our statistical legal framework to align it with international standards.
+
+But, of course, his career started long before he became Director General of Statistics. He has worked in the field since 1997. Over these past 21 years, he has participated in 90 meetings of the Statistics Committee and chaired 34 of them. He has also been a Vice-Chair of the Irving Fisher Committee, a Co-Chair of the European Statistical Forum, and Chair of the ESRB contact group on data.
+
+All these achievements are facts, of course. And they show that Aurel knows his subject, thinks strategically and masters the politics. These are all important aspects of being a good leader.
+
+But they are not the only things that are important. A leader cannot act alone; they rely on other people. And Aurel is an outstanding people manager. I think he can teach us all a thing or two when it comes to forming a team, keeping people motivated, managing change and, most important of all, creating an atmosphere of trust and mutual respect. In that sense, I see him as a role model. Aurel, I thank you very much.
+
+## Conclusion
+
+Ladies and gentlemen,
+
+In my speech tonight, I have reminded you of some of your many achievements, both recent and past.
+
+But what matters most is not the next big project or the latest database. What matters most are the high professional standards which you have all maintained in your work. And, if we want to keep fighting alternative facts with real facts and fake news with real news, you must continue on this path with the same conviction as you started out with in 1998.
+
+And now let me conclude with a fact of life that is all too true: dinner speeches are always too long. There is no way to spin this any other way.
+
+So thank you for all your good work, and thank you for your attention.

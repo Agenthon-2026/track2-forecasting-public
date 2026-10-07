@@ -1,0 +1,101 @@
+Michelle W Bowman: Technology, innovation and financial services
+2022-08-17
+
+## Michelle W Bowman: Technology, innovation and financial services
+
+Speech by Ms Michelle W Bowman, Member of the Board of Governors of the Federal Reserve System, at the VenCent Fintech Conference, Little Rock, Arkansas, 17 August 2022.
+
+* * *
+
+Thank you, Commissioner Marshall, for the invitation to speak to you today. It's really a pleasure to be here, finally in person at the Venture Center. Much has happened over the past few years, and I have been following your work closely. 1
+
+## Technology Is Changing Financial Services
+
+Technology and innovation are a priority interest for my work at the Board of Governors. Technology can offer increased speed, lower costs, and greater efficiency in providing services and products in the financial industry. This week's conference agenda includes many of the topics I follow closely through our work on innovation.
+
+Much of the innovation in financial services is occurring in the nonbank sector, but technology is also changing the business of banking in profound ways. More and more customers interact with their banks exclusively through digital channels. They check their balances, apply for credit cards, and make deposits and payments via their phones, rather than visiting bank branches.
+
+But the changes run deeper than that. Technology is also changing fundamental aspects of bank operations. For example, banks are beginning to use artificial intelligence (AI) in credit underwriting, back-office operations, various aspects of risk management, and customer service.
+
+Technology is also leading to new bank business models. Many banks are using application programming interfaces and other technology to allow nonbank technology firms to provide financial services. Under many of these arrangements, the technology firm maintains the customer relationship, while the bank provides the underlying financial infrastructure, including deposit services and access to the payment rails.
+
+## Federal Reserve Support for Innovation
+
+The Federal Reserve is monitoring these transformations closely, and we are encouraged by the potential for improvements that can be brought by responsible innovation.
+
+I think it is critically important for banking regulators to support innovation in banking. Traditionally, banking regulators may have viewed banking innovation solely as a risk on a long list of risks that need to be appropriately managed. While that perspective won't change, I recognize that evolving consumer preferences are requiring banks to meet these technology-enabled expectations. It is true that new services and products present new risks, but these are not unmanageable risks. And, frankly, there is greater risk in standing still-in not recognizing the need to move forward. Failure to innovate can undermine a bank's competitiveness, posing a threat to safety and soundness just as innovating recklessly can. The Fed supports responsible innovation in a variety of ways, and I will mention a few of them in this discussion.
+
+For the past few years, I have been working to assist banks to address the challenges brought by the process of partnering with a third-party service provider. Last year, the Fed, along with the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation, proposed interagency guidance to assist in the management of risks involved in third-party engagement. The agencies received over 80 comment letters and are reviewing those comments as we move toward finalizing the guidance. In my view, it is especially helpful to provide clarity for banks in these kinds of relationships and to help them establish a solid
+
+foundation as banks and fintechs continue to engage in partnerships.
+
+Last year at this time, the federal banking agencies released a guide designed to assist community banks to assess risks in constructing and considering relationships with fintech companies.
+
+And lastly, this past September, the Federal Reserve published a paper detailing industry perspectives and experiences on the different types of partnerships between community banks and fintech companies. We conducted extensive outreach with community banks, fintechs, and other stakeholders and incorporated real world experiences of the strategic and tactical decisions that led to effective partnerships. 2
+
+For the remainder of my remarks, I will focus on several issues that are likely top of mind for those who are engaged in financial services innovation.
+
+## Crypto-Assets
+
+Let's start with digital and crypto-assets. I am hearing more discussions involving banks' interest in offering services involving crypto-assets. The chatter seems to originate more from those outside the banking industry, but I'll put that aside for now.
+
+There seem to be a number of reasons for this interest and why customers might seek to engage in this type of activity. First, although the interest seemed to have cooled lately, given recent developments in the crypto industry, we have seen significant consumer demand for engagement in these types of services. It seems reasonable that because bank customers are aware of crypto and have discussed these assets with their banks, banks want to better understand this type of engagement and potentially provide those services to their customers.
+
+Second, we have also been told that banks have observed their deposits flowing to nonbank crypto-asset firms and, understandably, would like to stem that outflow by offering the services themselves. I certainly recognize and appreciate these challenges. But before a bank begins to engage in or offer crypto-asset-related services, it must seriously and carefully consider the risks involved-both to the bank and its customers. The recent turmoil in the digital-asset industry only underscores that point.
+
+Federal Reserve staff is working to articulate supervisory expectations for banks on a variety of digital asset-related activities, including
+
+- custody of crypto-assets
+- facilitation of customer purchases and sales of crypto-assets
+- loans collateralized by crypto-assets, and
+- issuance and distribution of stablecoins by banking organizations.
+
+We understand that everyone involved in this space is seeking clarity. One of the most important tools that we have as a regulator is the ability to clearly articulate our supervisory expectations. It is also our most direct path to encouraging and supporting responsible innovation.
+
+Earlier this week, we released supervisory guidance addressing banks that are engaging in or seeking to engage in crypto-asset related activities. This guidance will provide banks with additional information about the risks of crypto activities and remind them to ensure that the activities are legal, and they should have adequate systems, risk management, and controls in place to conduct the activities in a safe and sound manner consistent with applicable law. Critically, one important element of this release is that firms should contact their supervisors about these types of activities and expect that supervisory staff will provide timely feedback, as appropriate. 3
+
+Based on my conversations with bankers across the country, I believe that providing the rules of the road-highlighting the risks we are most concerned about and laying out our expectations for how those risks should be managed-is invaluable for banks considering whether and how to innovate.
+
+## Artificial Intelligence
+
+The Federal Reserve is taking a similar approach with respect to banks' use of AI. Last year, the Fed joined with four other financial agencies to issue a Request for Information and Comment on Financial Institutions' Use of Artificial Intelligence, Including Machine Learning. As noted in that document, banks are using AI in a variety of ways, including fraud monitoring, personalization of customer services, credit decisions, risk management, and textual analysis. These applications of AI can, to varying degrees, involve risk-management challenges around issues such as explainability, data governance, cybersecurity, third-party risk management, and consumer compliance. 4
+
+The banking agencies received over 100 responses to the Request for Information. Those responses give us a window into what questions banks need regulators to answer about using AI. Federal Reserve staff is working with the other regulators to provide further clarity in this area.
+
+## Payments: FedNow and Central Bank Digital Currencies
+
+Payments is another area where innovation continues to flourish, and the Federal Reserve is actively engaged in shaping the future payments landscape.
+
+The FedNow SM Service will enable financial institutions of every size, and in every community across America, to provide safe and efficient instant payment services. It is intended to be a flexible, neutral platform that will support a broad variety of instant payments. It will allow depository institutions and their service providers to offer value-added services to their customers, ultimately enhancing competition in the market for payment services. Completing and implementing FedNow is a high priority, and we expect it to be available by mid-2023.
+
+FedNow will help transform the way payments are made through new services that allow consumers and businesses to make payments conveniently, in real time, on any day, and with immediate availability of funds for receivers. Our assessment of these benefits has not changed even as we consider whether a central bank digital currency (CBDC) might fit into the future U.S. money and payments landscape.
+
+My expectation is that FedNow addresses the issues that some have raised about the need for a CBDC. As I'm sure you are already aware, earlier this year we published a discussion paper that outlined some design principles, costs, and benefits of a CBDC and solicited public comments. We received over 2,000 comments, and we are currently reviewing these comments and plan to publish a summary of them. 5
+
+## Novel Charters and A ccess to Federal Reserve A ccount Services
+
+Before I wrap up, let me touch on one more topic that relates to innovation in bank charter types.
+
+In recent years, there has been an increase in novel charter types being authorized or considered across the country at the state and national levels. As a result, Federal Reserve Banks are receiving an increased number of inquiries and requests for access to Reserve Bank master accounts and financial services, which could provide those institutions with access to the nation's payment system.
+
+On August 15, the Board of Governors published final guidelines that govern how Reserve Banks will evaluate requests for account access. The guidelines take into account the Board's goals to
+
+- (1) ensure the safety and soundness of the banking system; (2) effectively implement monetary policy; (3) promote financial stability; (4) protect consumers; and (5) promote a safe, efficient, inclusive, and innovative payment system. 6
+
+The approach articulated in the guidelines is based on a foundation of risk management and mitigation, recognizing that access to Fed accounts and services can create significant risks. The systematic evaluation of these different risks is intended to establish a framework ensuring similar treatment for legally eligible institutions with similar risk profiles across the Reserve Banks. For example, requests for accounts and services from non-federally insured institutions would generally be subject to a higher standard of review. The Board expects Reserve Banks to collaborate on reviews of account and service requests, and conduct ongoing monitoring of approved accountholders, to ensure that the guidelines are implemented in a consistent manner.
+
+Publishing the guidelines is an important step to providing transparency and consistency across the Federal Reserve System. However, more work remains to be completed before a process is established to fully implement the guidelines. In the meantime, there is a risk that the guidelines could establish false expectations regarding the timeline for evaluating and acting on these requests.
+
+In closing, I'd like to once again thank the Venture Center for hosting this event and for providing the opportunity to get together to discuss innovation in financial services. It's great to finally be back in Little Rock and to have the chance to meet so many of you in person after such a long time. Commissioner Marshall, I look forward to our discussion.
+
+These remarks reflect my views and not necessarily those of my colleagues on the Board of Governors or the Federal Open M arket Committee. I am grateful for the assistance of Federal Reserve Board staff Jeff Ernst, Kavita Jain, M olly M ahar, Jason Hinkle, and Kirstin Wells in preparing these remarks. 1
+
+Board of Governors of the Federal Reserve System, Federal Reserve Publishes Paper Describing Landscape of Partnerships Between Community Banks and Fintech Companies, news release, September 9, 2021. 2
+
+Board of Governors of the Federal Reserve System, Federal Reserve Board Provides A dditional Information for Banking Organizations Engaging or Seeking to Engage in Crypto-Asset-Related Activities, news release, A ugust 16, 2022. 3
+
+86 Fed. Reg. 16,837. 4
+
+Board of Governors of the Federal Reserve System, Money and Payments: The U.S. Dollar in the Age of Digital Transformation (PDF) , January 2022. t 5
+
+Board of Governors of the Federal Reserve System, Federal Reserve Board A nnounces Final Guidelines That Establish a Transparent, Risk-Based, and Consistent Set of Factors for Reserve Banks to Use in Reviewing Requests to Access Federal Reserve Accounts and Payment Services, news release, August 15, 2022. 6

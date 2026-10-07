@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_buch_2024-06-12",
+      "timestamp": "2024-06-12",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_buch_2024-06-12.txt"
+    },
+    {
+      "doc_id": "bis_bowman_2024-06-17",
+      "timestamp": "2024-06-17",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2024-06-17.txt"
+    },
+    {
       "doc_id": "bis_kugler_2024-06-18",
       "timestamp": "2024-06-18",
       "source": "BIS central bankers' speeches",

@@ -1,0 +1,126 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2016/k160129a.pdf | date: 2016-01-29 | type: central_bank_decision
+
+Introduction of "Quantitative and Qualitative Monetary Easing with a Negative Interest Rate"
+Bank of Japan, 29 January 2016
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided to introduce "Quantitative and Qualitative Monetary Easing (QQE) with a Negative Interest Rate" in order to achieve the price stability target of 2 percent at the earliest possible time. Going forward, the Bank will pursue monetary easing by making full use of possible measures in terms of three dimensions; quantity, quality, and interest rate.
+
+(1) Interest-Rate Dimension: The introduction of a negative interest rate by a 5-4 majority vote [Note 1]
+
+The Bank will apply a negative interest rate of minus 0.1 percent to current accounts that financial institutions hold at the Bank.[1] It will cut the interest rate further into negative territory if judged as necessary.
+
+Specifically, the Bank will adopt a three-tier system in which the outstanding balance of each financial institution's current account at the Bank will be divided into three tiers, to each of which a positive interest rate, a zero interest rate, or a negative interest rate will be applied, respectively (see Attachment for details).[2]
+
+The Bank will carry out the Loan Support Program, the Funds-Supplying Operation to Support Financial Institutions in Disaster Areas affected by the Great East Japan Earthquake, and the Funds-Supplying Operations against Pooled Collateral at zero interest rates.
+
+(2) Quantity Dimension: The guideline for money market operations
+
+The Bank decided, by an 8-1 majority vote, to set the following guideline for money market operations for the intermeeting period: [Note 2]
+
+The Bank of Japan will conduct money market operations so that the monetary base will increase at an annual pace of about 80 trillion yen.
+
+(3) Quality Dimension: The guidelines for asset purchases
+
+With regard to the asset purchases, the Bank decided, by an 8-1 majority vote, to set the following guidelines: [Note 2]
+
+a) The Bank will purchase Japanese government bonds (JGBs) so that their amount outstanding will increase at an annual pace of about 80 trillion yen.[3] With a view to encouraging a decline in interest rates across the entire yield curve, the Bank will conduct purchases in a flexible manner in accordance with financial market conditions. The average remaining maturity of the Bank's JGB purchases will be about 7-12 years.
+
+b) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) so that their amounts outstanding will increase at annual paces of about 3 trillion yen[4] and about 90 billion yen, respectively.
+
+c) As for CP and corporate bonds, the Bank will maintain their amounts outstanding at about 2.2 trillion yen and about 3.2 trillion yen, respectively.
+
+(4) The continuation of "QQE with a Negative Interest Rate"
+
+The Bank will continue with "QQE with a Negative Interest Rate," aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will examine risks to economic activity and prices, and take additional easing measures in terms of three dimensions -- quantity, quality, and interest rate -- if it is judged necessary for achieving the price stability target. [Note 3]
+
+2. Japan's economy has continued to recover moderately, with a virtuous cycle from income to spending operating in both the household and corporate sectors, and the underlying trend in inflation has been rising steadily. Recently, however, global financial markets have been volatile against the backdrop of the further decline in crude oil prices and uncertainty such as over future developments in emerging and commodity-exporting economies, particularly the Chinese economy. For these reasons, there is an increasing risk that an improvement in the business confidence of Japanese firms and conversion of the deflationary mindset might be delayed and that the underlying trend in inflation might be negatively affected.
+
+3. To preempt the manifestation of this risk and to maintain momentum toward achieving the price stability target of 2 percent, the Bank decided to introduce "QQE with a Negative Interest Rate." The Bank will lower the short end of the yield curve by slashing its deposit rate on current accounts into negative territory and will exert further downward pressure on interest rates across the entire yield curve, in combination with large-scale purchases of JGBs. In addition, this policy framework is designed to enable the Bank to pursue additional monetary easing in terms of three dimensions, combining a negative interest rate with quantity and quality. By making full use of "QQE with a Negative Interest Rate," the Bank will achieve the price stability target of 2 percent at the earliest possible time.
+
+[Note 1] Voting for the action: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Mr. Y. Harada, and Mr. Y. Funo. Voting against the action: Ms. S. Shirai, Mr. K. Ishida, Mr. T. Sato, and Mr. T. Kiuchi. The members voting against the action gave the following reasons: Ms. S. Shirai expressed concerns that introducing a negative interest rate immediately after the introduction of supplementary measures for QQE might be misunderstood as reaching a limit to the Bank's asset purchases and that such a complex policy framework could cause confusion; Mr. K. Ishida considered that a further decline in JGB yields would not have significantly positive effects on economic activity; Mr. T. Sato considered that a negative interest rate should be introduced when the Bank slows down the pace of increase in the monetary base; and Mr. T. Kiuchi considered that introduction of a negative interest rate, which would adversely affect smooth conduct of the Bank's JGB purchases, would only be an appropriate policy measure in a crisis situation.
+
+[Note 2] Voting for the action: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Ms. S. Shirai, Mr. K. Ishida, Mr. T. Sato, Mr. Y. Harada, and Mr. Y. Funo. Voting against the action: Mr. T. Kiuchi. Mr. T. Kiuchi proposed that the Bank will conduct money market operations and asset purchases so that the monetary base and the amount outstanding of its JGB holdings will increase at an annual pace of about 45 trillion yen, respectively. The proposal was defeated by a majority vote.
+
+[Note 3] Mr. T. Kiuchi proposed that the Bank will, with the aim to achieve the price stability target of 2 percent in the medium to long term, continue with asset purchases and a virtually zero interest rate policy as long as each of these policy measures is deemed appropriate under flexible policy conduct based on the examination from the two perspectives of the monetary policy framework. The proposal was defeated by an 8-1 majority vote. Voting for the proposal: Mr. T. Kiuchi. Voting against the proposal: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Ms. S. Shirai, Mr. K. Ishida, Mr. T. Sato, Mr. Y. Harada, and Mr. Y. Funo.
+
+[1] A negative interest rate of minus 0.1 percent will be effective from the reserve maintenance period, which commences from February16, 2016.
+
+[2] A multiple-tier system is intended to prevent an excessive decrease in financial institutions' earnings stemming from the implementation of negative interest rates that could weaken their functions as financial intermediaries. Multiple-tier systems are adopted in countries where the size of negative interest rates is relatively large, including Switzerland (minus 0.75 percent), Sweden (minus 1.1 percent), and Denmark (minus 0.65 percent).
+
+[3] As before, the Bank will not set a lower bound for yields on its JGB purchases. Thus, the Bank can carry out outright purchases of JGBs with negative yields lower than minus 0.1 percent.
+
+[4] In addition to the current program of ETF purchases, the Bank will commence purchasing ETFs under a new program from April 2016 at an annual pace of about 300 billion yen, which was decided at the Monetary Policy Meeting on December 17 and 18, 2015. Under this new program, the Bank will purchase ETFs composed of stocks issued by firms that are proactively investing in physical and human capital.
+
+Attachment
+
+Framework for a Negative Interest Rate on Current Accounts at the Bank
+
+The Bank will adopt a three-tier system in which the outstanding balance of each financial institution's current account at the Bank will be divided into three tiers, to each of which a positive interest rate, a zero interest rate or a negative interest rate will be applied, respectively.[5]
+
+1. The Three-Tier System
+
+(1) Basic Balance: a positive interest rate of 0.1 percent will be applied
+
+With regard to the outstanding balance of current account at the Bank that each financial institution accumulated under QQE, the Bank will continue to apply the same interest rate as before. The average outstanding balance of current account, which each financial institution held during benchmark reserve maintenance periods from January 2015 to December 2015, corresponds to the existing balance and will be regarded as the basic balance to which a positive interest rate of 0.1 percent will be applied.
+
+(2) Macro Add-on Balance: a zero interest rate will be applied
+
+A zero interest rate will be applied to the sum of the following amounts outstanding.
+
+a) The amount outstanding of the required reserves held by financial institutions subject to the Reserve Requirement System
+
+b) The amount outstanding of the Bank's provision of credit through the Loan Support Program and the Funds-Supplying Operation to Support Financial Institutions in Disaster Areas affected by the Great East Japan Earthquake for financial institutions that are using these programs
+
+c) The balance calculated as a certain ratio of the amount outstanding of its basic balance in (1) (macro add-on). The calculation will be made at an appropriate timing, taking account of the fact that the outstanding balances of current accounts at the Bank will increase on an aggregate basis as the asset purchases progress under "QQE with a Negative Interest Rate."
+
+(3) Policy-Rate Balance: a negative interest rate of minus 0.1 percent will be applied
+
+A negative interest rate of minus 0.1 percent will be applied to the outstanding balance of each financial institution's current account at the Bank in excess of the amounts outstanding of (1) and (2) combined.
+
+2. Adjustment concerning a significant increase in financial institutions' cash holdings
+
+In order to prevent a decrease in the effects of a negative interest rate due to financial institutions' cash holdings, if their cash holdings increase significantly from those during the benchmark reserve maintenance periods, the increased amount will be deducted from the macro add-on balance in (2). In cases where the increased amount is larger than the macro add-on balance, the amount in excess of the macro add-on balance will be further deducted from the basic balance in (1).
+
+[5] A negative interest rate is expected to exert its intended effects on financial markets even under the multiple-tier system where a negative interest rate is applied partially. Transaction prices in financial markets (e.g. interest rates, stock prices, and exchange rates) are determined by marginal losses or gains made in a new transaction. Although a negative interest rate is not applied to the total outstanding balances of current accounts, costs incurred with an increase in the current account balance brought by a new transaction will be minus 0.1 percent if it is applied to a marginal increase in the current account balance. Interest rates and asset prices will be determined in financial markets based on that premise.
+
+(Reference)
+Meeting hours:
+Thursday, January 28: 14:00-15:46
+Friday, January 29: 9:00-12:31
+
+Policy Board members present:
+Haruhiko Kuroda (Governor)
+Kikuo Iwata (Deputy Governor)
+Hiroshi Nakaso (Deputy Governor)
+Sayuri Shirai
+Koji Ishida
+Takehiro Sato
+Takahide Kiuchi
+Yutaka Harada
+Yukitoshi Funo
+
+(Others present)
+January 28
+From the Ministry of Finance:
+Mitsuru Ota, Deputy Vice Minister for Policy Planning and Co-ordination (14:00-15:46)
+From the Cabinet Office:
+Masao Nishikawa, Vice-Minister for Policy Coordination (14:00-15:46)
+
+January 29
+From the Ministry of Finance:
+Naoki Okada, State Minister of Finance (9:00-11:50, 12:05-12:31)
+From the Cabinet Office:
+Shuichi Takatori, State Minister of Cabinet Office (9:00-11:50, 12:05-12:31)
+
+Release Dates and Time:
+
+Introduction of “Quantitative and Qualitative Monetary Easing with a Negative Interest Rate”
+-- Friday, January 29 at 12:38
+Outlook for Economic Activity and Prices (The Bank’s View) -- Friday, January 29 at 12:38
+
+Release Schedule:
+
+Outlook for Economic Activity and Prices (Outlook Report, full text including The
+Background) -- Saturday, January 30 at 14:00
+Summary of Opinions -- Monday, February 8 at 8:50
+Minutes -- Friday, March 18 at 8:50

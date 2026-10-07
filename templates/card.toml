@@ -18,7 +18,6 @@ split = "public-dev"                 # public-dev | validation  (held-out cards 
 [metadata]
 author_name              = "TEMPLATE_AUTHOR"
 author_email             = "you@example.org"
-difficulty               = "medium"          # easy | medium | hard
 category                 = "TEMPLATE_FAMILY" # T2-F1 | T2-F2 | T2-F3 | T2-F4 (see docs/CATEGORIES.md)
 tags                     = ["forecasting", "TEMPLATE_PANEL"]
 expert_time_estimate_min = 30.0

@@ -1,0 +1,81 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2016/k160616a.pdf | date: 2016-06-16 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 16 June 2016
+
+1. At the Monetary Policy Meeting (MPM) held today, the Policy Board of the Bank of Japan decided upon the following.
+
+(1) Quantity Dimension: The guideline for money market operations
+
+The Bank decided, by an 8-1 majority vote, to set the following guideline for money market operations for the intermeeting period: [Note 1]
+
+The Bank of Japan will conduct money market operations so that the monetary base will increase at an annual pace of about 80 trillion yen.
+
+(2) Quality Dimension: The guidelines for asset purchases
+
+With regard to the asset purchases, the Bank decided, by an 8-1 majority vote, to set the following guidelines: [Note 1]
+
+a) The Bank will purchase Japanese government bonds (JGBs) so that their amount outstanding will increase at an annual pace of about 80 trillion yen. With a view to encouraging a decline in interest rates across the entire yield curve, the Bank will conduct purchases in a flexible manner in accordance with financial market conditions. The average remaining maturity of the Bank's JGB purchases will be about 7-12 years.
+
+b) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) so that their amounts outstanding will increase at annual paces of about 3.3 trillion yen[1] and about 90 billion yen, respectively.
+
+c) As for CP and corporate bonds, the Bank will maintain their amounts outstanding at about 2.2 trillion yen and about 3.2 trillion yen, respectively.
+
+(3) Interest-Rate Dimension: The policy rate
+
+The Bank decided, by a 7-2 majority vote, to continue applying a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. [Note 2]
+
+2. Japan's economy has continued its moderate recovery trend, although exports and production have been sluggish due mainly to the effects of the slowdown in emerging economies. Overseas economies have continued to grow at a moderate pace, but the pace of growth has somewhat decelerated mainly in emerging economies. In this situation, the pick-up in exports has paused. On the domestic demand side, business fixed investment has been on a moderate increasing trend as corporate profits have been at high levels. Against the background of steady improvement in the employment and income situation, private consumption has been resilient, although relatively weak developments have been seen in some indicators. Housing investment has resumed its pick-up, and the pace of decline in public investment has been slowing. Reflecting these developments in demand both at home and abroad and the effects of the Kumamoto Earthquake, industrial production has continued to be more or less flat. Financial conditions are highly accommodative. On the price front, the year-on-year rate of change in the consumer price index (CPI, all items less fresh food) is about 0 percent. Although inflation expectations appear to be rising on the whole from a somewhat longer-term perspective, they have recently weakened.
+
+3. With regard to the outlook, although sluggishness is expected to remain in exports and production for the time being, domestic demand is likely to follow an uptrend, with a virtuous cycle from income to spending being maintained in both the household and corporate sectors, and exports are expected to increase moderately on the back of emerging economies moving out of their deceleration phase. Thus, Japan's economy is likely to be on a moderate expanding trend. The year-on-year rate of change in the CPI is likely to be slightly negative or about 0 percent for the time being, due to the effects of the decline in energy prices, and, as the underlying trend in inflation steadily rises, accelerate toward 2 percent. [Note 3]
+
+4. Risks to the outlook include uncertainties surrounding emerging and commodity-exporting economies, particularly China, developments in the U.S. economy and the influences of its monetary policy response to them on the global financial markets, prospects regarding the European debt problem and the momentum of economic activity and prices in Europe, and geopolitical risks. Against this backdrop, global financial markets have remained volatile. Therefore, due attention still needs to be paid to the risk that an improvement in the business confidence of Japanese firms and conversion of the deflationary mindset might be delayed and that the underlying trend in inflation might be negatively affected.
+
+5. The Bank will continue with "Quantitative and Qualitative Monetary Easing (QQE) with a Negative Interest Rate," aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will examine risks to economic activity and prices, and take additional easing measures in terms of three dimensions -- quantity, quality, and the interest rate -- if it is judged necessary for achieving the price stability target. [Note 4]
+
+[Note 1] Voting for the action: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Mr. K. Ishida, Mr. T. Sato, Mr. Y. Harada, Mr. Y. Funo, and Mr. M. Sakurai. Voting against the action: Mr. T. Kiuchi. Mr. T. Kiuchi proposed that the Bank conduct money market operations and asset purchases so that the monetary base and the amount outstanding of its JGB holdings increase at an annual pace of about 45 trillion yen, respectively. The proposal was defeated by a majority vote.
+
+[Note 2] Voting for the action: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Mr. K. Ishida, Mr. Y. Harada, Mr. Y. Funo, and Mr. M. Sakurai. Voting against the action: Mr. T. Sato and Mr. T. Kiuchi. Mr. T. Sato and Mr. T. Kiuchi dissented considering that an interest rate of 0.1 percent should be applied to current account balances excluding the amount outstanding of the required reserves held by financial institutions at the Bank, because negative interest rates would impair the functioning of financial markets and financial intermediation as well as the stability of the JGB market.
+
+[Note 3] Mr. T. Kiuchi proposed, concerning the year-on-year rate of change in the CPI, that it was likely to be slightly negative or about 0 percent for the time being, and would thereafter accelerate very moderately. The proposal was defeated by an 8-1 majority vote. Voting for the proposal: Mr. T. Kiuchi. Voting against the proposal: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Mr. K. Ishida, Mr. T. Sato, Mr. Y. Harada, Mr. Y. Funo, and Mr. M. Sakurai.
+
+[Note 4] Mr. T. Kiuchi proposed that the Bank, with the aim to achieve the price stability target of 2 percent in the medium to long term, continue with asset purchases and a virtually zero interest rate policy as long as each of these policy measures was deemed appropriate under flexible policy conduct based on the examination from the two perspectives of the monetary policy framework. The proposal was defeated by an 8-1 majority vote. Voting for the proposal: Mr. T. Kiuchi. Voting against the proposal: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Mr. K. Ishida, Mr. T. Sato, Mr. Y. Harada, Mr. Y. Funo, and Mr. M. Sakurai.
+
+[1] Of about 3.3 trillion yen, 300 billion yen is used in line with the implementation of a program for purchasing ETFs composed of stocks issued by firms that are proactively investing in physical and human capital, as decided at the MPM held in December 2015.
+
+(Reference)
+Meeting hours:
+Wednesday, June 15: 14:00-15:31
+Thursday, June 16: 9:00-11:38
+
+Policy Board members present:
+Haruhiko Kuroda (Governor)
+Kikuo Iwata (Deputy Governor)
+Hiroshi Nakaso (Deputy Governor)
+Koji Ishida
+Takehiro Sato
+Takahide Kiuchi
+Yutaka Harada
+Yukitoshi Funo
+Makoto Sakurai
+
+(Others present)
+June 15
+From the Ministry of Finance:
+Mitsuru Ota, Deputy Vice Minister for Policy Planning and Co-ordination (14:00-15:31)
+From the Cabinet Office:
+Masao Nishikawa, Vice-Minister for Policy Coordination (14:00-15:31)
+
+June 16
+From the Ministry of Finance:
+Manabu Sakai, State Minister of Finance (9:00-11:14, 11:27-11:38)
+From the Cabinet Office:
+Masao Nishikawa, Vice-Minister for Policy Coordination (9:00-11:14, 11:27-11:38)
+
+Release Dates and Time:
+
+Statement on Monetary Policy -- Thursday, June 16 at 11:45
+
+Release Schedule:
+Summary of Opinions -- Friday, June 24 at 8:50
+Minutes -- Wednesday, August 3 at 8:50

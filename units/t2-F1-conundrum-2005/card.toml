@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-longend-hiking-2005"]
 expert_time_estimate_min = 45.0
@@ -76,7 +75,7 @@ path           = "text/"
 cutoff         = "2005-02-18"
 cutoff_checked = true
 doc_types      = ["cb_speech", "fomc_statement"]
-n_documents    = 4
+n_documents    = 6
 notes          = "A steady hiking cycle is underway, yet the 2005-02-16 testimony in the corpus notes that long yields have fallen even as the policy rate rose 150bp. Whether to extrapolate the hiking cycle into the 10Y — or weigh the flat long-end response the testimony describes — is the question the card poses."
 
 [targets]

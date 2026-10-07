@@ -343,7 +343,8 @@ def main():
                   f"got {v.score:.9f} expected {exp['composite']:.9f} (drift {drift:.2e})")
             # Single-cell weight renormalization (track-lead ruling, 2026-08-24). The monthly
             # unit is 1-cell on purpose: its variogram is 0 by construction, so the live
-            # weights renormalize over marginal+tail and the baseline anchor stays at 1.0.
+            # weights renormalize over marginal+tail and the baseline's expected composite stays
+            # at 1.0.
             # The daily unit is 2-cell and must keep the card weights byte-identical --
             # that pairing is what pins the rule in BOTH directions.
             cells = v.detail.get("cell_count")

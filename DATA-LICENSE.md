@@ -24,13 +24,14 @@ A single licence does not cover all of it, and this file exists to say which is 
 | Material | Rights basis | Redistributable |
 |---|---|---|
 | Organizer-authored code, cards, manifests, indexes, specs, docs, synthetic fixtures | **MIT** (this repo's `LICENSE`) | yes |
-| U.S. Federal Reserve Board of Governors, BLS, CFTC, BEA, U.S. Treasury — releases, statements, minutes, speeches by Board officials (including copies mirrored on bis.org) | **Public domain**, 17 U.S.C. §105 | yes |
+| U.S. Federal Reserve Board of Governors, BLS, CFTC, BEA, U.S. Treasury, the White House, the State Department, USTR — releases, statements, minutes, projections, transcripts, speeches by Board officials (including copies mirrored on bis.org) | **Public domain**, 17 U.S.C. §105 | yes |
 | FRED-sourced numeric panels (H.15 rates, H.10 FX, BLS/BEA macro) | **Public domain** underlying data, 17 U.S.C. §105; the organizers' selection and arrangement is MIT | yes |
 | Speeches by **regional** Federal Reserve Bank officials (New York, Kansas City) | **Unresolved.** The regional Reserve Banks are federally chartered corporations, not federal agencies; §105 does not clearly reach their employees' works | **undetermined** |
-| Non-U.S. central banks — ECB, Bank of Japan, Bank of England, RBA, PBoC, Bank of Canada, SNB, RBI, Bank Indonesia | **Issuer's own terms govern.** Except for the two ECB files and the SNB press release noted below, no grant to the organizers is evidenced anywhere in this repository | **undetermined** |
-| Two ECB files that print their own reuse line — `draghi_whatever_it_takes_2012.txt` and `bis_schnabel_2020-02-27.txt` | **Permission on the face of the document:** *"Reproduction is permitted provided that the source is acknowledged."* | yes, with acknowledgement |
+| Non-U.S. central banks — ECB, Bank of Japan, Bank of England, RBA, PBoC, Bank of Canada, SNB, RBI, Bank Indonesia, Norges Bank, Sveriges Riksbank, Danmarks Nationalbank, RBNZ, Banco Central do Brasil — and the Japan Ministry of Finance | **Issuer's own terms govern.** Except for the ECB files and the SNB press release noted below, no grant to the organizers is evidenced anywhere in this repository | **undetermined** |
+| Eight ECB files (six documents) that print their own reuse line — `draghi_whatever_it_takes_2012.txt`, `bis_schnabel_2020-02-27.txt`, `bis_guindos_2019-11-06.txt` (three copies), `bis_lane_2020-02-17.txt`, `bis_lagarde_2020-09-10.txt`, `bis_panetta_2022-03-30.txt` | **Permission on the face of the document:** *"Reproduction is permitted provided that the source is acknowledged."* | yes, with acknowledgement |
 | The SNB press release of 15 January 2015 — `snb_floor_discontinued_20150115.txt` | **The SNB's published copyright terms** (<https://www.snb.ch/en/srv/disclaimer_copyright>): the information and data the SNB provides on its website may be saved, translated (with reference to the source), transmitted or used in other ways *"for non-commercial purposes, compatible with the purpose of such information or data"*. Its manifest licence stays `LicenseRef-Source-Terms` | yes, for non-commercial use |
-| Corporate exhibits to SEC Form 8-K (Pfizer, Moderna, SVB Financial Group, Apple) | **Private corporate copyright, all rights reserved by the filer.** EDGAR is a government *dissemination* system; filing does not place a document in the public domain | **undetermined** |
+| HM Treasury, *The Growth Plan 2022* — `hmt_growth_plan_2022-09-23.txt` | **UK Open Government Licence v3.0** (© Crown copyright 2022). Its manifest licence stays `LicenseRef-Source-Terms`; the manifest `source` carries the attribution the licence asks for | yes, with attribution |
+| Corporate exhibits to SEC Form 8-K (Pfizer, Moderna, SVB Financial Group, Apple, Lehman Brothers) | **Private corporate copyright, all rights reserved by the filer.** EDGAR is a government *dissemination* system; filing does not place a document in the public domain | **undetermined** |
 | Factor panels from the Kenneth R. French Data Library and AQR Capital Management | **Providers' own terms of use.** Neither grants sublicensing or commercial reuse | **undetermined** |
 
 "Undetermined" means exactly that: **we have not established the terms, and we are not asserting
@@ -44,8 +45,8 @@ detail and for the express copyright notices some of these documents carry on th
 | `MIT` | Organizer-authored. This repository's `LICENSE` applies. |
 | `LicenseRef-US-Gov-Public-Domain` | U.S. Government work, 17 U.S.C. §105. No copyright, no licence needed. |
 | `LicenseRef-US-Gov-Public-Domain AND MIT` | Public-domain data in an organizer-authored presentation (e.g. the CFTC extracts). |
-| `LicenseRef-Source-Terms` | Third-party. **The issuing institution's own terms govern; the organizers grant nothing.** For the SNB press release, whose published terms this repository records, the manifest `source` states them. |
-| `LicenseRef-ECB-Reproduction-Permitted` | The document prints its own reuse line: *"Reproduction is permitted provided that the source is acknowledged."* Two files carry it; see `data/PROVENANCE.md`. |
+| `LicenseRef-Source-Terms` | Third-party. **The issuing institution's own terms govern; the organizers grant nothing.** For the SNB press release and the HM Treasury document, whose published terms this repository records, the manifest `source` states them. |
+| `LicenseRef-ECB-Reproduction-Permitted` | The document prints its own reuse line: *"Reproduction is permitted provided that the source is acknowledged."* Eight files (six documents) carry it; see `data/PROVENANCE.md`. |
 | `LicenseRef-Unverified` | Rights basis **not established**. Not a grant and not a denial. |
 
 The `LicenseRef-` values are **not** OSI licences. Three of them confer no permissions and are

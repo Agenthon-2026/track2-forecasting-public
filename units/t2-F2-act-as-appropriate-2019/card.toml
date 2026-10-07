@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust2y-2019"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2019-06-19"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve"
+source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2019-06-19"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 9
 notes          = "June 2019 statement drops its patience language; eight participants dot a 2019 cut; the chair's early-June remarks signal a readiness to respond as needed. The easing regime is being announced in stages — the size and count of cuts is the remaining uncertainty."
 
 [targets]

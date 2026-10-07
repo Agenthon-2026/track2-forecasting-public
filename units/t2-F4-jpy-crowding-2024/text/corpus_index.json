@@ -18,6 +18,20 @@
       "file": "beigebook_202405.txt"
     },
     {
+      "doc_id": "bis_buch_2024-06-04",
+      "timestamp": "2024-06-04",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_buch_2024-06-04.txt"
+    },
+    {
+      "doc_id": "bis_bowman_2024-06-25",
+      "timestamp": "2024-06-25",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2024-06-25.txt"
+    },
+    {
       "doc_id": "macro_release-2024-07-05",
       "timestamp": "2024-07-05",
       "source": "BLS",

@@ -1,0 +1,81 @@
+# source: https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20150318.pdf | date: 2015-03-18 | type: landmark
+
+FOMC Projections Materials (Chair's press conference projections materials), March 18, 2015
+Federal Open Market Committee, 18 March 2015
+
+Embargoed for release at 2:00 p.m., EDT, March 18, 2015
+
+Economic Projections of Federal Reserve Board Members and Federal Reserve Bank Presidents, March 2015
+Advance release of table 1 of the Summary of Economic Projections to be released with the FOMC minutes
+Percent
+
+Variable | Central tendency[1] 2015 | Central tendency[1] 2016 | Central tendency[1] 2017 | Central tendency[1] Longer run | Range[2] 2015 | Range[2] 2016 | Range[2] 2017 | Range[2] Longer run
+Change in real GDP | 2.3 to 2.7 | 2.3 to 2.7 | 2.0 to 2.4 | 2.0 to 2.3 | 2.1 to 3.1 | 2.2 to 3.0 | 1.8 to 2.5 | 1.8 to 2.5
+  December projection | 2.6 to 3.0 | 2.5 to 3.0 | 2.3 to 2.5 | 2.0 to 2.3 | 2.1 to 3.2 | 2.1 to 3.0 | 2.0 to 2.7 | 1.8 to 2.7
+Unemployment rate | 5.0 to 5.2 | 4.9 to 5.1 | 4.8 to 5.1 | 5.0 to 5.2 | 4.8 to 5.3 | 4.5 to 5.2 | 4.8 to 5.5 | 4.9 to 5.8
+  December projection | 5.2 to 5.3 | 5.0 to 5.2 | 4.9 to 5.3 | 5.2 to 5.5 | 5.0 to 5.5 | 4.9 to 5.4 | 4.7 to 5.7 | 5.0 to 5.8
+PCE inflation | 0.6 to 0.8 | 1.7 to 1.9 | 1.9 to 2.0 | 2.0 | 0.6 to 1.5 | 1.6 to 2.4 | 1.7 to 2.2 | 2.0
+  December projection | 1.0 to 1.6 | 1.7 to 2.0 | 1.8 to 2.0 | 2.0 | 1.0 to 2.2 | 1.6 to 2.1 | 1.8 to 2.2 | 2.0
+Core PCE inflation[3] | 1.3 to 1.4 | 1.5 to 1.9 | 1.8 to 2.0 |  | 1.2 to 1.6 | 1.5 to 2.4 | 1.7 to 2.2 |
+  December projection | 1.5 to 1.8 | 1.7 to 2.0 | 1.8 to 2.0 |  | 1.5 to 2.2 | 1.6 to 2.1 | 1.8 to 2.2 |
+
+Note: Projections of change in real gross domestic product (GDP) and projections for both measures of inflation are percent changes from the fourth quarter of the previous year to the fourth quarter of the year indicated. PCE inflation and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption expenditures (PCE) and the price index for PCE excluding food and energy. Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. Each participant’s projections are based on his or her assessment of appropriate monetary policy. Longer-run projections represent each participant’s assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in the absence of further shocks to the economy. The December projections were made in conjunction with the meeting of the Federal Open Market Committee on December 16–17, 2014.
+1. The central tendency excludes the three highest and three lowest projections for each variable in each year.
+2. The range for a variable in a given year includes all participants’ projections, from lowest to highest, for that variable in that year.
+3. Longer-run projections for core PCE inflation are not collected.
+
+Figure 1. Central tendencies and ranges of economic projections, 2015–17 and over the longer run
+[Chart panels: Change in real GDP; Unemployment rate; PCE inflation, 2010–2017 and longer run. The panels plot the central tendencies and ranges shown in the table above together with historical actual values (line labeled "Actual"); no values are printed on the chart.]
+Note: Definitions of variables are in the general note to the projections table. The data for the actual values of the variables are annual.
+
+Figure 2. Overview of FOMC participants’ assessments of appropriate monetary policy
+
+Appropriate timing of policy firming
+Number of participants
+ | 2015 | 2016
+Number of participants | 15 | 2
+
+Appropriate pace of policy firming: Midpoint of target range or target level for the federal funds rate
+[Values below are the plotted circles of the chart, transcribed as the number of participants at each projected midpoint; the PDF prints no numbers for the circles.]
+Midpoint of target range or target level (Percent) | 2015 | 2016 | 2017 | Longer run
+4.250 |  |  |  | 1
+4.000 |  |  | 1 | 2
+3.875 |  |  | 1 |
+3.750 |  | 1 | 2 | 6
+3.625 |  |  | 2 |
+3.500 |  |  |  | 7
+3.375 |  | 2 | 1 |
+3.125 |  |  | 4 |
+3.000 |  |  |  | 1
+2.875 |  |  | 2 |
+2.625 |  | 1 | 3 |
+2.250 |  | 1 |  |
+2.125 |  | 1 |  |
+2.000 |  |  | 1 |
+1.875 |  | 3 |  |
+1.625 | 1 | 6 |  |
+1.375 | 2 |  |  |
+1.125 | 1 | 1 |  |
+0.875 | 3 |  |  |
+0.625 | 7 |  |  |
+0.375 | 1 | 1 |  |
+0.125 | 2 |  |  |
+
+Note: In the upper panel, the height of each bar denotes the number of FOMC participants who judge that, under appropriate monetary policy, the first increase in the target range for the federal funds rate from its current range of 0 to 1/4 percent will occur in the specified calendar year. In December 2014, the numbers of FOMC participants who judged that the first increase in the target federal funds rate would occur in 2015, and 2016 were, respectively, 15, and 2. In the lower panel, each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual participant’s judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run.
+
+Explanation of Economic Projections Charts
+The charts show actual values and projections for three economic variables, based on FOMC participants’ individual assessments of appropriate monetary policy:
+- Change in Real Gross Domestic Product (GDP)—as measured from the fourth quarter of the previous year to the fourth quarter of the year indicated, with values plotted at the end of each year.
+- Unemployment Rate—the average civilian unemployment rate in the fourth quarter of each year, with values plotted at the end of each year.
+- PCE Inflation—as measured by the change in the personal consumption expenditures (PCE) price index from the fourth quarter of the previous year to the fourth quarter of the year indicated, with values plotted at the end of each year.
+Information for these variables is shown for each year from 2010 to 2017, and for the longer run.
+The solid line, labeled “Actual,” shows the historical values for each variable.
+The lightly shaded areas represent the ranges of the projections of policymakers. The bottom of the range for each variable is the lowest of all of the projections for that year or period. Likewise, the top of the range is the highest of all of the projections for that year or period.
+The dark shaded areas represent the central tendency, which is a narrower version of the range that excludes the three highest and three lowest projections for each variable in each year or period.
+The longer-run projections, which are shown on the far right side of the charts, are the rates of growth, unemployment, and inflation to which a policymaker expects the economy to converge over time—maybe in five or six years—in the absence of further shocks and under appropriate monetary policy. Because appropriate monetary policy, by definition, is aimed at achieving the Federal Reserve’s dual mandate of maximum employment and price stability in the longer run, policymakers’ longer-run projections for economic growth and unemployment may be interpreted, respectively, as estimates of the economy’s normal or trend rate of growth and its normal unemployment rate over the longer run. The longer-run projection shown for inflation is the rate of inflation judged to be most consistent with the Federal Reserve’s dual mandate.
+
+Explanation of Policy Path Charts
+These charts are based on policymakers’ assessments of appropriate monetary policy, which, by definition, is the future path of policy that each participant deems most likely to foster outcomes for economic activity and inflation that best satisfy his or her interpretation of the Federal Reserve’s dual objectives of maximum employment and stable prices.
+- In the upper panel, the height of each bar denotes the number of FOMC participants who judge that, under appropriate monetary policy, the first increase in the target range for the federal funds rate from its current range of 0 to ¼ percent will occur in the specified calendar year.
+- In the lower panel, each shaded circle indicates the value (rounded to the nearest ⅛ percentage point) of an individual participant’s judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run.
+These assessments of the timing of the first increase of the target range for the federal funds rate and for the path of policy are the ones that policymakers view as compatible with their individual economic projections.

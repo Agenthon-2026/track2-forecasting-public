@@ -4,6 +4,13 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_bies_2002-11-07",
+      "timestamp": "2002-11-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bies_2002-11-07.txt"
+    },
+    {
       "doc_id": "fomc-statement-2003-01-29",
       "timestamp": "2003-01-29",
       "source": "Federal Reserve",
@@ -16,6 +23,13 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20030318.txt"
+    },
+    {
+      "doc_id": "bis_greenspan_2003-04-03",
+      "timestamp": "2003-04-03",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_greenspan_2003-04-03.txt"
     },
     {
       "doc_id": "fomc-statement-2003-05-06",

@@ -1,0 +1,277 @@
+Hiroshi Nakaso: Toward innovative payment and settlement systems
+2014-11-25
+
+## Hiroshi Nakaso: Toward innovative payment and settlement systems
+
+Keynote speech by Mr Hiroshi Nakaso, Deputy Governor of the Bank of Japan, at the 9th Asia Banking CEO Round Table, Tokyo, 25 November 2014.
+
+* * *
+
+## Introduction
+
+Thank you for your kind introduction. Distinguished guests, friends, and colleagues. It is my great pleasure to speak at the 9th Asia Banking CEO Round Table.
+
+Today's theme is 'Operating in a New World: Digitisation and Disruptions in Banking.' Initially, I was somewhat puzzled by the word 'disruptions,' but soon realized that disruption is only a prerequisite to creation. Banks can generate new value-added by discarding old business models and embarking on innovative challenges. Now, the questions are: What is the role of central banks in accelerating such innovation? What can we central bankers do to help banks steer through new challenges? How can we work together with the financial community to maximize the benefits of households and businesses? These are all very deeply rooted in the fundamental purpose of central banking; that is, to contribute to the sound development of the national economy.
+
+Today, I will explain our efforts toward creating innovative payment and settlement systems. In my view, the future payment and settlement infrastructure should offer an environment that facilitates the smooth delivery of the Japanese yen and Japanese government bonds (JGBs) anywhere and anytime. This is what I would call the ubiquity of the Japanese yen and JGBs. As a guardian of the national payment and settlement systems, the Bank of Japan (BOJ) will cooperate with bankers, market participants, and central bank colleagues overseas to make the unprecedented a reality with ideas that are innovative if sometimes disruptive, to borrow a word from today's main theme of the round table. Please note that the views expressed today are mine, not necessarily those of the BOJ.
+
+The plan of my talk is summarized on slide 1. First, I will consider where we currently stand and what we can expect for the future. Next, I will elaborate on four major areas in which we are exerting efforts toward better payment and settlement systems. After that, I will briefly touch on recent developments in Japan's economy and the conduct of monetary policy under the quantitative and qualitative monetary easing. Lastly, I will make my concluding remarks.
+
+## I. Where do we stand and what do we expect for the future?
+
+Following the Asian currency crisis in 1997-98, the region has seen remarkable performance. Asian economies and financial markets have been expanding at a healthy pace. As you can see on slide 2, according to the IMF, the average GDP growth rate of Asian emerging economies since 2000 marked 8.0 percent, whereas that of advanced economies was merely 1.8 percent. Likewise, on slide 3, when we compare the capital inflows into Asia and other leading economies, big gyrations in capital flow were observed before and after the Lehman crisis. The capital flows to the euro area and the United States changed their course from inflow to outflow. Despite this development, capital has flowed into Asia steadily.
+
+On the back of such performance, a number of initiatives have taken place in the region to build a safety net, thereby raising its capacity for crisis management. These initiatives are namely (i) the Chiang Mai Initiative (CMI), (ii) the Asian Bond Fund (ABF), and (iii) the Asian Bond Markets Initiative (ABMI). We all know that, after the Lehman crisis, the region has remained resilient and the safety net has effectively prevented risk from permeating it.
+
+Let me briefly elaborate on these initiatives. The CMI is a set of international swap arrangements in the region, having started from a network of bilateral arrangements and now
+
+developed into a common multilateral arrangement. The Chiang Mai Initiative Multilateralization (CMIM) is a multi-lateral currency swap contract covering all ASEAN+3 members. The objective of the CMIM is twofold: first, to address balance of payment and short-term liquidity difficulties in the region; second, to supplement the existing international financial arrangements. In July this year, the CMIM was amended by doubling its total size from 120 billion to 240 billion U.S. dollars, and by introducing a precautionary line in order to strengthen the regional safety net. As for the ABF, this concerns the enhancement of bond markets in Asia. The Asian Bond Fund 1, often referred to as ABF-1, invested in U.S. dollardenominated bonds issued by sovereign and quasi-sovereign borrowers in some EMEAP (Executives' Meeting of East Asia and Pacific Central Banks) economies, while ABF-2, launched in December 2004, invested in domestic currency bonds rather than U.S. dollardenominated bonds. Lastly, the ABMI, started in 2003, aims to develop efficient and liquid bond markets in Asia, so that savings in the region can be better utilized for investments in the region. Under this initiative, the ASEAN+3 economies have set up a forum to explore the possible establishment of cross-border securities settlement infrastructure, which I will come back to later.
+
+What is the objective of these initiatives? The CMIM set up the safety net in the region, while the ABF put in place a keystone for the primary bond market and the ABMI has been aimed at fostering regional securities settlement infrastructure. As I said, Asia is a region that has registered the fastest growth in the world, and it continues to enjoy high growth potential. The role of banks will become even more important down the road, as they contribute to facilitating balanced growth in the region. There are two channels through which banks can contribute. The first is reinforcing their lending activity in business areas with growth potential. The second is enhancing payment services and reinforcing payment infrastructure. In the following, I will focus on the latter role expected of banks today.
+
+As a central bank, we need to work together with banks to ensure that they contribute to the balanced growth of the region. I find it particularly important that central banks lay the foundation for banks so that they can exert the utmost efforts to demonstrate their intermediary function. I say this because we provide an infrastructure with finality for the yen and JGBs. As I summarized on slide 4, banks can complete payments and settlements by resorting to the central bank's services. 'Central bank money,' consisting of cash and central bank deposits, constitutes the most intrinsic foundation and underpinning of the nation's financial system by providing a settlement chain in collaboration with 'commercial bank money.'
+
+Let me paraphrase what I mean by this. A central bank issues money and delivers it to end users, such as households and businesses, through the network of banks' branches and ATMs. Likewise, non-cash payments are provided to the end users through the nation's payment and settlement systems in collaboration with banks. It is evident that the central bank's money and its payment and settlement services furnish the national economy with the 'ultimate finality' of payments and settlements.
+
+Raising the standard of our services will incentivize banks to improve their payment services to their customers, thereby creating an environment conducive to sustainable growth and a stable financial system. This leads me to say how important it is for central banks to be involved in the functioning of the payment and settlement system and to provide settlement finality.
+
+The enhancement of payment services is driven by the need to make the best use of innovative information technology and related skills. I believe this is well captured in today's main topic of the round table. Frankly speaking, however, I have an impression that nonbanking institutions have recently been playing an active role in providing innovative means of payment. On slide 5, the amount and volume of settlements through non-banking institutions - which are exemplified by credit cards, electronic money, and debit cards - are compared with those through banking institutions, which are summarized under the headline of the Zengin System. The Zengin System is an online network that links banks nationwide and processes customers' fund transfers in real time all over Japan. The evidence suggests
+
+that payment instruments provided by non-banking institutions have far outpaced the Zengin System both in terms of amount and volume.
+
+As another example, take the emergence of Bitcoin. It may well be that Bitcoin excels in facilitating access to the global markets and securing users' anonymity, so that customers find it more convenient to use Bitcoin for payment rather than settling transactions through conventional means of payment in the banking system. We central bankers should consider carefully how we can ensure the proper functioning of the traditional transmission channel of monetary policy while Bitcoin and other virtual currencies continue to be used in the world.
+
+One possible solution that addresses the Bitcoin issue is enforcement action. New regulation may curtail its further usage. Nevertheless, payment services provided by banks have a comparative advantage over those provided by non-banking institutions, because a central bank can complement banks' services by providing a payment instrument with finality. Such funding is not readily available to non-banking institutions. Owing to this, improving the convenience of banks' payment services and encouraging better access to those services appear to be the most essential ways of responding to a number of challenges triggered by non-banking institutions' innovative activities.
+
+The network of a central bank and banks constitutes the core of payment infrastructure, but from the central bank's perspective, we need to make incessant efforts to ensure that those banks have a firm footing with regard to the provision of payment services, and that they make efforts to ground their presence in the payment system.
+
+## II. Major initiatives in Japan
+
+Next, I would like to explain major initiatives that are underway in Japan in the context of banking and non-banking activity.
+
+It is understandable that much attention is being paid to the conduct of monetary policy, but a central bank plays no less a crucial role in building the most important infrastructure for the economy. That is, to enhance the payment and settlement infrastructure. It is fair to say that the central bank's payment services provide a pivotal underpinning for the conduct of monetary policy. Without the smooth settlement of funds among banks and other financial institutions, we cannot contribute to the stability of Japan's financial system either.
+
+History shows that central banking has been involved in the functioning of payment and settlement much longer than in the operation of monetary policy. The term 'central banking' comes from the fact that this has long been at the center of the payment and settlement infrastructure. As the central bank of Japan, the BOJ also runs the payment and settlement systems in funds transfers and JGBs. Thus, it is our supreme responsibility to ensure that central bank money, which possesses ultimate finality, as I mentioned, is used in places where it should be used.
+
+Based on such understanding, I would like to elaborate on four areas in which we have been making extensive efforts. As summarized on slide 6, these are namely (i) cross-border collateral arrangements between central banks, (ii) the T+1 project for JGB settlement, (iii) possible cross-border expansion of the yen and JGBs, and (iv) the improvement in retail payment services. It is important to recognize that these will contribute to enhancing the ubiquity of the Japanese yen and JGBs.
+
+The first area aims at enhancing the convenience of banks and businesses through the central banks' cooperation. All the rest are challenging to the banking industry, but the reward it eventually will get will be worthwhile. All areas would enable financial transactions that are not currently available. From the central banks' perspective, the implication derived from those innovative measures is exciting. Minimizing the unsettled funds and facilitating the ubiquity of the yen and JGBs will open a new frontier in financial services. With that in mind, let me now explain the four major initiatives in turn.
+
+## A. Cross-border collateral arrangements with central banks in Asia
+
+The first initiative is cross-border collateral arrangements with Asian central banks, with which the BOJ has been collaborating.
+
+Specifically, with the Bank of Thailand, the BOJ established in 2011 a framework in which Thai Baht liquidity could be provided by the Bank of Thailand against JGBs and the yen as collateral. A similar arrangement was established with the Monetary Authority of Singapore in 2014, and agreed upon in principle with Bank Indonesia in 2013.
+
+As shown on slide 7, under such arrangements, the central bank in a host country - in this case, the Bank of Thailand - provides liquidity in its own currency to banks against JGBs as collateral. The BOJ plays the role of a custodian to receive JGB collateral from those banks.
+
+All these arrangements allow eligible banks - both Japanese banks and other banks operating in respective countries - to obtain liquidity in local currencies from central banks to which JGBs are submitted as eligible collateral. Thus, those banks have additional sources of local currencies from local central banks under stressed funding conditions. Such arrangements are beneficial to their customers (e.g., firms), which will be able to maintain stable borrowings in local currencies from their banks. In sum, financial cooperation with central banks in Asia will contribute to the stability of financial systems as well as development of our economies. It also can be regarded as an important cornerstone for the BOJ to germinate its initiatives to ensure the ubiquity of JGBs.
+
+## B. T+1 project for JGB settlement
+
+The BOJ also has been working with market participants to improve the safety of JGB settlement. For example, we implemented online processing of JGB settlement as early as 1990. We also embarked on various initiatives including a delivery-versus-payment (DVP) mechanism in which a delivery of securities takes place if, and only if, payment occurs. Lastly, we have collaborated closely with market participants to introduce a central counterparty (CCP) for JGB transactions. As for the latter, the Japan Securities Clearing Corporation (JSCC), after a merger with the Japan Government Bond Clearing Corporation (JGBCC) in October 2013, has become a CCP for JGB cash transactions, in which it plays the role of a buyer to every seller as well as the role of a seller to every buyer. Thus, the JSCC provides guarantees for JGB settlements even in the case of a default by market participants.
+
+In the course of advancing measures to improve the safety and efficiency of JGB settlements, the collaboration between the BOJ and market participants has been one of the most important elements.
+
+In this context, another initiative that the BOJ has been working on is to shorten the time lag between the execution of JGB trading and settlement. At present, the JGB settlement cycle is T+2 for both standard outright transactions and special collateral repo transactions, and T+1 for general collateral repo transactions. As you can see on slide 8, we have been working with market participants to shorten such settlement cycles, from T+2 to T+1 for both standard outright transactions and special collateral repo transactions, and from T+1 to T+0 for general collateral repo transactions to ensure improvement of the safety in JGB markets.
+
+In fact, the Working Group on Shortening of JGB Settlement Cycle, which was set up under the auspices of the Japan Securities Dealers Association, identified three overarching principles for shortening the JGB settlement cycle. The first was to reduce the settlement risk. The longer the time lag between trading and settlement, the more unsettled positions accumulate; hence, the settlement risk rises. By containing such a build-up of unsettled positions, we can effectively mitigate the settlement risk.
+
+The second principle was to enhance the liquidity, safety, and efficiency of the JGB market. The JGB market - the largest financial market in Japan - provides a benchmark that facilitates the transactions of other financial assets such as corporate bonds and CP. Shortening the settlement cycles will make it smoother for banks to raise funds against JGB
+
+collateral. In effect, this will in turn provide investors with a variety of short-term investment opportunities.
+
+The last principle for the shortening of JGB settlement cycles was to maintain and reinforce the international acceptance of JGBs. As for the outright transactions, T+1 has already been achieved in the United States and the United Kingdom. In Asia, Singapore has also moved to the T+1 platform. In these economies, shortening of the cycles has often been discussed in the context of maintaining a competitive edge against peers overseas.
+
+Based on these principles, market participants are now aiming to achieve T+1 for JGB transactions as early as 2017. This is also a part of efforts to achieve the ubiquity of JGBs. By the end of spring 2015, members of the working group will come up with a more concrete timetable to achieve T+1, and we are actively providing support on that front. On this point, I am particularly heartened by the fact that the shortening of settlement cycles is not simply motivated by the reduction of the settlement risk. Market participants also regard this as a means to enhance investment opportunities through the internationalization of the yen and JGBs.
+
+As Japan is in the first set of time zones, it is beneficial to tackle a move toward a shorter settlement cycle. The shorter cycle is an integral part of the initiative to achieve advanced and market-wide development of straight-through processing (STP). The shorter cycle will also help galvanize Tokyo's position as a global financial center as it becomes a frontrunner of financial networks.
+
+## C. Possible cross-border expansion of the Yen and JGBs
+
+The third initiative concerns possible cross-border expansion of the yen and JGBs. Under this initiative, the BOJ will provide a cross-border payment network by anchoring payment and settlement systems.
+
+## 1. Extension of the operating hours of the BOJ-NET
+
+Specifically, as shown on slide 9, the BOJ has already announced that it will extend the operating hours of the BOJ-NET until 9 pm JST from February 2016. This will generate a longer overlap of the operating hours not only between Japan and Asian countries but also between Japan and European countries. Consequently, new financial services will become available, such as overseas remittance services in yen by customers, same-day foreign exchange transactions - or T+0 transactions - between banks, and the usage of JGBs as collateral to raise foreign currencies and post as eligible collateral to overseas CCPs to meet margin requirements.
+
+Beyond extending the operating hours of the new BOJ-NET, additional proposals are currently being considered. These include measures such as global access and a crossborder link in Asia to enhance the ubiquity of the yen and JGBs.
+
+## 2. Global access
+
+Starting with global access, as shown on slide 10, this allows the BOJ-NET participants that physically have a presence in Japan and hold current accounts at the BOJ to set up their BOJ-NET terminals in their overseas locations, whereby staff members can operate the terminals. For example, if a Japanese bank sets up its BOJ-NET terminal in its London base, it can post JGBs as collateral to a European CCP in London. Alternatively, if a Japanese bank sets up its BOJ-NET terminal in its Bangkok base, it can carry out same-day remittance of its customers' funds from Thailand to Japan. Although much needs to be examined beforehand, the requests from Japanese and foreign banks have been heard and global access could significantly improve the convenience of the yen and JGBs.
+
+## 3. Cross-border linkage
+
+The second measure concerns enabling cross-border linkage between the BOJ-NET and systems overseas. Allowing the BOJ-NET to be connected with its overseas counterparts can introduce a DVP mechanism for JGB transactions, in which the delivery of JGBs can be
+
+made simultaneously with funds transfers. For example, as shown on the left side of slide 11, the DVP mechanism for foreign securities' transactions can be used. A Japanese bank (Bank A) can make yen funding available to a foreign bank (Bank B) that provides foreign securities as collateral to the Japanese bank overseas. Alternatively, as shown on the right side of the slide, a Japanese bank (Bank A) can also provide JGBs as collateral to a foreign bank (Bank B), which can provide foreign currency funds to the Japanese bank overseas at the same time. By linking the BOJ-NET with those systems overseas, we can facilitate such DVP transactions, and this will again contribute to enhancing the efficiency and convenience of the yen and JGBs. In this regard, we are currently continuing discussions with Asian peers concerning regional settlement infrastructure that promotes cross-border securities transactions in the region.
+
+## 4. ASEAN+3 initiatives
+
+The kind of cross-border linkage that I have illustrated will contribute to stable daily funding in foreign currencies on an ongoing basis. What kind of technological innovation can make this come true? A possible answer is currently being discussed in the ASEAN+3 countries. They created a forum in which the establishment of cross-border linkage in the region is currently being explored. More concretely, the set-up of a cross-border link between the securities settlement system in one country and the central bank's real-time gross settlement (RTGS) system in another has been discussed, as shown on slide 11. Such cross-border linkage will enable market participants to settle foreign-currency funding transactions against domestic assets as collateral on a DVP basis. If this means of funding, which is known as crosscurrency repos, becomes available on an ongoing basis, it will contribute to improving the safety and efficiency of financial transactions in the entire region.
+
+## D. Improvement in retail payment services: 24/7 services and financial EDI
+
+The last initiative that I want to mention is the improvement of retail payment services. We are particularly interested in two issues. First, whether to realize real-time payments between end users on a 24/7 basis; second, to enhance linkage between remittance information with payment information to achieve financial Electronic Data Interchange (EDI).
+
+## 1. 24/7 services
+
+As for the 24/7 services in retail payments, let me step back and explain where we currently stand in Japan. As you can see on slide 12, the Zengin System, which is at the core of the Japanese payment system, has long been regarded worldwide as one of the most advanced systems in the field of retail payment.
+
+It already allows for near real-time payment services during the daylight hours of working days. More recently, however, some countries, including Singapore in our region, have developed 24/7 retail services. These offer near real-time payment services 24 hours a day, 7 days a week; hence, they are known as 24/7 services. We also have seen similar services being offered in countries like the United Kingdom and Sweden. In light of such progress in overseas economies, it has become a must in Japan to elevate bank transfers to a comparable level of convenience and efficiency in terms of service availability. This would ensure smooth operation of retail payment services to underpin business and household activities.
+
+## 2. Financial EDI
+
+Slide 13 presents another issue that we are interested in: realizing financial EDI. As you know, businesses have started to electronically exchange remittance information, such as purchases and sales orders, by taking advantage of internet technologies. An arrangement to link such remittance information with payment information - namely, information related to a beneficiary's bank account and the payment date - and to exchange both remittance information and payment information together is called financial EDI.
+
+The question is: What is the benefit to businesses in adopting financial EDI? In the short run, they incur costs associated with developing IT systems that accommodate standardized formats to exchange data electronically. However, in the medium to long run, they can enjoy the benefits of raising the efficiency of their operation. For example, firms will be able to automate the reconciliation of payment information with remittance information; thus, they no longer need to rely on manually processing accounts receivable.
+
+Looking at the Japanese situation, the Zengin System moved its platform to the 6th generation in November 2011, and one of the new features at that time was to accept the ISO 20022 XML format as an option for transfer messages. Nevertheless, because the adoption of this format is not an obligation and it requires coordination among a wide range of stakeholders, neither banks nor customers have taken advantage of the new format. From the viewpoint of maintaining competitiveness against their peers overseas, Japanese firms would need to articulate the means through which to reduce costs by realizing financial EDI as well.
+
+To be fair, the Japanese Bankers Association has already started looking into the issues of whether to extend the operating hours of the Zengin System and how to make use of financial EDI within the Japanese context. It is expected to release the results of its study by the end of this year. These initiatives show that Japanese banks have started taking measures to build infrastructure surrounding retail payment systems as a foundation to underpin their basic payment services.
+
+## III. Japan's economy and monetary policy
+
+Thus far, I have focused on the rather technical issues concerning payment and settlement systems. However, given the continued interest in our monetary policy, and particularly in the latest action we have taken, I want to spend a few minutes on monetary policy at this point.
+
+In April last year, the BOJ introduced the Quantitative and Qualitative Monetary Easing Policy, dubbed the QQE, to achieve the price stability target of 2 percent at the earliest possible time, with a time horizon of about 2 years. The main objectives of the QQE have been to dispel a view that took root among people over a long period of deflation that prices would not rise - in other words, a deflationary mindset - and to create a situation in which households and firms behave on the assumption that prices would moderately increase. Specifically, in terms of the policy transmission mechanism, we intend to raise inflation expectations through a strong and clear commitment to achieve the price stability target of 2 percent, and at the same time to exert downward pressure across the entire yield curve through massive purchases of government bonds. As a result, real interest rates will decline, thereby stimulating such private demand components as business fixed investment, private consumption, and housing investment. The upward pressure on prices will grow stronger as demand increases and the output gap narrows accordingly. Rises in actual inflation rates will be translated into higher expected rates of inflation and thus lower real interest rates. This will reinforce the virtuous cycle as the economy is provided with additional stimulus.
+
+Since its inception, the QQE has been producing the intended effects, and Japan's economy has steadily followed a path towards the achievement of the price stability target of 2 percent. In fact, the year-on-year rate of change in the consumer price index (CPI) excluding fresh food, which stood at minus 0.5 percent in March 2013 immediately before introducing the QQE, subsequently turned positive and moved up to reach above 1 percent by the end of last year.
+
+In recent months, however, a couple of developments on the price front have attracted our attention. First, the decline in demand following the consumption tax hike has been somewhat protracted in durable consumer goods including automobiles, as well as in housing investment. Second, crude oil prices have declined substantially after the summer. These factors have contributed to slowing the CPI inflation rates, which had hovered in the range of 1.0-1.5 percent since the end of the last year, down to 1.0 percent in September.
+
+Of the two factors, the temporary weakness in demand associated with the consumption tax hike has already started to wane. Meanwhile, the decline in crude oil prices will have positive effects on economic activity and push up prices over the longer-run. Nevertheless, given the fact that Japan's economy is currently in a transition process of converting the deflationary mindset, prolongation of the current downward pressure on prices, albeit temporarily, was judged to run the risk of delaying the process. To prevent such risk from materializing and to maintain the improving momentum of expectation formation, we decided to take preemptive actions to expand the QQE at the Monetary Policy Meeting held on October 31, as shown on slide 14.
+
+Specifically, we decided to accelerate the pace of buildup in the monetary base by about 10-20 trillion yen to 'an annual increase of about 80 trillion yen.' In order to carry this out, we will increase the amount outstanding of the holdings of JGBs by about 30 trillion yen to 'an annual increase of about 80 trillion yen.' At the same time, we decided to extend the average remaining maturity of the JGB purchases by about 3 years at maximum to 'about 7-10 years.' The purpose of the measures is to leave operational flexibility to buy JGBs from across the maturity zones and thus effectively compress the entire yield curve in line with market conditions, whereas the downward pressure on the yield curve has been rather uneven thus far, with substantial declines in rates on the shorter end while rates on the longer end remain relatively high. In addition, as for exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs), the increases in the amounts outstanding of the BOJ's holdings will be tripled in both cases. The latest decision to expand the QQE will further strengthen the policy transmission mechanism that I mentioned. The decision is also intended to demonstrate and confirm our strong and unequivocal commitment to achieve the price stability target.
+
+## Conclusion
+
+Let me conclude. The BOJ endeavors to put an end, once and for all, to deflation and bring the economy back on track towards sustained growth. In the meantime, as I explained to you today, upgrading the financial and payment infrastructure is also an important part of our mission. We have been taking a number of steps to bring the Japanese payment and settlement systems to the forefront. Specifically, the BOJ would encourage the enhancement of retail payment systems and examine the ways to realize payments and settlements using the new BOJ-NET for cross-border transactions in yen or JGBs. The initiatives are part of our priorities for fiscal 2014-18, which show our determination to progress toward the ubiquity of the yen and JGBs by incorporating the latest technologies. I believe the initiatives will also promote the internationalization of the yen, which has long been on the policy agenda but with limited results thus far.
+
+At the same time, I know that our efforts have to extend beyond national borders if we are to upgrade the financial and payment infrastructure in the entire Asia Pacific region. Hence, collaboration with market participants and other central banks in the region is essential. Given the globalized and integrated nature of financial markets of today, only through collective exercises can we jointly benefit from new ideas and innovation with respect to the financial and payment infrastructure. The new initiatives would pave the way to further innovation in the banking sector, enhance the safety and efficiency of financial markets, and underpin the real economy. It is encouraging in this regard to see that ambitious talks among the relevant authorities in Asia are already under way. We are committed to playing a key role because we know too well that without prosperity in the region, there will be no growth for Japan. Let me end my remarks by reiterating our commitment to contributing to the joint works with our colleagues in Asia to ensure that the region continues to foster prosperity long into the future.
+
+Thank you for your attention.
+
+## 1. Plan of Talk
+
+## 1. Where do we stand? What do we expect for the future?
+
+## 2. Major Payment and Settlement Initiatives in Japan
+
+- — Cross-border Collateral Arrangements
+- —T+1 Project for JGB Settlement
+- — Possible Cross-Border Expansion of the Japanese Yen and JGBs
+- — Improvement in Retail Payment Services
+
+## Japan's Economy and Monetary Policy
+
+## Conclusion
+
+## 2. Economic Growth in Advanced Economies and Asia
+
+Note: Figures from 2014 are estimates by the IMF staff.
+
+Source: IMF World Economic Outlook (April 2014 Database).
+
+## 3. Capital Flow to Three Economic Areas
+
+## 4. Settlement Finality and Payment Structure --Chain from Central Bank to Customers
+
+## 5. Usage of Payment Instruments: Non-banks vs Banks
+
+## Annual Settlement Amount CIPY 100 millions)
+
+| | | Year | | Year |
+|------------------|------------|--------|------------|--------|
+| Credit Cards | 347,695 | 2006 | 443,188 | 2009 |
+| Electronic Money | 5,636 | 2007 | 17,334 | 2010 |
+| Debit Cards | 8,014 | 2005 | 6,419 | 2010 |
+| ZenginSystem | 23,397,111 | 2005 | 24,792,167 | 2010 |
+
+## (Millions)
+
+| | | Year |
+|------------------|------|---------|
+| Credit Cards | 4548 | 2006 |
+| Electronic Money | $10 | 2007 |
+| Debit Cards | | 12-2005 |
+| Zengin System | 1315 | 2005 |
+
+(annual rates
+
+| | Year |
+|-------|---------|
+| 8,133 | 2009 |
+| 2,000 | 2010 |
+| | 13-2010 |
+| 1,380 | 2010 |
+
+- Notes:
+2. Figures for electronic money are on a fiscal year basis and other figures are on a calendar year basis.
+1. The annual settlement volumes of credit cards are estimated by the Bank of Japan based on the survey by the Japan Consumer Credit Association.
+- Sources: Japan Consumer Credit Association; Japan Debit Card Promotion Association; Japanese Bankers Association; Bank of Japan.
+
+## 6. Major Payment and Settlement Initiatives in Japan
+
+T+1 Project for the JGB Settlement
+
+Possible Cross-Border expansion of the Japanese Yen and JGBs
+
+Improvement in Retail Payment Services
+
+Toward Ubiquity of Japanese Yen and JGBs
+
+## 7. Cross-Border Collateral Arrangement
+
+## 8. Benefits of Shorter JGB Settlement Cycle
+
+Standard outrighttransactions
+
+and Special collateral repotransactions
+
+:
+
+T+2 = T+1
+
+General collateral repotransactions
+
+: T+1 = T+0
+
+Investors
+
++ More options for short-term investments of surplus funds
+* Smoother funding by T+0 repo transactions
+- « Reduced settlement risks
+
+## 9. Faster and Safer Cross-Border Settlement on BOJ-NET
+
+## Longer overlap with Asian and European markets
+
+## 10. Global Access — Future Landscape
+
+## Settle JPY and JGBs seamlessly aroundthe clock
+
+## 11. Cross-Border DVP Linkage: Illustration
+
+## Cross-Border DVP
+
+## 12. 24/7 Services
+
+## 13. Financial EDI
+
+## 14. Expansion of the Quantitative and Qualitative Monetary Easing
+
+Accelerating the annual pace of increase in the monetary base from about 60-70 trillion yen to '' 80 trillion yen tt
+
+Increasing the Bank's JGB holdings at an annual pace of bout 80 trillion yen: apou
+
+oars "+ 30 trillion yen "
+
+Extending the average remaining maturity of JGB purchases to about 7-10 years: "43 "
+
+years
+
+Accelerating the pace of purchases of ETFs and J-REITs:
+
+" Tripled "

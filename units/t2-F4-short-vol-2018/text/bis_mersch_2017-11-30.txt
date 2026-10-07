@@ -1,0 +1,72 @@
+Yves Mersch: Digital transformation of the retail payments ecosystem
+2017-11-30
+
+## Yves Mersch: Digital transformation of the retail payments ecosystem
+
+Introductory speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at the Joint ECB and Bank of Italy conference, Rome, 30 November 2017.
+
+* * *
+
+Efficient and safe retail payments systems are a precondition for the functioning of any modern economy. They allow for everyday transactions to take place, thus providing the foundation for commerce and trade.
+
+Central banks through cash and banks have traditionally offered these services. And they were successful in creating a secure and trusted payment ecosystem for consumers.
+
+However over time the banking ecosystem has developed inefficiencies. I t has lost some ability to innovate and adapt to the changing needs of the end-user.
+
+In Europe technological disruptions, competition from non-banks and regulatory pressure has forced banks to re-examine how they provide retail payment services.
+
+The ability to provide real-time services will be essential if banks want to retain and gain customers. The strategic importance of instant payments cannot be overstated.
+
+The move towards a real-time world with the provision of real-time services cannot happen without pan-European instant payments. They will provide a new framework for innovative and efficient retail payments in Europe.
+
+My talk today will focus on instant payments but I will also briefly discuss the alleged innovation brought by private virtual currency schemes without an identifiable issuer.
+
+## The foundations of instant payments and ensuring stakeholder involvement
+
+The Single Euro Payments Area (SEPA) was the origin of today's digital landscape for retail payments in Europe. It is a key ingredient of Europe's single currency and was necessary to bring the full benefits of the euro closer to all citizens. This integration of electronic retail payments in Europe was full of challenges and was only completed 12 years after the introduction of euro notes and coins. One of the most prominent issues that faced SEPA was the lack of full stakeholder involvement.
+
+Initially, SEPA was considered an 'IT' project to be implemented by banks. It was not seen in the overall context of a project that could transform payments in Europe. The project did not engage enough with Europe's consumers and businesses.
+
+Support from all stakeholders is thus crucial to the success of any such undertaking. T o facilitate such support, the ECB established the Euro Retail Payments Board (ERPB). The ERPB brings together both sides of the market, the supply and the demand side, the banks and the end users in order to further the development of an integrated, innovative and competitive market for euro retail payments in the EU. This co-operation has led to new synergies. It gave a voice to those who felt excluded from the process of innovation in retail payments.
+
+Recently we have gone further to enhance European cooperation and have established, in conjunction with the European Commission, the European Forum for Innovation in Payments (EFIP). This body brings together the national payments committees with the ERPB to foster integration and innovation for retail payments in Europe.
+
+The ERPB was instrumental in bringing the vision of real-time payments to Europe with the inception of instant payments. The European Payments Council, acting on guidance from the ERPB, created the SEPA credit transfer instant scheme. I am pleased that this scheme was successfully launched last week and let me congratulate the following eight countries who signed up as of today to the service. The tech savvy nations are: Austria, Estonia, Germany, Latvia, Lithuania, the Netherlands, Italy, and Spain. Now, European end-users whose banks have already joined and implemented the scheme can send and receive instant payments across Europe in less than 10 seconds.
+
+A positive end-user experience will ultimately determine the success of instant payments. The ERPB is supporting the work of the industry and other stakeholders to facilitate the initiation of an instant payment using the recipient's mobile telephone number as a proxy for their IBAN, no matter where they are located in the EU. The ERPB expects that a pan-European mobile proxy lookup service will be ready by the end of 2018 at the latest and I urge all stakeholders to ensure that this deadline is met.
+
+However, to facilitate the full roll-out of instant payments we have to enable reachability of all banks in Europe. To enable full reachability the Eurosystem has decided to launch an instant payments settlement system in central bank money, the T arget Instant Payment Settlement (TIPS) Service. TIPS is scheduled to go live in November 2018.
+
+## Appropriate regulatory framework
+
+SEPA and instant payments did not happen in isolation. An appropriate legislative framework that supports digitisation, innovation and competition is also needed. In Europe we realise this importance. The revised Payment Service Directive (PSD2) will provide the necessary legislative framework to allow for innovation. It will enhance payment account access for regulated and authorised third party providers. It will facilitate the participation of new actors in the payments market. These actors will provide new innovative services, reduce costs and give consumers more choice.
+
+However this can only happen if standardised access to the payment account is provided. I would therefore call upon stakeholders such as banks, standard setting organisations and, third party providers to work together to ensure a single standard is developed for payment account access .
+
+The competition introduced by the revised Payment Service Directive can also provide an opportunity for incumbent banks but only if they act urgently to implement instant payments . It is crucial that banks invest to upgrade their legacy batch systems to enable real-time processing and offer end-user solutions for instant payments. These solutions can provide them with a strong tool to face the upcoming competition.
+
+The recent experience with contactless payments shows that banks, in cooperation with other stakeholders, are well capable to roll out payment innovations that can quickly take off and improve end-users' payment experience.
+
+## Virtual currencies
+
+It is my view that future innovations in retail payments will be based on instants payments in combination with account access provided by the PSD2. I would like stress this point especially in view of the ongoing public debate around the alleged innovation brought by private virtual currency schemes or tokens .
+
+While we have seen a substantial increase, albeit from low levels, in the value of some of the virtual currencies lately, we should not forget that their usage as a settlement asset is marginal
+
+and the overall user acceptance as a means of payment is negligible .
+
+In fact, retail payment traffic in Europe alone is orders of magnitude higher than the global transaction volume of virtual currencies. In view of the speculative market environment for virtual currencies and for other types of virtual financial assets, one should bear in mind that these are by definition virtual: they do not constitute a claim on an issuer and do not formally qualify as currency .
+
+Their purchasing power fluctuates wildly and depends solely on the market activity of speculators. It remains to be seen whether these virtual currencies can be considered as a payment alternative for consumers - except in extreme case like in failed states- and to what extent they can compete with the solutions market players will be able to develop in the safer and more efficient European retail payments market .
+
+The ECB continues to monitor these developments, not only from a market infrastructure perspective, but also as regards monetary policy, financial stability, and prudential supervision. And while we continue to fully meet the increasing demand for safe and efficient banknotes we shall also experiment with cash on different digital technologies. Other adventurous applications of a more disruptive nature are simply not robust enough from a legal, operational, governance point of view to name but a few shortcomings which make these assets unfit for recognition from the point of view of our mandate of efficient payments systems.
+
+## Conclusion
+
+To conclude, the benefits of digital transformation and innovation for citizens can only be achieved by means of full stakeholder cooperation and an appropriate regulatory framework that fosters innovation.
+
+Banks need to implement instant payments as soon as possible and provide an alternate narrative to the ongoing public debate on the alleged innovation brought by virtual currency schemes.
+
+Instant payments in conjunction with the building blocks provided by the PSD2 can offer new business opportunities for banks and third party providers and provide citizens with a real-time safe payment experience.
+
+Thank you for your attention.

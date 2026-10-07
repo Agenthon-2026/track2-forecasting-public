@@ -43,15 +43,15 @@ env:
   # category enum still carries `byo-large`/`byo-small`, withdrawn by the 2026-09-18 ruling), so
   # testing against either made a green build mean nothing. Keep this a TAG, never a branch -- a
   # floating ref lets a local result and a scored result diverge with no diff.
-  TOOLKIT_TAG: v2.4.4
+  TOOLKIT_TAG: v2.6.0
   # Private staging tests the scorer against a pinned commit of the toolkit's publication
   # candidate (`Agenthon2026-public-staging`) instead of the released tag. That began while
   # `qfbench2_track_forecasting.resolution` needed `contracts.forecast_protocol` and no released
-  # tag carried it; v2.4.4 (TOOLKIT_TAG above) now carries it, so the public install and the
-  # staging install both provide the module. Only the `test` job uses the candidate, only when
+  # tag carried it; released tags carry it since v2.4.4, so the public install and the staging
+  # install both provide the module. The candidate is pinned to the v2.6.0 release commit. Only the `test` job uses the candidate, only when
   # this workflow runs in a `-staging` repository, and it needs the read token that private
   # checkouts need. The public repository keeps the anonymous tag install above.
-  QFBENCH2_CANDIDATE_COMMON_REF: 53464fbd8f40f3f829985711dd6f679b3f386ce3
+  QFBENCH2_CANDIDATE_COMMON_REF: bd01548e34d21fd660d88fd06157078fb25ece4e
 
 jobs:
   # Runs FIRST and installs nothing at all, so it still runs when the toolkit install breaks.

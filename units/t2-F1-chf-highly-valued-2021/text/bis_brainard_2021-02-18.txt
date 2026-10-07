@@ -1,0 +1,174 @@
+Lael Brainard: The role of financial institutions in tackling the challenges of climate change
+2021-02-18
+
+For release on delivery 8:00 a.m. EST February 18, 2021
+
+The Role of Financial Institutions in Tackling the Challenges of Climate Change
+
+Remarks by
+
+Lael Brainard
+
+Member
+
+Board of Governors of the Federal Reserve System
+
+at the
+
+'2021 IIF U.S. Climate Finance Summit: Financing a Pro Growth Pro Markets Transition to a Sustainable, Low-Carbon Economy'
+
+hosted by the Institute of International Finance
+
+Washington, D.C.
+
+February 18, 2021
+
+I want to thank the Institute of International Finance for inviting me to join this discussion. Let me start by noting that these are my own views and do not necessarily reflect those of the Federal Reserve Board or the Federal Open Market Committee. 1
+
+Climate change is already imposing substantial economic costs and is projected to have a profound effect on the economy at home and abroad. 2 Future financial and economic impacts will depend on the frequency and severity of climate-related events and on the nature and the speed at which countries around the world transition to a greener economy. 3
+
+Climate change and the transition to a low-carbon economy create both risks and opportunities for the financial sector. Financial institutions that do not put in place frameworks to measure, monitor, and manage climate-related risks could face outsized losses on climate-sensitive assets caused by environmental shifts, by a disorderly transition to a low-carbon economy, or by a combination of both. Conversely, robust risk management, scenario analysis, and forward planning can help ensure financial institutions are resilient to climate-related risks and well-positioned to support the transition to a more sustainable economy.
+
+1 I am grateful to Morgan Lewis and Kevin Stiroh of the Federal Reserve for their assistance in preparing this text.
+
+2 U.S. Global Change Research Program, Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II , D.R. Reidmiller, C.W. Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.) (Washington: USGCRP, 2018), https://nca2018.globalchange.gov/.
+
+3 Intergovernmental Panel on Climate Change (IPCC), 'Summary for Policymakers' in: Global Warming of 1.5°C: An IPCC Special Report , V. Masson-Delmotte, P. Zhai, H.O. Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, T. Waterfield (eds.), 2018, https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of1-5c-approved-by-governments/; on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty.
+
+## Making Progress on Climate Change
+
+The economic consequences of climate change are already in evidence. There is growing evidence that extreme weather events related to climate change are on the risedroughts, wildfires, hurricanes, and heat waves are all becoming more common. 4 Natural disasters are a major source of losses to households and businesses; one study finds that natural disasters have resulted in more than $5.2 trillion in losses globally since 1980, more than 70 percent of which was not insured. 5 Extreme weather events have been shown to disrupt corporate supply chains and impact corporate profitability. 6 Chronic flooding and sea level rise negatively impact property values. 7 These events are expected to increase in frequency and severity over time, which could impact borrower creditworthiness or collateral values.
+
+With climate-related risks on the rise, governments, regulators, corporations, and investors are mobilizing to accelerate the transition to a greener economy, including through ambitious targets for reducing greenhouse gas emissions. Unanticipated or abrupt shifts in policy, technology, or investor sentiment have the potential to produce abrupt repricing events that could result in losses on financial institution balance sheets.
+
+4 See World Meteorological Organization (WMO) Task Team, Global Warming and Hurricanes: An Overview of Current Research Results (Princeton: Geophysical Fluid Dynamics Laboratory, 2020), https://www.gfdl.noaa.gov/global-warming-and-hurricanes/; and The Intergovernmental Panel on Climate Change, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (Geneva: IPCC, 2012), 44-8, https://www.ipcc.ch/report/managing-the-risks-of-extreme-events-anddisasters-to-advance-climate-change-adaptation/changes-in-climate-extremes-and-their-impacts-on-thenatural-physical-environment/.
+
+5 Munich Re, 'Risks Posed by Natural Disasters,' 2020, https://www.munichre.com/en/risks/naturaldisasters-losses-are-trending-upwards.html#-1624621007.
+
+6
+
+See, for example, Jean-Noel Barrot and Julien Sauvagnat, 'Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks,' The Quarterly Journal of Economics 131 (3): 1,543-92. 7 Also Francesc Ortega and Süleyman Taspinar, 'Rising Sea Levels and Sinking Property Values: The Effects of Hurricane Sandy on New York's Housing Market.' Journal of Urban Economics, 2018, 106: 81-100.
+
+Over a longer horizon, such shifts could also have implications for their business strategies.
+
+Climate change can affect the financial system through both of these channels. 'Physical risks' refer to damages caused by an increase in the frequency or severity of weather events or other climate shifts. 'Transition risks' arise from changes in policy, technology, or consumer behavior that lead to a lower-carbon economy. These physical and transition risks could materialize as traditional financial risks to supervised institutions, including through increased credit, market, operational, reputational, and liquidity risk.
+
+We are already seeing financial institutions responding to climate-related risks by encouraging borrowers to adapt to and manage the risks associated with a changing climate, responding to investors' demands for climate-friendly portfolios, and funding critical private-sector initiatives to move toward more climate-friendly business models. 8 As noted by members of our Federal Advisory Council, '[t]here has been increasing awareness among financial institutions of the need to define and develop risk management frameworks that incorporate these [climate-related financial] risks into strategic decision making on multiple levels, including investment approaches and the long-term structuring of portfolios.' 9
+
+Supervisors have a responsibility to ensure that financial institutions are resilient to all material risks-including those related to climate change-both currently and into
+
+8 See, for example, COP26 Private Finance Hub, 'Building a Private Financial System for Net Zero,' 2020. Also, Taskforce on Scaling Voluntary Carbon Markets, 'Final Report,' January 2021, https://www.iif.com/Portals/1/Files/TSVCM\_Report.pdf; Climate Policy Initiative, 'Global Landscape of Climate Finance 2019,' November 7, 2019, https://www.climatepolicyinitiative.org/publication/globallandscape-of-climate-finance-2019/.
+
+9 Federal Advisory Council (FAC) Record of Meeting, (February 4, 2021),
+
+https://www.federalreserve.gov/aboutthefed/files/fac-20210204.pdf.
+
+the future. It is essential that financial institutions-and the financial sector as a wholeare resilient to and prepared for the challenges of climate change. A recent survey of central banks found a large majority view it as appropriate 'to act within their existing mandate to mitigate climate-related financial risks' that 'could potentially impact the safety and soundness of individual financial institutions and could pose potential financial stability concerns for the financial system.' 10
+
+Addressing climate-related risks and opportunities, however, will not be easy. It will require a sustained commitment-both from financial institutions and their regulators-to invest in expertise, modeling, and data, and a willingness to learn and improve over time. Climate change presents a number of complex conceptual and practical challenges that must be considered as we work together to develop a framework to ensure financial institutions are resilient to climate-related risks.
+
+Despite the challenges, it will be critical to make progress, even if initially imperfect, in order to ensure that financial institutions are resilient to climate-related financial risks and well-positioned for the opportunities associated with the transition to a more sustainable economy. I will touch on a few of the conceptual challenges that will need to be addressed as we consider the implications of climate change for our mandated responsibilities and determine how best to incorporate climate-related risks into our supervisory framework.
+
+10 Basel Committee on Banking Supervision, Climate-Related Financial Risks: A Survey on Current Initiatives , April 2020, https://www.bis.org/bcbs/publ/d502.pdf.
+
+## Uncertainty, Data, and Disclosure
+
+While the scientific evidence for climate change is unequivocal, estimates of the magnitude of climate-related financial risks are highly uncertain. 11 This uncertainty stems from a number of factors. Predicting the timing and magnitude of physical risk drivers such as hurricanes, wildfires, or droughts is inherently complex. The predicted path of climate change may be nonlinear and may include tipping points or critical thresholds that, when exceeded, can lead to a significant change in the state of the climate system. 12 There is also transition-related uncertainty associated with policy developments, technological change, and shifts in behavior and preferences. Moreover, the economic and financial market impacts of climate-related risks vary across geographies, sectors, and jurisdictions and depend importantly on the existence of feedback loops. Finally, the long time horizon associated with climate change, the lack of historical data, the potential for sudden shifts in asset valuations, and the paucity of information on the climate-sensitivity of exposures complicate the translation of climaterelated risks into measures of credit, market, liquidity, reputational, and operational risks. 13
+
+Improved data, disclosures, and modelling techniques will be crucial to reducing uncertainty around the potential magnitude of risks related to climate change. Financial institutions are collecting data and experimenting with scenario analysis and other
+
+11 USGCRP, 'Climate Science Special Report: Fourth National Climate Report,' U.S. Global Change Research Program.
+
+12 IPCC, Impacts of 1.5⁰C Global Warming on Natural and Human Systems , 2018, pp. 262.
+
+13 Glenn D. Rudebusch, 'Climate Change Is a Source of Financial Risk,' Federal Reserve Bank of San Francisco Economic Letter, February 8, 2021, https://www.frbsf.org/economic-
+
+research/publications/economic-letter/2021/february/climate-change-is-source-of-financial-risk/.
+
+techniques to better understand the potential impact of climate-related risks to their balance sheets and business models. 14 Similarly, the Federal Reserve is investing in data and empirical work to analyze the transmission of climate-related risks to the economy and developing methodologies to measure these risks, as are other central banks. 15
+
+Financial institutions note that 'the development of uniform data standards and metrics for disclosures will be critical to adequately identify and compare climate risks across businesses and sectors.' 16 That underscores the importance of efforts such as the industry-led Task Force on Climate-related Financial Disclosures (TCFD) that work toward consistent climate-related financial disclosures to improve transparency, reduce uncertainty, and help market participants appropriately assess and price climate-related risks and opportunities. 17 Current voluntary disclosure practices are an important first step, but they are prone to variable quality, incompleteness, and a lack of actionable data. 18 Ultimately, moving toward standardized, reliable, and mandatory disclosures could provide better access to the data required to appropriately manage risks.
+
+14 See, for example, United Nations Environment Programme-Finance Initiative (UNEP-FI), 'Extending Our Horizons: Assessing Credit Risk and Opportunity in a Changing Climate' (Geneva: UNEP-FI, April 2018), https://www.unepfi.org/news/themes/climate-change/extending-our-horizons/; UNEP-FI, 'Beyond the Horizon: New Tools and Frameworks for Transition Risk Assessments from UNEP FI's TCFD Banking Programme,' (Geneva: UNEP-FI, October 2020), https://www.unepfi.org/publications/bankingpublications/beyond-the-horizon/.
+
+15 See, for example, Network for Greening the Financial System (NGFS), 'Guide to Climate Scenario Analysis for Central Banks and Supervisors,' June 2020,
+
+https://www.ngfs.net/sites/default/files/medias/documents/ngfs\_guide\_scenario\_analysis\_final.pdf. 16 Federal Advisory Council (FAC) Record of Meeting, (February 4, 2021), https://www.federalreserve.gov/aboutthefed/files/fac-20210204.pdf.
+
+17 Task Force on Climate-related Financial Disclosures, Final Report: Recommendations of the Task Force on Climate-related Financial Disclosures ' (New York: TCFD, June 2017),
+
+https://assets.bbhub.io/company/sites/60/2020/10/FINAL-2017-TCFD-Report-11052018.pdf.
+
+18 See, for example, Pedro Faria, Tony Rooke, and Esben Madsen, Pitfalls of Climate-Related Disclosures , Climate Disclosure Project, https://b8f65cb373b1b7b15feb-
+
+c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/comfy/cms/files/files/000/000/784/original/Pitf alls-of-Climate-Related-Disclosure.pdf.
+
+Even with improved data and disclosures, uncertainty about the future climate trajectory will remain. 19 This residual uncertainty should not stand in the way of making prudent investments in risk-management practices in the near term to strengthen the financial sector against climate-related risks. Instead, supervisory approaches should encourage institutions to take the necessary risk-management steps to ensure their business models and strategies are robust to the wide range of potential outcomes that may evolve over time-including the possible use of new tools where appropriate.
+
+## Tools
+
+Climate-related risks have unique characteristics that may warrant consideration of new approaches to measuring and managing risk, and new or enhanced supervisory tools. Determining whether the existing supervisory toolkit is adequate or if changes are needed will require careful thought and rigorous analysis of the unique aspects of climate risks, including their long-time horizon, variability across geographies and sectors, and data challenges. As always, supervisory approaches will be informed by analytical assessments and transparent discussions.
+
+Supervised institutions are beginning to adapt their governance, riskidentification, and risk-management processes, and business models to reflect climaterelated risks. It is clear that physical and transition risks could have significantly different impacts on institutions of varying sizes, complexities, and business models, and with exposures to different geographies. Banks have told us that, 'prospective guidance and regulation should be (1) designed to assist institutions of all types and sizes to
+
+19 Patrick Bolton, Morgan Després, Luiz Awazu Pereira da Silva, Frédéric Samama, and Romain Svartzman, The Green Swan: Central Banking and Financial Stability in the Age of Climate Change (Basel: Bank for International Settlements, January 20, 2020), https://www.bis.org/publ/othp31.htm.
+
+measure, monitor, and disclose the associated financial risks [from climate change]; and (2) tailored to the complexity of specific types of institutions.' 20
+
+In light of the high uncertainty inherent in estimating climate risks, scenario analysis may be a helpful tool to assess the microprudential and macroprudential implications of climate-related risks under a wide range of assumptions. Climate scenario analysis identifies climate-related physical and transition risk factors facing financial firms, formulates appropriate stresses of those risk factors under different scenarios, and measures their effects on individual firms and the financial system as a whole.
+
+To be clear, scenario analysis is distinct from our traditional regulatory stress tests at banks. Scenario analysis is an exploratory exercise that allows banks and supervisors to assess business model resilience to a range of long-run scenarios. It seeks to understand the effects of climate-related risks on a range of financial markets and institutions, as well as the potentially complex dynamics among them. By contrast, traditional stress tests are a regulatory exercise to assess the capital adequacy of banks to specific macroeconomic scenarios and financial market shocks over the short-run. We are closely following the climate scenarios being developed by other central banks and supervisory authorities and engaging with those institutions so we can learn from their experiences. It will be important to think carefully about the potential for scenario analysis to support microprudential and macroprudential objectives and to consider how stress testing and scenario analysis may complement one another.
+
+20 Federal Advisory Council (FAC) Record of Meeting, (February 4, 2021),
+
+https://www.federalreserve.gov/aboutthefed/files/fac-20210204.pdf.
+
+## Efficiency and Robustness
+
+There is unlikely to be a single 'right' approach to a challenge as complex as the financial impact of climate change. Microprudential supervisors and regulators generally aim to promote the goals of a safe and sound banking system in the way that is as efficient and effective as possible. 21 Developing an effective framework is likely to be a complex undertaking in considering the linkages between climate change, the economy and financial markets, and ultimately the risks faced by individual banks.
+
+For instance, consider model development and scenario analysis. At first glance, it might appear most efficient and least burdensome to apply a prescriptive approach that specifies the appropriate data and a scenario and leverages a particular credit model to produce a standardized output across firms. Although there are benefits to standardization in some areas such as data and taxonomies, it is not clear a highly prescriptive approach would be the most effective way to ensure financial institutions are well-prepared for the range of possible impacts of climate change, even if the execution burden is low. Ultimately, the outcomes are likely to be more robust if we innovate and experiment, and leverage a range of complementary approaches being developed in both the private and the public sectors. 22 In considering the trade-off here, we should strive
+
+21 Kevin J. Stiroh, 'Policy Efficiency in Supervision,' remarks at Bank Regulation, Lending, and Growth Conference, Bank Policy Institute and Columbia University's School of International and Public Affairs, March 1, 2019, https://www.newyorkfed.org/newsevents/speeches/2019/sti190301.
+
+22 In our supervision of banks' capital stress testing (Comprehensive Capital Analysis and Review, or, CCAR), we learned it was important to avoid 'model monoculture' that would expose all firms to the same model risk and uncertainty and could be vulnerable to a single, common failure. Instead, CCAR leverages internal bank models that capture banks' idiosyncratic risks and allows for diversity and innovation of models and risk management tools across the banking sector. See Ben Bernanke, 'Stress Testing BanksWhat Have We Learned?' speech at 'Maintaining Financial Stability: Holding a Tiger by the Tail' financial markets conference sponsored by the Federal Reserve Bank of Atlanta, Stone Mountain, Georgia, April 8, 2013, https://www.federalreserve.gov/newsevents/speech/bernanke20130408a.htm.
+
+for an appropriate balance that allows for innovation and learning across the public and private sectors, iterating in the most effective way possible.
+
+## The Path Ahead
+
+While recognizing the challenges, the Federal Reserve is making strides in better understanding climate-related risks and determining how best to incorporate them into our supervisory framework. The Federal Reserve announced last month the creation of a Supervision Climate Committee (SCC). 23 It will strengthen the Federal Reserve's capacity to identify and assess financial risks from climate change. The SCC will work to develop an appropriate program to ensure the resilience of supervised firms to climaterelated financial risks. It will leverage expertise from across the Federal Reserve System to develop a robust, tailored program that reflects risk differences across types of firms and geographies.
+
+The SCC is focusing on engagement with the private and official sectors to understand the potential impact of climate-related risks. It is engaging with a diverse group of supervised institutions and industry groups to learn how banks of different sizes, with different business models and different geographic exposures are considering both climate risks and opportunities and what they are doing to prepare for the transition to a low-carbon economy. We are learning a great deal from these discussions, and we look forward to continued engagement with the industry on this topic.
+
+The microprudential work of the SCC is one part of our efforts to take into account climate-related risks in carrying out the responsibilities Congress has assigned to
+
+23 Federal Reserve Bank of New York, 'Kevin Stiroh to Step Down as Head of New York Fed Supervision to Assume New System Leadership Role at Board of Governors on Climate,' news release, January 25, 2021, https://www.newyorkfed.org/newsevents/news/aboutthefed/2021/20210125.
+
+us. The SCC will work with staff in our financial stability, community development, international coordination, and research and data areas to build a coordinated approach to integrating climate-related risks where they affect our responsibilities.
+
+The Federal Reserve is engaging with colleagues from other regulatory agencies, central banks, and standard-setting bodies. At home, this includes exploring with members of the U.S. Global Change Research Program the ways additional scientific data, models, and other information would be used to expand our analysis of weatherrelated disasters and climate-related risks.
+
+Climate change is a global challenge, and we recognize the benefit of collaboration across the official sector, while also taking into account important differences across jurisdictions. The Federal Reserve is co-chairing the Basel Committee on Banking Supervision's Task Force on Climate-Related Financial Risks (TFCR). 24 Having completed a stock-take of members' existing regulatory and supervisory initiatives on climate-related financial risks, the TFCR is now focused on finalizing by midyear a report exploring the transmission channels of climate risks to the banking system and a report that describes the methodologies used by banks and supervisors to measure these risks. Next, the TFCR will turn its attention to developing supervisory practices to mitigate climate-related financial risks where there are potential gaps in the Basel framework. Already, many banks are incorporating supervisory expectations with regard to management of climate-related risks in foreign jurisdictions, for instance from
+
+24 Kevin J. Stiroh, 'The Basel Committee's Initiatives on Climate-Related Financial Risks,' remarks at the 2020 IIF Annual Membership Meeting,' October 14, 2020, https://www.bis.org/speeches/sp201014.htm.
+
+the European Central Bank and the UK Prudential Regulatory Authority. 25 The TCFR's work will be helpful in strengthening supervisory collaboration across jurisdictions, which is important to banks that are internationally active.
+
+We also participate in the Financial Stability Board's (FSB) work on climate change. Building on previous reports on climate-related risk-transmission channels in the financial system, with a particular focus on amplification mechanisms and cross-border effects, the FSB is now assessing the availability of data through which climate-related risks to financial stability could be monitored, as well as any data gaps. 26 In addition, the FSB is exploring ways to promote globally comparable, high-quality and auditable standards of disclosure based on the recommendations in the TCFD.
+
+The Federal Reserve recently became a full member of the Network for Greening the Financial System (NGFS), a network of more than 80 central banks and supervisory authorities from around the world that focuses on sharing research and identifying best practices to ensure the financial system is resilient to climate-related risks. Through the NGFS, we are engaged in work on the microprudential and macrofinancial impacts of climate change, trends in green finance, data gaps, and research.
+
+In wrestling with the many complexities and challenges related to climate change, there are likely to be significant opportunities for collaboration with the private and
+
+25 European Central Bank, Guide on Climate-Related and Environmental Risks: Supervisory Expectations Relating to Risk Management and Disclosure , (Frankfurt: ECB, November 2020),
+
+https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202011finalguideonclimate- relatedandenvironmentalrisks~58213f6564.en.pdf; and Bank of England Prudential Regulatory Authority,
+
+'Managing Climate-Related Financial Risk-Thematic Feedback from the PRA's Review of Firms' Supervisory Statement 3/19 (SS3/19) Plans and Clarification of Expectations,' letter, July 1, 2020, https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2020/managing-thefinancial-risks-from-climate-
+
+change.pdf?la=en&amp;hash=A6B4DD1BE45B2762900F54B2F5BF2F99FA448424.
+
+26 Financial Stability Board, The Implications of Climate Change for Financial Stability , November 23, https://www.fsb.org/wp-content/uploads/P231120.pdf.
+
+official sectors. These are not easy problems, and they will not have easy solutions. We will undoubtedly reach better outcomes if we tackle these challenges through open dialogue, information sharing, and transparency. Together, we can help ensure the financial system is resilient to the risks that arise from climate change and wellpositioned to support the transition to a greener economy.

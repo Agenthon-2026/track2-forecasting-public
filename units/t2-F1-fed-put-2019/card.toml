@@ -10,9 +10,8 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
-tags                     = ["forecasting", "factors_daily", "t2-f1", "t2c-F1-dovish-pivot-2019"]
+tags                     = ["forecasting", "factors_daily", "t2-f1", "t2c-F1-mkt-policy-speech-2019"]
 expert_time_estimate_min = 45.0
 junior_time_estimate_min = 120.0
 asset_panel      = "factors_daily"
@@ -21,7 +20,7 @@ n_assets         = 1
 target_type      = "log_return"
 target_frequency = "daily"
 description      = "Cumulative Market Factor Return After a Dovish Policy Pivot (128 BD). As-of 2019-06-04; targets MKT at horizons [128] BD. Policy-put repricing; speech text is the incremental signal on top of a calm panel."
-created_by       = "Ruolan Sun (catalog t2c-F1-dovish-pivot-2019)"
+created_by       = "Ruolan Sun (catalog t2c-F1-mkt-policy-speech-2019)"
 created_date     = "2026-07-03"
 
 [provenance]
@@ -76,7 +75,7 @@ path           = "text/"
 cutoff         = "2019-06-04"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 7
+n_documents    = 9
 notes          = "As-of a dovish opening-remarks pivot signalling readiness to support the expansion amid trade-war stress; MKT rose on the speech day. The question is whether the supportive-policy regime holds over the six months that follow, with symmetric width around a text-conditioned drift."
 
 [targets]

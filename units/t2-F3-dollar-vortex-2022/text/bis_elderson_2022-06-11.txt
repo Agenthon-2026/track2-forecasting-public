@@ -1,0 +1,92 @@
+Frank Elderson: Supervising banks' governance - structure, behaviour and culture
+2022-06-11
+
+Speech
+
+## Supervising banks' governance: structure, behaviour and culture
+
+Keynote speech by Frank Elderson, Member of the Executive Board of the ECB and Vice-Chair of the Supervisory Board of the ECB, Florence School of Banking and Finance's Bank Board Academy 'Sitting on Bank boards: Suitability and better governance'
+
+Florence, 11 June 2022
+
+I am delighted to be here and would like to thank the organisers for inviting me to speak here today. I applaud the Florence School of Banking and Finance for bringing together regulators, supervisors, academics and banking and finance professionals, fostering dialogue between us. After all, one of the principles of good governance is listening to a wide range of voices and seeking common solutions.
+
+And that is precisely what I would like to talk about today: good governance - its scope, what it looks like, and how the ECB goes about supervising it. Today, I will address not only the more familiar elements of governance, such as internal governance arrangements or the role and composition of banks' boards, but also the key role played by behaviour and culture within banks.
+
+State-of-the art risk management and management bodies consisting of board members who are both individually and collectively up-to-the-job are very necessary attributes of sound, well-run banks. But while they are necessary, they are not sufficient: it is time that we also have a closer look at some of the behavioural drivers of decision-making in banks. I will discuss this particular dimension of governance in the second part of my speech.
+
+## Banks' internal governance
+
+First, let me start with internal governance. Internal governance concerns the way in which a bank is organised and the efficacy of its management bodies in conducting business and managing risk. Setting the bank's business objectives, its appetite for risk, its internal controls, as well as allocating roles and responsibilities and setting up adequate reporting lines, are all aspects which fall under the scope of internal governance.
+
+Banks' governance came under close scrutiny during the global financial crisis, when weaknesses in governance, such as excessive risk-taking and misconduct by board members, were identified as some of the root causes of the crisis. [ ] Since then, internal governance arrangements have been strengthened to improve banks' sound and prudent management. This also ensures that their strategies serve more than merely the short-term interests of their shareholders. 1
+
+Now - what does good internal governance look like?
+
+First, it provides for the necessary checks and balances. It counters excessive risk-taking and ensures that decisions are taken in a sustainable manner. In addition, a strong governance framework is one which gives board members access to good data in good time. This is a pre-condition for wellinformed decision-making. [ ] Unfortunately, too many banks in the banking union still do not possess sufficiently agile IT systems to adequately aggregate data on risk appetite, risk limits and risk profiles. Weaknesses in this area are one of the main factors hindering the effectiveness of governance frameworks of these banks. 2
+
+Beyond this, also banks' management bodies - both in their managerial and supervisory function have an impact on banks' governance, performance and sustainability. I will now first focus on this other dimension of governance: the role and composition of banks' boards.
+
+## Role and composition of banks' boards
+
+Banks' management bodies have an array of important responsibilities. They set the bank's risk appetite and ensure that it is adhered to at every level of the institution. They ensure that any material risks to which the bank is, or could be, exposed are identified, monitored and mitigated. And they are responsible for communicating the bank's strategic objectives, risk appetite and values, not only to external stakeholders through transparent disclosures, but also internally within the bank.
+
+In particular, management bodies play a key role in steering the strategic course of a bank and setting it on the path towards sustainable long-term objectives. Especially in times of crisis, a well-governed bank, with a clear understanding of its main risks and core revenue sources, is likely to adapt more quickly and perform better. First with the pandemic and now with the war in Ukraine, but also in the face of the climate and environmental crises, it is important that banks and their boards have an active strategy to tackle the challenges arising from events that can have a significant economic impact.
+
+As for the composition of banks' boards, and given their importance, the ECB pays particular attention to assessing their collective suitability, diversity and effective functioning.
+
+Of course, ensuring the suitability of its management bodies and key function holders is, first and foremost, the bank's own responsibility. The ECB acts as a gatekeeper by performing a prudential check on the candidates for these roles, as much as possible under the applicable laws before they take up their positions, and by setting conditions, obligations or recommendations that must be adhered to by the banks to ensure the suitability of its management.
+
+When assessing appointees to the board or other key management functions of European banks, we consider their knowledge, skills and experience, as well as their reputation and the time they are able to dedicate to the role. We also take into account any possible conflicts of interest arising from the bank's various activities and clients which could potentially hinder the independence of mind of those occupying key positions. [ ] 3
+
+Most importantly, suitability must be met at all times. The emergence of new facts that may affect the banks' or the ECB's initial assessment of a board member's suitability could lead to a reassessment of the suitability of that member, by either the bank or the ECB. In cases where a board member is deemed no longer suitable, he or she may be removed from their management function, as provided for under EU law.
+
+Beyond individual suitability, we also have expectations for the board as an ensemble - i.e. whether collectively its members have the right combination of characteristics to adequately manage the bank. Between them, board members must have a good range of skills and experience, including, but not limited to, being well-versed in risk management. They must have a clear picture and a good understanding of the risks banks face and be ready and able to mitigate those risks.
+
+In addition, banks' boards must be diverse - not just in terms of gender, but also in terms of broader diversity, as set out in EU law. [ ] We have engaged with those banks which do not yet have diversity policies or internal targets for gender diversity at board level. As at the end of 2021, a third of the banks under our direct supervision did not meet their internal targets for gender representation at board level. 4
+
+Of course, the economic environment and the skills required to navigate the banking business keep evolving. Nowadays, a bank's board should be well-versed in climate and environmental risks, as well as IT infrastructure and digitalisation strategies. We therefore encourage banks to nominate board members with adequate expertise in these areas. Digital banks are increasingly complex structures and cybersecurity has never been more important. However, at the end of 2021, only around a fifth of the euro area's largest banks had sufficient IT expertise at board level. Increasing this ratio will be key for banks to navigate the digital era successfully.
+
+## Behaviour and culture
+
+The elements I have mentioned thus far make up the design and structure of a bank's internal organisation. They influence the effectiveness of the bank's internal governance, the soundness of its risk management, and therefore the very sustainability of its business.
+
+But structure and design are not the only elements that determine how robust a bank's governance framework is. The behavioural patterns exhibited by management and staff, as well as the drivers that underpin that behaviour, are no less important. A bank can have all the risk controls in place, avail itself of the most advanced tools to manage risks, and rely on data of the highest quality, but still become mired in a scandal it has brought upon itself, which badly affects its reputation owing to weaknesses in its internal culture.
+
+It is one thing that someone decides to take on too much risk, to put the immediate interests of the bank before its longer-term interests, or even to break the law. It is another thing if such unwarranted behaviour is not adequately addressed. If such acts have no apparent consequence, that will be noticed by a colleague. And then by another, and then by ever more colleagues. And soon enough, a new group norm is established.
+
+Misguided decisions are often rooted in each person's values and beliefs, as well as their perception of what behaviour is valued within the structure around them. The overriding behaviour and culture within an organisation are thus the product of both individual behaviour and the underlying culture that acts as a breeding ground for that behaviour.
+
+It is important for a bank to identify and be aware of the structures, beliefs and group dynamics which echo throughout the entire institution and which may pose a risk to its performance and stability. Banks' management bodies should be attentive to these intangible but real underlying drivers of behaviour and, if warranted, acknowledge the need to shift the paradigm before it is too late and negative practices become the norm.
+
+Could there be a role for us as supervisor? Whereas we look at elements like the composition of a board as part of a more standard governance assessment, in a broader supervisory governance assessment, including behaviour and culture, we could, for example, seek to identify the patterns of board discussions. Which subjects generate tension? Which topics tend to be neglected? Which board members are the most influential when it comes to making a decision? Do board members include the bank's declared set of values and norms in their decision-making? Do they walk the talk, when facing the rest of the organisation? Are discussions in the boardroom or between members of executive committees dominated by one person or a small group of individuals?
+
+Including a bank's behaviour and culture in broader supervisory governance assessments could possibly also involve assessing the management bodies' culture of learning. Can they critically reflect on past experiences, produce a vision of what the culture ought to be, and be candid about what needs to change to achieve it? And how agile and resolute is the bank in actually changing the beliefs, structures, dynamics and thus behavioural patterns that are preventing it from reaching, or restoring, its reputational and strategic goals?
+
+## Conclusion
+
+Let me conclude.
+
+Some of you here today are non-executive directors at banks. As such, you play a vital role in setting the right tone for your entire institution. Your conduct is crucial in creating a healthy risk culture within your organisation, and you are responsible for nurturing behaviour which reflects the core values of your organisation and protects its best interests, not just in the short-term, but also in the future. Beyond your technical skills and your experience in banking, there are broader expectations regarding your conduct and behaviour as board members. You must ensure that there are concrete consequences for failing to adhere to prudent behaviour.
+
+Governance in the stricter sense deals with the structure which shapes a banks' actions. Getting these structures right is of the utmost importance. But that is not the whole story. It is also relevant how people behave within these more formal structures and what the underlying cultural drivers of their behaviours are. Banks would be well advised to seek to identify these behavioural patterns and to act on them if such patterns encourage conduct which is not in line with their values and risk appetite. It would seem that the least that we as prudential supervisor can do is ask the pertinent questions and challenge banks to look beyond governance in the stricter, more standard sense. I have tried to identify the kind of questions we might ask.
+
+I am very much looking forward to hearing your views in the ensuing discussion, which I hope and trust will be lively and stimulating. I promise we will reflect seriously on any suggestions that you might have.
+
+Thank you.
+
+1.
+
+Kirkpatrick, G. (2009), 'Corporate governance lessons from the financial crisis', OECD Journal: Financial Market Trends , 2009/1(1), pp. 61-87; Saghi-Zedek, N. and Tarazi, A., (2015), 'Excess control rights, financial crisis and bank profitability and risk', Journal of Banking &amp; Finance, No 55, pp. 361-79.
+
+2.
+
+See , ECB, June 2016. SSM supervisory statement on governance and risk appetite
+
+3.
+
+Joint ESMA and EBA Guidelines on the assessment of the suitability of members of the management body and key function holders under Directive 2013/36/EU and Directive 2014/65/EU (2021).
+
+4.
+
+See CRD, Recital 60, Article 88(2) and Article 91(10) of the Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338); CRR, Article 435 (2) (c) of the Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012; and Joint ESMA and EBA Guidelines on suitability, Article 435 (2)(c) of the Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012.

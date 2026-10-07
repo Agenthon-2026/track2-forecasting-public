@@ -1,0 +1,60 @@
+Yves Mersch: Means of payments and SMEs - where are we heading?
+2015-09-29
+
+## Yves Mersch: Means of payments and SMEs - where are we heading?
+
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at the dinner debate, organised by the Think tank Etienne Marcel, Paris, 29 September 2015.
+
+* * *
+
+## 1. Introduction
+
+Mr Cohen-Hadad, (Mr President)
+
+Ladies and gentlemen,
+
+No economy can prosper without healthy, competitive and flourishing small and mediumsized enterprises (SMEs). They are the foundation on which the European economy is built and constitute more than 99% of all firms in the euro area. They employ more than two-thirds of the workforce and generate around 60% of value added. According to recent research, SMEs accounted for around 85% of total employment growth between 2002 and 2010 and have much higher employment growth rates than large enterprises.
+
+The financial crisis hit the financing of SMEs particularly hard. This explains why, in recent years, the ECB and the European Commission have strongly emphasised measures that support both bank and non-bank financing of the European SME sector. These measures and policy initiatives include strengthening bank financing by facilitating longer-term financing and promoting healthier balance sheets. They also aim to diversify into non-bank financing via more efficient securitisation, better transparency and more efficient wholesale infrastructure. 1 This is why the ECB strongly supports the European Commission's initiative to establish a European capital markets union, which will allow businesses to enjoy a greater range of funding choices and help reduce the link between a firm's location and its funding costs.
+
+However, there are other policies that have received less public attention in relation to the competitiveness of the European SME sector, one of the most important being integration and innovation in the retail payments market, particularly for payments in euro. This is what I will focus on tonight.
+
+## 2. Past achievements
+
+Over the past years the public and private sectors have worked together to create the Single Euro Payments Area (SEPA). Regulatory measures and market developments have combined to remove the distinction between domestic and cross-border payments in euro. Retail payments have become much faster, cheaper and more secure. Instead of taking three to five days, euro credit transfers and direct debits are now executed within one business day, not only at the domestic level but also across borders. Fees for cross-border euro transactions decreased to the same level as those for domestic transactions. Last, but certainly not least, payments in general have become more secure due to stronger regulatory attention and requirements.
+
+However, work still remains to further develop an integrated, innovative and competitive market for euro retail payments. To this end, the ECB established the Euro Retail Payments Board (ERPB) at the end of 2013. In this high-level strategic body the demand and supply sides of payment services are given equal importance. SMEs, as a key demand-side
+
+1 See, for example, 'SME access to finance in the euro area: barriers and potential policy remedies', Monthly Bulletin , ECB, Frankfurt am Main, July 2014.
+
+stakeholder group, are represented by UEAPME and Mr Cohen-Hadad. I am convinced that, with this collaborative governance structure, we can be both efficient and output driven.
+
+## 3. What will the future bring?
+
+Let me turn now to the future. How will the work of the Euro Retail Payments Board benefit SMEs?
+
+First, the ECB and ERPB are monitoring the completion of SEPA migration, which is due next year, with the phasing out of national niche credit transfers and direct debits and other waivers. Furthermore, full migration to SEPA credit transfers and SEPA direct debits by non-euro area countries is being monitored. This final stage of the long process of adapting common standards for basic payment services will deliver on the promise to be able to use one single account for euro payments throughout the EU .
+
+Second, the ERPB has called for the launch of a pan-European instant credit transfer scheme in euro. Instant payments are retail payments where the funds sent by the payer are irrevocably credited to the beneficiary's account within seconds of the payment being initiated. Payment service providers are already working on an instant SEPA credit transfer scheme. I expect that instant payment services in euro will be made widely available to European consumers and small businesses by 2018.
+
+The experiences of other markets - particularly the United Kingdom - show that SMEs greatly benefit from faster payment execution. Receiving and making credit transfers instantly will free up cash flow and ease working capital needs. It can also replace card, cheque or cash payments in business situations where goods or services are only delivered against immediate and irrevocable payment and where accepting or making payments with these traditional payment instruments is cumbersome.
+
+Third, electronic invoicing has long been on the agenda of European policy-makers. The ERPB could investigate how a pan-European electronic invoicing landscape could be enriched with more efficient links to payment services. By replacing paper invoices with electronic ones and creating a seamless link between the invoicing process and payment initiation, significant resources can be freed up and used for other purposes. This requires pan-European standards and networks to ensure that as many billers and payers as possible are reached. All this will be discussed at the next meeting of the ERPB in November with a view to the direction to take.
+
+Fourth, as many SMEs are small merchants accepting hundreds or thousands of payments every day at physical points of sale or online from consumers, the work of the ERPB in consumer card and mobile payments is particularly relevant, as this represents a rapidly growing share of the payment mix. The ERPB could focus on two areas here: i) person-toperson mobile payments enabling the convenient initiation of payments to another mobile phone user (be they consumer or merchant); and ii) contactless payments where a fast payment can be made by simply holding the mobile device or card above a merchant's terminal.
+
+Finally, the ERPB also oversees work on traditional technical card standardisation. Such technical standardisation will greatly contribute to a competitive card acquiring industry. In the longer term, this will lead to significantly lower costs for handling card terminals and accepting cards, especially for small merchants.
+
+All of these initiatives aim to contribute to a more efficient and competitive landscape for euro payment services. It is vital to maintain their momentum because they come at a time when the digitalisation of communication and information technology is triggering fundamental structural changes in banking and finance. The traditional retail payments business of banks faces strong competition from financial technology ('FinTech') companies. These are not only small start-ups but also large international enterprises. The so-called GAFAs; namely Google, Apple, Facebook and Amazon, are all offering payment services or considering
+
+doing so. While the new players bring further competition to the market, which is welcome, it is important that there is a level playing field for competition that ensures compliance with regulatory requirements and appropriate customer protection.
+
+## 4. Concluding remarks
+
+Let me conclude.
+
+Although the contribution of retail payments integration to the competitiveness of SMEs has received less public attention than other related measures, SMEs have significantly benefitted from the creation of the Single Euro Payments Area, as well as from the ERPB initiatives that will deepen the integration achieved by SEPA and exploit the innovative potential of digitalisation.
+
+However, there is no room for complacency. When building the retail payments infrastructure of tomorrow, we certainly need the supply side, but we also want the demand side to shape the products according to its needs. The Euro Retail Payments Board offers a unique opportunity for all stakeholders to articulate their concrete expectations and requirements. I therefore invite you to represent SMEs in the ERPB with the same enthusiasm, energy and vigour as when Etienne Marcel - the eponymous Provost of Merchants under Jean II le Bon - stood up for the small tradesmen of Paris in the 1300s.
+
+Thank you very much for your attention.

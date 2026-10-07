@@ -1,0 +1,212 @@
+Michelle W Bowman: The innovation imperative - modernizing traditional banking
+2023-03-14
+
+For release on delivery 5:20 p.m. EDT (11:20 a.m. HST) March 14, 2023
+
+The Innovation Imperative: Modernizing Traditional Banking
+
+Remarks by
+
+Michelle W. Bowman
+
+Member
+
+Board of Governors of the Federal Reserve System
+
+at
+
+Independent Community Bankers of America ICBA Live 2023 Conference
+
+Honolulu, Hawaii
+
+March 14, 2023
+
+I would like to thank the ICBA for the invitation to speak with you today. It is a pleasure to be with you to discuss innovation in the U.S. financial system, the emerging trends that are shaping the industry, and the influence of regulatory approach on this evolution. 1
+
+Before turning to the main theme of my remarks, I would like to take a moment to acknowledge the events of the past week, and the actions taken by regulators in response. As you are aware, last Friday, March 10, the California Department of Financial Protection and Innovation closed Silicon Valley Bank. On March 12, the New York Department of Financial Services closed Signature Bank. In both cases, the Federal Deposit Insurance Corporation (FDIC) has been appointed as receiver. One significant factor leading to the stress and subsequent closure at each institution was the rapid outflow of deposits, specifically uninsured deposits above the FDIC-guaranteed amount of $250,000 per depositor, per account type.
+
+On Sunday, several specific actions were announced that are intended to limit the direct and indirect risks to the U.S. financial system resulting from the closure of these two financial institutions. The Federal Reserve Board announced that it will make additional funding available to eligible depository institutions through a newly created Bank Term Funding Program. 2 This program will offer one year loans to institutions that pledge U.S. Treasury securities, agency debt and mortgage-backed securities, and other qualifying assets as collateral. The facility will provide an additional source of liquidity to banks and eliminate the need for institutions to quickly sell these securities during a time of stress. The FDIC also took action to protect all depositors, including uninsured depositors, of both Silicon Valley Bank and Signature Bank.
+
+1 The views expressed in these remarks are my own and do not necessarily reflect those of my colleagues on the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.
+
+2 Board of Governors of the Federal Reserve System, 'Federal Reserve Board Announces It Will Make Available Additional Funding to Eligible Depository Institutions to Help Assure Banks Have the Ability to Meet the Needs of All Their Depositors,' news release, March 12, 2023,
+
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm.
+
+Beginning Monday morning, these depositors were able to access all of their funds on deposit with these banks. The federal regulators, including the FDIC, the Federal Reserve Board and U.S. Treasury Secretary Janet Yellen approved the actions to protect depositors.
+
+The U.S. banking system remains resilient and on a solid foundation, with strong capital and liquidity throughout the system. The Board continues to carefully monitor developments in financial markets and across the financial system.
+
+Now, turning to the main theme of my remarks today, I will discuss the imperative of fostering innovation in the banking system.
+
+Often, when innovation is discussed within the context of the banking system, the focus is not on traditional banks engaged in core banking activities, like taking retail deposits and making loans. I think this perception misses the mark. Innovation has always been a priority for banks of all sizes and business models, from small community banks to the largest global systemically important banks (G-SIBs), and for good reason. Banks in the U.S. have a long history of developing and implementing new technologies. Innovation has the potential to make the banking and payments systems faster and more efficient, to bring new products and services to customers, and even to enhance safety and soundness. Yet, some have criticized the banking regulators for being hostile to innovation, at least when that innovation occurs within the regulated financial system. Regulators are continually learning about and adapting to new technologies, just as banks are, and regulators can play an important, complementary role, making the regulatory rules of the road clear and transparent to foster bank innovation.
+
+Innovation does pose challenges within the regulated banking system, which can be amplified for community banks. Along with presenting new opportunities, innovation can introduce new risks and create new vulnerabilities. Banks, and really, any business today that
+
+adopts new technologies must be prepared to make corresponding improvements to manage these risks and vulnerabilities, including improvements to risk management, cybersecurity, and consumer compliance. Regulators must continue to promote efforts that are consistent with safe and sound banking practices and in compliance with applicable laws, including consumer protection laws. As I am sure you appreciate, this is not always an easy task, and the regulatory response to innovation must reflect the changes in how banks engage in this process.
+
+It is absolutely critical that innovation not distract banks and regulators from the traditional risks that are omnipresent in the business of banking, particularly credit, liquidity, concentration, and interest rate risk. 3 These more traditional risks are present in all bank business models but can be especially acute for banks engaging in novel activities or exposed to new markets, including crypto-assets. 4 Whatever the cause, many traditional risks can be mitigated with appropriate risk-management and liquidity planning practices, and effective supervision, and without stifling the ability of banks to innovate.
+
+Today, I will address three issues related to innovation. First, I will briefly discuss how bank regulation and supervision can best support responsible innovation. Second, I will touch on the unique challenges that apply to smaller and community banks pursuing innovation. Finally, I will mention a few key actions that the federal banking regulators have taken to date, and how I think about future regulatory and supervisory actions to support innovation. And before I conclude, I will also quickly touch on a few other issues that may be of interest to you.
+
+3 As part of our ongoing outreach and dialogue to community banks, I along with colleagues at the Federal Reserve Bank of Kansas City conducted an 'Ask the Fed' session this past December, discussing unrealized losses at community banks in a rising rate environment. Ask the Fed, a Program of the Federal Reserve System, 'A Discussion of Unrealized Losses at Community Banks in a Rising Interest Rate Environment' (December 16, 2022).
+
+4 See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, Office of the Comptroller of the Currency, 'Joint Statement on Liquidity Risks to Banking Organizations Resulting from CryptoAsset Market Vulnerabilities,' news release, February 23, 2023,
+
+https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230223a1.pdf.
+
+## Supporting Responsible Innovation
+
+In the past, I have spoken about the principles that I believe should guide bank regulation and supervision. 5 I have noted the value of independence-tempered by public accountabilityin the Fed's role as a bank supervisor. I have also stressed the need for clear rules of engagement and predictability in the bank applications process. And I have emphasized that transparency of expectations in rules and guidance are critical to a bank regulatory system that is fair and efficient. I think these principles are instructive when it comes to how regulators should address innovation.
+
+As both consumer needs and their preferences in accessing financial services change, so too must the banking industry. Banks of all sizes see new opportunities to develop enhanced and customized products for their customers, introduce faster payments, and improve efficiency.
+
+If our goal is a banking system that leverages the many benefits of innovation, regulators need to make deliberate choices about how we regulate and supervise. Further, we need to be aware of and sensitive to the unintended consequences of our regulatory framework. The Federal Reserve and the other federal banking agencies have an important role to play in helping ensure banks can innovate in a safe and sound manner, and that role includes transparency in
+
+5 See Michelle Bowman, 'Welcoming Remarks' (speech at the Midwest Cyber Workshop, organized by the Federal Reserve Banks of Chicago, Kansas City, and St. Louis, February 15, 2023),
+
+https://www.federalreserve.gov/newsevents/speech/bowman20230215a.htm; 'Independence, Predictability, and Tailoring in Banking Regulation and Supervision' (speech at the American Bankers Association Community Banking Conference, February 13, 2023),
+
+https://www.federalreserve.gov/newsevents/speech/bowman20230213a.htm; 'Brief Remarks on the Economy and Bank Supervision' (speech at the Florida Bankers Association Leadership Luncheon Events, January 10, 2023), https://www.federalreserve.gov/newsevents/speech/bowman20230110a.htm; 'Large Bank Supervision and
+
+Regulation' (speech at the Institute of International Finance Event: In Conversation with Michelle Bowman,
+
+September 30, 2022), https://www.federalreserve.gov/newsevents/speech/bowman20220930a.htm; 'Technology,
+
+Innovation, and Financial Services' (speech at the VenCent Fintech Conference, August 17, 2022), https://www.federalreserve.gov/newsevents/speech/bowman20220817a.htm; 'My Perspective on Bank Regulation
+
+and Supervision' (speech at the Conference for Community Bankers sponsored by the American Bankers
+
+Association, February 16, 2021), https://www.federalreserve.gov/newsevents/speech/bowman20210216a.htm.
+
+expectations. And of course, we must ensure that regulation and supervision do not place unnecessary burdens on small banks. The vast majority of banks want to meet regulatory expectations. By publishing clear guidance and developing tools to help assist these banks, regulators can improve regulatory transparency and facilitate compliance.
+
+Transparency is a tool that can serve the supervisory goal of promoting a safe, sound, and fair banking system, particularly when it comes to innovation. In exercising supervisory and regulatory authority, the federal banking agencies must be aware of not only the risks to the U.S. financial system, but also the harm that can be caused to U.S. consumers and businesses when we don't achieve sufficient clarity and transparency in our expectations and when our regulations are disproportionately burdensome to the risks they are intended to address. With innovation, the risk is that a regulatory approach based on subjective, ad hoc judgments-as opposed to clear guidance and regulatory expectations-could cause new products and services to migrate to the shadow banking system. We have already seen a similar phenomenon in some markets, as with nonbank lending, which has proportionately increased when compared to bank lending in recent years.
+
+A lack of transparency, and the corresponding limits on bank innovation, has adverse consequences for consumers, businesses, and communities. Therefore, it should be a regulatory priority to ensure our approach continues to support innovation that is conducted in a safe and sound manner and is consistent with applicable laws, including consumer protection.
+
+## The Innovation Challenges for Community Banks
+
+I think everyone here today recognizes the valuable role that small banks play in the U.S. financial system, and just as important, in the communities they serve. 6 Small banks provide credit and financial services to businesses and individuals through personalized services and relationship banking. Small banks have a deep commitment to their communities and understand their unique customers, including how they may weather the ups and downs of economic cycles.
+
+If we look at the financial health of small banks today, we see an industry that is wellpositioned to support economic growth. Across a broad range of metrics, including capital, liquidity, earnings, credit quality, and loan growth, small banks have been performing well.
+
+But small banks also face unique challenges, especially when it comes to innovation. Small banks tend to have fewer resources to devote to these activities and fewer staff members with the technological expertise to develop products in-house. Therefore, small banks tend to be more reliant on third-party relationships to support innovation, including the critical relationship between small banks and their core service providers. However, third-party relationships can also increase operational risk, data security and cybersecurity vulnerabilities, and create other compliance issues. And of course, a bank's use of third parties does not diminish its responsibility with respect to the activities conducted by the third-party service provider.
+
+I think the principles I mentioned earlier can be particularly relevant when thinking about how regulators can support small bank innovation. Transparency in expectations is important for the smallest banks, who may view innovation as a strategic priority, but may lack the resources of larger peers to engage in innovation and third-party partnerships or cover costs of legal advice
+
+6 For purposes of these remarks, I will refer to regional banking organizations and community banking organizations as 'small banks.'
+
+to address ambiguous regulatory expectations. One way we can adopt a tailored approach is by providing additional resources and tools for smaller institutions to assist with compliance. Regulators have already successfully developed compliance tools. These include the Board's recently developed tools to assist community banks estimate their losses under the Current Expected Credit Loss, or CECL, accounting standard. The federal banking agencies also published a guide for community banks on conducting due diligence for financial technology companies. 7
+
+I think these types of efforts are very important as we introduce new regulations and requirements. Clear guidance and practical implementation tools can reduce the burden of regulation while also promoting compliance.
+
+## The Evolving Regulatory Response to Innovation
+
+Innovation allows banks to become more efficient and better meet customer demands. So, while bank regulators do not want to hinder innovation, we also have a responsibility to ensure that the banking industry adopts new technologies appropriately. To help balance these two goals, it is incumbent upon regulators to prioritize clear guidance to banks. Having clear (and public) regulatory expectations not only supports public accountability, but also gives banks greater flexibility to innovate and experiment with new technologies.
+
+Across a range of activities, both banks and regulators are working to make innovation accessible to all banks, with clear guidance and additional tools and resources to help small banks. I'll now turn to a few specific examples where regulators have been working to develop transparency and clear expectations.
+
+7 Board of Governors of the Federal Reserve System, FDIC, and OCC, 'Conducting Due Diligence on Financial Technology Companies: A Guide for Community Banks' (Washington: Board of Governors, FDIC, OCC, August 2021), https://www.federalreserve.gov/publications/files/conducting-due-diligence-on-financial-technology-firms202108.pdf.
+
+## Crypto-asset activities
+
+Many bank customers have expressed interest in crypto-assets over the past several years, with some banks exploring how they can meet this customer demand. There are a multitude of design and use cases for new and innovative technologies, such as distributed ledger technology and crypto-assets, which can pose unique challenges for regulators. The variability of these activities complicates the development of clear regulatory expectations around safety and soundness and risk management, and raises questions about legal permissibility. The lack of clear and timely regulatory guidance creates a real challenge for banks interested in exploring these activities.
+
+Crypto-asset activities remain an important focus for the Federal Reserve and other bank regulators. While some banks continue to explore offering crypto-asset-related products and services to their customers, the extreme volatility of these assets creates significant challenges for banks. These assets also vary widely in terms of their structure, the markets for trading, and whether they are backed by any assets. Until clear statutory and regulatory parameters exist to govern these types of assets and the exchanges on which they are traded, I think some of the uncertainties about how the banking system can engage in crypto activities will remain unsettled.
+
+While there is more to do, there have been some helpful initial steps to provide clarity on regulatory expectations. First, the Board published guidance clarifying that all state member banks should notify their lead supervisory point of contact prior to engaging in crypto-assetrelated activities. 8 The letter also clarified the broad requirements of a firm's obligations, including the need to analyze the legal permissibility of the activities, and to develop adequate
+
+8 Board of Governors of the Federal Reserve System, 'SR 22-6 Letter / CA 22-6 Letter: Engagement in CryptoAsset-Related Activities by Federal Reserve-Supervised Banking Organizations,' August 16, 2022, https://www.federalreserve.gov/supervisionreg/srletters/SR2206.htm.
+
+systems, risk management, and controls to conduct these activities in a safe and sound manner and consistent with all applicable laws.
+
+More recently, the bank regulators published additional guidance to highlight the risks of crypto-asset-related activities. In January, the federal agencies released a statement highlighting crypto-asset risks and recently issued a statement on liquidity risks resulting from crypto-asset market vulnerabilities. 9 Federal Reserve staff continues to develop guidance on crypto-asset activities, including on custody, trade facilitation, loans collateralized by crypto-assets, and the issuance and distribution of stablecoins. I think these are critical next steps to provide clarity around regulatory expectations.
+
+## Third-party risk management
+
+Third-party relationships can provide smaller banks access to new products, services, and technology. The scope of these partnerships can be quite broad, including fintech companies, partners who use the bank's 'Banking as a Service' products, cloud service providers, and many others. But third-party partnerships designed to bring innovation into a bank can also create riskmanagement and due diligence challenges, particularly with respect to identifying the risks that a third-party partner may pose and to managing these risks.
+
+For small banks, these compliance problems can be amplified by a number of factors. Small banks may have limited experience and in-house expertise conducting due diligence on third-party partners like fintech companies. And small banks likely have limited leverage in negotiating contracts and informational rights with third-party partners. Small banks may also
+
+9 Board of Governors of the Federal Reserve System, FDIC, and OCC, 'Joint Statement on Crypto-Asset Risks to Banking Organizations' (Washington: Board of Governors, FDIC, OCC, January 3, 2023), https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230103a1.pdf; 'Joint Statement on Liquidity Risks to Banking Organizations Resulting from Crypto-Asset Market Vulnerabilities,' February 23, 2023, https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230223a1.pdf.
+
+encounter friction with nonbank partners who fail to understand the bank's ongoing responsibilities to ensure that even outsourced activities are conducted in a safe and sound manner and in compliance with consumer protection laws.
+
+The Federal Reserve and other federal banking agencies can play an important role in helping banks continue to innovate through third-party partnerships. Specifically, the agencies have been working to develop joint guidance to clarify regulatory expectations around thirdparty risk management, which will be an important step in supporting innovation built on thirdparty partnerships.
+
+This guidance could be particularly helpful for small banks. But clearer guidance and regulatory expectations will not fully address these challenges. Guidance alone cannot address the challenges that a small bank faces in conducting due diligence on third parties and the difficulty in negotiating a contract with larger nonbank service providers and partners.
+
+ICBA has taken some important first steps in determining if there are opportunities to fill these knowledge gaps by leveraging collective action to help with due diligence. In addition, some interesting preliminary work has been done to consider whether a standards-setting organization, in the form of a public-private partnership, could expedite due diligence on thirdparty fintech partners. A centralized, standards-setting organization could help develop minimum standards to ensure better consistency in the diligence banks apply to these partnerships. I see a great deal of promise in these efforts, and I support continued work to develop these mechanisms to help small banks innovate through third-party partnerships. Another area in need of attention is in assisting small banks achieve similar treatment in their contracts in comparison to larger nonbank service providers and partners.
+
+All banks should understand regulatory expectations with respect to due diligence, risk management, and ongoing compliance when engaging in third-party relationships. Banking regulators can support this approach by providing clear expectations and the tools smaller banks may need to help them meet these expectations. For example, in 2021 the Federal Reserve began providing state member banks with supervisory reports on their third-party partners that are subject to supervision under the Bank Service Company Act. These reports contain information that may provide helpful insight in assessing the performance of bank service providers, depending on the services used and the risk the services pose. As we are considering additional opportunities to provide resources in this space, your feedback and experience would be helpful to understand where we should focus our future efforts.
+
+## Bank service company oversight
+
+Another area that complements third-party risk management is the agencies' regulatory authority over bank service companies. While banks who engage in partnerships with third parties continue to bear responsibility for due diligence and compliance, we should also consider whether the bank itself, or the third-party service provider, is best positioned to address risks.
+
+The regulatory burden of third-party relationships falls heavily on banks (particularly small banks), and sometimes bleeds over to their core service providers, because the core service providers often make the technical changes to core systems to enable integration with innovative new products and services. Core service providers are already subject to activities-based supervision under the Bank Service Company Act. But with the expansion of third-party relationships, it is worth considering whether this allocation of responsibility remains sound, or whether additional parties-like fintechs and other technology companies-should be subject to closer scrutiny for the products and services they provide to banks. If third parties provide
+
+products and services to bank customers, it also may be appropriate for these providers to bear greater responsibility for their own products and services, including to ensure that they are provided in a safe and sound manner and in compliance with financial and consumer laws and regulations.
+
+## Cybersecurity
+
+We do not often talk about cybersecurity in the context of innovation, but improving cybersecurity can complement innovation. When a bank is planning to develop new technology or pursue innovation, those new activities often bring new risks. As you know, bankers often refer to cybersecurity as one of the top risks facing the banking industry, and the Federal Reserve has issued guidance and examination procedures on a range of cybersecurity issues to help banks prepare for cyber events when they occur.
+
+Cyber threats constantly evolve, and banks' cybersecurity efforts must be dynamic in response. Banks must respond to emerging threats by adapting risk-management practices, engaging with regulators and law enforcement when an attack occurs, and participating in training and exercises to ensure cyber preparedness. As I have noted in the past, the Federal Reserve continues to work closely with banks to support these efforts. 10
+
+## Other Important Trends
+
+Although I won't be able to take questions today, I would like to address a few other issues that may be of interest to this group related to bank regulation and supervision.
+
+Community Reinvestment Act reform . As you all know, last May, the federal banking agencies issued a notice of proposed rulemaking that would amend the Community
+
+10 See Michelle W. Bowman, 'Welcoming Remarks' (speech at the Midwest Cyber Workshop, organized by the Federal Reserve Banks of Chicago, Kansas City, and St. Louis, February 15, 2023),
+
+https://www.federalreserve.gov/newsevents/speech/bowman20230215a.htm.
+
+Reinvestment Act. The agencies received extensive comments on the proposal, including comments describing the costs and benefits of the proposal and how it would impact banks. Chair Powell noted last week that there is essentially agreement among the three agencies. While we are hard at work, it is expected that it will take some months to complete.
+
+I am continuing to review and understand this proposal and the costs it will impose. From my perspective, it will be important to consider how the costs imposed by any final rule compare to the benefits of the rule, not just in the aggregate, but for institutions of different sizes and engaged in different banking activities.
+
+Climate risk management and regulation . Climate risk-management and regulation efforts include the recent launch of a climate scenario exercise for the largest firms and a climate guidance proposal for a broader range of large firms. The Federal Reserve's role in this space is very limited and generally is confined to ensuring banks operate in a safe and sound manner, relying on appropriate risk management.
+
+With respect to climate change risks, it is important to think carefully about the costs and benefits of any guidance and the scope such guidance may include. As proposed, the climate risk-management guidance would apply only to the largest firms. Of course, all banks below this threshold, including small banks, would remain subject to robust risk-management expectations, which includes managing all material risks. In many instances, these expectations may require banks to manage a range of related risks, especially from extreme weather and natural disasters.
+
+Capital . As you know, the banking agencies are currently engaged in a holistic bank capital standards review and are working to implement the Basel III 'endgame' reforms. With respect to the Basel III capital reforms, the agencies recently reaffirmed their commitment to implement these standards to strengthen the resilience of the U.S. financial system. As I think
+
+you all know, there are no plans to propose changes to the community bank capital framework as part of this capital review. It remains to be seen how broad the proposal will be, and for the larger firms, which firms will be affected.
+
+Bank merger policy . There are significant consequences for firms when applications are not acted on in a timely manner, including increased operational risk, the additional expense associated with running two institutions in parallel over a longer period, employee retention issues, and perceived reputational risk. In my mind, this is an area that we need to improve; delays in the processing of applications are not exclusively an issue for large banks.
+
+Small banks are also subject to timing issues when engaged in bank merger transactions. In fact, small banks that operate in more rural areas with few competitors who try to merge with other local banks can raise competitive concerns under the Federal Reserve's traditional merger standards. As I've previously noted, one way to improve the timing of small bank merger transactions is by considering all competitors when evaluating the competitive effects of mergers. 11 In many rural markets, credit unions, farm credit system institutions, banks without a branch presence, and nonbank lenders can all be significant competitors in different product markets. In some cases, these smaller banks face greater issues in pursuing merger transactions than larger banks that operate in dense urban centers with many bank competitors. For all banks engaged in merger transactions, delays should be the exception, not the rule.
+
+Efforts to support minority depository institutions . Minority depository institutions, or MDIs, play an important role in our financial system. MDIs often provide credit and financial services to low and moderate income and minority communities. The Federal Reserve is
+
+11 See Michelle W. Bowman, 'The New Landscape for Banking Competition' (speech at the 2022 Community Banking Research Conference, sponsored by the Federal Reserve, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri, September 28, 2022),
+
+https://www.federalreserve.gov/newsevents/speech/bowman20220928a.htm.
+
+committed to preserving minority ownership of depository institutions, and providing technical assistance to MDIs, through the Fed's Partnership for Progress program. Federal Reserve staff frequently meets with MDI management teams to discuss emerging issues, provide technical assistance, explain supervisory guidance, and respond to management concerns. This engagement not only furthers our efforts to support these banks, but also provides valuable insight and feedback on the challenges facing MDIs. It is also an opportunity to gather feedback on regulatory proposals.
+
+Overdraft fees . Banks often provide limited overdraft protection to customers and historically have charged a fee for this service. Recently, as you know, this practice has come under some regulatory scrutiny. For example, many banks have taken a close look at their practices to ensure that they are subject to appropriate disclosures and are operated in a way that is fair to consumers.
+
+The Federal Reserve's approach in evaluating overdraft practices has been to prioritize compliance through the review of these practices, ongoing engagement with bank management, and most importantly, transparency in our regulatory expectations. Regulatory expectations should never come as a surprise to regulated institutions, and our examiners find that transparency is an effective tool to promote compliance.
+
+I would like to address one specific overdraft practice that has been the focus of recent attention-authorize positive, settle negative (or APSN) transactions. These transactions occur when a bank authorizes a consumer's point-of-sale transaction based on sufficient funds in the consumer's account, but at the time the transaction posts, the consumer's account has insufficient funds. In some cases, the institution imposes an overdraft fee on the consumer when this occurs.
+
+Over the past decade, the Federal Reserve has focused on this issue as part of our supervisory activities. For example, in July 2018, we published an article in the Consumer Compliance Supervision Bulletin that explained our concerns that charging consumers overdraft fees based on APSN can constitute an unfair practice. 12
+
+At the same time, we recognize that some of this risk is driven by system limitations of the core service providers, which can pose a real challenge to community banks confronting this issue in their own transaction processing operations. In some cases, core service providers need to implement changes to their systems to allow banks to avoid charging these fees. While this issue is a narrow one in the context of broader discussions about overdraft fees, it is important. We encourage banks to continue working with their service providers to implement fixes to system-based issues, and we encourage service providers to support their bank clients in providing compliant products.
+
+## Conclusion
+
+Innovation has long been a high priority for banks, and I expect it will continue to be a key issue for the future. New technologies have created significant opportunities for banks to become more efficient and competitive and to provide improved products and services for customers. While innovation brings new opportunities, it also introduces additional risks.
+
+But a transparent regulatory posture for these activities can help banks of all sizes embrace new technologies, to the benefit of their customers and the broader economy. The specific innovations I mentioned today only scratch the surface of the technologies and innovations that banks are exploring, which also include the use of artificial intelligence and machine learning; efforts to develop faster payments, clearing, and settlement technologies; and
+
+12 See Board of Governors of the Federal Reserve System, Consumer Compliance Supervision Bulletin , (July 2018), https://www.federalreserve.gov/publications/files/201807-consumer-compliance-supervision-bulletin.pdf.
+
+many others. For all areas of innovation that banks are interested in pursuing, regulators should continue to prioritize timely, clear, and transparent guidance.
+
+I would like to again thank the ICBA for the invitation to speak to you today, and also to recognize the incredible commitment and efforts of the bankers in this room and beyond in support of their communities and the ongoing strength of the U.S. economy.

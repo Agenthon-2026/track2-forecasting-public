@@ -1,0 +1,749 @@
+# source: https://www.gov.uk/government/publications/the-growth-plan-2022-documents/the-growth-plan-2022-html | date: 2022-09-23 | type: landmark
+
+The Growth Plan 2022 (CP 743)
+HM Treasury, 23 September 2022
+
+- Presented to Parliament by the Chancellor of the Exchequer by Command of His Majesty
+- Laid in Parliament on 23 September 2022
+- CP 743
+- © Crown copyright 2022
+- ISBN 978-1-5286-3688-9
+
+Executive summary
+
+The Growth Plan 2022 makes growth the government’s central economic mission, setting a target of reaching a 2.5% trend rate. Sustainable growth will lead to higher wages, greater opportunities and provide sustainable funding for public services.
+
+The United Kingdom currently faces a period of high inflation. The government has already taken significant steps to address high energy bills, the biggest challenge, by announcing the Energy Price Guarantee. This will mean the average household will pay no more than £2,500 per year for a period of two years from October 2022. The government has committed to a new six-month Energy Bill Relief Scheme for businesses and other non-domestic energy users, including charities and public sector organisations, providing them with a discount on energy prices.
+
+Taken together, these policies will significantly reduce inflation and support growth in the short term.
+
+The government will also make significant interventions in the energy market to help reduce costs and improve resilience, over the longer term. Agreements will be negotiated with major gas producers and electricity generators to bring down wholesale prices. The new Energy Markets Financing Scheme, delivered with the Bank of England, will help to reduce disruption to the UK’s wholesale gas and electricity market. The North Sea Transition Authority will launch a new oil and gas licensing round.
+
+To drive higher growth, the government will help expand the supply side of the economy. The Growth Plan sets out action to unlock private investment across the whole of the UK, cut red tape to make it quicker to deliver the UK’s critical infrastructure, make work pay, and support people to get onto the property ladder. New Investment Zones will provide time-limited tax reliefs, and planning liberalisation to support employment, investment, and home ownership.
+
+The Growth Plan makes good the government’s commitment to cut taxes for people and businesses. The government will cut National Insurance contributions from November and cancel the Health and Social Care Levy and next year’s planned rise in Corporation Tax, keeping it at a competitive rate of 19%.
+
+The government is going further to deliver tax cuts. From 23 September the threshold from which Stamp Duty Land Tax (SDLT) must be paid will be doubled to £250,000 for all home purchases. The threshold at which first-time buyers begin to pay SDLT will increase from £300,000 to £425,000, and the maximum value of a property on which first-time buyers’ relief can be claimed will also increase from £500,000 to £625,000.
+
+The Growth Plan also brings forward the planned cut to the basic rate of income tax to April 2023, and abolishes the additional rate of income tax completely, simplifying the tax system and making the UK more competitive. These tax cuts will ensure individuals keep more of what they earn, and make the UK a more attractive place to live and work.
+
+The government will also repeal the complex changes to off-payroll working, allowing businesses to get on with business. Tax simplification will be embedded at the heart of the tax system as a core HM Treasury and HMRC priority.
+
+The government is committed to fiscal sustainability and reducing debt as a proportion of Gross Domestic Product (GDP) over the medium-term. The government will take the responsible decisions that are needed to achieve this aim, including keeping spending under control. The Chancellor has commissioned the Office for Budget Responsibility to produce a forecast before the end of the calendar year.
+
+Taken together, reforming the supply side of the economy, cutting and simplifying tax, and maintaining fiscal discipline will drive efficiency, enhance UK competitiveness, and help to boost growth sustainably in the long term.
+
+Economic and fiscal context
+
+Economic growth in the UK in the two decades prior to the pandemic averaged 1.8%, almost a percentage point lower than over the previous two decades. [1] Over the same period before the pandemic, UK output per hour grew by 1% per year, fifth in the G7. [2] As a result, public services have been funded by increasing the tax burden to historic highs as a share of the economy, [3] weighing further on growth.
+
+High inflation is compounding this problem by dragging on growth in the near term. Putin’s invasion of Ukraine and weaponisation of Russian energy supplies has further increased gas prices, putting upward pressure on inflation and interest rates, raising the cost of government borrowing. High inflation is weighing on consumption and investment, slowing growth.
+
+The government has taken action in response to these challenges. In the short term, fiscal policy will support households and businesses through the current period of high energy prices. A comprehensive package of supply-side reform and tax cuts will contribute to the government’s primary economic objective to boost trend growth to 2.5%.
+
+Economic growth
+
+Stronger growth is essential for improving living standards. Economic growth is primarily driven by increasing the number of hours worked or by making people more productive while in work. However, since the financial crisis, most G7 economies have seen a slowdown in productivity growth. [4] UK labour productivity growth slowed from roughly 2% in the decade before 2008 to 0.4% in the decade after. [5] Low productivity growth, coupled with pressure on the public finances through the financial crisis and the COVID-19 pandemic, has contributed to the highest debt burden since the 1960s at 96.6% of gross domestic product (GDP). [6]
+
+Boosting productivity growth and labour supply is therefore central to raising the UK’s economic growth. The supply-side reforms announced are at the centre of the government’s Growth Plan and represent an ambitious first step towards achieving 2.5% trend growth in GDP. The government is removing barriers to the flow of private capital – whether taxes or regulation, supporting skilled employment, accelerating infrastructure delivery, getting the housing market moving and cutting red tape for businesses (see Chapter 3).
+
+After a faster than expected recovery in 2021, GDP growth has slowed during 2022. On a quarterly basis, the economy grew 0.8% in the first quarter of 2022 as COVID-related restrictions were removed. [7] GDP then fell by 0.1% in Q2, due to a steep fall in COVID-related health activity and an additional bank holiday in June. [8] Removing the effects of these one-off factors shows that growth in the rest of the economy has slowed, as rapidly rising prices have reduced consumer confidence and weighed on retail spending. [9], [10] Higher input costs, supply chain issues and lower demand have also acted as a drag on business investment. [11]
+
+Inflation
+
+Record energy prices have driven inflation up globally. Consumer Prices Index (CPI) inflation was at a near 40-year high of 9.9% in August. [12] Price pressures have become more widespread since March, with a broader range of items in the CPI basket of goods and services seeing increases that exceed the headline 2% CPI inflation target.
+
+UK energy prices are linked to global markets and have been the largest driver of UK inflation over the last year. Supply of gas to Europe has reduced further since the spring, after Putin’s weaponisation of gas supplies. Prices have increased in the global liquefied natural gas market as Europe and Asia have competed to secure supplies in advance of the winter, driving up UK prices too. [13]
+
+High inflation is affecting consumers and businesses. Households are seeing real incomes fall, while firms struggle with rising costs. With unemployment at a near 50-year low of 3.6% in the three months to July, the relatively small pool of available labour has, along with near record vacancies, helped push nominal total pay growth to 5.5%. Despite this, real regular pay (excluding bonuses) fell by a record 3.9% in the three months to July, due to high inflation. [14] For businesses, higher energy costs and broader supply chain issues have acted as a drag on growth in some industries, such as manufacturing and construction.
+
+The Monetary Policy Committee of the Bank of England is responsible for controlling inflation and has taken action by raising interest rates to 2.25% and will begin active sales of UK government bonds to reduce the stock of purchased bonds by £80 billion over the next twelve months. The independence of the Bank of England is vital and the government has reconfirmed its commitment to the monetary policy remit. The government has full confidence in the Bank of England to take action to get inflation back to target.
+
+Responsible public finances
+
+The UK has the second lowest gross debt as a proportion of GDP in the G7, [15] although debt is currently high by historical standards as a result of a series of significant crises. [16] From the start of the financial year to the end of August, public sector net borrowing reached £58.2 billion. This is £21.4 billion lower than the same point last year but broadly in line with the Office for Budget Responsibility’s (OBR) March forecast to date. Higher government spending has largely been offset by lower borrowing in other parts of the public sector. [17]
+
+The government has announced a significant policy package that will reduce the pressure on households and businesses across the UK from rising energy bills. External forecasters expect this support for households to lower CPI inflation by around 5 percentage points this winter. [18] The package will lead to additional borrowing, but by cushioning real incomes and protecting viable businesses it will support GDP growth in the near term, reducing the risk of the UK economy entering a deep and damaging recession which could weaken the fiscal position, by leading to elevated borrowing. This package in turn lays the foundations for long-run growth. Lowering inflation in the near term will reduce debt servicing costs, while boosting economic activity which will create an indirect fiscal benefit through higher tax receipts.
+
+To fund the cost of this package, the Debt Management Office Net Financing Requirement (NFR) in 2022-23 has been revised upwards, from £161.7 billion in April 2022 to £234.1 billion in September 2022. This will be financed by additional gilt sales of £62.4 billion and net Treasury bill sales for debt management purposes of £10.0 billion, relative to April.
+
+Fiscal policy will contribute to the government’s central economic mission of boosting long-run trend growth. The Growth Plan sets out an ambitious first step towards achieving 2.5% trend growth in GDP, by launching supply-side reforms and cutting taxes for businesses and households (see chapter 3). Faster economic growth will boost living standards and will also help support the sustainability of the public finances, primarily by growing the tax base.
+
+Maintaining fiscal sustainability in the medium term is essential to provide the confidence and stability to underpin long-run growth. The government is committed to fiscal discipline and will provide an update on its medium-term fiscal plan at the next fiscal event. This will build on three key pillars:
+
+- a clear commitment to fiscal responsibility and reducing debt as a proportion of GDP over the medium term
+- taking the responsible decisions needed to achieve this, including keeping spending under control
+- maintaining strong institutions and frameworks.
+
+The Chancellor has commissioned the OBR to produce a forecast to be published by the end of this calendar year. As is usual, the government will provide an update on its position on the fiscal rules alongside the next forecast.
+
+As part of a disciplined approach to spending, departments will focus on deploying their existing budgets on the government’s top priorities. They will also continue to find ways to work more efficiently and to drive economic growth through their spending. The Chancellor will shortly write to each department asking them to set out how they will prioritise growth within their plans.
+
+The government will review the spending control framework, including the business case process, to accelerate decision making across government.
+
+Tackling energy prices
+
+The government has announced a significant package of support to reduce the pressure from rising energy prices on households and businesses across the UK. [19]
+
+To provide immediate support for households, an Energy Price Guarantee (EPG) will cap the unit price that consumers pay for electricity and gas. This will mean the average household will pay no more than £2,500 per year for a period of two years from October 2022, and is expected to save at least £1,000 a year, although savings for individual households will vary according to their energy use. The government will deliver £150 of the saving by covering the environmental and social costs, including green levies, currently included in domestic energy bills for two years.
+
+This will be in addition to the £400 support all households will receive from the Energy Bills Support Scheme (EBSS) over the coming winter.
+
+Together, the EPG and EBSS will save the typical household at least £1,400 for the next year compared to the October 2022 Price Cap.
+
+The government will also provide an additional payment of £100 to compensate for the rising costs of alternative heating fuels for UK households not able to receive support for heating costs through the Energy Price Guarantee, for example if they are living in an area of the UK that is not served by the gas grid.
+
+The Energy Bill Relief Scheme (EBRS) is a temporary six-month scheme in Great Britain that will protect businesses and other non-domestic energy users, including charities and public sector organisations, from rising energy bills this winter by providing a discount on wholesale gas and electricity prices. The government will publish a review into the operation of the scheme in three months to inform decisions on future support after March 2023, focusing in particular on identifying the most vulnerable non-domestic customers and how to continue assisting them with energy costs. A parallel scheme based on the same criteria and offering comparable support, but recognising the different market fundamentals, will be established in Northern Ireland.
+
+These temporary interventions will be funded by the government to support households and businesses with the cost-of-living challenge in the short term. To address the longer-term problem of rising energy costs, the government will be making significant interventions in the energy market over the coming months.
+
+A new Energy Supply Taskforce will seek to negotiate long-term agreements with major gas producers. The government is also working with electricity generators to reform the outdated market structure where gas sets the price for all electricity – instead, the government will move to a system where electricity prices better reflect the UK’s home-grown, cheaper and low-carbon energy sources, which will bring down consumer bills. Successful action should smooth the price of wholesale gas and electricity and increase security of supply over time, reducing the likelihood of similar energy price crises in the future.
+
+The £40 billion Energy Markets Financing Scheme, delivered with the Bank of England, will help to address extraordinary liquidity requirements faced by energy firms from high and volatile energy prices. The scheme will provide a backstop source of additional liquidity to energy firms in otherwise sound financial health to meet extraordinary variation margin calls. It will be limited to those making a material contribution to the liquidity of UK energy markets and who are thereby systematically important to the UK economy. The scheme will provide liquidity to firms through a 100% guarantee, delivered via commercial banks and will open to applications from 17 October. HM Treasury will convene an advisory committee as part of standing up a robust assessment process. Firms will have to agree to a wider set of conditions before accessing the scheme.
+
+To increase energy resilience, the North Sea Transition Authority will shortly launch a new oil and gas licensing round. This is expected to deliver over 100 new licenses. The government has also announced an end to the pause on extracting reserves of shale. The government is driving the development of home-grown nuclear – including Small Modular Reactors – hydrogen, Carbon Capture, Utilisation and Storage and renewable technologies. The government will unlock the potential of onshore wind by bringing consenting in line with other infrastructure. The UK is a world-leader in offshore wind, with 8GW of offshore wind currently under construction. By 2023 the government is set to increase renewables capacity by 15%, supporting the UK’s commitment to reach net zero emissions by 2050.
+
+To make homes cheaper to heat, the government will bring forward legislation to implement new obligations on energy suppliers to help hundreds of thousands of their customers take action to reduce their energy bills, delivering an average saving of around £200 a year. This help will be worth £1 billion over the next three years, starting from April 2023. Support will be targeted at those most vulnerable, but will also be available for the least efficient homes in lower council tax bands. As with previous schemes, the government will work with the Scottish Government on arrangements in Scotland. The government will also imminently open applications for up to £2.1 billion over the next two years to support local authorities, housing associations, schools and hospitals invest in energy efficiency and renewable heating.
+
+Energy prices are the largest driver of high inflation. The energy interventions the government has announced will support households and businesses with their energy bills. This will reduce pressure on inflation, help people keep more of their money to spend on what they want, and support economic activity.
+
+Growth
+
+The United Kingdom is the 5th largest economy in the world, [20] with structural economic strengths ranging from flexibly regulated labour and product markets, a commitment to property rights and the rule of law, and the soft power that derives from our cultural exports. The UK has world-leading financial and professional services sectors, life sciences and creative industries, and elite world-leading universities.
+
+However, average UK real wage growth has been broadly stagnant for 15 years, [21] due in large part to poor productivity growth. In the twenty years up to the Global Financial Crisis, the UK’s average annual growth rate was 2.5%; whereas from 2011 to 2019 – the years between the recessions brought about by the Global Financial Crisis and COVID-19 pandemic – average growth was just 2%. [22] The size of the state has also increased, as people’s reliance on state support has grown and the population has aged.
+
+Against this challenging backdrop, our policy priority must be to unleash growth across the UK: the only sustainable way to raise living standards and fund vital public services.
+
+The government has successfully boosted growth in the past. Privatisation and liberalisation of financial services and labour markets in the 70s and 80s, and the increased openness and reforms to competition in the 90s and early 00s, contributed towards faster growth. Through bold supply-side reforms, government can facilitate dynamic markets and allow the private sector to generate long-term prosperity.
+
+Economic growth is the government’s central mission. The government’s aim is to achieve a trend growth rate of 2.5%. This will not be easy: it will take a concentrated effort, using every tool at government’s disposal and requiring each policy and initiative to be measured against a defining test of whether it helps or hinders growth.
+
+To do this, the government must cut taxes, streamline the public sector, and liberate the private sector, by making Britain the place for:
+
+- investment: creating the right conditions and removing barriers to the flow of private capital – whether taxes or regulation
+- skilled employment: helping the unemployed into work and those in jobs secure better paid work
+- infrastructure: accelerating the construction of vital infrastructure projects by liberalising the planning system and streamlining consultation and approval requirements
+- home ownership: getting the housing market moving
+- enterprise: cutting red tape and freeing business to grow and invest.
+
+The Growth Plan announces an ambitious legislative programme of supply-side reforms. It also takes steps to deliver a more pro-growth tax system and the government will conduct a review to identify where it can go further to make the tax system simpler, better for families and more pro-growth. The Chancellor will report on this next year.
+
+Increasing private sector investment
+
+The UK has long underinvested compared to peer nations. UK investment was 10% in 2019, compared to the OECD average of 14%, [23] and business investment remains nearly 6% lower than pre-pandemic levels. [24] Weak investment is estimated to be responsible for around half of the productivity gap to France and Germany.
+
+A competitive business tax system supports investment, innovation and economic growth in the UK. Since 2010, successive cuts have been made to the main rate of Corporation Tax, reducing it from 28% in 2010 to 19% in April 2017. This has resulted in UK having a headline Corporation Tax rate which is significantly lower than the rest of the G7. The government has committed to cancel the increase in the main rate of Corporation Tax to 25% that was due to take effect from April 2023, keeping the rate at 19%.
+
+In line with this, the scheduled change to the rate of the Bank Corporation Tax Surcharge will also be cancelled, keeping the combined rate of tax on profits paid by banks and building societies at 27%. The increase in the Surcharge allowance to £100 million will go ahead as planned, ensuring that the tax system is supportive of growth within the UK banking market, promoting competition to the benefit of consumers.
+
+To further support businesses to invest and grow, the government will make permanent the temporary £1 million level of the Annual Investment Allowance (AIA), which was due to expire after 31 March 2023. This will support business investment, provide businesses with more stability and make tax simpler for any business investing between £200,000 and £1 million in plant and machinery. This means businesses can deduct 100% of the costs of qualifying plant and machinery up to £1 million in the first year.
+
+The government is supporting companies to raise money and attract talent by increasing the generosity and availability of the Seed Enterprise Investment Scheme (SEIS) and Company Share Option Plan (CSOP). The government remains supportive of the Enterprise Investment Scheme (EIS) and Venture Capital Trusts (VCT) and sees the value of extending them in the future.
+
+In 2021 the government launched a review of the Research and Development (R&D) tax reliefs. Several reforms have since been announced, including bringing pure mathematics research within scope of the reliefs, including data and cloud computing as new qualifying costs and refocussing the reliefs towards innovation in the UK. The government will continue the review, with any further reforms announced as usual at a fiscal event.
+
+The Growth Plan will also help unlock billions of pounds of investment into scaling up the UK’s science and technology firms, by:
+
+- bringing forward draft regulations to reform the pensions regulatory charge cap, giving defined contribution pension schemes the clarity and flexibility to invest in the UK’s most innovative businesses and productive assets creating opportunities to deliver higher returns for savers
+- introducing the Long-Term Investment for Technology & Science (LIFTS) competition, providing up to £500 million to support new funds designed to catalyse investment from pensions schemes and other investors into the UK’s pioneering science and technology businesses. This will unlock billions of pounds of additional investment into UK scale-ups over time.
+
+These measures will help our highest-potential, innovative businesses accelerate their growth while allowing UK savers to benefit from higher potential returns.
+
+The financial services sector will be at the heart of the government’s programme for driving growth across the whole economy. Later this autumn the government will bring forward an ambitious deregulatory package to unleash the potential of the UK financial services sector. This will include the government plan for repealing EU law for financial services and replacing it with rules tailor made for the UK, and scrapping EU rules from Solvency II to free up billions of pounds for investment.
+
+The government is focused on delivering high quality regulation that supports economic growth. The Growth Plan announces that the Prudential Regulation Authority will scrap poorly designed EU rules that limit variable pay for senior bankers, which undermine growth and hinder financial stability.
+
+Investment Zones
+
+The government will work with the devolved administrations and local partners to introduce Investment Zones across the UK. Investment Zones aim to drive growth and unlock housing. Areas with Investment Zones will benefit from tax incentives, planning liberalisation, and wider support for the local economy. The specific interventions in Investment Zones will include:
+
+- Lower taxes – businesses in designated sites will benefit from time-limited tax incentives.
+- Accelerated development – there will be designated development sites to deliver growth and housing. Where planning applications are already in flight, they will be streamlined and we will work with sites to understand what specific measures are needed to unlock growth, including disapplying legacy EU red tape where appropriate. Development sites may be co-located with, or separate to, tax sites, depending on what makes most sense for the local economy.
+- Wider support for local growth – for example, through greater control over local growth funding for areas with appropriate governance. Subject to demonstrating readiness, Mayoral Combined Authorities hosting Investment Zones will receive a single local growth settlement in the next Spending Review period.
+
+Specified sites in England will benefit from a range of time-limited tax incentives over 10 years. The tax incentives under consideration are:
+
+- Business rates – 100% relief from business rates on newly occupied business premises, and certain existing businesses where they expand in English Investment Zone tax sites. Councils hosting Investment Zones will receive 100% of the business rates growth in designated sites above an agreed baseline for 25 years.
+- Enhanced Capital Allowance – 100% first year allowance for companies’ qualifying expenditure on plant and machinery assets for use in tax sites.
+- Enhanced Structures and Buildings Allowance – accelerated relief to allow businesses to reduce their taxable profits by 20% of the cost of qualifying non-residential investment per year, relieving 100% of their cost of investment over five years.
+- Employer National Insurance contributions relief – zero-rate Employer NICs on salaries of any new employee working in the tax site for at least 60% of their time, on earnings up to £50,270 per year, with Employer NICs being charged at the usual rate above this level.
+- Stamp Duty Land Tax – a full SDLT relief for land and buildings bought for use or development for commercial purposes, and for purchases of land or buildings for new residential development.
+
+The Department for Levelling Up, Housing and Communities will shortly set out more detail on the planning offer. This will include detail on the level of deregulation and the streamlined mechanism for securing planning permission.
+
+The government will deliver Investment Zones in partnership with Upper Tier Local Authorities and Mayoral Combined Authorities in England, who will work in partnership with their relevant districts and/or constituent councils. All Investment Zone agreements will contain tax and development sites. Areas will be responsible for putting forward sites and demonstrating their potential impact on economic growth, including by bringing more land forward and accelerating development.
+
+Investment Zones will only be chosen following a rapid Expression of Interest process open to everyone, and after local consent is confirmed. However, examples of illustrative sites that may have the potential to accelerate growth and deliver housing in the way the Investment Zone programme envisages can be found in Annex A.
+
+The government is in early discussions with 38 Mayoral Combined Authorities and Upper Tier Local Authorities who have already expressed an initial interest in having a clearly designated, specific site within their locality. A full list of these 38 authorities is available in Annex A.
+
+The government will deliver Investment Zones in Scotland, Wales and Northern Ireland and intends to work in partnership with the devolved administrations and local partners to achieve this. The government will legislate for powers to create tax and development sites in Investment Zones where powers are reserved.
+
+The government remains committed to the progress of the Freeports programme. The government will work with local partners involved in current and prospective Freeports to consider whether and how the Investment Zones offer can help to support their objectives, as part of the wider process for identifying Investment Zones. This will ensure that both programmes complement one another.
+
+Getting more people into work with the right skills
+
+Most of the UK’s growth in the decade after 2008 came from an increase in hours worked, with unemployment falling, participation rising and significant net inflows from migration. [25]
+
+However, since the pandemic, a significant proportion of over-50s have left the labour market. [26] There are now more vacancies (up 54% on pre-pandemic levels) than unemployed people [27] for the first time and businesses across many sectors are struggling to fill jobs. [28] The Growth Plan announces measures to get more people back into work which, together with the agenda to boost productivity, will drive higher employment, wages and economic growth.
+
+Allowing working families to keep more of what they earn and making work pay is a key priority to support growth. The government has already increased the National Insurance contributions (NICs) Primary Threshold and Lower Profits Limit (from July 2022 onwards), to align the point at which people start to pay NICs with income tax, at £12,570. This took more than two million people out of paying NICs.
+
+The government is now going further by reducing NICs rates by 1.25 percentage points from November and cancelling the Health and Social Care Levy coming in from April 2023. This will save 28 million taxpayers an average of £330 a year. This measure will also make it cheaper for businesses to employ more staff being worth an average of £9,600 for over 900,000 businesses.
+
+The government will bring forward the 1 percentage point cut to the basic rate of income tax to April 2023, 12 months earlier than planned. This is a tax cut of over £5 billion a year that allows workers, savers and pensioners to keep more of their income, with an average gain of £170 in 2023-2024. This will apply to the basic rate of non-savings, non-dividend income for taxpayers in England, Wales and Northern Ireland; the savings basic rate which applies to savings income for taxpayers across the UK; and the default basic rate which applies to non-savings and non-dividend income of any taxpayer that is not subject to either the main rates or the Scottish rates of income tax.
+
+As part of the government’s commitment to lower taxes and simplify the system – and to improve the attractiveness of the UK as a place to work relative to other countries – the additional rate of income tax will also be removed from April 2023. This will apply to the additional rate of non-savings, non-dividend income for taxpayers in England, Wales and Northern Ireland. The additional rate for savings, dividends and the default additional rate will also be removed from April 2023, and this change will apply UK-wide. This will improve the competitiveness of the UK tax system, encourage entrepreneurship and support growth. Where rates are devolved in Scotland, the Scottish Government will receive funding through the agreed fiscal framework to allocate as they see fit.
+
+In addition, the government will reverse the 1.25 percentage point increase in dividend tax rates from April 2023. This will benefit 2.6 million dividend taxpayers with an average saving of £345 in 2023-24 and additional rate taxpayers will further benefit from the abolition of the additional rate of dividend tax. This will support entrepreneurs and investors across the UK to drive economic growth.
+
+The Growth Plan announces reforms to the Universal Credit (UC) conditionality to support claimants on UC to secure more or better paid work. The government will raise the Administrative Earnings Threshold to bring more claimants who are in work and on low earnings into a more intensive conditionality regime and provide more work coach support. The government will also strengthen the sanctions regime to set clear work expectations of claimants and provide more support to those over 50. These changes will give claimants the best possible chance to be financially independent of UC.
+
+Older workers form a vital part of the UK labour force, bringing a wealth of skills and experience that can help businesses succeed. The government will continue to consider further options to encourage people to stay in the labour market for longer, to support growth and people seeking to build up savings for their retirement.
+
+The UK has some of the highest quality childcare provision in the world, but it is also one of the biggest costs facing working families today and a barrier for people remaining in the labour market. The government will bring forward reforms to improve access to affordable, flexible childcare.
+
+Migration, in particular skilled and high-skilled migration, plays an important role in economic growth, productivity, and innovation. The government has reshaped immigration policy to shift the balance of people coming to the UK to those with skills the UK needs. The government is committed to ensuring the immigration system works for business and encourages highly skilled people and high growth businesses to choose to locate and invest in the UK. This has included the introduction of Global Talent, High Potential Individual, Scale-up Worker and Global Business Mobility visa routes. The government will set out a plan in the coming weeks to ensure the immigration system supports growth whilst maintaining control.
+
+The government will also introduce legislation that will ensure Minimum Service Levels can be put in place for transport services so that industrial action doesn’t make it impossible to get to and from work, and to make it easier to settle industrial disputes by ensuring meaningful employer pay offers are put to employees.
+
+Getting the housing market moving
+
+The government is reducing the tax burden on people buying a home. From 23 September 2022, the government will increase the threshold above which Stamp Duty Land Tax (SDLT) must be paid on the purchase of residential properties in England and Northern Ireland from £125,000 to £250,000.
+
+The government will also increase the relief that first-time buyers can receive. From 23 September 2022, the threshold at which first-time buyers begin to pay residential SDLT will increase from £300,000 to £425,000 and the maximum value of a property on which first-time buyers relief can be claimed will also increase from £500,000 to £625,000. These changes will reduce the cost of purchasing a home and will take 200,000 homebuyers, including 60,000 first-time buyers, out of SDLT entirely. As SDLT is devolved in Scotland and Wales, the Scottish and Welsh Governments will receive funding through the agreed fiscal framework to allocate as they see fit.
+
+To make buying a home a reality, the government must accelerate housing delivery. Planning permission was granted for more than 310,000 homes last year, up 10% on the year before, [29] but further reform is needed. Later this autumn, the government will set out its vision to unlock homeownership for a new generation by building more homes in the places people want to live and work and by getting our housing market moving. This will boost growth across the UK helping more people afford to live near good jobs. The government’s full proposal will be set out in due course.
+
+The government will promote the disposal of surplus public sector land by allowing departments greater flexibility to reinvest the proceeds of land sales over multiple years. This will encourage the sale of more public land for housing and allow departments and the NHS to reinvest in public services. Devolved administrations have bespoke flexibilities to move funding between financial years and the government will discuss the implications of this change with them in due course.
+
+High quality infrastructure
+
+The government is committed to accelerating the delivery of priority major infrastructure projects across the country, as a vital means of driving the UK’s economic growth, increasing long-term energy security and delivering Net Zero. The current energy crisis has demonstrated just how vital it is to overcome the barriers to infrastructure.
+
+The UK’s planning system is too slow and too fragmented. For example, an offshore wind farm can take four years to get through the planning process [30] and no new substantive onshore wind farm has received planning consent since 2015. [31] On some metrics, the system has also been deteriorating in recent years: the timespan for granting Development Consent Orders (DCOs) increased by 65% between 2012 and 2021. [32]
+
+These delays to delivery undermine investor confidence and restrict the growth potential of the government’s landmark public investment in high quality infrastructure. Delays are partly a result of a complex patchwork of environmental and regulatory rules, some of which are retained EU law. The government wants to reform and streamline these arrangements to promote growth whilst ensuring environmental outcomes are protected.
+
+The Growth Plan announces that new legislation will be brought forward in the coming months to address these barriers by reducing unnecessary burdens to speed up the delivery of much-needed infrastructure. This includes:
+
+- reducing the burden of environmental assessments
+- reducing bureaucracy in the consultation process
+- reforming habitats and species regulations
+- increasing flexibility to make changes to a DCO once it has been submitted.
+
+The Growth Plan also announces further sector specific changes to accelerate delivery of infrastructure, including:
+
+- prioritising the delivery of National Policy Statements for energy, water resources and national networks, and of a cross-government action plan for reform of the Nationally Significant Infrastructure planning system
+- bringing onshore wind planning policy in line with other infrastructure to allow it to be deployed more easily in England
+- reforms to accelerate roads delivery, including by consenting more through the Highways Act 1980 and by considering options for changing the Judicial Review system to avoid claims which cause unnecessary delays to delivery
+- amendments to the Product Security and Telecommunications Infrastructure Bill to give telecoms operators easier access to telegraph poles on private land, supporting the delivery of gigabit capable broadband.
+
+These reforms build on changes which are already underway, including new powers to enable fast track consenting for some projects and faster post-consent changes. This will significantly accelerate the deployment of vital infrastructure in the UK.
+
+Fast, reliable digital connectivity can support economic growth for the whole of the UK. The government is committed to promoting high-quality digital infrastructure and is already delivering major upgrades through the Shared Rural Network and Project Gigabit. Later this year, the government will set out its plans on how it will further support digital rollout to drive growth.
+
+The Growth Plan also sets out the infrastructure projects that the government will prioritise for acceleration, across transport, energy and digital infrastructure. This non-exhaustive list is set out in Annex B and reflects projects which have particularly high potential to move to construction at an accelerated pace. The government will also continue to focus on delivering its wider infrastructure priorities, from major projects such as HS2, to its wider nuclear strategy. Delivering these projects, through both legislative and non-legislative reforms, will help to drive economic growth and prevent delays to the delivery of economic infrastructure.
+
+Allowing businesses to focus on business
+
+Business is the engine room of the economy. Pro-competition regulation, reduced regulatory burdens and a simplified tax system can boost growth by reducing business costs and allowing high-potential businesses to grow and expand.
+
+The government will reduce the barriers caused by unnecessary and excessive regulation to allow businesses to realise their potential. Later this autumn, the government will bring forward a set of regulatory changes to support higher economic growth.
+
+A simple tax system is critical for growth. Instead of having a separate arms-length body oversee simplification, the government will embed tax simplification into the institutions of government. It will therefore abolish the Office of Tax Simplification and set a mandate to HM Treasury and HMRC to focus on simplifying the tax code.
+
+The Growth Plan sets out first steps in taking complexity out of the tax system. The 2017 and 2021 reforms to the off-payroll working rules (also known as IR35) will be repealed from 6 April 2023. From this date, workers providing their services via an intermediary will once again be responsible for determining their employment status and paying the appropriate amount of tax and National Insurance contributions. This will free up time and money for businesses that engage contractors, that could be put towards other priorities. The reform also minimises the risk that genuinely self-employed workers are impacted by the underlying off-payroll rules.
+
+The government is today publishing its response to the Alcohol Duty Review consultation launched at Autumn Budget 2021, alongside the draft legislation for consideration. The reforms will improve the current system by making it simpler, more economically rational and less administratively burdensome on businesses. The reforms will be implemented from 1 August 2023. The government is also freezing the alcohol duty rates from 1 February 2023 to provide additional support to the sector.
+
+The government will introduce a modern, digital, VAT-free shopping scheme with the aim of providing a boost to the high street and creating jobs in the retail and tourism sectors. The delivery will include modernising the scheme that currently operates in Northern Ireland and introducing a new digital scheme in Great Britain – a consultation will gather views on the approach and design of the scheme, to be delivered as soon as possible. The new VAT-free shopping scheme for non-UK visitors to Great Britain will enable them to obtain a VAT refund on goods bought in the high street, airports and other departure points and exported from the UK in their personal baggage.
+
+The transition to net zero emissions can support the government’s growth objectives, creating jobs and business opportunities, and reinforcing the UK’s position as a global leader in technologies to address climate change. The government has asked the Rt Hon. Chris Skidmore MP to chair an independent review into how to deliver our net zero commitment while maximising economic growth and investment, supporting energy security, and minimising the costs borne by businesses and consumers. The Chair will report by the end of 2022.
+
+Farmers do essential work in producing high quality food for consumption at home and for export. However, agricultural productivity growth has been weak for many years [33] and this needs to change to support the rural economy. The government will rapidly review frameworks for regulation, innovation, and investment that impact farmers and land managers in England. This will ensure government and industry are working together to strengthen UK food security, and maximise the long-term productivity, resilience, competitiveness, and environmental stewardship of the British countryside. The government will set out plans later this autumn.
+
+Policy decisions
+
+This chapter sets out all of the policy decisions announced as part of the Growth Plan 2022.
+
+For measures that are not UK-wide, funding for the devolved administrations will be determined through the normal operation of the Barnett formula and Block Grant Adjustments. It is for the devolved administrations to decide how to spend any additional funding on priorities in Scotland, Wales and Northern Ireland.
+
+Table 4.1 shows the current estimated direct costs in 2022-23 of the schemes the government has announced to support households and businesses with the cost of energy. [34] The costs of this policy are highly uncertain, particularly in 2023-24 and 2024-25, as they are sensitive to volatile future energy prices. The costs will also be impacted by the wider action the government plans to take to help reduce energy costs. As a result, costings are shown for 2022-23 only at this stage. The costings do not include any estimate of the positive fiscal benefits that would result from the impact of these policies on the economy. More detailed costings and an assessment of their impact on the economy will be included in the next Office for Budget Responsibility (OBR) forecast.
+
+Table 4.1: The Growth Plan 2022 energy package (£ million)
+
+| Head | 2022-23
+Tackling energy prices (1)
+1 | Energy Price Guarantee: support for households through a cap on the unit rate of electricity and gas bringing average household energy bills to £2,500 | Spend | -31,000
+2 | Energy Bill Relief Scheme: support for businesses for a six month period | Spend | -29,000
+
+1 Costings are based on market prices taken from the ten workings days between 29 August and 12 September, after also taking green levies off of bills.
+
+Table 4.2 sets out provisional costings for the policies announced in the Growth Plan. The costings take account of the direct behavioural response expected to result from the measures, where appropriate. For instance, cancelling the increase in the rate of Corporation Tax is expected to result in companies shifting less profit overseas, and the costing takes account of the additional revenue that results from this. Unless stated otherwise, the costings have been produced using the OBR’s economic forecast from the Spring Statement 2022, as this is the latest available official forecast. These costings will be finalised and accounted for in the public finances at the next OBR forecast. It should be noted that for some policies, for instance Investment Zones, full details on implementation are yet to be determined meaning that it is not possible to publish a costing at this stage. Such policies will be included in the public finances at a future OBR forecast, once there is sufficient certainty about their implementation.
+
+Table 4.2: The Growth Plan 2022 policy decisions (£ million) (1)
+
+| Head | 2022-23 | 2023-24 | 2024-25 | 2025-26 | 2026-27
+Cutting taxes for people
+1 | National Insurance: reverse temporary 1.25pp increase in NICs rates from November 2022, and cancel the Health and Social Care Levy (2) | Tax | -6,930 | -16,955 | -17,210 | -17,685 | -18,185
+2 | Memo: increased tax yield due to higher wages and profits as a result of the tax change (3) |  | +860 | +2,620 | +2,720 | +2,825 | +2,935
+3 | Memo: net Exchequer cost of reversing temporary 1.25pp increase in NICs rates from November 2022, and cancelling the Health and Social Care Levy (4) |  | -6,070 | -14,335 | -14,490 | -14,860 | -15,250
+4 | Dividend Tax: reverse 1.25% increase to rates, from April 2023 | Tax | 0 | -1,440 | +995 | -1,090 | -885
+5 | Income Tax: reduce the basic rate from 20% to 19% from April 2023 (5) | Tax | 0 | -5,270 | -535 | +280 | +45
+6 | Income Tax: remove the additional rates of income tax from April 2023 (6) | Tax | -2,365 | +625 | -795 | -2,190 | -2,065
+7 | Stamp Duty Land Tax: increases to nil-rate thresholds (7) | Tax | -795 | -1,450 | -1,535 | -1,595 | -1,655
+8 | Tax-free shopping: introducing a modern, digital, VAT-free shopping scheme | Tax | 0 | 0 | -1,265 | -1,955 | -2,060
+Cutting taxes for businesses
+9 | Corporation Tax: cancel planned rate increase, maintaining rate at 19% from April 2023 (8) | Tax | -2,265 | -12,365 | -16,570 | -17,610 | -18,710
+10 | Bank CT Surcharge: maintain rate at 8% and set allowance at £100m from April 2023 | Tax | +220 | +885 | +1,065 | +1,085 | +1,090
+11 | Annual Investment Allowance (AIA): permanently set at £1m from April 2023 | Tax | -245 | -930 | -1,365 | -1,440 | -1,335
+12 | Employee share schemes: Company Share Option Plan reforms (share class and £60k option limit) from April 2023 | Tax | 0 | -10 | -20 | -25 | -115
+13 | Venture capital schemes: increase Seed Enterprise Investment Scheme limits from April 2023 | Tax | 0 | 0 | -45 | -30 | -35
+Simplifying the tax system
+14 | Off-payroll working: reduce burdens on business by repealing the off-payroll working reforms from April 2023 | Tax | 0 | -1,110 | -1,365 | -1,670 | -2,045
+15 | Alcohol Duty: freeze all duties for one year from 1 February 2023 | Tax | -80 | -545 | -565 | -590 | -610
+16 | Alcohol Duty: post-consultation changes to reform package | Tax | +25 | -15 | -80 | -30 | -30
+Previously announced
+17 | Cost of living support package announced in May 2022 | Spend | -15,350 | 0 | 0 | 0 | 0
+18 | Energy Bills Support Scheme: cancellation of clawback | Tax | 0 | -1,195 | -1,195 | -1,195 | -1,195
+19 | Energy Profits Levy (9) | Tax | +7,730 | +10,410 | +6,420 | +3,500 | +60
+| Total policy decisions (10) |  | -19,195 | -26,745 | -31,345 | -39,415 | -44,795
+| o/w Total spending policy decisions |  | -15,350 | 0 | 0 | 0 | 0
+| o/w Total tax policy decisions |  | -3,845 | -26,745 | -31,345 | -39,415 | -44,795
+
+1 Costings reflect the OBR’s latest economic and fiscal determinants from Spring Statement 2022 unless otherwise stated.
+2 Gross cost reflects total direct tax no longer raised from the Health and Social Care Levy.
+3 Using the OBR’s Autumn 2021 EFO assumption of the impact of the tax increase on wages and profits, scaled for 2022-23 to match the period the measure would have been in place.
+4 Net cost reflects total cost after accounting for the reduction in cost due to the increases to wages as a result of the policy and the positive impact of this on tax receipts.
+5 The rate was previously due to be cut to 19p in April 2024. This costing shows the additional cost above that decision which was made at Spring Statement 2022.
+6 Measure applies to additional rate on all forms of income, including dividend income. The cost of reversing the 1.25pp dividend rate rise is not included in this costing and is covered in row 4.
+7 Changes to thresholds reflect: increase to nil rate band from £125k to £250k, increase to First Time Buyers Relief (FTBR) nil-rate threshold from £300k to £425k and increase to FTBR property eligibility for purchases up to £625k from £500k.
+8 Net cost reflects the impact of the cancellation of the increased rate of Diverted Profits Tax.
+9 Costing is based on market prices taken from the ten working days between 29 August - 12 September. Due to price volatility, there is uncertainty in the numbers, particularly for later years.
+10 Includes the impact on the Exchequer of the higher wages and profits that result from the cancellation of the NICs increase and Health and Social Care Levy (row 2). Totals may not sum due to rounding.
+
+The costings do not take account of the aggregate indirect impact of the policy package on the wider economy and the fiscal consequences of this. In practice we would expect the energy support package to significantly reduce inflation for the period it is place, and the combined impact of the energy support package and the Growth Plan to support growth in the short term. We expect there to be other impacts, in the medium term. For instance, cancelling the planned introduction of the Health and Social Care Levy is expected to have a positive impact on wages, and reversing the planned increase in the Corporation Tax rate is expected to increase investment. In turn these would be expected to have a positive impact on the size of the economy in the medium-term. These economic impacts will therefore have significant positive fiscal impacts that are not captured in the costings set out in this document. A full assessment of the impact of the package on the economy, and the subsequent impact on the fiscal position, will be incorporated alongside the implications of recent economic developments in the next OBR forecast.
+
+The Growth Plan aims to raise GDP growth over the medium-term, doing so would raise living standards and increase the size of the tax base. Table 4.3 sets out a range of illustrative effects of raising GDP growth in the medium-term on tax receipts. Holding the tax (Public Sector Current Receipts (PSCR)) to GDP ratio constant at its 2021-22 level, sustainably raising annual GDP growth by ½ to 1 percentage point each year could raise annual tax receipts by £23 billion to £47 billion by the fifth year. The economic effects of the Growth Plan, and the consequences for tax receipts, spending, government borrowing and debt, will be assessed in full by the OBR when they publish a forecast before the end of 2022. Previous OBR analysis suggests that raising real GDP growth to 2-3% a year over three years, from a base growth forecast of 1.6% per year for those three years, could provide a benefit to the public finances of £10-40 billion through a range of effects across tax and spending. [35]
+
+Table 4.3: Illustrative effects on tax receipts of higher GDP growth (1)
+
+Annual extra GDP growth each year for 5 years | Change in cumulative GDP growth after 5 years | Annual tax receipts benefit from GDP increase by the 5th year (£ billion)
+0.00% | 0.0% | 0
+0.25% | 1.3% | 11
+0.50% | 2.5% | 23
+0.75% | 3.8% | 35
+1.00% | 5.1% | 47
+
+1 The figures in Table 4.3 are purely illustrative; they do not provide an assessment of what effect the policy package will have. Table 4.3 assumes the PSCR to nominal GDP ratio is held at its 2021-22 outturn level of 38.5% and only shows the potential effects of a larger economy on tax receipts, assuming the structure of the economy and tax system do not change. The additional annual GDP growth is assumed to be an increase in trend growth. Increases in trend growth may only occur over the medium term. The OBR’s March forecast projected annual GDP growth of 1.9% on average over the next five fiscal years. Changes in the outlook for GDP growth will depend on other forces affecting the economy as well as changes to government policy. The illustrative receipts effect is rounded to the nearest £ billion. There would be a range of other effects in the public finances from faster economic growth, some of which might reduce government spending, while others could push spending higher.
+
+Details of policy decisions
+
+Increasing private sector investment
+
+Access to finance and talent – The government is helping businesses in the United Kingdom to grow by increasing the generosity and availability of the Seed Enterprise Investment Scheme and the Company Share Option Plan, designed to improve the ability of British companies to raise money, attract talent and ultimately grow and succeed.
+
+- Seed Enterprise Investment Scheme (SEIS) – From April 2023, companies will be able to raise up to £250,000 of SEIS investment, a two-thirds increase. To enable more companies to use SEIS, the gross asset limit will be increased to £350,000 and the age limit from 2 to 3 years. To support these increases, the annual investor limit will be doubled to £200,000. These changes will help over 2,000 companies a year that use the scheme to grow.
+- Company Share Option Plan (CSOP) – From April 2023, qualifying companies will be able to issue up to £60,000 of CSOP options to employees, double the current £30,000 limit. The ‘worth having’ restriction on share classes within CSOP will be eased, better aligning the scheme rules with the rules in the Enterprise Management Incentive scheme and widening access to CSOP for growth companies.
+
+Annual Investment Allowance – The government will support UK businesses by making the temporary £1 million level of the Annual Investment Allowance permanent, instead of letting it fall to £200,000 after 31 March 2023. This will support business investment, provide businesses with more stability, and make tax simpler for any business investing between £200,000 and £1 million in plant and machinery.
+
+Removing the bankers’ bonus cap – The Prudential Regulation Authority will remove the current cap to bankers’ bonuses. This cap limits remuneration of certain bank staff to 100% of their fixed pay (or 200% with shareholder approval). Pay in bonuses aligns the incentives of individuals with those of the bank, in turn supporting growth in the UK economy.
+
+Delivering reform of the pensions regulatory charge cap – The government will bring forward draft regulations to remove well-designed performance fees from the occupational defined contribution pension charge cap, ensuring that savers benefit from higher potential investment returns while providing clarity for institutional investors to help unlock investment into of the UK’s most innovative businesses and productive assets.
+
+Unlocking institutional investment into innovative UK Scale Ups – The government will launch the Long-term Investment for Technology & Science (LIFTS) competition, providing up to £500 million to support new funds designed by institutional investors and world-class fund managers, aiming to crowd billions of pounds of private investment into UK science and technology businesses. Following a short period of industry engagement led by the British Business Bank, the government will launch a call for proposals by the end of the year to identify promising fund structures and vehicles, with the intention that funds go live as soon as possible next year.
+
+Investment Zones – The government will work with the devolved administrations and local partners to introduce Investment Zones across the UK. Investment Zones aim to drive growth and unlock housing. Areas with Investment Zones will benefit from tax incentives, planning liberalisation, and wider support for the local economy.
+
+Enabling companies to focus on business
+
+Abolishing the Office of Tax Simplification – A simple tax system is critical for growth. Instead of having a separate arms-length body oversee simplification, the government will embed tax simplification into the institutions of government. It will therefore abolish the Office of Tax Simplification and set a mandate to the Treasury and HMRC to focus on simplifying the tax code.
+
+Cancelling the Corporation Tax rate increase – The previously announced planned increase in the UK Corporation Tax rate from 19% to 25% that was due to take effect in April 2023 will not go ahead. Companies will continue to pay 19% on their taxable profits. This will maintain a competitive business tax regime, which will support investment, innovation and economic growth in the UK.
+
+Bank Corporation Tax Surcharge – In line with the cancellation of the increase in the Corporation Tax rate, the scheduled change to the rate of the Bank Corporation Tax Surcharge will also be cancelled. From April 2023 banks and building societies will continue to pay an additional 8% rate of tax on their profits, rather than the reduced 3% rate that would have been the legislative default, leading to a combined rate of 27%. The increase in the Surcharge allowance to £100 million will go ahead to ensure that the tax system is supportive of growth within the UK banking market, promoting competition to the benefit of consumers.
+
+Adjusting super-deduction rules – The government will amend some of the technical provisions for the super-deduction as a consequence of the Corporation Tax rate being retained at 19% from 1 April 2023. This will ensure that the relief continues to operate as intended.
+
+Cancelling the increase in rate of Diverted Profits Tax – This was legislated to increase from 25% to 31% from April 2023, but will now be retained at 25% to keep the current 6 percentage point differential with the main Corporation Tax rate.
+
+Alcohol duty reform – As inflation rates are currently high, the government will freeze the duty rates for all categories from 1 February 2023 to support businesses and help consumers with the cost of living. The government is today publishing the response to the consultation on the new alcohol duty system and draft legislation that will underpin the changes, and launching a consultation on some further technical issues. The reforms will be implemented from 1 August 2023.
+
+VAT free shopping – The government will introduce a modern, digital, VAT-free shopping scheme, with the aim of providing a boost to the high street and creating jobs in the retail and tourism sectors. The delivery will include modernising the scheme that currently operates in Northern Ireland and introducing a new digital scheme in Great Britain – a consultation will gather views on the approach and design of the scheme to be delivered as soon as possible. The new VAT-free shopping scheme for non-UK visitors to Great Britain will enable them to obtain a VAT refund on goods bought in the high street, airports and other departure points and exported from the UK in their personal baggage.
+
+Repealing off-payroll working reforms – The 2017 and 2021 reforms to the off-payroll working rules (also known as IR35) will be repealed from 6 April 2023. From this date, workers across the UK providing their services via an intermediary, such as a personal service company, will once again be responsible for determining their employment status and paying the appropriate amount of tax and NICs.
+
+Minimum Service Levels – The government will introduce legislation that will ensure Minimum Service Levels can be put in place for transport services, limiting the impact that industrial action can have on the public’s ability to make the journeys that are essential for day-to-day life.
+
+Industrial Disputes – The government is taking action to make it easier to settle industrial disputes by ensuring meaningful employer pay offers are put to employees.
+
+High quality infrastructure
+
+Planning reform to accelerate infrastructure delivery – The Growth Plan announces new legislation (the Planning and Infrastructure Bill) to accelerate priority major infrastructure projects across England, by: minimising the burden of environmental assessments; making consultation requirements more proportionate; reforming habitats and species regulation; and increasing flexibility to make changes to a Development Consent Order once it has been submitted. It also announces sector-specific changes to accelerate infrastructure delivery, including: bringing onshore wind planning policy in line with other infrastructure to allow it to be deployed more easily in England; reforms to accelerate road delivery through more streamlined consent processes; and giving telecoms operators easier access to telegraph poles on private land. These reforms will mean that energy infrastructure, including renewables, gets built more quickly. The government will work with the devolved administrations in relation to devolved planning responsibilities.
+
+Stamp Duty Land Tax – The government is reducing the tax burden on people buying a home. From 23 September 2022, the government will increase the threshold above which Stamp Duty Land Tax (SDLT) must be paid on the purchase of residential properties in England and Northern Ireland from £125,000 to £250,000. The government will also increase the relief that first-time buyers can receive. From 23 September 2022, the threshold at which first-time buyers begin to pay residential SDLT will increase from £300,000 to £425,000, and the maximum value of a property on which first-time buyers relief can be claimed will also increase, from £500,000 to £625,000.
+
+Streamlining Local Growth Funds – The government has invested in local growth through a wide range of competitions and grants, but recognises that the sheer number of different funds has become onerous for some councils to navigate and deliver. Over the next two years, the government will streamline these, reducing inefficiency and bureaucracy, and giving local government the flexibility it needs to deliver for local economies.
+
+Getting the housing market moving
+
+Increase incentives for public sector to sell surplus land – The Growth Plan announces changes to HM Treasury’s rules to allow departments to retain more income from the sale of surplus government land. These changes will encourage departments to increase the sale of public land, including sites for housing, and allow departments to reinvest to support public services. This change will be delivered through updates to current rules (Consolidated Budgeting Guidance) to give departments greater flexibility to reinvest the proceeds of land sales over multiple years. The NHS will be given full flexibility to carry forward 100% of the proceeds from land sales into future years. Devolved administrations have bespoke flexibilities to move funding between financial years the government will discuss the implications of this change with them in due course. In parallel, HM Treasury will review asset disposal targets to incentivise disposals for housing.
+
+Getting more people into work with the right skills
+
+Basic rate of income tax – The government will bring forward the 1 percentage point cut to the basic rate of income tax to April 2023, 12 months earlier than planned. This will apply to the basic rate of non-savings, non-dividend income for taxpayers in England, Wales and Northern Ireland; the savings basic rate which applies to savings income for taxpayers across the UK; and the default basic rate which applies to non-savings and non-dividend income of any taxpayer that is not subject to either the main rates or the Scottish rates of income tax. A four-year transition period for Gift Aid relief will apply, to maintain the income tax basic rate relief at 20% until April 2027. There will also be one-year transitional period for Relief at Source (RAS) pension schemes to permit them to continue to claim tax relief at 20%.
+
+The additional rate of income tax will also be removed from April 2023. This will apply to the additional rate of non-savings, non-dividend income for taxpayers in England, Wales and Northern Ireland. The additional rate for savings, dividends and the default rates will also be removed from April 2023, and this change will apply UK-wide. As the additional rate of income tax will be removed current additional rate taxpayers will also benefit from the Personal Savings Allowance of £500 for higher rate taxpayers. Where rates are devolved in Scotland the Scottish Government will receive funding through the agreed fiscal framework to allocate as they see fit.
+
+Reversing the Health and Social Care Levy – The government is reducing Class 1 and Class 4 National Insurance contributions (NICs) by 1.25 percentage points from November and cancelling the introduction of the Health and Social Care Levy as a separate tax from April 2023, applying UK-wide. This will benefit all employees earning more than the annual equivalent of £12,570 and self-employed people earning more than £11,909 in 2022-23 or £12,570 in2023-24. The average saving is around £330 next year and an additional saving of £135 this year. Additionally, 920,000 businesses will see an average tax cut of £9,600 in 2023-24.
+
+Reversing the dividend tax increase – The government is reversing the 1.25 percentage point increase in dividend tax rates applying UK-wide from 6 April 2023. Alongside the reversal of the Health and Social Care Levy, the ordinary and upper rates of dividend tax will be reduced to 2021-22 levels of 7.5% and 32.5% respectively. Due to the abolition of the additional rate of income tax, income that was previously charged at the additional rate, will now be charged at the upper rate of 32.5%. The reduction of all rates by 1.25 percentage points will benefit 2.6 million taxpayers with an average benefit of £345 in 2023-24; and additional rate payers will further benefit from the abolition of the additional rate of dividend tax.
+
+Increase to Administrative Earnings Threshold (AET) – The government is increasing support and incentives for those on Universal Credit (UC) across Great Britain by increasing the Administrative Earnings Threshold to 15 hours a week at National Living Wage for an individual claimant (and 24 hours a week for couples) from January 2023. This builds on the increase due to come into effect from 26 September 2022 which will raise the threshold from 9 hours a week to 12 hours a week for an individual (and 19 hours a week for couples). This latest change means that around 120,000 more UC claimants who are in work on low earnings will be moved from the Light Touch labour market regime to the Intensive Work Search labour market regime. They will be expected to actively search for work and attend weekly or fortnightly appointments at a jobcentre in order to secure more or better paid work, or they could have their benefits reduced. These changes will apply across Great Britain. In line with usual practice, the government will work with the Northern Ireland Civil Service to determine the most suitable arrangements for Northern Ireland in due course.
+
+Strengthening the Universal Credit (UC) sanctions regime – Alongside these changes to the AET, the government will be strengthening the sanctions regime to set clear work expectations – including applying for jobs, attending interviews or increasing the hours – in return for receiving UC. Claimants who do not fulfil their job-search commitment without good reason could have their benefits reduced. These changes will apply across Great Britain. In line with usual practice, the government will work with the Northern Ireland Civil Service to determine the most suitable arrangements for Northern Ireland in due course.
+
+Expansion of DWP 50+ offer – To help older workers to find work, the government will provide additional work coach support to new, eligible over 50s claimants and – for the first time – to over 50s that are long-term unemployed. This will mean more jobseekers across Great Britain receive intensive, tailored support at jobcentres to help them get into and progress in work, boosting their earnings ahead of retirement. In line with usual practice, the government will work with the Northern Ireland Civil Service to determine the most suitable arrangements for Northern Ireland in due course.
+
+Tackling energy prices
+
+Energy Price Guarantee (EPG) – The EPG will cap the unit price that consumers pay for electricity and gas in Great Britain and Northern Ireland. This will bring the average household bill down to £2,500 per year for a period of two years from October 2022. A typical household is expected to save at least £1,000 a year on energy bills. An additional payment of £100 will be provided to compensate those who are not able to receive support for heating costs through the EPG.
+
+Green Levies – As part of the EPG, the government will temporarily cover environmental and social costs, including green levies, currently included in domestic energy bills for two years. This will contribute an average £150 saving to the savings provided by the EPG.
+
+Energy Markets Financing Scheme (EMFS) – The £40 billion EMFS, delivered with the Bank of England, will help to address extraordinary liquidity requirements faced by energy firms from high and volatile energy prices. The scheme will provide a backstop source of additional liquidity to energy firms in otherwise sound financial health to meet extraordinary variation margin calls. The scheme will provide liquidity to firms through a 100% guarantee, delivered via commercial banks and will open to applications from 17 October.
+
+Improving energy efficiency across the UK –
+
+- To make homes cheaper to heat, the government will bring forward legislation to implement new obligations on energy suppliers to help hundreds of thousands of their customers take action to reduce their energy bills, delivering an average saving of around £200 a year. This help will be worth £1 billion over the next three years, starting from April 2023.
+- The government will also imminently open applications for up to £2.1 billion over the next two years to support local authorities, housing associations, schools and hospitals invest in energy efficiency and renewable heating.
+
+Energy Bill Relief Scheme (EBRS) for non-domestic users – A temporary six-month scheme in Great Britain, the EBRS will protect businesses and other non-domestic energy users, including charities and public sector organisations, from rising energy bills this winter by providing a discount on wholesale gas and electricity prices. The government will publish a review into the operation of the scheme in three months to inform decisions on future support after March 2023, focusing in particular on identifying the most vulnerable non-domestic customers and how to continue assisting them with energy costs. A parallel scheme, based on the same criteria and offering comparable support, but recognising the different market fundamentals, will be established in Northern Ireland.
+
+Annex A: Investment Zones – interested areas
+
+Investment Zones will only be chosen following a rapid expression of interest process open to everyone and after local consent is confirmed. Examples of illustrative sites that may have the potential to accelerate growth and deliver housing in the way the Investment Zone programme envisages include:
+
+1. Blackpool Airport
+2. Blackpool Town Centre
+3. Langarth Garden Village, Cornwall
+4. Newquay Airport, Cornwall
+5. Falmouth Docks, Cornwall
+6. Ellesmere Port Industrial Area, Cheshire West & Chester
+7. HS2 Interchange, Solihull
+8. the site of a proposed battery Gigafactory at Coventry Airport
+9. sites in the Black Country
+10. sites in Barrow-in-Furness
+11. Workington and the Energy Coast, Cumbria
+12. sites near Weymouth, Dorset
+13. the proposed Mayoral Development Corporation site in Hartlepool
+14. the proposed Mayoral Development Corporation site in Middlesbrough
+15. Teesside International Airport
+16. Ebbsfleet Central
+17. the River Hull corridor
+18. Charnwood Campus in Leicestershire
+19. Plymouth City Centre and Waterfront
+20. Ceramic Valley in Stoke-on-Trent
+21. Gravity, Somerset
+22. Riverside, Sunderland
+23. the Northern Spire, Sunderland
+24. the International Advanced Manufacturing Park, Sunderland
+
+The government is in early discussions with the following 38 Authorities on establishing an Investment Zone in their area:
+
+1. Blackpool Council
+2. Bedford Borough Council
+3. Central Bedfordshire Council
+4. Cheshire West and Chester Council
+5. Cornwall Council
+6. Cumbria County Council
+7. Derbyshire County Council
+8. Dorset Council
+9. East Riding of Yorkshire Council
+10. Essex County Council
+11. Greater London Authority
+12. Gloucestershire County Council
+13. Greater Manchester Combined Authority
+14. Hull City Council
+15. Kent County Council
+16. Lancashire County Council
+17. Leicestershire County Council
+18. Liverpool City Region
+19. North East Lincolnshire Council
+20. North Lincolnshire Council
+21. Norfolk County Council
+22. North of Tyne Combined Authority
+23. North Yorkshire County Council
+24. Nottinghamshire County Council
+25. Plymouth City Council
+26. Somerset County Council
+27. Southampton City Council
+28. Southend-on-Sea City Council
+29. Staffordshire County Council
+30. Stoke-on-Trent City Council
+31. Suffolk County Council
+32. Sunderland City Council
+33. South Yorkshire Combined Authority
+34. Tees Valley Combined Authority
+35. Warwickshire County Council
+36. West of England Combined Authority
+37. West Midlands Combined Authority
+38. West Yorkshire Combined Authority
+
+Annex B: Infrastructure Projects
+
+The list below sets out infrastructure projects which will be accelerated as fast as possible, aiming to get the vast majority starting construction by the end of 2023. These projects may benefit from acceleration through planning reform, regulatory reform, improved processes or other options to speed up their development and construction, including through development consent processes.
+
+Presence on this list does not guarantee, where applicable, funding, planning consent or approval for other regulatory or permitting processes and the list is non-exhaustive of all projects which may benefit from acceleration.
+
+Where local authorities or agencies are the delivery leads, it is the government’s intent to support where possible in acceleration.
+
+Transport
+
+Roads
+
+1. M27 Junction 8
+2. A417 Air Balloon
+3. M54-M6 Link Road
+4. A164/Jock’s Lodge Junction Improvement Scheme
+5. Tyne Bridge and Central Motorway A167 (M)
+6. A1237 York Outer Ring Road Dualling Phase 1
+7. A140 Long Stratton Bypass
+8. A34 MRN Cheadle – Handforth Improvement Plan Phase 1
+9. A350 Chippenham Bypass Improvements – Phase 4 & 5
+10. A382 Drumbridges to Newton Abbot
+11. A4123 Birchley Island
+12. A500 Dualling
+13. A511 Growth Corridor
+14. A59 Kex Gill
+15. A595 Grizebeck Bypass
+16. A614/A6097 Corridor Scheme
+17. North Hykeham Relief Road
+18. A38 Bromsgrove Route Enhancement Programme
+19. A3102 Swindon Safer Road Scheme
+20. A186 Tyne and Wear Safer Road Scheme
+21. A35 Weymouth Safer Road Scheme
+22. A165 Scarborough Safer Road Scheme
+23. A13 London Safer Road Scheme
+24. A3056 Isle of Wight Safer Road Scheme
+25. A5038 Liverpool Safer Road Scheme
+26. A2010 Brighton Safer Road Scheme
+27. A625 Derbyshire Safer Road Scheme
+28. A35 Devon Safer Road Scheme
+29. A6022 Ipswich South Yorkshire Safer Road Scheme
+30. A586 Blackpool Safer Road Scheme
+31. A1156 Ipswich Safer Road Scheme
+32. A6042 Manchester Safer Road Scheme
+33. A5183 Elstree Safer Road Scheme
+34. A4030 Smethwick Safer Road Scheme
+35. A25 Surrey Safer Road Scheme
+36. A6130 Nottingham Safer Road Scheme
+37. A4158 Oxford Safer Road Scheme
+38. A104 Epping Safer Road Scheme
+39. A113 Brentwood Safer Road Scheme
+40. A19 Selby Safer Road Scheme
+41. A2047 Portsmouth Safer Road Scheme
+42. A23 Croydon Safer Road Scheme
+43. A3025 Southampton Safer Road Scheme
+44. A361 Devon Safer Road Scheme
+45. A38 Devon Safer Road Scheme
+46. A609 Nottingham Safer Road Scheme
+47. A420 Oxford Safer Road Scheme
+48. A579 Bolton Safer Road Scheme
+49. A676 Bolton Safer Road Scheme
+50. A4165 Oxford Safer Road Scheme
+51. A432 Bristol Safer Road Scheme
+52. A5105 Morecambe Safer Road Scheme
+53. A6 Preston Safer Road Scheme
+54. A41 Birkenhead Safer Road Scheme
+55. A439 Stratford Safer Road Scheme
+56. A60 Leicestershire Safer Road Scheme
+57. A5191 Shrewsbury Safer Road Scheme
+58. A6200 Nottingham Safer Road Scheme
+59. A52 East Midlands Safer Road Scheme
+60. A6 Safer Road Scheme
+61. A583 Manchester Safer Road Scheme
+62. A690 County Durham Safer Road Scheme
+63. A57 Liverpool Safer Road Scheme
+64. M25 Junction 10
+65. M25 Junction 28
+66. A66 - Northern Transpennine
+67. A303 Stonehenge
+68. A428 Black Cat
+69. A358 Taunton to Southfields
+70. A1 dualling – Morpeth to Ellingham
+71. A4174 MOD Roundabout Improvements
+72. A22 Corridor Package (East Sussex)
+73. A259 (King’s Road) Seafront, Highway Structures (‘Arches’) Renewal Programme
+74. A374/A386/A364 Plymouth MRN Phase 1
+75. A38 North Somerset (formerly Bristol Airport Access)
+76. A4174 Ring Road Junction Improvements
+77. A426/A4071 Avon Mill/Hunters Lane Improvements
+78. A509 Isham Bypass
+79. A582 South Ribble Western Distributor Upgrade
+80. A595 Bothel Strategic Improvements
+81. A650 Tong Street
+82. A689 Corridor Improvements - Wynyard and Hartlepool
+83. Brent Cross Highway Structures - Asset Renewal
+84. Dawson’s Corner Junction and Stanningley Bypass
+85. Gallows Corner Roundabout Improvements
+86. Norwich Western Link
+
+Rail
+
+87. Cambridge South Station
+88. Northumberland Line
+89. White Rose Station
+90. Thorpe Park
+91. Transpennine Route Upgrade
+92. East West Rail
+93. Leeds Station Enhancement
+94. Manchester Improvements
+95. Midland Main Line Phase 3
+96. Northern Powerhouse Rail
+
+Decarbonisation
+
+97. Local EV Infrastructure Fund
+98. Rapid Charging Fund
+
+Local Transport
+
+99. LCR: Independently Powered Electric Multiple – Unit (IPEMU) – Network Expansion
+100. WMCA: Wednesbury to Brierley Hill Metro Extension
+101. WMCA: Sprint Phase 2 (A34 and A45)
+102. LCR: Green Bus Routes
+103. GMCA: Initial phased delivery of Rochdale-Oldham-Ashton Corridor
+104. West Yorkshire Mass Transit
+105. TVCA: Middlesbrough Station
+106. TVCA: Darlington Station
+107. WECA: M32 Sustainable Transport Corridor and Hub
+108. WYCA: Leeds City Centre Cycle Improvements
+109. WMCA: East Birmingham to Solihull Corridor
+110. WMCA: Walk, Cycle and Bus Access: Darlaston and Willenhall Train Stations
+111. WMCA: Aldridge Station
+112. WECA: Bristol to Bath Sustainable Transport Corridor
+113. WMCA: Bus Priority Cross-City Routes
+114. SYMCA: Supertram renewal
+
+Energy
+
+Nuclear
+
+115. Hinkley Point C
+116. Sizewell C
+
+Hydrogen
+
+117. Hynet Hydrogen Pipeline
+118. INOVYN Hydrogen Storage (Hynet Cluster, NW)
+119. East Coast Cluster Hydrogen Pipeline
+120. Aldbrough Hydrogen Storage (East Coast Cluster, Humber)
+121. Hydrogen Electrolyser Capacity Deployment
+
+Carbon Capture and Storage (CCUS)
+
+122. Hynet Cluster – CCUS cluster in the North West
+123. East Coast Cluster – CCUS cluster in Teesside and Humber
+
+Oil and Gas
+
+124. Murlach Oil Field Development
+125. Cambo Phase 1 Field Development
+126. Talbot Field Development
+127. Affleck Redevelopment
+128. Victory Field Development
+
+Offshore Wind
+
+129. Remaining Round 3 Projects
+130. Round 4 Projects
+131. Extension Projects
+132. Scotwind Projects
+133. INTOG Projects
+134. Floating Wind Commercialisation Projects
+135. Celtic Sea Projects
+
+Local Growth
+
+136. Freeports
+137. Levelling Up Home Building Fund
+
+Digital
+
+138. Project Gigabit
+
+Footnotes
+
+[1] Annual real GDP growth over the twenty years from 2000 to 2019 inclusive and 1980 to 1999 inclusive,Office for National Statistics, April 2022.
+
+[2] Annual growth in real GDP per hour worked over the twenty years from 2000 to 2019 inclusive for G7 economies, OECD database: Growth in GDP per capita, productivity and ULC, accessed on 14 September 2022.
+
+[3] Economic and fiscal outlook – March 2022, Office for Budget Responsibility, March 2022.
+
+[4] International comparisons of UK productivity (ICP), final estimates: 2020, Office for National Statistics, January 2022.
+
+[5] Output per hour worked, UK: 1971 – 2021, Office for National Statistics, July 2022.
+
+[6] Public Sector Finances, UK: August 2022, Office for National Statistics, September 2022.
+
+[7] GDP quarterly national accounts, UK: January to March 2022, Office for National Statistics, June 2022.
+
+[8] GDP first quarterly estimate, UK: April to June 2022, Office for National Statistics, August 2022.
+
+[9] GfK Consumer Confidence Index, GfK, August 2022.
+
+[10] Retail Sales, Great Britain: August 2022, Office for National Statistics, September 2022.
+
+[11] Agent’s update on business conditions, Bank of England, August 2022.
+
+[12] Consumer price inflation, UK: August 2022, Office for National Statistics, September 2022.
+
+[13] UK Natural gas (NBP), Bloomberg (FN1 Comdty), September 2022.
+
+[14] Labour Market Overview, UK: September 2022, Office for National Statistics, September 2022.
+
+[15] Fiscal Monitor, April 2022, International Monetary Fund, April 2022.
+
+[16] Public Sector Finances, UK: August 2022, Office for National Statistics, September 2022.
+
+[17] Public Sector Finances, UK: August 2022, Office for National Statistics, September 2022.
+
+[18] HM Treasury calculation of the average expected impact on the annual rate of CPI inflation, based on estimates from independent forecasters collected from 8-16 September.
+
+[19] Energy Price Guarantee Press Release, September 2022
+
+[20] Using 2021 estimate of GDP in US dollars, current prices, IMF World Economic Outlook Database: April 2022
+
+[21] Real Average weekly earnings using consumer price inflation (seasonally adjusted), Office for National Statistics, September 2022
+
+[22] Average of annual real GDP growth from 1988 to 2007 inclusive and 2011 to 2019 inclusive, Office for National Statistics, 2022
+
+[23] Market sector gross fixed capital formation as a % of GDP, OECD database, HMT calculations
+
+[24] GDP first quarterly estimate, Office for National Statistics, August 2022
+
+[25] Output per hour worked, UK, Office for National Statistics, July 2022
+
+[26] Labour Market Overview, UK: September 2022, Office for National Statistics, September 2022
+
+[27] Labour Market Overview, UK: September 2022, Office for National Statistics, September 2022
+
+[28] Business insights and impact on the UK economy, Office for National Statistics, September 2022.
+
+[29] Planning applications in England: October to December 2021, DLUHC, March 2022
+
+[30] British Energy Security Strategy, Department for Business, Energy & Industrial Strategy, April 2022
+
+[31] Department for Business, Energy & Industrial Strategy analysis based on the Renewable Energy Planning Database
+
+[32] Department for Levelling Up, Housing and Communities analysis, based on projects granted a DCO between 2012 and 2021, including both statutory and non-statutory periods
+
+[33] Agriculture in the UK Evidence Pack, DEFRA and the Government Statistical Service, October 2021
+
+[34] Energy bills support factsheet, September 2022
+
+[35] Office for Budget Responsibility analysis, January 2022.

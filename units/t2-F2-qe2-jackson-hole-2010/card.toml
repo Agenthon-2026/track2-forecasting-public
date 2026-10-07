@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust10y-easing-options-2010"]
 expert_time_estimate_min = 45.0
@@ -76,7 +75,7 @@ path           = "text/"
 cutoff         = "2010-08-31"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 5
+n_documents    = 7
 notes          = "A 2010-08-27 speech (in corpus) lays out policy options for further easing; the Aug-10 statement already restarted reinvestment. Prior asset-purchase episodes show anticipation dynamics can be non-monotonic, so the window demands honest two-sided width, not a one-way drift."
 
 [targets]

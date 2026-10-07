@@ -1,0 +1,182 @@
+Haruhiko Kuroda: Payments innovations and the role of central banks - addressing challenges posed by stablecoins
+2019-12-04
+
+December 4, 2019
+
+Bank of Japan
+
+## Payments Innovations and the Role of Central Banks: Addressing Challenges Posed by Stablecoins
+
+Speech at the Symposium for the 35th Anniversary of the Center for Financial Industry Information Systems
+
+## Haruhiko Kuroda
+
+Governor of the Bank of Japan
+
+(English translation based on the Japanese original)
+
+## I. Introduction
+
+It is my privilege to be here today at the Symposium for the 35th Anniversary of the Center for Financial Industry Information Systems (FISC). Since its foundation in 1984, FISC has contributed enormously to enhancing financial information systems and to improving the efficiency of financial services in Japan. I would like to express my respect for FISC's many years of service and extend my heartfelt congratulations on the 35th Anniversary.
+
+Today, I would like to talk about payments innovations and the roles of central banks.
+
+Recently, there have been various changes in Japanese retail payments: person-to-person payments and merchant-to-person payments. For example, in October 2018, financial institutions started to provide their customers with "24/7 fast payment services," which enables real-time fund transfers between deposit accounts on a 7-days-a-week, 365 days-ayear basis, including nighttime and holidays. The providers of these services have aimed at responding to the demand for more convenient payment services arising from changes in the lifestyle of consumers and the spread of e-commerce. In addition, when we look at the payment interfaces between consumers, merchants, and payment service providers, a wide variety of devices, such as smartphones and IC cards, have become available. Not only financial institutions but also various agents such as nonbank firms with strengths in IT -- so called FinTech firms -- have started to provide cashless payment services. This is also a significant change surrounding payment services in recent years.
+
+Since this October, the Japanese government has introduced the point reward program for consumers using cashless payments. It aims to improve the productivity of relevant businesses and to increase the convenience of consumers through further dissemination of cashless payments. The Bank of Japan has received several comments from its nationwide branch offices that the government's program has helped increase cashless payments.
+
+This year, we have never run short of news on payments, but the one that attracted most attention was Facebook's stablecoin initiative, "Libra." Stablecoins have emerged as an alternative to crypto-assets, whose severe price volatility has made them difficult to use as payment instruments. Numerous types of private digital money have emerged to date across
+
+the world, but Libra differs in some aspects. With its large customer base built by Facebook, Libra has the potential to find wide global use as a private currency denominated in its own unit of account. Global stablecoins (GSCs), such as Libra, may offer convenient payment services to many users, if legal certainty and technical stability are ensured. However, users cannot continuously appreciate the benefits of GSCs unless various challenges and risks related to money-laundering, cyber-security, data protection, and consumer and investor protection are properly addressed. The spread of GSCs could have significant implications on the financial system and the transmission of monetary policy. As pointed out in the G7 working group report on GSCs, no GSC project should begin operation until the legal, regulatory and oversight challenges as well as associated risks that are outlined above are adequately addressed. 1 This view was also shared at the G20 Finance Ministers and Central Bank Governors Meeting.
+
+Today, I would firstly like to discuss the public authorities' response to GSCs in terms of "global governance" in ensuring the stability of the global financial system. To maintain the global financial stability with free capital mobility, the authorities need to cooperate to establish globally consistent rules and regulations and require issuers of GSCs to comply with these rules. It is important to understand what impact GSCs could have on a supply channel for a global public good, "financial stability."
+
+I would then like to mention the challenges in improving the existing retail payment services. The emergence of private sector innovations, including GSCs, highlights shortcomings in the existing payment systems. For example, cross-border payments remain slow and expensive. The authorities should not only highlight risks and issues posed by the emergence of new digital money, but also encourage improvement of the existing payment systems. As mentioned earlier, while new means of payment have emerged and have demonstrated efforts to enhance customer convenience in Japan, there remain various challenges toward the wider use of cashless payments. In this regard, today, I would like to focus on the interoperability of payment services.
+
+1 G7 Working Group on Stablecoins, "Investigating the impact of global stablecoins," October 2019.
+
+## II. GSCs in terms of Global Governance
+
+Supervisory and regulatory authorities and central banks have recognized the need for close international coordination and collaboration, rather than individual effort, to address the issues of GSC initiatives, such as Libra. The idea of the "financial trilemma" could help us understand why the authorities agree on this view. 2
+
+## Financial Trilemma
+
+The financial trilemma states that the following are incompatible: (1) financial integration under free capital mobility, (2) financial stability, and (3) national financial policies. Any two of the three objectives can be combined but not all three; one has to give. For example, let us take the case where each jurisdiction maintains its own national financial policies in a financially integrated world. In a lightly regulated jurisdiction, financial institutions would tend to take on more risks and engage in risky business overseas. Firms and households in that jurisdiction would increase borrowing, including foreign currency denominated borrowing. Such increased leverage could eventually lead to financial instability. In sum, when "financial integration" and "national financial policy" are chosen, "financial stability" must be sacrificed. To achieve financial stability in the financially integrated world, the authorities need to give away their national financial policies and cooperate with other countries to introduce globally consistent financial policy.
+
+GSCs are digital tokens issued against funds collected from customers all over the world. The reserve of funds would be invested in a basket of major fiat currencies, consisting of government securities and bank deposits. Using GSCs as a means of cross-border payment would further facilitate and promote cross-border capital flows. Taking these points into account, GSCs can be interpreted as a scheme that would deepen financial integration. Therefore, to maintain financial stability, which could be undermined by the emergence of GSCs, globally consistent financial policy is indispensable. That is the reason why the financial authorities and central banks have been coordinating and discussing how to address the issues raised by GSCs since this summer.
+
+2 Schoenmaker, D, "The financial trilemma," Economics Letters , 2011 vol.111, 57-59.
+
+Given the enormous benefits derived from global financial activities, the private sector entities have a strong incentive for regulatory arbitrage. Even if transactions in GSCs are prohibited in some jurisdictions, they may expand in other lightly regulated jurisdictions. In times of stress, this could bring adverse effects on the global financial market as a whole. For example, even if GSCs are not widely used in advanced countries, an increase in transactions of GSCs in emerging markets could subsequently increase the reserve assets, consisting of government securities and bank deposits issued in advanced countries. Once the credibility and reputation of GSCs are significantly undermined, or the value of the reserve assets decreases, customers could rush to request redemption of GSCs for fiat currency. As a result, the issuers of GSCs would be forced to withdraw bank deposits or sell government securities, increasing the volatility and vulnerability of the financial markets in advanced countries.
+
+To mitigate such risks, supervisory and regulatory frameworks of relevant jurisdictions need to be mutually consistent and discourage regulatory arbitrage of GSC issuers. Legitimate and sound fund transactions are the basis for financial stability and financial integration, and therefore, measures against money laundering and those to counter the financing of terrorism (AML/CFT) need to be implemented consistently across jurisdictions. Furthermore, an overarching approach to global coordination, including the areas of cyber-security, data protection, and consumer and investor protection would be necessary.
+
+## Financial Stability as a Public Good
+
+Financial stability is an essential "public good" for firms, individuals and financial institutions to engage in economic activities. Public goods have two features. One feature is that consumption by an individual or a group of individuals does not reduce the good's availability to others. 3 The other feature is that the good is available to all and cannot be withheld, even from people who do not pay for the goods. 4 As people are not required to pay for public goods regardless of how much they consume, a free-rider problem could arise. Therefore, if the supply is left solely to the market, these goods will not be provided. Financial stability can be considered to have such features. For this reason, supervisory and regulatory authorities and central banks ensure that public goods (i.e. financial and monetary stability)
+
+3 In traditional economics, this feature is referred to as "non-rivalry."
+
+4 This feature is referred to as "non-excludability."
+
+are provided through monetary policy and prudential policy by establishing adequate regulatory frameworks.
+
+GSCs aim to stabilize their value by linkage to a basket of fiat currencies of the major countries. In other words, the scheme of GSCs utilize a global public good (i.e. global financial stability), which is made up of a basket of public goods of each jurisdiction. Global financial policy can be interpreted as constituting rules for the appropriate consumption of global public goods. Therefore, GSC issuers need to comply with the rules, because they provide payment services using global public goods.
+
+If GSC issuers were to overconsume a public good (i.e. global financial stability) and expand business beyond their risk management capacity, it could cause stress in the global financial markets, such as rapid capital flight, when risks materialize. As a result, the public authorities would be forced to incur additional costs for providing a public good (i.e. financial stability). For example, the central bank, as a lender of last resort, would provide liquidity, or the government would step in to take fiscal measures.
+
+Looking back on the era of "Great Moderation" up until the mid-2000s, US and European banks rushed to take on excessive risks. Although they were subject to financial regulations at that time, many of them simultaneously became overconfident about future financial stability and held optimistic views on risk. Such risk perception led to credit expansion and asset price increases in a synergetic manner. In the wake of the subsequent Great Financial Crisis, financial authorities established the macro-prudential regulatory framework, which put in place more stringent rules regarding the appropriate consumption of a public good (i.e. financial stability).
+
+While regulations on banks were strengthened after the Great Financial Crisis, nonbanks such as investment funds expanded their presence in the market of "credit intermediation," mainly in US and Europe. Meanwhile, Facebook's GSC initiative, Libra, could be an example of nonbank efforts to replace banks and increase their presence in the market of "payments." Regardless of whether they carry the function of credit intermediation or payments, not only
+
+banks but also nonbanks need to comply with the rule of the appropriate consumption of public goods.
+
+## GSCs and the Financial Version of the "Tragedy of the Commons"
+
+As I have mentioned earlier, one of the features of public goods is that consumption by an individual or a group of individuals does not reduce the good's availability to others. For example, no matter how much air (i.e. public good) I breathe in, it does not limit your air consumption. So, you may wonder why I am warning about the overconsumption of a public good (i.e. financial stability), by GSC issuers. Simply put, the reason is that a wide use of stablecoins in a global scale could transform financial stability from a "public good" into a "common-pool resource."
+
+A common-pool resource has the same feature as public goods in that it is available to all and cannot be withheld, even from people who do not pay for the resource. But unlike public goods, consumption by an individual or a group of individuals does reduce the resource's availability to others. 5 A typical example is fishery resources. Overconsumption of a common-pool resource can lead to the complete and permanent destruction of the commonpool resource. This problem is known as the "tragedy of the commons." 6 When farmers put their cows on a common pasture, each individual farmer will put as many cows on the pasture as possible, acting independently according to his own self-interest. This will eventually result in the over-exploitation and destruction of the pasture, and all farmers will be damaged.
+
+GSCs could bring about a "tragedy of the commons." Central banks provide public goods (i.e. financial and monetary stability) through monetary and prudential policies. Meanwhile, GSC is a scheme that utilizes public goods (i.e. financial and monetary stability), provided by central banks. If GSCs are widely used with over-exploitation of public goods in such a way that GSCs begin to substitute for fiat currency in each jurisdiction and GSC-denominated transactions and assets/liabilities increase, this would undermine the monetary policy transmission of central banks. When the effects of monetary policy are weakened, the
+
+5 While a public good satisfies both "non-rivalry" and "non-excludability," a common-pooled resource exhibits only "non-excludability."
+
+6 Hardin, G, "The Tragedy of the Commons," Science , 1968, vol.162, 1243-1248.
+
+provision of public goods (i.e. financial and monetary stability) will be disturbed, and this would destabilize not only the value of GSCs but also overall economic activities. This can be thought of as the financial version of a "tragedy of the commons." A wide use of stablecoin on a global scale could transform financial stability from a public good into a common-pool resource.
+
+The risk of currency substitution to GSCs could be higher for countries with a weak economic base and lacking effective payment infrastructures. When the effects of monetary policy are undermined by the spread of currency substitution across these countries, it would lead to instability in the real economy, the impact being transmitted to other countries. Given the progress in economic globalization and stronger interdependencies among financial systems, there is a risk that the financial markets of advanced economies would also be subject to instability. As a result, the provision of a global public good (i.e. global financial stability), would be reduced, and a tragedy of the commons could occur.
+
+The public authorities, in coordination with other domestic and foreign authorities, need to address various challenges posed by GSCs, including the tragedy of the commons.
+
+## III. Reform of Retail Payment Systems
+
+As described above, GSCs could have significant implications for the international monetary system and settlement system. They should not begin operation until the various challenges and risks are adequately addressed. At the same time, I would like to assert that the Bank of Japan takes the position of promoting private sector innovations. The recent GSC initiative has posed us challenging questions: What are the shortcomings of the existing payment services? What are the remedies? This is an inevitably important issue for a central bank responsible for improving efficiency and safety of the payment and settlement systems. There are many issues in the current payment and settlement systems that must be dealt with, such as costly cross-border payments and financial inclusion. It is vital for us to understand that the advent of private sector innovations derives from issues originating in the existing payment and settlement systems.
+
+## Network Effects and Interoperability
+
+Costly cross-border payments and financial inclusion are not the only issues that need to be addressed. While major advanced countries have been upgrading their domestic retail payment systems by adopting 24/7 fast payment services, there is more room for improvement. This is obvious when we consider why GSCs have attracted so many people's attention. For example, Facebook has over two billion users, and they are all potential users of Libra. Benefits from payment services become more valuable when more people use them. This is known as "network effects." It is easy to predict that the Libra platform, with its huge customer base, will leverage network effects significantly.
+
+Many studies have attempted to carry out quantitative analyses of the benefits of network effects, and one of the prevailing views is "Metcalfe's law." The law states that the value of a network is proportional to the square of the number of users participating in it. In fact, some studies have shown that Metcalfe's Law is a good quantitative explanation for the value of Facebook's platform. 7 In terms of network effects, it seems that the customer bases of existing payment service providers in each country are inferior to Libra's potential customer base.
+
+However, while platforms with strong network effects can offer considerable benefits to users, platforms can create monopoly problems by locking in users. In other words, if the number of users and merchants participating in the network exceeds a certain size (critical mass), the scale of the payment platform will expand rapidly due to the network effect, which may lead to an oligopoly or monopoly of the market. If a particular provider becomes a dominant player in the retail payment services market, problems such as distortions in the pricing system and reduced incentives for innovation may eventually arise. Monopolies impede competition and innovation, and can ultimately have a negative impact on consumer benefits.
+
+At first glance, it seems difficult to achieve both the benefits of network effects for users and the long-term benefits for society through competition and innovation. But it is not impossible. "Interoperability" between payment service providers and platforms can help achieve both
+
+7 Zhang XZ, Liu JJ, Xu ZW, "Tencent and Facebook data validate Metcalfe's law," Journal of Computer Science and Technology , 2015, vol.30 (2): 246-251.
+
+these goals. Interoperability across multiple platforms enables a customer participating in one platform to make payments to customers on other platforms. This greatly improves user benefits gained from network effects. The network effect based on interoperability arises from the collaboration among multiple payment service providers and multiple platforms, and it is not provided exclusively by a single payment service provider or platform. By ensuring interoperability, payment service providers such as banks and FinTech firms can expand the overall market size of cashless payments and achieve a win-win relationship among them. Also, the payment service providers can still compete by combining payment services with other financial and non-financial services and create their own unique added value. Payment service providers will be released from launching endless discount campaigns to lock in customers and will instead be able to look ahead toward the creation of new value. Such competition will drive innovation, too. In this way, collaboration among payment service providers by ensuring interoperability will promote both competition and innovation while avoiding monopoly problems.
+
+## Strategies of FinTech Firms
+
+Now, let us look at interoperability in Japan's retail payment systems. What are the challenges? I would like to consider this topic from the perspective of the payment business strategies of FinTech firms and banks.
+
+Firstly, the strategies of FinTech firms. There are a number of payment platforms operated by FinTech firms, and competition among them has become quite fierce. Several FinTech firms have already developed radical strategies to lock in customers, such as rebates and reduction of the merchant discount rate. These strategies are designed to scale up the platform as fast as possible and achieve a critical mass.
+
+While such strategies are rational on their own, they could be risky when a strong rival exists, as they may not be as effective as expected and FinTech firms may be worn out. In Japan, the biggest rival of cashless payment service providers is banks' branches and their CD/ATM networks supporting cash payment. Japanese banks maintain geographically dense networks of branches and ATMs, enabling people to withdraw cash from their accounts very easily. 8
+
+8 Bank of Japan, Payment and Settlement Systems Report (March 2019).
+
+What makes cash payment convenient is not only the number of bank branches and ATMs. The interoperability of ATM services across banks also contributes to this. It allows customers of one bank to withdraw cash from ATMs of another bank.
+
+In Japan, it is undeniable that FinTech firms' payment platforms pale in comparison to cash networks in terms of interoperability. Recently, some improvements have been made to FinTech firms' platforms, such as the standardization of QR codes and merchant sharing, but overall, there remains more room for improving the interoperability of their payment services.
+
+## Retail Payment Strategies of Banks
+
+Regarding retail payment strategies of banks, the following two common points have been observed.
+
+Firstly, banks provide FinTech firms with access to their customers' deposit accounts and offer account transfer services. In order for customers to use FinTech firms' cashless payment services, they need to top up from their bank accounts or to use a bank account debit function. In some sense, bank accounts and payment services provided by FinTech firms can be regarded as complements, like coffee and sugar. If you compare coffee with sugar sachets attached and coffee without sugar sachets, the former is preferable. Similarly, between bank accounts linked to FinTech firms' payment services and bank accounts that are not, the former is preferable for customers. From the viewpoint of competition among banks, those providing account transfer services to FinTech firms have an advantage in attracting new customers and/or preventing existing customers from closing or deserting their accounts.
+
+Secondly, banks participate in cashless payment platforms operated by the banking industry, competing with FinTech firms. As cashless payments through FinTech firms become more prevalent, the banks might face the greater risk that they will be a mere provider of deposit accounts and thus lose a close relationship with customers and merchants. If banks want to access customers' payment information and merchants' sales information, banks need to provide payment services to customers at the front end. This is the reason why banks have an incentive to participate in cashless payment platforms operated by the banking industry. In some sense, the payment services provided by banks and those provided by FinTech firms
+
+could be viewed as substitutes, like coffee and tea.
+
+These two strategies are rational choices for each individual bank in terms of competition with other banks and with FinTech firms respectively. However, if many banks follow the same strategies, the "fallacy of composition" could arise, and the combined effects of the two strategies may be lower than expected, namely, one plus one being less than two (1 + 1 &lt; 2). While banks support FinTech firms' payment services by providing them with real-time account transfer service, they act as acquirers themselves and seek out merchants who will join payment platforms operated by the banking industries. However, since FinTech firm and bank payment platforms lack interoperability, none of these platforms is likely to grow significantly, making it difficult for banks to recoup their investments.
+
+## Collaboration Among Payment Service Providers
+
+When multiple payment platforms exist but lack interoperability, payment service providers, both FinTech firms and banks, have a strong incentive to lock in customers in order to beat the competition. This may lead to fragmentation of payment services, undermining network effects and user convenience. As a result, banks and FinTech firms would end up wearing themselves out in the process. Especially in Japan, where there exist very efficient cash services supported by geographically dense networks of CD/ATMs with a high-level of interoperability, payment service providers must devote a significant amount of resources to expanding the market for cashless payment services. However, the expansion is unlikely to be achieved if FinTech firms and banks act separately in pursuing their own cashless payment services.
+
+In such a situation, a desirable option is that payment service providers collaborate with each other - that is, make their services interoperable - in order to maximize the network effects of digital yen. Collaboration among payment service providers can take various forms: between banks, between FinTech firms, and between banks and FinTech firms. At first glance, interoperability may seem like giving away the benefit to the other parties. That would be true if the market for cashless payment services does not scale up even with the introduction of interoperability. It would simply escalate the competition among payment service providers. However, if interoperability among payment service providers and payment
+
+platforms is ensured, benefits to users will increase, leading to an increase in the use of cashless payments, hence the expansion of the market for cashless payment services. As a result, a win-win relationship benefitting all the payment service providers can be established.
+
+Many studies have indicated that network interoperability will bring a win-win relationship between related parties. 9 In fact, this has also been proved by some examples that are quite familiar to us. One of them is the interconnection of transportation IC cards, such as PASMO and Suica. As this has improved convenience for users, the cumulative number of transportation IC cards issued has now surpassed 100 million. The advantage for users (riders) that they do not have to buy a ticket each time they travel is also an advantage for transportation companies, since they do not have to sell a ticket for each journey. The interconnection of transportation IC cards has made it possible for each transportation company to save labor costs in checking tickets, fares, and commuter passes. This has led to punctual operation (as the result of efficient boarding), reduction of the human workload, and optimization of human resources.
+
+There is also an interesting example regarding interoperability in the banking sector; the CD/ATM network. In 1980, city banks divided themselves into two tiers, the upper tier and the middle and lower tier, and initiated an online network alliance separately for each tier group. The division into two tiers was said to be the result of opposition by banks in the middle and lower tier. They were concerned that "if online networks are integrated into one alliance, customers will move their bank accounts to the upper tier banks, and the middle and lower tier banks will be left to serve only as providers of machines." 10 However, the advent of a nationwide online network for postal savings, which was the banks' common and strong rival, eventually pushed these two tiers to integrate. In 1984, a new city bank cash service (BANCS) was launched by unifying the two tiers. After that, the multi integrated cash service (MICS) was launched by integrating the networks of city banks and regional banks. The
+
+9 Benson, C and S Loftesness, "Interoperability in Electronic Payments: Lessons and Opportunities," CGAP, 2012.
+
+Clark, D and G Camner, "A2A Interoperability - Making Mobile Money Schemes Interoperable," GSMA, February 2014.
+
+10 The Yomiuri Shimbun , "Jidou shiharai, dono togin demo" [Interoperation of CD/ATMs deployed among city banks], news article, February 19, 1986.
+
+interoperability of CD/ATM services across banks did not create any particular losers, and many banks found that the number of deposit accounts they provide increased, resulting in a win-win situation for everyone and more convenient services for users. This has led to the convenience of cash payments today.
+
+These examples demonstrate that ensuring interoperability is critical for improving retail payment services in Japan. For the widespread use of cashless payments, payment should be stress-free for consumers and merchants, and interoperability of payment networks is an essential element. Specifically, there are various options, such as interconnection among payment platforms, participation of payment providers on a common platform, standardization of payment terminals, retail point of sale compatibility, and merchant sharing.
+
+When we look overseas, interoperability is the common feature of countries where cashless payments are widely used. For example, there are a number of payment platforms enabling customers to transfer money instantly on a 24/7 basis using mobile phone numbers. 11 Banks participating in these systems share a common database linking customers' bank account numbers to mobile phone numbers. There are also some cases where nonbanks such as FinTech firms participate with banks in the same payment system. 12 As the recent GSC initiative has highlighted the necessity for more convenient services, we should start to seriously discuss and consider possible solutions in the Japanese market. I would like to encourage relevant parties to put their proposals on the table.
+
+## IV. Concluding Remarks
+
+Today, I have discussed the challenges and risks posed by GSCs as well as the need for the reform of retail payment systems.
+
+While GSCs have the potential to improve payment services, their widespread use and the increase in GSC-denominated transactions could undermine the effects of monetary policy transmission and financial system stability. Therefore, the public authorities, as providers of
+
+11 Bank of Japan, Payment and Settlement Systems Report , March 2019.
+
+12 For example, in Hong Kong, HKICL began operation of the "Faster Payment System" 24/7 realtime payment service in 2018. Participants in the system are major banks and Stored Value Facilities (FinTech firms).
+
+a public good (i.e. financial stability), need to not only support private sector innovations but also promote the use of digital money denominated in a fiat currency in their jurisdictions.
+
+This brings me to another important issue. Should central banks issue digital money, central bank digital currencies (CBDCs)? To date, many central banks around the world have already been engaged in research activities for CBDCs. In some European countries, central banks have been encouraged to accelerate work on issues surrounding possible public digital currency solutions in order to counter private sector initiatives in stablecoins. In Japan, the amount of cash outstanding is still increasing, and it does not seem that there is a demand for CBDC from the public at present. Nevertheless, the Bank of Japan has been conducting technical and legal research on this matter in order to stand ready when the need for CBDC may arise in the future 13 . The Bank also needs to study the impact of CBDCs on financial intermediation.
+
+Currently, there is a wide variety of private digital money denominated in Japanese yen. It is very important to promote the use of such private money by improving its functions to bring it closer to the expected functions of CBDC. In this regard, the network effect through the increase in the number of cashless payment users is a key to improving the convenience of private digital money. It is more desirable to gain such a network effect through the interoperability among multiple payment service providers and platforms rather than by a single payment service provider or platform alone. If interoperability between private digital money increases, private money will approach more closely to central bank money in terms of general acceptability. In addition, the wide use of private digital money denominated in Japanese yen, which would be enhanced by competition and coordination among payment service providers, could help the Bank of Japan maintain the channels for providing public
+
+13 In technical aspects, the Bank has been conducting research on new technologies, including distributed ledger technology (DLT). For example, the joint research project with the European Central Bank, "Project Stella" is being carried out as part of our research. In legal aspects, the Bank has been working to explore the potential legal issues and implications that may arise from the issuance of CBDC in Japan. For more information, see "Report of the Study Group on Legal Issues regarding Central Bank Digital Currency (Abstract)," Institute for Monetary and Economic Studies, Bank of Japan, September 2019.
+
+goods (i.e. financial and monetary stability). This is desirable for the national economy as a whole.
+
+The Bank of Japan, as the operator of the BOJ-Net and as a catalyst promoting dialogue in the private sector, will continue our efforts toward the greater efficiency and safety of payment systems.
+
+Thank you very much for your attention.

@@ -2,16 +2,25 @@
 
 ## Executive summary (read this first)
 
-Every Track 2 card is scored as a ratio against one official baseline, called **M0**. Your
-composite is divided by M0's composite on that same card, which is why **1.0 means "no better
-than a forecast that never read the text"**. This document specifies M0 completely enough that
-you can rebuild its forecast yourself, for any card whose panels you hold, and see exactly what
-the number you are being compared against is made of.
+Every Track 2 card is scored against one official baseline, called **M0**: a forecast that never
+reads the text. Each component of your composite is divided by **the error M0 expects to make on
+that card**. That is the average score M0's own forecast would get if the outcome were drawn from
+M0's own forecast distribution. It is computed from the card's inputs alone, with exact formulas
+(§5), so it is fixed before the outcome exists. A score of **1.0 means your error equals the error
+M0 expects of itself on that card**; below 1.0 is better.
 
-Two things are deliberately **not** here, and will not be: the generator's source code, and the
-per-card scale values it produces. A per-card scale is the baseline's error measured against the
-sealed outcome, so a published scale plus a reproducible baseline inverts to the answer. The
-method is publishable; the values are not, and no published card carries them.
+M0 itself does not score exactly 1.0. On average it scores about 1.0 where outcomes are as
+volatile as its random walk assumes, above 1.0 where they move more than its trailing history
+suggests, and below 1.0 where they move less. The leaderboard shows M0's actual score as a
+reference row, so you can read your standing against it directly.
+
+This document specifies M0 completely enough that you can rebuild its forecast, and the divisor,
+yourself, for any card whose panels you hold, and see exactly what you are being compared against.
+
+Because the divisor no longer depends on the outcome, a card's scale is **no longer
+answer-equivalent**: on a released card you can compute every value yourself (§5). Two things
+are still not in this repository: the generator's source code, and the scale files. The scale
+files of sealed cards are computed from sealed inputs, so they stay with the organizers.
 
 M0 is **not** the reference CLI in `qfbench2_track_forecasting/cli.py`, and it is not any file in
 `baselines/`. Section 7 puts the two side by side, naming the function in the shipped CLI where
@@ -29,13 +38,25 @@ times a bond-yield card's, so a plain average over cards would be an average of 
 numbers, not of the best forecasts.
 
 So each of the three components of your composite — marginal CRPS, joint variogram, tail — is
-divided by **the same component of M0 on the same card** before the weights are applied. After
-that division every card is on one scale: 1.0 is M0, below 1.0 beats it, and the leaderboard is
-the equal-weight mean over cards.
+divided by **M0's expected value of the same component on the same card** before the weights are
+applied. "Expected" has its statistical meaning: the average M0 would score on that component if
+the outcome were drawn from M0's own forecast distribution. It depends only on M0's forecast,
+which is built from the card's inputs (§3), so it is fixed before the outcome exists; the outcome
+enters only your side of the ratio. After that division every card is on one scale: 1.0 means
+your error equals the error M0 expects of itself, below 1.0 is better, and the leaderboard is the
+equal-weight mean over cards.
+
+Because the divisor is fixed before the outcome, the score is **proper**: on every card, your
+expected score is lowest when the distribution you submit is the one you actually believe. The
+honest forecast is the best strategy. The one qualification is the clip at 8.0
+([CONCEPTS.md §13](CONCEPTS.md)): it caps a card's score at 8.0, so it can matter only where a
+score that large is a real possibility.
 
 M0 is a **text-blind joint Gaussian random walk**. It reads the numeric panels the card ships and
 nothing else — no corpus, no card prose, no model. That is the point: Track 2 exists to measure
-whether reading the documents helps, and the denominator has to be the forecast that did not.
+whether reading the documents helps, and the yardstick has to be the forecast that did not. M0 is
+also scored as an entry: its actual score, against the same outcomes and on the same scale as
+yours, is the reference row on the leaderboard.
 
 ## 2 — What is published, and what is sealed
 
@@ -43,26 +64,26 @@ whether reading the documents helps, and the denominator has to be the forecast 
 |---|---|---|
 | The procedure (this document) | **Published** | You cannot reason about a ratio whose denominator is undefined. |
 | The per-card seed rule | **Published** | §3.9. It is a function of the card id, which you already have. |
-| The generator's source code | **Sealed** | It is one step from the values, and reads the sealed answer files to produce them. |
-| Every `ref_scale.json` value | **Sealed** | Answer-equivalent — see below. |
+| The divisor formulas | **Published** | §5. They need M0's forecast distribution and nothing else. |
+| The generator's source code | **Not published** | It runs on the organizers' copies of the cards, including the sealed cards and fields that released cards do not carry. |
+| Every `ref_scale.json` file | **Not shipped** | Computed from the card's inputs only (§5), so not answer-equivalent. On a released card you can compute the values yourself; a sealed card's inputs are sealed, so its values stay with the organizers until results are released. |
 | Realized outcomes | **Sealed** | The competition's whole firewall. |
 
-**Why a scale is answer-equivalent.** A card's scale is not a setting; it is M0's *error* against
-the realized outcome on that card. Given M0's forecast — which this document makes reproducible —
-a published scale can be inverted to recover the outcome it was measured against. That is
-sharpest on single-asset cards, which are most of the roster. This is why the values stay sealed
-even though the method does not, and why no card released to participants ships the file. The
-scorer enforces the same boundary from its own side. It reads a scale only as the `ref_scale.json`
-directly inside a card's `reference/` directory, which on the ranked path sits under the
-organizer's reference root. It opens each directory on the way without following symbolic links,
-and it accepts only a single-link regular file of bounded size ([`qfbench2_track_forecasting/normalization.py`](../qfbench2_track_forecasting/normalization.py),
+**What a scale depends on.** A scale is M0's *expected* error, computed from the card's inputs
+alone (§5).
+
+The scorer's own boundary is unchanged. It reads a scale only as the `ref_scale.json` directly
+inside a card's `reference/` directory, which on the ranked path sits under the organizer's
+reference root. It opens each directory on the way without following symbolic links, and it
+accepts only a single-link regular file of bounded size ([`qfbench2_track_forecasting/normalization.py`](../qfbench2_track_forecasting/normalization.py),
 `_read_scale_bytes`, which `load_ref_scale` and `read_ref_scale_bundle` both read through). On the
 ranked path it also checks the exact bytes of every scale in the roster against the evaluation plan's
 commitment before anything is scored (§5).
 
-Publishing the method settles a real question at a cost we judge small: a reproducible baseline is
-one more handle on a scored board, which is why the board reports a single aggregate statistic and
-nothing per card. Publishing the values would end the competition outright.
+A reproducible baseline is still one more handle on a scored board. M0's score on a single card is
+its error against that card's outcome, so a per-card M0 score could be inverted to the outcome.
+That is why the board reports one aggregate statistic per entry, M0's reference row included, and
+nothing per card.
 
 ## 3 — The procedure
 
@@ -159,7 +180,23 @@ units: a few released macro cards state a business-day horizon over a monthly pa
 straight into a per-step walk would rescale the baseline by the ratio between the two, so M0
 converts.
 
-For each target cell:
+**A cell that names its observation month.** A monthly card can name, in `forecast_spec.json`,
+the month each cell forecasts: `targets.observation_periods`, aligned with `targets.horizons`, or
+`observation_period` on the cell's row of `questions` (see
+[MONTHLY-HORIZONS.md](MONTHLY-HORIZONS.md)). On such a cell M0 walks one step per calendar month,
+from the month of the target series' last observation (§3.6) to the named month:
+`12·(y1-y0) + (m1-m0)`, with `y0, m0` the year and month of the last observation and `y1, m1`
+those of the named month. The declared horizon and steps 1–5 below play no part. If the named
+month is not the month of the cell's sealed target date, the generator **refuses**, and the card
+is not scaled until an organizer resolves the disagreement.
+
+On the monthly cards of the Final phase, that count is one or two more than the number of months
+from the as-of month to the named month, because their target series end one or two months before
+the as-of month. Steps 1–5 would not always see that: step 5 keeps any declared horizon within 2x
+of the count (one counted from the as-of month, for example), and the walk would then stop one or
+two months short of the month being forecast. §4 works a synthetic case.
+
+**Every other cell** is converted in five steps:
 
 1. Take the dates of that asset's trailing window. If there are fewer than three, or the target
    date is missing or malformed, **use the declared horizon** and stop.
@@ -171,17 +208,19 @@ For each target cell:
 5. Otherwise compare the two. Let `ratio = max(steps, horizon) / max(min(steps, horizon), 1)`.
    **The declared horizon wins unless `ratio >= 2`.**
 
-Step 5 is the whole of the override rule, and the 2x threshold is not a tuning knob. A card that
-already states its horizon in panel steps lands close to the counted value, and overriding it
-there would move a frozen number for no reason. A genuine unit mismatch is never marginal — the
-affected cells are all at least 8x apart — so 2x separates the two cases with wide margin on both
-sides.
+On these cells step 5 is the whole of the override rule, and the 2x threshold is not a tuning knob.
+A card that already states its horizon in panel steps lands close to the counted value, and
+overriding it there would move the baseline for no reason. A genuine unit mismatch is never
+marginal — the affected cells are all at least 8x apart — so 2x separates the two cases with wide
+margin on both sides.
 
-Call the resulting per-cell step count **s**.
+Whichever rule applies, call the resulting per-cell step count **s**.
 
-**Where the target date comes from, and what that means for you.** M0 reads each cell's target date
-from the card's sealed `reference/` directory. Released cards do not publish target dates, with two
-exceptions. The worked exemplar in §4 carries them in its `card.toml` (`[targets] target_dates`).
+**Where the target date comes from, and what that means for you.** Steps 1–5 read each cell's
+target date from the organizers' sealed copy of the card, never from its outcome; a cell that names
+its observation month uses that date only for the check above. Released cards do not publish target
+dates, with two exceptions. The worked exemplar in §4 carries them in its `card.toml`
+(`[targets] target_dates`).
 The four monthly-panel cards listed below name each target's observation month in
 `forecast_spec.json`, under `targets.observation_periods`; that is the month being forecast, not a
 release date (see [MONTHLY-HORIZONS.md](MONTHLY-HORIZONS.md)). On every other card step 1's
@@ -189,8 +228,7 @@ fallback fires for you, and you use the declared horizon.
 
 On daily panels that costs you nothing: the counted and declared values land within 2x of each
 other, so step 5 keeps the declared horizon and M0 does the same. **On the four released cards that
-sit on the monthly macro panel it is the whole difference**, because that is exactly where the
-override was built to fire. Their step counts:
+sit on the monthly macro panel it is the whole difference.** Their step counts:
 
 | Card | Declared `horizons` | Panel steps M0 uses |
 |---|---|---|
@@ -199,7 +237,9 @@ override was built to fire. Their step counts:
 | `t2-F4-covid-nfp-2020` | `[21]` | **2** |
 | `t2-F4-cpi-vintage-2022` | `[21]` | **2** |
 
-Use those numbers and you reproduce M0 on those four cards; use the declared horizon and you are
+Three of them take the named-month rule, so their counts follow from the months their
+`forecast_spec.json` names. The fourth, `t2-F1-sahm-watch-2024`, takes steps 1–5; use the table.
+With the table's numbers you reproduce M0 on all four cards; with the declared horizon you are
 forecasting years out with a spread to match.
 
 The conversion changes the walk, not the grid. `forecast.parquet` keeps the declared horizon keys
@@ -224,7 +264,8 @@ monthly path builds a path too (§7).
 
 Then `1e-10` is added to the diagonal, and the Cholesky factor is taken of `cov + 1e-9·I`. If that
 still fails, the factor is taken of the **diagonal** of `cov + 1e-9·I` — a card whose covariance
-cannot be factorized is scaled against independent marginals rather than not at all.
+cannot be factorized gets independent marginals, for its draws and for its divisor (§5), rather
+than no baseline at all.
 
 ### 3.9 The draws
 
@@ -238,21 +279,19 @@ samples = mean + Z @ cholesky_factor.T
 500 draws, always. The seed is a function of the card id alone, so any party can regenerate any
 one card's baseline in isolation, without the rest of the suite and in any order.
 
-**Cell order matters for an exact match**, and it is the one thing here the card does not pin down.
-`Z`'s columns are assigned to cells in the order the card's grid is enumerated, so re-ordering the
-cells gives different draws from the same seed.
+**Cell order: the card's grid order.** `Z`'s columns are assigned to cells in the order of the
+card's grid: each asset in `[targets] asset_ids` order and, within an asset, each horizon in
+`[targets] horizons` order. That is the order your `forecast_meta.json` declares and the order the
+scorer flattens the grid to. On the exemplar of §4 it is `UST_2Y`, `UST_5Y`, `UST_10Y`, `UST_30Y`,
+the card's own list, which is not sorted.
 
-The order is stored with each card's sealed answer rather than derived from the card, and it is not
-uniform across the roster: it was fixed by whichever version of the authoring tooling realized that
-card. On the released cards it is **sorted by asset id, then by horizon ascending** — measured
-2026-09-18, that rule is the stored order on 100 of the 103 answered public cards. On the remaining
-three it is the card's own `[targets]` list order instead.
-
-This is not cosmetic. Two orderings of the same cells give the same *distribution* but different
-draws, and against a realized outcome the components move: across the affected released cards the
-difference reaches about **±30% on a single component**, most often the tail or the joint term.
-Sort by asset id and ascending horizon and you will land on M0's own draws on almost every card;
-where you do not, expect a few percent to a third on a component, not a factor.
+Re-ordering the cells gives the same *distribution* but different draws from the same seed. The
+order therefore matters for an exact match of M0's draws, which are what M0's reference row on the
+leaderboard is scored from. It does not matter for the divisor at all: §5 computes it from M0's
+mean and covariance, not from the draws, and every formula there is a sum or a mean over cells
+and pairs. (The scales in force before the expected-error rule were computed from the draws, in an
+order stored with each card's sealed answer, sorted by asset id on most released cards. That order
+no longer plays any part.)
 
 The assets of `mu` and `Sigma` are ordered separately, by sorted asset id; that ordering is internal
 to the estimate and changes nothing.
@@ -261,9 +300,10 @@ to the estimate and changes nothing.
 
 `units/t2-EXAMPLE-ust-curve-1m` — 4 UST tenors, `target_type = "level"`, `horizons = [21]`,
 as-of `2024-06-28`, target date `2024-07-31`. All figures below are **measured 2026-09-18** from
-the published panel in this repository, and none of them touches a sealed artifact. This card
-carries no sealed answer, so it has no scale; the example shows the procedure applied to a card you
-hold in full, not a record of a scored run.
+the published panel in this repository (the divisors in the last row on 2026-10-02), and none of
+them touches a sealed artifact. This card is not scored, so no scale file exists for it; the
+example shows the procedure applied to a card you hold in full, not a record of a scored run, and
+the last row is what §5 gives for it.
 
 | Step | On this card |
 |---|---|
@@ -274,37 +314,98 @@ hold in full, not a record of a scored run.
 | Counted steps (§3.7.3) | `round(33 / 1.391) = 24` |
 | Override test (§3.7.5) | `ratio = 24/21 = 1.14 < 2` → **the declared horizon 21 is used** |
 | Seed (§3.9) | `crc32("t2-EXAMPLE-ust-curve-1m") & 0x7FFFFFFF = 795546941` |
-| Draws | 500 x 4 cells, mean `last + 21·mu`, covariance `21·Sigma` (one horizon, so `min(s,g)` is 21 everywhere) |
+| Draws | 500 x 4 cells in the card's grid order (`UST_2Y`, `UST_5Y`, `UST_10Y`, `UST_30Y`), mean `last + 21·mu`, covariance `21·Sigma` (one horizon, so `min(s,g)` is 21 everywhere) |
+| Divisors (§5) | `marginal` 0.05260, `joint` 0.1772, `tail` 0.006051, from M0's standard deviations 0.0872, 0.0924, 0.0905 and 0.1028 (percentage points) and its covariance |
 
-Contrast, same repository: `units/t2-F1-cpi-glidepath-2023` is a monthly macro card whose panel
-spacing measures 30.4 days, so §3.7 takes the month-counting branch, and whose card states
-`horizons = [140, 160]` in business days. Those two are far more than 2x apart, so the counted
-month step wins. The published card carries no target dates, but its `forecast_spec.json` names
-the observation months: `targets.observation_periods = ["2024-01", "2024-02"]`. Counted from the
-last observation (2023-05, §3.6) with step 3's month formula, that is 8 and 9, the counts §3.7
-lists. On the sealed set, by contrast, you can reproduce neither the target date nor the outcome.
+Contrast, same repository: `units/t2-F1-cpi-glidepath-2023` is a monthly macro card whose card
+states `horizons = [140, 160]` in business days. The published card carries no target dates, but
+its `forecast_spec.json` names the observation months:
+`targets.observation_periods = ["2024-01", "2024-02"]`. So §3.7's named-month rule applies.
+Counted from the last observation (2023-05, §3.6), that is 8 and 9 steps, the counts §3.7 lists.
+Steps 1–5 give the same here: the panel's spacing measures 30.4 days, so step 3 counts months, and
+140 against 8 is far more than 2x apart, so the counted month step wins. On the sealed set, by
+contrast, you can reproduce neither the target date nor the outcome.
 
-## 5 — From draws to a scale (what happens on our side)
+A synthetic case shows where the two rules part. A monthly card's as-of is 5 June 2031, and its
+target series' last observation in the panel is April 2031, because the May figure is not yet
+published. A question names `observation_period: "2031-09"` at horizon key 3. The named-month rule
+walks 5 steps, April to September. Steps 1–5 would count the same 5 steps to a September target
+date and then keep the key, because 5 against 3 is under 2x apart. That walk would end in July,
+two months short, with three fifths of the variance.
 
-You do not run this half, and you cannot: it needs the sealed outcome.
+## 5 — From M0's distribution to a scale: the expected error
 
-M0's 500 draws are scored against the card's realized values with the same composite that scores
-you — the card's own `[scoring.params]`: weights, `tail_levels`, and `joint`. The three raw
-component values are what `reference/ref_scale.json` stores, and they are stored **raw**: the
-baseline is not normalized by itself.
+This half needs no outcome, so you can run it yourself on any card whose panels you hold.
 
-The tail component is computed under the metric the card asks for, `[scoring.params] tail_metric`,
-defaulting to `pinball` (`qfbench2_track_forecasting/tail.py`, `DEFAULT_TAIL_METRIC`). A scale and
-the scorer that divides by it must be built under the same tail metric — the two metrics are not
-in the same units, and mixing them is meaningless rather than merely imprecise. No released card
-overrides it — measured 2026-09-18, none of the 104 declares `tail_metric` — so in practice the
-default is what every card is scored under.
+**A one-cell example first.** Suppose M0's forecast for a cell is normal with standard deviation
+0.10. If the outcome were drawn from that same normal, M0's average CRPS would be
+0.10 / √π = 0.0564, and its average pinball loss over the four default tail levels would be
+0.10 × 0.0648939 = 0.00649. Those two numbers are the cell's marginal and tail divisors. A
+forecast whose CRPS on that cell is 0.0564 scores exactly 1.0 on the marginal term, whatever the
+outcome turns out to be.
 
-**A component that comes out zero or negative is stored as 1.0**, i.e. that component is not
-normalized at all. The case this exists for: a single-asset card has no pairs, so its variogram is
-0 **by construction, not by merit**, and dividing by it would poison the composite. Those cards
-are also the ones whose weights are redistributed — see [CONCEPTS.md §13](CONCEPTS.md), step 2 —
-so the baseline still anchors at 1.0 there, exactly as it does on a multi-cell card.
+**The general rule.** §3.8 defines M0's forecast as a normal distribution over the card's `d`
+cells, with mean vector `mean` and a covariance. Call that covariance `C`: it is the matrix M0's
+draws are sampled from, that is §3.8's matrix with the two small diagonal terms added there (or
+its diagonal, if §3.8's fallback applies). Let `sd_i = sqrt(C[i,i])`, let `φ` and `Φ` be the
+standard normal density and distribution function, and let `z_τ` be the standard normal
+`τ`-quantile. Each divisor is the value M0 would score on average on that component if the
+outcome `Y` were drawn from this distribution. Each has an exact formula, so nothing is sampled:
+the formulas use M0's exact distribution, not its 500 draws.
+
+| Component | What the scorer computes | Divisor stored in `ref_scale.json` |
+|---|---|---|
+| `marginal` | fair ensemble CRPS, mean over the `d` cells | `mean over i of sd_i / sqrt(pi)` |
+| `tail` | pinball loss at each level in `tail_levels`, mean over levels and cells | `(mean over τ of φ(z_τ)) × (mean over i of sd_i)` |
+| `joint` | variogram score of order 1/2 with unit weights, summed over every ordered pair `(i, j)` with `i ≠ j` | `sum over i ≠ j of Var(\|D_ij\|^(1/2))` |
+
+Where each formula comes from:
+
+- **Marginal.** For a normal forecast with standard deviation `σ`, the expected CRPS against an
+  outcome drawn from the same normal is `σ / √π`. The scorer's fair ensemble CRPS is an unbiased
+  estimate of the CRPS of the distribution its draws come from.
+- **Tail.** At the true `τ`-quantile of a normal, `mean_i + sd_i · z_τ`, the expected pinball loss
+  is `sd_i · φ(z_τ)`. With the default levels `[0.01, 0.05, 0.95, 0.99]`, the mean of `φ(z_τ)`
+  over the four levels is 0.0648939.
+- **Joint.** For cells `i` and `j`, the difference `D_ij = Y_i - Y_j` is normal with mean
+  `δ = mean[i] - mean[j]` and variance `s² = C[i,i] + C[j,j] - 2·C[i,j]`. For each pair the
+  variogram compares `|y_i - y_j|^(1/2)` with its expected value under the forecast, so the
+  pair's expected score is the variance of `|D_ij|^(1/2)`:
+
+  ```
+  Var(|D|^(1/2)) = E|D| - (E|D|^(1/2))^2
+  E|D|           = s·sqrt(2/π)·exp(-δ²/(2s²)) + δ·(1 - 2·Φ(-δ/s))
+  E|D|^(1/2)     = ∫ |δ + s·z|^(1/2) φ(z) dz
+                 = s^(1/2) · 2^(1/4) · Γ(3/4) / sqrt(π) · M(-1/4, 1/2, -δ²/(2s²))
+  ```
+
+  `M` is Kummer's confluent hypergeometric function (`scipy.special.hyp1f1`). If you integrate
+  numerically instead, split the integral at `z = -δ/s`, where the integrand has a cusp. Plain
+  Gauss–Hermite quadrature converges slowly there: with 150 nodes it is still about 0.8% off at
+  `δ = 0`. The scorer's variogram sums its full `d × d` matrix, so each unordered pair counts
+  twice, and the divisor does the same.
+
+Only the marginal standard deviations enter the marginal and tail divisors; the joint divisor also
+uses the cross-cell covariances and the differences between cell means. None of the three depends
+on the outcome, on the seed or on the order of the cells.
+
+**A component that comes out zero is stored as 1.0**, i.e. that component is not normalized at
+all. The case this exists for: a single-cell card has no pairs, so its joint divisor is 0, and its
+variogram score is 0 too, **by construction, not by merit**; dividing one by the other would poison
+the composite. Those cards are also the ones whose weights are redistributed — see
+[CONCEPTS.md §13](CONCEPTS.md), step 2 — so 1.0 means the same thing there as on a multi-cell card.
+
+The tail divisor above is for the pinball metric. The tail component is computed under the metric
+the card asks for, `[scoring.params] tail_metric`, defaulting to `pinball`
+(`qfbench2_track_forecasting/tail.py`, `DEFAULT_TAIL_METRIC`). A scale and the scorer that divides
+by it must be built under the same tail metric — the two metrics are not in the same units, and
+mixing them is meaningless rather than merely imprecise. No released card overrides it — measured
+2026-10-02, none of the 104 declares `tail_metric` — so in practice the default is what every card
+is scored under.
+
+Because the divisor needs no outcome, a card's scale can be built before its outcome exists. The
+three values are stored **raw** in `reference/ref_scale.json`, as before: the scale is not
+normalized by itself.
 
 ### How the scales in force are pinned
 
@@ -332,40 +433,43 @@ without revealing them.
 
 ### What you can reproduce, and what you cannot
 
-A scale needs the realized outcome, so no scale is reproducible by anyone outside the organizers.
-M0's **500 draws** are a different matter: for a released card whose panels you hold, §3 is enough
-to rebuild them, and on most cards you will match them draw for draw. That is enough to answer the
-questions that motivated publishing this — what the denominator assumes, where it is weak, and what
-beating it requires.
+For a released card whose panels you hold, §3 and §5 are enough to rebuild both M0's **500 draws**
+and the card's **scale**. The scale needs only M0's mean and covariance, so it does not depend on
+the seed or on the order of the cells, and getting it right does not require matching the draws.
+That is enough to answer the questions that motivated publishing this — what the divisor assumes,
+where it is weak, and what beating M0 requires.
 
-Three things stand between §3 and an exact match, in descending order of size:
+Two things stand between §3 and an exact match, in descending order of size:
 
-- **The four monthly-panel cards.** M0 converts their horizon to panel steps from each card's
-  sealed target date. Use the step counts in §3.7's table and this disappears; ignore them and you
-  are not close.
-- **Cell ordering (§3.9).** Stored with the sealed answer, not derived from the card. The published
-  rule matches almost every card; where it does not, a component moves by up to about a third.
-- **Sealed cards.** You do not have the panels, the as-of or the target date, so the draws are out
-  of reach entirely. This one is by design and is not going away.
+- **The four monthly-panel cards.** M0 does not walk their declared horizon (§3.7). Three take the
+  months their `forecast_spec.json` names; `t2-F1-sahm-watch-2024` takes steps 1–5. Use the step
+  counts in §3.7's table and this disappears; ignore them and you are not close, on the draws or
+  on the scale.
+- **Sealed cards.** You do not have the panels, the as-of or the target date, so the draws and the
+  scale are out of reach entirely. This one is by design and is not going away.
 
-Nothing else does. In particular the F2 transfer cards are **not** an exception: each ships its
-transfer target's early window in its own panel bundle, and all four single-asset F2 transfer cards
-reproduce bit-exactly from published panels (measured 2026-09-18). What is sealed on those cards is
-the withheld middle of the series and the outcome, not M0's ability to read what you can read.
+Nothing else does. Cell ordering no longer stands in the way: M0's draws follow the card's grid
+order (§3.9), which the card itself fixes, and the scale does not depend on the order at all. The
+F2 transfer cards are **not** an exception either: each ships its transfer target's early window
+in its own panel bundle, and all four single-asset F2 transfer cards reproduce bit-exactly from
+published panels (measured 2026-09-18). What is sealed on those cards is the withheld middle of
+the series and the outcome, not M0's ability to read what you can read.
 
 ### Which revision produced the scales in force
 
-**Measured 2026-09-18**, from the generation metadata each scale file carries: every scale
-then in force was generated on **2026-09-03**, under exactly the procedure specified above.
-Since then, four scales have been regenerated, on **2026-09-25**, by the same procedure and
-seeds: those of the practice cards with a `macro_monthly` panel (`t2-F1-cpi-glidepath-2023`,
-`t2-F1-sahm-watch-2024`, `t2-F4-covid-nfp-2020`, `t2-F4-cpi-vintage-2022`), whose panels were
-rebuilt as the data vintage published on each card's as-of date. The scales of every other
-published card still date from 2026-09-03.
+Every scale in force is M0's expected error under §5, built by the procedure of §3 with no outcome
+read. The scales in force before this rule were M0's error against the realized outcome. They were
+generated on **2026-09-03**, and four of them were regenerated on **2026-09-25**: those of the
+practice cards with a `macro_monthly` panel (`t2-F1-cpi-glidepath-2023`, `t2-F1-sahm-watch-2024`,
+`t2-F4-covid-nfp-2020`, `t2-F4-cpi-vintage-2022`), whose panels were rebuilt as the data vintage
+published on each card's as-of date. Those scales are retired, and every finished Development
+submission is re-scored with the new ones, so every entry on the board is on one scale. On the
+published cards, the named-month rule of §3.7 gives the same step count as steps 1–5 on every cell
+where M0 applies it.
 
-The 2026-09-03 generation corrected three things at once, relative to the scales that had been
-in force before it. If you have read earlier organizer statements about the baseline, these are the
-differences:
+The procedure of §3 still carries three corrections made on 2026-09-03, relative to the scales that
+had been in force before that date. If you have read earlier organizer statements about the
+baseline, these are the differences:
 
 | Corrected on 2026-09-03 | Effect |
 |---|---|
@@ -373,24 +477,22 @@ differences:
 | `log_return` panels were **differenced a second time** (§3.2) | Reaches the return-target cards only: drift telescoped, spread inflated by about √2. |
 | The tail component used a **coverage** penalty rather than pinball (§5) | Under coverage many tail scales collapsed onto a floor and a ceiling. Under pinball each card's tail scale is distinct and carries the target's units, like the marginal term beside it. |
 
-There is no fourth correction pending against this document. The procedure above is the procedure
-that produced the numbers in force.
+The procedure of §3, with §5, is the procedure that produces the scales in force.
 
-### One caveat this document cannot resolve for you
+### Which scorer divides by it
 
 A scale is only half of a normalized score; the other half is the scorer that divides by it. The
-published package defaults to the pinball tail (`tail.py`, `DEFAULT_TAIL_METRIC`, verified
-2026-09-18 in this repository). **Whether the scoring image running on the practice board has been
-rebuilt against it is not something this document can promise**, and the same caveat already
-attached to the DNF rule in [CONCEPTS.md §13](CONCEPTS.md) applies here. If a Development-board
-number does not behave as described here, the deployed bundle predates the refresh. The Final is
-scored against the scales and the scorer described above.
+published package defaults to the pinball tail (`tail.py`, `DEFAULT_TAIL_METRIC`), the metric §5's
+tail divisor is built for. The switch to expected-error scales changes no scorer code: the scorer
+divides by whatever scales the evaluation plan commits, so the change reaches your score through
+the scale files and the signed plan, not through this package.
 
 ## 7 — What M0 is **not**
 
 `qfbench2_track_forecasting/cli.py` is the reference submission CLI: a runnable floor that proves
 the interface, passes the gates offline and can be edited into a real agent. **It is not M0**, and
-a submission that runs it unchanged does not score 1.0. Every difference below is deliberate.
+a submission that runs it unchanged does not score what M0 scores. Every difference below is
+deliberate.
 
 The CLI samples on one of two paths. The **daily path** is the default. The **monthly path** is
 taken when the card declares `target_frequency = "monthly"` and the selected target series really
@@ -409,15 +511,14 @@ mapping it reads. Where the two paths differ, the table gives both.
 | Horizon units | converted to panel steps (§3.7) | daily: the card's `horizon` used as-is. Monthly: calendar-month steps counted from the last panel observation to each cell's observation month (`_monthly_inputs` → `horizons.monthly_horizon_steps`); the key written to `forecast.parquet` is unchanged |
 | Seed | `crc32(unit_id)` (§3.9) | `--seed`, default **0**, the same for every card |
 
-How far apart that leaves them, measured 2026-09-18 over the 103 released cards that have a
-resolved answer: scored against the scales in force, **M0 lands at exactly 1.000000 on every one of
-them** — which is what it means for M0 to be the denominator. The shipped reference CLI at its
-default seed averages about **1.29** (median 1.05), with five cards at the 4.0 clip. This is a
-single organizer measurement taken on 2026-09-18 against the sealed scales; re-running it needs the
-sealed outcomes, so it cannot be reproduced from published material. On that measurement a
-submission that runs the CLI unchanged is roughly 29% worse than the baseline it is often mistaken
-for, and the gap is not evenly spread: the median card is close and a handful are pinned at the
-clip; the table above lists what separates the two, the driftless level walk most visibly.
+How far apart that leaves them was last measured on 2026-09-18, under the **earlier** rule: the
+per-outcome scales, under which M0 scored exactly 1.0 on every card, and the 4.0 clip. Over the
+103 released cards that have a resolved answer, the shipped reference CLI at its default seed then
+averaged about 1.29 (median 1.05), with five cards at the clip. **Those figures are to be
+re-measured under §5's scales and the 8.0 clip, and should not be read as current.** Either way the
+measurement needs the sealed outcomes, so it cannot be reproduced from published material. What
+does not change is the table above: it lists what separates the CLI from M0, the driftless level
+walk most visibly.
 
 The five adapter scaffolds in `baselines/` are further away still: whatever model each is named
 after, they all return a seeded Gaussian random walk whose draws are, in their own docstring's
@@ -427,6 +528,6 @@ scaffolds). Do not read a gap against any of them as a gap against M0.
 
 ---
 
-*Questions about this document belong on the public issue tracker. Answer-equivalent material —
-scale values, realized outcomes, sealed card identifiers — will not be posted there, here, or
-anywhere a participant can read, at any point before results are released.*
+*Questions about this document belong on the public issue tracker. Realized outcomes, sealed card
+identifiers, the scale values of sealed cards and per-card scores will not be posted there, here,
+or anywhere a participant can read, at any point before results are released.*

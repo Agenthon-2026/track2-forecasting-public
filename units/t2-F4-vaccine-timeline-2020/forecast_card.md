@@ -4,7 +4,7 @@
 at horizons [21] BD · unit `cumulative_log_return` · split validation
 
 Inputs mounted read-only: `/input/panels/factors_daily.parquet` (rows only through
-the as-of date) and `/input/text/` (4 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (6 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,
@@ -15,4 +15,4 @@ plus `forecast_meta.json`. `value` = cumulative log return over the h business d
 Scoring: S = 0.5 x marginal CRPS + 0.3 x joint variogram + 0.2 x tail penalty (lower
 is better) against sealed realized outcomes.
 
-**Text corpus role.** SEC 8-K press-release exhibits (timestamps = EDGAR filing dates) from late October 2020 state clinical trial-readout timing ('interim analysis expected in November'). A binary readout inside the 21-BD window can violently reprice crowded momentum (DM16 loser-leg optionality). The text gives the event calendar and its probability, not the outcome.
+**Text corpus role.** SEC 8-K press-release exhibits (timestamps = EDGAR filing dates) from late October 2020 describe COVID-19 vaccine trials in progress: a fully enrolled Phase 3 study with two planned interim analyses, and rolling regulatory submissions. They give no readout date. The documents bear on whether a readout could land inside the 21-BD window and how that possibility should shape the momentum distribution.

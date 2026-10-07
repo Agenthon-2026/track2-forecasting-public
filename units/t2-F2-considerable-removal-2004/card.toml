@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-considerable-removal-2004"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "Federal Reserve"
 path           = "text/"
 cutoff         = "2004-01-30"
 cutoff_checked = true
-doc_types      = ["fomc_statement"]
-n_documents    = 3
+doc_types      = ["cb_speech", "fomc_statement"]
+n_documents    = 5
 notes          = "The January 2004 statement changes only its forward-guidance wording — the duration phrase is replaced by a patience phrase, a pure language change with no action — and the two-year repriced sharply on release. The regime question: how fast does the patience language become hikes?"
 
 [targets]

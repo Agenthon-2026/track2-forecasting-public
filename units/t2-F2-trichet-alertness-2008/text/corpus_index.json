@@ -4,6 +4,13 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_bernanke_2008-04-09",
+      "timestamp": "2008-04-09",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bernanke_2008-04-09.txt"
+    },
+    {
       "doc_id": "ecb_trichet_2008-05-06",
       "timestamp": "2008-05-06",
       "source": "ECB (all_ECB_speeches.csv)",
@@ -53,11 +60,32 @@
       "file": "ecb_trichet_2008-06-04.txt"
     },
     {
+      "doc_id": "ecb_mp_decision_2008-06-05",
+      "timestamp": "2008-06-05",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2008-06-05.txt"
+    },
+    {
+      "doc_id": "ecb_pressconf_2008-06-05",
+      "timestamp": "2008-06-05",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "ecb_pressconf_2008-06-05.txt"
+    },
+    {
       "doc_id": "beige_book-2008-06-11",
       "timestamp": "2008-06-11",
       "source": "Federal Reserve (Beige Book)",
       "doc_type": "beige_book",
       "file": "beigebook_200806.txt"
+    },
+    {
+      "doc_id": "bis_smaghi_2008-06-12",
+      "timestamp": "2008-06-12",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_smaghi_2008-06-12.txt"
     },
     {
       "doc_id": "ecb_trichet_2008-06-20",

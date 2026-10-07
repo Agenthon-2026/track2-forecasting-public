@@ -4,6 +4,13 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_brainard_2018-11-13",
+      "timestamp": "2018-11-13",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_brainard_2018-11-13.txt"
+    },
+    {
       "doc_id": "fomc-statement-2018-12-19",
       "timestamp": "2018-12-19",
       "source": "Federal Reserve",
@@ -33,6 +40,13 @@
       "file": "cpi_2019-01-11.txt"
     },
     {
+      "doc_id": "bis_draghi_2019-01-15",
+      "timestamp": "2019-01-15",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_draghi_2019-01-15.txt"
+    },
+    {
       "doc_id": "beige_book-2019-01-16",
       "timestamp": "2019-01-16",
       "source": "Federal Reserve (Beige Book)",
@@ -45,6 +59,13 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20190130.txt"
+    },
+    {
+      "doc_id": "fomc_balance_sheet_statement_2019-01-30",
+      "timestamp": "2019-01-30",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "fomc_balance_sheet_statement_2019-01-30.txt"
     }
   ]
 }

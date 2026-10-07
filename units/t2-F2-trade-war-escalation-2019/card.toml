@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-trade-war-2019"]
 expert_time_estimate_min = 45.0
@@ -20,7 +19,7 @@ horizons         = [64]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "daily"
-description      = "UST 10Y as Tariffs Escalate Past the Cut (64 BD). As-of 2019-08-02; targets UST_10Y at horizons [64] BD. Policy-reaction chain: trade text overrides the Fed's own stated path."
+description      = "UST 10Y as Tariffs Escalate Past the Cut (64 BD). As-of 2019-08-02; targets UST_10Y at horizons [64] BD. Policy-reaction chain: trade text against the Fed's own communication."
 created_by       = "Ruolan Sun (catalog t2c-F2-trade-war-2019)"
 created_date     = "2026-07-03"
 
@@ -71,13 +70,13 @@ end_date   = "2019-08-02"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve"
+source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2019-08-02"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 8
-notes          = "NEW (EPU-spike screen): the day after a cut framed as a limited recalibration, not the start of a cycle, new tariffs on remaining imports are announced — the corpus holds a Fed trying to stop at one cut and trade texts forcing its hand. The long end arbitrates between the two."
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 11
+notes          = "The day after a policy-rate cut that the statement attributes to global developments and muted inflation pressures, new tariffs on about $300 billion of Chinese goods are announced. The documents are for weighing the Fed's communication against the trade texts over the horizon."
 
 [targets]
 asset_ids        = ["UST_10Y"]

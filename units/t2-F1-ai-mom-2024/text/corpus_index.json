@@ -32,6 +32,13 @@
       "file": "bis_ueda_2024-03-06.txt"
     },
     {
+      "doc_id": "bis_cipollone_2024-04-24",
+      "timestamp": "2024-04-24",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_cipollone_2024-04-24.txt"
+    },
+    {
       "doc_id": "beige_book-2024-04-30",
       "timestamp": "2024-04-30",
       "source": "Federal Reserve (Beige Book)",
@@ -44,6 +51,13 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20240501.txt"
+    },
+    {
+      "doc_id": "bis_waller_2024-05-17",
+      "timestamp": "2024-05-17",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_waller_2024-05-17.txt"
     },
     {
       "doc_id": "fomc-minutes-20240501",

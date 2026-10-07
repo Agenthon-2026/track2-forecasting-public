@@ -1,0 +1,110 @@
+Lael Brainard: The future of retail payments in the United States
+2020-08-06
+
+For release on delivery 12:00 p.m. EDT August 6, 2020
+
+The Future of Retail Payments in the United States
+
+Remarks by
+
+Lael Brainard
+
+Member
+
+Board of Governors of the Federal Reserve System at the
+
+FedNow Service Webinar
+
+Washington, D.C. (via webcast)
+
+August 6, 2020
+
+It is a pleasure to be here today with Esther George and Ken Montgomery to talk about the future of America's retail payment system. Recognizing that the retail payment infrastructure touches every American, a year ago, the Federal Reserve committed to build its first major new payment system in four decades. At that time, no one anticipated the challenges our nation would soon face. The COVID-19 pandemic has heightened the urgency and importance of delivering a resilient instant payment system that is accessible to all Americans. 1
+
+The COVID-19 pandemic is taking a tremendous toll on communities across America, especially households and small businesses with the least liquid resources to weather the storm. 2 Emergency relief payments authorized in the Coronavirus Aid, Relief, and Economic Security Act, or CARES Act, provided a vital lifeline for many households. 3 The rapid expenditure of the COVID emergency relief payments highlights the critical urgency of immediate access to funds for the many households and businesses managing cash-flow constraints. After sharply reducing their spending early in the COVID crisis, many households increased their spending starting on the day they received the emergency relief payments and continued for the following 10 days. 4
+
+1 I am grateful to Kirstin Wells of the Federal Reserve Board for her assistance in preparing this text. These remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or the Federal Open Market Committee.
+
+2 For information on the impact of COVID-19 on communities around the country, see Federal Reserve System, FedListens, Perspectives from the Public (Federal Reserve System, June 2020),
+
+https://www.federalreserve.gov/publications/files/fedlistens-report-20200612.pdf; and Claire Kramer Mills and Jessica Battisto, 'Double Jeopardy: COVID-19's Concentrated Health and Wealth Effects in Black Communities, Federal Reserve Bank of New York,' Brief (Federal Reserve Bank of New York, August 2020), https://www.newyorkfed.org/medialibrary/media/smallbusiness/DoubleJeopardy\_COVID19andBlackOwnedBusine sses.
+
+3 Bhutta, Blair, Dettling, and Moore (2020) show that in the absence of the CARES Act, only half of families unemployment benefits, while 94 percent of families would be able to maintain spending for six months with additional benefits from the CARES Act, https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3631903.
+
+4 Farrokhnia, Steffen Meyer, Michaela Pagel, and Constantine Yannelis, 'Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments,' NBER Working Paper Series 27097 (Cambridge, Mass.: National Bureau of Economic Research, May 2020), https://www.nber.org/papers/w27097.
+
+suffering job loss would have been able to finance spending for six months using only liquid savings and standard Baker, Farrokhnia, Meyer, Pagel, and Yannelis (2020) examine a panel of households using a financial planning app and find that these households responded quickly to CARES Act stimulus payments; see Scott R. Baker, R.A.
+
+The rapid increase in spending was greatest for households with lower incomes, greater income declines, and lower liquid savings. 5
+
+The urgency with which the emergency payments were spent underscores the importance of rapid access to funds for many households and businesses that face cash flow constraints. The Federal Reserve, acting as Fiscal Agent for the U.S. Department of the Treasury, processed most of the CARES Act payments to households using direct deposit, prepaid debit cards, and checks, which can take several days between the time the funds are sent and the time recipients get access to their funds. By contrast, the ability to disburse funds via instant payments could have helped reduce the strain for those who needed the funds quickly in order to meet financial obligations. The same is true for other payments intended to provide immediate assistance, for example, in the wake of natural disasters.
+
+In good times as well as bad, instant payments will enable millions of American households and small businesses to get instant access to funds, rather than waiting days for checks to clear. An instant payment infrastructure ensures the funds are available immediately, which could be especially important for households on fixed incomes or living paycheck to paycheck, when waiting days for the funds to be available to pay a bill can mean overdraft fees or late fees that can compound, or reliance on costly sources of credit. For small businesses, the ability to receive customer payments instantly could help them manage cash flows when working capital is tied up in materials or inventory. And for the 1 in 10 Americans who regularly work in
+
+5 See also Ezra Karger and Aastha Rajan, 'Heterogeneity in the Marginal Propensity to Consume: Evidence from Covid-19 Stimulus Payments,' Working Paper Series 2020-15 (Chicago: Federal Reserve Bank of Chicago, May 2020), https://www.chicagofed.org/publications/working-papers/2020/2020-15; and Raj Chetty, John N. Friedman, Nathaniel Hendren, Michael Stepner, and the Opportunity Insights Team, 'How Did COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker Based on Private Sector Data,' Opportunity Insights Working Paper (Cambridge, Mass.: Opportunity Insights, May 2020),
+
+https://opportunityinsights.org/wp-content/uploads/2020/05/tracker\_paper.pdf.
+
+the gig economy, getting immediate access to the payments for their work could help address cash-flow constraints when money is tight. 6
+
+## FedNow SM Service
+
+Consumers and businesses across the country want and expect instant payments, and the banks they trust should be able to provide this service securely. One year ago, the Federal Reserve announced we would build the FedNow Service to enable banks of every size and in every community in America to provide safe and efficient instant payment services around the clock, every day of the year. 7 The FedNow Service will facilitate end-to-end instant payment services for consumers and businesses, increase competition, and ensure equitable access to banks of all sizes nationwide.
+
+The Federal Reserve is uniquely positioned to build an instant payment infrastructure, given our long history of operating payment systems to promote a safe, efficient, and broadly accessible payment infrastructure. The decision to build an instant payment infrastructure reflected support from a broad set of stakeholders, including the vast majority of over 400 commenters that responded to the Board's 2018 notice, as well as the U.S. Treasury. 8 Our public mission in providing payment services is built on the proposition that all banks and the
+
+6 Board of Governors of the Federal Reserve System, Report on the Economic Well-Being of U.S. Households in 2019, Featuring Supplemental Data from April 2020 (Washington: Board of Governors, May 2020), https://www.federalreserve.gov/publications/files/2019-report-economic-well-being-us-households-202005.pdf. 7 Lael Brainard, 'Delivering Fast Payments for All' (remarks at the Federal Reserve Bank of Kansas City Town Hall, August 5, 2019), https://www.federalreserve.gov/newsevents/speech/brainard20190805a.htm; 'Supporting Fast Payments for All' (remarks at the Fed Payments Improvement Community Forum, Chicago, October 3, 2018), https://www.federalreserve.gov/newsevents/speech/brainard20181003a.htm. Federal Reserve Actions to Support Interbank Settlement of Faster Payments, 84 Fed. Reg. 39,297 (August 9, 2019), https://www.govinfo.gov/content/pkg/FR-2019-08-09/pdf/2019-17027.pdf.
+
+8 Potential Federal Reserve Actions to Support Interbank Settlement of Faster Payments, Request for Comments, 83 Fed. Reg. 57,351 (Nov. 15, 2018), https://www.federalregister.gov/d/2018-24667. U.S. Treasury, A Financial System That Creates Economic Opportunity: Nonbank Financials, Fintech, and Innovation (Department of the Treasury, July 2018), 156-157, https://home.treasury.gov/sites/default/files/2018-08/A-Financial-System-thatCreates-Economic-Opportunities---Nonbank-Financials-Fintech-and-
+
+Innovation.pdf?mod=djem\_b\_fintech\_20180302.
+
+communities they serve, no matter their size or geographic location, should have equitable access to the U.S. payment system. Through the direct connections that we have with more than 10,000 banks, the FedNow Service will be broadly accessible to banks and the communities they serve across the country.
+
+The FedNow Service will not only expand but also strengthen the U.S. payment infrastructure by operating alongside the private-sector instant payment service, the Clearing House's RTP network. As they do for other payment services, many banks may choose to maintain access to more than one instant payment service to attain resiliency through redundancy. Moreover, the Federal Reserve has always had a vital role in the payment system by providing liquidity and operational continuity in times of stress, and the FedNow Service will extend this role directly into the instant payment market. Together, the FedNow and RTP services should significantly increase the speed and efficiency of the U.S. payment system. The presence of more than one service provider also brings the efficiency benefits associated with competition and benefits consumers, according to analysis from the U.S. Government Accountability Office. 9
+
+## The First Year of Progress
+
+Since last August, the Federal Reserve has made substantial strides in developing the FedNow Service, including on the evaluation of prototypes of the core clearing and settlement functionality. Across the Federal Reserve System, work has continued apace, commensurate with the high priority of the initiative, even as we have mobilized an unprecedented response to
+
+9 The GAO found that competition by the Federal Reserve in payment markets has generally had a positive impact, with benefits that include lowered cost of processing payments for end users. U.S. Government Accountability Office, GAO-16-614, Federal Reserve's Competition with Other Providers Benefits Customers, but Additional Reviews Could Increase Assurance of Cost Accuracy , GAO-16-614 (Washington: Government Accountability Office, August 2016), https://www.gao.gov/products/GAO-16-614.
+
+the COVID-19 shock. We have a team of over 100 people working on the program, including experts drawn from across the Federal Reserve System and key external hires.
+
+Since we initiated the FedNow Service one year ago, we have been meeting our project milestones, and today I am pleased to announce the Federal Reserve Board has approved the core features and functionality based on extensive input from stakeholders. The FedNow Service design we are announcing today benefited tremendously from industry feedback, including almost 200 comment letters responding to our notice regarding desired features and functionality. In addition to the core interbank clearing and settlement functionality that will enable consumers and businesses to send and receive instant payments through participating banks, the FedNow Service will include features that enhance the usability of the service. We heard loud and clear from stakeholders the primary importance of getting this service to the market as quickly as possible. To meet this goal, we are announcing a phased approach that will enable the FedNow Service to get to market expeditiously with a core set of features and to expand available features over time in response to changes in technology and market needs.
+
+Let me highlight several key features of the initial service offering. First, we heard strong support for fraud tools within the FedNow Service to support banks' efforts to mitigate the risk of fraud with instant payments. Accordingly, upon implementation, banks will be able proactively to set parameters that limit transaction activity in the FedNow Service based on banks' knowledge of their own customers. As we gain insights from banks' experience with the initial set of fraud tools, we will explore other tools that may be valuable, including centralized monitoring by the FedNow Service.
+
+Second, banks told us they want to be able to ensure they have adequate funds in their Federal Reserve accounts on a 24x7x365 basis to cover outflows related to instant payments,
+
+especially during hours when existing payment services are not open and funds cannot be transferred into Federal Reserve accounts to cover intraday overdrafts. Accordingly, we will develop a liquidity management tool that allows a participant with excess funds in its Federal Reserve account to transfer funds to another participant who needs the funds on weekends, holidays, and after hours. Moreover, we will make the liquidity management tool available for instant payments broadly, including to banks that choose not to participate in the FedNow Service. Participants in a private-sector instant payments service will be able to use the tool to transfer funds from their Federal Reserve accounts to the joint account at a Reserve Bank that backs settlement in that service.
+
+Third, it will be important for the FedNow Service to be interoperable with the privatesector instant payment service to accomplish the goal of nationwide reach for instant payments. As we have learned from experience with our other payment services, the form and timeline for achieving interoperability will depend on the level of commitment and engagement from stakeholders across the industry, including the operators of other instant payment settlement services, both present and future. In part to facilitate interoperability, the FedNow Service design will use the widely accepted ISO 20022 message standard and other industry best practices. 10 To the extent other instant payment services fully adopt the same publicly available, widely accepted standards, this approach would enable a form of interoperability where banks can route payments through either the FedNow Service or other instant payment services based on the available path to the receiver. This is similar to the prevailing approach in payment card transactions, for instance. We are also open to collaborating on a form of interoperability where messages can be exchanged between the FedNow Service and private-sector instant payment
+
+10 The ISO 20022 standard is a message format standard for payments, securities, trade services, payment cards, and foreign exchange. For more information, see https://www.iso20022.org/.
+
+service operators, similar to the approach used in automated clearinghouse (ACH) systems. Implementing this approach would significantly increase the required level of commitment and active engagement of the private-sector instant payment service operator from the outset.
+
+In order to minimize time to market, additional features of the FedNow Service would be introduced in phases after launch. It will be important for the FedNow Service to support aliasbased payments, whereby a payment can be sent to a recipient using an alias, such as an email address or phone number, rather than requiring an account number. But providing this feature securely requires addressing legal, operational, and security challenges that would increase the time to market for the core service. Balancing these considerations, we will explore the best ways to add a directory service or other approach to alias-based payments with the goal of providing this feature as a high priority following the initial launch.
+
+## The Road Ahead
+
+As we proceed with the development of the FedNow Service, we will continue our engagement with a broad set of stakeholders to gain input on desired features and to work with banks and their service providers on preparations to adopt the service. In May, the Federal Reserve Banks announced the formation of the FedNow Community for stakeholders who would like to help inform the development of the FedNow Service. 11 The Community currently has over 500 members from all segments of the payment ecosystem. We are working with service providers, recognizing their importance in providing essential payment processing services for thousands of banks in this country. We are also engaging directly with the fintech and software companies who provide customer-facing services that will help banks build innovative instant
+
+11 See the FedNow Community press release, Federal Reserve, 'Federal Reserve Announces FedNow SM Community,' press release, May 6, 2020,
+
+https://frbservices.org/news/press-releases/050620-federal-reserve-announces-fednow-community.html.
+
+payment products to serve their communities. The readiness of these stakeholders to support banks' participation in the FedNow Service and expand potential uses through value-added services is key to widespread adoption of instant payments. We look forward to our continued partnership with banks and other stakeholders in this transformative initiative to deliver a safe and efficient instant payment system with national reach.
+
+It has been an eventful year for retail payments with technology players introducing new business models and accelerating the pace of digitalization. As the central bank, our focus on the safety and integrity of the payment system means we need to ensure that payment innovations do not come at the cost of security, reliability, or consumer protections. Some newer payment services, while providing what has the look and feel of an instant payment experience for consumers, in fact rely on legacy infrastructure that actually settles transactions on a deferred basis, creating risk for consumers, banks, and the payment system overall. In contrast, the FedNow Service will offer real-time gross settlement of transactions, an approach that involves each transaction being processed individually and immediately, which avoids interbank credit risk.
+
+Efforts by global stablecoin networks such as Facebook's Libra project to drive the next stage of payment innovation have raised other fundamental questions about legal and regulatory safeguards, financial stability, and the appropriate role of private money. 12 The Federal Reserve remains optimistic about the power of technology and innovation to deliver payments safely, immediately, and efficiently when the appropriate safeguards are in place. 13 We are committed
+
+12 Lael Brainard, 'Digital Currencies, Stablecoins, and the Evolving Payments Landscape' (remarks at The Future of Money in the Digital Age, Sponsored by the Peterson Institute for International Economics and Princeton University's Bendheim Center for Finance, Washington, D.C., October 16, 2019), https://www.federalreserve.gov/newsevents/speech/brainard20191016a.htm .
+
+13 Lael Brainard, 'The Digitalization of Payments and Currency: Some Issues for Consideration' (speech at the Symposium on the Future of Payments, Stanford, Calif., February 5, 2020),
+
+https://www.federalreserve.gov/newsevents/speech/brainard20200205a.htm.
+
+to building an instant payment system that delivers the payment speed that users want without bypassing the legal and regulatory protections they have come to expect from banking relationships. Ultimately, the FedNow Service can be a catalyst for innovation in the market by providing a neutral platform on which the private sector can build to offer safe, efficient instant payment services to users across the country. The promise of the FedNow Service is that it will provide a modern payment infrastructure for the future, bringing the benefits of instant payments to communities across America and improving the way households, businesses, and government agencies make payments for many years to come.

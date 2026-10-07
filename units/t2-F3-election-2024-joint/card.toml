@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F3"
 tags                     = ["forecasting", "rates_daily", "g10_fx_daily", "t2-f3", "t2c-F3-event-joint-2024"]
 expert_time_estimate_min = 45.0
@@ -83,12 +82,12 @@ end_date   = "2024-10-31"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve"
+source         = "BIS central bankers' speeches; BLS/BEA news release; Federal Reserve; Bank of Japan; European Central Bank"
 path           = "text/"
 cutoff         = "2024-10-31"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 8
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "macro_release"]
+n_documents    = 12
 notes          = "A scheduled binary event sits inside the window, its date known ex-ante. Each draw is ONE event outcome propagated across four exposures, and each branch (expansionary repricing vs status-quo continuity) carries its own coherent cross-market signature. A bimodal JOINT distribution whose branches stay internally consistent across all four legs; neither branch is privileged a priori."
 
 [targets]

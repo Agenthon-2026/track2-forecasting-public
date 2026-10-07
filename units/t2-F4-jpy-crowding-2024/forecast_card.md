@@ -1,10 +1,10 @@
-# USD/JPY Tail Risk at Peak Carry Crowding (21 BD)
+# USD/JPY Tail Risk Under Crowded Carry Positioning (21 BD)
 
 **Family** T2-F4 · **as-of 2024-07-31** · targets `JPY`
 at horizons [21] BD · unit `jpy_per_usd` · split public-dev
 
 Inputs mounted read-only: `/input/panels/g10_fx_daily.parquet` (rows only through
-the as-of date) and `/input/text/` (7 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (9 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,
@@ -15,4 +15,4 @@ plus `forecast_meta.json`. `value` = level in the stated unit on the target date
 Scoring: S = 0.5 x marginal CRPS + 0.3 x joint variogram + 0.2 x tail penalty (lower
 is better) against sealed realized outcomes.
 
-**Text corpus role.** BoJ 2024-07-31 hike + taper decision, March NIRP-exit context, the same-day FOMC statement, and the CFTC COT table showing speculative yen shorts near record extremes. BNP08 carry-crash conditions: a shrinking rate differential plus crowded positioning is the regime; whether the carry trade unwinds over the horizon is the forecasting question, so the tail deserves far more mass than trailing vol suggests.
+**Text corpus role.** BoJ 2024-07-31 hike and taper decision, the March NIRP-exit context, the same-day FOMC statement, and the CFTC COT table showing large net speculative yen shorts. The documents bear on a shrinking rate differential together with crowded positioning; how that combination plays out over the horizon is the forecasting question.

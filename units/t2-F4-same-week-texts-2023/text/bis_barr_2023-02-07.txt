@@ -1,0 +1,234 @@
+Michael S Barr: Remarks at the "Banking on Financial Inclusion" conference
+2023-02-07
+
+For release on delivery 2:00 p.m. EST (1:00 p.m. CST) February 7, 2023
+
+Remarks at the 'Banking on Financial Inclusion' Conference by
+
+Michael S. Barr
+
+Vice Chair for Supervision
+
+Board of Governors of the Federal Reserve System at the
+
+Hope Economic Mobility Forum at Jackson State University
+
+Jackson, Mississippi
+
+February 7, 2023
+
+Thank you, Bill, and thank you to Hope Enterprise Corporation and Jackson State University for inviting me to speak today. 1 It's good to be back in Mississippi. It's Black History Month, and I feel privileged to be at this great historically Black university, speaking on a topic of such vital importance to our country.
+
+I made my first trip to this state as a government official a quarter century ago, to Clarksdale, Mississippi. I remember it was a sweltering July day, and we visited a local cabinet manufacturer with Bill Bynum, who, in my judgment, is one of the heroes of the economic justice movement. The company had received financing from Hope, which was then known as the Enterprise Corporation of the Delta. On that hot day, President Clinton called on banks to do more to meet the needs of their communities, to do more under a revamped Community Reinvestment Act (CRA), and to help set up or support Community Development Financial Institutions, or CDFIs, such as Hope, partnering with the newly created CDFI Fund at Treasury.
+
+And he called on Congress to pass the New Markets Tax Credit (NMTC) to provide tax credits to individuals and corporations for making equity investments in Community Development Entities (CDEs) in places such as the Mississippi Delta. This, in turn, would help establish and grow local businesses, create jobs, increase local purchasing power, and generate more local investment opportunities.
+
+Congress enacted the NMTC in December 2000 with bipartisan support. Since its inception, CDEs like Hope have used the program to support a wide array of job-creating businesses that increase local access to goods and services as well as to increase the
+
+1 The views here are my own and do not necessarily reflect those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee. I am grateful to Christine Graham and Kirsten Noland for their assistance in preparing this text.
+
+availability of important community infrastructure, such as rural hospitals. To date, the NMTC program has awarded over $71 billion of tax credits, which translates, among other things, into 857,000 jobs and almost 239 million square feet of commercial real estate. 2 In addition, the CDFI Fund has awarded more than $5.5 billion in grants and guaranteed over $2.1 billion in bonds. 3
+
+These programs and others like them also enable CDFIs to increase access to financial services in underserved communities, which can lead to opportunity and greater economic mobility. This morning, we heard insightful discussions about economic mobility in the Deep South, including how to create ladders of economic opportunity, and the important role that access to financial services plays in economic mobility.
+
+## Discrimination, the Racial Wealth Gap, and Disparities in Access
+
+We all have an interest in promoting a vibrant economy as well as resilient families and communities. In such an economy, people would have access to credit on fair and equal terms to build a secure financial foundation. Yet, despite widespread acceptance of this vision, we have a way to go in making it a reality, particularly for Black households. I'm going to speak to three drivers of this disparity, and three ways that the financial services community should work together to address them.
+
+2 Treasury Announces $5 Billion in New Markets Tax Credit Awards to Revitalize Low-Income and Distressed Communities . U.S. Department of the Treasury, Community Development Financial Institutions Fund. October 26, 2022. https://www.cdfifund.gov/programstraining/programs/new-markets-tax-credit/award-announcement-step.
+
+3 Treasury Announces $5 Billion in New Markets Tax Credit Awards to Revitalize Low-Income and Distressed Communities . U.S. Department of the Treasury, Community Development Financial Institutions Fund. October 26, 2022. https://www.cdfifund.gov/programstraining/programs/new-markets-tax-credit/award-announcement-step.
+
+First, there are significant and troubling disparities in lending outcomes for Black individuals and businesses relative to others. 4 While research suggests that progress has been made in addressing racial discrimination in mortgage lending, regulators continue to find evidence of redlining and pricing discrimination in mortgage lending at individual institutions. 5 Recent research on auto lending data indicates that racial bias may lead to higher rates for Blacks on financing to purchase cars. 6 A recent study finds that automating decisions reduced disparities in lending to Black-owned businesses in the Paycheck Protection Program (PPP), suggesting the persistence of discrimination in that market. 7 And the Federal Reserve System's Small Business Credit Survey has found that over many years, Black-owned businesses reported more significant credit access challenges, including feeling discouraged from applying for credit, being denied credit, and being approved for less than the amount they originally applied for, compared to other business owners. 8
+
+4 See, e.g., Data Point: 2021 Mortgage Market Activity and Trends . Consumer Financial Protection Bureau https://files.consumerfinance.gov/f/documents/cfpb\_data-point-mortgagemarket-activity-trends\_report\_2022-09.pdf and the Federal Reserve Small Business Credit Survey, 2022 . Federal Reserve System https://www.fedsmallbusiness.org/survey
+
+5 Compare Munnell, Tootell, Browne &amp; McEneaney (1996) with Bhutta, Hizmo, &amp; Ringo (2022). With respect to individual banks, see, e.g., Compl ., U.S. v. Lakeland Bank , No. 2:22-cv-05736 (D. N.J.) (alleging that Lakeland Bank engaged in unlawful redlining in the Newark metropolitan area by failing to provide mortgage lending services to Black and Hispanic neighborhoods); Compl ., U.S. v. City National Bank , No. 2:23-00204 (C.D. California, filed January 12, 2023) (alleging that City National Bank engaged in unlawful redlining in the Los Angeles Metropolitan Division by avoiding providing credit services to majority-Black and Hispanic neighborhoods because of the race, color and national origin of the people living in those neighborhoods); Compl ., U.S. v. Evolve Bank and Trust , No. 22-cv-2667 (W.D. Tennessee, filed September 29, 2022) (alleging that Evolve Bank and Trust engaged in lending discrimination on the basis of race, sex, and national origin in the pricing of mortgage loans).
+
+6 See Lanning (2021).
+
+7 See Howell, Kuchler, Snitkof, Stroebel &amp; Wong (2022).
+
+8 Small Business Credit Survey 2022: Report on Firms Owned by People of Color . Federal Reserve System https://www.fedsmallbusiness.org/survey/2022/2022-report-on-firms-owned-bypeople-of-color
+
+Compounding these challenges is the racial wealth gap. 9 Federal Reserve data from 2019 show that White families had about eight times the wealth of Black families. 10 White families had a median wealth of approximately $188,000, compared to $24,000 for Black families. 11 Lower levels of wealth make it difficult for people of color to finance a down payment for a home, invest in education, or establish a small business-all central to the American dream. These low levels of wealth also make it difficult for Black families to weather emergencies, such as job loss, or pay for unexpected expenses, which can lead to eviction, repossession of vehicles, and other devastating consequences.
+
+And there are racial disparities in financial services. While there has been significant progress over the last twenty-five years in expanding access to banking services, the Federal Deposit Insurance Corporation (FDIC)'s most recent annual survey of the unbanked and underbanked found that the unbanked rate for Black households was 11.3 percent, compared to just 2.1 percent for White households. 12 The unbanked rate for Black households in Mississippi was more than double the national average for Black households-23.2 percent. 13 Lacking a bank account can present challenges for savingleading to the same insecurities I noted above-and lead to reliance on expensive, alternative products. In addition to higher unbanked rates, only 48.8 percent of Black
+
+9 For example, see Yellen, J. L. (2014). Perspective on Inequality and Opportunity from the Survey of Consumer Finances. Board of Governors of the Federal Reserve System https://www.federalreserve.gov/newsevents/speech/yellen20141017a.htm
+
+10 Survey of Consumer Finances , Board of Governors of the Federal Reserve System https://www.federalreserve.gov/econres/scfindex.htm.
+
+11 Survey of Consumer Finances , Board of Governors of the Federal Reserve System https://www.federalreserve.gov/econres/scfindex.htm. See also Bhutta, Chang, Dettling &amp; Hsu (2020).
+
+12 FDIC National Survey of Unbanked and Underbanked Households . Federal Deposit Insurance Corporation (FDIC). https://www.fdic.gov/analysis/household-survey/2021report.pdf.
+
+13 For state-level data, see the FDIC Custom Data Table Tool.
+
+households nationally had a credit card, compared to 78.1 percent of White households. 14 Credit card ownership rates were even lower in Mississippi at 28.4 percent for Black households, compared to 64.5 percent for White households. 15 A credit card not only provides a buffer for unexpected expenses, it also allows individuals to accrue a credit history-central to accessing credit in the future.
+
+## Addressing These Issues
+
+Now let me turn to some ways to make progress. I'll set out three areas in which financial institutions and regulators should do their part to address these issues, although the issues are complex and multifaceted, and there are no easy solutions.
+
+First: Eradicate discrimination in lending and other financial services, and protect consumers from other unfair, abusive, or illegal practices. It is incumbent on financial institutions to devote resources to stamp out these practices, and on regulators to reinforce the importance of this goal through supervision and enforcement.
+
+Second: Look for opportunities to support a vibrant and thriving economy for the benefit of everyone. This means seeking out opportunities to invest in low- and moderate-income (LMI) communities, small businesses, and community infrastructure.
+
+Third: Develop products and services that can help people save and build wealth.
+
+## Eradicating Discrimination
+
+I'll start with our collective responsibility for eradicating discrimination in underwriting, lending, and other aspects of financial services. For most of our country's history, the United States government and many state and local governments, as well as
+
+14 FDIC National Survey of Unbanked and Underbanked Households . Federal Deposit Insurance Corporation (FDIC). https://www.fdic.gov/analysis/household-survey/2021report.pdf.
+
+15 For state-level data, see the FDIC Custom Data Table Tool.
+
+many private individuals, corporations, and organizations, did not merely fail to protect minorities from discrimination; they actively reinforced segregation, entrenched inequality, and enforced unequal policies-including through brutal violence. 16 17
+
+The Civil Rights Movement brought about changes in public opinion and in law. Discrimination in housing and lending became illegal in 1968 and 1974, respectively, through passage of the Fair Housing Act, and the Equal Credit Opportunity Act. Congress passed laws, such as the Community Reinvestment Act in 1977, to remediate redlining. But history casts a long shadow.
+
+How can we-both banks and regulators-understand and address these problems where they persist? To start, there are some areas where we need better data. For example, small business lending data required by section 1071 of the Dodd-Frank Act, once implemented, will provide tangible insights into the availability and pricing of credit for minority small businesses. Banks should also actively analyze their own data to identify areas where racial disparities occur. On-the-ground testing, using techniques such as mystery shopping, may also help to identify discriminatory practices. 18 And to the extent that a bank uses AI or other algorithmic systems in making lending decisions, they should review the underlying models, such as their credit scoring and underwriting systems, as well as their marketing and loan servicing activities, just as they should for more traditional models. 19
+
+16 See Rothstein (2017).
+
+17 See Cook (2014).
+
+18 Mystery shopping involves two individuals who are identical except for a protected class attribute (such as race), and has these individuals apply for credit products. The results are examined for disparate treatment based on that attribute.
+
+19 See SR Letter 11-7. See also Morse &amp; Pence (2020), which explores the potential of fintech to increase financial inclusion and attendant consumer protection risks.
+
+Racial bias in the residential real estate market has long been noted as a source of concern. 20 In January, the Federal Financial Institutions Examination Council's Appraisal Subcommittee held a public hearing on appraisal bias in the residential real estate market. I look forward to working with my fellow regulators to help ensure that individuals are treated equally in the appraisal process regardless of race or the racial composition of neighborhoods.
+
+More generally, there is another, glaringly obvious reason for banks to do all they can to eradicate discrimination in lending. It is simply good business. Ensuring that all would-be borrowers are treated equally means more customers, more loans, and better returns for banks.
+
+The Federal Reserve and our fellow regulators have a clear responsibility to use our supervisory and enforcement tools. 21 All firms have a responsibility to operate in a manner consistent with safety and soundness and in compliance with laws and regulations, including those related to consumer protection. Congress provided regulators with supervisory and enforcement tools to help ensure that supervised firms resolve consumer protection weaknesses as well as the more pervasive risk management issues that often lead to those weaknesses. We have a close working relationship with the Consumer Financial Protection Bureau and other regulators and integrate other regulators' consumer-focused reviews-such as examinations for unfair, deceptive, or
+
+20 See Rothwell and Perry (2022).
+
+21 The Dodd-Frank Act divided responsibility for supervising banks under consumer protection laws between the prudential regulators and the Consumer Financial Protection Bureau (CFPB), with the CFPB having primary responsibility for certain laws for banks with assets greater than $10 billion. Specifically, the Federal Reserve and the CFPB have overlapping authority for state member banks on Unfair, Deceptive, and Abusive Acts and Practices (UDAP/UDAAP) matters. The Federal Reserve also has responsibility for supervision of bank holding companies, including annually assessing risk management and compliance.
+
+abusive acts or practices, as well as fair lending-into our assessments of bank holding companies, including in the context of applications for mergers and acquisitions. Such collaboration is critical to ensure a level playing field and strong consumer protection enforcement.
+
+## Supporting Vibrant Communities
+
+But even if we address current discriminatory practices, we are still left with the legacy of discrimination and redlining, which helped perpetuate economically depressed Black neighborhoods. 22 Historically, these neighborhoods have not had the benefit of robust credit and financial services, which hindered their growth and left them less economically connected than wealthier neighborhoods. This lack of connectivity can have a large impact on an individual's economic mobility. 23 Before turning to the role of regulators, let me first speak a bit about the role of private institutions in supporting these communities.
+
+First, CDFIs and Minority Depository Institutions or MDIs are critical because they deliver financial products to places and people often left behind by other financial institutions. Compared to other banks, MDIs originate a greater share of mortgages to minority borrowers and borrowers who live in lower- and middle-income census tracts. 24 And they played a critical role in disbursing the PPP. Recent legislation bolstered the CDFIs with funds from the Emergency Capital Investment Program (ECIP). Hope Federal Credit Union estimates that the ECIP funds it received will allow it to double its
+
+22 See, e.g., Rothstein, R. (2017).
+
+23 See Chetty, Jackson, Kuchler, Stroebel, Hiller, Oppenheimer &amp; team (2022).
+
+24 See Friesenhahn &amp; Kwan (2021).
+
+consumer, mortgage, small business, and consumer lending portfolios over the next six years, and Hope was able to mobilize $140 million of PPP funds to small businesses. 25
+
+Community banks also serve an important role. Through their lending to local communities and small businesses, they often know their customers personally and engage in community-building activities.
+
+Large banks also have a key part to play. For example, in 2022, many large financial institutions initiated or expanded special purpose credit programs, many of which provide mortgage assistance to benefit Black and Hispanic communities. 26 In addition to their own lending, they help support MDIs and CDFIs through technical assistance and investment. They often share expertise in technology, business support solutions, tax considerations, and bringing programs to scale.
+
+And, as is often true, the impact can be greatest through collective efforts. In 2015, while I was at the University of Michigan, I helped a former student, James Wahls, design a program to bring together a local CDFI, philanthropies, and several banks, to launch the Entrepreneurs of Color Fund in Detroit. The Fund extended credit to small businesses in Detroit that otherwise might not qualify for bank lending, at the rate of more than $2 million a year. 27 And that same approach is now being used by eight
+
+25 Testimony of William J. (Bill) Bynum, Hope Credit Union, Hope Enterprise Corporation, Hope Policy Institute-Before the United Stated House Financial Services Committee February 16, 2022 . http://hopepolicy.org/manage/wp-content/uploads/FINAL-HOPE-Section-1071Comment-01-06-222.pdf.
+
+26 The Government-Sponsored Enterprises also published Equitable Housing Plans in June 2022 announcing plans to develop special purpose credit programs. Freddie Mac's Equitable Housing Plan described its multi-year plan to develop its own special purpose credit program and provide liquidity pursuant to the program https://www.freddiemac.com/about/pdf/Freddie-Mac-EquitableHousing-Finance-Plan.pdf. Fannie Mae's Equitable Housing Plan described its strategy for developing special purpose credit programs, including it plans to identify markets to pilot and test a potential program https://www.fanniemae.com/media/43636/display.
+
+27 Entrepreneurs of Color Fund , Detroit, MI. https://www.lisc.org/eocf/impact/detroit-eocf/.
+
+additional cities and involves more than twenty local CDFI partners. Closer to home, Hope-together with a large bank and a set of HBCUs-has partnered to form the Deep South Economic Mobility Collaborative. This program provides capital, educational resources, and business support services to small businesses and entrepreneurs in the Deep South, especially those from underserved and under resourced communities.
+
+Turning to the role of regulators, we should do what we can to encourage the private efforts I mentioned above. For instance, the Fed's Partnership for Progress helps MDIs navigate their unique business challenges, provides MDIs with resources for technical assistance, and conducts research on the unique challenges faced by LMI communities. 28 We conduct and promote research on CDFIs and engage in thoughtleadership to explore ways to bring additional capital and liquidity to the CDFI sector. 29
+
+In addition, regulators should also ensure that our regulations provide appropriate incentives for banks to invest in LMI communities and lend to LMI households. The CRA helps to address redlining and other systemic inequities in access to credit, investment, and banking services faced by LMI communities. The last major revisions to the CRA's regulations were made in 1995, and it is high time that we strengthen and modernize the regulations to reflect the many changes in banking since then. In 2022, the Federal Reserve Board, the FDIC, and the Office of the Comptroller of the Currency
+
+28 Minority Depository Institutions. Board of Governors of the Federal Reserve System https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm and Report on Promoting Minority Depository Institutions September 2022. Board of Governors of the Federal Reserve System https://www.federalreserve.gov/publications/2022-september-promotingminority-depository-institutions.htm
+
+29 2021 CDFI Survey. Federal Reserve Bank of Richmond https://www.richmondfed.org/region\_communities/community\_development/resources/cdfi/cdfi\_ survey\_2021 and Transforming Communities: Driving and Assessing Investment. Federal Reserve Bank of New York https://www.newyorkfed.org/outreach-and-education/communitydevelopment/community-development-finance-conference
+
+requested comments from the public on a proposal to do just that. Importantly, the proposal would encourage banks to expand access in LMI communities to home mortgage, small business, and other credit, to make community development investments, and engage in lending and banking services. The proposal would adapt the regulations to address changes in the banking sector, including internet and mobile banking, and update the approach to assessment areas. It also would provide more clarity, consistency, and transparency for CRA evaluations and eligible activities. I support the overall objectives of the proposal, and I am pleased that all three agencies are working together to have unified regulations. 30 The agencies are benefitting from the thoughtful comment letters we received on the proposal, and all three agencies are hard at work finalizing the rule.
+
+Another area where Congress directed the Board to consider the convenience and needs of communities is through our review of bank mergers. As I've said before, mergers are a feature of vibrant industries, but the advantages that firms seek to gain through mergers must be weighed against the risks posed, and the costs and benefits to the community. There is likely important work we can do to improve our assessment of the convenience and needs factor for bank mergers.
+
+We also have an important role to play in ensuring that our safety and soundness regulations do not needlessly impede financial inclusion. For example, banks can make investments that support LMI communities, called public welfare investments, subject to certain caps. We plan to change our approach to computing the public welfare
+
+30 Summary of Key Objectives of the Interagency CRA Proposal . Board of Governors of the Federal Reserve System
+
+https://www.federalreserve.gov/consumerscommunities/files/cra\_npr\_key\_objectives\_20220505. pdf.
+
+investment caps for state member banks using New Markets Tax Credits, and similar credits, which would allow state member banks to make additional investment in LMI communities. And as ECIP funds are made available, regulators have an important role to play in ensuring our examiners are informed and knowledgeable about the work being conducted under these new programs.
+
+## Responsive Products
+
+Last, let me turn to the need to develop products that are responsive to customer needs. As many have said, it's expensive to be poor. And many poor people lack any financial slack, such as savings, to tide them over through an emergency. No slack often means that a small problem can snowball into larger ones. As a result, low- and moderate-income consumers often use alternative financial services, such as payday loans, which can help fill needs but are often high-cost and can lead to debt traps. There is an opportunity for traditional banks and mission-driven organizations to fill this gap, but to be effective, they need to understand consumer preferences and behavior to provide products and services that meet these needs in a safer and fairer way.
+
+Starting with customer preference, we know that speed can be key. Income disruption and unexpected expenses are more common in LMI households, and quick access to a loan can make all the difference. With proper safeguards, unsecured small dollar credit to consumers with less-than-prime credit scores can be very important in helping people meet this need. 31 We have seen banks begin offering small dollar loans to some existing customers by factoring account data into the provision of credit. Now
+
+31 In May 2020, the Federal Reserve, working with other regulators, issued the Interagency Lending Principles for Making Responsible Small-Dollar Loans to encourage lending to small businesses and consumers
+
+https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20200520a1.pdf.
+
+there is a growing number of additional banks in this space. These products are typically available through the bank's online interface, which streamlines the process and speeds up decisions. Although some of these may be considered high-cost products, they are still less costly than payday loans or the cost of what many banks charge for overdraft protection.
+
+As an operator and regulator of payment systems, the Federal Reserve also has a role in faster payments. We're working to launch FedNow, which, once widely adopted, will better enable banks to offer customers the ability to send and receive money immediately at low cost. We can also make a difference by updating our rules on check clearance, so that consumers and small businesses still receiving checks have access to their funds in a timelier manner. And of course, we need strong consumer protections in place so that consumers don't have to worry about making payments in a safe way.
+
+The Bank On initiative has been hugely successful in both identifying bank account features that meet customer preferences and getting those accounts into the hands of consumers. Strongly recommended features include low minimum balances, no overdraft fees, robust transaction options, and online bill pay. 32 More than 46,000 banks and credit union branches across the country currently offer Bank On certified accounts, and more than 5.8 million Bank On-certified accounts were open and active in 2021. 33
+
+32 Bank On National Account Services, 2023-2024 . Cities for Financial Empowerment Fund: Bank On https://joinbankon.org/wp-content/uploads/2020/10/Bank-On-National-AccountStandards-2021-2022.pdf.
+
+33 Bank On Accounts. Bank On https://joinbankon.org/accounts/ and The Bank On National Data
+
+Hub: Findings from 2021 (2022). Federal Reserve Bank of St. Louis. https://www.stlouisfed.org/community-development/bank-on-national-data-hub/bank-on-report2021.
+
+In addition to considering customer preference, product design should help to counter, not lean into, biases that can lead to poor financial decision-making. 34 Being aware of these can help banks help customers better understand risks and structure products that are designed to overcome, and not exacerbate, these problems. For instance, banks should ensure that their overdraft policies frame financial decisions in a transparent and fair way and avoid unexpected and hefty fees. 35 Customers should be empowered with timely information on balances so that they can avoid inadvertent overdrafts, and best practice builds in a grace period for customers to cure their overdrafts. Some banks have eliminated overdraft fees entirely.
+
+Regulators need to understand both human decision-making and market context in designing the right rules of the road. Regulators also need to engage with techniques, such as cash flow underwriting and alternative data, new credit models, and other technologies that hold out the promise to increase access and reduce bias in credit intermediation. 36
+
+Diversity in the workforce of financial institutions also matters for financial inclusion. For instance, working with minority loan officers improves credit access for minority borrowers, which suggests that underrepresentation of minorities among loan officers adversely impacts minority access to credit. 37 And we regulators need to focus on our own diversity as well.
+
+34 See Barr, Mullainathan &amp; Shafir (2012).
+
+35 See, e.g., Consumer Compliance Supervision Bulletin, July 2018 . Board of Governors of the Federal Reserve System https://www.federalreserve.gov/publications/files/201807-consumercompliance-supervision-bulletin.pdf.
+
+36 See, e.g., Evans &amp; Pence (2021).
+
+37 See Frame, Huang, Mayer &amp; Sunderam (2022).
+
+## Conclusion
+
+To conclude, I've focused today on using the tools we have to address discrimination in lending, supporting communities, and developing products and services to meet customer needs. As I said at the outset, these are complex problems with no easy solutions, but we have an obligation to do our part. One final important role we have to play is encouraging awareness of these issues, and conferences such as these have tremendous value in this regard. On that note, once again, I'd like to thank Hope and Jackson State University for hosting today's event, and I look forward to your questions.
+
+## References
+
+Barr, M., Mullainathan, S. &amp; Shafir, E. (2012). 'Behaviorally Informed Regulation.' No Slack.
+
+Bhutta, N., Chang, A. C., Dettling, L. J. &amp; Hsu, J. W. (2020). 'Disparities in Wealth by Race and Ethnicity in the 2019 Survey of Consumer Finances.' FEDS Notes 2020 , Board of Governors of the Federal Reserve System (U.S.). https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-byrace-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.html.
+
+Bhutta, N., Hizmo, A. &amp; Ringo, D. (2022). 'How Much Does Racial Bias Affect Mortgage Lending? Evidence from Human and Algorithmic Credit Decisions.' Finance and Economics Discussion Series (FEDS). Board of Governors of the Federal Reserve System (U.S.).
+
+https://www.federalreserve.gov/econres/feds/how-much-does-racial-bias-affectmortgage-lending.htm.
+
+Chetty, R., Jackson, M. O., Kuchler, T., Stroebel, J., Hiller, A., Oppenheimer, S. &amp; the Opportunity Insights Team (2022). 'Social Capital and Economic Mobility.' Opportunity Insights: Non-Technical Research Summary. https://opportunityinsights.org/wpcontent/uploads/2022/07/socialcapital\_nontech.pdf.
+
+Cook, L. (2014). Violence and Economic Activity: Evidence from African American Patents, 1870 to 1940, 19 J. of Econ Growth 221-257 .
+
+Evans, C. &amp; Pence, K. (2021). 'How Can Regulation Facilitate Inclusion in Fintech?' Federal Reserve Bank of San Francisco Community Development Innovation Review. https://www.frbsf.org/community-development/publications/communitydevelopment-investment-review/2021/august/how-can-regulation-facilitatefinancial-inclusion-in-fintech/.
+
+Frame, W. S., Huang, R., Mayer, E. J. &amp; Sunderam, A. (2022). 'The Impact of Minority Representation at Mortgage Lenders.' National Bureau of Economic Research Working Paper 30125. https://www.nber.org/papers/w30125.
+
+Friesenhahn, S. &amp; Kwan, S. (2021). 'Minority Banks During the COVID-19 Pandemic.' Federal Reserve Bank of San Francisco FRBSF Economic Letter 2021-20. https://www.frbsf.org/economic-research/wp-content/uploads/sites/4/el202120.pdf.
+
+Howell, S. T., Kuchler, T., Snitkof, D., Stroebel, J. &amp; Wong, J. (2022) 'Lender Automation and Racial Disparities in Credit Access.' National Bureau of Economic Research Working Paper 29364. https://doi.org/10.3386/w29364
+
+Lanning, J. A. (2021). 'Testing Models of Economic Discrimination Using the
+
+Discretionary Markup of Indirect Auto Loans.' Presented at the Racial Inequality and Disparities in Financial Markets conference, Federal Reserve Bank of Atlanta . https://www.atlantafed.org//media/documents/news/conferences/2021/10/14/racial-inequality-and-disparitiesin-financial-markets/lanning.pdf.
+
+Morse, A. &amp; Pence, K. (2020). 'Technological Innovation and Discrimination in Housing Finance.' Finance and Economics Discussion Series 2020-018. Board of Governors of the Federal Reserve System (U.S.). https://www.federalreserve.gov/econres/feds/files/2020018pap.pdf.
+
+Munnell, A. H., Tootell, G. M. B., Browne, L. E. &amp; McEneaney, J. (1996). 'Mortgage Lending in Boston: Interpreting HMDA Data.' American Economic Review 86 (1): pp. 25-53. https://www.jstor.org/stable/2118254.
+
+Rothstein, R. (2017). The Color of Law: A Forgotten History of How Our Government Segregated America.
+
+Rothwell, J. &amp; Perry, A. M. (2022). 'How Racial Bias in Appraisals Affects the Devaluation of Homes in Majority-Black Neighborhoods.' The Brookings Institution. https://www.brookings.edu/research/how-racial-bias-in-appraisalsaffects-the-devaluation-of-homes-in-majority-black-neighborhoods/.

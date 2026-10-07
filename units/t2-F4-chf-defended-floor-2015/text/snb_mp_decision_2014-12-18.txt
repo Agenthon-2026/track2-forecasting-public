@@ -1,0 +1,78 @@
+# source: https://www.snb.ch/en/publications/communication/press-releases/2014/pre_20141218 | date: 2014-12-18 | type: central_bank_decision
+
+Swiss National Bank introduces negative interest rates
+Swiss National Bank, 18 December 2014
+
+Minimum exchange rate reaffirmed, and target range for three-month Libor lowered into negative territory
+
+The Swiss National Bank (SNB) is imposing an interest rate of –0.25% on sight deposit account balances at the SNB, with the aim of taking the three-month Libor into negative territory. It is thus expanding the target range for the three-month Libor to –0.75% to 0.25% and extending it to its usual width of 1 percentage point. Negative interest will be levied on balances exceeding a given exemption threshold.
+
+The SNB reaffirms its commitment to the minimum exchange rate of CHF 1.20 per euro, and will continue to enforce it with the utmost determination. It remains the key instrument to avoid an undesirable tightening of monetary conditions resulting from a Swiss franc appreciation. Over the past few days, a number of factors have prompted increased demand for safe investments. The introduction of negative interest rates makes it less attractive to hold Swiss franc investments, and thereby supports the minimum exchange rate. The SNB is prepared to purchase foreign currency in unlimited quantities and to take further measures, if required.
+
+An instruction sheet containing additional information on the negative interest rate and the calculation of the exemption threshold is attached.
+
+Attachment
+
+Instruction sheet governing negative interest on sight deposit account balances
+
+1. General
+
+Based on art. 2.1.3 of its Terms of Business, the Swiss National Bank (SNB) charges negative interest (cf. section 3 below), on the sight deposit account balances pursuant to art. 2.1.1 of the Terms of Business, of certain account holders (cf. section 2 below), once the sight deposit account balance exceeds a certain exemption threshold (cf. section 4 below).
+
+2. Scope of application
+
+Negative interest is charged on sight deposit account balances (cf. art. 2.1.1, Terms of Business) denominated in Swiss francs, provided that the account holder is a bank, securities dealer, cash processing facility, clearing and settlement organisation, mortgage bond institution, insurance company, international organisation or central bank.
+
+As a rule, negative interest is not charged on balances of other holders of sight deposit accounts denominated in Swiss francs (in particular the Confederation and associated enterprises as well as domestic authorities). The SNB will monitor developments in the sight deposit account balances of these account holders. It reserves the right to impose negative interest on additional account holders.
+
+3. Negative interest
+
+The interest rate is currently -0.25% p.a.
+
+Negative interest will be charged as of 22 January 2015 until further notice.
+
+Negative interest is calculated according to the Actual/360 convention customary in the money market.
+
+It is calculated on a daily basis. The negative interest is debited at the end of each month for the period of the previous month (cf. section 5 below).
+
+4. Exemption threshold
+
+Negative interest is charged only on the portion of the sight deposit account balance which exceeds a certain threshold.
+
+The exemption threshold applies to each individual account holder and shall be at least CHF 10 million.
+
+Should an account holder, in exceptional circumstances, hold more than one sight deposit account at the SNB, the threshold only applies once to the aggregate balance of all relevant accounts.
+
+There are two methods:
+
+Method 1: Minimum reserve-based threshold
+
+For account holders subject to minimum reserve requirements (domestic banks[1]): The threshold currently corresponds to 20 times the minimum reserve requirement for the reporting period 20 October 2014 to 19 November 2014 (static component), minus any increase/plus any decrease in the amount of cash held (dynamic component). The change in the amount of cash held is calculated as the difference between the average cash holdings during the most recent reporting period for which the minimum reserve requirement is determined prior to the reference date (cf. section 5 below) and the cash holdings of the corresponding reporting period in a given reference period. The reference period spans the 12 reporting periods from 20 December 2013 to 19 December 2014 (method 1a).
+
+For domestic banks or bank-like domestic institutions which are not required to hold or report any minimum reserves: The SNB determines the threshold in the same manner. These account holders are required to provide the SNB with the necessary information (method 1b).
+
+The threshold according to methods 1a and 1b, therefore, is calculated as follows:
+
+Minimum reserve requirement of the reporting period 20 October 2014 to 19 November 2014 times 20 (static component).
+
+–/+ Increase/decrease in cash holdings resulting from comparison of cash holdings in current reporting period and corresponding reporting period in given reference period (dynamic component)
+
+= Exemption threshold
+
+Method 2: Fixed threshold
+
+For account holders not subject to the minimum reserve requirement (foreign banks, securities dealers, cash processing facilities, clearing and settlement organisations, mortgage bond institutions, insurance companies, international organisations, central banks): The SNB sets a fixed threshold.
+
+5. Calculation, debit and notification
+
+Negative interest is calculated on a daily basis on the portion of the sight deposit account balance which exceeds the exemption threshold at the end of each bank working day (applies analogously for the aggregated sight deposit account balance of an account holder with several accounts).
+
+The negative interest for the period of the previous month is debited from the sight deposit account on the last value date of each month (reference date). If the account holder has more than one sight deposit account, the SNB decides which of those accounts is to be debited (main account). The SNB is authorised to debit the account without prior notice.
+
+The account holder must ensure that, as of the reference date, the main account has sufficient cover for the debit of the negative interest.
+
+For technical reasons, debiting the negative interest triggers a type F10 SIC transaction for participants in Swiss Interbank Clearing (SIC).
+
+On the reference date, the account holder is notified that the negative interest has been charged as follows: account statement via SWIFT (MT950) or physical statement for the main account plus a separate debit notice via SWIFT (MT900), or physical notice. In addition, the account holder will receive a physical report detailing the basis for calculation of the negative interest.
+
+Footnote 1: Banks as defined by the Federal Act on Banks and Savings Banks.

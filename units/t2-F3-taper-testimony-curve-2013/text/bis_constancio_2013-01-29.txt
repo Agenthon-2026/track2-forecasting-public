@@ -1,0 +1,98 @@
+Vítor Constâncio: Establishing the Single Supervisory Mechanism
+2013-01-29
+
+## Vítor Constâncio: Establishing the Single Supervisory Mechanism
+
+Speech by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the BAFT-IFSA 2013 Europe Bank-to-Bank Forum, Frankfurt am Main, 29 January 2013.
+
+* * *
+
+Ladies and gentlemen,
+
+It is a great pleasure to be here today at this event organised by the BAFT-IFSA (Bankers' Association for Finance and Trade - International Financial Services Association) in Frankfurt.
+
+Considering the recent steps towards a Banking Union, I would like focus my remarks on the establishment of the Single Supervisory Mechanism (SSM), following the landmark agreement reached by the ECOFIN Council on 13 December.
+
+## Reasons for the establishment of the SSM
+
+I will start with some considerations on the expected benefits stemming from the establishment of the SSM, and on the reasons underlying the decision to confer a central role to the ECB.
+
+There are two main objectives in establishing the SSM.
+
+First, it aims at addressing the so-called 'financial trilemma', which can be defined as the impossibility of achieving at the same time, financial stability, financial integration and maintaining national financial policies in an integrated financial market. 1 This is especially the case in a monetary union with a high degree of interconnectedness between financial institutions and markets. The current financial crisis showed how rapidly and forcefully problems in one country's financial system can spread to another and even threaten the stability of the entire euro area banking system. Such developments can best be assessed and addressed by a central supervisory authority with a bird's eye view of the entire euro area banking sector rather than through cooperation between national ones.
+
+The second objective of the SSM is to help breaking the negative feedback loops between sovereigns and banks, which were key features during the present crisis. This manifested itself in increasing debt levels of sovereigns that had to provide financial support to struggling banks as well as losses for banks from exposures to sovereigns under stress. We also saw increases in the correlation between the cost of funding of euro area banks and that of their respective sovereigns, particularly in some countries under stress.
+
+Against this background, the need to weaken the spillover chain between banks and sovereigns by taking responsibility for the stability of the banking system at the European level with a single supervisory mechanism becomes evident. The SSM will also contribute to achieving a more integrated banking system which supports a fully-fledged Economic and Monetary Union. This is also reinforced by the decision of the June 2012 euro area Summit that, when an effective SSM will become operational, the European Stability Mechanism will have the possibility to recapitalise banks directly.
+
+The European leaders have decided that within the SSM the ECB should play a central role. Several arguments for allocating the task of banking supervision to the ECB can be highlighted.
+
+1 See D. Schoenmaker, 'The Financial Trilemma', Economics Letters, No 111, 2011; X. Freixas 'Crisis management in Europe', in: J. Kremers, D. Schoenmaker, P. Wiert, (eds), Financial Supervision in Europe, Edward Elgar, 2009.
+
+First, the responsibility for monetary policy creates for the central bank an intrinsic and deep interest in a stable financial system.
+
+Second, there is a close relationship between micro-prudential control of individual financial institutions and the assessment of risks to the overall financial system, which constitutes the central bank's macro-prudential responsibility.
+
+Third, information-related synergies also exist between the supervision of banks and central banking functions, such as the oversight of payment systems. Central banks also have a depth of expertise on the financial sector, because of their role in monetary policy and oversight as well as their general interest in financial stability.
+
+These considerations have determined the attribution to the central bank of micro-prudential supervisory powers in most of the EU countries.
+
+Notwithstanding these arguments, several potential risks with allocating supervisory responsibilities to a central bank have been brought forward in the literature. I would argue that that that there are indeed some 'true' risks but also some 'false' risks.
+
+The 'true' risk is the issue of reputation risk of the central bank. 2 The monetary policy function of the central bank requires that it maintains a high level of credibility and reputation, since it is essential to keep expectations of rising inflation at bay. However, if the central bank is responsible for both price stability and bank supervision, any negative event in the second task could damage the central bank's reputation as a monetary authority. The risk is real because as we all know, supervision is an area that can never be perfect as it lacks the resources to see everything, meaning that accidents are always possible.
+
+What I would call 'false' risks include the argument that conflicts of interest might arise between the different central bank functions. Could a central banks' concern for the health of banks jeopardise its price stability objective? Would a central bank create an environment with low interest rates with the aim of supporting the banking sector's health?
+
+I would argue that the answer to these questions is no. The ECB will have clear separate and hierarchical mandates that places price stability separate from other concerns. The ECB also has the advantage of having a very clear, transparent and measurable goal of price stability. This objective has never been compromised and it will not be compromised in the future.
+
+Internal procedures can be, and will be, designed in a way that the separation between monetary policy and banking supervision is efficiently implemented. Of course, central banks may during a crisis step in as a lender-of-last-resort. But they might do this regardless of whether they have a supervisory mandate or not.
+
+## Main features of the SSM
+
+Since the start of the discussion on the attribution of supervisory responsibilities to the ECB, the ECB has clearly highlighted some key principles from which in our view the new institutional framework should be inspired. 3 I am very happy to say that the legislative framework agreed by the Council (and now under discussion in the trilogue with the European Parliament and the Commission) respects all the identified principles. In particular, the ECB stressed one main principle: the ECB should have effective supervisory powers over all credit institutions in the countries participating in the SSM and should be able to fully
+
+2 C. Goodhart, 'The organizational structure of banking supervision', Occasional Paper 1, Financial Stability Institute, 2000.
+
+3 See ECB Opinion on a proposal for a Council regulation conferring specific tasks on the ECB concerning policies relating to the prudential supervision of credit institutions and a proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 1093/2010 establishing a European Supervisory Authority (European Banking Authority) (CON/2012/96), 28.11.2012.
+
+exploit the expertise of national supervisory authorities. Today, I would like to elaborate further on how this principle is fulfilled by the proposed legislation.
+
+The first important element is the 'full inclusiveness': the SSM framework should include all the credit institutions from the participating Member States. This is very important both to preserve a level playing field among banks, thus preventing segmentation in the banking system, and to avoid that systemic risk could build up in parts of the banking system outside the monitoring of the SSM.
+
+But at the same time it is neither realistic nor desirable that the ECB would supervise alone more than 6000 credit institutions, considering both the wealth of expertise at national level and the advantages stemming from proximity in supervision. This is why the ECB stressed that the legislative framework should allow an efficient decentralisation of supervisory activity within the SSM, whilst ensuring effective decision-making.
+
+How the proposed legislation addresses this issue? The legislative framework provides that credit institutions of significant relevance (according to size, importance for the economy and cross-border activities, on the basis of methodology to be set out by the ECB), as well as those receiving assistance directly from the EFSF or the ESM, would be supervised directly by the ECB, which will be assisted by national competent authorities according to the ECB instructions. In practice, the ECB would be directly responsible for the supervision of a limited number of institutions which covers nevertheless more than 80% of the euro area banking system in terms of assets. The methodology also ensures that the majority of the financial system of SSM countries is covered.
+
+Moreover, the legislative framework provides that 'less significant' credit institutions, i.e. below the identified thresholds, will be under the responsibility of national competent authorities. The difference between the two groups of banks will concern only the degree of centralisation of supervisory responsibilities within the single supervisory mechanism composed by the ECB and the national supervisory authorities.
+
+The 'singleness of the SSM' is ensured by the attribution to the ECB of a general oversight over the functioning of the system, as well as of the following important powers as regards the supervision on less significant banks: first, the national supervisory authorities will have to abide to the ECB regulations, guidelines or general instructions. Second, the ECB will have access to the data concerning all credit institutions. Third and most important, the ECB, on the basis of the information and data received, may decide at any time to exercise directly supervisory powers also on one or more credit institutions, either on its own initiative or on request by the national competent authorities.
+
+Therefore, the legislation provides a framework that includes the right incentives to ensure that the level playing system among all credit institutions in the Member States participating to the SSM is maintained. At the same time, it allows fully exploiting the existing wealth of knowledge and experience by national supervisory authorities.
+
+The second important element is the 'effectiveness': the legislative framework provides the ECB with an effective set of powers that encompass all the elements of the toolbox related to micro-prudential supervision. We can say that the ECB tasks would concern all the span of life of credit institutions, from their birth (i.e. the authorisation to operate) to their death. More specifically, the ECB will have the tasks to grant and withdraw authorisations to credit institutions, to assess mergers and acquisitions concerning credit institutions under its responsibility, to ensure the compliance with Pillar I and II requirements and, to carry out consolidated supervision. The ECB will be able to fulfil the tasks allocated to it both by using the direct supervisory and investigatory powers conferred by the SSM Regulation, as well as asking for the assistance of national supervisory authorities as appropriate.
+
+At this point in time you may wonder what would be the consequences for your banks, once the proposed SSM regulation would be finally adopted and the new system will enter into force. An important point to stress is that the legislative framework agreed by the Council
+
+ensures full continuity with the existing supervisory system. As I said, the ECB will carry out its tasks within the single supervisory mechanism, working together with national supervisory authorities. Therefore, there would be no additional burden for the industry. On the contrary, banks are expected to greatly benefit from the fact that the SSM will facilitate the application of the single rulebook and thus likely reduce the compliance costs for banks with cross-border presence across the participating Member States.
+
+## The SSM and macro-prudential supervision
+
+Another important element of the SSM regulation is the conferral on the ECB of macro-prudential tasks.
+
+Let at this point, turn our view back for some years. In most countries, before the crisis, banking supervision was essentially 'micro-based'. It was mostly focused on ensuring the safety and soundness of individual institutions while taking the rest of the financial system as given. The implicit assumption was that stable individual institutions would automatically deliver a stable system.
+
+This micro-based supervisory approach is likely to underestimate the systemic component and is not able to internalise and target the negative externalities that could build up as a result of increased risks for the system as a whole. The lending booms that we have experienced in some euro area countries before the crisis offer a good illustration: During the upswing banks reported high levels of profitability and low levels of measured risk. Both of these factors tend to improve capital ratios, offering a reassuring picture of the solvency of individual banks from a micro supervisory perspective. Yet historical experience shows that rapid credit growth is usually undertaken at the cost of increasing the systemic - or tail risks for instance by lowering lending standards via undiversified housing exposures or excessive reliance on short-term market funding. Again, the crisis vividly raised awareness on the endogenous nature of many systemic episodes of financial instability and on their negative externalities that could be of great importance in determining macroeconomic outcomes.
+
+From a policy perspective, the new focus has led to an increased interest in the macro-prudential approach to bank regulation and supervision, following ideas developed originally by the Bank for International Settlements. As a result, the international debate has shifted focus on how to detect and prevent systemic risks. In Europe the new regulatory and supervisory infrastructure currently emerging should provide supervisors with enough tools also on the macro prudential supervisory side which should support them to curb these risks specifically and to reduce the pro-cyclicality of the financial sector.
+
+Regarding macroprudential instruments the initiative can be taken by national authorities but at the same time the ECB will also be empowered to apply higher requirements for capital buffers and other prudential measures specifically set out in relevant Union law, if deemed necessary to address systemic or macro-prudential risks. The application of these measures will, however, be subject to the procedures set out in the Capital Requirements Directive (CRD IV).
+
+As you may be aware, the CRD IV will consist of a Directive and a Regulation. The legislative package is currently being finalised under the trilogue process and political agreement is expected to be reached soon. The Directive includes instruments such as the counter-cyclical capital buffer, the systemic risk buffer and possibly also the capital surcharge for Systemically Important Financial Institutions as well as Pillar II measures. On the other hand, the macro-prudential toolkit defined in the Regulation will probably contain large exposure limits, public disclosure requirements, liquidity requirements, risk weights for mortgage exposures, and intra financial sector exposures. The technical details of the implementation and the coordination mechanism among national authorities, the SSM and other EU bodies are still subject to discussions.
+
+## Conclusion
+
+The agreement by the Council on 13 December on the SSM regulation is strongly welcomed by the ECB. The ECB looks forward to a swift conclusion of the trialogue with the final adoption of the Council Regulation. In the meantime, we have already started the necessary preparatory activities.
+
+The establishment of a single supervisory mechanism is part of a wider project aimed at completing the Economic and Monetary Union. On the basis of the Van Rompuy Report, prepared in close collaboration with the President of the institutions of the Union (including the ECB), the European Council adopted on 14 December 2012 a roadmap with a number of policy actions. In particular, the ECB supports the Commission's announcement to present a legislative proposal for a single resolution mechanism, having at the centre a resolution authority. Such arrangements are an important complement of the SSM and should be in place when the SSM would be fully operational.
+
+The prospect of the creation of Banking Supervision at the European level, complemented by future European banking resolution, is the more far reaching change introduced since the inception of the euro. It reveals the willingness of Member States to continue to deepen European integration and create at the same time a better framework for the effective functioning of the euro area. Beyond that, the fact that the draft Regulation opens the SSM, in fair and equal terms, to countries outside the euro area creates a positive dynamics to the single market completion and to the future of European integration. The scope and repercussions of what has been now initiated cannot be fully anticipated. Indeed, as Jean Monnet cogently put it: 'The change that comes from change cannot be predicted'

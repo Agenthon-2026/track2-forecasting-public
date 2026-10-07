@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-pause-2006"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "Federal Reserve"
 path           = "text/"
 cutoff         = "2006-08-08"
 cutoff_checked = true
-doc_types      = ["fomc_statement"]
-n_documents    = 3
+doc_types      = ["cb_speech", "fomc_statement"]
+n_documents    = 5
 notes          = "After 17 consecutive hikes the August 2006 statement holds, keeping 'some inflation risks remain'. A data-dependent plateau: the text rules out imminent cuts while leaving the hiking option open. Width and the 2s10s relationship over six months are the test."
 
 [targets]

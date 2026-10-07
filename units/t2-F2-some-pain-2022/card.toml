@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust10y-path-reset-2022"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "BLS/BEA news release; Federal Reserve; official (see landmarks
 path           = "text/"
 cutoff         = "2022-08-26"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 8
 notes          = "A short speech at the annual central-bank symposium (as-of day) pushes back on expectations of a near-term policy reversal, while a softer inflation release earlier in the month (in corpus) had fed the opposite reading. Weigh the conflicting texts; the as-of level and recent path are in the panel."
 
 [targets]

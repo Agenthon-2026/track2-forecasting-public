@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_lautenschlager_2014-09-08",
+      "timestamp": "2014-09-08",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lautenschlager_2014-09-08.txt"
+    },
+    {
+      "doc_id": "boc_mp_decision_2014-10-22",
+      "timestamp": "2014-10-22",
+      "source": "Bank of Canada",
+      "doc_type": "central_bank_decision",
+      "file": "boc_mp_decision_2014-10-22.txt"
+    },
+    {
       "doc_id": "bis_poloz_2014-10-29",
       "timestamp": "2014-10-29",
       "source": "BIS central bankers' speeches (full archive)",
@@ -30,6 +44,13 @@
       "source": "BIS central bankers' speeches (full archive)",
       "doc_type": "cb_speech",
       "file": "bis_poloz_2014-11-03.txt"
+    },
+    {
+      "doc_id": "bis_tarullo_2014-11-07",
+      "timestamp": "2014-11-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_tarullo_2014-11-07.txt"
     },
     {
       "doc_id": "bis_wilkins_2014-11-13",

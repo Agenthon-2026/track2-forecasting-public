@@ -1,0 +1,176 @@
+Frank Elderson: Preparing for the next decade of European banking supervision - risk-focused, impactful and legally sound
+2024-06-27
+
+SPEECH
+
+## Preparing for the next decade of European banking supervision: risk-focused, impactful and legally sound
+
+Speech by Frank Elderson, Member of the Executive Board of the ECB and Vice-Chair of the Supervisory Board of the ECB, at the "10 years SSM and beyond" event organised by Allen &amp; Overy
+
+Frankfurt, 27 June 2024
+
+## Introduction
+
+Thank you for inviting me to this conference on ten years of European banking supervision.
+
+It is hard to believe that it's only a decade since supervisors from across Europe first came together in truly European supervisory teams on a Tuesday morning in November 2014.
+
+Just like the first ten years of a child's life, the first decade of European banking supervision has also been a period of growth and development. During this time, we have matured from a start-up into a well-established, effective supervisor, building on the best practices of supervisors across Europe. And this is more relevant than ever given the increasingly complex external risk landscape. Think about heightening risks from geopolitical shocks, cyber risks and the climate and nature crises.
+
+These evolving risks require supervision to evolve, too. This is why we have embarked on a journey to make European banking supervision more risk-focused, efficient and effective. For example, we recently announced change to the Supervisory Review and Evaluation Process (SREP) — our annual health check of banks — making it more targeted and more risk-focused in a new risk environment" The revised SREP also puts greater emphasis on impact and effectiveness, which is the focus of my remarks today.
+
+In this context, | am pleased to be speaking to an audience of general counsels from the banks under our supervision. The way we — ECB Banking Supervision — interact with you — representatives of the banks we supervise — is of paramount importance for our shared goal of safe and sound banks.
+
+## Our supervisory toolkit: broad, effective and going beyond capital
+
+So, what does effective supervision mean in practice?
+
+Our experience of almost ten years of European supervision shows that, in most cases, banks address the root causes of supervisors' findings and that's the end of the story. If banks remediate shortcomings in a timely manner based on what we refer to as "supervisory dialogue", we have a very efficient and effective way of supervising.
+
+But there are also cases where banks fail to address deficiencies in good time. For these cases, the legislator has given the ECB a very broad supervisory toolbox that we are able and willing to use — always in a proportionate manner.
+
+Internationally, various reports on the lessons from the banking turmoil in March 2023 all explicitly recommended that supervisors should make active use of their supervisory tools to compel banks to take timely and concrete remedial action.2! In fact, International Monetary Fund staff concluded in a in 2010 that a to act is a for paper published willingness key ingredient good supervision.
+
+Moreover, in 2022 we took the initiative to ask a group of independent experts to review our SREP. In their report, which was published last year, they also urged the ECB to use the full range of supervisory tools available. 4]
+
+The use of supervisory powers to compel banks to make concrete improvements is therefore not merely a nice-to-have — it is international best practice to ensure that banks remain safe and sound, which is the ultimate goal of prudential supervision.
+
+So, when and how do we use these tools?
+
+We act fully in line with the principle of proportionality, using supervisory tools as appropriate, as necessary and — once the appropriateness and need has been established — decisively. Central to this approach is an escalation ladder, giving banks the opportunity to address shortcomings and their root causes within a defined time frame, with interim deadlines if and when appropriate. If using a less intrusive tool does not lead to the desired outcome being achieved in a timely manner, we will expeditiously deploy more intrusive tools to compel banks to take the necessary remedial actions in time.
+
+The escalation process is not, however, automatic and it always depends on the specific circumstances. This means that some serious issues requiring immediate remediation could lead to more intrusive supervisory measures being used at an early stage.
+
+The tools available to us range from binding quantitative and qualitative supervisory measures to sanctions and enforcement measures such as periodic penalty payments.)
+
+Let's look at these tools more closely.
+
+Some might think of Pillar 2 capital add-ons, the most common quantitative supervisory measure, as the sharpest tool that a supervisor has. But while setting bank-specific Pillar 2 capital requirements is undoubtedly a vital element of our toolbox, it is far from being the only one.
+
+Article 16 of the SSM Regulation gives the ECB the power to impose a wide range of what we call "qualitative requirements", based on a bank's specific circumstances." These tools are particularly relevant for addressing the root causes of weaknesses, for instance in internal governance or risk management. These qualitative areas are very often the source of problems that subsequently materialise in risks to capital and liquidity. The banking turmoil in March 2023, for instance, was a clear reminder that shortcomings stemming from weak governance can, if left unaddressed, later resurface in quantitative areas such as banks' liquidity positions. Consider Silicon Valley Bank, which had significant interest rate risk as a result of holding long-term securities. Despite the bank having repeatedly breached internal risk limits, its management did not adequately address these issues and supervisors did not escalate their concerns until it was too late. As interest rates rose, the value of those securities fell, and SVB incurred substantial losses when it was forced to sell them to cover withdrawals.)
+
+Periodic penalty payments, an example of an enforcement measure, are another vital part of our toolbox. They are an effective tool that we can use as part of an escalation process to compel individual banks to comply, by a specific date, with our requirements in respect of any prudential risk that is not properly covered and managed. While the decision to impose periodic penalty payments is always specific to an individual bank, if there are breaches of requirements related to risks that affect several institutions simultaneously, we may need to consider imposing this measure on various banks at the same time. And this is precisely what we have been doing in the area of climate-related and environmental (C&amp;E) risks.
+
+Let me focus on this example. Considering the clear requirements set out in the Capital Requirements Directive and the need for banks to implement a regular process for identifying all material risks, we have been clear that all banks under our supervision must ensure that their practices are fully aligned with the sound management of C&amp;E risks. Building on what banks themselves considered reasonable, we have set a series of (interim) deadlines by which banks have to reach certain milestones.
+
+As a first step, we asked all banks to ensure that they had sound and comprehensive materiality assessments in place, which is the basis for managing any kind of risk. We were clear that we expected all banks to meet this deadline by March 2023 and that, if necessary, we would use all the tools at our disposal to enforce it, as well as any subsequent deadlines.
+
+Most, but not all, of the banks under our supervision made significant strides in advancing their materiality assessments by the March 2023 deadline. So, it should be no surprise that we took action on this: we moved further up the supervisory escalation ladder and issued binding supervisory decisions for 23 banks, which included the potential imposition of periodic penalty payments for 18 banks if they failed to comply with the requirements by the deadlines set out in these decisions.
+
+Encouragingly, most banks have now submitted a meaningful materiality assessment. This shows that our supervisory pressure has been effective and has led to the desired outcome for the majority of banks.
+
+In parallel to our actions in relation to the first interim deadline, we are currently concluding our assessment of banks' progress in meeting the second interim deadline. For this second deadline, we asked banks to clearly include C&amp;E risks in their governance, strategy and risk management by December 2023. As with the first interim deadline, if we see that banks have not satisfactorily delivered, we will consider adopting supervisory measures that already contain an enforcement measure. In other words, we may tell those banks to remedy the shortcoming by a certain date and, if they don't comply, they will have to pay a penalty for every day the shortcoming remains unresolved.
+
+The last tool that | would like to mention is sanctions, which are intended to punish banks for misconduct and to deter future infringements." For instance, we have imposed penalties on banks that failed to comply with the requirements set out in binding ECB decisions") or with EU prudential requirements.
+
+## Legal considerations for effective supervision
+
+Let me now turn to the legal considerations that constitute our guiding principles for exercising our supervisory powers.
+
+When we — European banking supervisors — are using our rich supervisory toolkit and exercising our margin of discretion in imposing supervisory and enforcement measures, as well as sanctions, we take great care to remain within our mandate, to act in accordance with the relevant EU law and to act proportionally.
+
+We make sure that both our findings and the requirements we impose in our supervisory decisions fall squarely within the prudential tasks conferred on us under Article 4 of the SSM Regulation. We use all powers available to us to ensure that banks manage and cover their risks properly and that they comply with the applicable prudential legislation.
+
+Our underlying objective is to ensure the safety and soundness of credit institutions and the stability of the financial system.
+
+When deploying our supervisory toolkit in the exercise of our mandate, we apply the relevant Union law. We carefully analyse EU and national legislative texts, when applicable, taking into account the wording, context and objectives of the legislative provisions.
+
+We consider relevant case-law and general principles of law.
+
+We state the reasons on which our decisions are based with the aim that banks understand what we perceive their shortcomings to be and what we expect from them.
+
+When we issue sanctions or impose periodic penalty payments, we use a coherent methodology.
+
+We always make sure that we use our tools in line with the principle of proportionality. In other words, we consider whether the powers we use at any given time are appropriate for attaining our prudential objectives. We ascertain that we are not going beyond what is necessary and that the effects of our measures are not disproportionate to the prudential objective we are pursuing. Accordingly, one of the objectives when escalating supervisory action is to enable us to act swiftly and proportionally.
+
+In doing all this, we also ensure that our decisions are based only on facts and findings on which the banks have been able to comment.4]
+
+The right to be heard is a key procedural safeguard. We take it seriously and are committed to listening to banks' arguments and comments. In a number of cases we have changed supervisory decisions based on the comments made during the right to be heard process. For example, there have been cases where we have changed requirements into recommendations or prolonged the deadlines for compliance with our requirements, reflecting our willingness to consider the specific circumstances and arguments of individual banks.
+
+We -as European banking supervisors — believe that both the supervisory dialogue and banks' comments during the drafting phase of the decision can lead to increased mutual understanding and better decisions with better calibrated measures.
+
+Finally, if after those exchanges you — the supervised banks — still doubt the substantive and procedural conformity of the ECB's decision with the SSM Regulation, you may request an internal administrative review at the Administrative Board of Review. U3]
+
+While we do everything we can to ensure that we act within our mandate, correctly apply the relevant Union law, act proportionally and listen to your arguments, we note that banks are fully within their rights to ask EU courts to review our decisions. Litigation is, ina sense, a natural aspects of supervision, with supervisors actually using the tools they have been granted by the legislator to ensure compliance and timely remediation. Indeed, in the past ten years the ECB has been involved in 98 cases involving 102 actions requesting either annulment or damages, or alleging that the ECB was failing to act.
+
+So far, in most cases the courts have upheld our decisions in which we exercised our supervisory powers. And whenever one of our decisions has been annulled, we have drawn lessons from that experience to further improve the way we work.
+
+A very recent example | can mention is the ECB decisions requiring part of the prefunding given to the national deposit guarantee schemes and the Single Resolution Fund to be deducted from banks' capital in cases when the banks did not reflect the loss of economic resources from this funding in their capital. These decisions revolved around the technicalities of the so-called irrevocable payment commitments, how these commitments are secured by collateral and how banks reflect the loss of economic resources in their capital, liquidity and internal arrangements. Our first set of decisions was annulled in 2020 by the General Court"4], which considered that our reasoning for imposing these measures lacked an individual assessment of how the risk we identified was managed and covered by the arrangements implemented by the banks and the capital and liquidity held by them. Following these judgments of the General Court, the ECB improved its methodology to better cater for this individual assessment and took new decisions in relation to the irrevocable payment commitments with an improved motivation. These new decisions were again challenged by some banks, but this time the General Court upheld the new decisions with our improved methodology. This learning process is part of us striving to be an effective supervisor that, while always acting legally and proportionally, never rests until material prudential risks are covered and managed, necessary compliance has been achieved and remediation has been ensured. In this sense, we will not stop using our toolbox for fear of litigation, as we firmly believe that we can also learn when subject to judicial scrutiny.
+
+## Conclusion
+
+Let me conclude.
+
+As we approach the next decade of European banking supervision, the fundamental objective of supervision — ensuring safe and sound banks — will not change. To achieve this objective, we are putting greater emphasis on impact and effectiveness. We need to have a razor-sharp analytical focus on risks, and we need to insist that the weaknesses we identify are remedied in good time. Ensuring timely remediation is more relevant than ever considering the fast-evolving environment that we live in.
+
+And crucially, we have an extensive toolkit at our disposal that we are willing to use to meet that objective.
+
+In our supervisory process, we listen to you — representatives of the banks we supervise — because, ultimately, both supervisors and banks have a common objective: ensuring that the banks remain safe and sound.
+
+So let us make good use of every aspect of our supervisory dialogue, including the right to be heard, so you — the banks we supervise — can better understand our prudential concerns and we — European banking supervisors — can better understand the implementation challenges you may face.
+
+Together, we can navigate the challenges of this new risk environment.
+
+Together, we can make sure that European banks are also able to weather these storms.
+
+Together, we can ensure that banks remain safe and sound in the decades to come.
+
+Thank you for your attention.
+
+1.
+
+Buch, C. (2024), "Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment', The Supervision Blog, 28 May.
+
+2.
+
+Board of Governors of the Federal Reserve System (2023), Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, April, p. 8; Basel Committee on Banking Supervision (2023), Report on the 2023 banking turmoil, October, p. 26; International Monetary Fund (2023), Good Supervision: Lessons from the Field, September, pp. 4 et seq.
+
+3.
+
+Vifals, J. et al. (2010), "The Making of Good Supervision: Learning to Say "No", IMF Staff Position Note, International Monetary Fund, 18 May.
+
+4. expert group banking supervision",
+
+ECB (2023), "ECB welcomes recommendations on European press release, 17 April.
+
+5.
+
+Elderson, F. (2024), "You have to know your risks to manage them — banks' materiality assessments as a crucial precondition for managing climate and environmental risks", The Supervision Blog, 8 May. 6.
+
+Article 16(2)(a) of the SSM Regulation (Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).
+
+supervision", speech at the House of the Euro, 7 December.
+
+8.
+
+Board of Governors of the Federal Reserve System (2023), Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, April.
+
+9.
+
+Periodic penalty payments require the bank concerned to pay a daily amount — up to 5% of its average daily turnover — for every day the infringement continues during a maximum period of six months.
+
+10.
+
+Sanctioning proceedings can be initiated both in the case of ongoing breaches and after the breach has ceased. The ECB can impose pecuniary penalties on banks for failing to comply with EU prudential requirements. The ECB may impose penalties of up to 10% of a bank's total annual turnover in the preceding business year, or twice the amount of profits gained or losses avoided as a result of the breach, where those can be determined.
+
+11.
+
+See the ECB's banking supervision website for an overview of sanctions imposed by the ECB and the national competent authorities in proceedings opened at the ECB's request, as well as statistics on sanctioning activities in the context of European banking supervision.
+
+12.
+
+Article 22(1) of the SSM Regulation.
+
+13.
+
+To date the Administrative Board of Review has delivered 36 opinions.
+
+14.
+
+See the judgments of the General Court in cases T-143/18, T-144/18, T-145/18, T-146/18, T-149/18 and T-150/18.
+
+15.
+
+See the judgments of the General Court in cases T-182/22, T-186/22, T-187/22, T-188/22, T-189/22, T190/22 and T-191/22.
+
+CONTACT European Central Bank

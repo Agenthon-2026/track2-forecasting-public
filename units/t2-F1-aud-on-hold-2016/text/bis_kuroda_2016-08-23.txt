@@ -1,0 +1,54 @@
+Haruhiko Kuroda: Information technology and financial services - the central bank's perspective
+2016-08-23
+
+## Haruhiko Kuroda: Information technology and financial services - the central bank's perspective
+
+Remarks by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the FinTech Forum, Tokyo, 23 August 2016.
+
+* * *
+
+## Introduction
+
+It is a great pleasure to welcome all of you to our first meeting of the FinTech Forum.
+
+## I. Information technology and financial services
+
+Today's Forum focuses on information and financial services. Indeed, financial activities make full use of wide-ranging information technologies created throughout human history, and financial industries have almost always developed parallel to advances in various techniques and infrastructure related to information processing.
+
+Money, which constitutes the basic infrastructure for financial activities, physically symbolizes information pertaining to value in the form of metal or paper by using relevant technologies, thereby enabling the exchange and preservation of value. Moreover, money attaches information on 'price,' which is based on a widely-shared common 'scale,' to various goods and services. Such price information has worked as a critical signal leading to efficient resource allocation in the economy. Furthermore, 'ledgers' and 'double-entry bookkeeping,' whose developments were accelerated by paper and printing technology, enabled efficient and centralized management of information, including various prices. Using double-entry bookkeeping ledgers, firms and individuals became able to share the information necessary for conducting economic activities.
+
+Financial services have developed with the support of such information infrastructure. Financial intermediation, such as bank lending, has made full use of borrowers' information shared through ledgers and corporate accounting. Payments and settlements of business transactions as well as financial transactions in modern economies and financial markets have largely been processed through bank deposit transfers and securities transfers based on centralized ledgers and book-entry systems.
+
+From the perspective of information processing, payments and settlements relieve economic entities from burdensome information management, such as credit risk management of accounts receivables stemming from past transactions. This allows entities to concentrate their resources in forward-looking economic activities. Through financial intermediation, financial resources are allocated to investment in projects with higher productivity. The bundling and integration of refined mechanisms of information processing into financial services have contributed importantly to the development of economic society.
+
+## II. Recent innovation in information technology and 'FinTech'
+
+Today, we are observing very rapid innovation in information technology. Due to the spread of the internet, smartphones and social networks, the amount of data and information disseminated through various networks has expanded exponentially. Innovation in information technology makes it possible to process and analyse such 'big data' speedily. Also, information related to retail transactions of goods and services, which was left unused in the past, is now gathered through loyalty cards and e-money cards and utilized for business purposes. Moreover, new forms of economic activities comprising the 'sharing economy' have been realized thanks to new information technology. In this process, idle resources dispersed throughout the economy are identified and organized on the micro-level and matched with people's needs.
+
+Such innovation in information technology has the potential to generate innovation, especially in financial services, and such financial innovation linked to information technology is expressed in the word 'FinTech.' It is not at all surprising that information technology has a major influence on financial services, considering the close and inherent relationship between the two as described above.
+
+Payments, settlements, investment judgement and risk management, which constitute the core of financial activities, can be regarded as information processing. Therefore, progress in information technology and AI can be expected to significantly influence them. Moreover, 'blockchain' and 'distributed ledger technologies,' the flagship technologies in FinTech, challenge the conventional concepts of ledgers kept by a trusted third party in a centralized manner. Given that the development of financial services has been supported by ledgers as the basic infrastructure for information, the dramatic changes in how ledgers are kept may have the potential of significantly changing the structure of financial services.
+
+## III. Importance of information security
+
+While innovation in information technology and FinTech has the potential to extend the frontiers of financial services, we must bear in mind that information security is becoming all the more important due to these innovations.
+
+When searching the internet to shop for goods, various related goods and advertisements pop up to recommend associated purchases. As frequency of use increases, these recommendations and advertisements capture more and more information on the tastes and preferences of customers. This is made possible by high-speed processing of big data, and this innovation in information technology enables the development of profiles on individual customers. However, if such information is abused, in the worst case, the abuse can do substantial harm to society, and can cause anxiety among users in general. As such, advances in information processing underscore the importance of information security.
+
+Moreover, the development of information technology has simultaneously refined the tactics of hackers and cyber-attacks. Particularly in the financial industries with global networks, once such an attack occurs in one location, its negative influence may spread across the board. The Bangladesh Bank heist in the beginning of this year was the case that abovementioned risk was materialized.
+
+For the sound development of FinTech, information security is a key. FinTech has various characteristics, such as advanced information processing utilizing big data and AI. Additionally, FinTech is characterized by an 'openness' of networks, with the expansion of new media and instruments, including internet and smartphones, enabling ready access to financial services. This enhanced accessibility to financial services benefits customers and adds to their convenience. On the other hand, as financial networks become increasingly 'open,' potential target points for cyber-attacks also tend to increase. Therefore, how to simultaneously manage 'openness of financial networks' and 'information security' is a big challenge for FinTech.
+
+Financial services can be regarded as the processing of information for creating value in the linkages between economic entities over time and space. This is demonstrated in the payments and financial intermediation that connect various entities, such as senders/receivers and lenders/borrowers. In this sense, such activities must always be supported by people's 'trust.' Since FinTech is illustrated as a technologically advanced form of financial services, the importance of trust also applies to FinTech. For the development of FinTech, it is imperative to firmly maintain people's trust in financial services while facilitating the creativity and innovation needed to meet the needs of people. If information security problems were to repeatedly occur in a part of FinTech services, public trust toward FinTech in general would be eroded even though such problems are caused by a limited number of entities. People's anxiety for new services would hinder the sound development of FinTech overall.
+
+The information technology behind FinTech, if properly applied, should and can also contribute to enhancing information security and the safety of financial transactions. For example, seal stamps and PINs, which are traditional measures for verification in financial transactions, are accompanied by certain risks, such as theft and identity theft. In this regard, biometric authentication utilizing new technology may contribute to reducing these risks and strengthening the security in financial transactions. Thus, it is critical for relevant parties to make utmost efforts to use technological innovation for enhancing security in financial transactions. FinTech will thrive and grow when users associate it not only with convenience but also with safety and trust.
+
+## IV. Initiatives at the Bank of Japan
+
+FinTech has various implications for central banking. FinTech has a wide influence on payments, settlements and financial services, and could stimulate various economic activities, including e-commerce and 'sharing economy' businesses. Also, FinTech can encourage mutual feedback between financial activities and high-end technologies, including cryptographic techniques. Moreover, financial literacy and education are needed to promote the sound development of FinTech. The Bank of Japan is ready to lead research and analysis on FinTech, in view of the possibility that the Bank itself may apply FinTech technologies to its operations in the future.
+
+Given the far-reaching implications of FinTech, the Bank established its 'FinTech Center' on April 1 in the Payment and Settlement Systems Department. The Bank has also built up a 'FinTech network' comprised of a wide range of staff drawn from the relevant departments of the Bank. This FinTech Network, for which the FinTech Center functions as the secretariat, promotes the sharing of information and expertise related to FinTech in a cross-sectoral manner within the Bank. The Bank, as the central bank of Japan, is ready to make its best efforts to support the sound development of FinTech in order to enhance the welfare of financial service users as well as economic activities.
+
+In today's Forum, we welcome a rich variety of participants. When we look back at history, we see that communication and positive feedbacks among various entities from different cultures, such as cross-border trading between Europe and the Orient during the Renaissance, led to the development of banking as well as double-entry bookkeeping. In a similar vein, in order to promote the development of the new financial services that we have come to call FinTech, it is extremely important to realize positive and interactive communication among a broad spectrum of entities that go beyond the traditional financial industry to include IT enterprises, retailers, start-ups and others. I sincerely hope that today's Forum will contribute to all the participants in terms of sharing new insights and perspectives.
+
+Thank you for your attention.

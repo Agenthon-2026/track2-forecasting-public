@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F1"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f1", "t2c-F1-aud-on-hold-2016"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2016-11-01"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches (full archive); BLS/BEA news release; Federal Reserve"
+source         = "BIS central bankers' speeches (full archive); BLS/BEA news release; Federal Reserve; Reserve Bank of Australia"
 path           = "text/"
 cutoff         = "2016-11-01"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "macro_release"]
+n_documents    = 10
 notes          = "Lowe takes over with rates at 1.5% and speeches signalling comfort with the setting; commodity prices are stabilising. A long on-hold stretch where the text argues for range, not trend — width discipline is the score."
 
 [targets]

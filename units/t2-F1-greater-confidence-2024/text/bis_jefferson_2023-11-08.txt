@@ -1,0 +1,58 @@
+Philip N Jefferson: Research and Statistics Centennial Anniversary - past, present and future
+2023-11-08
+
+## Philip N Jefferson: Research and statistics centennial anniversary past, present and future
+
+Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at "A Look at the Past, Present, and Future," a conference celebrating the Centennial of the Division of Research and Statistics, Board of Governors of the Federal Reserve System, Washington DC, 8 November 2023.
+
+* * *
+
+Thank you, Stacey, and thank you to the organizers for a thought-provoking conference. 1 Provoking thought and discussion are very fitting ways to mark the centenary of the Division of Research and Statistics (R&amp;S).
+
+In keeping with the conference theme, I have organized my remarks around the past, present, and future of R&amp;S. My reflection on the past, while idiosyncratic, is also, I believe, indicative of a through line that characterizes the division historically. For me, that past begins in 1983, when I came to the Board as a newly minted college graduate to be a research assistant (RA) in the Government Finance Section, now known as Fiscal Analysis. One of our primary tasks was to keep track of the volatile, and somewhat unpredictable, fluctuations in tax receipts. The daily numbers were transmitted not by computer, but by telephone. Other data retrieval required RAs to go to the Treasury directly in the luxurious conveyance of a D.C. taxicab, reimbursed by the Board-a little perk that, as it happened, never came my way. In our section, though, it was a lot of time on the phone, and the two economists I worked with, Al Teplin and Wolf Ramm, would take down the numbers and pass them to me.
+
+Obviously, many things have changed in R&amp;S over the past 40 years. But one thing that hasn't changed much is the role of RAs in analyzing data and participating in other important functions performed by the division. Back then, armed with those tax receipt numbers, I would be expected to put together a projection. My bosses had their own projections, of course, and they subjected my work to very careful review. But I was given that assignment because there was a widespread view then that RAs were here to learn and to contribute meaningfully to research and policy work, and I felt a considerable responsibility to do the very best I could with the important work I had been given. Much has changed at R&amp;S, but those values remain. As a young college graduate, I was impressed with how seriously people in R&amp;S took their responsibilities, whatever their role. I am not the only person whose experience as a young person in R&amp;S was formative. In my case, it might seem remarkable that a former R&amp;S RA has returned as Vice Chair, but for decades, former RAs have been returning and serving in leadership roles at the Board and throughout the System.
+
+Moving from the past to the present, it has been a while since the things we thought we understood well about the economy were subject to as much debate as they are today. At the same time, an explosion of available data, much of it of high frequency and from unconventional or alternative sources, has given R&amp;S many more potential avenues for analyzing the economy and, hence, much more to do. The list of alternative data sources available to forecast economic outcomes seems almost endless, including social media posts and web traffic, credit card purchases, geolocation, and satellite
+
+imagery. These alternative data have transformed the way economists forecast future outcomes and measure the effectiveness of monetary policy. For example, economists can use postings to social media sites to analyze investors', journalists', and households' real-time interpretation of central bank communications. However, a 2 wealth of data does not necessarily translate into better forecasts and better insights. Recent academic research suggests that alternative data mainly help forecast shortterm outcomes and not so much long-term outcomes. 3   This is why it is important that R&amp;S continues to be at the forefront of research, making sure we are making the right inferences with new tools and new data sources.
+
+With respect to the future, my expectation is that today's challenges will persist. I have already mentioned one challenge, which is to make sure we are acquiring the right "alternative" data, making the right inferences, and appropriately using tools such as artificial intelligence, including machine learning, to analyze this wealth of data. These tools may be very good at estimating correlations, but we know that correlation does not imply causation; thus, their usefulness may be limited. Identifying a correlation in the data without identifying causation may lead policymakers to incorrect conclusions and therefore lead us to implement inappropriate policies. In addition, these tools are very good at data mining, which can be dangerous if it gives us the false sense that a good in-sample fit leads to a good out-of-sample forecasting model. Economists in R&amp;S and other divisions, as well as academics, have made progress on this front, but there is room for further improvement. In addition to the challenge of how to best use these tools and data at the Fed, R&amp;S faces the challenge of understanding what these new technologies mean for labor productivity and the economy.
+
+The other challenge I want to highlight is that of making decisions under uncertainty. This is not a new challenge, of course. John Maynard Keynes and Frank Knight provided book-length treatments of the subject a century ago (Keynes, 1921; Knight, 1921). In addition, in 2003, Alan Greenspan observed, "Uncertainty is not just an important feature of the monetary policy landscape; it is the defining characteristic of that landscape" (Greenspan, 2003). The fact that uncertainty has been a challenge for so long makes me think that it will continue be a challenge going forward, and in the wake of the pandemic, it is highly salient.
+
+In 1967, William Brainard argued that uncertainty about the power of monetary policy implied that policy should respond more cautiously to shocks than would be the case if this uncertainty did not exist (Brainard, 1967). Brainard's is a attenuation principle classic example of what has come to be known as the Bayesian approach to uncertainty and is often cited as the foundation for the gradualism in the adjustment of monetary policy. That said, methods based on theories of ambiguity aversion led to anti. In other words, to protect against uncertainty, the appropriate response attenuation may be a quick and strong monetary policy response. Of course, the right response to uncertainty is probably context specific and thus varies over time.
+
+As Chair Powell mentioned in a speech in 2018, there are two particularly important cases in which doing too little when there is high uncertainty comes with higher costs than doing too much (Powell, 2018). The first case is when attempting to avoid severely adverse events such as a financial crisis. In this situation, words like "we will do whatever it takes" will likely be more effective than "we will take cautious steps." The second case is when inflation expectations threaten to become unanchored. If
+
+expectations were to begin to drift, the reality or expectation of a weak monetary policy response would exacerbate the problem. 4
+
+How to respond to uncertainty is a matter that the Federal Open Market Committee, with the help of R&amp;S, has been wrestling with for a long time. While I could be wrong, as of today, I do not foresee that some all-powerful artificial intelligence will be able to perfectly balance the risks of doing too little or too much. Therefore, I expect that long into the future, we'll be relying on the knowledge and good judgment of the people of R&amp;S to weigh the risks and to help in providing options to monetary policymakers so that they can make informed decisions.
+
+In closing, congratulations on a century of service to the Fed and the American people. I have every expectation that the next 100 years of the Division of Research and Statistics will be just as integral to the prosperity and well-being of the American people as it has been to date.
+
+Thank you!
+
+## References
+
+Brainard, William C. (1967). "Uncertainty and the Effectiveness of Policy," American vol. 57 (May), pp. 411-25. Economic Review,
+
+Dessaint, Olivier, Thierry Foucault, and Laurent Fresard (2023). "Does Alternative Data Improve Financial Forecasting? The Horizon Effect," forthcoming. Journal of Finance,
+
+Greenspan, Alan (2003). " Monetary Policy under Uncertainty," speech delivered at a symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming (August 29).
+
+Keynes, John Maynard (1921). London: Macmillan. A Treatise on Probability.
+
+Knight, Frank H. (1921). Boston: Houghton Mifflin. Risk, Uncertainty and Profit.
+
+Powell, Jerome H. (2018). " Monetary Policy in a Changing Economy," speech delivered at "Changing Market Structure and Implications for Monetary Policy," a symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming (August 24).
+
+Schmanski, Bennett, Chiara Scotti, Clara Vega, and Hedi Benamar (2023). "Fed Communication, News, Twitter, and Echo Chambers," Finance and Economics Discussion Series 2023-036. Washington: Board of Governors of the Federal Reserve System, May.
+
+Söderstrom, Ulf (2002). "Monetary Policy with Uncertain Parameters," Scandinavian vol. 104 (March), pp. 125-45. Journal of Economics,
+
+1 The views expressed here are my own and not necessarily those of my colleagues on the Board of Governors or the Federal Open Market Committee.
+
+- 2 For an example of recent research that looks at Twitter posts during FOMC days, see Schmanski and others (2023).
+- 3 Dessaint, Foucault, and Fresard (2023) find that alternative data mainly helps forecast short-term outcomes.
+- 4 For example, Soderstrom (2002) shows that when there is uncertainty about the persistence of inflation, it is better to implement monetary policy that is aggressive than gradual.

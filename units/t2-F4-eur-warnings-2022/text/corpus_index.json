@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_powell_2021-11-29",
+      "timestamp": "2021-11-29",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_powell_2021-11-29.txt"
+    },
+    {
+      "doc_id": "bis_kuroda_2021-11-29",
+      "timestamp": "2021-11-29",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2021-11-29.txt"
+    },
+    {
       "doc_id": "fomc-statement-2022-01-26",
       "timestamp": "2022-01-26",
       "source": "Federal Reserve",
@@ -18,6 +32,13 @@
       "file": "beigebook_202201.txt"
     },
     {
+      "doc_id": "ecb_mp_decision_2022-02-03",
+      "timestamp": "2022-02-03",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2022-02-03.txt"
+    },
+    {
       "doc_id": "ecb_lagarde_2022-02-07",
       "timestamp": "2022-02-07",
       "source": "ECB (all_ECB_speeches.csv)",
@@ -30,6 +51,13 @@
       "source": "BLS",
       "doc_type": "macro_release",
       "file": "cpi_2022-02-10.txt"
+    },
+    {
+      "doc_id": "wh_psaki_sullivan_briefing_2022-02-11",
+      "timestamp": "2022-02-11",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "wh_psaki_sullivan_briefing_2022-02-11.txt"
     },
     {
       "doc_id": "ecb_lagarde_2022-02-14",
@@ -51,6 +79,13 @@
       "source": "BIS central bankers' speeches",
       "doc_type": "cb_speech",
       "file": "bis_cos_2022-02-17.txt"
+    },
+    {
+      "doc_id": "state_blinken_unsc_2022-02-17",
+      "timestamp": "2022-02-17",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "state_blinken_unsc_2022-02-17.txt"
     }
   ]
 }

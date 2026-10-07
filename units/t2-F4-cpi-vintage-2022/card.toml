@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "macro_monthly", "t2-f4", "t2c-F4-cpi-vintage-print"]
 expert_time_estimate_min = 45.0
@@ -23,7 +22,6 @@ target_frequency = "monthly"
 description      = "Monthly CPI Print: Tail Risk from Real-Time Price Texts (as-published vintage). As-of 2022-05-31; targets CPI_ALL at horizons [21] BD. Vintage-correct macro tail card; release texts carry information the panel cannot show yet."
 created_by       = "Ruolan Sun"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -77,8 +75,8 @@ source         = "BLS/BEA news release; Federal Reserve; official (see landmarks
 path           = "text/"
 cutoff         = "2022-05-31"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 8
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 10
 notes          = "Forecast the June 2022 CPI index level AS FIRST PUBLISHED (released in July 2022), one print beyond the May 2022 print that is next at the as-of date — targets use the as-published (first-release) values, not later revisions (see docs/CATEGORIES.md and docs/MONTHLY-HORIZONS.md). Panel truncated with a 45-day publication lag: its last observation is April 2022, and the intervening May 2022 print was not yet public at the as-of date. Prior CPI release texts (in corpus) document the recent trend and breadth commentary; real-time energy-price discussion is the incremental signal the panel cannot show yet, and the sign and size of the surprise remain open."
 
 [targets]

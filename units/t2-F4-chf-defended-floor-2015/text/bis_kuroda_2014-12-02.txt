@@ -1,0 +1,140 @@
+Haruhiko Kuroda: The evolution of payment and settlement systems and the role of central banks
+2014-12-02
+
+## Haruhiko Kuroda: The evolution of payment and settlement systems and the role of central banks
+
+Speech by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the Symposium for the 30th Anniversary of the Center for Financial Industry Information Systems, Tokyo, 2 December 2014.
+
+* * *
+
+## Introduction
+
+It is a great pleasure to have this opportunity to speak at the symposium commemorating the 30th anniversary of the Center for Financial Industry Information Systems (FISC). Since its establishment in 1984, the FISC has greatly contributed to strengthening the safety of the financial information system and improving the efficiency of financial services in Japan. As it marks its 30-year milestone, I would like to express my respect and gratitude for the work it has done over the years.
+
+For the past 30 years, the FISC has been engaged in enduring work such as developing industry guidelines and standards. These include 'FISC Security Guidelines on Computer Systems for Banking and Related Financial Institutions' and 'FISC Information System Audit Guidelines for Banking and Related Financial Institutions.' It also publishes its 'White Paper on Financial Information Systems' every year. With new payment methods such as internet banking and electronic money making their appearance, maintaining the security of such payment methods has become an important issue. The FISC has also been active in addressing a number of challenges related to information systems by revising the industry guidelines or standards in order to address these issues. Furthermore, through its wideranging research, analysis, and publicity activities - including various surveys or the organization of study groups and seminars - the FISC's efforts have significantly supported the development of payment and settlement systems, through which economic and financial transactions are 'settled.'
+
+Today, under the title, 'The Evolution of Payment and Settlement Systems and the Role of Central Banks,' I will outline these systems' developments from the past to the future, and explain the present and future challenges to be tackled by the Bank of Japan while touching on the role of central banks within the systems.
+
+## I. Evolution of payment and settlement systems
+
+Looking back over several decades at the history of payment and settlement systems in Japan, both efficiency and safety have significantly improved. To put this in perspective, certain periods from the middle of the 1960s to the beginning of the 1990s were ones when more emphasis was put on raising efficiency. Since then, the emphasis has shifted to enhancing the safety of the systems.
+
+Let me be more concrete. From the middle of the 1960s to the beginning of the 1990s, on the back of progress in financial liberalization and globalization as well as the increasing issuance of JGBs, it was difficult to manually process the large number of payment and settlement transactions. It was against this background that financial institutions implemented the online processing of settlement and dematerialization of securities certificates. As a result, the efficiency of payment and settlement systems significantly improved.
+
+The periods coincided with those in which major payment and settlement systems initiated their operations, including the Zengin Data Telecommunication System (Zengin System) in 1973, the Bank of Japan Financial Network System (BOJ-NET) in 1988, and the Japan Securities Depository Center's system in 1991.
+
+During and after the 1990s, payment and settlement systems put priority on strengthening their safety by making use of the existing financial institutions' computer systems and market infrastructures. From the 1990s to the beginning of the 2000s, efforts to reduce the settlement risks made significant progress against the backdrop of the Asian currency crisis and Japan's financial crisis. The BOJ-NET introduced delivery-versus-payment (DVP) for JGBs in 1994 and real-time gross settlement (RTGS) in 2001. In 2002, major central banks jointly supported the launch of the payments of two different currencies on a paymentversus-payment (PVP) basis by Continuous Linked Settlement (CLS). By the middle of the 2000s, all other central counterparties (CCPs), including the current Japan Securities Clearing Corporation (JSCC), were established.
+
+After the global financial crisis in 2008, further initiatives were taken in order to enhance the safety of payment and settlement systems. These include the introduction of international regulations, such as the obligation to use the CCPs for standardized over-the-counter (OTC) derivatives and the publication of the Principles for Financial Market Infrastructures (PFMIs) jointly by the Committee on Payment and Settlement Systems (CPSS) of the Bank for International Settlements and the International Organization of Securities Commissions (IOSCO) in 2012. 1 The PFMIs were introduced with the intent to reinforce the global standards set during the first half of the 2000s.
+
+The question now is: What does the future of payment and settlement systems look like? Looking at the environment surrounding the current situation in Japan, economic activity continues to be globalized at a faster pace. For example, Japanese firms and financial institutions are increasingly deploying their operations in Asia, and businesses and households are diversifying their needs for payment and settlement services in light of rapid progress in information technology. In order to respond to these wide-ranging needs of end users, it is important that we take measures to improve the efficiency and convenience of these services while maintaining their safety.
+
+In overseas economies, we have witnessed that their payment and settlement systems are making some improvement. Major central banks have substantially extended the operating hours of their payment and settlement systems since the beginning of the 2000s. Moreover, in the United Kingdom, bank transfers have become available 24 hours a day, 7 days a week on a real-time basis since 2008. In Europe, a standard format for credit transfers and direct debits became obligatory this August as part of the initiatives taken by the Single Euro Payments Area (SEPA) to make euro payments faster and cheaper.
+
+Looking at the situation in Japan, a similar progress is also underway, including initiatives taken by the Japanese Bankers Association (JBA) and the Japanese Banks' Payment Clearing Network (Zengin-Net) with the aim of enhancing the retail payment services. Going forward, it is important for a wide range of stakeholders to understand overseas developments and take measures as appropriate.
+
+## II. Role of central banks in payment and settlement systems
+
+Before discussing the Bank's initiatives in light of such circumstantial changes, let me now explain the role of central banks in payment and settlement systems.
+
+Payment services constitute the core of banking business. As 'the bank of banks,' this is also true for a central bank, as it plays a pivotal role in payment and settlement systems. Moreover, central banks conduct monetary policy and fulfill their policy objectives, such as ensuring financial stability, through the provision of their banking services. In order to implement their policies effectively, payment services and those systems provide vital underpinnings.
+
+1 CPSS has been renamed as CPMI (Committee on Payments and Market Infrastructures).
+
+The first role of central banks in payment services is to provide the means of payment with finality. These include banknotes and current accounts held at central banks. In addition, central banks operate interbank payment and settlement systems in order to facilitate smooth online settlements of funds and JGBs between financial institutions. 2 Moreover, central banks are engaged in the oversight activities for payment and settlement systems provided by other entities to call for the enhancement of these systems as appropriate while taking account of the balance between safety and efficiency. Furthermore, they are involved in such activities as helping market participants formulate appropriate market practices spanning from execution to settlement. These activities are conducted from the viewpoint that payment and settlement systems provide the foundation for the stability of the financial system and the sound development of the economy.
+
+Looking to the future of payment and settlement systems, central banks are expected to contribute to economic growth and financial stability not only by improving their own payment services but also by helping financial institutions enhance services provided by those institutions.
+
+## III. Bank of Japan's initiatives: present and future
+
+Next, I would like to explain the Bank's initiatives in four areas at present and in the future. They are namely (i) to build the New BOJ-NET and extend its operating hours, (ii) to consider improving cross-border transactions, (iii) to support enhancing retail payment services, and (iv) to support shortening the JGB settlement cycles. Let me explain these items in turn.
+
+## A. New BOJ-NET and extension of its operating hours
+
+At present, the Bank is in the middle of building the New BOJ-NET.
+
+Since its inception in 1988, the environment surrounding the BOJ-NET has been changing dramatically. On the back of financial globalization and innovation in information technology, people involved in major payment and settlement systems around the world have been making efforts to strengthen the IT infrastructure to cope with the diversified needs in transactions and settlement. On the part of financial institutions, connecting their computer systems directly with the BOJ-NET has become widespread, and this enables those institutions to realize straight-through processing (STP). Moreover, a cross-border linkage among payment and settlement systems has become more widespread, as exemplified by the enlargement of cross-currency PVP transactions through the CLS and the cross-border linkage of securities settlement systems. It is against this background that the BOJ-NET needs to meet the diversified needs in response to the enlargement of the network structure and the globalization of financial transactions.
+
+The New BOJ-NET, which is due to be in full operation in October 2015, is based on several overarching principles. 3 First, we employ the latest information technology to enrich our services and improve convenience for our customers in the future. Second, the New BOJNET is designed to accommodate greater flexibility so that it can respond to ongoing and future banking needs and market developments. Last, but not least, it enhances accessibility, allowing longer operating hours, in light of the globalized financial markets to encourage interconnectedness among market infrastructures.
+
+2 As such, central banks provide 'ultimate settlement' to the economy by assuring the provision of banknotes and current accounts (these means of payments with finality provided by central banks are called 'central bank money') to payment and settlement systems where financial institutions can effectively use them, when necessary.
+
+3 The full launch of the New BOJ-NET is planned to take place on October 13, 2015.
+
+In particular, as Japan is in the first set of time zones, we aim to contribute to invigorating financial markets and enhancing financial services by encouraging financial institutions to make the most of the longer operating hours of the New BOJ-NET. It is for that reason that the Bank decided to extend the operating hours until 21:00 from February 2016 after the New BOJ-NET starts full operation in October 2015, at which point its operating hours will be up to 19:00. 4, 5 Further extended operating hours are expected to be used by respective financial institutions at their own judgment. 6
+
+At the forum toward making effective use of the New BOJ-NET, we have been discussing issues with major financial institutions and those institutions' associations, such as covering the same-day cross-border settlements in the afternoon in Asia and in the morning in Europe. For example, the New BOJ-NET enables financial institutions to collect and distribute their customers' funds between Japan and Asia within the same day, to allow JGBs to be posted to the CCPs overseas, and to increase cross-currency repos by posting JGBs as collateral in European markets.
+
+## B. Improvement in cross-border transactions
+
+Looking further out, by taking advantage of the enhanced accessibility of the New BOJ-NET, we aim to build an infrastructure that facilitates the smooth delivery of the Japanese yen and JGBs anywhere and anytime. This is what I would call the ubiquity of the Japanese yen and JGBs.
+
+On this point, the ASEAN+3 economies have started discussing a possible cross-border linkage between the securities settlement system in one country and the funds settlement system in another with a view to establishing a cross-border securities settlement infrastructure in the region. The Bank is also participating in this discussion. In May this year, finance ministers and central bank governors agreed with the direction of developing an implementation roadmap of CSD-RTGS linkages in the medium term so as to make it possible to deliver securities smoothly and safely versus payment across borders. Further study and analysis on CSD-RTGS linkages is expected to be carried out by practitioners.
+
+Given that market participants and central banks are undertaking similar initiatives in Europe with an aim of improving securities settlement across borders in the region, it would be conceivable that market participants in Asia will start dialogue with their counterparties in regions outside Asia to review the possibility of a cross-border linkage between settlement infrastructures.
+
+Such cross-border linkage will enable market participants to settle foreign currency funding transactions against domestic sovereign bonds as collateral - this is known as crosscurrency repos - on a DVP basis by using safe central bank money. Facilitating smooth and safe cross-border settlement will be expected to contribute to enhancing the convenience and efficiency of the Japanese yen and JGBs, and eventually to raising the profitability of financial institutions.
+
+Developing an infrastructure that will enable the smooth delivery of the Japanese yen and JGBs anywhere and anytime will support the globalization of the yen - a longstanding challenge - from the settlement aspect. The Bank is committed to enhancing payment services by utilizing the renewed functionalities of the New BOJ-NET and to underpinning the
+
+4 The current operating hours on regular business days are 9:00-19:00 for Funds Transfer Services and 9:00-16:30 for JGB Services.
+
+5 The extension of the operating hours until 21:00 is planned to take place on February 15, 2016.
+
+6 Those operating hours are expected to be used by financial institutions that have current accounts or JGB accounts at the Bank's Head Office.
+
+medium- to long-term growth of Japan's economy from not only the monetary policy perspective but also the settlement perspective.
+
+## C. Enhancement of retail payment services
+
+Next, I would like to talk about the initiatives taken to enhance retail payment services. Currently, the JBA and the Zengin-Net have started looking into the issues of extending the Zengin System's operating hours and achieving financial electronic data interchange (EDI). These also were included in the revised Japan Revitalization Strategy, which was released by the Japanese government in June 2014. The Bank, as a provider of the settlement platform for interbank settlement in the Zengin System, will play an active role to support these actions taken by the JBA and the Zengin-Net.
+
+## Extension of the Zengin System's operating hours
+
+First, let me explain the extension of the operating hours of the Zengin System. The Zengin System is a system operated by the Zengin-Net, through which interbank payment instructions for bank transfers are processed in Japan. Since it started its operation in 1973, the Zengin System has allowed near real-time payment services during the daylight hours of working days, and has long been regarded worldwide as one of the most advanced retail payment services provided to customers. More recently, however, some countries have developed near real-time payment services available 24 hours a day, 7 days a week (known as '24/7 services'), beginning with the launch of the Faster Payments Service by the United Kingdom in 2008. Singapore also initiated Fast and Secure Transfers, called FAST, in March this year, and Australia is expected to launch 24/7 services in the second half of 2016. In the United States, the Federal Reserve has been playing an active role in enhancing payment services. In September 2013, the Federal Reserve Banks released the paper in which they identified the establishment of a ubiquitous system for near real-time payments as one of desired outcomes.
+
+In recent years, more and more consumers are making purchases through the internet. The use of credit cards and electronic money is also increasing, and new payment instruments such as payment via mobile phone are making their appearances one after another. If we look at the situation in Japan, the vast majority of people hold bank accounts, so bank transfers play a key role both as a payment instrument and as an infrastructure for other payment instruments. We expect this convenience of bank transfers to be enhanced through advances in information technology, which will lead to further innovation via competition with other means of payment, therefore allowing for the smooth operation of retail payment services to underpin business and household activities.
+
+The JBA and the Zengin-Net are currently considering the extension of the operating hours of the Zengin System in light of the need to facilitate better access to the end users, and are expected to release a final report on their decision by the end of this month. After the release of the report, the Zengin-Net is expected to give consideration on the details. The Bank will continue to support these initiatives in order to enhance retail payment services.
+
+## Realization of financial EDI
+
+Another issue is the use of financial EDI. With regard to their purchasing, firms often opt for payments to be processed together at a certain future date instead of immediately. Therefore, they have to manually reconcile payment information with remittance information, which is a process called accounts receivable reconciliation. In particular, for industrial firms with a number of purchasing/selling transactions going on, this reconciliation involves large operating costs. Financial EDI is seen as a solution that will address this problem.
+
+EDI is a framework in which businesses electronically exchange remittance information, such as purchases and sales orders. Since remittance information can be in diverse formats, businesses are adopting a more flexible and extensible data format, called XML (eXtensible
+
+Markup Language) format, in realizing EDI, instead of the fixed-length data format currently used.
+
+- If a framework were built in which remittance information could be attached to payment information, such as a beneficiary's bank account or payment date information, firms would be able to automate accounts receivable reconciliation, thereby considerably enhancing the efficiency of payment-related operations. This framework that enables the link of payment information and remittance information is financial EDI.
+
+In Europe, with the aim of maximizing the benefits stemming from the single currency, a project is underway in order to achieve financial EDI, including the adoption of the XML format as a standardized data format. This is a grand project that has been worked on by stakeholders for more than 10 years. At present, banks have finished complying with the XML format, and are now providing their customers with services that convert the remittance information from the old format to the XML format, with a view to encouraging use of the new format.
+
+In Japan, the banking industry, led by the JBA and the retail industry, jointly conducted an experiment last month related to the use of financial EDI. Both industries and other stakeholders will collaborate to make further efforts to realize the utilization of remittance information in bank transfers. The Bank will again help promote these initiatives.
+
+## D. Shortening of JGB settlement cycle
+
+The Bank also has been supporting market participants with regard to shortening the time lag between the execution of JGB trading and settlement. Back in 1984, when the FISC was established, there was no standard settlement cycle for JGBs, varying among each trade. From 1986 to 1987, the settlement cycle was standardized to within 10 business days from the trade date, with settlement only on particular days. 7 The settlement cycle was then shortened to T+7 in 1996, and to T+3 in 1997, each through rolling settlement, which became the standard settlement cycle for JGBs for 15 years.
+
+Apart from the United Kingdom and the United States, which had already realized T+1 settlement from an early stage, T+3 settlement had long been recognized as the international standard for the securities settlement cycle. However, since the financial crisis of autumn 2008, the world has been moving toward a shorter settlement cycle in order to reduce risks arising from unsettled positions. In Europe, the basic settlement cycle for a wide range of securities moved to T+2 this October. Meanwhile, in the United States, an industry-wide committee was established this October to facilitate the move toward T+2 settlement for trades in equities, corporate and municipal bonds, and unit investment trusts. 8
+
+In April 2012, JGB trading moved to a shorter settlement cycle, from T+3 to T+2, for the first time in 15 years. In accordance with the global move, further efforts toward shortening of the settlement cycle are being made in Japan, with an aim of achieving T+1 for JGB outright transactions. Last month, the Working Group on Shortening of JGB Settlement Cycle, which was set up under the auspices of the Japan Securities Dealers Association, released the final version of 'Grand Design towards Shortening of JGB Settlement Cycle (T+1)' (hereafter, 'Grand Design'), revealing the challenge and strategies that could be taken for realizing T+1 settlement.
+
+In some cases, shortening the settlement cycle can be viewed as unprofitable, since the short-term merit is hard to see and large investment to streamline post-trade operations often
+
+7 Namely, these are the 5th, 10th, 15th, 20th, 25th, and the last day of each month.
+
+8 The Depository Trust and Clearing Corporation (DTCC) launched an industry steering committee in collaboration with other stakeholders such as the U.S. Securities Industry and Financial Markets Association (SIFMA) and Investment Company Institute (ICI).
+
+is required. In the medium to long run, however, the Japanese economy as a whole can greatly benefit not only from the reduction of settlement risks arising from unsettled positions, but also from the enhanced efficiency of settlement operations and through financial innovation. In that context, the Grand Design also identifies the reduction of operational risk through standardized operations and the development of STP as another aim of achieving T+1. Other issues, such as the creation of market-wide infrastructure for collateral management, as well as unifying the form of repo trades to the globally used repurchase agreement, are also discussed in the Grand Design, indicating that we can expect a strengthening of the global competitiveness of the JGB market and the expansion of related services. Furthermore, when JGB outright transactions move to T+1 settlement, it is envisaged that most repo transactions will move to T+0 settlement. This warrants attention, as it also means the development of a new large money market for same day funds transactions. While I am very grateful for the stakeholders' unremitting efforts, we will continue to provide support toward achieving T+1 settlement.
+
+## Conclusion
+
+Let me conclude. When developing payment and settlement systems, it is essential to capture and analyze the needs and risks of those systems from broader perspectives. In addition, it is important to build an infrastructure from the medium- to long-term perspective due to the fact that it usually takes considerable time from developing plans to managing the operation.
+
+I explained earlier today the measures taken in Europe for making use of financial EDI by utilizing XML formats. In Japan, the core payment and settlement systems - such as the BOJ-NET, the Zengin-System, and the system operated by the Japan Securities Depository Center (JASDEC) - have already incorporated such formats. We expect that financial institutions participating in those systems will make effective use of the formats to enhance the quality of services they provide. In light of such circumstances, the FISC is expected to act as a 'catalyst of global knowledge,' by collaborating with relevant parties in Asia and the rest of the world, thereby steering the initiatives taken by financial institutions in our country.
+
+The FISC is also expected to play an important role in overcoming new challenges arising from information security, such as cyber-attacks. Currently, high attention has been paid around the globe to the cyber resilience of payment and settlement systems. In this regard, the Committee on Payments and Market Infrastructures of the Bank for International Settlements published a report last month titled, 'Cyber resilience in financial market infrastructures.' As more and more security violations are being witnessed around the world, the serious influence of these is attracting much more attention, and new findings in terms of strategic decisions and technical options are being made. The FISC is again expected to play a key role in research, analysis, and public relations activities with regard to these issues.
+
+Before closing my remarks, I would like to pay great respect to the FISC for its enduring efforts over the past 30 years, and am sure that it will continue to play an important role in the various fields relevant to developing payment and settlement systems in our country.
+
+Thank you.

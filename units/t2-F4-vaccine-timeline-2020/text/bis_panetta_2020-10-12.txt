@@ -1,0 +1,98 @@
+Fabio Panetta: A digital euro for the digital era
+2020-10-12
+
+## Fabio Panetta: A digital euro for the digital era
+
+Introductory statement by Mr Fabio Panetta, Member of the Executive Board of the European Central Bank, at the ECON Committee of the European Parliament, Frankfurt am Main, 12 October 2020.
+
+* * *
+
+Madame Chair, honourable members of the Committee on Economic and Monetary Affairs,
+
+Thank you for inviting me to present the Eurosystem report on a digital euro. 1
+
+The quest to ensure that means of payment are fit for purpose has characterised economic history.
+
+In the provision of money by the sovereign, Europe can boast of a primacy dating back to ancient Greece and the Roman era. The search for sound money continued in the 'dark' years of the High Middle Ages, despite the resumption of bartering; in the eighth century the monetary reform of Charlemagne spread out in many European countries. 2 3 4
+
+The evolution of money over the centuries and across different regions has reflected changes in economic life, in technology, and in societal beliefs and behaviours. When Marco Polo visited China in the 13th century, he was shocked to discover paper money, which we now know had already been used there for centuries. He called its creator a perfect 'alchemist'. Today, digitalisation is spreading to all areas of our life, including the way we pay. So I do not expect anyone to find the idea of a digital currency as astonishing as Marco Polo found the idea of paper money. 5
+
+Nowadays, central banks are entrusted with the fundamental task of providing citizens with costless access to simple, secure and risk-free means of payment that can be used on a large scale. Delivering on this task requires central banks to analyse relevant developments in society and adapt accordingly.
+
+In order to be able to give Europeans easy access to a safe form of central bank money in a society that is moving increasingly quickly towards digital payments, the ECB's Governing Council has decided to advance work on the possible issuance of a digital euro.
+
+Should the need arise, we want to be ready to introduce a digital euro: a form of central bank money that would complement cash, not replace it. Together, these two types of money would be accessible to all, offering greater choice and easier access to ways of paying.
+
+After publishing our report on a digital euro on 2 October, we are now in a phase of listening and experimentation. Our exchange today is a key step in this phase and marks the launch of the ECB's public consultation. I will come back to this consultation in a moment. But first I will outline the characteristics of a digital euro, as well as the advantages and the challenges it could present. I will also discuss some scenarios that could require the ECB to issue a digital euro. 6
+
+## What is a digital euro?
+
+We already have an array of choices when it comes to retail payments: central bank money in the form of cash, commercial bank money - for example, digital bank deposits - and non-bank digital money (such as payment cards). What we do not have is a digital currency that is issued by the central bank and that we can use for all our daily transactions, including in e-commerce.
+
+A digital euro would fill this gap: it would be an electronic form of central bank money accessible to all citizens and firms - in other words, a digital equivalent of euro banknotes. It would provide
+
+costless access to a simple, risk-free and trusted digital means of payment, accepted throughout the euro area. In the digital era, it would preserve the public good that the euro provides to European citizens.
+
+Compared with existing means of digital payments, a digital euro would provide added value in several ways. First of all, it could be used for payments anywhere, by anyone and at any time just like cash in the physical world.
+
+Second, it would bring simplicity: a digital euro should be designed to be easy to understand, easy to use and easy to transfer. Regardless of its features or the technology it would be based on, people from all groups in society should be able to use it in their daily lives. This is because making a payment is about more than just exchanging money for goods and services: it is a form of social interaction made possible by money, which has been described as 'the most universal and most efficient system of mutual trust ever devised' . 7
+
+Finally, a digital euro would increase privacy in digital payments thanks to the involvement of the central bank, which - unlike private suppliers of payment services - has no commercial interests related to consumer data. Ensuring privacy is an essential element of modern democracies and part of our European values. Payments must also respect people's right to privacy in the digital era, and the design of a digital euro would have to respect this principle. This is a core aspect we will look at - indeed, we have already started exploring possible ways of enhancing privacy. 8
+
+At the same time, payments in a digital euro - just like any form of payment - would have to respect the rules on countering money laundering, the financing of terrorism and tax evasion. This would enable public authorities to combat any illegal activity more effectively.
+
+To summarise, the digital euro would still be a euro, only in digital form. It would both shape and promote the digitalisation of payments, while reducing the associated risks. This would in turn support the ongoing digitalisation and modernisation of the European economy. 9
+
+## Why might we need a digital euro?
+
+A digital euro would be critically important in a number of scenarios, which are analysed in our report.
+
+In particular, it would be needed in the event that citizens become reluctant to use cash as they go digital. This is not the situation we face today: cash is still the most common way of making retail payments in the euro area. However, its role as a payment instrument is diminishing - in some countries rapidly so - as consumers are increasingly paying electronically: as a proportion of all physical retail payments, cash payments decreased from 79% in 2016 to 73% in 2019. This trend has accelerated during the pandemic - with a vast majority of consumers expecting to continue using digital payments as often as they do now, or even to use them more often in the future. And because of this trend, we may see a further increase in the uptake of international card schemes and solutions such as payment wallets and apps developed by large technology firms. 10 11
+
+A digital euro would ensure that even in a situation where there is rapid digitalisation in the world of payments, sovereign money remains at the core of the European payment system. This would contribute to financial inclusion. It would also shield us from the risk that a private or public digital means of payment issued and controlled from outside the euro area could largely displace existing domestic means of payment. Such a development would raise regulatory and financial stability concerns and could even put Europe's monetary and financial sovereignty at risk.
+
+## How could a digital euro be introduced? Legal considerations and possible challenges
+
+A digital euro would raise legal, technological and policy questions that we need to address.
+
+Let me start with the legal basis. Today, only euro banknotes and coins are legal tender under EU primary law. This means they can be used to pay anywhere in the euro area. Therefore, a key issue discussed in the report is the importance for a digital euro to have legal tender status. Indeed, central bank money is a public good. Euro banknotes fulfil the core function of providing people with risk-free central bank money. It is crucial to ensure that, as a form of public money, a digital euro enjoys universal reach and acceptance, as the legal tender status provides. 12
+
+The introduction of a digital euro also raises technical challenges. Some are related to information technology and cyber risks, which will need to be managed effectively. Others are related to design choices. In this respect, we can leverage the experience gained in past projects that have put us at the frontier of payments. 13
+
+Finally, the design of a digital euro would have to be consistent with key policy objectives . In particular, its design should address the possibility that investors could rapidly move significant amounts of bank deposits into a digital euro, with potential adverse effects on the banking sector and financial stability. We are exploring design strategies to address this and other challenges, and we will assess them in depth. For instance, we could set the necessary incentives through the remuneration of digital euro holdings, to make sure the digital euro is an attractive means of payment, not a form of investment. 14
+
+## What next? Exploring design options, consulting the public and working together
+
+Our report also describes the design options we are considering. We will explore all aspects of different options: whether they are technically feasible, whether they comply with the principles and policy objectives of the Eurosystem, and whether they satisfy the needs of prospective users.
+
+But introducing a digital euro is more than a technical question. The value of money - in both physical and digital forms - is rooted in citizens' trust. Acceptance by the public is crucial. For this reason, today we are launching our public consultation. We are seeking feedback on the design and on the financial and social issues surrounding the possible introduction of a digital euro.
+
+We welcome everyone's views: citizens, merchants, the non-financial sector, professionals from the financial industry, technology companies, and academics. We encourage everyone to take part.
+
+After the public consultation and a period of preparatory work, the ECB's Governing Council will decide - towards the middle of 2021 - whether to initiate a fully-fledged project that should lead us to define the specific characteristics of a digital euro and get ready for a possible launch. This journey will require prudence and perseverance.
+
+## Conclusion
+
+Let me conclude. Since the introduction of the euro, the ECB has been responsible for preserving citizens' trust in our currency. Today, support for the single currency stands at record high levels. To be successful, a digital euro would also have to enjoy strong support from the public. It would be a digital symbol of progress and integration in Europe. And it would support the international role of the euro. 15
+
+Issuing a digital euro would be relevant for almost everything the ECB does. And it would affect our society as a whole. This is why we are seeking, through the public consultation we are launching today, an intense and open dialogue on our recent report with citizens and other stakeholders.
+
+Together with European institutions and authorities, in primis the European Parliament, we will
+
+discuss the framework that would be necessary to introduce a digital euro. As co-legislators and representatives of European citizens, you will have a fundamental role to play in the process. I therefore very much look forward to our first exchange today.
+
+- ECB (2020), Report on a digital euro , Frankfurt am M ain. 1
+- 'Sometime in the first millennium BC, coinage was invented probably in A sia M inor, and it rapidly spread throughout in the M editerranean area….Wherever Greeks settled coinage followed. In the span of hardly a century the innovation had become established around the A egean area, Sicily , southern Italy , southern France, Spain…. We know that by the end of the sixth century BC most of the city-states in the Greek world had their own coins…'. See M undell, R. (2002), 'The Birth of Coinage', Department of Economics Discussion Paper Series , No 0102-08, Columbia University, New York, February. 2
+- In ancient Rome, the first form of sovereign money (called 'A sse di Bronzo ' ) was introduced by the King Servius Tullius in the sixth century BC. See Forzoni, A . (2003), 'Le origini della moneta a Roma: la scelta del bronzo e il valore fiduciario dell'asse', in M ilano, L. and Parise, N. (eds.), 'I l regolamento degli scambi nell'antichità ', Laterza, Bari. The 'A sse di Bronzo' was a coin made in bronze weighing one 'libbra' (one pound). See De Bonis, R. and Vangelisti, M ., (2019), ' Moneta. Dai buoi di Omero ai Bitcoin ', Il M ulino, Bologna. 3
+- See Cipolla, C.M . (2001), ' Le avventure della lira ', Il M ulino, Bologna. 4
+- Marco Polo, Il M ilione, capitolo 95. 5
+- Public consultation on a digital euro. 6
+- Harari Y.N. (2014), 'Sapiens. A Brief History of Humankind', V intage Books, London, page 201. 7
+- Privacy-enhancing techniques and auditability are discussed in the fourth phase of Project Stella, see ECB and Bank of Japan (2020), 'Balancing confidentiality and auditability in a distributed ledger environment', Project Stella, February . Similarly , anony mity v ouchers are discussed in ECB (2019), 'Exploring anonymity in central bank digital currencies', In Focus , No 4, December. 8
+- Anderton, R., Jarvis, V ., Labhard, V ., M organ, J., Petroulakis, F . and V iv ian, L. (2020), ' V irtually ev ery where: digitalisation and the euro area and EU economies', Occasional Paper Series , No 244, ECB, Frankfurt am M ain, June. 9
+- ECB (2020), Study on the payment attitudes of consumers in the euro area (SPACE), forthcoming. 10
+- ECB (2020), Impact of the pandemic on cash trends (IM PA CT), forthcoming, 11
+- Legal tender status implies that acceptance of euro banknotes and coins for payments is mandatory (unless explicitly agreed otherwise, for example owing to a lack of change), legally recognised for repayment of a debt, and at face value, without additional fees (in contrast, for example, to credit cards, for which additional payment fees are allowed). See A rticle 128(1) of the Treaty on the Functioning of the European Union. 12
+- For example, TA RGET Instant Payment Settlement (TIPS), managed by the Eurosystem, allows European citiz ens to transfer funds in real time and around the clock, every single day of the year. In the design of a digital euro we will also look into the potential of distributed ledger technology. 13
+- See Bindseil, U. and Panetta, F ., (2020), 'Central bank digital currency remuneration in a world with low or negative nominal interest rates', VoxEU , October. 14
+- European Commission (2019), Standard Eurobarometer 92 , December. 15

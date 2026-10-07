@@ -4,7 +4,7 @@
 at horizons [145, 165] BD · unit `percent (U-3, current vintage)` · split public-dev
 
 Inputs mounted read-only: `/input/panels/macro_monthly.parquet` (rows only through
-the as-of date) and `/input/text/` (9 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (11 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,

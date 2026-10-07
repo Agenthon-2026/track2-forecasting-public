@@ -1,0 +1,68 @@
+Sabine Lautenschläger: A future-oriented approach to pan-European innovative retail payment solutions
+2019-05-06
+
+## Sabine Lautenschläger: A future-oriented approach to panEuropean innovative retail payment solutions
+
+Welcome address by Ms Sabine Lautenschläger, Member of the Executive Board of the European Central Bank, at the ECB conference "An innovative single market for the euro", Frankfurt am Main, 6 May 2019.
+
+* * *
+
+## Introduction
+
+Ladies and gentlemen,
+
+It is a great pleasure to welcome you here today to this conference on an innovative single market for the euro.
+
+It is a great pleasure to see so many of you here today, and I can see that we have quite a lot of new faces as well as many of the ECB's regular counterparts in the payments and securities world. I'm not surprised at the level of interest in this conference, since we are going to be discussing topics that deal with nothing less than the future of the European payments and securities market. We will discuss new technologies, new competitors and new payment solutions - and the need for stakeholders to adapt to the challenges ahead.
+
+Over the next two days, we will be discussing the interesting and important issue of how to create a viable, future-proof paym ent m arket for us and for our single currency - the euro .
+
+Having been born in 1999, the euro itself belongs to Generation Z, a group often characterised as digital natives. Unlike the rest of us, they didn't have to learn how to use technologies such as the internet and smartphones because they have never known anything different.
+
+Members of Generation Z often refer to themselves as innovative. Success in business now and in the future requires an understanding of the important role innovation plays for Generation Z and those that come after them.
+
+How does this translate into the world of payments? What are the expectations for innovative payments in Europe? What can we as a central bank do to facilitate payments innovation at a pan-European level? These are some of the questions that will be tackled at this conference.
+
+Our aim is to discuss and foster a joint understanding of the challenges ahead and the solutions to work towards. This is why we have brought together both our more established counterparts and new market actors from fintechs and start-up companies.
+
+Running in parallel to the conference - and fitting to the theme of innovation - we have organised the ECB instant payments challenge and a hackathon. The ECB instant payments challenge offers a vibrant marketplace for providers to present prototypes of their innovative end-user solutions for instant payments. At the hackathon, developers and experts have been invited to team up and create open source mobile solutions for SEPA instant credit transfers within the next 24 hours. The solutions emerging from both the instant payments challenge and the hackathon lab will be showcased at the conference and will no doubt provide further inspiration for our discussion.
+
+And I am pretty sure that our discussion will be a lively one. Before we get started, I would like to make some brief general remarks on the European payments market, the Eurosystem's market infrastructure as the basis for payments integration and innovation, and our vision for the development of pan-European instant payments solutions.
+
+## The basis for innovation: a sound market infrastructure
+
+A domestic European payments market - which is both integrated and innovative - is fundamental to the creation of a more integrated, competitive and innovative Europe. And in a world of increasing digitalisation and globalisation, such an integrated and competitive payments market can only be achieved by exploiting the potential offered by ever more sophisticated innovative technology . Both established and new market actors should be able to benefit from the innovative space created.
+
+The Eurosystem has contributed substantially to an integrated European financial market by providing the market infrastructure which enables the safe and efficient flow of payments and financial instruments across Europe. But the work is by no means complete. The European financial market faces digitalisation challenges from both the regulatory and the technical side. Let me give a few examples.
+
+- The revised Payment Services Directive (PSD2) was put in place to foster innovation and enhance competition in the retail payments market. Payment service providers have to accommodate enhanced security requirements and provide account access to third-party payment service providers.
+- On the technical side, the introduction of instant payments means that internal systems and procedures need to be overhauled so that retail payments can move from batch processing into the real-time universe.
+- The Eurosystem, too, has been looking for ways to make use of technical progress to improve the efficiency and lower the costs of its market infrastructure services - the TARGET services.
+
+Just think of the TARGET Instant Payment Settlement service, or TIPS.
+
+TIPS is a new Eurosystem market infrastructure service that was launched in November 2018. It is a truly domestic European market infrastructure settling in central bank money. TIPS enables banks to provide customers with instant payment solutions that can potentially reach recipients all across Europe.
+
+Another Eurosystem market infrastructure initiative is the upcoming introduction of central liquidity management within the new TARGET services, which will make the use of central bank money even more efficient for market participants.
+
+By enhancing a stable infrastructure and enabling pan-European harmonisation in the settlement of payments and securities, we supply a core component for the provision of innovative products and services at the domestic euro area level. And we also support the aims of the capital markets union.
+
+## Impetus for the development of standardised pan-European instant payment solutions
+
+With PSD2, the SEPA instant credit transfer scheme and TIPS, the retail payments market in Europe has the building blocks it needs to provide innovative pan-European payment services.
+
+However, adopting the instant credit transfer scheme and connecting to TIPS as a passive participant or reachable party so that customers may receive instant payments is just a preliminary step. It is also not enough just to provide the core SEPA instant credit transfer as a faster alternative to the SEPA credit transfer.
+
+Providers also need to tap into the potential of growing payment volumes, both at physical points of sale/points of interaction in shops and in e-commerce and they need to offer domestic pan-European solutions that are safe, efficient and easy to use .
+
+What we are seeing is that global providers are successfully tapping into this potential, using the pan-European SEPA schemes - or cards - as the basis for end-user solutions that appeal to customers. There is nothing wrong with that - as long as our regulatory requirements are respected and there is competition and diversity in the payments market.
+
+But will there be sufficient competition and diversity in the European payments market in the long run if we continue as we are doing now? What is the biggest challenge for payment service providers in Europe? Is it the harmonisation and integration measures introduced by central banks and regulators, or is it global competition?
+
+Might it not be more future-oriented to aim to deliver strong and resilient domestic European payment services in general and truly pan-European instant payment solutions in particular, rather than defending national legacies or creating new regional or group-specific solutions?
+
+## Conclusion
+
+The Eurosystem wholeheartedly supports the creation of an innovative single payments market for the euro through its market infrastructure projects and policy work. We invite actors in the payment service industry to work with us on a future-oriented approach to pan-European innovative retail payment solutions. This will enable us to safeguard a competitive and diversified payments market -for the benefit not only of Generation Z, but of all individuals and businesses making euro payments across Europe.
+
+I wish you a fruitful discussion and an enjoyable conference.

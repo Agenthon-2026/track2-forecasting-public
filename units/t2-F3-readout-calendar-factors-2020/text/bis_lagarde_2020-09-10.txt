@@ -1,0 +1,150 @@
+Christine Lagarde: Payments in a digital world
+2020-09-10
+
+## SPEECH
+
+## Payments in a digital world
+
+
+
+
+
+
+
+
+
+Speech by Christine Lagarde, President of the ECB, at the Deutsche Bundesbank online conference on banking and payments in the digital world
+
+Frankfurt am Main, 10 September 2020
+
+I'm honoured to be speaking this evening at the Deutsche Bundesbank's conference on banking and payments in the digital world.
+
+A little over a century ago, George Bernard Shaw said that 'Money is the counter that enables life to be lived socially; it is life as truly as sovereigns and banknotes are money'.
+
+So money facilitates transactions and relationships and is an expression of sovereignty. This is just as relevant in today's fast-moving world.
+
+In the digital age, innovation in payments enables us to interact in easier, faster and cheaper ways. But this innovation also comes in new forms - based on private payment systems or using digital currencies which create new risks and pose important questions of sovereignty.
+
+These issues go to the very heart of the ECB's mandate. They raise new questions about whether the ECB should drive initiatives to integrate retail payments in Europe, and even whether it should issue a digital euro.
+
+We have a duty to play an active role in balancing the risks and benefits of innovation in payments, so that money continues to serve Europeans well.
+
+Today I want to address two major trends that are shaping the global payments landscape: the first is changing consumer preferences and the second is competition to dominate payments on a global scale. And I will argue that we cannot afford to be bystanders to these trends - the Eurosystem must actively advance European initiatives to strengthen European payments.
+
+## 1. Two trends in global payments
+
+The first major trend is changing consumer preferences.
+
+The digital revolution is transforming our lives in fundamental ways. More than four in five Europeans regularly use the internet, up from one in five two decades ago. This has had a profound impact on how we communicate, how we spend and how we work.
+
+The coronavirus (COVID-19) pandemic has accelerated this trend towards digitalisation. E-commerce, which has grown steadily in recent years, increased by almost a fifth in terms of volume of sales between February and June 2020, while in-store sales declined. [1]
+
+As our lives have suddenly gone digital, so have our payments: there has been a surge in online payments and a shift towards contactless payments in shops. [2]
+
+So it is natural for people to expect and embrace changes in the way they pay. According to the ECB's new payments survey, [3]
+
+cash remains the most common way of making small retail payments, with cash payments accounting for 73% of all physical retail payments in 2019. But almost half of consumers said they prefer to pay digitally, and this has increased further during the pandemic.
+
+This trend is unlikely to be reversed once the pandemic is over. A survey conducted by a consulting firm in 17 European countries shows that a vast majority of consumers expect to continue to use digital services as often as they do now or even more often. [4] In other words, the pandemic has served as a catalyst, accelerating the transition towards a digital new normal.
+
+The second major trend is the competition to dominate payments on a global scale.
+
+Payments are subject to strong network effects: the more users a payment system has, the more attractive it becomes to new users. Scale matters - this limits the field and inevitably leads to just a few service providers dominating the payments market.
+
+Europe has fallen behind in this competition. The lack of payments integration in Europe means that foreign providers have taken the lead. This is not necessarily a concern, as long as foreign firms are accountable and subject to appropriate regulation and oversight, in accordance with the principle of same business, same risk, same regulation. But the evolving global context and rapid technological progress are changing the nature of the risks that we are exposed to.
+
+We are seeing an increase in protectionist policies, as sanctions and even exclusion from payment systems in recent years have shown. This presents new risks of payment disruption - especially for jurisdictions that are overdependent on dominant system providers.
+
+Europe had a taste of the potential risks in the summer of 2018: outages at international card providers left millions of Europeans temporarily unable to pay for goods and services. [5]
+
+European payments are also being affected by technology firms driving the digital transformation of global payments. These firms' well-established user networks give them a unique advantage in the payments industry. More than a quarter of the world's population are active users of Facebook, which could give its Libra project a global footprint from the outset. And it is not unlikely that other large technology firms enter the playing field, too.
+
+This has great potential to drive competition, improve payment solutions and support financial inclusion. But it could also magnify a host of issues, ranging from abuse of market power to ownership of critical data. It could also make it more difficult to combat illicit activities and ensure operational resilience. [6]
+
+And more importantly - but so far unlikely - if the bulk of payments are made using digital wallets rather than bank deposits and are denominated in private digital currency with weak links to sovereign currency, monetary sovereignty could be weakened. In a digital world, consumers must have the possibility to pay with sovereign money.
+
+In China, for example, within a decade payments have shifted from cash to mobile payments, which are controlled by two large private technology firms. [7]
+
+The planned introduction of a public digital currency can be seen as a means of managing the risks of this digital transition, in order to maintain trust in payments.
+
+State backing is essential for there to be trust in payments and money. Money held in bank deposits can be seen as a form of private digital currency, but it is widely used because people trust that they can readily convert their deposits into central bank money. In the euro area, these deposits are also insured by guarantee schemes up to an amount of €100,000, effectively making them public money.
+
+Private digital currencies would not necessarily allow the same kind of convertibility and are unlikely to have the same state backing. Without a monetary and regulatory anchor, the stability of payment systems would essentially depend on the safety of private money issuers.
+
+People are clearly aware of these risks. A recent survey by the Official Monetary and Financial Institutions Forum shows that central banks enjoy a higher level of trust than commercial banks, credit card companies and technology firms, including as potential issuers of digital currency. [8]
+
+## 2. Initiatives to strengthen European payments
+
+So what are the implications for European payments?
+
+First, we must ensure that how we pay, and the systems that support our payments, continue to modernise along with the people who use them - European consumers, in other words. Here at the ECB, it is our duty to ensure that people have access to riskless, low-cost means of payment, as well as state-of-the-art payment services that reflect our changing economy.
+
+And second, given our size and influence, in Europe we have a responsibility to ensure that our citizens have choice and cannot be excluded from the payments ecosystem due to the unilateral actions of others. We need to ensure that European payments are fit for a global digital economy so that, in the face of changing risks, we can preserve the autonomy of European payments.
+
+The Eurosystem has already reacted to technological change by launching innovative back-end payment solutions with a pan-European reach, such as the TARGET Instant Payment Settlement (TIPS) service. But we know that the private sector, by contrast, has made far less progress on delivering a pan-European solution for retail payments.
+
+Ten European countries still have domestic card schemes that do not accept cards from other Member States, despite major efforts to integrate payment networks in Europe. And only a fraction of the more than 230 innovative fintech solutions available last year were useable for all of the most common daily transactions - online, in shops and peer to peer. [9]
+
+So the Eurosystem has set out its priorities, which are reflected in its retail payments strategy. [10] It offers a conceptual vision for engaging the private sector to fill the gaps in our payments ecosystem in ways that promote financial inclusion and cohesion within Europe. The new European Payments Initiative launched by 16 European banks is an important part of this.
+
+This initiative aims to offer a pan-European payment solution that is secure, cheap and widely accepted. It will leverage the ultra-fast TIPS infrastructure, which allows to settle payments in real time, at any time of day, on every day of the year. It also offers advantages from the perspective of European autonomy - as a complement to international card providers, it increases our resilience.
+
+But alongside private sector solutions, central banks must anticipate change. They not only need to look closely at the benefits that digital innovations can bring, they also need to examine the significant risks they pose and be prepared to innovate themselves. This is the starting point for the discussion on whether the Eurosystem needs to introduce a digital euro.
+
+Introducing a digital euro would allow the Eurosystem to be at the cutting edge of innovation. In theory a central bank digital currency (CBDC) can be designed for wholesale or general-purpose use. Digital wholesale money is not new, as banks have been able to access central bank money for decades. But new technology can be used to make settling financial transactions more efficient. It also opens the possibility of a retail CBDC, which would be very innovative in that it would be accessible to a wide audience. Introducing a digital euro for use in retail payments involves three considerations.
+
+The first is maintaining access to central bank money. The Eurosystem will continue to ensure that all citizens have access to banknotes at all times. A digital euro, in any event, would be a complement to, not a substitute for cash. Together they would support financial inclusion and offer a choice to consumers. This is in line with our policy of respecting consumer preferences when it comes to means of payment.
+
+While helping to address the consequences of a decline in the use of cash, a digital euro would also ensure that sovereign money remains at the core of European payment systems. And it would support innovation by providing an alternative to private forms of money for fast and efficient payments in Europe and beyond.
+
+The second consideration for introducing a digital euro is that it could create risks that need to be carefully assessed. If significant amounts of bank deposits move into a digital euro, that may fundamentally change the role played by the banking sector in financing the economy, which would have implications for how we at the ECB implement monetary policy and support financial stability. We need to ensure that a digital euro, in the event that it is introduced, is designed in a way that contains these risks.
+
+The third consideration is that a digital euro would need to be designed to meet the public's demand for digital payments, without discouraging or crowding out private payment solutions. It would have to embrace the respective strengths of both the Eurosystem and the private sector to ensure that the payments landscape remains competitive and innovative.
+
+The Eurosystem has so far not made a decision on whether to introduce a digital euro. But, like many other central banks around the world, we are exploring the benefits, risks and operational challenges of doing so. The findings of a Eurosystem taskforce are expected to be presented to the public in the coming weeks, followed by the launch of a public consultation.
+
+These efforts form part of our readiness to face the ongoing digital transformation in retail payments, which does not necessarily follow a linear path.
+
+As Rudi Dornbusch cautioned, 'in economics, things take longer to happen than you think they will, and then they happen faster than you thought they could.'
+
+Central banks can and should, within their mandates, be agents of change and fulfil their responsibilities towards citizens.
+
+[1] See Eurostat (2020), ' Impact of Covid-19 crisis on retail trade', September. 
+
+[2]  ERPB response to the current COVID-19 pandemic', June.
+
+[3] Study on the payment attitudes of consumers in the euro area (SPACE), forthcoming, November 2020.
+
+[4] See Fernandez, S., Jenkins, P. and Vieira, B. (2020), 'Europe's digital migration during COVID-19: Getting past the broad trends and averages', McKinsey Digital , July. 
+
+[5] See European Systemic Risk Board (2020), '  Systemic cyber risk', February.
+
+[6] See G7 Working Group on Stablecoins (2019), '  Investigating the impact of global stablecoins', October.
+
+[7] See Auer, R., Cornelli, G. and Frost, J. (2020), '  Rise of the central bank digital currencies: drivers, approaches and technologies', BIS Working Papers , No 880, Bank for International Settlements, August.
+
+[8] See Official Monetary and Financial Institutions Forum (2020), '  Digital Currencies: A question of trust'.
+
+[9]
+
+
+
+See ECB (2019), 'Implications of digitalisation in retail payments for the Eurosystem's catalyst role', July.
+
+[10] The Eurosystem has identified five key objectives for its pan-European retail payment strategy: full pan-European reach and unified customer experience; convenience and cost efficiency; safety and security; European identity and governance; and, in the long run, global acceptance.
+
+## European Central Bank
+
+Directorate General Communications
+
+Sonnemannstrasse 20, 60314 Frankfurt am Main, Germany
+
+Tel.: +49 69 1344 7455, email: media@ecb.europa.eu
+
+Website: www.ecb.europa.eu
+
+Reproduction is permitted provided that the source is acknowledged.
+
+## Media contacts 
+
+Copyright 2020, European Central Bank

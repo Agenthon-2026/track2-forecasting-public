@@ -1,0 +1,94 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2023/k230616a.htm | date: 2023-06-16 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 16 June 2023
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following.
+
+(1) Yield curve control (a unanimous vote)
+
+a) The Bank decided to set the following guideline for market operations for the intermeeting period.
+
+The short-term policy interest rate:
+
+The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate:
+
+The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent.
+
+b) Conduct of yield curve control
+
+The Bank will continue to allow 10-year JGB yields to fluctuate in the range of around plus and minus 0.5 percentage points from the target level, and will offer to purchase 10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations, unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations.
+
+(2) Guidelines for asset purchases (a unanimous vote)
+
+With regard to asset purchases other than JGB purchases, the Bank decided to set the following guidelines.
+
+a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding.
+
+b) The Bank will maintain the amount outstanding of CP at about 2 trillion yen. It will purchase corporate bonds at about the same pace as prior to the COVID-19 pandemic, so that their amount outstanding will gradually return to the pre-pandemic level of about 3 trillion yen. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions.
+
+2. Japan's economy has picked up, despite being affected by factors such as past high commodity prices. The pace of recovery in overseas economies has slowed. Although exports and industrial production have been affected by the developments in overseas economies, they have been more or less flat, supported by a waning of the effects of supply-side constraints. With corporate profits being at high levels on the whole, business fixed investment has increased moderately. The employment and income situation has improved moderately. Private consumption has increased moderately, despite being affected by price rises. Housing investment has been relatively weak. Public investment has increased moderately. Financial conditions have been accommodative on the whole, although weakness in firms' financial positions has remained in some segments. On the price front, the year-on-year rate of increase in the consumer price index (CPI, all items less fresh food) is slower than a while ago, mainly due to the effects of pushing down energy prices from the government's economic measures, but it has been at around 3.5 percent recently owing to the effects of a pass-through to consumer prices of cost increases led by a rise in import prices. Inflation expectations have been more or less unchanged recently after rising.
+
+3. Japan's economy is likely to recover moderately toward around the middle of fiscal 2023, supported by factors such as the materialization of pent-up demand, although it is expected to be under downward pressure stemming from past high commodity prices and a slowdown in the pace of recovery in overseas economies. Thereafter, as a virtuous cycle from income to spending gradually intensifies, Japan's economy is projected to continue growing at a pace above its potential growth rate. That said, the pace of growth is highly likely to decelerate gradually. The year-on-year rate of increase in the CPI (all items less fresh food) is likely to decelerate toward the middle of fiscal 2023, with a waning of the effects of the pass-through to consumer prices of cost increases led by the rise in import prices. Thereafter, the rate of increase is projected to accelerate again moderately, albeit with fluctuations, as the output gap improves and as medium- to long-term inflation expectations and wage growth rise, accompanied by changes in factors such as firms' price- and wage-setting behavior.
+
+4. Concerning risks to the outlook, there are extremely high uncertainties for Japan's economy, including developments in overseas economic activity and prices as well as developments in the situation surrounding Ukraine and in commodity prices. Under these circumstances, it is necessary to pay due attention to developments in financial and foreign exchange markets and their impact on Japan's economic activity and prices.
+
+5. With extremely high uncertainties surrounding economies and financial markets at home and abroad, the Bank will patiently continue with monetary easing while nimbly responding to developments in economic activity and prices as well as financial conditions. By doing so, it will aim to achieve the price stability target of 2 percent in a sustainable and stable manner, accompanied by wage increases.
+
+The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed CPI (all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. The Bank will continue to maintain the stability of financing, mainly of firms, and financial markets, and will not hesitate to take additional easing measures if necessary.
+
+(Reference)
+
+Meeting hours:
+
+Thursday, June 15: 14:00-16:03
+
+Friday, June 16: 9:00-11:40
+
+Policy Board members present:
+
+UEDA Kazuo, Chairman (Governor)
+
+HIMINO Ryozo (Deputy Governor)
+
+UCHIDA Shinichi (Deputy Governor)
+
+ADACHI Seiji
+
+NAKAMURA Toyoaki
+
+NOGUCHI Asahi
+
+NAKAGAWA Junko
+
+TAKATA Hajime
+
+TAMURA Naoki
+
+[Others present]
+
+June 15
+
+From the Ministry of Finance:
+OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination (14:00-16:03)
+
+From the Cabinet Office:
+MORO Kengo, Deputy Director General for Economic and Fiscal Management(14:00-16:03)
+
+June 16
+
+From the Ministry of Finance:
+AKINO Kozo, State Minister of Finance (9:00-11:27, 11:33-11:40)
+
+From the Cabinet Office:
+FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:27, 11:33-11:40)
+
+Release dates and times:
+
+Statement on Monetary Policy -- Friday, June 16 at 11:47
+
+Summary of Opinions -- Monday, June 26 at 8:50
+
+Minutes of the Monetary Policy Meeting -- Wednesday, August 2 at 8:50

@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-guidance-shift-2024"]
 expert_time_estimate_min = 45.0
@@ -20,7 +19,7 @@ horizons         = [126, 189]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "daily"
-description      = "UST 2Y After a Cut Paired with Shallower Rate-Path Guidance (126/189 BD). As-of 2024-12-18; targets UST_2Y at horizons [126, 189] BD. Dot-plot language shift: the text argues fewer cuts than the easing narrative assumed."
+description      = "UST 2Y After a Cut Paired with Shallower Rate-Path Guidance (126/189 BD). As-of 2024-12-18; targets UST_2Y at horizons [126, 189] BD. Dot-plot and statement-language changes at the as-of meeting."
 created_by       = "Ruolan Sun (catalog t2c-F1-guidance-shift-2024)"
 created_date     = "2026-07-03"
 
@@ -71,13 +70,13 @@ end_date   = "2024-12-18"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BLS/BEA news release; Federal Reserve"
+source         = "BLS/BEA news release; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2024-12-18"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 5
-notes          = "As-of the December 2024 meeting: a 25bp cut delivered together with a dot plot cut from four 2025 cuts to two and new 'extent and timing' caution. November minutes (released 2024-11-26) already flag upside inflation risk and tariff-platform uncertainty. The 2Y must weigh a shallower cut path against tariff-cycle growth risk."
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 8
+notes          = "As-of the December 2024 meeting: a 25bp cut, a revised dot plot for 2025 and new 'extent and timing' language in the statement. The November minutes (released 2024-11-26) discuss inflation risks, and the Beige Book released 2024-12-04 records tariff uncertainty. The documents bear on the 2025 policy path and on tariff-cycle growth risk."
 
 [targets]
 asset_ids        = ["UST_2Y"]

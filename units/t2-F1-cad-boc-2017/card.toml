@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f1", "t2c-F1-cad-boc-2017"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2017-07-12"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches (full archive); BLS/BEA news release; Federal Reserve"
+source         = "BIS central bankers' speeches (full archive); BLS/BEA news release; Federal Reserve; Bank of Canada"
 path           = "text/"
 cutoff         = "2017-07-12"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "macro_release"]
+n_documents    = 10
 notes          = "Deputy-governor remarks in June 2017 telegraph that the 2015 insurance cuts 'have done their job'; the July hike lands at the as-of. With the turn delivered and telegraphed, the six-month question is follow-through pace versus oil and NAFTA noise."
 
 [targets]

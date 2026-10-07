@@ -11,6 +11,20 @@
       "file": "cpi_2022-11-10.txt"
     },
     {
+      "doc_id": "bis_bowman_2023-03-14",
+      "timestamp": "2023-03-14",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2023-03-14.txt"
+    },
+    {
+      "doc_id": "bis_waller_2023-04-20",
+      "timestamp": "2023-04-20",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_waller_2023-04-20.txt"
+    },
+    {
       "doc_id": "beige_book-2023-05-31",
       "timestamp": "2023-05-31",
       "source": "Federal Reserve (Beige Book)",

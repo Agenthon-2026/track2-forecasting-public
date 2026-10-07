@@ -1,0 +1,62 @@
+Yves Mersch: Loan-level data transparency - achievements and future prospects
+2017-07-04
+
+## Yves Mersch: Loan-level data transparency - achievements and future prospects
+
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at the 5th Anniversary European Data Warehouse, Frankfurt, 4 July 2017.
+
+* * *
+
+Ladies and Gentlemen,
+
+It is a good time to reminisce on the importance of the ABS loan-level data initiative and the achievements over these five years. I will also take the occasion to talk about the challenges and opportunities that lie ahead of us.
+
+## Achievements to date with loan-level data
+
+Transparency requirements for ABS products are especially important most notably because ABS can have more complex risk characteristics than other assets. For example, a more diverse set of underlying assets can be included in the collateral pool compared with other instruments. The recent financial crises clearly illustrated the complexity and the lack of transparency of some ABS. By promoting the loan-level data initiative, the ECB has made a significant effort to ensure a high degree of transparency in European ABS. Indeed, there were three reasons why the ECB saw and still sees ABS transparency as a field deserving specific attention .
+
+First, the financial crisis and its ramifications threatened the provision of funds to the real economy. Hence, ABS helped as a tool to spread risk across different financial actors and to avoid a major liquidity disruption for Euro area banks during the years following the crisis. Simple and transparent ABS can have a more decisive role to help banks to fulfil their purpose in providing necessary funding to the real economy. Transparency is key for a better functioning securitisation market in the EU.
+
+Second, the Eurosystem itself had and still has a large exposure to ABS. ABS are key components of the collateral framework of the Eurosystem and the Eurosystem purchased significant amount of ABS in the ABSPP. The peak was reached in 2010 with EUR 500 billion of ABS pledged as collateral, amounting to 25% of the total pledged collateral for Eurosystem operations at that time. ABS still form close to 20% of the total pledged collateral for Eurosystem operations nowadays and in addition 24 bn EUR were purchased by the Eurosystem outright as part of the Extended Asset Purchase Programme. If a counterparty who had pledged ABS as collateral were to default on its obligations, the Eurosystem would gain ownership of the ABS collateral and would then seek to liquidate it in secondary markets without incurring a loss. It is therefore pivotal that ABS remain a safe and transparent asset class traded in well-functioning, liquid markets. Prior to the loan-level initiative, however, there was insufficient transparency in order to assess the risk profile of the ABS.
+
+Third, there was a coordination problem among ABS market participants in 2012. Although many acknowledged the need for enhanced transparency in the ABS market, there was no market infrastructure that could have been supplied by individual actors. A bundling of efforts was needed and a catalyst role of the ECB was called for in an exceptional situation where market participants did not provide the market infrastructure. Such a situation is exceptional, but not unprecedented, as we see if for example in the field of benchmarks or market agreements.
+
+So these are the three main reasons why the ECB prioritised ABS transparency. Let me add, however, that the ECB does not believe that ABS should warrant special treatment where it is not justified from a theoretical, empirical and practical perspective. The ECB is interested in ABS
+
+insofar as they can help us achieve our policy objectives in compliance with our legal obligations, while ensuring risk equivalence in our collateral framework.
+
+Having said that, the ECB will also - in the not too distant future - have to review the specific role of ABS in the context of the broader issue of QE beyond 2017.
+
+As regards its achievements, the loan-level initiative set an example of swift and convincing action to show that European ABS were, broadly-speaking, less risky than feared. And this was done in spite of the many technical difficulties of establishing common templates covering EUR 1 trillion of assets from many different jurisdictions and asset classes. A set of common templates were established which are easily accessible to market participants. Today loan level data is widely used by market participants and we can be confident that the initiative improved the transparency on ABS.
+
+Yet, it is no secret that the revival of the European ABS market is, broadly speaking, still anaemic at the moment. Market-placed issuance is at historic lows. The investor base has not recovered. The EU ABS markets are impacted by bank deleveraging, unfavourable regulatory treatment and relative costs of funding of alternative instruments. Admittedly, the sizeable Eurosystem covered bond purchase programme and long term loan operations have also represented viable funding alternatives for banks.
+
+Thus, the extended timeframe in creating legal certainty through forthcoming regulation on securitisation, the 'STS Regulation' has been regrettable. The ECB expressed early support for the concept of simple, transparent and standardised securitisations. Happily, the compromise text was just published last week following the trialogue procedure between the European Commission, Council and Parliament. However, the regulation will probably come into force only in 2019 while various important technical standards still need to be prepared in the months before that deadline.
+
+The loan-level data initiative had an important contribution in the discussion on simple, transparent and standardised, or 'STS' securitisations. It provides high quality information which allows for informed credit risk assessments of ABS, either on the basis of the individual underlying loans, or on the basis of the aggregated summary information. The platform enabled financial actors as well as policymakers to better assess and understand the embedded risks in securitised portfolios.
+
+The final compromise version of the STS Regulation published last week is significant in many ways. In particular, it creates for the first time a system of registration and supervision for ABS data repositories established in the EU. 'Securitisation repositories' as they are called, will be subject to the same ongoing governance, technical and operational requirements as trade repositories under the EMIR framework. They will be expected to store not just loan-level data, but also all other documentation which the Regulation requires originators, sponsors and issuers to disclose under its transparency rules..
+
+The repositories will be registered, authorised and supervised by ESMA, which will also have the same range of supervisory tools and sanctioning powers as it already exercising in relation to trade repositories under the EMIR framework. ESMA will be tasked with developing Regulatory Technical Standards on the requirements for securitisation depositories in the coming 18 months. It will be of particular importance for ESMA to avoid creating different reporting standards. It is positive that the compromise text already acknowledges existing standards and that they should 'reflect as closely as possible existing templates for disclosures'. The valuable and pioneering experience gained in the European DataWarehouse is a natural starting point for ESMA in this regard.
+
+Finally, the compromise text includes a requirement for securitisation repositories to provide direct and immediate access free of charge to a long list of entities, including ESMA and
+
+members of the European System of Central Banks, including the SSM as well as all current and potential investors in ABSs reported to the repository. These changes will create a new landscape, from a regulatory, commercial and competitive perspective, for securitisation repositories in years to come.
+
+While the ECB welcomes the finalisation of the trilogue, there are some aspects of the STS Regulation for which the ECB has concerns. For example, providing a role in the legislation for third parties in the STS certification process introduces moral hazard for investors as investor would have fewer incentives to undertake independent due diligence. Additionally, it would increase complexity and burden public resources, given the need to supervise such third parties separately. In addition, the compromise text no longer requires originators and sponsors to disclose the actual transaction contracts. Instead this transparency enhancement has been weakened so a summary of the relevant documentation will also be accepted. This is a weaker requirement than the current provisions of Article 8b of the Credit Rating Agencies Regulation. These and other aspects will need to continue to be assessed as the Regulatory T echnical Standards become available in the coming months.
+
+## A new frontier for EU-wide transparency: NPL register
+
+Looking ahead, a new frontier for having more transparency in the form of loan-level data could emerge. As mentioned by market participants and policy makers, one of the key challenges for the non-performing loans (NPLs) market is the lack of standardised access to high quality data on NPLs. They pointed out that one possibility to address the large stock of non-performing loans (NPLs) could be to create an EU wide template and reporting system for such loans, alongside minimum standards for transparency.
+
+Currently, there is no functioning NPL market. Although there are many banks in the EU who would like to sell these assets, the investor base is only developing, while there are certainly buyers who would be interested to acquire these assets, at the right price.
+
+Efforts to enhance the transparency and standardisation of NPLs could foster the creation of a NPL market. But we have to be mindful not to stigmatize lenders unduly and respect confidentiality appropriately.
+
+## Conclusion
+
+Let me conclude.
+
+The Eurosystem ABS loan-level Initiative has made an important contribution in ensuring a high degree of transparency to enable investors to assess the embedded risks of securitisations. At the same time, a number of barriers are yet to overcome to foster the revitalisation of European ABS markets. Much work is already on-going on this topic, but many important technical standards still need to be finalised. Loan-level data had an important contribution in the discussions on simple, transparent and standardised securitisations. The STS Regulation, could make an important contribution.
+
+Moreover, there is potential for developing common loan-level templates for NPLs, which will then also help another corner of EU financial markets.

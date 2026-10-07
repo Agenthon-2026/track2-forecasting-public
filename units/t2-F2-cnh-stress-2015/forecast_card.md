@@ -5,7 +5,7 @@ at horizons [64] BD · unit `cny_per_usd` · split public-dev
 
 **Target basis.** The target's own series is given only as an early window (1995-07-31..2005-07-29) plus its level on the as-of date (CNY = 6.2097, unit `cny_per_usd`). The decade in between is withheld deliberately: enough to see what kind of series this is, not enough to extrapolate where it has been heading. Do not difference across the gap, and do not read the early window as a width calibration -- these episodes are volatility regime breaks, which is what the corpus is for.
 
-Inputs mounted read-only: `/input/panels/` (`g10_fx_daily.parquet`, rows only through the as-of date, and `em_transfer_early.parquet`, the target basis described above) and `/input/text/` (12 dated documents, all timestamps <= as-of;
+Inputs mounted read-only: `/input/panels/` (`g10_fx_daily.parquet`, rows only through the as-of date, and `em_transfer_early.parquet`, the target basis described above) and `/input/text/` (15 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,

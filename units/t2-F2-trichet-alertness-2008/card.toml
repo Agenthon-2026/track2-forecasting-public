@@ -4,15 +4,14 @@ schema_version = "2.0"
 [task]
 id    = "t2-F2-trichet-alertness-2008"
 track = "forecasting"
-title = "EUR/USD After a Hawkish Signal at a Possible Cycle Peak (64 BD)"
+title = "EUR/USD After the June 2008 ECB Signal (64 BD)"
 split = "validation"
 
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
-tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-eur-cycle-peak-2008"]
+tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-eur-ecb-signal-2008"]
 expert_time_estimate_min = 45.0
 junior_time_estimate_min = 120.0
 asset_panel      = "g10_fx_daily"
@@ -20,7 +19,7 @@ horizons         = [64]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "daily"
-description      = "EUR/USD After a Hawkish Signal at a Possible Cycle Peak (64 BD). As-of 2008-06-30; targets EUR at horizons [64] BD. Hawkish text at a possible cycle peak: rate-differential branch vs policy-error branch."
+description      = "EUR/USD After the June 2008 ECB Signal (64 BD). As-of 2008-06-30; targets EUR at horizons [64] BD. Policy text on headline inflation against growth and credit commentary."
 created_by       = "Ruolan Sun (catalog t2c-F2-trichet-alertness-2008)"
 created_date     = "2026-07-03"
 
@@ -71,12 +70,12 @@ end_date   = "2008-06-30"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "ECB (all_ECB_speeches.csv); Federal Reserve"
+source         = "ECB (all_ECB_speeches.csv); Federal Reserve; European Central Bank; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2008-06-30"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 12
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement", "landmark"]
+n_documents    = 16
 notes          = "June 2008 policy communication signals imminent tightening on headline inflation while growth and credit commentary deteriorates in the same corpus. Two branches compete ex-ante: the rate-differential reading (euro-supportive) and the policy-error/cycle-turn reading (euro-negative). Weigh both; neither text should be taken at face value."
 
 [targets]

@@ -32,9 +32,9 @@ Lower is better.
 On a **single-cell** card — one asset at one horizon — the joint variogram is 0 by
 construction, because there is no second number for it to relate yours to. Its weight is
 therefore redistributed over the terms that exist: **S = 0.714 × marginal CRPS + 0.286 × tail
-penalty**. This keeps a text-blind baseline at 1.0 on both card shapes; without it a
-single-cell card could not reach the same range as a multi-cell one however good the
-forecast.
+penalty**. This keeps a normalized score of 1.0 meaning the same thing on both card shapes (an
+error equal to the error the text-blind baseline expects of itself); without it a single-cell
+card could not reach the same range as a multi-cell one however good the forecast.
 
 ---
 
@@ -180,14 +180,14 @@ source.
 
 In F2, the text provides **pivotal leading-indicator signals**. Examples:
 
-- An FOMC press conference transcript from three months before a hiking cycle begins,
-  where the chair uses words like "expedient" and "resolve" that historically precede
-  aggressive tightening. A text-blind model sees flat rates in the panel. The reasoning
-  agent reads the text and front-runs the shift.
-- A Bank of England MPC statement noting "uncomfortably high inflation" ahead of a
-  cable (GBP/USD) shock. The FX panel looks calm; the text is the canary.
-- An ECB speech mentioning "fragmentation risk" — historically a precursor to spread
-  widening in peripheral European rates.
+- An FOMC press conference transcript whose wording on the pace of policy changes while the
+  panel still shows flat rates. A text-blind model sees only the flat rates; the reasoning agent
+  weighs what the text says about the policy path.
+- A Bank of England MPC statement noting "uncomfortably high inflation" while the cable
+  (GBP/USD) panel looks calm. A text-blind model sees only the calm panel; the reasoning agent
+  weighs what the statement implies for the currency.
+- An ECB speech mentioning "fragmentation risk" while peripheral spreads in the panel are still
+  narrow; the reasoning agent weighs what the speech implies for them.
 
 A text-blind baseline cannot use any of these signals. This is where a controlled text
 ablation should show the largest effect.
@@ -222,7 +222,7 @@ with a seen anchor). But for multi-asset regime-shift cards, joint behavior matt
 ### An example forecast card
 
 ```
-Card ID:   t2-F2-gbp-boe-shock-2022Q3
+Card ID:   t2-F2-gbp-boe-2022Q3
 Family:    T2-F2
 Panel:     fx/g10-daily (10 G10 currencies, 2000-01-03 to 2022-08-01)
 Text:      text/  (Bank of England MPC statements, governor speeches,
@@ -233,10 +233,9 @@ Output:    forecast.parquet [draw, asset, horizon, value]
 Score:     CRPS composite; tail penalty is secondary differentiator
 ```
 
-A reasoning agent that reads the Bank of England's August 2022 language carefully might
-produce a wider, left-skewed distribution for GBP/USD — anticipating the September
-mini-budget shock that sent cable to approximately 1.03. A text-blind model extrapolating
-from 1.20 would score very poorly on tail calibration.
+A reasoning agent that reads the Bank of England's August 2022 language carefully can set the
+width and skew of its GBP/USD distribution from that text; a text-blind model extrapolating from
+the trailing panel near 1.20 cannot. The card scores which distribution was better calibrated.
 
 ### Common mistakes in F2
 
@@ -390,14 +389,13 @@ shock demands.
 In F4, the text provides the **shock foreshadowing signal**. Examples:
 
 - FOMC minutes from October 2021 using the word "expedient" in the context of tapering,
-  months before the 2022 hiking cycle — the panel still shows rates near zero. A text-blind
-  model says "rates will stay near zero." A reasoning agent says "the Fed is telegraphing
-  urgency — widen the right tail dramatically."
+  while the panel still shows rates near zero. A text-blind model extrapolates the panel; a
+  reasoning agent weighs what the minutes say about the pace of policy.
 - A UK CPI release commentary (August 2022) noting "inflation well above target with no
-  near-term relief" — months before the mini-budget GBP crash. The panel shows GBP/USD
-  near 1.20. The text warns of tail risk.
-- An FOMC Jackson Hole speech (August 2022) where Powell uses the phrase "forceful and rapid"
-  — directly foreshadowing the fastest hiking cycle in decades. Text-blind models miss this.
+  near-term relief", while the panel shows GBP/USD near 1.20. The text bears on how wide the
+  tails should be.
+- An FOMC Jackson Hole speech (August 2022) where Powell uses the phrase "forceful and rapid".
+  A text-blind model does not read it.
 
 ### Which score component is stressed and why
 
@@ -427,8 +425,8 @@ the draw distribution accordingly." Use at least 1,000 draws for F4 cards.
 ### As-of date and leakage rules
 
 - The as-of date must precede the shock event by at least the forecast horizon.
-  For a 63-BD (approximately 3-month) card targeting the Q1 2022 rate shock, the as-of date
-  must be no later than approximately 2021-10-01.
+  For a 63-BD (approximately 3-month) card whose window covers Q1 2022, the as-of date must be
+  no later than approximately 2021-10-01.
 - The text corpus contains only documents with timestamps <= as-of date. The shock-foreshadowing
   text is in the pre-asof corpus. The staging gates reject any corpus document dated after the asof before the unit ships.
 - No post-event data may appear in the input panel. This includes Fed funds futures, swap
@@ -440,23 +438,22 @@ the draw distribution accordingly." Use at least 1,000 draws for F4 cards.
 ### An example forecast card
 
 ```
-Card ID:   t2-F4-ust-hike-cycle-2021Q4
+Card ID:   t2-F4-ust-fomc-2021Q4
 Family:    T2-F4
 Panel:     rates/ust-daily (DGS2, DGS10, 2000-01-03 to 2021-10-01)
 Text:      text/  (FOMC September 2021 statement, Jackson Hole August 2021 speech,
                    CPI commentary September 2021, all dated <= 2021-10-01)
 As-of:     2021-10-01
 Targets:   UST_2Y, UST_10Y at horizons 63 BD (approx. Jan 2022) and 126 BD (approx. Apr 2022)
-           The held-out window spans the onset of the 2022 Fed tightening cycle.
+           The held-out window covers January to April 2022.
 Output:    forecast.parquet [draw, asset, horizon, value]
            n_draws >= 200 (strongly recommend >= 1000 for tail quantile accuracy)
 Score:     CRPS composite; tail penalty (20 %) is the primary differentiator
 ```
 
-What good draws look like: a wide, right-skewed distribution — some draws near historical
-levels (0.3-0.5%), but a meaningful fraction reaching 2-4%+ (the actual outcome). The
-agent that read the September 2021 FOMC language and the August Jackson Hole speech should
-have skewed its distribution rightward even with rates near zero in the panel.
+What good draws look like: a distribution whose width and skew come from what the September
+2021 FOMC language and the August Jackson Hole speech say, not only from the near-zero rates in
+the panel.
 
 ### Common mistakes in F4
 
@@ -498,9 +495,9 @@ have skewed its distribution rightward even with rates near zero in the panel.
 
 The sealed evaluation set draws cards from all four families. Your position is the
 equal-weight mean of your composite scores across every card, lower is better — single-cell
-and multi-cell alike, because the weight redistribution above puts the text-blind baseline at
-1.0 on both shapes. Every card counts equally, and a card you do not score takes the
-pre-committed worst-case value (4.0) rather than dropping out of the average. This means:
+and multi-cell alike, because the weight redistribution above gives a normalized 1.0 the same
+meaning on both shapes. Every card counts equally, and a card you do not score takes the
+pre-committed worst-case value (8.0) rather than dropping out of the average. This means:
 
 - A model that is great at F1 but ignores dependence (F3) and tails (F4) will score mid-tier.
 - A model that nails tail calibration (F4) but is wildly over-confident on in-distribution
@@ -510,9 +507,12 @@ pre-committed worst-case value (4.0) rather than dropping out of the average. Th
 - The winning submission is typically the one that reads text well, applies it consistently
   across assets and time horizons, and produces fat-tailed joint distributions.
 
-The reference point is a **text-blind baseline that runs organizer-side**, and it is the divisor
-in the normalization: a normalized score of 1.0 means "no better than it". The goal is to build
-something demonstrably better than that, not just to pass the gates.
+The reference point is a **text-blind baseline that runs organizer-side** (M0, specified in
+[M0-BASELINE.md](M0-BASELINE.md)). The divisor in the normalization is the error that baseline
+expects to make on each card, fixed before the outcome: a normalized score of 1.0 means your
+error equals that expected error. The baseline's own score is shown on the leaderboard as a
+reference row, and beating the baseline means scoring below it. The goal is to build something
+demonstrably better than that, not just to pass the gates.
 
 The five files in `baselines/` are **not** that reference point. They are interface scaffolds and
 each one returns a Gaussian random walk regardless of the model it is named after — see

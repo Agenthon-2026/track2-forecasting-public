@@ -1,0 +1,107 @@
+Luis de Guindos: Welcome remarks - ECB Forum on Banking Supervision
+2019-11-06
+
+## Welcome remarks
+
+Remarks by Luis de Guindos, Vice-President of the ECB, at the ECB Forum on Banking Supervision, Frankfurt am Main, 6 November 2019
+
+Welcome to the third ECB Forum on Banking Supervision.
+
+November 2014, exactly five years ago, was certainly a crossroads for the euro area banking sector. The creation of the Single Supervisory Mechanism conferred both micro- and macroprudential responsibilities on the ECB. [1]
+
+I will therefore focus on our achievements and challenges in coordinating both functions. In particular, I will touch upon our joint effort in carrying out banking sector stress tests and our interaction in the conduct of prudential policy in the current environment.
+
+## Micro- and macroprudential interaction and coordination
+
+Looking back, the financial crisis was a wakeup call for all of us to strengthen financial regulation and banking supervision. For Europe, it especially implied harmonising supervision across Member States to protect it from national agendas. But the crisis also showed that supervising individual institutions in isolation cannot safeguard the stability of the system as a whole. Macroprudential policy has to complement supervisory scrutiny by accounting for system-wide macro-financial feedback loops. Thanks to this system-wide perspective, macroprudential policy can address structural vulnerabilities and act countercyclically - tightening requirements when we see excessive risk-taking, and loosening them to avoid a credit crunch after risks have materialised.
+
+Embedding both micro- and macroprudential responsibilities within the ECB ensures that our actions are based on consistent information and are coordinated for the banking union as a whole. While retaining ultimate responsibility, the ECB carries out its supervisory tasks within the Single Supervisory Mechanism, comprising the ECB and national competent authorities. In turn, for macroprudential policy national authorities remain the first line of defence to promptly counter emerging systemic risks. But the ECB can set higher macroprudential requirements than those set by national authorities, if necessary. National and European bodies complement each other and have jointly strengthened our banking and financial system [2]
+
+.
+
+Exercising the micro- and macroprudential function requires close coordination and cooperation. One of the most notable examples is stress-testing. The biennial EU-wide stress test exercises are microprudential in nature and based on a constrained bottom-up approach. [3]
+
+They aim to assess the resilience of the largest EU credit institutions to adverse economic and financial circumstances. The stress test exercises are important inputs for the ECB's Supervisory Review and Evaluation Process (SREP) [4] and provide valuable insights for broader financial stability analyses based on granular information. [5]
+
+Over the last five years, cooperation between micro- and macroprudential authorities has increased in all phases of the stress-testing process. Today, micro- and macroprudential supervision complement each other by building on their respective knowledge of the banking system to provide a sound and credible assessment of banks' resilience to stress. For instance, during the preparatory phase, supervisors and regulators discuss in detail the stress test methodology and the calibration of the adverse scenario. In the execution phase, supervisors conduct thorough quality assurance of banks' bottom-up stress tests by challenging banks' own figures, also using results from macroprudential top-down models. [6]
+
+The top-down models are not only employed by supervisors to gain a macroprudential perspective; they can be used more broadly to understand the aggregate implications of banks' dynamic responses to stress. The major advantage of these models is that they account for the propagation and amplification of shocks across the banking system and the real economy. [7]
+
+Today's stress-testing framework, with its micro- and macroprudential elements, is the result of sustained improvements since the financial crisis thanks to the ongoing involvement of all stakeholders. The continued importance of stakeholder involvement is already apparent - discussions about the design of the long-term stress test strategy in Europe are under way within both the ECB and the European Banking Authority. [8]
+
+Without pre-empting future discussions about this strategy, our experiences so far have shown the benefits of including top-down approaches in supervisory assessments, and of considering the wider, macroprudential dimensions of stress-testing in particular. Looking ahead, I believe that top-down stress test models could play a more important role in disciplining banks and reducing their incentives to systematically underestimate vulnerabilities.
+
+## Countercyclical macroprudential policy
+
+These models will also help micro- and macroprudential authorities to address challenges in the current macro-financial environment. Over the past few months, we have observed a deteriorating global economic outlook and increasing uncertainty. This environment might put pressure on banks' profitability and hamper their intermediation capacity as margins become squeezed and the flow of new business slows down.
+
+Under these conditions, it is particularly important that banks remain resilient and can withstand adverse shocks. Since the financial crisis, the resilience of euro area banks has improved significantly. This has been facilitated by the economic recovery and by an accommodative monetary policy stance. But most of all, it reflects both the increased market pressure for banks to be well-capitalised, and the introduction of regulatory reforms, including macroprudential buffers. [9]
+
+The currently implemented macroprudential buffers amount to 1% of risk-weighted assets and are intended to absorb losses by banks. Of all these buffers, only the countercyclical capital buffer (CCyB) is intended to be released. The remaining buffers are structural in nature and are not intended to be released in a severe downturn. [10]
+
+Should bank capital ratios fall below the combined buffer requirements, they would also breach the thresholds for the maximum distributable amount (MDA). Once the MDA thresholds are breached, banks face automatic restrictions on their profit distributions to ensure that they keep funds on their balance sheet.
+
+Banks will likely want to avoid these restrictions - even in a systemic event. In such an event, banks may have the incentive to prop up capital ratios by deleveraging and disposing assets instead of dipping into the buffers. The resulting credit crunch would procyclically aggravate the downturn, as experienced in previous crisis episodes.
+
+Only with releasable buffers in place can macroprudential policy fully play its countercyclical role. In an adverse scenario, the macroprudential authority would release the buffer and thereby lower the MDA threshold. To be fully effective, the freed capital space would need to support the economy and not be used to satisfy shareholders' demand for dividends.
+
+The CCyB is the instrument designed by legislation to be released. However, the CCyB has only recently been announced and activated in the euro area; just 7 of the 19 euro area countries have activated it; and it represents only a very limited amount of capital relative to the other requirements. The limited available capital for release constrains the room for manoeuvre of macroprudential authorities, making it harder to support the economy in a severe downturn.
+
+In the current environment, it is therefore legitimate to question whether the banking system has a sufficiently large capital buffer that can be released. Even if we consider the level of capital to be appropriate, there still seems to be scope to have a higher share of capital in the form of releasable buffers. Looking around the world, we see that other authorities, for example in the United Kingdom and the United States, are having similar discussions. [11]
+
+## Concluding remarks
+
+Let me conclude. With the establishment of the Single Supervisory Mechanism, the ECB was given microand macroprudential responsibilities and powers. This set-up aims to ensure that the two policies are well coordinated. At the same time, the current macro-financial environment has become more challenging. The bleaker and more uncertain outlook can create strains for bank profitability. Challenges also arise for the non-bank sector with potential spillovers to the banking sector. So for us to ensure the stability of the banking sector, we also need to deepen our understanding of the role of non-bank institutions in the financial system and monitor the risks associated with their activities.
+
+Continuing to provide a consistent policy response in the current macro-financial environment requires the countercyclical role of macroprudential policy to be strengthened by ensuring that releasable buffers are available.
+
+Ultimately, the microprudential and macroprudential functions will need to rely on each other to provide successful prudential policies that ensure financial stability and support financial intermediation.
+
+[1] See Constâncio, V. (ed.) et al. (2019), '  Macroprudential policy at the ECB: Institutional framework, strategy, analytical tools and policies', Occasional Paper Series , No 227, European Central Bank.
+
+[2] See the European Commission's press release on ' Progress in risk reduction in the Banking Union and calls for faster progress on Capital Markets Union ahead of EU Leaders' meetings'.
+
+[3] Under this approach, banks generate their stress test projections using their own models. These projections are based on a macrofinancial scenario that is the same for all banks and are subject to a predefined methodology prescribed by the European Banking Authority.
+
+[4] ECB Banking Supervision uses both the qualitative results (quality and timeliness of banks' submissions) and the quantitative results (capital depletion and banks' resilience under the adverse scenario) as inputs for the SREP, to inform the setting of Pillar 2 capital requirements and Pillar 2 capital guidance, respectively. The ECB conducts the stress test both for those banks which are part of the exercise coordinated by the European Banking Authority and for the rest of the significant institutions which are directly supervised by the ECB.
+
+- [5] See, for example, Section 3.3 of the November 2018 Financial Stability Review, as well as Andersson, M. et al. (2018), 'How can euro area banks reach sustainable profitability in the future?', Financial Stability Review , ECB, November.
+- [6] Stress test exercises conducted in the EU follow a constrained bottom-up approach, meaning that banks generate their stress test projections using their own models. For a recent analysis of the importance of the quality assurance of banks' bottom-up results, see Kok, C., Müller, C. and Pancaro, C. (2019), 'The disciplining effect of supervisory scrutiny on banks' risk-taking: evidence from the EUwide stress test', Macroprudential Bulletin , Issue 9, ECB, October.
+- [7] In addition to both the 2016 and 2018 EU-wide stress test exercises, albeit not in parallel with them, the ECB published macroprudential stress test analyses for euro area banks. See Dees, S. et al. (2016), '  Macroprudential effects of systemic bank stress', Macroprudential Bulletin , Issue 2, ECB, October; and Budnik, K. (2019), 'A bird's-eye view of the resilience of the European banking system: Results from the new macroprudential stress test framework', Macroprudential Bulletin , Issue 7, ECB, March.
+- [8] See also Enria, A. (2018), ' What have we learnt from EU-wide stress tests', speech delivered at the Banca Naţională a României, 15 November.
+- [9] See 'Macroprudential measures in countries subject to ECB Banking Supervision and notified to the ECB' on the ECB website.
+- [10] There are currently eight globally important banks in the euro area (in France, Germany, Italy, the Netherlands and Spain) holding additional buffers of between 1% and 2%, and 108 other systemically important institutions with buffers of up to 2%. Systemic risk buffers have been activated in five countries, with a range of between 0.5% and 3%, and the countercyclical capital buffers have been announced in seven countries (Belgium, France, Germany, Ireland, Lithuania, Luxembourg and Slovakia) with rates between 0.25% and 2%.
+
+[11] See, for example, ' Refining the Stress Capital Buffer', speech by the Vice Chair for Supervision, Randal K. Quarles, at the Program on International Financial Systems Conference, Frankfurt, Germany, 5 September 2019.
+
+## European Central Bank
+
+Directorate General Communications
+
+Sonnemannstrasse 20, 60314 Frankfurt am Main, Germany
+
+Tel.: +49 69 1344 7455, E-mail: media@ecb.europa.eu
+
+Website: www.ecb.europa.eu
+
+Reproduction is permitted provided that the source is acknowledged.
+
+- Media contacts
+
+Macroprudential policy
+
+Stress tests
+
+Resilience
+
+Banking supervision
+
+Banking sector
+
+Policies
+
+Disclaimer
+
+Please note that related topic tags are currently available for speeches and introductory statements to the press conferences (with Q&amp;A) from 2018-19 only.
+
+Copyright 2019, European Central Bank

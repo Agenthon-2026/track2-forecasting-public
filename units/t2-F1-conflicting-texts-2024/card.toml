@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-conflicting-texts-2024"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2024-06-12"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BLS/BEA news release; Federal Reserve"
+source         = "BLS/BEA news release; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2024-06-12"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 5
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 8
 notes      = "As-of a meeting day carrying two same-day signals that point opposite ways: a soft inflation morning the statement acknowledges alongside a projection update that reads more restrictive on the pace of easing. The six-month 10Y distribution must weigh both legs; the CRPS test is width around a text-conflicted center with symmetric weight on higher and lower outcomes."
 
 [targets]

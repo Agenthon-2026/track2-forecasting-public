@@ -43,7 +43,7 @@ RUN pip install --no-cache-dir \
         "pandas==2.2.3" \
         "pyarrow==18.1.0" \
         "jsonschema==4.23.0" \
-        "qfbench2-common @ https://github.com/Agenthon-2026/Agenthon2026-public/archive/refs/tags/v2.4.4.tar.gz#subdirectory=common"
+        "qfbench2-common @ https://github.com/Agenthon-2026/Agenthon2026-public/archive/refs/tags/v2.6.0.tar.gz#subdirectory=common"
 
 WORKDIR /work
 COPY qfbench2_track_forecasting /opt/qfbench2_track_forecasting

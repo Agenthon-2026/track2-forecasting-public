@@ -117,9 +117,11 @@ How exactly they interact is up to you — this is the design space of Track 2.
 
 **Contrast with the baselines.** A text-blind baseline uses only the numeric panel: it implements
 the forecasting component and has no LLM reasoning component. That is the bar your agent must
-beat, and it is what your leaderboard score is normalized against. Note that the five files in
-`baselines/` are **not** that baseline — they are interface scaffolds that all return a Gaussian
-random walk, whatever model they are named after. See [`baselines/README.md`](../baselines/README.md).
+beat. Your leaderboard score is normalized by the error the official text-blind baseline expects
+to make on each card, and the baseline's own score is shown on the leaderboard as a reference row
+(section 13). Note that the five files in `baselines/` are **not** that baseline — they are
+interface scaffolds that all return a Gaussian random walk, whatever model they are named after.
+See [`baselines/README.md`](../baselines/README.md).
 
 ---
 
@@ -382,29 +384,44 @@ proportional to 1/sqrt(S). Specific impacts:
 ## 13 — How the leaderboard is built
 
 Your composite score is computed per card. Turning many per-card scores into one position
-takes three steps, and all three are fixed before dev-phase scoring opens.
+takes three steps. All three are fixed by the signed evaluation plan, and every entry on a board
+is scored under the same plan.
 
 **Step 1 — every card is put on a comparable scale.** Raw composites carry the units of what
 they forecast: a CPI-index card's CRPS is thousands of times a bond-yield card's, so a plain
 average across cards would be dominated by whichever card has the largest numbers. Each card's
-components are therefore divided by the same components of an official **text-blind baseline**
-on that card (a random walk that sees the panel and none of the text). After that division a
-score of **1.0 means "no better than the text-blind baseline"** and below 1.0 means you beat
-it, on every card alike.
+components are therefore divided by the error that an official **text-blind baseline** (M0, a
+random walk that sees the panel and none of the text) **expects** to make on that card: the
+average score M0's own forecast would get if the outcome were drawn from M0's own forecast
+distribution. That divisor is computed from the card's inputs alone, before the outcome exists
+([M0-BASELINE.md](M0-BASELINE.md) §5). After that division a score of **1.0 means "my error
+equals the error the text-blind baseline expects of itself on this card"**, and below 1.0 is
+better, on every card alike.
+
+Because the divisor does not depend on the outcome, the score is **proper**: your expected score
+is lowest when you submit the distribution you actually believe, so the honest forecast is the
+best strategy. The clip described below is the only qualification.
+
+M0 itself does not score exactly 1.0. On average it scores about 1.0 where outcomes are as
+volatile as its random walk assumes, and above or below 1.0 where they move more or less than
+its trailing history suggests. The leaderboard shows M0's actual score as a **reference row**,
+scored against the same outcomes and on the same scale as your entry: beating the baseline means
+scoring below that row.
 
 **Step 2 — a single-number card has its weights redistributed, so every card is on the same
 scale.** A card that asks for a single number (one asset, one horizon) has no relationships
 between forecasts for the joint-variogram term to measure, so that term is 0 *by construction,
-not by merit*. Under the plain 0.5/0.3/0.2 weighting the baseline would anchor at 0.7 on such
-a card and 1.0 everywhere else — two different scales. The variogram's weight is therefore
-redistributed over the terms that structurally exist (see [CATEGORIES.md](CATEGORIES.md)):
+not by merit*. Under the plain 0.5/0.3/0.2 weighting, a forecast whose error equals the
+baseline's expected error would score 0.7 on such a card and 1.0 everywhere else — two different
+scales. The variogram's weight is therefore redistributed over the terms that structurally exist
+(see [CATEGORIES.md](CATEGORIES.md)):
 
-| Card shape | Effective weights | Baseline anchors at |
+| Card shape | Effective weights | Error equal to the baseline's expected error scores |
 |---|---|---|
 | **single-cell** (one asset × one horizon) | 0.714 x CRPS + 0.286 x tail | 1.0 |
 | **multi-cell** (everything else) | 0.5 x CRPS + 0.3 x variogram + 0.2 x tail | 1.0 |
 
-Because both shapes anchor in the same place, they belong in the same average. Your score is
+Because 1.0 means the same thing on both shapes, they belong in the same average. Your score is
 reported with a bootstrap confidence interval that resamples whole groups of cards sharing an
 as-of date, because cards written against the same date share the same market shock and are
 not independent samples.
@@ -415,15 +432,17 @@ pre-announced schedule dilutes every card's share equally rather than changing a
 standing relative to another.
 
 **Every card is in the denominator.** A card that is inadmissible (a failed gate), errors, or
-is never attempted takes a **pre-committed worst-case value of 4.0** — four times as bad as
-ignoring the text entirely, since 1.0 is the text-blind baseline. Real scores are **clipped at
-that same 4.0**. Neither number is chosen per-track after the fact: 4.0 is the worst end of the
-declared metric domain `[0.0, 4.0]` in the signed evaluation plan, fixed before scoring opens.
+is never attempted takes a **pre-committed worst-case value of 8.0** — eight times the error the
+text-blind baseline expects of itself. Real scores are **clipped at that same 8.0**. Both numbers
+are the worst end of the declared metric domain `[0.0, 8.0]` in the signed evaluation plan, the
+same for every card. They were 4.0 until the divisor in Step 1 changed to the baseline's expected
+error, and moved to 8.0 with it (see the [CHANGELOG](../CHANGELOG.md)); every finished
+Development submission is re-scored under the current plan, so all entries are on one scale.
 
 Both halves matter, and the second is the one worth reading twice. If failures were simply
 dropped, a card would leave the numerator *and* the denominator, and you would be better off
 failing the cards you expect to score worst on. And a penalty without the clip would still be
-beatable — facing a card you expect to score 5.0 on, you would rather fail it and take 4.0.
+beatable — facing a card you expect to score 9.0 on, you would rather fail it and take 8.0.
 With the clip, **failing a card can at best tie the worst possible attempt at it, never beat
 it**. There is no card you are better off skipping.
 

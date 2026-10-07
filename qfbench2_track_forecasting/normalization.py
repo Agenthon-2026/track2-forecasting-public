@@ -6,10 +6,13 @@ The Track 2 composite is `0.5*marginal + 0.3*joint + 0.2*tail`, and the three co
 different natural scales — a CPI-index CRPS and a 30-year-yield CRPS differ by orders of
 magnitude. Without normalization the mean over the roster is a weighted average dominated by
 whichever units happen to carry the largest numbers, so a participant's rank depends on which
-instruments the organizers picked. `ref_scale.json` divides each component by the official M0
-baseline's value for that unit, which puts every unit on one scale where **the baseline is 1.0 by
-construction**. That is what makes `W = 4.0` mean something ("four times worse than a text-blind
-random walk") and what makes clipping at 4.0 a real bound rather than an arbitrary one.
+instruments the organizers picked. `ref_scale.json` divides each component by the error the
+official M0 baseline expects to make on that unit: M0's expected value of the component under
+M0's own forecast distribution, computed from the card's inputs (docs/M0-BASELINE.md §5). That
+puts every unit on one scale, where **1.0 means an error equal to the error M0 expects of
+itself**. It is what makes the signed plan's `W = 8.0` mean something ("eight times the error the
+text-blind baseline expects of itself") and what makes clipping at 8.0 a real bound rather than an
+arbitrary one.
 
 Three faults are closed here, all armed and not yet live:
 
@@ -35,12 +38,11 @@ Unit verifiers parse that snapshot; they never reopen scales after verification.
 
 ### The firewall note that matters more than the arithmetic
 
-`ref_scale.json` is **answer-equivalent**. It is derived from the sealed realized outcome — it is
-the baseline's error against that outcome — so given the baseline's forecast it inverts to the
-target. It looks innocuous (three floats, no dates, no identifiers) and it is *not* the answer
-file, which is precisely why a tool classifying unit files by name will ship it as configuration.
-C6 has `answer_equivalent: bool` for exactly this artifact. `assert_reference_only()` below is the
-scorer-side restatement: the loader refuses to read a scale out of anything but the reference root.
+`ref_scale.json` is **organizer reference material**, read only from the reference root. It looks
+innocuous (three floats, no dates, no identifiers), which is precisely why a tool classifying unit
+files by name would ship it as configuration; and a copy the participant can reach would let a
+submission supply its own divisor. `assert_reference_only()` below is the scorer-side rule: the
+loader refuses to read a scale out of anything but the reference root.
 """
 
 from __future__ import annotations
@@ -192,7 +194,7 @@ class RefScale:
 def assert_reference_only(path: pathlib.Path, reference_root: pathlib.Path) -> None:
     """Refuse to load a scale from anywhere but the organizer's reference root.
 
-    `ref_scale.json` inverts to the sealed target (C6 `answer_equivalent`). A scorer that would
+    `ref_scale.json` is organizer reference material. A scorer that would
     read it out of the participant's own output directory, or out of the mounted unit tree, is one
     misconfigured mount away from letting a submission supply its own denominator — which sets the
     composite to whatever the participant chooses.
@@ -202,7 +204,7 @@ def assert_reference_only(path: pathlib.Path, reference_root: pathlib.Path) -> N
     if not resolved.is_relative_to(root):
         raise organizer_fault(
             "refusing to load ref_scale.json from outside the reference root: the file is "
-            "answer-equivalent (C6 answer_equivalent=true) and a participant-reachable copy "
+            "organizer reference material and a participant-reachable copy "
             "would let the submission choose its own normalization denominator"
         )
 

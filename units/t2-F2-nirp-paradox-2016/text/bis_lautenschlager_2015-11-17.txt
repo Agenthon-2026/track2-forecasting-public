@@ -1,0 +1,71 @@
+Sabine Lautenschläger: Qualitative and quantitative banking supervision
+2015-11-17
+
+## Sabine Lautenschläger: Qualitative and quantitative banking supervision
+
+Speech by Ms Sabine Lautenschläger, Member of the Executive Board of the European Central Bank, at the conference 'Banking Supervision, Resolution and Risk Management' during the 18th Euro Finance Week 2015, Frankfurt am Main, 17 November 2015.
+
+* * *
+
+Ms Schönauer, ladies and gentlemen,
+
+Do you like cars? I personally do and I like what car producers have accomplished, particularly in terms of comfort and safety features. But I am not naive: since driving is what cars are made for, there will always be the risk of an accident; so I prefer cars that have seat belts, airbags and a stable, crash-proof body - ensuring 'passive safety'. At the same time, accidents should be avoided to the maximum extent possible. This requires active safety features such as a flawless car with good brakes and so on, but also a good driver who knows the traffic rules, how to operate the vehicle and where and how fast to go.
+
+You might ask yourself now whether I have mixed speeches up, here at Frankfurt's trade fair centre, where Europe's biggest motor show was held just a few weeks ago. Believe me, I have not.
+
+Rather, I'm drawing an analogy to show that bank safety and car safety are quite similar. Like cars in traffic, there is always a risk that banks may incur losses because risk-taking is their business. Instead of seat belts and airbags, we ask banks to hold sufficient capital to be able to absorb losses and protect banks' 'passengers', i.e. their depositors, from harm. Only wellcapitalised banks can withstand shocks and fund the economy on a sustained basis. So the 'passive safety' of banks, i.e. a sound capital base, is absolutely key for banking supervision to achieve its goal of ensuring that we have a banking system which serves the real economy throughout the business cycle - in good and in bad times.
+
+At the same time, it's extremely important to make sure that banks are able to avoid losses as far as possible. Instead of having a safe driver, a clear view, powerful brakes and good suspension in the case of cars, this requires good management with a clear strategy, a forward-looking view, effective internal governance and risk controls, including effective risk data aggregation processes. All these factors are critical for banks' 'active safety' and, therefore, they should also play a key role in banking supervision.
+
+The car analogy does not extend far enough to assess banks' active safety features. Whereas technical equipment such as brakes and headlights can be assessed on the basis of technical requirements and clear rules, banks are far too complicated to do this. Rather, risk management and internal governance - the cause of trouble in a number of banks - can only be assessed with a lot of supervisory judgement. It is often referred to as 'qualitative banking supervision'.
+
+But the financial crisis also showed that the quantity and quality of capital held by institutions was insufficient and did not allow them to absorb the losses they incurred. Judging from this experience, it does not seem advisable for supervisors to rely only on qualitative supervision.
+
+Anyway, both quantitative and qualitative supervision are an obligation under the Capital Requirements Directive IV, which requires us to determine whether an institution has sufficient capital and liquidity to cover its risks. Likewise, supervisors have to judge whether institutions' internal strategies, processes and arrangements ensure a sound management of their risks. We are even obliged to come up with our own numerical verdict, namely a decision on pillar 2 capital add-ons. No choice here. The SSM complied with this obligation with its primary supervisory tool, the Supervisory Review and Evaluation Process (SREP).
+
+Now how do we ensure that our SREP methodology adequately combines quantitative and qualitative supervision?
+
+First of all, we collect data on own funds, financial reporting, large exposures, sovereign exposures, credit and operational risk losses, leverage ratios, market risk sensitivities, assetliability structures, funding plans and others. This manifold set of data is produced by banks following harmonised standards and it is then used in an automated process to generate initial risk scores and supervisory risk estimates. The idea behind this is to provide consistency between the assessments of all institutions by producing objective quantitative anchor points. This is the quantitative part of the SSM SREP.
+
+Supervisory judgement is a second key feature of the SSM SREP. There will always be institutions with idiosyncrasies which cannot be captured by automated algorithms. That is why the SSM SREP should not (and cannot) be a 'push-the-button' method. Rather, we are fully aware of and account for the fact that all standardised rating methodologies are, by their very nature, limited. Accordingly, we are responsible for assessing and judging all elements that impact on institutions' viability including, but not restricted to, those factors which cannot be captured by automated ratings. This relates not only to traditionally qualitative elements, such as internal governance and risk controls, but also to the assessment of institutions' risk levels. This institution-specific qualitative assessment uses up most of the supervisory resources in the SREP. If this were not done, too many aspects that are key for the viability of institutions could not be factored in. Think, for example, of very 'soft', yet extremely important things, such as the risk culture and the general spirit of the institution.
+
+Furthermore, we do not just conduct quantitative and qualitative assessments separately. We work hard to combine both approaches in our methodology by bringing together the strengths of both concepts.
+
+Let me explain briefly the structure of this SREP methodology. The slide shows that it consists of four main elements:
+
+1. Business model assessment,
+2. Internal governance and risk management,
+3. Risks to capital, and
+4. Risks to liquidity and funding.
+
+All four elements are assessed and rated. They feed into the overall SREP assessment that forms the basis for SREP decisions.
+
+Of these four SREP elements, only the internal governance assessment is purely qualitative, while all other elements are assessed as a combination of quantitative anchor points and qualitative assessments, based on supervisory judgement. In order to ensure consistency in the assessments while allowing the responsible supervisor to tailor those assessments to institutions' idiosyncrasies, we follow a so-called 'constrained judgement' approach that limits the extent to which judgement can push qualitative results towards a predefined range around the anchor points.
+
+One example of the combination of quantitative and qualitative supervision is our pillar 2 addon quantification methodology. Although at first glance a purely quantitative concept, qualitative elements play a key role in this methodology.
+
+Under the so-called 'block 1' of element 3, we assess risk levels and risk controls for credit, market, operational risk and interest rate risk in the banking book. The respective risk controls are assessed in a purely qualitative manner, and then combined with risk-level assessments that consist of a combination of quantitative anchor points and a holistic, judgement-based assessment.
+
+In addition, we factor in, under blocks 2 and 3, the banks' Internal Capital Adequacy Assessment Process (ICAAP) figures, including internal stress testing figures plus the results of our own risk proxies and stress testing tools. In order to determine potential capital needs for the future, our capital determination process is rooted in a strong quantitative fundament;
+
+but at the same time, we apply supervisory judgement, for example when selecting adequate stress testing scenarios and when combining the outcomes of the different risk perspectives that are reflected in the three blocks.
+
+Another principle underlying our methodology, namely the principle of proportionality, is linked to the qualitative part of our approach. We tailor the frequency, intensity and also the level of supervisory expectations vis-à-vis banks' internal arrangements and processes to the nature, scale and complexity of their activities.
+
+Let me speak briefly about the results of this capital determination process and our expectations for the future. Using our SREP methodology for the first time this year, the average pillar 2 capital requirements have slightly increased compared to the previous year by a margin of 30 basis points without buffer effects and by 50 basis points with buffer phase-in, adding up to an average requirement of 10.1% CET 1 own funds now. Depending on each institution's individual situation, these requirements range from 8% up to about 14%, generally speaking. Obviously, this is not a dramatic increase, nonetheless it allows for a gradual transition towards fully loaded Basel III requirements. From my perspective the current level of pillar 2 capital requirements is generally adequate in the sense that I regard it as sufficient to cover the current risk exposures across significant institutions.
+
+After speaking so much about supervisory judgement, let me elaborate briefly on how we ensure a level playing field. The SSM is obliged to treat institutions in a fair and equal manner; within our single market, we have to provide a level playing field among institutions. And the establishment of the Single Supervisory Mechanism is a major step in this direction.
+
+There is a range of measures in our SREP process and methodology for ensuring a level playing field. First of all, our supervisors follow a common SREP methodology that guides their judgement. The 'constrained judgement' principle fosters consistency of SREP decisions. In addition, extensive peer comparisons for all the different parts of the SREP contribute to a consistent exercise of supervisory judgement across all SREP elements and decisions in all institutions. It is certainly a big step forward with regard to equal treatment; we can now conduct peer comparisons for significant institutions in a far more meaningful and powerful manner, given the fact that, firstly, we can create more meaningful peer groups and, secondly, we have a prominent role for quantitative SREP elements that allow for easier comparisons.
+
+Overall, we had four distinct rounds of intensive horizontal analyses throughout the SREP 2015. We sliced and diced the whole SREP assessment and determination process, and compared results for individual banks for more than 80 different aspects among different peer groups, assembled on the basis of business models, sizes and geographies. We scrutinised the assessments for all four SREP elements, all underlying risk types, both for risk level and risk control assessments plus the combination of these two dimensions. We also conducted several thematic reviews.
+
+In several iterations, these horizontal analyses helped us to conduct the first round of SSMwide consistent SREP assessments and decisions which we have just finalised for most of the individual decisions. For the first time, the 122 most significant institutions from the 19 SSM countries were assessed using a single SREP methodology. Considering the high diversity of SREP methodologies used in the 19 SSM countries up to last year, this is a major achievement of the SSM, and I am very proud of it.
+
+We are aware of the fact that for some countries, such as Germany, our SREP methodology means a completely new approach. Previously, the German approach was characterised by a strong qualitative focus, which certainly has its merits, as I explained before. But I think a truly European level playing field and equal treatment can only be ensured by combining a strong qualitative approach with well-founded quantitative analyses, including peer reviews. A mere qualitative supervisory approach, in particular when it is solely based on the 'individuality of the bank' might be prone to misuse, and justify generally lower rather than higher supervisory requirements.
+
+Let me conclude. I think that the combination of quantitative and qualitative supervisory elements has passed its first test in the SREP 2015. We will of course continue to improve our SREP methodology and its application, as usual. As an important complement to quantitative features, we will keep supervisory judgements as a core element of our SREP methodology. At the same time, I would like to stress that the supervisor's view on a bank's capital level cannot and should not relieve the bank and its management from its responsibility to ensure an adequate capital level.
+
+Returning to my car analogy, I am convinced that both active and passive safety features are equally crucial to keep cars and their passengers save. The same is true for banks and the role of quantitative and qualitative supervision. Banking supervision in the 21st century combines both approaches to keep banks on track and out of harm's way.
+
+Thank you for your attention.

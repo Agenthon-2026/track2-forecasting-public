@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_lautenschlager_2019-05-06",
+      "timestamp": "2019-05-06",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lautenschlager_2019-05-06.txt"
+    },
+    {
+      "doc_id": "bis_kuroda_2019-06-07",
+      "timestamp": "2019-06-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2019-06-07.txt"
+    },
+    {
       "doc_id": "fomc-minutes-20190619",
       "timestamp": "2019-07-10",
       "source": "Federal Reserve",
@@ -24,6 +38,13 @@
       "source": "Federal Reserve (Beige Book)",
       "doc_type": "beige_book",
       "file": "beigebook_201907.txt"
+    },
+    {
+      "doc_id": "powell_presser_2019-07-31",
+      "timestamp": "2019-08-08",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "powell_presser_2019-07-31.txt"
     },
     {
       "doc_id": "macro_release-2019-08-13",

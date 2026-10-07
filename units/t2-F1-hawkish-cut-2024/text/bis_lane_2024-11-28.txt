@@ -1,0 +1,97 @@
+Philip R Lane: The 25th anniversary of the Euro50 Group - looking ahead to the 50th anniversary
+2024-11-28
+
+SPEECH
+
+## The 25th anniversary of the Euro50 Group: looking ahead to the 50th anniversary
+
+Remarks by Philip R. Lane, Member of the Executive Board of the ECB, at the 25th Anniversary of the Euro50 Group event at the Banque de France
+
+Paris, 28 November 2024
+
+Let me start by congratulating the Euro50 Group on its 25th anniversary: since the start of the euro, the Euro50 Group has convened many important discussions about the development of the euro area as a monetary union and the euro as a single currency.
+
+Looking back at the first quarter of a century of the Euro50 Group naturally invites speculation about the next 25 years: what will we be discussing at the 50th anniversary of the Euro50 Group?
+
+Let me list four major structural factors that look set to shape the next 25 years:l4] (a) the next wave of technological change (digitalisation, artificial intelligence, automation, robotification);2! (b) climate change, nature degradation and the green transition; (c) the shifting configuration of geo-economics and geo-politics;4] and (d) demographic trends (increasing longevity, low fertility, migration patterns)./5] Of course, these structural factors interact with each other in many ways, such that it is essential to adopt a holistic approach in assessing their implications for societies, economies, political systems, governments, institutions — including central banks — and policymakers.
+
+Before turning to how a central bank should respond to these structural changes, | want first to emphasise that the common nature of these structural trends means that international coordination and collective action is the best approach to navigating these challenges. At the European level, there is considerable scope to work together as a European Union. In terms of economic and financial policy, the recent Draghi and Letta reports show how further integration can improve both the dynamism and the resilience of Europe, which would make it much easier to deal with the challenges | have just mentioned. This includes the high potential gains in stepping up progress in relation the markets union and the union.
+
+capital banking
+
+First, a basic task is to analyse these developments: strong analytical foundations are a precondition for good policymaking. Of course, the primary focus of the analytical work should be to assess the implications of these structural trends for the central bank. This spans not only the implications for inflation dynamics but also the role of money in the economy and the financial system and the modalities of monetary policy implementation. The full arsenal of analytical firepower needs to be deployed: research projects to uncover evidence about structural change in the incoming data; a greater use of surveys to find out how households, firms and financial intermediaries are coping with structural change; and the tracing-out of various scenarios in the "laboratories" provided by macroeconomic models. 2]
+
+Second, a forward-looking central bank should update and modify the tools and modalities of how it underpins the monetary system and implements monetary policy.
+
+In relation to the former, the digital euro project is devoted to ensuring that the euro area can benefit from the full potential of a digitised financial system while preserving, even in the new digital world, the security and freedom provided by central bank money.4) The gains from a digital euro extend far beyond the personal benefits that will be reaped by individual European citizens from a digital currency that can be used wherever digital payments are accepted, throughout the euro area. The digital euro will also introduce an alternative to the currently-dominant international payment solutions, both reducing our external dependencies and lowering costs for merchants. And it will provide the underlying infrastructural platform and acceptance network that can level the playing field for euro area banks, payment providers and payment schemes in offering a wide range of financial services across the euro area.
+
+In relation to the latter, the ECB is working to ensure that its policy toolkit and implementation framework are aligned with the EU policy commitments to the green transition." It goes without saying that we closely assess the various elements of this work programme to make sure these do not compromise our commitment to delivering our primary mandate of price stability.42]
+
+Third, a central bank should work through the implications of structural change for price stability. Structural changes can affect not only inflation dynamics, but also the natural rate of interest, and therefore can have important consequences for the central bank's price stability mandate.) At a heuristic level, it is important to differentiate between different pathways. Without trying to be comprehensive, let's consider a few scenarios:
+
+Scenario A: This may have little impact on inflation: loosely speaking, if demand and supply adapt at the same speed, the net impact on inflation is limited.
+
+Scenario B: news arrives about a future structural shift. If the news is good — future supply capacity improves — this can stimulate investment and raise consumption today, in line with the permanent income hypothesis. Since demand improves but short-run supply is limited, this may create a burst of short-run inflation. In the other direction, if the news is bad — future supply capacity declines — this constitutes a negative demand shock today, which is disinflationary. In either case, whether monetary policy should respond will depend on the expected size and duration of the inflation shock, together with an assessment of the fragility of the inflation anchor to the shock.
+
+Scenario C: a disruptive event occurs today. This could be an adverse disruptive event (a pandemic, a trade war, an actual war) that generates an unexpected contraction in supply capacity. In the other direction, it could also take the form of a faster-than-expected roll-out of a general purpose technology, such as the 1990s internet boom in the United States). In the case of an adverse shock, supply falling more quickly than demand creates inflationary pressure; in the case of a positive shock, supply increasing more quickly than demand eases inflationary pressure. Of course, both types of disruptive event may also have implications for financial stability, in view of the associated implications for asset pricing.
+
+In essence, the challenge for central bankers will be to calculate and re-calculate the appropriate monetary policy stance that is robust to the emergence of these various scenarios or combinations of scenarios: at any given time, there may be elements of scenarios A, B and C operating in different sectors and in different countries, given the wide variety of structural changes that are underway."4I
+
+1.
+
+For more on how monetary transmission will be affected by structural shifts and how to adjust the analytical frameworks to these shifts, see Lagarde, C. (2024), "Setbacks and strides forward: structural shifts and monetary policy in the twenties", speech at the 2024 Michel Camdessus Central Banking Lecture organised by the IMF, Washington, DC, 20 September.
+
+2.
+
+Dedola, L. et al. (2023), "Digitalisation and the economy", Working Paper Series, No 2809, ECB, 25 April; Baldwin, R. (2022), "Globotics and macroeconomics: Globalisation and automation of the service sector", paper presented at the ECB Forum on Central Banking, Sintra, June; Jaumotte, F. et al. (2023), "Digitalization During the COVID-19 Crisis: Implications for Productivity and Labor Markets in Advanced Economies", Staff Discussion Notes, No 2023/003, IMF, 13 March; and Albanesi, S. et al. (2023), "New technologies and jobs in Europe", Working Paper Series, No 2831, ECB, 14 July. 3.
+
+Breckenfelder, J. et al. (2023), "The climate and the economy", Working Paper Series, No. 2793, ECB, 7 March; Christine, L. (2024) "Mind the gap: what it takes to finance a greener future", The ECB of the effects of climate change on the macroeconomy", Working Paper Series, No 2608, ECB, 14 October; and Ciccarelli, M., Kuik, F. and Martinez Hernandez, C. (2024), "The asymmetric effects of temperature shocks on inflation in the largest euro area countries", European Economic Review, Vol. 168, September.
+
+4.
+
+Attinasi, M. G., Mancini, C. et al. (2024, forthcoming), "Navigating a fragmenting global trading system: Some lessons for central banks", Occasional Paper Series, ECB; Georgieva, K. (2023), "Confronting Fragmentation Where It Matters Most: Trade, Debt, and Climate Action", /MF Blog, 16 January; and Attinasi, M.-G., Boeckelmann, L. and Meunier, B. (2023), "Ihe economic costs of supply chain decoupling", Working Paper Series, No 2839, ECB, 3 August.
+
+Freier, M., Lichtenauer, B. and Schroth, J. (2023), "EUROPOP2023 demographic trends and their euro area economic implications", Economic Bulletin, |lssue 3, ECB 6.
+
+For recent discussions of the challenges presented by technological change, shifting geopolitical trends and climate change, see speeches by President Lagarde on "The economic and human challenges of a transforming era", "Setbacks and strides forward: structural shifts and monetary policy in the twenties", "Policymaking\_in a new risk environment" and "Central banks in a changing\_world: the role of the ECB in the face of climate and environmental risks".
+
+7.
+
+Letta, E. (2024), "Much more than a market", April; and Draghi, M. (2024), "The future of European competitiveness", September.
+
+8.
+
+For speeches on the capital markets union, see Lagarde, C. (2024), "Eollow the money: channelling savings into investment and innovation in Europe", speech at the 34th European Banking Congress: "Out of the Comfort Zone: Europe and the New World Order", Frankfurt am Main, 22 November. For speeches on the banking union, see Lagarde, C. (2024), "Welcome address at the tenth anniversary of the Single Supervisory Mechanism", Frankfurt am Main, 6 November.
+
+9.
+
+For recent discussions on how the ECB incorporates analyses coming from macroeconomic models for policymaking, see Lane, P.R. (2024), "Monetary policy under uncertainty", speech at the Bank of England Watchers' Conference 2024, King's College London, 25 November; and Lane, P.R. (2024),
+
+"The 2021-2022 inflation surges and the monetary policy response through the lens of macroeconomic models", speech at the SUERF Marjolin Lecture hosted by the Banca d'Italia, Rome, 18 November. 10.
+
+For an overview of the digital euro project, see Cipollone, P. (2024), "Monetary sovereignty in the digital age: the case for a digital euro", speech at the Economics of Payments XIII Conference organised by the Oesterreichische Nationalbank, Vienna, 27 September; and Cipollone, P. (2024), speech at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 23 September.
+
+11.
+
+For more information on climate change work at the ECB, see the dedicated section of the ECB website.
+
+See Elderson, F. (2024), "Taking account of nature, naturally", speech at the tenth Green Finance Forum "Innovate in Nature", Frankfurt am Main, 19 November and recent research by Ferdinandusse, M., Kuik, F. and Priftis, R. (2024), "Assessing the macroeconomic effects of climate change transition policies", Economic Bulletin, |lssue 1, European Central Bank, Frankfurt am Main; and Ferdinandusse, M., Lis, E., Kuik, F. and Sun, Y. (2023), "Climate-related policies in the Eurosystem/ECB staff measures", Economic Bulletin, |lssue 1, European Central Bank, Frankfurt am Main.
+
+13.
+
+For a discussion of changes in neutral rates and their policy implications see Brand, C., Lisack, N. and Mazelis, F. (2024), "Estimates of the natural interest rate for the euro area: an update", Economic Bulletin, Issue 1, ECB and Lane, P.R. (2019) "Determinants of the real interest rate" Remarks at the National Treasury Management Agency, Dublin, 28 November 2019.
+
+14.
+
+Recent studies that emphasise the importance of general equilibrium analysis in assessing the policy implications of structural changes include: Fornaro, L., Guerrieri, V. and Reichlin, L. (2024), "Monetary Policy for the Green Transition", report prepared for the BIS Green Swan conference 2024 and Tenreyro, S., Ambrosino, L. and Chan, J. (2024), "Trade fragmentation, inflationary pressures, and monetary policy," B/S working paper, No 1225. For monetary policy actions taken by the ECB in response to the inflation shock in 2021-22, see Lane, P.R. (2024), "The 2021-2022 inflation surges and monetary policy in the euro area", The ECB Blog, 11 March.
+
+## CONTACT
+
+## European Central Bank
+
+## Directorate General Communications
+
+- &gt; Sonnemannstrasse 20
+- &gt; 60314 Frankfurt am Main, Germany
+- &gt; +49 69 1344 7455
+- &gt; media@ecb.europa.eu

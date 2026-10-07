@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "macro_monthly", "t2-f4", "t2c-F4-payrolls-emerging-shock"]
 expert_time_estimate_min = 45.0
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "monthly"
-description      = "Monthly Payrolls Level Under an Emerging Labor Shock (single print). As-of 2020-03-31; targets NFP at horizons [21] BD. Text-scaled macro tail: policy-response intensity proxies the April 2020 print (first released in May 2020), one print beyond the March 2020 print that is next at the as-of date."
+description      = "Monthly Payrolls Level Under an Emerging Labor Shock (single print). As-of 2020-03-31; targets NFP at horizons [21] BD. Text-scaled range: policy-response intensity proxies the April 2020 print (first released in May 2020), one print beyond the March 2020 print that is next at the as-of date."
 created_by       = "Ruolan Sun (catalog t2c-F4-payrolls-emerging-shock)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -77,9 +75,9 @@ source         = "BLS/BEA news release; Federal Reserve; official (see landmarks
 path           = "text/"
 cutoff         = "2020-03-31"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 6
-notes          = "Forecast the April 2020 payrolls LEVEL as first published (released in May 2020), one print beyond the March 2020 print that is next at the as-of date; the panel ends at February 2020 and the intervening March print was not yet public (45-day lag enforced). The corpus contains emergency rate action, expanded asset purchases, and activity-restriction language; if the disruption branch dominates, the magnitude must be scaled from policy-response severity into a range far outside the panel's history, an inherently wide exercise. Targets are scored on the AS-PUBLISHED (first-release) level, not later revisions, per the point-in-time rule."
+doc_types      = ["beige_book", "cb_speech", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 8
+notes          = "Forecast the April 2020 payrolls LEVEL as first published (released in May 2020), one print beyond the March 2020 print that is next at the as-of date; the panel ends at February 2020 and the intervening March print was not yet public (45-day lag enforced). The corpus contains emergency rate action, expanded asset purchases, and statement language on the outbreak's disruption of economic activity; the documents bear on how the severity of the policy response should scale the forecast relative to the panel's history, an inherently wide exercise. Targets are scored on the AS-PUBLISHED (first-release) level, not later revisions, per the point-in-time rule."
 
 [targets]
 asset_ids        = ["NFP"]

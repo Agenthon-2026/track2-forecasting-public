@@ -1,0 +1,103 @@
+# source: https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20190619.htm | date: 2019-06-19 | type: landmark
+
+FOMC Projections Materials, June 19, 2019
+Federal Open Market Committee, 19 June 2019
+
+For release at 2:00 p.m., EDT, June 19, 2019
+
+Economic projections of Federal Reserve Board members and Federal Reserve Bank presidents under their individual assessments of projected appropriate monetary policy, June 2019
+
+Advance release of table 1 of the Summary of Economic Projections to be released with the FOMC minutes
+Percent
+
+Variable | Median[1] 2019 | Median[1] 2020 | Median[1] 2021 | Median[1] Longer run | Central tendency[2] 2019 | Central tendency[2] 2020 | Central tendency[2] 2021 | Central tendency[2] Longer run | Range[3] 2019 | Range[3] 2020 | Range[3] 2021 | Range[3] Longer run
+Change in real GDP | 2.1 | 2.0 | 1.8 | 1.9 | 2.0 - 2.2 | 1.8 - 2.2 | 1.8 - 2.0 | 1.8 - 2.0 | 2.0 - 2.4 | 1.5 - 2.3 | 1.5 - 2.1 | 1.7 - 2.1
+  March projection | 2.1 | 1.9 | 1.8 | 1.9 | 1.9 - 2.2 | 1.8 - 2.0 | 1.7 - 2.0 | 1.8 - 2.0 | 1.6 - 2.4 | 1.7 - 2.2 | 1.5 - 2.2 | 1.7 - 2.2
+Unemployment rate | 3.6 | 3.7 | 3.8 | 4.2 | 3.6 - 3.7 | 3.5 - 3.9 | 3.6 - 4.0 | 4.0 - 4.4 | 3.5 - 3.8 | 3.3 - 4.0 | 3.3 - 4.2 | 3.6 - 4.5
+  March projection | 3.7 | 3.8 | 3.9 | 4.3 | 3.6 - 3.8 | 3.6 - 3.9 | 3.7 - 4.1 | 4.1 - 4.5 | 3.5 - 4.0 | 3.4 - 4.1 | 3.4 - 4.2 | 4.0 - 4.6
+PCE inflation | 1.5 | 1.9 | 2.0 | 2.0 | 1.5 - 1.6 | 1.9 - 2.0 | 2.0 - 2.1 | 2.0 | 1.4 - 1.7 | 1.8 - 2.1 | 1.9 - 2.2 | 2.0
+  March projection | 1.8 | 2.0 | 2.0 | 2.0 | 1.8 - 1.9 | 2.0 - 2.1 | 2.0 - 2.1 | 2.0 | 1.6 - 2.1 | 1.9 - 2.2 | 2.0 - 2.2 | 2.0
+Core PCE inflation[4] | 1.8 | 1.9 | 2.0 |  | 1.7 - 1.8 | 1.9 - 2.0 | 2.0 - 2.1 |  | 1.4 - 1.8 | 1.8 - 2.1 | 1.8 - 2.2 |
+  March projection | 2.0 | 2.0 | 2.0 |  | 1.9 - 2.0 | 2.0 - 2.1 | 2.0 - 2.1 |  | 1.8 - 2.2 | 1.8 - 2.2 | 1.9 - 2.2 |
+Memo: Projected appropriate policy path
+Federal funds rate | 2.4 | 2.1 | 2.4 | 2.5 | 1.9 - 2.4 | 1.9 - 2.4 | 1.9 - 2.6 | 2.5 - 3.0 | 1.9 - 2.6 | 1.9 - 3.1 | 1.9 - 3.1 | 2.4 - 3.3
+  March projection | 2.4 | 2.6 | 2.6 | 2.8 | 2.4 - 2.6 | 2.4 - 2.9 | 2.4 - 2.9 | 2.5 - 3.0 | 2.4 - 2.9 | 2.4 - 3.4 | 2.4 - 3.6 | 2.5 - 3.5
+
+Note: Projections of change in real gross domestic product (GDP) and projections for both measures of inflation are percent changes from the fourth quarter of the previous year to the fourth quarter of the year indicated. PCE inflation and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption expenditures (PCE) and the price index for PCE excluding food and energy. Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. Each participant's projections are based on his or her assessment of appropriate monetary policy. Longer-run projections represent each participant's assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in the absence of further shocks to the economy. The projections for the federal funds rate are the value of the midpoint of the projected appropriate target range for the federal funds rate or the projected appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. The March projections were made in conjunction with the meeting of the Federal Open Market Committee on March 19–20, 2019. One participant did not submit longer-run projections for the change in real GDP, the unemployment rate, or the federal funds rate in conjunction with the March 19–20, 2019, meeting, and one participant did not submit such projections in conjunction with the June 18–19, 2019, meeting.
+1. For each period, the median is the middle projection when the projections are arranged from lowest to highest. When the number of projections is even, the median is the average of the two middle projections.
+2. The central tendency excludes the three highest and three lowest projections for each variable in each year.
+3. The range for a variable in a given year includes all participants' projections, from lowest to highest, for that variable in that year.
+4. Longer-run projections for core PCE inflation are not collected.
+
+Figure 1. Medians, central tendencies, and ranges of economic projections, 2019-21 and over the longer run
+
+Change in real GDP
+Percent
+
+ | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | Longer run
+Actual | 2.7 | 2.0 | 1.9 | 2.5 | 3.0 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 2.4 | 2.3 | 2.1 | 2.1
+Upper End of Central Tendency | - | - | - | - | - | 2.2 | 2.2 | 2.0 | 2.0
+Median | - | - | - | - | - | 2.1 | 2.0 | 1.8 | 1.9
+Lower End of Central Tendency | - | - | - | - | - | 2.0 | 1.8 | 1.8 | 1.8
+Lower End of Range | - | - | - | - | - | 2.0 | 1.5 | 1.5 | 1.7
+
+Unemployment rate
+Percent
+
+ | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | Longer run
+Actual | 5.7 | 5.0 | 4.8 | 4.1 | 3.8 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 3.8 | 4.0 | 4.2 | 4.5
+Upper End of Central Tendency | - | - | - | - | - | 3.7 | 3.9 | 4.0 | 4.4
+Median | - | - | - | - | - | 3.6 | 3.7 | 3.8 | 4.2
+Lower End of Central Tendency | - | - | - | - | - | 3.6 | 3.5 | 3.6 | 4.0
+Lower End of Range | - | - | - | - | - | 3.5 | 3.3 | 3.3 | 3.6
+
+PCE inflation
+Percent
+
+ | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | Longer run
+Actual | 1.2 | .3 | 1.6 | 1.8 | 1.9 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.7 | 2.1 | 2.2 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 1.6 | 2.0 | 2.1 | 2.0
+Median | - | - | - | - | - | 1.5 | 1.9 | 2.0 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 1.5 | 1.9 | 2.0 | 2.0
+Lower End of Range | - | - | - | - | - | 1.4 | 1.8 | 1.9 | 2.0
+
+Note: Definitions of variables and other explanations are in the notes to the projections table. The data for the actual values of the variables are annual.
+
+Figure 2. FOMC participants' assessments of appropriate monetary policy: Midpoint of target range or target level for the federal funds rate
+Number of participants with projected midpoint of target range or target level
+
+Midpoint of target range or target level (Percent) | 2019 | 2020 | 2021 | Longer run
+3.375 |  |  |  |
+3.250 |  |  |  | 2
+3.125 |  | 1 | 1 |
+3.000 |  |  |  | 2
+2.875 |  |  | 1 |
+2.750 |  |  |  | 3
+2.625 | 1 | 2 | 3 |
+2.500 |  |  |  | 8
+2.375 | 8 | 5 | 5 | 1
+2.250 |  |  |  |
+2.125 | 1 | 2 | 2 |
+2.000 |  |  |  |
+1.875 | 7 | 7 | 5 |
+1.750 |  |  |  |
+
+Note: Each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual participant's judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. One participant did not submit longer-run projections for the federal funds rate.
+
+Explanation of Economic Projections Charts
+The charts show actual values and projections for three economic variables, based on FOMC participants' individual assessments of appropriate monetary policy:
+- Change in Real Gross Domestic Product (GDP)—as measured from the fourth quarter of the previous year to the fourth quarter of the year indicated.
+- Unemployment Rate—the average civilian unemployment rate in the fourth quarter of each year.
+- PCE Inflation—as measured by the change in the personal consumption expenditures (PCE) price index from the fourth quarter of the previous year to the fourth quarter of the year indicated.
+Information for these variables is shown for each year from 2014 to 2021, and for the longer run.
+The solid blue line, labeled "Actual," shows the historical values for each variable.
+The solid red lines depict the median projection in each period for each variable. The median value in each period is the middle projection when the projections are arranged from lowest to highest. When the number of projections is even, the median is the average of the two middle projections.
+The range and central tendency for each variable in each projection period are depicted in "box and whiskers" format. The blue connected horizontal and vertical lines ("whiskers") represent the range of the projections of policymakers. The bottom of the range for each variable is the lowest of all of the projections for that year or period. Likewise, the top of the range is the highest of all of the projections for that year or period. The light blue shaded boxes represent the central tendency, which is a narrower version of the range that excludes the three highest and three lowest projections for each variable in each year or period.
+The longer-run projections, which are shown on the far right side of the charts, are the rates of growth, unemployment, and inflation to which a policymaker expects the economy to converge over time—maybe in five or six years—in the absence of further shocks and under appropriate monetary policy. Because appropriate monetary policy, by definition, is aimed at achieving the Federal Reserve's dual mandate of maximum employment and price stability in the longer run, policymakers' longer-run projections for economic growth and unemployment may be interpreted, respectively, as estimates of the economy's normal or trend rate of growth and its normal unemployment rate over the longer run. The longer-run projection shown for inflation is the rate of inflation judged to be most consistent with the Federal Reserve's dual mandate.
+
+Explanation of Policy Path Chart
+This chart is based on policymakers' assessments of appropriate monetary policy, which, by definition, is the future path of policy that each participant deems most likely to foster outcomes for economic activity and inflation that best satisfy his or her interpretation of the Federal Reserve's dual objectives of maximum employment and stable prices.
+Each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual participant's judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run.

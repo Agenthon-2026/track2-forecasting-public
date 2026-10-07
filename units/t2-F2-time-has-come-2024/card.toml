@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust2y-2024"]
 expert_time_estimate_min = 45.0
@@ -76,7 +75,7 @@ path           = "text/"
 cutoff         = "2024-08-23"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 6
+n_documents    = 8
 notes          = "A late-August 2024 policy address (as-of day) signals that a rate-cut cycle is about to begin. Cutting is certain; the SIZE of the first move and the path into November are not. July minutes (released 2024-08-21) lean dovish."
 
 [targets]

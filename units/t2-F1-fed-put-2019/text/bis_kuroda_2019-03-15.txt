@@ -1,0 +1,88 @@
+Haruhiko Kuroda: Toward inclusive and sustainable development
+2019-03-15
+
+Bank of Japan
+
+March 15, 2019
+
+## Toward Inclusive and Sustainable Development
+
+Remarks at the B20 Tokyo Summit hosted by Nippon Keidanren (Japan Business Federation)
+
+## Haruhiko Kuroda
+
+Governor of the Bank of Japan
+
+## Introduction
+
+It is a great honor for me to have the opportunity to give a speech at the B20 Tokyo Summit today. This year, with Deputy Prime Minister and Finance Minister Aso, I co-chair the G20 Finance Ministers and Central Bank Governors Meetings. We are discussing a wide range of issues at the G20, including those related to the Sustainable Development Goals (SDGs). 1 To tackle global challenges such as the SDGs, it is essential for the private and public sectors to cooperate with each other. Therefore, I find it very meaningful for business leaders from the G20 member countries to meet together and have discussions, in parallel with the G20 processes.
+
+This year the B20, under the theme of "Realizing Society 5.0 for SDGs," has been discussing innovations in various areas, changes in the business environment, and how to tackle global challenges. Society 5.0 has been proposed by the Japanese government. It is defined as a human-centered society that balances economic advancement with the resolution of social problems by a system that highly integrates cyberspace and physical space. 2 In such a society, the current problems in various areas will be expected to be resolved by cooperation between the private and public sectors through new technologies and innovations.
+
+Today, I will first talk about some recent developments toward achieving the SDGs, and then discuss how innovation could be used to pursue inclusive growth under which "no one is left behind," mainly focusing on the financial aspects.
+
+## I. Recent Trends toward Sustainable Development
+
+Since the Industrial Revolution in the 18th century, global economic productivity has been boosted and people's living standards have been drastically enhanced. This rapid economic growth was supported by advancements in industrial technologies such as the internal combustion engine, and by the realization of a large-scale industrial society incorporating
+
+1 The SDGs are global development goals set by the United Nations in 2015. They are made up of 17 goals and 169 targets to be achieved by 2030. The SDGs succeeded the "Millennium Development Goals (MDGs)," established following the adoption of the United Nations Millennium Declaration in 2000.
+
+2 For details on "Society 5.0 for SDGs," see the website of Cabinet Office, Government of Japan. https://www8.cao.go.jp/cstp/english/society5\_0/index.html
+
+new technologies. It is also true, however, that economic development has had some negative impact globally. Even during the Industrial Revolution, people were troubled by pollution in industrial areas and by poor living conditions in rapidly expanding urban areas. These problems became widespread as industrialization advanced globally. As a result, the modern society, which has developed dynamically based on economic principles such as profit motivation and price mechanisms, is now confronted with a situation of "external diseconomies," a kind of market failure, in economics terminology. It is not easy to resolve this situation. For instance, in the case of climate change due to global warming, an increase in the consumption of fossil fuels in one country now affects other countries, and indeed the entire globe, thereby causing "spatial external diseconomies." Moreover, today's massive consumption of fossil fuels may negatively affect future generations, thereby causing "intertemporal external diseconomies."
+
+One solution to external diseconomies may be direct government regulation. However, this might not necessarily be effective enough as all kinds of problems have become increasingly complicated and globalized. In recent years, many positive developments have been made by private companies, public organizations, and international organizations toward solving such problems.
+
+First, mechanisms have been used more widely to encourage economic agents to act in accordance with the goals of sustainable development. In regard to environmental issues, for instance, carbon tax and renewable energy subsidies give incentives for private agents to save energy and reduce greenhouse gas emissions. Some countries and companies have started emissions trading through market mechanisms based on allocated amounts of permits to discharge greenhouse gases, thereby internalizing the social costs of external diseconomies. Moreover, many private companies have made public commitments to address climate change as part of their corporate social responsibility (CSR), and their stakeholders, including shareholders, are keenly interested in such commitments. If this trend becomes more common, sustainable development could be realized by not only relying on compulsory measures such as direct control of emissions but also using those mechanisms I mentioned.
+
+Second, recent technological innovations have potential to address problems in a way that could not have been considered before. Regarding energy and the environment, industrial products that reduce energy consumption have been developed for a long time, especially in the wake of the oil shock in the 1970s and since concerns over pollution became more widespread. Moreover, dramatic recent developments in digital technologies such as artificial intelligence (AI) and the internet of things (IoT) now allow for the detailed management of energy demand, forecasts of local climate, etc., and are thereby contributing to the further enhancement of energy efficiency. As for emissions trading mentioned earlier, distributed ledger technology has started being used to reduce trading costs and expand markets. In Society 5.0, we are expected to tackle global challenges and realize a sustainable society using these new technologies.
+
+## II. Inclusive Growth and Technological Innovations -- from a Financial Perspective
+
+Needless to say, technological innovations have also brought significant changes to the financial sector, which is closely related to central banks. These changes are important in achieving inclusive growth, one of the key objectives of SDGs. The concept of inclusive growth is that the dividends of economic growth should be distributed fairly across all members of society, leaving no one behind. While the global economy has grown rapidly since the Industrial Revolution, there have been many people who have not been able to enjoy the benefits of growth. Some people have had access to opportunities such as employment, education, and new technologies in various areas, while others have not. Eliminating such disparities has also become an important global concern.
+
+In the context of the financial sector, many countries have recognized financial inclusion as an important policy agenda, the idea that no one should be left behind in having access to and getting benefits from formal financial services. What is remarkable here is that the latest advancements in technologies in the financial sector, so-called FinTech, can help to promote financial inclusion. 3 The diffusion of mobile payments in emerging and developing countries
+
+3 For details about the wide-ranging impact of FinTech on the financial economy and the engagement of central banks, see the following report.
+
+Bank of Japan, Payment and Settlement System Report Annex , FinTech Special Edition, September 2018.
+
+is perhaps a typical example of the contribution of FinTech to financial inclusion. New financial services such as cashless payment using smartphones sometimes spread rapidly in regions without the necessary social infrastructure of bank branches and wired communication. This is a phenomenon, known as "leapfrogging," in which people who do not have access to conventional financial services can obtain immediate access to convenient services through new technologies.
+
+For instance, in China, payment and settlement services using smartphones offered by e-commerce and social network services (SNS) companies have spread rapidly since around 2013. In major cities, the cashless society has progressed to such an extent that people can quite easily lead their daily lives without cash. Online loan services based on credit risk analysis using AI and big data have also been rapidly deployed so that individuals and small and medium-sized enterprises can access them easily. In Africa, where the holding of bank accounts and access to financial services is limited due to underdeveloped banking industries, financial services such as cash withdrawal and short-term loans using mobile devices have become increasingly accessible. Other examples include mobile payment spreading in small island developing states where the development of financial infrastructure had been constrained. Also, in big cities in Southeast Asia with heavy traffic congestion, mobile payment has developed from ride-hailing services. In this way, FinTech has been applied in accordance with each country's or region's situations.
+
+FinTech can therefore contribute not only to economic growth through enhancing convenience and financial intermediation, but also to the resolution of social problems such as financial inclusion.
+
+At the same time, there are some notes of caution in regard to the rapid diffusion of FinTech. First, it is necessary to ensure the security of transactions, including cyber security and the protection of personal information. The risks of abuse of these technologies for money laundering and terrorist financing must also be addressed. Moreover, securing the stability of the financial system is important. In particular, the diffusion of FinTech that expands access
+
+to credit in countries with weak financial supervision may increase financial stability risks, even though it contributes to financial inclusion. 4
+
+## III. Role of the Public Sector
+
+As I have explained, technological advancements can play a significant role in tackling global challenges such as environmental protection and financial inclusion. What role, then, can the public sector play in addressing these challenges while taking advantage of new technologies? I would like to point out three important roles of the public sector, based on the issues I have raised so far and recent discussions in the G20.
+
+First, it is important to support people who cannot fully or readily enjoy the benefits of new technologies. Recently, concerns have been expressed that AI and robots may take over certain occupations. As discussed at the G20 under Argentina's presidency last year, one important role of the public sector is to provide a safety net and opportunities for education and training to those who would be negatively affected by new technologies. 5 We should also pay attention to the possibility that people who are less familiar with digital technologies may be left behind. While FinTech can significantly expand access to financial services, people in certain conditions or circumstances may suffer disadvantages from new technologies such as automated credit examination, for instance. In this regard, we have raised the issue of aging and financial inclusion at the G20 under Japan's presidency this year. We will discuss whether the development and diffusion of digital technologies might impede the access to financial services by the elderly, and how to provide convenient and accessible financial services for all.
+
+Second, we need to secure economic, financial, and social stability. If unemployment increases and investment declines due to an economic recession or financial instability, it would become harder to address a variety of economic and social issues by introducing new
+
+4 Sahay, R., M. Čihák, P. N'Diaye, A. Barajas, S. Mitra, A. Kyobe, Y. N. Mooi, and S. R. Yousefi "Financial Inclusion: Can It Meet Multiple Macroeconomic Goals?" IMF Staff Discussion Note 15/17 , International Monetary Fund, 2015.
+
+5
+
+For a report to the G20 on "the future of work," see
+
+http://www.oecd.org/g20/g20\_menu\_of\_policy\_options\_for\_the\_future\_of\_work\_fwg-executive\_su mmary.pdf
+
+technologies. If the abuse of new technologies leads to social disruption and widespread suspicion of technology, the deployment of new technologies would become more difficult. Regarding technological innovations in the financial sector, the G20 has especially focused on crypto-assets and their underlying technology, and has discussed how to contain the various types of risks while harnessing their potential benefits.
+
+Third, international cooperation is important. As various issues have become globalized, it is essential for financial authorities to cooperate across regions. For instance, regarding environmental issues, the Financial Stability Board (FSB), comprising central banks and financial authorities from many countries, established an industry-led task force on disclosures of companies' climate-related financial risks and strategies. The task force has made recommendations for consistent company disclosures. 6 The G20 has also introduced various multinational initiatives related to environmental issues, including the promotion of infrastructure investment highlighting environmental, social, and governance (ESG) factors.
+
+## Concluding Remarks
+
+Today I have talked about how new technologies can contribute to tackling global challenges such as environmental protection and financial inclusion, and what role the public sector can play. As stressed by Schumpeter about 100 years ago, innovation is driven by entrepreneurs. However, the public sector can play an important role as well in tackling modern global challenges related to the SDGs. The Bank of Japan would like to contribute through taking initiatives toward the healthy development of FinTech, supporting financial institutions which contribute to regional vitalization, promoting financial literacy, as well as securing economic, price, and financial stability.
+
+I would like to conclude my remarks here, with the hope that today's discussion at the B20 will stimulate further cooperation between the private and public sectors toward achieving the SDGs.
+
+Thank you for your attention.
+
+6 For details, see the reports posted on the task force's website. For example, "Recommendations of the Task Force on Climate-related Financial Disclosures," June 2017. https://www.fsb-tcfd.org

@@ -261,7 +261,7 @@ def hydrate_ctx(ctx: dict[str, Any]) -> None:
         if reference_root is None:
             raise organizer_fault(
                 "normalization mode is 'ref_scale' but no reference root was supplied, so the "
-                "answer-equivalent scale cannot be located. Refusing to fall back to raw."
+                "organizer-only scale cannot be located. Refusing to fall back to raw."
             )
         ctx["ref_scale"] = load_ref_scale(
             reference_root,
@@ -551,14 +551,12 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
 
     # ---- single-cell weight renormalization (track-lead ruling, 2026-08-24) ----
     # The variogram is a between-cells statistic: on a 1-cell grid it is 0 by construction,
-    # not by merit, so its weight deflates the composite and the documented anchor breaks --
-    # the frozen baseline lands at exactly w_m + w_t = 0.7 instead of the 1.0 that
-    # SCORING-AGGREGATION.md promises. Measured on the SHIPPED cards, which anyone can
-    # reproduce: 40 of the 71 validation units and 20 of the 33 public-dev units are single-cell,
-    # 60 of 104 overall. So the leaderboard mean was averaging two different scales rather than
-    # hitting an edge case. Nothing is said here about the sealed split's share. On a 1-cell grid
-    # the live
-    # weights are renormalized over the components that structurally exist
+    # not by merit, so its weight deflates the composite: the composite the baseline expects of
+    # itself lands at w_m + w_t = 0.7 instead of 1.0. Measured on the SHIPPED cards, which anyone
+    # can reproduce: 40 of the 71 validation units and 20 of the 33 public-dev units are
+    # single-cell, 60 of 104 overall. So the leaderboard mean was averaging two different scales
+    # rather than hitting an edge case. Nothing is said here about the sealed split's share. On a
+    # 1-cell grid the live weights are renormalized over the components that structurally exist
     # ((0.5, 0.3, 0.2) -> (0.714286, 0, 0.285714)); every multi-cell unit is byte-identical.
     #
     # There is ONE board. An earlier revision of this comment said single- and multi-cell units
@@ -566,9 +564,9 @@ def _score(ctx: dict[str, Any]) -> dict[str, Any]:
     # (track-lead, 2026-08-25) because the scoring program emits one statistic and the live
     # leaderboard has nowhere to put a per-board field -- publishing it would have promised
     # participants a number the platform cannot show them. The renormalization above is what makes
-    # one board fair: it puts the text-blind baseline at 1.0 on both card shapes, so a single
-    # average is averaging one quantity. Ruling and measurements: the private repo's
-    # docs/SCORING-AGGREGATION.md.
+    # one board fair: it puts the composite the text-blind baseline expects of itself at 1.0 on
+    # both card shapes, so a single average is averaging one quantity. Ruling and measurements:
+    # the private repo's docs/SCORING-AGGREGATION.md.
     #
     # The rule is justified BY THE VARIOGRAM being 0, not by the cell count: `energy_score` on a
     # 1-cell grid equals the marginal CRPS, so zeroing its weight would silently discard a defined

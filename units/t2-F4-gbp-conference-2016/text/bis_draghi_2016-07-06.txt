@@ -1,0 +1,54 @@
+Mario Draghi: Eighth ECB Statistics Conference
+2016-07-06
+
+## Mario Draghi: Eighth ECB Statistics Conference
+
+Welcome address by Mr Mario Draghi, President of the European Central Bank, at the Eighth ECB Statistics Conference 'Central bank statistics: moving beyond the aggregates', Frankfurt am Main, 6 July 2016.
+
+* * *
+
+Ladies and gentlemen,
+
+On behalf of the Executive Board of the European Central Bank (ECB), allow me to warmly welcome you to the Eighth ECB Statistics Conference. These biennial conferences are by now a well-established tradition and always give new and valuable impetus to our work in the field of statistics.
+
+The title of today's conference is 'Central bank statistics: moving beyond the aggregates'. Disaggregated data are indeed necessary to identify and analyse the heterogeneity that characterises the real world. For central banks this is particularly important: to implement policy in the most effective way, we need to know how our policy actions affect all sectors of the economy. Both the challenges posed by the current economic climate for monetary and macroprudential policy, and the information required to carry out microprudential supervision by the Single Supervisory Mechanism (SSM) increase our need for granular data.
+
+But this need for a greater level of disaggregation of data comes with its own challenges. The first one is to ensure that data are collected in a way that permits multiple uses. This requires greater harmonisation, and an ability to share data between institutions in a way that still respects confidentiality. The second challenge is to engage with the financial sector to ensure that the increase in data collection does not become burdensome.
+
+## Why the need for granular data?
+
+Improving the collection of disaggregated data will support the ECB's main policy functions in several ways.
+
+On the monetary policy side, greater understanding of the functioning of money markets and of the impact of the monetary transmission mechanism on individual sub-sectors of the economy helps to underpin our analysis of unconventional monetary policy tools and to effectively target future measures. Indeed, this week saw the official go-live of the reporting of data on up to 35,000 daily transactions in the money market, complete with information on quantities, prices and counterparties. This is a very rich information set, crucial for our liquidity management and for understanding the first step of the monetary transmission mechanism.
+
+Collecting more granular data also helps us to better understand the transmission process through the economy more broadly. We need more information on the linkages between individual sectors of the economy and, even more so, between large financial institutions. There are some important areas of the financial sector where we lack complete statistical coverage, especially relating to what we call the 'shadow banking system'. These areas include some complex market products and instruments.
+
+Similarly, our new responsibilities in European banking supervision call for new data concepts and definitions, greatly extending the need for granular data. A successful start has been made, with a new set of legal acts. The collection of loan-by-loan data is already being implemented, but further improvements are possible. In particular, we need to make sure that the data we collect are of a high quality and comparable.
+
+## Effective data integration and cooperation
+
+But today's conference is about more than just collecting additional data. The sharing of data by authorities is also critical. Doing this effectively and efficiently, while maintaining data confidentiality, is a priority for policymakers. It requires action from policy institutions and lawmakers. Putting in place the right architecture will permit a faster and more efficient response to requests across all our policy areas, greatly enhancing the usefulness of granular data.
+
+We have made some progress on the legal foundations for sharing granular data. Council Regulation 2533/98 has been amended to permit the ECB to (re)use confidential statistical information to perform its supervisory tasks. The information can also be shared with Union institutions, including supervisory and resolution authorities, the European Systemic Risk Board and the European Stability Mechanism for the purposes of prudential supervision and ensuring financial stability. This is a major achievement.
+
+The European System of Central Banks (ESCB) has also taken important steps to improve the harmonisation and standardisation of data. The current work on the Banks' Integrated Reporting Dictionary, a joint project involving seven national central banks and 26 commercial banks under the leadership of the ECB, is the best example. This process could and should ultimately enable us to organise the various reporting requirements into a single, comprehensive and harmonised European Reporting Framework.
+
+But the need for harmonisation and standardisation also extends beyond Europe. Finance is a global business, and both the regulation and the underlying data requirements for global institutions would benefit from more harmonisation worldwide. Concrete steps towards standardisation include the establishment of mandatory requirements regarding the use of the International Securities Identification Number and the global Legal Entity Identifier. Europe should retain its prominent role in the implementation of the second phase of the G20 Data Gaps Initiative.
+
+## Engagement with industry
+
+As the banking industry has pointed out, lack of standardisation pushes up costs for the private sector and heightens the risk of mistakes or misinterpretation. And there is some truth to this view.
+
+Policymakers and the industry clearly have a shared interest in focusing on and discussing data collection. It would allow banks to contain their reporting burden and remain competitive at the global level. And it would allow policymakers to improve the quality and relevance of the data they receive. The two groups have quite different roles, but they also share common goals.
+
+As such, data collection should be a joint exercise carried out by the authorities and the banking industry. They can support each other and jointly benefit from the results. After all, there is likely to be a large overlap between the data the authorities need and the data managers of a financial institution require for their own purposes.
+
+Standardising the identifiers of counterparties, transactions, products and reporting requirements in general falls within our mandate and is probably our best course of action. I know that this is easier said than done. The establishment of European banking supervision under the auspices of the ECB, and of the three European Supervisory Authorities, 1 gives us a unique opportunity to make progress in this area in Europe.
+
+1 The European Banking Authority, European Insurance and Occupational Pensions Authority and European Securities and Markets Authority.
+
+## Conclusion
+
+Let me finish by saying that the well-established ESCB statistics will continue to provide the 'big picture' of economic developments. But we should also offer a magnifying glass. Looking at the details beyond the aggregates enriches our understanding of economic phenomena and at the same time increases our flexibility to respond to unexpected policy needs, contributing to even better statistics.
+
+So, once again, I welcome you to this conference and also take this opportunity to thank all the organisers for their efforts in making it happen. I wish all of you an interesting and successful day. I hope you find some answers to the challenges I have mentioned, and I look forward to hearing the results of your discussions.

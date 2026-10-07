@@ -1,0 +1,64 @@
+# source: https://home.treasury.gov/news/press-releases/jy1671 | date: 2023-08-02 | type: landmark
+
+Quarterly Refunding Statement of Assistant Secretary for Financial Markets Josh Frost
+U.S. Department of the Treasury, 2 August 2023
+
+WASHINGTON — The U.S. Department of the Treasury is offering $103 billion of Treasury securities to refund approximately $84 billion of privately-held Treasury notes and bonds maturing on August 15, 2023. This issuance will raise new cash from private investors of approximately $19 billion. The securities are:
+
+- A 3-year note in the amount of $42 billion, maturing August 15, 2026;
+- A 10-year note in the amount of $38 billion, maturing August 15, 2033; and
+- A 30-year bond in the amount of $23 billion, maturing August 15, 2053.
+
+The 3-year note will be auctioned at 1:00 p.m. ET on Tuesday, August 8, 2023. The 10-year note will be auctioned at 1:00 p.m. ET on Wednesday, August 9, 2023. The 30-year bond will be auctioned at 1:00 p.m. ET on Thursday, August 10, 2023. All of these auctions will take place on a yield basis and will settle on Tuesday, August 15, 2023.
+
+The balance of Treasury financing requirements over the quarter will be met with regular weekly bill auctions, cash management bills (CMBs), and monthly note, bond, Treasury Inflation-Protected Securities (TIPS), and 2-year Floating Rate Note (FRN) auctions.
+
+PROJECTED FINANCING NEEDS AND ISSUANCE PLANS
+
+Based on projected intermediate- to long-term borrowing needs, Treasury intends to gradually increase coupon auction sizes beginning with the August to October 2023 quarter. While these changes will make substantial progress towards aligning auction sizes with intermediate- to long-term borrowing needs, further gradual increases will likely be necessary in future quarters. The scale of these increases will depend on a variety of factors, including the evolution of the fiscal outlook and the pace and duration of future SOMA redemptions.
+
+NOMINAL COUPON AND FRN FINANCING
+
+Over the next three months, Treasury anticipates incrementally increasing auction sizes across benchmark tenors. Treasury plans to increase auctions sizes by slightly larger amounts in certain tenors in order to maintain the structural balance of supply and demand across tenors. Treasury will evaluate whether similar relative adjustments are appropriate when determining auction size changes in future quarters.
+
+Treasury plans to increase the auction sizes of the 2- and 5-year by $3 billion per month, the 3-year by $2 billion per month, and the 7-year by $1 billion per month. As a result, the auction sizes of the 2-, 3-, 5-, and 7-year will increase by $9 billion, $6 billion, $9 billion, and $3 billion, respectively, by the end of October 2023.
+
+Treasury plans to increase both the new issue and the reopening auction size of the 10-year note by $3 billion, the 30-year bond by $2 billion, and the $20-year bond by $1 billion.
+
+Treasury plans to increase the August and September reopening auction size of the 2-year FRN by $2 billion and the October new issue auction size by $2 billion.
+
+The table below presents, in billions of dollars, the actual auction sizes for the May to July 2023 quarter and the anticipated auction sizes for the August to October 2023 quarter:
+
+Month | 2-Year | 3-Year | 5-Year | 7-Year | 10-Year | 20-Year | 30-Year | FRN
+May-23 | 42 | 40 | 43 | 35 | 35 | 15 | 21 | 22
+Jun-23 | 42 | 40 | 43 | 35 | 32 | 12 | 18 | 22
+Jul-23 | 42 | 40 | 43 | 35 | 32 | 12 | 18 | 24
+Aug-23 | 45 | 42 | 46 | 36 | 38 | 16 | 23 | 24
+Sep-23 | 48 | 44 | 49 | 37 | 35 | 13 | 20 | 24
+Oct-23 | 51 | 46 | 52 | 38 | 35 | 13 | 20 | 26
+
+Treasury plans to address any seasonal or unexpected variations in borrowing needs over the next quarter through changes in regular bill auction sizes and/or CMBs.
+
+TIPS FINANCING
+
+Given the intermediate- to long-term borrowing outlook and robust investor demand, Treasury believes that incremental increases to TIPS auction sizes – starting with the October 5-year new issue – will be prudent in order to maintain a stable share of TIPS as a percentage of total marketable debt outstanding. Going forward, Treasury will monitor TIPS demand and liquidity to determine the appropriate mix of modest increases in TIPS auctions sizes in future quarters.
+
+Over the August to October 2023 quarter, Treasury plans to maintain the August 30-year TIPS reopening auction size at $8 billion and to maintain the September 10-year TIPS reopening auction size at $15 billion. Treasury plans to increase the October 5-year TIPS new issue auction by $1 billion to $22 billion.
+
+CASH BALANCE AND BILL ISSUANCE
+
+Since the suspension of the debt limit in early June, Treasury has increased bill issuance to continue to finance the government and to gradually rebuild the cash balance over time to a level more consistent with its cash balance policy. As previously noted, Treasury anticipates that the cash balance will approach levels consistent with its policy by the end of September. Accordingly, Treasury anticipates further moderate increases in Treasury bill auction sizes in the coming days. Treasury also intends to continue issuing the regular weekly 6-week CMB, at least through the end of this calendar year.
+
+BUYBACKS
+
+Treasury has made significant progress on its plans to implement a regular buyback program in 2024. In addition to last quarter’s presentation on Treasury’s views on a potential buyback program, today Treasury has published a detailed presentation on the program’s operational design parameters. Treasury plans to continue gathering feedback from market participants on these and other parameters. Treasury anticipates providing further updates to the public on its implementation plans in future quarterly refunding announcements.
+
+SMALL-VALUE CONTIGENCY AUCTION OPERATION
+
+Treasury believes that it is prudent to regularly test its contingency auction infrastructure. Treasury’s contingency auction system has been used routinely over the last several years to conduct both mock auctions and live small-value test auctions. Sometime over the next three months, Treasury intends to conduct a small-value test auction using its contingency auction system. Details about this test will be announced at a later date.
+
+This small-value test auction should not be viewed by market participants as a precursor or signal of any pending policy changes regarding Treasury’s existing auction processes.
+
+Please send comments or suggestions on these subjects or other subjects related to debt management to debt.management@treasury.gov.
+
+The next quarterly refunding announcement will take place on Wednesday, November 1, 2023.

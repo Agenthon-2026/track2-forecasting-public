@@ -10,7 +10,8 @@ came from.
 **Where no grant to the organizers is evidenced, this file says so rather than naming a licence.**
 "Issuer's terms govern" is not a grant and not a denial — it means the terms have not been
 established from any evidence in this repository, unless the entry quotes the issuer's published
-terms, as it does for the two ECB files and the SNB press release below.
+terms, as it does for the ECB files that print the ECB's permission, the SNB press release and the
+HM Treasury document below.
 
 ## Software
 
@@ -28,14 +29,22 @@ Works prepared by officers or employees of a U.S. federal agency in the course o
 duties carry no copyright. No permission is required and no attribution is obligatory.
 
 - **U.S. Federal Reserve Board of Governors** (federalreserve.gov) — FOMC statements and minutes,
-  Beige Book, and speeches and testimony by Board officials (Bernanke, Greenspan, Yellen, Powell,
-  Clarida, Fischer, Bowman, Brainard, Cook, Kugler, Kroszner, Mishkin, Warsh, Waller). This includes
+  Beige Book, Summaries of Economic Projections, press-conference transcripts, press releases, and
+  speeches and testimony by Board officials (Bernanke, Greenspan, Yellen, Powell, Clarida, Fischer,
+  Bowman, Brainard, Cook, Kugler, Kroszner, Mishkin, Warsh, Waller, Barr, Bies, Duke, Gramlich,
+  Jefferson, Quarles, Raskin, Tarullo). This includes
   copies **mirrored on bis.org**: the speaker's employer determines status, not the host site. BIS
   is a mirror and compiler here, not the author.
 - **U.S. Bureau of Labor Statistics**, U.S. Department of Labor (bls.gov) — Consumer Price Index and
   Employment Situation news releases, and the CPI/payrolls/unemployment series used in the monthly
   macro panels.
 - **U.S. Bureau of Economic Analysis** — PCE price index series used in the monthly macro panels.
+- **U.S. Department of the Treasury** (home.treasury.gov), **The White House** (archived at
+  trumpwhitehouse.archives.gov and bidenwhitehouse.archives.gov), **U.S. Department of State**
+  (2021-2025.state.gov) and **Office of the U.S. Trade Representative** (ustr.gov) — statements,
+  briefings, remarks and a quarterly refunding statement added as key-event documents (see
+  `data/LANDMARKS.md`), and the joint statement of the Treasury, FDIC, OCC, OTS and Federal Reserve
+  of 23 February 2009, published on federalreserve.gov.
 - **U.S. Commodity Futures Trading Commission** (cftc.gov) — Commitments of Traders reports. The
   tabular extracts shipped here are **organizer-formatted renderings** of that public-domain data,
   not verbatim CFTC documents; the formatting layer is MIT.
@@ -63,36 +72,49 @@ are original organizer work under this repository's `LICENSE` (MIT).
 
 ## Non-U.S. central banks — the issuing institution's terms govern
 
-None of the material below is a U.S. Government work, and **except for the two ECB files and the SNB
-press release noted below, no grant to the organizers is evidenced anywhere in this repository.** It
-is neither MIT nor CC-BY-4.0. Those three are the only ones whose reuse terms are established: the
-ECB files print them, and the SNB publishes them on its copyright page. Most copies were obtained
-from the BIS *Central bankers' speeches* archive, which is a host and compiler — **BIS authored none
-of these documents**, and a thin typesetting or compilation layer may sit over the underlying text.
+None of the material below is a U.S. Government work, and **except for the ECB files that print the
+ECB's permission and the SNB press release, noted below, no grant to the organizers is evidenced
+anywhere in this repository.** It is neither MIT nor CC-BY-4.0. Those are the only ones whose reuse
+terms are established: the ECB files print them, and the SNB publishes them on its copyright page.
+Most copies were obtained from the BIS *Central bankers' speeches* archive, which is a host and
+compiler — **BIS authored none of these documents**, and a thin typesetting or compilation layer may
+sit over the underlying text.
 
 - **Bank for International Settlements** (bis.org) — *Central bankers' speeches* archive; the source
   from which most speeches below were obtained. BIS's own compilation and typesetting rights are
   reserved to BIS.
-- **European Central Bank** (ecb.europa.eu) — speeches and hearings by ECB officials (Draghi,
-  Trichet, Lagarde, de Guindos, Praet, Schnabel, Elderson, Cœuré, Constâncio, Lane, Mersch, Bini
-  Smaghi, Hernández de Cos, Buch, Papademos), including material derived from the ECB's published
-  speech corpus. The ECB applies its own reuse terms. **Two of these files print those terms on the
-  page** — `draghi_whatever_it_takes_2012.txt` (line 42) and `bis_schnabel_2020-02-27.txt`
-  (line 563) both carry the ECB's standard footer, *"Reproduction is permitted provided that the
-  source is acknowledged."* We reproduce them and acknowledge the ECB. The sentence was searched for
-  literally over every text file in the tree and appears in **those two and no others**.
-- **Bank of Japan** (boj.or.jp) — policy statements and speeches (Kuroda, Ueda, Wakatabe,
-  Shirakawa, Adachi, Nakaso, Noguchi, Masai, Shirai, Sato, Iwata).
-- **Bank of England** (bankofengland.co.uk) — Monetary Policy Committee statements and speeches
+- **European Central Bank** (ecb.europa.eu) — monetary policy decisions, press-conference
+  statements, one statement after an ad hoc Governing Council meeting, and speeches and hearings by
+  ECB officials (Draghi, Trichet, Lagarde, de Guindos, Praet, Schnabel, Elderson, Cœuré, Constâncio,
+  Lane, Mersch, Bini Smaghi, Hernández de Cos, Buch, Papademos, Panetta, Lautenschläger,
+  Tumpel-Gugerell, González-Páramo, Cipollone, McCaul, Duisenberg), including material derived from
+  the ECB's published speech corpus. The ECB applies its own reuse terms. **Six of these documents,
+  in eight files, print those terms on the page**: the ECB's standard footer, *"Reproduction is
+  permitted provided that the source is acknowledged."* They are
+  `draghi_whatever_it_takes_2012.txt`, `bis_schnabel_2020-02-27.txt`, `bis_guindos_2019-11-06.txt`
+  (three copies), `bis_lane_2020-02-17.txt`, `bis_lagarde_2020-09-10.txt` and
+  `bis_panetta_2022-03-30.txt`; their manifest entries use `LicenseRef-ECB-Reproduction-Permitted`.
+  We reproduce them and acknowledge the ECB. The sentence was searched for literally over every text
+  file in the tree and appears in **those eight files and no others**. One further speech,
+  `bis_elderson_2022-12-01.txt`, ends with "Copyright 2022, European Central Bank" and no
+  permission; the ECB's terms govern it.
+- **Bank of Japan** (boj.or.jp) — statements on monetary policy and speeches (Kuroda, Ueda,
+  Wakatabe, Shirakawa, Adachi, Nakaso, Noguchi, Masai, Shirai, Sato, Iwata, Uchida, Takata, Fukui).
+- **Bank of England** (bankofengland.co.uk) — Monetary Policy Committee statements and Monetary
+  Policy Summaries, and speeches
   (Carney, Paul Fisher, Cunliffe, Gieve, Shafik, Cleland). *Note: Paul Fisher of the Bank of England
   is a different person from Richard Fisher of the Dallas Fed, and Stanley Fischer of the Federal
   Reserve Board is a third.*
-- **Reserve Bank of Australia** (rba.gov.au) — speeches by Stevens and Lowe.
-- **People's Bank of China** — speeches and articles by Hu Xiaolian and Yi Gang, reproduced in the
-  BIS archive. These files carry verbatim bis.org PDF URLs in their own first line.
-- **Bank of Canada** (bankofcanada.ca) — speeches by Poloz and Wilkins. Canadian **Crown copyright**
-  and the Bank's own terms apply.
-- **Swiss National Bank** (snb.ch) — three speeches by Thomas Jordan and one press release.
+- **Reserve Bank of Australia** (rba.gov.au) — speeches by Stevens and Lowe, and monetary policy
+  decision statements. The decision statements were copied from Internet Archive captures of the
+  official rba.gov.au pages.
+- **People's Bank of China** (pbc.gov.cn) — speeches and articles by Hu Xiaolian and Yi Gang,
+  reproduced in the BIS archive (these files carry verbatim bis.org PDF URLs in their own first
+  line), and two policy announcements.
+- **Bank of Canada** (bankofcanada.ca) — speeches by Poloz and Wilkins, and interest-rate
+  announcements. Canadian **Crown copyright** and the Bank's own terms apply.
+- **Swiss National Bank** (snb.ch) — three speeches by Thomas Jordan, one press release, and six
+  monetary policy assessments (added 2026-09-28; the same copyright page governs them).
   **One of the speeches, `bis_jordan_2021-04-30.txt`, carries an express "© Swiss National Bank"
   notice on its face** (lines 16 and 154), which rules out any MIT or CC-BY-4.0 label for it. The
   other two, `bis_jordan_2014-11-23.txt` and `bis_jordan_2014-12-01.txt`, carry **no copyright
@@ -105,8 +127,25 @@ of these documents**, and a thin typesetting or compilation layer may sit over t
   other ways "for non-commercial purposes, compatible with the purpose of such information or
   data". We reproduce the release on those terms, for non-commercial research, and name the SNB
   as its source.
-- **Reserve Bank of India** (rbi.org.in) — address by Deputy Governor Michael Debabrata Patra.
+- **Reserve Bank of India** (rbi.org.in) — address by Deputy Governor Michael Debabrata Patra, and
+  one monetary policy statement.
+- **Norges Bank** (norges-bank.no), **Sveriges Riksbank** (riksbank.se) and **Danmarks
+  Nationalbank** (nationalbanken.dk) — monetary policy decision announcements.
+- **Reserve Bank of New Zealand** (rbnz.govt.nz) — Official Cash Rate
+  announcements, copied from Internet Archive captures of the official pages.
+- **Banco Central do Brasil** (bcb.gov.br) — one Copom decision statement.
 - **Bank Indonesia** (bi.go.id) — welcoming remarks by Governor Agus D W Martowardojo.
+
+### Non-U.S. finance ministries
+
+- **HM Treasury** (gov.uk) — *The Growth Plan 2022* (CP 743), `hmt_growth_plan_2022-09-23.txt`. The
+  document carries "© Crown copyright 2022" and is published under the **UK Open Government Licence
+  v3.0**. As that licence asks: contains public sector information licensed under the Open
+  Government Licence v3.0.
+- **Ministry of Finance, Japan** (mof.go.jp) — one monthly report of foreign exchange intervention
+  operations, and one joint statement of the Ministry of Finance, the Financial Services Agency and
+  the Bank of Japan (10 June 2022, Japanese original, copied from the National Diet Library's WARP
+  archive of mof.go.jp). The Ministry's terms of use govern.
 
 ### Embedded fourth-party rights
 
@@ -125,6 +164,8 @@ public domain. The issuer authored and owns each document; the SEC only hosts it
 - **SVB Financial Group** — 8-K exhibits; carry "© 2023 SVB Financial Group. All rights reserved."
 - **Pfizer Inc.** — 8-K exhibit (Q3 2020 results press release).
 - **Moderna, Inc.** — 8-K exhibit (Q3 2020 financial results press release).
+- **Lehman Brothers Holdings Inc.** — 8-K Exhibit 99.1 of 10 September 2008 (preliminary third
+  quarter results and strategic restructuring press release).
 
 ## Factor libraries — providers' terms of use
 

@@ -1,0 +1,138 @@
+Michelle W Bowman: Advancing cross-border payments and financial inclusion
+2024-02-15
+
+For release on delivery 2:00 a.m. EST (9:00 a.m. local time) February 15, 2024
+
+Advancing Cross-Border Payments and Financial Inclusion
+
+Remarks by
+
+Michelle W. Bowman
+
+Member
+
+Board of Governors of the Federal Reserve System
+
+at
+
+19th BCBS-FSI High-Level Meeting for Africa
+
+Cape Town, South Africa
+
+February 15, 2024
+
+## Introduction
+
+Thank you to the Financial Stability Institute of the Bank for International Settlements and especially to its Chair, Fernando Restoy for the invitation to speak about these important topics. 1 I'd also like to thank the South African Reserve Bank for hosting this gathering. It is a pleasure to join you in Cape Town, and I am delighted to speak with you about advancing crossborder payments and financial inclusion. I find great value in engaging with and learning from our international colleagues on these international and domestic issues.
+
+We are all participants in a global and interconnected financial ecosystem, and payments are a vital component of this system. The payments landscape continues to evolve, through infrastructure upgrades, innovation, changing consumer preferences, and advancements in both the public and private sectors. Faster, cheaper, more transparent, and more inclusive crossborder payment services offer widespread benefits for citizens and economies around the world, with the potential to support economic growth, international trade, global development, and financial inclusion.
+
+This global ecosystem is comprised of individual jurisdictions, each with its own history, public policy objectives, payment infrastructures, and regulatory environments. Within these independent economies exist a wide range of businesses and consumers, all with vastly different needs and requirements. As policymakers, we must consider not only how to foster safe, efficient, and accessible payment and settlement infrastructures to support the broader financial system but also how those same systems and infrastructures can support the needs of consumers, businesses, and financial service providers. This includes support for responsible innovation and
+
+1 Thank you to Priyanka Slattery and Alex Sproveri of the Federal Reserve Board for their assistance in preparing this text. The views expressed here are my own are and not necessarily those of my colleagues on the Federal Reserve Board.
+
+enabling providers, such as banks and other nonbank financial service providers, to meet the evolving needs of their customers.
+
+In many cases, the policy tradeoffs we face domestically are amplified in the cross-border context. To foster safety and efficiency in the payment system, it is imperative to seek improvements that support an accessible and inclusive system that works for the broad spectrum of different participants, while still maintaining rigorous risk, fraud prevention, and compliance standards that are critical for protecting participants and the overall system. It is also important to note that these issues are complex and will not be resolved through advances in technology alone. Rather, changes in technology must align with the evolution in individual behavior and market conventions, and when this does occur, it does so only over time.
+
+Today, I will share my views on the evolving cross-border payments landscape, discuss how financial inclusion is framed within this broader context, highlight the roles that both the public and private sectors play, and identify actions that the Federal Reserve is taking to improve payment system infrastructures and support responsible innovation. Throughout, I will highlight the key challenges and public policy tradeoffs that we, as policymakers, should consider.
+
+## Complexity and Challenges of the Cross-Border Payments Landscape
+
+Cross-border payments face a number of challenges, including high costs, low speed, barriers to access, and limited transparency. 2 Today, cross-border payments are carried out through a diverse, multilayered set of networks and are inherently more complex than domestic payments as they involve multiple participants, infrastructures, currencies, time zones, jurisdictions, and legal and regulatory frameworks. These challenges add complexity and create frictions in the cross-border payments process, leading to higher transaction costs and slower
+
+2 See Financial Stability Board, Enhancing Cross-Border Payments: Stage 1 Report to the G20 (Financial Stability Board, April 2020), https://www.fsb.org/wp-content/uploads/P090420-1.pdf.
+
+processing times for consumers and businesses. To help address these frictions, the G20 countries agreed in 2020 to a multiyear roadmap to identify and develop improvements to crossborder payments. 3 The G20 Roadmap for Enhancing Cross-Border Payments is an instructive example of collaboration across jurisdictions, engaging in international dialogs and working with the private sector to identify how best to ease unnecessary frictions.
+
+As one who values efficiency, I am generally supportive of opportunities to address unnecessary frictions. However, when considering frictions related to cross-border payments, some are necessary while others may not be necessary. Any discussion of these frictions must be nuanced and properly contextualized since there are public policy tradeoffs and operational realities that must be considered. Some frictions may be the result of intentional policy choices and safeguards implemented to protect the parties involved in a transaction while also protecting the financial system as a whole. Other frictions may result from consumer or business preferences. As policymakers, we must consider all of these frictions within this broader context.
+
+Let's take compliance requirements as an example. Banks play a critical role in implementing compliance and reporting requirements that support public policy objectives, including the deterrence of financial crimes and countering terrorism finance. In the United States and other jurisdictions, banks balance this need for transparency to deter crime with the need to protect the privacy of consumer financial data. 4 While regulatory compliance
+
+3 For more information on the G20 cross-border payments improvement roadmap and its progress, see Financial Stability Board, Enhancing Cross-border Payments: Stage 3 Roadmap (Financial Stability Board, October 2020), https://www.fsb.org/2020/10/enhancing-cross-border-payments-stage-3-roadmap/ and Financial Stability Board, G20 Roadmap for Enhancing Cross-border Payments: Consolidated Progress Report for 2023 (Financial Stability Board, October 2023), https://www.fsb.org/2023/10/g20-roadmap-for-enhancing-cross-border-paymentsconsolidated-progress-report-for-2023/
+
+4 See Board of Governors of the Federal Reserve System, Money and Payments: The U.S. Dollar in the Age of Digital Transformation (Washington: Board of Governors, January 2022),
+
+https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf.
+
+requirements add complexity, particularly in cross-border payments, it is a complexity that results from the discretion to apply various compliance frameworks in different jurisdictions. With this in mind, we can consider ways to encourage more consistent implementation of rigorous international standards and continue to support the development of new technologies and solutions that help automate processes, reduce costs, and promote effective safeguards across jurisdictions.
+
+As I have discussed in previous remarks, while conversations on payments innovation often focus on technological capabilities as the solution to realizing certain benefits, technology on its own is not always the driver of realizing these benefits since many of these issues are grounded in policy choices and operational realities. 5 However, it is still important to assess potential opportunities for technological innovation and the benefits technology could provide within the broader context of a robust, well-functioning global banking and payments system. I have long supported responsible innovation that solves specific problems and enables financial service providers to meet the needs of consumers and businesses in a safe and sound manner.
+
+Despite the difficulty and complexity of overcoming cross-border frictions and challenges, we can work together, through the G20 and in other collaborative settings, to identify ways to make incremental and tangible progress. There are many tools to consider-such as infrastructure improvements, sharing best practices across jurisdictions, improving data flows, and recognizing innovative technologies and business models. This work will likely require a combination of these tools to reduce unnecessary frictions while still achieving significant policy goals.
+
+5 See Michelle W. Bowman, 'Responsible Innovation in Money and Payments' (speech at Roundtable on Central Bank Digital Currency, Harvard Law School Program on International Financial Systems, Washington, D.C., October 17, 2023), https://www.federalreserve.gov/newsevents/speech/bowman20231017a.htm.
+
+## Payments and Financial Inclusion
+
+I will turn now to discuss financial inclusion, which is an important lens through which policymakers should consider these challenges. 6 Many features of the payment system-such as access, cost, and speed-have profound implications for financial inclusion. In my view, the payment system and the broader economy are most efficient and effective when there is broad participation, when unnecessary frictions are minimized, and when banks, especially smaller financial institutions, can provide services to meet consumer demand in a safe and sound manner. An inclusive financial system offers accessible choices that meet consumers' needs and enhance their financial well-being. From a consumer's perspective, this means the opportunity to make payments, to build wealth and gain access to credit and other needed financial services to participate in an increasingly digital and interconnected economy.
+
+Access to the payments system enables consumers to meet financial obligations by receiving and transferring money safely and in a timely manner. Reliable, cost-efficient payment services promote financial inclusion by providing consumers with options that meet their various needs. This is critical because financial inclusion is not a one-size-fits-all solution. In the U.S., for example, consumers come from a wide range of economic circumstances; have varied perceptions of and experiences with the banking system; and, most importantly, have different needs when it comes to financial products and services.
+
+It is also essential to note that gaps in financial inclusion differ across jurisdictions. In some cases, these gaps stem from the limited availability of and individual ability to access the various types of payment and financial services provided in different countries. This varied
+
+6 See Michelle W. Bowman, 'Building a More Inclusive Financial System through Collaboration and Action' (speech at the Aspen Institute, Washington, D.C., December 5, 2023),
+
+https://www.federalreserve.gov/newsevents/speech/bowman20231205a.htm.
+
+access to services may be due in part to unique regulatory environments and consumer and business preferences. Thus, policymakers and service providers within each jurisdiction are best suited to tailor solutions within their own domestic context.
+
+Although each jurisdiction is unique, we as policymakers should be willing to collaborate and assess opportunities for systemic improvements that could provide widespread benefits, including the work of the G20 in support of cross-border payments. Minimizing unnecessary frictions is a worthy goal whether the intended beneficiary is an international financial institution, a small business or nonprofit managing cashflow with international customers, or a consumer simply seeking to send and receive payments, needing to do so safely without excessive fees or experiencing extended delays in receiving funds.
+
+In the context of cross-border payments, global remittances can also play a significant role in expanding financial inclusion. In some countries, these remittances are an economic driver by serving as a key source of funding for some households, which can provide a path to a more inclusive economy. As a result, it is critical that consumers can send and receive these types of payments safely, efficiently, and affordably. Research has shown that the ability to receive remittances increases the probability of having a bank account and contributes to economic engagement. 7 Yet, high fee structures for remittance services can have a significant impact on households sending money abroad. Recent data show the average cost for sending a $200 remittance from the United States was approximately 5.8 percent of the transaction amount, or about $12. 8 The G20 countries have reaffirmed the United Nations Sustainable Development
+
+7 Gemechu Ayana Aga and Maria Soledad Martinez Peria, 'International Remittances and Financial Inclusion in Sub-Saharan Africa,' Policy Research Working Paper (Washington: World Bank Group, Development Research Group, July 2014), https://openknowledge.worldbank.org/server/api/core/bitstreams/19e5d9c1-cabd-5c54-a4c2fd2f12964b61/content. David Malpass, 'Remittances Are a Critical Economic Stabilizer,' World Bank Blog, December 6, 2022, https://blogs.worldbank.org/voices/remittances-are-critical-economic-stabilizer. 8 The World Bank, Remittance Prices Worldwide Quarterly , Issue 47, September 2023, p. 20, https://remittanceprices.worldbank.org/sites/default/files/rpw\_main\_report\_and\_annex\_q323\_1101.pdf.
+
+target for reducing average remittance fees to below 3 percent by 2030. 9 Encouraging more costeffective remittance services could result in a greater proportion of funds reaching the intended recipients, which could further bolster their economic capabilities.
+
+## Roles To Be Played by both Private and Public Sectors
+
+But how might we achieve some of these more efficient and cost-effective payment systems? Both public- and private-sector participants have critical and complementary roles in advancing financial inclusion within a given jurisdiction and improving the efficiencies of crossborder payments and remittances.
+
+The payments industry has long relied upon innovation to meet the evolving needs and expectations of consumers and businesses. In an increasingly digital economy, these innovations offer valuable options for consumers and business to send and receive payments in more convenient and cost-effective ways. Today, the private sector offers opportunities to expand access to digital payments and other financial services. For example, in the U.S., the Bank On program promotes a national standard for customer bank accounts that are both low cost and low risk. 10 Other jurisdictions have incorporated improvements in financial access through mobile money transaction accounts. Some payment service providers have established partnerships to expand upon the options available to consumers and businesses for sending and receiving funds.
+
+Other private sector initiatives are exploring technology enhancements to offer more convenient digital options for consumers and businesses to send remittances or make payments
+
+9 See United Nations Department of Economic and Social Affairs, Transforming Our World: the 2030 Agenda for Sustainable Development (United Nations), https://sdgs.un.org/2030agenda and Financial Stability Board, Targets for Addressing the Four Challenges of Cross-Border Payments: Final Report (Financial Stability Board, October 2021), https://www.fsb.org/wp-content/uploads/P131021-2.pdf.
+
+10 See 'Bank On,' Cities for Financial Empowerment Fund, https://cfefund.org/project/bank-on/. In the United States, approximately 95.5 percent of U.S. households were 'banked' in 2021, meaning that at least one member of the household held a bank account. Federal Deposit Insurance Corporation, '2021 FDIC National Survey of Unbanked and Underbanked Households' (July 2022), https://www.fdic.gov/analysis/householdsurvey/2021report.pdf.
+
+across borders. These private sector developments complement ongoing public sector crossborder initiatives, including the G20 work. Continued collaboration like these efforts across the public and private sectors must support responsible innovation, including a well-defined regulatory perimeter that protects consumers and the broader financial system.
+
+I'd like to take a moment to highlight two instances in which the Federal Reserve has provided clarity to support financial inclusion within a framework of responsible innovation. First, the Fed issued an interagency statement in support of banks engaging in small-dollar lending. 11 This guidance underscores the importance of financial institutions offering smalldollar loan products to consumers and small businesses that support successful repayment outcomes and that avoid continuous cycles of debt due to rollover and reborrowing. Additionally, the statement recognizes that these products can help borrowers transition into other types of credit-based financial products. Second, the Fed also issued an interagency statement on the use of alternative data in credit underwriting. 12 This guidance clarifies that with a customer's consent, a bank can use alternative data, like checking account balance activity, to help evaluate the creditworthiness of a potential borrower who might not otherwise qualify for a loan. In both cases, timely guidance has sought to support responsible innovation and leverage the cashflow information on deposit accounts to meet their customers' needs.
+
+While I have highlighted a few examples that illustrate the connection between payments and financial inclusion, the Fed supports and participates in several initiatives to broadly enhance
+
+11 Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency, 'Interagency Lending Principles for Making Responsible Small-Dollar Loans,' SR letter 20-14 / CA letter 20-8 (May 20, 2020).
+
+12 Board of Governors of the Federal Reserve System, Consumer Financial Protection Bureau, Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency,
+
+"Interagency Statement on the Use of Alternative Data in Credit Underwriting," CA letter 19-11 (December 12, 2019).
+
+these efforts. These efforts will continue to work toward fostering a U.S. economy that works for everyone. 13
+
+## Payment System Improvement and International Collaboration
+
+Finally, I would like to highlight some recent Federal Reserve activities that support domestic and international payment systems improvement and responsible innovation. The U.S. financial and payment systems currently support the effective transmission of funds, and our work will continue to evaluate opportunities to improve upon an already safe and efficient system. The recent introduction of the FedNow® Service, our new interbank system for instant payments, and our commitment to adopt the ISO 20022 messaging standard for the Federal Reserve's wholesale payment service by March of next year demonstrate this ongoing effort. 14
+
+Over the longer term, the Federal Reserve will continue to conduct research and assess innovative technologies and business models to better understand their potential role in the future payments and financial ecosystem. This analysis must include a consideration of potential opportunities, risks, and tradeoffs primarily for cross-border payments and secondarily for financial inclusion.
+
+The Federal Reserve also works closely with our international counterparts on payments innovation and related topics. This includes work with multilateral institutions including the Bank for International Settlements, the G7, and the Financial Stability Board, as well as bilateral engagements with other central banks. As I've discussed today, continued collaboration among public-sector institutions and across the broader payments community will be essential for
+
+13 See Michelle W. Bowman, 'Building a More Inclusive Financial System through Collaboration and Action' (speech at the Aspen Institute, Washington, D.C., December 5, 2023),
+
+https://www.federalreserve.gov/newsevents/speech/bowman20231205a.htm.
+
+14 For more information on the March 2025 implementation date, see Board of Governors of the Federal Reserve System, 'Federal Reserve Board Announces Final Timeline and Implementation Details for Adoption of New Fedwire Funds Service Message Format,' press release, June 27, 2022,
+
+https://www.federalreserve.gov/newsevents/pressreleases/other20220627a.htm.
+
+fostering progress toward a more inclusive, effective, and efficient cross-border payments system that works for everyone.
+
+## Conclusion
+
+The payments landscape is complex, and it continues to evolve in response to consumer and business needs. Policymakers must continue to consider opportunities to improve domestic and cross-border payment and settlement infrastructures and seek to further broader access to the financial system. At the same time, we must recognize that these challenges present opportunities to refine public policy decisions understanding the tradeoffs and the distinct needs and circumstances across jurisdictions and among consumers and businesses. Opportunities to discuss these issues, as we are today, are essential for creating opportunities to learn and collaborate.
+
+Our progress will likely be incremental and slow, requiring a longer-term view. The safety of our financial system requires that we get this right, and our pursuit of improvements in the payments system must avoid the temptation to rely on new technology alone. This will require us to thoughtfully consider the many policy choices that lead to these improvements.
+
+Thank you for the opportunity to share my views on these issues, and I look forward to examining them further during the upcoming panel discussion.

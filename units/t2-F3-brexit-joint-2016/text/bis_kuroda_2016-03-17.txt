@@ -1,0 +1,62 @@
+Haruhiko Kuroda: Innovations in payments and FinTech - the central bank's perspective
+2016-03-17
+
+## Haruhiko Kuroda: Innovations in payments and FinTech - the central bank's perspective
+
+Remarks by Mr Haruhiko Kuroda, Governor of the Bank of Japan, at the Forum on Payment and Settlement Systems, Tokyo, 17 March 2016.
+
+* * *
+
+## Introduction
+
+It is a great pleasure to welcome you all today to our Forum on Payment and Settlement Systems.
+
+## I. Innovations in payments and FinTech
+
+Recent years have seen a number of developments in financial services, including in the area of payments. Innovations that combine finance and new technology, called 'FinTech,' have become a particular focus of attention.
+
+It is clear that there are both supply-side and demand-side factors behind such developments.
+
+On the supply side, the advance in technological innovations related to information and communications is progressing. The processing power of computers continues to grow rapidly, and computers can analyze huge amounts of data - that is, 'big data' - in a relatively short period of time.
+
+There has also been a rapid spread of forms of infrastructure such as the internet and mobile terminals, which are easily accessible to a wide range of people. In other countries particularly in emerging or developing nations where existing financial services provided by banks have not penetrated sufficiently - new services such as mobile payments are generating large expectations in terms of 'financial inclusion' - or the promotion of access to financial services.
+
+On the demand side, globalization of the economy continues to progress, and more and more transactions are being made across borders as well as time zones. New forms of economic activities have arisen both here and abroad - such as 'e-commerce' and the 'sharing economy' - while lifestyles have diversified. Reflecting such developments, the needs for financial services are growing increasingly diverse and complex. For example, there is an emerging need for payment methods that are compatible with internet shopping on weekends or at midnight as well as low-value cross-border remittances. There is also a growing need to use forms of information associated with payments by utilizing loyalty cards.
+
+As I just pointed out, we can judge that there are factors on both the supply and demand sides which are affecting developments in FinTech. If we consider that the financial business has strong characteristics as an 'information industry,' then it is not surprising that developments in information technology have a large influence, especially in finance. For example, credit, investment, and risk management are based on the accumulation of a great deal of information and analysis in which new technology has a large role to play. In these financial services, particularly in payments, the transmission of information has significant importance. Thus, it is natural that recent developments in information technology are generating a number of innovations and services in the area of payments.
+
+## II. Benefiting from the merits of innovation
+
+Innovations in financial services have the potential to improve efficiency and enhance access to financial services. They also bring a wide range of benefits to the economy as a whole.
+
+This happens in several ways. First, expansion of the frontier for financial services enlarges the possibilities for new economic activities. For example, if people who lack access to financial services become able to use mobile payments, potential customer base for many businesses will expand and new businesses targeting these people might arise more easily. Moreover, if payment methods are fast, inexpensive, and have ubiquity, this will expand the frontier of businesses that use them - for example, businesses that provide e-commerce, music, or software by precisely taking into account customer needs.
+
+Second, new technologies arising from financial innovations will possibly be applied to other means. For example, distributed ledgers - a technology underpinning digital currencies - are receiving considerable attention as a way to secure the accuracy of ledgers through verification by their users, without relying on trusted third parties (that is, central operators such as government and central banks). And distributed ledgers are now under consideration for application to the recording of transfers of financial assets such as stocks as well as to the management of registry books for land and houses.
+
+To sum up, innovations in finance including payments that are backed by innovations in information technology have the potential to boost economic welfare and revitalize economic activities through interaction with a range of businesses. Now, I would like to emphasize three points that I consider important in maximizing the benefits of these innovations and leading to further development of the economy.
+
+The first point is public's great sensitivity to innovations in information technology and financial requirements. At present, information technology is developing rapidly and new types of businesses are emerging one after the other. Accordingly, those involved in providing financial services - including financial institutions - are increasingly expected to pay close attention to changes in public's requirements and development of technologies that can be applied, and to be sufficiently aggressive and flexible about using the new technology to provide concrete financial services.
+
+The second point is the importance of communication with many entities across business categories. To expand financial services by capturing diversifying needs and adapting new technologies, it is useful to form new networks composed of entities such as financial institutions and high-tech and venture companies that enjoy advantages in information technology and data usage. It is also important to ensure communication, cooperation, and sound competition among these entities.
+
+The third point is acquiring public's trust regarding financial infrastructure. Financial services using the internet and mobile terminal are spreading, but new types of threats to the financial infrastructure - such as hacking and cyber attacks - are gaining prominence. If concerns spread that countermeasures against these threats are insufficient, this might lead to doubts about the innovative financial services themselves. Therefore, providers of new financial services should prepare sufficiently against new risks and threats. In this regard, it will be important to draw on technologies that help to enhance security such as encryption techniques and biometric authentication.
+
+## III. The central bank and Innovations in payments
+
+Lastly, I would like to talk about the Bank of Japan's involvement in payment and settlement systems and our perspective on innovations in payments.
+
+The Bank issues banknotes, which are the most familiar type of payment instrument. We also operate the Bank of Japan Financial Network System, or BOJ-NET, which enables the settlement of large-value funds and Japanese government bonds among financial institutions. Considering the fact that all funds are ultimately settled using central bank money - that is, cash or the central bank's current account deposits - the settlement infrastructure provided by the Bank serves as the essential infrastructure of the Japanese economy.
+
+It is also crucial for the central bank to maintain stability and improve the efficiency of the payment and settlement systems, including those provided by the private sector. In this regard, the Bank - through oversight of private-sector payment and settlement systems monitors, communicates and, when necessary, encourages these systems to achieve stability and improve their functionality.
+
+Concurrently, the Bank has been enhancing its BOJ-NET. In Oct 2015, the new BOJ-NET was fully launched. It is a highly flexible system that uses the latest information technology and offers enhanced accessibility, and thus it provides a powerful base for the development of innovations in payment and settlements and the provision of new financial services. Furthermore, in February 2016, the BOJ-NET extended its operating hours to 9 p.m. (Japan Standard Time) to achieve an overlap with almost all Asian markets during the day and with European markets until about noon.
+
+In addition, by taking part in a number of forums that discuss issues related to payment and settlement systems - including the Committee on Payments and Market Infrastructures of the Bank for International Settlements - the Bank actively participates in international discussions on innovations in payments and payment and settlement systems.
+
+From the standpoint of a central bank, the Bank is monitoring closely and with great interest the developments in innovations in payments and payment and settlement systems, from a range of perspectives. These include the safety of payments, the efficiency of payment services and the convenience to users, stability of the financial system, and the influence on finance intermediation and the economy.
+
+To make the innovations in payments that are taking place due to innovations in information technology truly useful for the users of financial services and the economy, it is important to develop a network and win-win relationships with a wide range of entities beyond the traditional financial industry. The Bank, as the nation's central bank, is firmly committed to being a catalyst in fostering such developments. Moreover, I am pleased to announce that the Bank will soon establish a 'FinTech Center' in its Payment and Settlement Systems Department. We aim to reinforce our efforts in which the new wave of FinTech will contribute to enhancing financial services and achieving sustainable growth of Japan's economy.
+
+I would like to close my remarks now by wishing that today's Forum on Payment and Settlement Systems will generate new knowledge and perspectives, and that the stimulating discussions here will lead to further development of the financial markets and the vitalization of economic activities.
+
+Thank you for your attention.

@@ -4,6 +4,7 @@
 Validates every public unit in ./units against:
   - card.toml: schema_version == "2.0"; [task] id/track/title/split present (no placeholders);
     [task].track matches the expected track; no private-test unit in a public repo;
+    no [metadata] key outside the card format (`difficulty`, `design_note`);
   - [contamination].canary_guid present, a valid UUIDv4, and globally unique across units;
   - manifest.json checksums (qfbench2_common.manifest.verify_manifest);
   - public-safety firewall (qfbench2_common.manifest.assert_public_safe) — no oracle/solution leak.
@@ -28,6 +29,9 @@ import pathlib
 import re
 import sys
 import tomllib
+
+#: [metadata] keys that are not part of the card format. A card carrying one is refused.
+RETIRED_METADATA_KEYS = ("difficulty", "design_note")
 
 UUID4 = re.compile(
     r"^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
@@ -81,6 +85,12 @@ def main(expected_track: str, stdlib_only: bool = False) -> int:
         if task.get("split") == "private-test":
             errors.append(f"{u.name}: a private-test unit must never appear in a public repo")
 
+        metadata = card.get("metadata", {})
+        if isinstance(metadata, dict):
+            for key in metadata:
+                if str(key).lower() in RETIRED_METADATA_KEYS:
+                    errors.append(f"{u.name}: [metadata].{key} is not part of the card format")
+
         guid = card.get("contamination", {}).get("canary_guid", "")
         if not guid or not UUID4.match(str(guid).lower()):
             errors.append(f"{u.name}: missing or invalid canary_guid")
@@ -112,7 +122,7 @@ def main(expected_track: str, stdlib_only: bool = False) -> int:
         for e in errors:
             print(f"  - {e}")
         return 1
-    checked = "schema, track, split, canary uniqueness"
+    checked = "schema, track, split, metadata keys, canary uniqueness"
     if stdlib_only:
         print(
             f"All {len(units)} unit(s) pass the stdlib checks: {checked}.\n"

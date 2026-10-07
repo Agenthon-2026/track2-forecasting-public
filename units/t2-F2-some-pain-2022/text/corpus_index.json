@@ -11,6 +11,20 @@
       "file": "fomc_statement_20220615.txt"
     },
     {
+      "doc_id": "bis_panetta_2022-06-15",
+      "timestamp": "2022-06-15",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_panetta_2022-06-15.txt"
+    },
+    {
+      "doc_id": "bis_elderson_2022-06-22",
+      "timestamp": "2022-06-22",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_elderson_2022-06-22.txt"
+    },
+    {
       "doc_id": "fomc-statement-2022-07-27",
       "timestamp": "2022-07-27",
       "source": "Federal Reserve",

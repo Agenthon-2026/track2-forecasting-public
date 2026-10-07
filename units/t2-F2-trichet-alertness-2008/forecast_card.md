@@ -1,10 +1,10 @@
-# EUR/USD After a Hawkish Signal at a Possible Cycle Peak (64 BD)
+# EUR/USD After the June 2008 ECB Signal (64 BD)
 
 **Family** T2-F2 · **as-of 2008-06-30** · targets `EUR`
 at horizons [64] BD · unit `usd_per_eur` · split validation
 
 Inputs mounted read-only: `/input/panels/g10_fx_daily.parquet` (rows only through
-the as-of date) and `/input/text/` (12 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (16 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,

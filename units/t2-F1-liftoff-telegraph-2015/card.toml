@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-calendar-reference-2015"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "BLS/BEA news release; Federal Reserve"
 path           = "text/"
 cutoff         = "2015-10-28"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 12
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
+n_documents    = 14
 notes          = "Seven FOMC statements ending at the as-of day; the newest one adds an unusually explicit calendar reference that puts the upcoming meeting squarely in play; plus three minutes (timestamps = release dates). Incremental signal: how much near-term policy-change probability does the text support, and how wide should the path uncertainty be?"
 
 [targets]

@@ -1,0 +1,80 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/k200121a.htm | date: 2020-01-21 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 21 January 2020
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following.
+
+(1) Yield curve control
+
+The Bank decided, by a 7-2 majority vote, to set the following guideline for market operations for the intermeeting period. [Note 1]
+
+The short-term policy interest rate:
+
+The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate:
+
+The Bank will purchase Japanese government bonds (JGBs) so that 10-year JGB yields will remain at around zero percent. While doing so, the yields may move upward and downward to some extent mainly depending on developments in economic activity and prices.[1] With regard to the amount of JGBs to be purchased, the Bank will conduct purchases in a flexible manner so that their amount outstanding will increase at an annual pace of about 80 trillion yen.
+
+(2) Guidelines for asset purchases
+
+With regard to asset purchases other than JGB purchases, the Bank decided, by a unanimous vote, to set the following guidelines.
+
+a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) so that their amounts outstanding will increase at annual paces of about 6 trillion yen and about 90 billion yen, respectively. With a view to lowering risk premia of asset prices in an appropriate manner, the Bank may increase or decrease the amount of purchases depending on market conditions.
+
+b) As for CP and corporate bonds, the Bank will maintain their amounts outstanding at about 2.2 trillion yen and about 3.2 trillion yen, respectively.
+
+2. The Bank will continue with "Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control," aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. As for the policy rates, the Bank expects short- and long-term interest rates to remain at their present or lower levels as long as it is necessary to pay close attention to the possibility that the momentum toward achieving the price stability target will be lost. It will examine the risks considered most relevant to the conduct of monetary policy and make policy adjustments as appropriate, taking account of developments in economic activity and prices as well as financial conditions, with a view to maintaining the momentum toward achieving the price stability target. In particular, in a situation where downside risks to economic activity and prices, mainly regarding developments in overseas economies, are significant, the Bank will not hesitate to take additional easing measures if there is a greater possibility that the momentum toward achieving the price stability target will be lost. [Note 2]
+
+[Note 1] Voting for the action: Mr. KURODA Haruhiko, Mr. AMAMIYA Masayoshi, Mr. WAKATABE Masazumi, Mr. FUNO Yukitoshi, Mr. SAKURAI Makoto, Ms. MASAI Takako, and Mr. SUZUKI Hitoshi. Voting against the action: Mr. HARADA Yutaka and Mr. KATAOKA Goushi. Mr. Harada dissented, considering that allowing the long-term yields to move upward and downward to some extent was too ambiguous as the guideline for market operations decided by the Policy Board. Mr. Kataoka dissented, considering that it was desirable to strengthen monetary easing by lowering the short-term policy interest rate.
+
+[Note 2] In order to achieve the price stability target of 2 percent at the earliest possible time, Mr. Kataoka dissented, considering that further coordination of fiscal and monetary policy was necessary, and that it was appropriate for the Bank to revise the forward guidance for the policy rates to make it a powerful one that specifically relates to the price stability target.
+
+[1] In case of a rapid increase in the yields, the Bank will purchase JGBs promptly and appropriately.
+
+(Reference)
+
+Meeting hours:
+
+Monday, January 20: 14:00-15:16
+Tuesday, January 21: 9:00-11:54
+
+Policy Board members present:
+
+Mr. KURODA Haruhiko, Chairman (Governor)
+Mr. AMAMIYA Masayoshi (Deputy Governor)
+Mr. WAKATABE Masazumi (Deputy Governor)
+Mr. HARADA Yutaka
+Mr. FUNO Yukitoshi
+Mr. SAKURAI Makoto
+Ms. MASAI Takako
+Mr. SUZUKI Hitoshi
+Mr. KATAOKA Goushi
+
+(Others present)
+
+January 20
+
+From the Ministry of Finance:
+Mr. KANDA Masato, Deputy Vice-Minister for Policy Planning and Coordination (14:00-15:16)
+
+From the Cabinet Office:
+Mr. TAWA Hiroshi, Vice-Minister for Policy Coordination (14:00-15:16)
+
+January 21
+
+From the Ministry of Finance:
+Mr. TOYAMA Kiyohiko, State Minister of Finance (9:00-11:33, 11:39-11:54)
+
+From the Cabinet Office:
+Mr. MIYASHITA Ichiro, State Minister of Cabinet Office (9:00-11:33, 11:39-11:54)
+
+Release dates and times:
+
+Statement on Monetary Policy -- Tuesday, January 21 at 12:01
+Outlook for Economic Activity and Prices (Outlook Report)
+The Bank's View -- Tuesday, January 21 at 12:01
+Full text -- Wednesday, January 22 at 14:00
+Summary of Opinions -- Wednesday, January 29 at 8:50
+Minutes of the Monetary Policy Meeting -- Wednesday, March 25 at 8:50

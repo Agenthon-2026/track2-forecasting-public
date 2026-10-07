@@ -11,6 +11,20 @@
       "file": "fomc_statement_20170315.txt"
     },
     {
+      "doc_id": "bis_powell_2017-03-28",
+      "timestamp": "2017-03-28",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_powell_2017-03-28.txt"
+    },
+    {
+      "doc_id": "bis_coeure_2017-03-28",
+      "timestamp": "2017-03-28",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_coeure_2017-03-28.txt"
+    },
+    {
       "doc_id": "fomc-minutes-20170503",
       "timestamp": "2017-05-24",
       "source": "Federal Reserve",
@@ -38,6 +52,13 @@
       "source": "BLS",
       "doc_type": "macro_release",
       "file": "cpi_2017-06-14.txt"
+    },
+    {
+      "doc_id": "fomc_normalization_addendum_2017-06-14",
+      "timestamp": "2017-06-14",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "fomc_normalization_addendum_2017-06-14.txt"
     }
   ]
 }

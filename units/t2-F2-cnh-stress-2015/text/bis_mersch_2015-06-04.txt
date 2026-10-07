@@ -1,0 +1,66 @@
+Yves Mersch: Getting the balance right - innovation, trust and regulation in retail payments
+2015-06-04
+
+## Yves Mersch: Getting the balance right - innovation, trust and regulation in retail payments
+
+Introductory speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at the joint European Central Bank/Suomen Pankki (Bank of Finland) Conference, Helsinki, 4 June 2015.
+
+* * *
+
+## Ladies and Gentlemen,
+
+It is a great pleasure for me to provide the introductory remarks at this conference on innovation, trust and regulation in retail payments. Before I start, I would like to thank Suomen Pankki for organising this event jointly with the ECB, and for hosting it. I am also very grateful to Erkki Liikanen for opening this conference. I am sure that we will spend two fruitful days having valuable discussions and exchanges on the economics, strategies and policies of retail payments.
+
+Getting the balance right. It makes me think of Nik Wallenda, who crossed the Niagara Falls on a tightrope in 2012. The right mix of courage and caution that was necessary for that feat is required in other walks of life, too - and retail payment innovators are no exception here.
+
+In my remarks today I'd like to cover three things. First, I will outline the structural changes and challenges that the retail payments industry is facing as a result of digitalisation. Second, I will touch upon users' changing expectations, also resulting from digitalisation. Third, I will make some suggestions on the responses needed from the industry and the regulators.
+
+Since the late 1980s, digitalisation in communication and information technology has triggered significant social and economic change worldwide. Our professional and our private lives have been greatly affected by the digital revolution. And digitalisation is driving innovation in the financial sector as well.
+
+Widespread use of the internet, of mobile telephony and of social media has created a situation in which information, communication and commerce are no longer subject to the constraints of time and space. They can be accessed 24/7, instantaneously and at global level.
+
+The digitalisation of content has disrupted entire industries: think of what has happened to the music or publishing industry, or in the media. Consumption of digital content has changed quickly and substantially. It has been quite a painful process for the content providers because it has had a major impact on their traditional revenue models. In the music industry, the sharing of MP3 files over the internet quickly unsettled the long-standing business model of physical recordings. Record companies had to learn that the internet shouldn't simply serve as an additional distribution channel for their products; they had to overhaul their business models in order to survive.
+
+In contrast, the retail payments industry, and particularly the end-user to service provider sphere, is only now starting to be affected by structural changes arising from the digital revolution. It is hard to say whether retail payments will change as rapidly and fundamentally as the music or newspaper industry. I expect that this conference will shed more light on user behaviour and choice. What I think is safe to say is that user expectations have undoubtedly changed due to the digitalisation of our lives at home and at work. At the ECB, we receive many inquiries and comments from individuals and companies across Europe about retail payments. We are frequently asked why, in this age of real-time communication, e-payments take longer than e-mails. Users expect retail payments to be like other digital content: easy, secure, not obstructed by national borders - and instantaneous.
+
+Let me make another point about the music, publishing and media industries. We have seen that while the sales of CDs and printed newspapers are declining, they have not
+
+disappeared. There are people who still use them, like them and pay for them. Likewise, I think it is illusory to expect that cash or 'traditional' cashless payment instruments will totally disappear within the next five to ten years because of digitalisation. 1. The cashless society, as appealing as it may sound, is probably just as elusive as the much vaunted paperless office.
+
+However, digitalisation can make cashless payments more efficient and attractive, to the extent that they become a viable alternative to cash. What matters most is that users have a choice. They should be able to pay in the way that suits them best in different payment situations. At present, person-to-person payments such as the sharing of a dinner bill are often restricted to cash. In future, easy and secure alternatives such as mobile person-toperson payments should be possible - across Europe.
+
+As I mentioned just now, users - be they consumers, retailers or businesses - do not see why retail payments cannot be like instant messages. So it's no surprise that instant payments have become the 'hot' topic in the retail payments industry. We do not need to discuss any longer the 'if' and 'why', we have to discuss the 'how'.
+
+As you well know, in December 2014, the Euro Retail Payments Board (ERPB), which is the multi-stakeholder group helping to foster the development of an integrated, innovative and competitive market for retail payments in euro in the European Union, identified a need for at least one pan-European instant payment solution for euro that is open to any payment service provider in the European Union. For me, it seems logical that such a solution would be based on ISO 20022, IBAN and immediate payment finality. In short, SEPA credit transfer looks like the most suitable basis for an instant payment scheme.
+
+I expect that the ERPB will take a clear stance on the way ahead at its meeting this month. I also expect that the industry and, more specifically, the European Payments Council (EPC), representing payment service providers, will carry out its work accordingly. Time is of the essence here. The SEPA project showed that the harmonisation of retail payments in Europe can be a time-consuming process. Innovation, however, often moves at high speed. We cannot afford to take a wait-and-see approach.
+
+At present, innovative payment methods are being implemented by some national communities in Europe. Many of those methods offer instant payments, which are cleared immediately. However, although they are often based on the same standards, the implementation of those standards is not harmonised and thus the methods are not easily interoperable. On top of that, many euro area constituencies are facing a dilemma because they do not know whether to wait for a pan-European scheme or to develop a national scheme themselves.
+
+I think that rather than starting to develop national schemes, we should go straight to a panEuropean solution for instant payments. We should take advantage of the harmonisation and integration already achieved with SEPA and use SEPA as a blueprint for instant payment solutions.
+
+As I said, instant payments are the 'hot' topic in the retail payments industry. Yet they will be largely invisible to end users. They will form the basis on which payment service providers build their offerings for end users, aiming to fulfil those users' expectations with regard to convenience and safety.
+
+1 The British futurologist Dr Ian Pearson predicts that by 2025 people will be able to spend their money electronically anywhere without worrying about what kind of devices or apps they have. However, he also believes that even in 2025 coins and notes will still be useful for certain purposes and will stay in common use. See the report commissioned by the Payments Council on future payments: http://www.payyourway.org.uk/wp-content/uploads/2012/10/Pay-Your-Way-2025-FUTURE-OFPAYMENTS.pdf
+
+As a result of the digitalisation of information, communication and commerce, payments and in particular remote payments - are no longer perceived on a stand-alone basis. Rather, they have become part of some increasingly long and complex value chains. Users will above all want these value chains to seamlessly integrate e-commerce, social media and retail payments. In e-commerce, buying and paying with one click is easier than having to navigate from the merchant website to the bank online application and entering payment data, passwords, TANs and so on.
+
+Interestingly and unsurprisingly, the companies that dominate the digital world - the internet 'big five', namely Apple, Google, Microsoft, Amazon and Facebook - are all offering payment services or considering doing so. 2 These payment services are incorporated seamlessly into their digital ecosystems and thus potentially have a global reach. Their business case is clear. They provide the services free of charge to retail clients (but not to merchants), expecting to achieve indirect returns through increased customer loyalty, acquisition of customer data (big data), analysis of purchasing behaviour and personalised advertising.
+
+This is the big challenge for the incumbents in the market. However, the market pie in retail payments innovation in Europe has not been sliced up and shared out yet . Incumbents can still have an impact, provided they are far-sighted enough to realise that the challenges of digitalisation cannot be met by merely considering the internet and the smartphone as an additional channel for retail payments.
+
+While the new service providers and competitors should not be underestimated, let's not forget the comparative advantages that banks can offer. Data and operational security is one. Many users are worried about some practices of the international providers in the digital sphere. Confidence in the security of transactions is - and will remain - the basis for any kind of relationship between payment service provider and user. Believe it or not, payment service users still trust their banks.
+
+Against this background, the role of the regulators in general and central banks in particular has not changed that radically. The main concern of central banks is to maintain confidence in money by fostering safe and efficient retail payment systems. However, the issues that need to be addressed are changing. First, the digitalisation of the retail payments industry means that the security requirements need to be adapted and enhanced accordingly. Second, the emergence of new payment services and payment service providers requires a level playing field for newcomers and for long-established players, as well as an appropriate level of protection for the payment service users. Third, while Europe is striving for panEuropean solutions, global service providers offering global solutions present a further challenge that has to be tackled.
+
+## Let me conclude.
+
+What I have tried to show in these opening remarks is that the structural changes in the retail payments industry arising from digitalisation are just beginning to take effect. Payment service providers - be they market incumbents or new players - and regulators need to respond to the challenges that these structural changes bring. Payment service providers have to understand users' expectations in terms of speed, convenience and security, and act accordingly.
+
+As for instant payments, I think the most logical way forward is a pan-European solution based on SEPA credit transfer. Although that might mean having to strike a balance between
+
+2 Apple Pay was introduced in October 2014 for iPhone 6 in the US; Google Wallet started operating in the US in 2011; Android Pay - mobile payments framework was announced by Google in March 2015; Amazon Payments started operating in 2007; Facebook Messenger P2P payments started to be rolled out in March 2015 in the US.
+
+fast-moving innovation and a more gradual integration process, it would seem to offer greater potential and to be better than trying out a multitude of national approaches that are difficult to harmonise at a later stage.
+
+Thank you very much for your attention.

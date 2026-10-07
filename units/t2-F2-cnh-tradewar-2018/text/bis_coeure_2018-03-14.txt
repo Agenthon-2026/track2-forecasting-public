@@ -1,0 +1,57 @@
+Benoît Cœuré: Financial regulation and innovation - a two-way street
+2018-03-14
+
+## Benoît Cœuré: Financial regulation and innovation - a two-way street
+
+Introductory remarks by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, at a roundtable organised by FinLeap, Berlin, 14 March 2018.
+
+* * *
+
+Let me thank FinLeap for organising this roundtable.
+
+It is no surprise that we are having this discussion here in Berlin, which has quietly emerged as a European capital when it comes to fintech. Over 200 fintech companies already call Berlin home, and this number is growing by the day. I hope that this morning's roundtable can provide a platform to exchange experiences and stimulate discussion. 1
+
+That central banks take a keen interest in fintechs should not come as a surprise. As evidenced by the Financial Stability Board, crowd funding and peer-to-peer lending have the potential to affect bank lending services. E-trading and robo-advice may change the way banks provide investment management and advisory functions and therefore the way savings are channelled to the economy. And it is fair to say that the current frontier of innovation falls squarely within central banks' remit - that is, the provision of payment services. 2 3
+
+The challenge for regulators is to balance the obvious benefits that fintech innovations may have for growth and welfare with their potential risks. After all, the history of financial innovation is littered with examples that led to early booms, growing unintended consequences, and eventual busts.
+
+The interaction between financial regulation and innovation is a two-way street, however. It is not just that change in the financial sector will impact the way we do regulation. Regulatory initiatives will also affect the direction and speed of transformation in the financial sector, with all the repercussions this implies for monetary policy, financial stability and the way firms and households manage their finances.
+
+Pre-emptively drawing in the reins in the name of financial stability could stifle innovation, prevent fintechs from developing important economies of scale, and deprive small businesses and households of the benefit of technological progress.
+
+On the other hand, allowing risks to accumulate in an unregulated sector may undermine financial stability and undo the benefits of past regulatory efforts. Banking services could migrate to less-regulated parts of the financial system unless the provision of similar services with similar risks is regulated in a similar way. We've been here before: decisions taken 20 years ago to leave OTC derivatives largely unchecked created lasting economic damage.
+
+And not all financial innovations may provide lasting social benefit. Bitcoin and other blockchainbased digital tokens are a case in point. They are an early sign of what could be a sea change in payment and settlement technologies, which central banks have started to embrace. But so far, they have been poor imitations of money, risky stores of value, and have often been used as vehicles for illicit purposes. 4
+
+Making our existing payment systems faster and cheaper, particularly for cross-border transactions, would likely deliver many of the benefits expected from such tokens. More radical innovations, such as central banks issuing their own digital coinage, entail costs and benefits which we are carefully considering. The report released earlier this week by the Bank for International Settlements sets the scene for these reflections. 5
+
+New technologies entail new risks. Although risks related to cyberattacks, data theft and breaches of data integrity are what first spring to mind, regulators also have to understand the risks these technologies pose to the stability of the financial system as a whole. Finding the right balance between facilitating innovation and ensuring financial stability and consumer protection is an inherently difficult task. There are no quick or easy solutions.
+
+But so far - and I am interested to hear your views on this - I think it is fair to say that the regulatory approach here in Europe has generally been supportive. It is built on the assumption that opening up market access to fintech companies will help increase competition, lower charges and spur innovation, as we have seen happen in other network industries.
+
+The fintech action plan recently published by the European Commission is testimony to the EU's positive attitude towards innovation in the financial sector. It sets the stage for targeted initiatives to address diverging licensing requirements with a view to allowing fintech products and solutions to be rapidly rolled out across the EU and thereby benefit from the economies of scale of the Single Market. 6
+
+The action plan also builds on previous significant initiatives, most notably the revision of Europe's Payment Services Directive (PSD2), which has already been transposed in 11 EU Member States. The new Directive gives bank customers the right to share their account information with third parties and use them to initiate payments, while maintaining high standards of personal data and consumer protection. It opens up a level playing field where fintechs can grow, gain scale and leverage other parallel technical advances, some of them promoted and developed by the ECB.
+
+To give just one example, the newly released SEPA instant credit transfer scheme that enables transfers of up to €15,000 in less than ten seconds will benefit as of November 2018 from the TARGET instant payment settlement (TIPS) service ensuring pan-European reach of instant payments. With the scheme layer and the clearing and settlement layer in place, it provides a good opportunity for fintechs to build efficient and innovative end-user solutions.
+
+The ECB is also investigating the potential of distributed ledger technologies (DLT) in the context of our real-time gross settlement (RTGS) system. Like other central banks experimenting with the technology, though, we have come to the interim conclusion that the technology is not yet mature enough. 7
+
+And in our separate role as banking supervisor, we apply a technology-neutral approach that ensures that the use of new technology in the banking sector is not discouraged. We have developed a 'Guide to the assessment of fintech bank licence applications'. The purpose of the guide is to make the process more transparent for potential fintech bank applicants and to increase their understanding of the procedure and criteria applied by the ECB when assessing licence applications. This initiative is part of a broader effort by European Supervisory Authorities to map current authorising and licensing approaches by national authorities and the launch of socalled 'fintech facilitators' in several Member States.
+
+Just last week we established the Euro Cyber Resilience Board for pan-European financial infrastructures to create a regular forum to enhance the cyber resilience of financial market infrastructures, their critical service providers and the wider EU financial sector. Such efforts are critical in an environment where both the level and scope of cyberattacks are growing rapidly. In this context, I would also be interested in hearing how you ensure cyber 'hygiene' and to what extent information on common cyber threats is exchanged within the wider fintech community. 8
+
+So, overall, fintechs here in Berlin, and in the EU more generally, can thrive in an innovationfriendly environment. But this does not mean that we ignore the risks. Should regulatory loopholes emerge, we would need to close them to ensure that financial intermediation outside
+
+the banking sector remains safe and sound.
+
+## Thank you.
+
+- See Comdirect FinTech study, November 2017. 1
+- See e.g. FSB (2017), 'Financial stability implications from FinTech', 27 June. 2
+- See e.g. CPMI (2017), 'Distributed ledger technology in payment, clearing and settlement', February , and CPM I (2018), 'Cross-border retail payments', February. 3
+- See also Cœuré, B. and J. Loh (2018), 'Bitcoin not the answer to a cashless society', opinion piece in the Financial Times, 12 M arch. 4
+- See CPMI and Markets Committee (2018), 'Central bank digital currencies', M arch. 5
+- See European Commission (2018), 'FinT ech action plan: For a more competitive and innovative European financial sector', 8 M arch. 6
+- See ECB and Bank of Japan (2017), 'Payment systems: liquidity saving mechanisms in a distributed ledger environment', a joint research project of the European Central Bank and the Bank of Japan - STELLA , September. 7
+- See Cœuré, B. (2018), 'A Euro Cyber Resilience Board for pan-European Financial Infrastructures', introductory remarks at the first meeting of the Euro Cyber Resilience Board for pan-European Financial Infrastructures, Frankfurt, 9 M arch. 8

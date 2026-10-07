@@ -1,0 +1,76 @@
+Yves Mersch: Distributed ledger technology - panacea or flash in the pan?
+2016-04-25
+
+## Yves Mersch: Distributed ledger technology - panacea or flash in the pan?
+
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at the Deutsche Bank Transaction Bankers' Forum 2016, Frankfurt am Main, 25 April 2016.
+
+* * *
+
+Is distributed ledger technology (DLT) a hype in need of demystifying? Is it a panacea that can heal the ailments of the financial industry, or it is a flash in the pan that will be forgotten in a few years? In my view, as it is often the case, the truth may lie somewhere in the middle.
+
+One of the main reasons why DLT has been capturing so much interest is because it could be a game changer in the market. The possibility for financial intermediaries and market infrastructures to share a distributed ledger - i.e. a decentralised common database - is something unprecedented. It has the potential to advantage some actors, by lowering backoffice costs and collateral or capital requirements. At the same time, it may possibly disintermediate or even make redundant some market actors that do not provide core functions.
+
+Today, I would like to approach the discussion of DLT from a central bank perspective. First, as an operator, we have to ensure that we offer the right, i.e. efficient and safe services in our market infrastructure for the settlement of payments and securities. On that basis we need to assess the different technical solutions available. Focusing only on DLT might be a too narrow approach. According to Maslow, if the only tool you have is a hammer, it is tempting to treat everything as if it were a nail.
+
+Second, even if, ultimately, we were sure that DLT hits the right nail on the head, we will have to reflect on the wider implications of the use of this technology for the central bank. In particular, we will have to reflect to what extent it affects our role as the trusted third party for the settlement of payments and securities in central bank money, or as the issuer of risk free base money as anchor of monetary policy.
+
+Third, in our role as catalyst, we facilitate market actors' work on standardisation and interoperability to avoid that such initiatives lose momentum due to co-ordination failures and to counter the risk of silos and proprietary solutions. Last but not least, the Eurosystem also acts as overseer of market infrastructures and supervisor of financial institutions. Here, we need to arrive at a common understanding on how the adoption of DLT could potentially affect the overseen and supervised entities and their business models, and on how reporting and accounting could be affected.
+
+## Part 1: The development and operation of the Eurosystem's financial market infrastructure
+
+Let me start with our reflections on how to go forward with the Eurosystem's financial market infrastructure for payments and securities. The Eurosystem is the owner and operator of TARGET2, the real-time gross settlement system for the euro, and of TARGET2-Securities (T2S), the integrated platform which processes the real-time settlement of securities transactions against central bank money across Europe. To address the need for these financial market infrastructures to continuously evolve and keep pace with market developments and technological progress, the Eurosystem has defined four key action points it will work on in the run up to 2020 and beyond.
+
+The first is to explore synergies between TARGET2 and T2S, with the goal of offering a single gateway to the two platforms and enabling TARGET2, a system of the 90s, to benefit from some state-of-the-art features currently available for T2S, a system of the last ten years. What will be the design and the needs of a system for the next decade?
+
+The second is the provision of new TARGET2 services. We have recently conducted a market consultation on functional and business opportunities of our future real time gross settlement (RTGS) system. In this consultation, openness to new technologies was one of key components in the investigation of technological opportunities. The replies to the consultation are currently being analysed.
+
+The third is to prepare for the enhancement of TARGET2 services with instant retail payments, at least in the settlement layer taking into account the clearing layer solution. In 2014, the Euro Retail Payments Board (ERPB) identified the need for at least one panEuropean instant payment solution for euro that is open to any payment service provider in the European Union. By November 2017, end-user solutions for instant payments in euro should be made available at the pan-European level by the payment service providers. The present efforts focus on P to P schemes. But they would lay the foundation for more ambitious B to B instant payment solutions.
+
+The fourth action point sets out to review the harmonisation of Eurosystem arrangements and procedures for collateralisation. Further progress is needed in this area before the business case for a common Eurosystem collateral management system can be reconsidered.
+
+At present, we are in the design phase of our project, where we define the services required for each of the four action points. When it comes to assessing possible technical solutions for the envisaged developments, we consider DLT as one of several possibilities and analyse whether at this stage the use of DLT could lead to lower costs and a more resilient and legally sound market infrastructure. But even if, ultimately, DLT emerged as technically superior in terms of safety and efficiency, we will also have to reflect on the wider implications of the use of this technology for the role of central bank money.
+
+## Part 2: Implications of the use of DLT as financial market infrastructure for the central bank
+
+Let's assume for a moment that the Eurosystem's market infrastructure, i.e. T2 and T2S, is moved to DLT. The key question that would result from such a move is how central bank money is put into the ledger or, more specifically, which entities can access the central bank money on the ledger. Remember the discussion on the interface model, when it was argued that central bank accounts cannot be outsourced.
+
+Access to the ledger for payments and securities settlement could be restricted to banks, or to banks and market infrastructure providers such as central securities depositories (CSDs), maybe extended to central counterparties (CCPs) and automated clearing houses (ACHs). Consequently, these would be the only entities that have access to the central bank digital currency on the ledger. But why stop here?
+
+What if this concept is broadened? What if PSP or even individuals could access the central bank digital currency on the ledger via their bank accounts? This scenario would preserve the current relationship model of banks with central banks and to some extent also the existing organisational structure of the financial ecosystem.
+
+Even more far-reaching, we could envision a third scenario of the central bank offering a DLT network that is open to all citizens. Citizens would have the choice to hold commercial bank deposits with banks or digital currency at the central bank. What functions would be embedded in a central bank deposit account? How would this affect the bank's ability to give loans? How will the monetary transmission mechanism work and the economy at large if the basic business model of many banks could be impaired?
+
+But not only banks might be impacted.
+
+What is the impact of central bank digital currency on physical cash? What would be the impact on central bank seigniorage? How would market participants change their investment
+
+strategies and business models? Would there be any implication on the integration of the European capital market, financial inclusion, and economic growth?
+
+I will certainly not attempt to answer today this list of questions, which could be further continued. I just want to show that the narrow issue of a move of the Eurosystem's market infrastructure for the settlement of payments and securities would involve far more issues than an assessment of the technical capabilities of DLT. We have a lot of more thinking to do. Within the ECB, I will steer an organisational structure for analytical work on technological innovation in the financial sector. It will range from practical aspects, such as the possible usage of DLT for our Eurosystem market infrastructure, to more research driven activities like the implications of the issuance of central bank digital money. In this context, we publish today two papers on the impact of DLT on securities post trading. I dare say that there is a big demand for research into the DLT related questions and their policy implications. Contributions in this field are highly welcome.
+
+## Part 3: Observations on DLT from the catalyst and oversight perspective
+
+Let me finish with some reflections from the Eurosystem's catalyst and oversight perspective. We strongly believe that the creation of an integrated European market for payments and securities brings improvements in efficiency and contributes to economic growth. In its catalyst role, the Eurosystem aims to ensure that technological innovation does not lead to a disruption or re-fragmentation in the market. As a facilitator, the Eurosystem stands ready to help the industry co-ordinate its efforts to work on standardisation and interoperability both in the payments and in the post-trade domain.
+
+Standardisation and interoperability are also key issues for DLT. It would seem almost ironic to look at a consensus technology from a proprietary perspective and to create silos. On the other hand, is a permission-less world without a trusted third party or a supervised gatekeeper a utopian approach that flies in the face of human history? It is a positive signal that there are collaborative initiatives between FinTech companies and banks and between banks, market infrastructures and technology companies. In the post-trade domain, we recently had a workshop which came to the understanding that the involvement of the Eurosystem in the industry's discussion regarding the usage of DLT would be welcome.
+
+After all, we should not forget that financial markets are a network industry. We need to make sure that useful innovations, i.e. innovations that are proven to improve safety and efficiency, do not lose momentum because market participants fail to coordinate their efforts.
+
+Moreover, as an overseer, the Eurosystem needs to arrive at a common understanding how the adoption of DLT could potentially affect the overseen entities and their business models. The emergence of new market actors requires reflection on issues such as how to ensure a level playing field for newcomers and long-established players, as well as an appropriate level of protection for the users. Last but not least, the effects of digitalisation and new technologies such as DLT also need to be studied in the context of cyber resilience.
+
+On the asset side, access to the DLT network for the central bank's oversight or supervisory function could be used to cover the data requirements of the overseer and ease the reporting burden of the overseen entity. It goes without saying that when accessing the DLT network, the right level of access and data protection requirements have to be respected.
+
+Overall, for the Eurosystem, the main objective continues to be the proper transmission of monetary policy and the support to financial stability. Safe and efficient market infrastructures are key in this respect.
+
+## Conclusion
+
+DLT has a disruptive potential in the financial market. Like the hammer that shatters glass yet can forge steel, it may bring advantages to some actors and disintermediate others.
+
+From a central bank perspective, in the context of our strategic reflections on the future of Eurosystem's market infrastructures, we are certainly open to new technologies and, like many market players, have launched some experimental work with DLT.
+
+Bringing our Eurosystem market infrastructures on DLT automatically means bringing central bank money on DLT. This may have implications on the central bank functions which go beyond the operational and technical sphere. It is therefore important to structure the discussion along the lines of who could access the central bank ledger.
+
+We very much welcome the industry's efforts to work on standardisation and interoperability both in the payments and in the post-trade domain.
+
+It is clear that we have a lot of more thinking to do on DLT-related questions and their policy implications. Before wielding the hammer we have to make sure that we have a strong anvil.

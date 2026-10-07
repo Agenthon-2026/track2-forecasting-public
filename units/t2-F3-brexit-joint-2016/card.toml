@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F3"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f3", "t2c-F3-fx-event-joint-2016"]
 expert_time_estimate_min = 45.0
@@ -72,12 +71,12 @@ end_date   = "2016-06-17"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; Federal Reserve"
+source         = "BIS central bankers' speeches; Federal Reserve; Bank of England; Bank of Japan; European Central Bank; Swiss National Bank"
 path           = "text/"
 cutoff         = "2016-06-17"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_statement"]
+n_documents    = 12
 notes          = "A scheduled binary risk event falls shortly after the as-of date; its timing is knowable from the corpus. Each draw is ONE event branch propagated through four exposures with sign-consistent legs: one branch implies sharp GBP depreciation with EUR dragged lower and CHF/JPY haven bids; the other implies a relief recovery with the haven legs fading. A bimodal JOINT distribution with sign-consistent legs — not four independent bimodals; neither branch is privileged a priori."
 
 [targets]

@@ -1,0 +1,112 @@
+{
+  "card_id": "t2-F3-funding-carry-fx-2024",
+  "asof": "2024-07-26",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "boj_ycc_20240319",
+      "timestamp": "2024-03-19",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "boj_ycc_20240319.txt"
+    },
+    {
+      "doc_id": "beige_book-2024-05-31",
+      "timestamp": "2024-05-31",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202405.txt"
+    },
+    {
+      "doc_id": "mof_fx_intervention_monthly_2024-05-31",
+      "timestamp": "2024-05-31",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "mof_fx_intervention_monthly_2024-05-31.txt"
+    },
+    {
+      "doc_id": "bis_lagarde_2024-06-07",
+      "timestamp": "2024-06-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lagarde_2024-06-07.txt"
+    },
+    {
+      "doc_id": "fomc-statement-2024-06-12",
+      "timestamp": "2024-06-12",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20240612.txt"
+    },
+    {
+      "doc_id": "boj_mp_decision_2024-06-14",
+      "timestamp": "2024-06-14",
+      "source": "Bank of Japan",
+      "doc_type": "central_bank_decision",
+      "file": "boj_mp_decision_2024-06-14.txt"
+    },
+    {
+      "doc_id": "rba_mp_decision_2024-06-18",
+      "timestamp": "2024-06-18",
+      "source": "Reserve Bank of Australia",
+      "doc_type": "central_bank_decision",
+      "file": "rba_mp_decision_2024-06-18.txt"
+    },
+    {
+      "doc_id": "snb_mp_decision_2024-06-20",
+      "timestamp": "2024-06-20",
+      "source": "Swiss National Bank",
+      "doc_type": "central_bank_decision",
+      "file": "snb_mp_decision_2024-06-20.txt"
+    },
+    {
+      "doc_id": "bis_ueda_2024-07-03",
+      "timestamp": "2024-07-03",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_ueda_2024-07-03.txt"
+    },
+    {
+      "doc_id": "fomc-minutes-20240612",
+      "timestamp": "2024-07-03",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20240612_released_2024-07-03.txt"
+    },
+    {
+      "doc_id": "bis_cipollone_2024-07-04",
+      "timestamp": "2024-07-04",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_cipollone_2024-07-04.txt"
+    },
+    {
+      "doc_id": "macro_release-2024-07-05",
+      "timestamp": "2024-07-05",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2024-07-05.txt"
+    },
+    {
+      "doc_id": "rbnz_mp_decision_2024-07-10",
+      "timestamp": "2024-07-10",
+      "source": "Reserve Bank of New Zealand",
+      "doc_type": "central_bank_decision",
+      "file": "rbnz_mp_decision_2024-07-10.txt"
+    },
+    {
+      "doc_id": "macro_release-2024-07-11",
+      "timestamp": "2024-07-11",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2024-07-11.txt"
+    },
+    {
+      "doc_id": "cftc_cot_japanese_2024",
+      "timestamp": "2024-07-26",
+      "source": "CFTC",
+      "doc_type": "positioning_report",
+      "file": "cftc_cot_japanese_2024.txt"
+    }
+  ]
+}

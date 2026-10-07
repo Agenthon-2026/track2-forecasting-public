@@ -4,15 +4,14 @@ schema_version = "2.0"
 [task]
 id    = "t2-F4-powell-december-2018"
 track = "forecasting"
-title = "MKT Tail After a Reassuring Policy-Speech Head-Fake (21 BD)"
+title = "MKT Tail After a Late-November 2018 Policy Speech (21 BD)"
 split = "validation"
 
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
-tags                     = ["forecasting", "factors_daily", "t2-f4", "t2c-F4-neutral-headfake-2018"]
+tags                     = ["forecasting", "factors_daily", "t2-f4", "t2c-F4-mkt-policy-speech-2018"]
 expert_time_estimate_min = 45.0
 junior_time_estimate_min = 120.0
 asset_panel      = "factors_daily"
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "log_return"
 target_frequency = "daily"
-description      = "MKT Tail After a Reassuring Policy-Speech Head-Fake (21 BD). As-of 2018-11-30; targets MKT at horizons [21] BD. Reassuring-text trap: single-speech sentiment is not regime evidence."
-created_by       = "Ruolan Sun (catalog t2c-F4-neutral-headfake-2018)"
+description      = "MKT Tail After a Late-November 2018 Policy Speech (21 BD). As-of 2018-11-30; targets MKT at horizons [21] BD. One speech weighed against the rest of the record."
+created_by       = "Ruolan Sun (catalog t2c-F4-mkt-policy-speech-2018)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -78,8 +76,8 @@ path           = "text/"
 cutoff         = "2018-11-30"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 6
-notes          = "The trap card: a late-November policy speech read dovish and markets bounced hard into the as-of. But the corpus also holds the November minutes ('further gradual increases'), balance-sheet-runoff language, live trade-war headlines, and a December FOMC inside the window. A single reassuring speech is not regime evidence — the left tail must survive it."
+n_documents    = 8
+notes          = "A late-November policy speech moved markets into the as-of. The corpus also holds the November minutes ('further gradual increases'), balance-sheet-runoff language and reports of trade tensions, and a December FOMC meeting falls inside the window. The documents are for weighing that one speech against the rest of the record."
 
 [targets]
 asset_ids        = ["MKT"]

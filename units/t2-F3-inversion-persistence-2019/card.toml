@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F3"
 tags                     = ["forecasting", "rates_daily", "t2-f3", "t2c-F3-inversion-persistence-2019"]
 expert_time_estimate_min = 45.0
@@ -72,13 +71,13 @@ end_date   = "2019-08-14"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BLS/BEA news release; Federal Reserve"
+source         = "BLS/BEA news release; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2019-08-14"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 4
-notes          = "As-of the day 2s10s first closed inverted. The July statement calls the cut a 'mid-cycle adjustment' — hawkish enough to keep the front sticky; trade war pulls the long end. The joint question is the SPREAD's sign and width, with near-unit level correlation between the two tenors."
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 7
+notes          = "As-of the day the 2s10s spread closed at 1bp. The corpus holds the July statement, the Chair's press conference, which calls the cut 'a midcycle adjustment to policy', and Beige Book reports of tariffs and trade-policy uncertainty; the documents may bear on the front end and the long end differently. The joint question is the SPREAD's sign and width, with near-unit level correlation between the two tenors."
 
 [targets]
 asset_ids        = ["UST_2Y", "UST_10Y"]

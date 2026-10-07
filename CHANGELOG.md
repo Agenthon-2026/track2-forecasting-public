@@ -15,12 +15,113 @@ public issue #4.
 
 ## Unreleased
 
-**Track scorer code and evaluation cards: unchanged.** Documentation and link corrections and one
-unit document cleaned of later news change no scoring path, gate, card or published number. Three
-further entries change practice units, each stating its own scoring effect: the practice-corpus
-entry, second below, changes the text of the practice units; the monthly practice-panel entry,
-third below, changes the data and notes of four practice units; and the entry after it changes the
-card text of two monthly practice cards.
+**Scores change: every card is divided by the baseline's expected error, and the cap and failure
+value are 8.0 (first entry below).** Track scorer code and evaluation cards are unchanged; that
+change is carried by the normalization scale files and the signed evaluation plan. Documentation and
+link corrections, the toolkit pin move and one unit document cleaned of later news change no scoring
+path, gate, card or published number, and twenty practice units are renamed (ids only; entry below).
+Seven further entries change practice units, each stating its own scoring effect: the second entry
+below changes the card text of all 104 cards, and the third that of twenty-seven practice cards and
+the worked example; the fourth, the fifth and the practice-corpus entry, seventh below, change the
+text of the practice units; the monthly practice-panel entry, eighth below, changes the data and
+notes of four practice units; and the entry after it changes the card text of two monthly practice
+cards.
+
+- **Every card is now divided by the text-blind baseline's expected error, and the cap and the
+  failure value move from 4.0 to 8.0.** *Scoring:* every Track 2 score changes. The scorer code is
+  unchanged; the change is in the normalization scale files and the signed evaluation plan.
+  - **Divisor.** Each component of a card's composite (marginal CRPS, joint variogram, tail) is
+    divided by the error the text-blind baseline M0 expects to make on that card: its average
+    score if the outcome were drawn from its own forecast distribution, computed exactly from the
+    card's inputs before the outcome exists ([`docs/M0-BASELINE.md`](docs/M0-BASELINE.md) §5).
+    It used to be divided by M0's score on the realized outcome of that card.
+  - **What 1.0 means now.** An error equal to the error M0 expects of itself. M0 no longer scores
+    exactly 1.0; the leaderboard shows its actual score as a reference row.
+  - **Cap and failure value: 8.0, both** (they were 4.0). Real per-card scores are clipped at 8.0,
+    and a card that is not scored counts 8.0 and stays in the average.
+  - **Development and Final.** Every finished Development submission is re-scored under the new
+    rule, so all entries on the board are on one scale. The new values are not comparable with
+    those shown before the change. The Final uses the same rule.
+  - **Scale files.** A scale depends only on the card's inputs, so on a released card you can
+    compute it from the published method. Scale files are still not shipped with any card.
+  - **Documents.** `docs/M0-BASELINE.md` (§§1, 2, 3.7–3.9 and 4–7), `docs/CONCEPTS.md` (§§4 and
+    13), `README.md`, `docs/CATEGORIES.md` and `baselines/README.md` describe the new rule. The
+    reference-CLI comparison in `docs/M0-BASELINE.md` §7 was measured under the old rule and is
+    marked for re-measurement.
+
+- **`[metadata].difficulty` removed from all 104 cards, and `[metadata].design_note` from the 31 F4
+  practice cards.** Neither key is part of the card format: `difficulty` is gone from every card in
+  `units/` (the 71 validation units, the 32 other practice units and the worked example) and from
+  `templates/card.toml`, `design_note` from every F4 practice card, Final input cards will not carry
+  either, and `.github/validate_units.py` refuses a card that does. *Scoring:* card text only.
+  Neither the reference CLI nor the scorer reads either key; targets, spec, panels, corpus,
+  reference outcomes and scales are unchanged. The copies evaluated on CodaBench change at the next
+  Track 2 evaluation update.
+
+- **Text corpus role paragraphs and nine card titles: reworded on twenty-seven practice cards and
+  the worked example.** The "Text corpus role" paragraph of `forecast_card.md`, and the same text in
+  `card.toml` `[text].notes`, are reworded to describe the documents in each corpus on
+  `t2-F1-ai-mom-2024`, `t2-F1-chf-highly-valued-2021`, `t2-F1-hawkish-cut-2024`,
+  `t2-F2-aud-taper-2013`, `t2-F2-trade-war-escalation-2019`, `t2-F3-dots-vs-oil-2014`,
+  `t2-F3-inversion-persistence-2019`, `t2-F3-readout-calendar-factors-2020`, `t2-F4-aud-gfc-2008`,
+  `t2-F4-mkt-new-year-2016`, `t2-F4-covid-nfp-2020`, `t2-F4-covid-rates-2020`,
+  `t2-F4-cpi-friday-2022`, `t2-F4-factor-stress-2008`, `t2-F4-funding-stress-2y-2008`,
+  `t2-F4-funding-stress-10y-2008`, `t2-F4-ust2y-december-fomc-2021`, `t2-F4-hml-covid-2020`,
+  `t2-F4-jpy-carry-2007`, `t2-F4-jpy-crowding-2024`, `t2-F4-mkt-debt-ceiling-2011`,
+  `t2-F4-momentum-bank-stress-2009`, `t2-F4-nok-covid-2020`, `t2-F4-powell-december-2018`,
+  `t2-F4-factor-joint-credit-2007`, `t2-F4-short-vol-2018` and `t2-F4-vaccine-timeline-2020`, and so is
+  `[text].notes` on the worked example `t2-EXAMPLE-ust-curve-1m`, whose forecast card has no such
+  paragraph. On most of these cards the matching sentence of `[metadata].description` is reworded
+  the same way. The title, `[metadata].description` and `forecast_card.md` heading of
+  `t2-F1-ai-mom-2024`, `t2-F4-aud-gfc-2008`, `t2-F4-covid-rates-2020`, `t2-F4-cpi-friday-2022`,
+  `t2-F4-ust2y-december-fomc-2021`, `t2-F4-jpy-crowding-2024`, `t2-F4-momentum-bank-stress-2009`,
+  `t2-F4-powell-december-2018` and `t2-F4-short-vol-2018` name the event and the date. *Scoring:*
+  card text only; targets, spec, horizons, panels, corpus, reference outcomes and scales are
+  unchanged. The copies evaluated on CodaBench change at the next Track 2 evaluation update.
+
+- **Four COVID-era practice cards held a speech given in January 2021.**
+  `text/bis_elderson_2020-01-25.txt` on `t2-F3-covid-curve-2020`, `t2-F4-covid-mkt-2020`,
+  `t2-F4-covid-rates-2020` and `t2-F4-hml-covid-2020` is Frank Elderson's introductory statement at
+  the European Parliament's ECON hearing of 25 January 2021, which the speech archive dates a year
+  early; it refers to the COVID-19 pandemic. It is removed from the four cards, whose document
+  counts, corpus indexes and manifests are updated, and `data/PROVENANCE.md` is re-measured (999
+  text files). *Scoring:* no realized value, reference or scale changes. The text an agent reads on
+  these four cards changes, so a text-using agent's outputs on them can change. The copies evaluated
+  on CodaBench change at the next Track 2 evaluation update.
+
+- **Practice-unit text corpora: each card now carries its target central bank's decisions, the
+  document of the event it is built around, and unrelated documents to set aside.** *Scoring:*
+  scorer code, gates, reference outcomes and normalization scales are unchanged. The text an agent
+  reads on the practice units changes, so a text-using agent's outputs on those units can change.
+  The copies evaluated on CodaBench change at the next Track 2 evaluation update.
+  - **Why.** Many cards forecast a non-US asset but their corpus held almost only Federal Reserve
+    material, and the event a card is named after was often not in its corpus. On such cards the
+    text gave an agent little to use.
+  - **311 files added on all 103 practice units** (237 distinct documents; 2 to 13 per unit; a unit
+    now holds 5 to 20 documents, median 9):
+    - **65 monetary policy decisions** of the card's target central bank, the one in force at the
+      as-of date and on some cards the one before it: Bank of Japan 14, ECB 13, SNB 6, RBA 5, Bank
+      of England 5, Bank of Canada 4, Norges Bank 4, Riksbank 4, Danmarks Nationalbank 2, PBoC 2,
+      Banco Central do Brasil 2, RBI 2, RBNZ 2. New `doc_type`: `central_bank_decision`.
+    - **41 key-event documents** (36 distinct), indexed as landmarks: FOMC Summaries of Economic
+      Projections and policy-normalization statements, Chair press-conference transcripts, Board
+      and joint-agency statements, U.S. Treasury, White House, State Department and USTR
+      statements, ECB press conferences, two Bank of Japan speeches, two Japan Ministry of Finance
+      documents (one in Japanese only, as published), HM Treasury's Growth Plan 2022 and a Lehman
+      Brothers 8-K exhibit. Each is listed with its official source in `data/LANDMARKS.md`.
+    - **205 speeches on unrelated topics** by Federal Reserve Board, ECB and Bank of Japan
+      officials, such as payments, supervision, climate and statistics. They are there on purpose:
+      part of the task is telling which documents matter.
+  - **Dates.** Every added file is dated by its publication date, on or before its card's as-of
+    date; press-conference transcripts carry the day the final transcript was posted.
+    `cutoff.scan_text_corpus_cutoff` passes on all 104 units and
+    `python3 scripts/declutter_corpus.py --check units` reports every unit text clean.
+  - **Records.** `corpus_index.json`, `card.toml` `[text]` (`n_documents`, `doc_types`, `source`),
+    the document count in `forecast_card.md` and `manifest.json` are updated on every practice unit.
+    `data/PROVENANCE.md` is re-measured (1,003 text files); `THIRD-PARTY-NOTICES.md` and
+    `DATA-LICENSE.md` list the new issuers. Six of the added files, copies of four ECB speeches,
+    print the ECB's reproduction permission and are labelled
+    `LicenseRef-ECB-Reproduction-Permitted`.
 
 - **`t2-F3-scandies-stress-2022`: a document carried news from after the card's as-of date.**
   `text/boe_mpc_statement_20220922.txt`, the Bank of England statement of 22 September 2022 on a
@@ -92,6 +193,58 @@ card text of two monthly practice cards.
   described the cards before the 2026-09-16 monthly release. It now says what a released
   monthly card publishes, follows the reference CLI's monthly path, and gives the recipe for
   the normalization scale commitment. Documentation only.
+- **[`docs/M0-BASELINE.md`](docs/M0-BASELINE.md) §3.7: a monthly cell that names its month is
+  counted to that month.** Where `forecast_spec.json` names a cell's observation month, M0 walks
+  one step per month from the target series' last published observation to that month, with no
+  2x test. On the monthly cards of the Final phase that is one or two steps more than the months
+  from the as-of month, because their series end one or two months before it; the old wording
+  would have kept the declared horizon there. The organizers' scale generator makes the same
+  count. No published scale changes: on the published cards, the new rule gives the same step
+  count as the old one on every cell where M0 applies it. §4 adds a synthetic example.
+  Documentation only.
+
+- **Twenty practice units renamed; their ids name the event and the date.**
+  `t2-F3-bear-flattener-2022` is now `t2-F3-front-loaded-hikes-2022`; `t2-F3-taper-steepener-2013`
+  is now `t2-F3-taper-testimony-curve-2013`; `t2-F2-eur-parity-2022` is now
+  `t2-F2-eur-energy-divergence-2022`; `t2-F3-term-premium-steepener-2023` is now
+  `t2-F3-sep-dots-curve-2023`; `t2-F4-momentum-reversal-2009` is now
+  `t2-F4-momentum-bank-stress-2009`; `t2-F4-mkt-selloff-2011` is now `t2-F4-mkt-debt-ceiling-2011`;
+  `t2-F4-china-panic-2016` is now `t2-F4-mkt-new-year-2016`; `t2-F3-cpi-shock-cross-2022` is now
+  `t2-F3-cpi-release-cross-2022`; `t2-F4-svb-whiplash-2023` is now `t2-F4-same-week-texts-2023`;
+  `t2-F3-safe-haven-paradox-2011` is now `t2-F3-fiscal-risk-joint-2011`;
+  `t2-F3-vaccine-rotation-2020` is now `t2-F3-readout-calendar-factors-2020`, and its title,
+  `[metadata].description` and `forecast_card.md` heading name the event; `t2-F3-oil-fx-split-2022`
+  is now `t2-F3-energy-escalation-fx-2022`; `t2-F4-qe1-expansion-2009` is now
+  `t2-F4-ust10y-january-fomc-2009`; `t2-F4-quant-crowding-2007` is now
+  `t2-F4-factor-joint-credit-2007`; `t2-F3-funding-flip-2024` is now `t2-F3-funding-carry-fx-2024`;
+  `t2-F2-fragile-five-brl-2013` is now `t2-F2-brl-transfer-2013`; `t2-F2-fragile-five-inr-2013` is
+  now `t2-F2-inr-transfer-2013`; `t2-F3-fragile-five-joint-2013` is now
+  `t2-F3-em-transfer-joint-2013`; `t2-F4-hike-cycle-2021Q4b` is now
+  `t2-F4-ust2y-december-fomc-2021`; `t2-F4-chf-floor-strain-2015` is now
+  `t2-F4-chf-defended-floor-2015`. The unit directory, `[task].id`, the `card_id` of
+  `forecast_spec.json` and `text/corpus_index.json`, and the manifest's `unit_id` change; card text,
+  targets, panels and corpora do not. Fifteen of the twenty are validation units
+  (`t2-F3-front-loaded-hikes-2022`, `t2-F3-taper-testimony-curve-2013`,
+  `t2-F4-momentum-bank-stress-2009`, `t2-F4-mkt-debt-ceiling-2011`, `t2-F4-mkt-new-year-2016`,
+  `t2-F3-cpi-release-cross-2022`, `t2-F3-readout-calendar-factors-2020`,
+  `t2-F3-energy-escalation-fx-2022`, `t2-F4-ust10y-january-fomc-2009`,
+  `t2-F4-factor-joint-credit-2007`, `t2-F3-funding-carry-fx-2024`, `t2-F2-brl-transfer-2013`,
+  `t2-F2-inr-transfer-2013`, `t2-F3-em-transfer-joint-2013`, `t2-F4-ust2y-december-fomc-2021`). On
+  some of these and other practice cards the title, `[metadata].description`, the "Text corpus role"
+  paragraph, or the `t2c-` catalog name in `[metadata].tags` and `created_by` is reworded the same
+  way. *Scoring:* none. The copies evaluated on CodaBench change at the next Track 2 evaluation
+  update.
+
+- **Toolkit pin moved to `v2.6.0` everywhere.** `.github/workflows/ci.yml`, the README install
+  commands, `Dockerfile`, the hub guide links in `README.md` and `SUBMISSION_CLI.md`, and
+  `docs/FORECAST-RESOLUTION-CANDIDATE.md` name `v2.6.0`. `qfbench2 card validate` from `v2.6.0`
+  accepts a card without `[metadata].difficulty`. *Scoring:* none; scorer code, gates and cards are
+  unchanged.
+
+- **`docs/CATEGORIES.md`: the F2 and F4 worked examples describe the setup.** The first F2
+  example of leading-indicator text, the F2 GBP/USD example, the F4 examples of foreshadowing text,
+  the as-of rule and the F4 example card describe each card's inputs and window; the example card
+  ids are `t2-F2-gbp-boe-2022Q3` and `t2-F4-ust-fomc-2021Q4`. Documentation only.
 
 - **Last Development runs start by 20:00 UTC on Monday 12 October 2026.** A scheduled
   maintenance window on Tuesday 13 October 2026, 08:00–12:00 UTC stops the evaluation fleet. An

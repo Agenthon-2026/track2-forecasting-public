@@ -4,6 +4,20 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_lautenschlager_2016-03-01",
+      "timestamp": "2016-03-01",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lautenschlager_2016-03-01.txt"
+    },
+    {
+      "doc_id": "bis_kuroda_2016-03-17",
+      "timestamp": "2016-03-17",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_kuroda_2016-03-17.txt"
+    },
+    {
       "doc_id": "bis_cunliffe_2016-04-26",
       "timestamp": "2016-04-26",
       "source": "BIS central bankers' speeches",
@@ -25,6 +39,13 @@
       "file": "bis_draghi_2016-06-02.txt"
     },
     {
+      "doc_id": "ecb_mp_decision_2016-06-02",
+      "timestamp": "2016-06-02",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2016-06-02.txt"
+    },
+    {
       "doc_id": "bis_brainard_2016-06-03",
       "timestamp": "2016-06-03",
       "source": "BIS central bankers' speeches",
@@ -44,6 +65,27 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20160615.txt"
+    },
+    {
+      "doc_id": "boe_mp_decision_2016-06-16",
+      "timestamp": "2016-06-16",
+      "source": "Bank of England",
+      "doc_type": "central_bank_decision",
+      "file": "boe_mp_decision_2016-06-16.txt"
+    },
+    {
+      "doc_id": "boj_mp_decision_2016-06-16",
+      "timestamp": "2016-06-16",
+      "source": "Bank of Japan",
+      "doc_type": "central_bank_decision",
+      "file": "boj_mp_decision_2016-06-16.txt"
+    },
+    {
+      "doc_id": "snb_mp_decision_2016-06-16",
+      "timestamp": "2016-06-16",
+      "source": "Swiss National Bank",
+      "doc_type": "central_bank_decision",
+      "file": "snb_mp_decision_2016-06-16.txt"
     }
   ]
 }

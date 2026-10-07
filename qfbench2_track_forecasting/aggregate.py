@@ -11,13 +11,13 @@ failing on purpose**, and the hardest card is exactly the one worth failing.
 
 The frozen fix (R-2) has two halves and needs both:
 
-* every expected unit resolves to a C4 state and a failure contributes `W = 4.0` while **staying in
-  the denominator**; and
-* every real score is **clipped into `[0.0, 4.0]`**.
+* every expected unit resolves to a C4 state and a failure contributes `W` (the signed plan's
+  failure value, 8.0) while **staying in the denominator**; and
+* every real score is **clipped into `[0.0, W]`**.
 
 The clip is not decoration. On an unbounded-above metric a bare penalty is still exploitable: a
-participant whose honest composite would be 9.00 improves their mean by failing that unit, because
-4.0 is better than 9.0. Clipping caps the honest score at exactly the penalty, so failing is never
+participant whose honest composite would be 12.00 improves their mean by failing that unit, because
+8.0 is better than 12.0. Clipping caps the honest score at exactly the penalty, so failing is never
 *strictly better* than trying — the best a deliberate failure can do is tie. `plan.clip()` and
 `plan.failure_score_for()` are the Hub's implementations of both halves and this module calls them
 rather than restating the arithmetic.

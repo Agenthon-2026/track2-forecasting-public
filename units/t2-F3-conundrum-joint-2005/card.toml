@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F3"
 tags                     = ["forecasting", "rates_daily", "t2-f3", "t2c-F3-pinned-long-end-2005"]
 expert_time_estimate_min = 45.0
@@ -77,7 +76,7 @@ path           = "text/"
 cutoff         = "2005-02-18"
 cutoff_checked = true
 doc_types      = ["cb_speech", "fomc_statement"]
-n_documents    = 4
+n_documents    = 6
 notes          = "Measured-pace hikes are underway; the prevailing regime has the long end resisting the front so far. Whether the curve bear-flattens, bull-steepens, or something else over the horizon — and whether the level-slope correlation departs from what historical PCA (estimated pre-2004) implies — is the forecasting question. 30Y excluded (issuance suspended 2002-2006). Multi-horizon: draws must also correlate across 63/126."
 
 [targets]

@@ -1,0 +1,134 @@
+Sabine Lautenschläger: Banking supervision - a challenge
+2014-09-08
+
+## Sabine Lautenschläger: Banking supervision - a challenge
+
+Speech Ms Sabine Lautenschläger, Member of the Executive Board of the European Central Bank, at the Deutsches Institut für Wirtschaftsforschung, Hamburg, 8 September 2014.
+
+* * *
+
+## Summary
+
+The effectiveness of monetary policy will be bolstered when the European Central Bank (ECB) assumes its banking supervision responsibilities under the Single Supervisory Mechanism (SSM), believes Sabine Lautenschläger, member of the ECB's Executive Board. Bringing together the supervision of individual banks, the macro-prudential supervision of the financial system and monetary policy under one roof will help to ensure that monetary policy can focus entirely on safeguarding price stability, Lautenschläger said in a speech at the Annual Conference of the Verein für Socialpolitik in Hamburg. The interaction between the three policy areas of the central bank will reduce the risk of financial dominance, strengthen the transmission of monetary policy and improve the management of the financial system.
+
+'Both areas have a very strong interest in sound banks with viable business models that can provide credit to the real economy', said Lautenschläger. Given that banks have already been preparing over recent months for the requirements that will apply following the imminent launch of the SSM and have strengthened their capital bases, their capacity to provide credit to the economy has increased even before the official start of the SSM. This strengthens the transmission of monetary policy.
+
+For the central bank, which provides financing for commercial banks, it is very important particularly in times of crisis - to make a clear distinction between sound banks that are solvent but suffering from liquidity shortages and insolvent banks that will not be able to survive in the long run. A strong European supervisor would be able to dispel some of the uncertainty attached to solvency assessments. This will help the ECB to fulfil its tasks, because it will be able to provide liquidity support without fear of exceeding its mandate, said Lautenschläger. However, reliable solvency information would only be able to help reduce financial dominance if there is a credible regime for resolving banks. This requires a common regulatory framework and a resolution fund with ample resources. In addition, stricter rules regarding the granting of emergency liquidity assistance to commercial banks by Eurosystem national central banks could reduce potential conflicts of interest.
+
+Particularly in times of economic growth, the ECB's new tasks could permit an appropriate reaction to potential excesses in asset markets, for example. Using interest rates to counter such developments is not appropriate, warned Lautenschläger, because it could jeopardise the primary objective of price stability. It is thus all the more important that the ECB's Governing Council should have more tools at its disposal to counter imbalances.
+
+* * *
+
+My speech today is devoted to a relationship - to be precise, a triangular relationship. It's about what makes a complex, yet successful relationship which does justice to the common and different goals and interests of the three parties.
+
+Starting this year, a triangular relationship, and in particular the workflows and decisionmaking processes within it, is playing a specific role for the ECB, because in less than two months the Single Supervisory Mechanism (SSM) officially begins its operations - and then three policy areas will come under the umbrella of the ECB. Monetary policy will remain, of course, our main task. The ECB will additionally take on responsibility for banking supervision in the euro area. And we will play an important role in calibrating and implementing macro-prudential supervision, even though national authorities will continue to be primarily responsible.
+
+Each of these policy areas has its mandate, goal and instruments. The task of monetary policy is to ensure price stability. In this respect, interest rate policy is the standard instrument (although there are now quite a number of measures that are non-standard). The supervisory objectives are to ensure the safety and stability of the banking system as a whole. The supervisory authorities have had, since the crisis, a veritable arsenal of instruments which mainly concern the risk-bearing capacity of individual banks. The objective of macro-prudential policy is the stability of the financial system as a whole. Even though the ECB has of course exerted influence on financial stability via its monetary policy, starting in November it will additionally use capital-based and liquidity-based instruments - in respect of the institutions it directly or indirectly supervises.
+
+Despite their differences, the three policy areas of monetary policy, banking supervision and financial stability plus macro-prudential supervision are closely linked. One could even argue they are in a triangular relationship: they influence comparable variables (such as consumption and investment) and operate via the same transmission channels (such as bank lending). Instruments which are used in one of the three policy areas inevitably affect the other two; that makes it essential to clearly specify the objectives of each activity and to clearly adjudicate on conflicting goals.
+
+As is often the case in complex relationships, we could spend the whole day studying each side of this relationship. Today I would like to specifically address the question of how the new framework, how the two new banking supervision and macro-prudential supervision tasks, will help the ECB to abide by its price stability mandate, as a kind of side effect. To come straight to the point, I'll be talking about financial dominance, monetary policy transmission and the financial cycle.
+
+## Reducing financial dominance
+
+The classic function of a central bank is to provide liquidity to solvent banks. And the ECB has unquestionably fulfilled this role even during the crisis. Our lending to banks rose by more than €800 billion from 2008 to the height of the crisis in 2012. If the ECB had not provided liquidity, there would have been bailouts, abrupt debt reduction and thus a deepening of the recession - and this would have made our mandate of ensuring price stability much more difficult.
+
+However, there is no doubt that this lending entails risks for the central bank. It could fall into the trap of financial dominance: the central bank could finance banks which are not suffering merely from a temporary liquidity crunch, but which are permanently incapable of surviving, which are insolvent. Financial dominance is accompanied by the risks of moral hazard and market distortion and - worst of all - by the risk of monetary financing.
+
+But how can a central bank become exposed to these risks? No doubt, it is a consequence of the information asymmetry between a non-supervisory central bank on the one hand and the banks and national supervisors on the other. Assessing the solvency of a bank often takes more than the equity ratio. Having comprehensive knowledge of the capital situation and the risk profile of the bank is a real benefit for such an assessment. This is particularly true in financial crises, in the course of which an assessment of the solvency and riskbearing capacity of a bank depends on many quantitative and qualitative parameters; we should recall the often difficult valuation of assets that came under pressure in the crisis or those that were not marketable.
+
+For the ECB this aspect is more important than for many other central banks. Our monetary policy works via the bank transmission channel, so it is bank-based. Thus, for our open market operations almost 1,800 business partners are currently registered. By way of comparison, the Federal Reserve has only 21 primary dealers. 72% of our business is conducted via direct (and, of course, secured) loans to banks, a type of lending unknown to the Fed. For this kind of monetary policy, information on the financial soundness of our monetary policy counterparties is vital.
+
+The creation of the SSM represents an important complement to monetary policy. A wellestablished European supervisory body that is capable of acting can recognise emerging internal risks in banks and strengthen their resilience and risk-bearing capacity. In addition, in the event of a crisis the ECB will be able to resort to the sound judgement of the SSM. This is especially true for the emergency liquidity assistance, which the national central banks are responsible for granting. In this respect, the Governing Council, for its decision, will be able to rely, among other things, on the SSM's expertise to judge whether it wants to raise objections to the national emergency liquidity assistance. 1
+
+Now I don't want to sing the praises of synergy effects without pointing to some problems.
+
+First, financial dominance may arise not only if the ECB, due to lack of sufficient information, provides liquidity to non-viable banks. Financial dominance may also arise if the public gains the impression that our interest rate decisions are influenced by concerns about their effects on the institutions, in other words if we fall prey to a conflict of interests. Our credibility would then be at stake. That's why, in the workflows and decision-making processes, we attach great importance to the separation of monetary policy decisions and supervisory decisions. That's why the functional separation below the Governing Council level will be strictly observed and monetary policy decision documents will be submitted to the Governing Council without any inflow of supervisory analysis, and vice versa.
+
+Only at Governing Council level will the draft decisions meet one and the same decisionmaking body. For example, if supervisory measures are taken in respect of certain banks the Supervisory Board will forward the draft of the final decision to the Governing Council under an implicit approval process - the process ensures that the members of the Governing Council do not change the decision, but can only turn it down. This principle of a clear separation between our different roles will also be carefully monitored by the European Parliament.
+
+To effectively counter any possible impression of fiscal dominance, systemically important banks must be resolved without any risks to financial stability.
+
+Currently, a Europe-wide framework for bank resolution is being set up, a Single Resolution Mechanism with a resolution fund. We have thus taken a big step towards solving the toobig-to-fail problem. The resolution mechanism will also serve to protect the central bank, because it makes possible a Europe-wide, orderly winding-up of a systemically important institution, without the Governing Council having to worry about the side effects on financial stability of a short-term withdrawal of liquidity.
+
+Effective supervision and the orderly resolution of banks thus also support the ECB's monetary policy mandate. It helps the central bank to carry out its task, that is, to provide liquidity assistance, without it having to worry about overstepping its mandate.
+
+## Improving the monetary policy transmission
+
+The Eurosystem offers liquidity to banks to maintain financial intermediation in the money market and to improve the transmission of monetary policy. For this transmission to work optimally, a stable financial sector is needed. For banks are the most important channel via which our monetary stimulus is passed on to businesses and households. And only healthy banks can perform their role as lenders. So monetary policy-makers and banking supervisors
+
+1 However, Article 14.4 of the Statute of the European System of Central Banks and of the European Central Bank (Statute of the ESCB) assigns the Governing Council of the ECB responsibility for restricting ELA operations if it considers that these operations interfere with the objectives and tasks of the Eurosystem. Such decisions are taken by the Governing Council with a majority of two-thirds of the votes cast. For further information, please see: https://www.ecb.europa.eu/pub/pdf/other/201402\_elaprocedures.de.pdf? e716d1d560392b10142724f50c6bf66a.
+
+are very interested in having sound banks with viable business models that can lend money to the real economy.
+
+But how does the Single Supervisory Mechanism support the monetary policy transmission?
+
+First, the comprehensive assessment, i.e. the health check of the banks, plays an essential role. The assessment of bank balance sheets aims to uncover bad debts and to place all banks with a solid capital base under the supervision of the SSM. And this assessment can have a catalytic effect.
+
+Prior to the health check, most banks accelerated their deleveraging or built up their equity. The sum of bank balance sheets declined in 2013 alone by around 20 percentage points of GDP. Since July 2013, the nearly 130 banks have built up capital amounting to approximately €140 billion. 2 As a result of the health check, one or the other institution will make further provisions or raise capital. A lengthy period of balance sheet restructuring will thus be significantly shortened.
+
+In lending, we are already seeing the first positive signals. The decline in lending to companies and households has stabilised. And our latest Bank Lending Survey suggests that in the second quarter of 2014 lending standards eased for all categories of loans on a net basis.
+
+The Single Supervisory Mechanism can make a further significant contribution in support of monetary policy; set up properly, it could, at best, enhance the effectiveness of monetary policy during the next credit cycle. At this point, the interaction of micro-prudential and macro-prudential policy, the second side of the triangular relationship, comes into play.
+
+As I said earlier, many banks in the euro area had to deleverage significantly during the crisis; they were not resilient enough. Some banks found it difficult to refinance because their equity ratios were too low. So they had to increase their capital ratio during the downturn, and this curbed new lending.
+
+This cyclical behaviour cannot perhaps be eliminated with instruments from micro- and macro-prudential supervision, but it certainly can be attenuated. Supervision in Europe will take a preventive, risk-based approach. We will be pushing for more than compliance with the minimum capital and liquidity ratios under the supervisory regulation. We will above all check whether the business models of banks we directly supervise are sustainable, whether bank-internal control structures and governance are set up in an appropriate way and whether the institutions could survive crises. If during an upturn a bank's resilience is increased, then there's less need to raise capital during a downturn to boost market confidence. Under such circumstances, it should then be possible to use macro-prudential instruments that support lending, such as the releasing of countercyclical capital buffers. This would help monetary policy to achieve more predictable effects throughout the economic cycle.
+
+But the interests of the banking supervisors and of those responsible for macro-prudential supervision do not always have to be aligned. I can easily imagine situations in which the supervisor feels there is more capital and liquidity than necessary or that the increase in margin requirements is more than necessary, while from a systemic perspective cyclical behaviour is perceived to be crisis-intensifying.
+
+The link between the two areas of responsibility at the ECB may also prove to be helpful here, by internally resolving potential conflicts. The advantage of having the Governing Council as a decision-making body for all three policy areas is that it can get a
+
+2 These figures are based solely on publicly available data; retained earnings and other categories were not taken into account in the calculations. The actual figures should be correspondingly higher.
+
+comprehensive picture of the systemic risks and thus weigh up the micro and macro considerations and can find a balance that should be beneficial to monetary policy.
+
+But this is not the only advantage for monetary policy. By combining the functions within the ECB synergies may arise, at best, in the choice of instruments to curb threats to financial stability. For some monetary policy instruments, such as adjustments to haircuts or to the minimum requirements for collateral, overlap with macro-prudential measures aimed at liquidity and margin requirements.
+
+The interplay between micro- and macro-prudence can therefore support monetary policy not only during the cycle. It can also ensure that monetary policy does not have to deal with problems that may lie on the periphery of its mandate.
+
+At the same time, the combination of functions within the central bank also brings great advantages for micro-prudential supervision. For monetary policy decisions, extensive economic analyses are made to which the supervisors may resort in order to obtain additional information about the environment and the conditions under which the banks conduct their business. The ECB has extensive knowledge of the market and provides, among other things, real-time insights into the general refinancing situation of the banks. In short, the exchange of know-how and information creates synergies and leads to better informed supervisory decisions and outcomes.
+
+## Steering the financial cycle
+
+So far I have talked about the interaction between the areas of responsibility in the downturn phase of the cycle. But what about the upturn?
+
+In recent years there has been much discussion about the extent to which central banks should play a role in steering the financial cycle - whether they should 'lean against the wind'. Before the crisis, many opinion leaders believed that, given the difficulty of identifying latent bubbles, it was the task of the central bank to make good the damage once the bubble had burst.
+
+As a result of the crisis, however, when a long financial boom had a major impact on price stability, many economists have changed their minds and are demanding that central banks should take into account risks to financial stability in their decisions.
+
+The ECB has always included financial stability considerations in its monetary policy decisions. In our two-pillar strategy financial imbalances are an important element in deciding what measures are necessary, even when it is a matter of inflation that is too low. In particular, the monetary pillar captures the relationship between excessive credit and liquidity creation, and potential risks to future price developments, including that of a destabilising asset price boom. Our actions have a deliberate medium-term orientation. This gives us a sufficiently long horizon to take account of financial imbalances in our strategy. Elements of a 'leaning-against-the-wind' approach are therefore implicitly included.
+
+However, should there be signs of financial imbalances emerging, we need to carefully consider whether the use of standard monetary policy instruments is appropriate as a response. There are two reasons for this.
+
+First, it could conflict with our mandate to preserve price stability. The BIS estimates that the financial cycle typically lasts around 16 years, compared with eight years for the business cycle. This asynchrony can lead to periods in which inflation makes a rate cut necessary, while the financial data favour the opposite. If we take only the financial cycle into account, we may be forced, even with our medium-term orientation, to make compromises in terms of our price stability objective. According to our hierarchy of goals, which gives priority to monetary policy, this would not be permissible.
+
+In addition, there is also the question of which interest rate path should be followed to counter excessive credit growth. Some studies conclude that in a highly leveraged boom
+
+even small changes in interest rates can have a strong impact. 3 Other studies suggest, however, that rather large interest rate movements would be required to counteract the financial cycle, but these in turn would cause collateral damage to the economy and price stability. 4
+
+Using monetary policy instruments to strengthen financial stability seems to be too crude an approach in view of the heterogeneity in the euro area. So, for example, lending in the period before 2008 was ten percentage points higher in some subsequent crisis countries than in the non-crisis countries. A rate hike by the ECB, which always applies to the entire euro area, would have had too great an impact on those regions that were not affected by excessive lending.
+
+But if monetary policy instruments cannot always simultaneously satisfy financial stability aspects, then there is only one conclusion: we must consistently apply the Tinbergen Rule; we need at least as many instruments as we have goals to achieve. A different goal requires an additional tool that is appropriate and proportionate.
+
+This is where the SSM comes into play - more specifically, the relationship between macroprudential policy and monetary policy , the third side of the triangle. In principle, it should be easier, by expanding the toolkit which is available to the ECB, with the SSM to establish a clear separation of functions between the two policy areas. Monetary policy should concentrate on price stability, which is an important variable throughout the euro area. The focus of macro-prudential policy should be on financial stability. Particular emphasis could be put on specific regional or sectoral imbalances.
+
+However, there may be circumstances under which a clear separation is not so simple. This is the case when the financial cycle extends across sectors and countries and represents a threat to future price stability. A combination of monetary and macro-prudential measures could then be the right answer.
+
+Particularly for the macro-prudential measures, there are many different questions and uncertainties about unintended spillover effects of regionally limited measures on other countries or the entire euro area. Under such conditions, the fact that the ECB is also responsible for banking supervision will benefit monetary policy. Because for all of these issues, the decision-making is concentrated in the Governing Council. The Council's role is to ensure an optimal policy mix.
+
+As for macro-prudential policy, the national authorities, as I have already said, still play an important shaping role. They have extensive knowledge of the national economic and financial systems. The governors of most of the national central banks are involved in national macro-prudential tasks. This will make the exchange of views and voting in the Governing Council in respect of national and European macro-prudential policies considerably easier.
+
+Should opinions diverge - for example, in relation to the systemic consequences of a specific measure - the ECB is authorised under EU legislation to improve existing macro-prudential measures which have been implemented by national authorities or to make recommendations for new measures.
+
+## Summary
+
+Ladies and gentlemen, allow me to summarise.
+
+3 See Adrian, T. und H.-Y. Shin (2010), 'The Changing Nature of Financial Intermediation and the Financial Crisis of 2007-09', Federal Reserve Bank of New York Staff Report No 439, March 2010.
+
+4 See, for example, Bean, C., M. Paustian, A. Penalver and T. Taylor, 'Monetary Policy after the Fall', 28 August 2010.
+
+My intention today has been to give you an understanding of the future tasks of the ECB, the future triangular relationship. The Single Supervisory Mechanism and the new role in macroprudential supervision will not, when properly set up, dilute the objective of the central bank, but instead may contribute, as a side effect, to a strengthening of our monetary policy mandate. And monetary policy can focus on its task of maintaining price stability. Banking supervision will ensure that banks become more resilient; macro-prudential instruments should have a dampening effect on asset price bubbles and cyclical behaviours. The completion of the banking union will also contribute significantly to safeguarding financial stability in the future.
+
+Nevertheless, we must not succumb to hubris - we must not succumb to the notion that all problems are solved thanks to the SSM. The health of individual banks depends not only on supervision, but also on the overall economy and the structure of the banking system; and the ECB's influence on that is limited. And we should not forget that irrational exuberance, as can be found ex post in many a 'bubble', is simply part of human nature. That's another lesson the crisis should teach us.

@@ -11,6 +11,20 @@
       "file": "snb_floor_discontinued_20150115.txt"
     },
     {
+      "doc_id": "bis_brainard_2021-02-18",
+      "timestamp": "2021-02-18",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_brainard_2021-02-18.txt"
+    },
+    {
+      "doc_id": "bis_schnabel_2021-03-03",
+      "timestamp": "2021-03-03",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_schnabel_2021-03-03.txt"
+    },
+    {
       "doc_id": "bis_jordan_2021-04-30",
       "timestamp": "2021-04-30",
       "source": "BIS central bankers' speeches (full archive)",
@@ -44,6 +58,13 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20210616.txt"
+    },
+    {
+      "doc_id": "snb_mp_decision_2021-06-17",
+      "timestamp": "2021-06-17",
+      "source": "Swiss National Bank",
+      "doc_type": "central_bank_decision",
+      "file": "snb_mp_decision_2021-06-17.txt"
     }
   ]
 }

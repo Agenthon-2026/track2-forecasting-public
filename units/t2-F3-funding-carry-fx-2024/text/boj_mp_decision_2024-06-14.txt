@@ -1,0 +1,73 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240614a.htm | date: 2024-06-14 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 14 June 2024
+
+1. At the Monetary Policy Meeting (MPM) held today, the Policy Board of the Bank of Japan decided, by a unanimous vote, to set the following guideline for money market operations for the intermeeting period:
+
+The Bank will encourage the uncollateralized overnight call rate to remain at around 0 to 0.1 percent.
+
+Regarding purchases of Japanese government bonds (JGBs), CP, and corporate bonds for the intermeeting period, the Bank will conduct the purchases in accordance with the decisions made at the March 2024 MPM. The Bank decided, by an 8-1 majority vote, that it would reduce its purchase amount of JGBs thereafter to ensure that long-term interest rates would be formed more freely in financial markets. [Note] It will collect views from market participants and, at the next MPM, will decide on a detailed plan for the reduction of its purchase amount during the next one to two years or so.
+
+2. Japan's economy has recovered moderately, although some weakness has been seen in part. Overseas economies have grown moderately on the whole. Exports have been more or less flat. Industrial production has been more or less flat as a trend, but it has continued to be pushed down recently by a suspension of production and shipment at some automakers. With corporate profits improving, business fixed investment has been on a moderate increasing trend. The employment and income situation has improved moderately. Private consumption has been resilient, although the impact of price rises has remained and automobile sales have continued to be pushed down by the suspension of shipment at some automakers. Housing investment has been relatively weak. Public investment has been more or less flat. Financial conditions have been accommodative. On the price front, the year-on-year rate of increase in the consumer price index (CPI, all items less fresh food) has been in the range of 2.0-2.5 percent recently, as services prices have continued to rise moderately, reflecting factors such as wage increases, although the effects of a pass-through to consumer prices of cost increases led by the past rise in import prices have waned. Inflation expectations have risen moderately.
+
+Japan's economy is likely to keep growing at a pace above its potential growth rate, with overseas economies continuing to grow moderately and as a virtuous cycle from income to spending gradually intensifies against the background of factors such as accommodative financial conditions. While the effects of the pass-through to consumer prices of cost increases led by the past rise in import prices are expected to wane, the year-on-year rate of increase in the CPI (all items less fresh food) is projected to be pushed up through fiscal 2025 by factors such as a waning of the effects of the government's economic measures pushing down CPI inflation. Meanwhile, underlying CPI inflation is expected to increase gradually, since it is projected that the output gap will improve and that medium- to long-term inflation expectations will rise with a virtuous cycle between wages and prices continuing to intensify. In the second half of the projection period of the April 2024 Outlook for Economic Activity and Prices (Outlook Report), it is likely to be at a level that is generally consistent with the price stability target.
+
+Concerning risks to the outlook, there remain high uncertainties surrounding Japan's economic activity and prices, including developments in overseas economic activity and prices, developments in commodity prices, and domestic firms' wage- and price-setting behavior. Under these circumstances, it is necessary to pay due attention to developments in financial and foreign exchange markets and their impact on Japan's economic activity and prices.
+
+[Note] Voting for the action: UEDA Kazuo, HIMINO Ryozo, UCHIDA Shinichi, ADACHI Seiji, NOGUCHI Asahi, NAKAGAWA Junko, TAKATA Hajime, and TAMURA Naoki. Voting against the action: NAKAMURA Toyoaki. While Nakamura Toyoaki was in favor of the idea of reducing the Bank's purchase amount of JGBs, he dissented, considering that the Bank should decide to reduce it after reassessing developments in economic activity and prices in the July 2024 Outlook Report.
+
+(Reference)
+
+Meeting hours:
+
+Thursday, June 13: 14:00-15:33
+
+Friday, June 14: 9:00-12:16
+
+Policy Board members present:
+
+UEDA Kazuo, Chairman (Governor)
+
+HIMINO Ryozo (Deputy Governor)
+
+UCHIDA Shinichi (Deputy Governor)
+
+ADACHI Seiji
+
+NAKAMURA Toyoaki
+
+NOGUCHI Asahi
+
+NAKAGAWA Junko
+
+TAKATA Hajime
+
+TAMURA Naoki
+
+[Others present]
+
+June 13
+
+From the Ministry of Finance:
+SAKAMOTO Motoru, Deputy Vice-Minister for Policy Planning and Coordination (14:00-15:33)
+
+From the Cabinet Office:
+INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-15:33)
+
+June 14
+
+From the Ministry of Finance:
+AKAZAWA Ryosei, State Minister of Finance (9:00-12:02, 12:09-12:16)
+
+From the Cabinet Office:
+MORO Kengo, Deputy Director General for Economic and Fiscal Management (9:00-11:00)
+SHINDO Yoshitaka, Minister of State for Economic and Fiscal Policy (11:01-12:02, 12:09-12:16)
+
+Release dates and times:
+
+Statement on Monetary Policy -- Friday, June 14 at 12:23
+
+Summary of Opinions -- Monday, June 24 at 8:50
+
+Minutes of the Monetary Policy Meeting -- Monday, August 5 at 8:50

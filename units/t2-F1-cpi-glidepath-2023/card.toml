@@ -10,7 +10,6 @@ split = "public-dev"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "macro_monthly", "t2-f1", "t2c-F1-cpi-glidepath-2023"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "BLS/BEA news release; Federal Reserve"
 path           = "text/"
 cutoff         = "2023-07-12"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
+n_documents    = 8
 notes          = "As-of the June-2023 CPI release day (3.0% YoY). Base effects mechanically push YoY back up over the summer — the arithmetic is knowable from published index levels; energy and the last-mile services trend are the swing factors. Forecast the January and February 2024 index levels — a six-month inflation path, not a nowcast."
 
 [targets]

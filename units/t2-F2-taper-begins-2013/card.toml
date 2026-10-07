@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust10y-flow-guidance-2013"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "BLS/BEA news release; Federal Reserve; official (see landmarks
 path           = "text/"
 cutoff         = "2013-12-18"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 6
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 8
 notes          = "A long-anticipated reduction in the purchase pace arrives at the as-of meeting, paired with strengthened forward guidance. The corpus therefore contains BOTH a supply-negative and a guidance-positive signal, and positioning commentary at the as-of is one-sided. Weigh the two texts and the positioning evidence without presuming which force dominates over the horizon."
 
 [targets]

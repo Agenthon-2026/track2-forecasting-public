@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "rates_daily", "t2-f2", "t2c-F2-ust2y-intermeeting-2007"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2007-08-17"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches; Federal Reserve"
+source         = "BIS central bankers' speeches; Federal Reserve; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2007-08-17"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_statement"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "fomc_statement", "landmark"]
+n_documents    = 10
 notes          = "Three statements in ten days shift in their characterization of risks and include an administered-rate action; the sequence itself is information. Whether it marks a durable change in the policy path, and how far the front end moves over the horizon, is the question."
 
 [targets]

@@ -4,15 +4,14 @@ schema_version = "2.0"
 [task]
 id    = "t2-F4-cpi-friday-2022"
 track = "forecasting"
-title = "UST 2Y Into a Hot-Print Window (21 BD)"
+title = "UST 2Y Into a Scheduled CPI Release (21 BD)"
 split = "validation"
 
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
-tags                     = ["forecasting", "rates_daily", "t2-f4", "t2c-F4-ust2y-hot-print-window"]
+tags                     = ["forecasting", "rates_daily", "t2-f4", "t2c-F4-ust2y-scheduled-cpi-release"]
 expert_time_estimate_min = 45.0
 junior_time_estimate_min = 120.0
 asset_panel      = "rates_daily"
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "daily"
-description      = "UST 2Y Into a Hot-Print Window (21 BD). As-of 2022-05-31; targets UST_2Y at horizons [21] BD. Guidance-vs-data tail: official text says capped, real-time prices say otherwise."
-created_by       = "Ruolan Sun (catalog t2c-F4-ust2y-hot-print-window)"
+description      = "UST 2Y Into a Scheduled CPI Release (21 BD). As-of 2022-05-31; targets UST_2Y at horizons [21] BD. Policy guidance and real-time price commentary, with an inflation release inside the window."
+created_by       = "Ruolan Sun (catalog t2c-F4-ust2y-scheduled-cpi-release)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -77,9 +75,9 @@ source         = "BLS/BEA news release; Federal Reserve; official (see landmarks
 path           = "text/"
 cutoff         = "2022-05-31"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 5
-notes          = "The prior meeting delivered 50bp and took a larger step 'off the table' — text the front end took at face value. An inflation release falls inside the window (date known ex-ante); real-time gas and rent commentary argue the prints may not be done rising. If the data overrides the guidance, the repricing could be violent; if the guidance holds, the front end stays anchored. Both tails must survive the reassuring official text, with neither side presumed."
+doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 8
+notes          = "The prior meeting delivered 50bp, and its press conference took a larger step 'off the table'. An inflation release falls inside the window (date known ex-ante), and the corpus holds real-time gas and rent commentary. The documents are for weighing the official guidance against that commentary."
 
 [targets]
 asset_ids        = ["UST_2Y"]

@@ -32,6 +32,13 @@
       "file": "bis_kuroda_2018-05-10.txt"
     },
     {
+      "doc_id": "bis_quarles_2018-05-16",
+      "timestamp": "2018-05-16",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_quarles_2018-05-16.txt"
+    },
+    {
       "doc_id": "beige_book-2018-05-31",
       "timestamp": "2018-05-31",
       "source": "Federal Reserve (Beige Book)",
@@ -46,11 +53,25 @@
       "file": "fomc_statement_20180613.txt"
     },
     {
+      "doc_id": "bis_lautenschlager_2018-07-10",
+      "timestamp": "2018-07-10",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lautenschlager_2018-07-10.txt"
+    },
+    {
       "doc_id": "macro_release-2018-07-12",
       "timestamp": "2018-07-12",
       "source": "BLS",
       "doc_type": "macro_release",
       "file": "cpi_2018-07-12.txt"
+    },
+    {
+      "doc_id": "boj_mp_decision_2018-07-31",
+      "timestamp": "2018-07-31",
+      "source": "Bank of Japan",
+      "doc_type": "central_bank_decision",
+      "file": "boj_mp_decision_2018-07-31.txt"
     }
   ]
 }

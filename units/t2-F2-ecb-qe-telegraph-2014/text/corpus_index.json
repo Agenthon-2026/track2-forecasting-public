@@ -32,6 +32,13 @@
       "file": "ecb_draghi_2014-09-25.txt"
     },
     {
+      "doc_id": "bis_lautenschlager_2014-09-30",
+      "timestamp": "2014-09-30",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lautenschlager_2014-09-30.txt"
+    },
+    {
       "doc_id": "ecb_draghi_2014-10-09",
       "timestamp": "2014-10-09",
       "source": "ECB (all_ECB_speeches.csv)",
@@ -65,6 +72,20 @@
       "source": "Federal Reserve (Beige Book)",
       "doc_type": "beige_book",
       "file": "beigebook_201410.txt"
+    },
+    {
+      "doc_id": "ecb_mp_decision_2014-11-06",
+      "timestamp": "2014-11-06",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2014-11-06.txt"
+    },
+    {
+      "doc_id": "bis_tarullo_2014-11-07",
+      "timestamp": "2014-11-07",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_tarullo_2014-11-07.txt"
     },
     {
       "doc_id": "ecb_draghi_2014-11-12",

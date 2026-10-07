@@ -4,6 +4,13 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_mersch_2017-05-18",
+      "timestamp": "2017-05-18",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_mersch_2017-05-18.txt"
+    },
+    {
       "doc_id": "beige_book-2017-05-31",
       "timestamp": "2017-05-31",
       "source": "Federal Reserve (Beige Book)",
@@ -39,6 +46,13 @@
       "file": "cpi_2017-06-14.txt"
     },
     {
+      "doc_id": "bis_lautenschlager_2017-06-19",
+      "timestamp": "2017-06-19",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_lautenschlager_2017-06-19.txt"
+    },
+    {
       "doc_id": "fomc-minutes-20170614",
       "timestamp": "2017-07-05",
       "source": "Federal Reserve (FOMC)",
@@ -51,6 +65,13 @@
       "source": "BIS central bankers' speeches (full archive)",
       "doc_type": "cb_speech",
       "file": "bis_poloz_2017-07-12.txt"
+    },
+    {
+      "doc_id": "boc_mp_decision_2017-07-12",
+      "timestamp": "2017-07-12",
+      "source": "Bank of Canada",
+      "doc_type": "central_bank_decision",
+      "file": "boc_mp_decision_2017-07-12.txt"
     }
   ]
 }

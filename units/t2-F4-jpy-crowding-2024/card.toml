@@ -4,13 +4,12 @@ schema_version = "2.0"
 [task]
 id    = "t2-F4-jpy-crowding-2024"
 track = "forecasting"
-title = "USD/JPY Tail Risk at Peak Carry Crowding (21 BD)"
+title = "USD/JPY Tail Risk Under Crowded Carry Positioning (21 BD)"
 split = "public-dev"
 
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f4", "t2c-jpy-crowding-2024"]
 expert_time_estimate_min = 45.0
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "level"
 target_frequency = "daily"
-description      = "USD/JPY Tail Risk at Peak Carry Crowding (21 BD). As-of 2024-07-31; targets JPY at horizons [21] BD. Positioning + policy text => whether the carry trade unwinds over the horizon is the forecasting question; keep a fat tail."
+description      = "USD/JPY Tail Risk Under Crowded Carry Positioning (21 BD). As-of 2024-07-31; targets JPY at horizons [21] BD. Positioning and policy text on the yen."
 created_by       = "Ruolan Sun"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -77,9 +75,9 @@ source         = "BLS/BEA news release; CFTC; Federal Reserve; official (see lan
 path           = "text/"
 cutoff         = "2024-07-31"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_statement", "landmark", "macro_release", "positioning_report"]
-n_documents    = 7
-notes          = "BoJ 2024-07-31 hike + taper decision, March NIRP-exit context, the same-day FOMC statement, and the CFTC COT table showing speculative yen shorts near record extremes. BNP08 carry-crash conditions: a shrinking rate differential plus crowded positioning is the regime; whether the carry trade unwinds over the horizon is the forecasting question, so the tail deserves far more mass than trailing vol suggests."
+doc_types      = ["beige_book", "cb_speech", "fomc_statement", "landmark", "macro_release", "positioning_report"]
+n_documents    = 9
+notes          = "BoJ 2024-07-31 hike and taper decision, the March NIRP-exit context, the same-day FOMC statement, and the CFTC COT table showing large net speculative yen shorts. The documents bear on a shrinking rate differential together with crowded positioning; how that combination plays out over the horizon is the forecasting question."
 
 [targets]
 asset_ids        = ["JPY"]

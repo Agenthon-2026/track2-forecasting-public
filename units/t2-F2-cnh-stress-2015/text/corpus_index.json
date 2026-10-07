@@ -28,11 +28,32 @@
    "institution": "People's Bank of China"
   },
   {
+   "doc_id": "bis_mersch_2015-06-04",
+   "timestamp": "2015-06-04",
+   "source": "BIS central bankers' speeches",
+   "doc_type": "cb_speech",
+   "file": "bis_mersch_2015-06-04.txt"
+  },
+  {
    "doc_id": "bis_stevens_2015-06-10",
    "timestamp": "2015-06-10",
    "source": "BIS central bankers' speeches (full archive)",
    "doc_type": "cb_speech",
    "file": "bis_stevens_2015-06-10.txt"
+  },
+  {
+   "doc_id": "bis_fischer_2015-06-24",
+   "timestamp": "2015-06-24",
+   "source": "BIS central bankers' speeches",
+   "doc_type": "cb_speech",
+   "file": "bis_fischer_2015-06-24.txt"
+  },
+  {
+   "doc_id": "pboc_mp_decision_2015-06-29",
+   "timestamp": "2015-06-29",
+   "source": "People's Bank of China",
+   "doc_type": "central_bank_decision",
+   "file": "pboc_mp_decision_2015-06-29.txt"
   },
   {
    "doc_id": "beige_book-2015-06-30",

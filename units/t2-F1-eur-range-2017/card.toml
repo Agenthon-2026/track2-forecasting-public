@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f1", "t2c-F1-eur-range-2017"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2017-09-07"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BLS/BEA news release; ECB (all_ECB_speeches.csv); Federal Reserve"
+source         = "BLS/BEA news release; ECB (all_ECB_speeches.csv); Federal Reserve; European Central Bank; official (see landmarks index)"
 path           = "text/"
 cutoff         = "2017-09-07"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 11
 notes          = "A central-bank press conference flags the exchange rate as a source of uncertainty requiring monitoring after a strong currency run — classic soft verbal intervention. Historically such language can dampen trend extension; the test is drift versus range, with symmetric width around a text-conditioned center."
 
 [targets]

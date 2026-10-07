@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F3"
 tags                     = ["forecasting", "rates_daily", "g10_fx_daily", "t2-f3", "t2c-F3-policy-scenario-4mkt-2022"]
 expert_time_estimate_min = 45.0
@@ -83,12 +82,12 @@ end_date   = "2022-09-01"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BLS/BEA news release; Federal Reserve; official (see landmarks index)"
+source         = "BLS/BEA news release; Federal Reserve; official (see landmarks index); Bank of England; Bank of Japan; European Central Bank"
 path           = "text/"
 cutoff         = "2022-09-01"
 cutoff_checked = true
-doc_types      = ["beige_book", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
-n_documents    = 5
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "landmark", "macro_release"]
+n_documents    = 11
 notes          = "Cross-panel joint card: the policy signal in the text must propagate coherently across all four legs as one joint distribution (correlated moves, not independent per-asset draws), with MoF intervention rhetoric as a live tail risk. Independent per-asset draws overstate cross-market distances."
 
 [targets]

@@ -1,0 +1,96 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2011/k110712a.pdf | date: 2011-07-12 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 12 July 2011
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote,[1] to set the following guideline for money market operations for the intermeeting period:
+
+The Bank of Japan will encourage the uncollateralized overnight call rate to remain at around 0 to 0.1 percent.
+
+2. Japan's economic activity is picking up with an easing of the supply-side constraints caused by the earthquake disaster. After declining sharply following the earthquake, production has recently shown clear signs of picking up with the easing of supply-side constraints. This has resulted in an upturn in exports. Domestic private demand has also begun to pick up, with some improvement in household and business sentiment. Meanwhile, financial conditions have generally continued to ease, albeit with the observed weakness in the financial positions of some firms, mainly small ones. The year-on-year rate of change in the CPI (excluding fresh food) has been slightly positive.
+
+3. With supply-side constraints easing further and production regaining traction, Japan's economy is expected to return to a moderate recovery path from the second half of fiscal 2011, backed by an increase in exports reflecting the improvement in overseas economic conditions and by a rise in demand for restoring capital stock. The year-on-year rate of change in the CPI is expected to remain slightly positive.[2] Based on these assessments, Japan's economy is expected to return to a sustainable growth path with price stability in the longer run.
+
+4. Compared with the forecasts presented in the April 2011 Outlook for Economic Activity and Prices, growth prospects will likely be somewhat lower for fiscal 2011 due to the sharp downturn immediately after the earthquake. Nevertheless, growth prospects for fiscal 2012 will likely remain broadly unchanged because the economy is expected to return to a moderate recovery path from the second half of fiscal 2011. With regard to prices, the year-on-year rates of change in the domestic corporate goods price index and the CPI (excluding fresh food) are expected to be broadly in line with the April forecasts.
+
+5. Regarding risks to the economic outlook, although concern over supply chains has subsided, the impact of the earthquake disaster on Japan's economy, especially through changes in household sentiment, still requires due attention. Moreover, uncertainty has increased somewhat with regard to the longer-term outlook for electricity supply constraints. With regard to overseas economies, the effects of balance-sheet adjustments on the U.S. economy and the possible consequences of the sovereign risk problems in Europe continue to warrant attention. As for emerging and commodity-exporting economies, there is a high degree of uncertainty about the prospect of achieving price stability and economic growth at the same time. Regarding risks to the price outlook, inflation could rise more than expected if international commodity prices increase further, while there is also a possibility that the rate of inflation will deviate downward from the Bank's baseline scenario due, for example, to a decline in medium- to long-term inflation expectations.
+
+6. In order for Japan's economy to overcome deflation and return to a sustainable growth path with price stability, the Bank will continue to consistently make contributions as the central bank through the three-pronged approach of pursuing powerful monetary easing consisting of comprehensive monetary easing, ensuring financial market stability, and providing support to strengthen the foundations for economic growth. The Bank will continue to carefully examine the outlook for economic activity and prices, including the effects of the disaster, and take appropriate policy actions as necessary.
+
+[1] Voting for the action: Mr. M. Shirakawa, Mr. H. Yamaguchi, Mr. K. G. Nishimura, Mr. S. Nakamura, Mr. H. Kamezaki, Mr. R. Miyao, Mr. Y. Morimoto, Ms. S. Shirai, and Mr. K. Ishida. Voting against the action: None.
+
+[2] The year-on-year rate of change in the CPI is likely to be revised downward with the base-year change scheduled for August 2011.
+
+Appendix 1
+
+Forecasts of the Majority of Policy Board Members
+
+y/y % chg. | Real GDP | Domestic CGPI | CPI (excluding fresh food)
+Fiscal 2011 | +0.2 to +0.6 [+0.4] | +2.2 to +2.5 [+2.4] | +0.6 to +0.8 [+0.7]
+Forecasts made in April 2011 | +0.5 to +0.9 [+0.6] | +1.6 to +2.6 [+2.2] | +0.5 to +0.8 [+0.7]
+Fiscal 2012 | +2.5 to +3.0 [+2.9] | +0.5 to +0.9 [+0.6] | +0.6 to +0.7 [+0.7]
+Forecasts made in April 2011 | +2.7 to +3.0 [+2.9] | +0.3 to +0.7 [+0.6] | +0.5 to +0.7 [+0.7]
+
+Notes:
+1. Figures in brackets indicate the median of the Policy Board members' forecasts (point estimates).
+2. The forecasts of the majority of Policy Board members are constructed as follows: each Policy Board member's forecast takes the form of a point estimate, namely, the figure to which he or she attaches the highest probability of realization. These forecasts are then shown as a range, with the highest figure and the lowest figure excluded. The range does not indicate the forecast errors.
+3. Individual Policy Board members make their forecasts with reference to the view of market participants regarding the future course of the policy interest rate -- a view that is incorporated in market interest rates.
+4. The CPI forecasts are predicated on the 2005-base CPI. The statistics authority has announced that the base year for the CPI is scheduled to be changed to 2010 in August 2011, and year-on-year figures as far back as January 2011 are scheduled to be revised retroactively. This rebasing is likely to cause the year-on-year rate of increase in the CPI to be revised downward.
+5. The ranges shown below include the forecasts of all Policy Board members.
+
+y/y % chg. | Real GDP | Domestic CGPI | CPI (excluding fresh food)
+Fiscal 2011 | +0.2 to +0.6 | +2.2 to +2.6 | +0.5 to +0.8
+Forecasts made in April 2011 | +0.5 to +1.0 | +1.5 to +2.7 | +0.5 to +0.9
+Fiscal 2012 | +2.5 to +3.0 | +0.3 to +1.0 | +0.4 to +0.8
+Forecasts made in April 2011 | +2.5 to +3.0 | +0.1 to +1.0 | +0.4 to +0.7
+
+Appendix 2
+
+Risk Balance Charts
+
+[Charts: (1) Real GDP and (2) CPI (Excluding Fresh Food), each for FY2011 and FY2012 -- graphical content not reproduced in this text version.]
+
+Notes:
+1. Vertical axes in the charts represent probability (%), while horizontal axes represent the year-on-year percentage changes in the respective indicators. Bar charts represent the probability distributions in July 2011, and solid lines represent those in April 2011.
+2. Vertical dashed heavy lines indicate the median of the Policy Board members' forecasts (point estimates). [legend symbol] indicates the range of the forecasts of the majority of Policy Board members. [legend symbol] indicates the range of the forecasts of all Policy Board members.
+3. Vertical dashed thin lines indicate the median of the Policy Board members' forecasts (point estimates) in April 2011.
+4. For the process of compilation of the Risk Balance Charts, see the box on page 9 of the April 2008 Outlook for Economic Activity and Prices.
+
+(Reference)
+Meeting hours:
+July 11 : 14:00-16:08
+July 12 : 9:00-13:15
+
+Policy Board members present:
+Masaaki Shirakawa (Governor)
+Hirohide Yamaguchi (Deputy Governor)
+Kiyohiko G. Nishimura (Deputy Governor)
+Seiji Nakamura
+Hidetoshi Kamezaki
+Ryuzo Miyao
+Yoshihisa Morimoto
+Sayuri Shirai
+Koji Ishida
+
+(Others present)
+July 11
+From the Ministry of Finance:
+Yasushi Kinoshita, Deputy Vice Minister for Policy Planning and Co-ordination
+(14:00-16:08)
+From the Cabinet Office:
+Kenji Umetani, Director-General, Economic and Fiscal Management (14:00-16:08)
+
+July 12
+From the Ministry of Finance:
+Mitsuru Sakurai, Senior Vice Minister of Finance (9:00-13:02,13:08-13:15)
+From the Cabinet Office:
+Tetsuro Fukuyama, Deputy Chief Cabinet Secretary (9:00-13:02,13:08-13:15)
+
+Release of the Monthly Report of Recent Economic and Financial Developments:
+14:00 on Wednesday, July 13 (Japanese)
+16:30 on Thursday, July 14 (English)
+-- The English translation of the summary of the Monthly Report will be
+released at 14:00 on Wednesday, July 13
+
+Release of the minutes:
+8:50 on Wednesday, August 10

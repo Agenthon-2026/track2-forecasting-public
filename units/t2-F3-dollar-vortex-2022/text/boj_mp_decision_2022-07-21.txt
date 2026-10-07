@@ -1,0 +1,100 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2022/k220721a.htm | date: 2022-07-21 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 21 July 2022
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following.
+
+(1) Yield curve control (an 8-1 majority vote) [Note 1]
+
+a) The Bank decided to set the following guideline for market operations for the intermeeting period.
+
+The short-term policy interest rate:
+
+The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate:
+
+The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent.
+
+b) Conduct of fixed-rate purchase operations for consecutive days
+
+In order to implement the above guideline for market operations, the Bank will offer to purchase 10-year JGBs at 0.25 percent every business day through fixed-rate purchase operations, unless it is highly likely that no bids will be submitted.
+
+(2) Guidelines for asset purchases (a unanimous vote)
+
+With regard to asset purchases other than JGB purchases, the Bank decided to set the following guidelines.
+
+a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding.
+
+b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds.
+
+2. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner.
+
+For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. [Note 2]
+
+[Note 1] Voting for the action: Mr. KURODA Haruhiko, Mr. AMAMIYA Masayoshi, Mr. WAKATABE Masazumi, Mr. SUZUKI Hitoshi, Mr. ADACHI Seiji, Mr. NAKAMURA Toyoaki, Mr. NOGUCHI Asahi, and Ms. NAKAGAWA Junko. Voting against the action: Mr. KATAOKA Goushi. Mr. Kataoka dissented, considering that it was desirable to further strengthen monetary easing by lowering short- and long-term interest rates, with a view to encouraging firms to make active business fixed investment for the post-COVID-19 era.
+
+[Note 2] Mr. Kataoka dissented, considering that further coordination of fiscal and monetary policy was necessary and it was appropriate for the Bank to revise the forward guidance for the policy rates to relate it to the price stability target.
+
+(Reference)
+
+Meeting hours:
+
+Wednesday, July 20: 14:00-15:45
+
+Thursday, July 21: 9:00-11:57
+
+Policy Board members present:
+
+Mr. KURODA Haruhiko, Chairman (Governor)
+
+Mr. AMAMIYA Masayoshi (Deputy Governor)
+
+Mr. WAKATABE Masazumi (Deputy Governor)
+
+Mr. SUZUKI Hitoshi
+
+Mr. KATAOKA Goushi [1]
+
+Mr. ADACHI Seiji
+
+Mr. NAKAMURA Toyoaki
+
+Mr. NOGUCHI Asahi
+
+Ms. NAKAGAWA Junko
+
+[1] Mr. KATAOKA was present via conference call.
+
+[Others present]
+
+July 20
+
+From the Ministry of Finance:
+Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination (14:00-15:45)
+
+From the Cabinet Office:
+Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-15:45)
+
+July 21
+
+From the Ministry of Finance:
+Mr. OIE Satoshi, State Minister of Finance (9:00-11:36, 11:45-11:57)
+
+From the Cabinet Office:
+Mr. KIKAWADA Hitoshi, State Minister of Cabinet Office (9:00-11:36, 11:45-11:57)
+
+Release dates and times:
+
+Statement on Monetary Policy -- Thursday, July 21 at 12:04
+
+Outlook for Economic Activity and Prices (Outlook Report)
+
+The Bank's View -- Thursday, July 21 at 12:04
+
+Full text -- Friday, July 22 at 14:00
+
+Summary of Opinions -- Friday, July 29 at 8:50
+
+Minutes of the Monetary Policy Meeting -- Wednesday, September 28 at 8:50

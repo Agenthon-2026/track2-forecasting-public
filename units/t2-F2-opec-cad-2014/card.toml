@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F2"
 tags                     = ["forecasting", "g10_fx_daily", "t2-f2", "t2c-F2-cad-oil-supply-2014"]
 expert_time_estimate_min = 45.0
@@ -71,12 +70,12 @@ end_date   = "2014-11-28"
 notes      = "Truncated at the as-of date by construction; leakage guard re-checks at runtime."
 
 [text]
-source         = "BIS central bankers' speeches (full archive); CFTC; Federal Reserve"
+source         = "BIS central bankers' speeches (full archive); CFTC; Federal Reserve; Bank of Canada"
 path           = "text/"
 cutoff         = "2014-11-28"
 cutoff_checked = true
-doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "positioning_report"]
-n_documents    = 7
+doc_types      = ["beige_book", "cb_speech", "central_bank_decision", "fomc_minutes", "fomc_statement", "positioning_report"]
+n_documents    = 10
 notes          = "Cross-domain reading: a supply-side decision in the oil market (visible in the crude positioning table and producer-group communication in corpus) bears on a petro-currency whose central bank's own speeches stress the terms-of-trade channel. The FX panel barely moves by the as-of; how strongly and how persistently the shock transmits, in either direction, is the question."
 
 [targets]

@@ -32,6 +32,13 @@
       "file": "bis_lagarde_2024-09-30.txt"
     },
     {
+      "doc_id": "bis_mccaul_2024-10-08",
+      "timestamp": "2024-10-08",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_mccaul_2024-10-08.txt"
+    },
+    {
       "doc_id": "fomc-minutes-20240918",
       "timestamp": "2024-10-09",
       "source": "Federal Reserve",
@@ -47,6 +54,13 @@
       "file": "cpi_2024-10-10.txt"
     },
     {
+      "doc_id": "bis_cook_2024-10-10",
+      "timestamp": "2024-10-10",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_cook_2024-10-10.txt"
+    },
+    {
       "doc_id": "bis_adachi_2024-10-16",
       "timestamp": "2024-10-16",
       "source": "BIS central bankers' speeches",
@@ -54,11 +68,25 @@
       "file": "bis_adachi_2024-10-16.txt"
     },
     {
+      "doc_id": "ecb_mp_decision_2024-10-17",
+      "timestamp": "2024-10-17",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2024-10-17.txt"
+    },
+    {
       "doc_id": "bis_patra_2024-10-21",
       "timestamp": "2024-10-21",
       "source": "BIS central bankers' speeches",
       "doc_type": "cb_speech",
       "file": "bis_patra_2024-10-21.txt"
+    },
+    {
+      "doc_id": "boj_mp_decision_2024-10-31",
+      "timestamp": "2024-10-31",
+      "source": "Bank of Japan",
+      "doc_type": "central_bank_decision",
+      "file": "boj_mp_decision_2024-10-31.txt"
     }
   ]
 }

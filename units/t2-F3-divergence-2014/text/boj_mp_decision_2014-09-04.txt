@@ -1,0 +1,68 @@
+# source: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2014/k140904a.pdf | date: 2014-09-04 | type: central_bank_decision
+
+Statement on Monetary Policy
+Bank of Japan, 4 September 2014
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote, to set the following guideline for money market operations for the intermeeting period:
+
+The Bank of Japan will conduct money market operations so that the monetary base will increase at an annual pace of about 60-70 trillion yen.
+
+2. With regard to the asset purchases, the Bank will continue with the following guidelines:
+
+a) The Bank will purchase Japanese government bonds (JGBs) so that their amount outstanding will increase at an annual pace of about 50 trillion yen, and the average remaining maturity of the Bank's JGB purchases will be about seven years.
+
+b) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) so that their amounts outstanding will increase at an annual pace of about 1 trillion yen and about 30 billion yen respectively.
+
+c) As for CP and corporate bonds, the Bank will maintain their amounts outstanding at about 2.2 trillion yen and about 3.2 trillion yen respectively.
+
+3. Japan's economy has continued to recover moderately as a trend, although the subsequent decline in demand following the front-loaded increase prior to the consumption tax hike has been observed. Overseas economies -- mainly advanced economies -- have been recovering, albeit with a lackluster performance still seen in part. Exports have shown some weakness. Business fixed investment has increased moderately as corporate profits have improved. Public investment has more or less leveled off at a high level. Private consumption has remained resilient as a trend with the employment and income situation improving steadily, and the effects of the decline in demand following the front-loaded increase have gradually begun to wane. As for housing investment, a decline following the front-loaded increase has continued. Reflecting these developments in demand both at home and abroad, industrial production has recently shown some weakness, although it has continued to increase moderately as a trend. Meanwhile, financial conditions are accommodative. On the price front, the year-on-year rate of increase in the consumer price index (CPI, all items less fresh food), excluding the direct effects of the consumption tax hike, is around 1¼ percent. Inflation expectations appear to be rising on the whole.
+
+4. With regard to the outlook, Japan's economy is expected to continue its moderate recovery trend, and the effects of the subsequent decline in demand following the front-loaded increase prior to the consumption tax hike are expected to wane gradually. The year-on-year rate of increase in the CPI is likely to be around 1¼ percent for some time.
+
+5. Risks to the outlook include developments in the emerging and commodity-exporting economies, the prospects for the European debt problem, and the pace of recovery in the U.S. economy.
+
+6. Quantitative and qualitative monetary easing (QQE) has been exerting its intended effects, and the Bank will continue with the QQE, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will examine both upside and downside risks to economic activity and prices, and make adjustments as appropriate. [Note]
+
+[Note] Mr. T. Kiuchi proposed that the Bank will aim to achieve the price stability target of 2 percent in the medium to long term and designate the QQE as an intensive measure with a time frame of about two years. The proposal was defeated by an 8-1 majority vote. Voting for the proposal: Mr. T. Kiuchi. Voting against the proposal: Mr. H. Kuroda, Mr. K. Iwata, Mr. H. Nakaso, Mr. R. Miyao, Mr. Y. Morimoto, Ms. S. Shirai, Mr. K. Ishida, and Mr. T. Sato.
+
+(Reference)
+Meeting hours:
+September 3: 14:00-16:32
+September 4: 9:00-12:02
+
+Policy Board members present:
+Haruhiko Kuroda (Governor)
+Kikuo Iwata (Deputy Governor)
+Hiroshi Nakaso (Deputy Governor)
+Ryuzo Miyao
+Yoshihisa Morimoto
+Sayuri Shirai
+Koji Ishida
+Takehiro Sato
+Takahide Kiuchi
+
+(Others present)
+September 3
+From the Ministry of Finance:
+Hidenori Sakota, Deputy Vice Minister for Policy Planning and Co-ordination
+(14:00-16:32)
+From the Cabinet Office:
+Mamoru Maekawa, Director-General, Economic and Fiscal Management
+(14:00-16:32)
+
+September 4
+From the Ministry of Finance:
+Hidenori Sakota, Deputy Vice Minister for Policy Planning and Co-ordination
+(9:00-11:50, 11:58-12:02)
+From the Cabinet Office:
+Mamoru Maekawa, Director-General, Economic and Fiscal Management
+(9:00-11:50, 11:58-12:02)
+
+Release of the Monthly Report of Recent Economic and Financial Developments:
+14:00 on Friday, September 5 (Japanese)
+16:30 on Monday, September 8 (English)
+-- The English translation of the summary of the Monthly Report will be
+released at 14:00 on Friday, September 5
+
+Release of the minutes:
+8:50 on Friday, October 10

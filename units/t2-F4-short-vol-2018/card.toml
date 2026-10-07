@@ -4,13 +4,12 @@ schema_version = "2.0"
 [task]
 id    = "t2-F4-short-vol-2018"
 track = "forecasting"
-title = "Market Factor Tail at Peak Short-Vol Crowding (21 BD)"
+title = "Market Factor Tail Under Low-Volatility Positioning (21 BD)"
 split = "public-dev"
 
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "hard"
 category                 = "T2-F4"
 tags                     = ["forecasting", "factors_daily", "t2-f4", "t2c-short-vol-2018"]
 expert_time_estimate_min = 45.0
@@ -20,10 +19,9 @@ horizons         = [21]
 n_assets         = 1
 target_type      = "log_return"
 target_frequency = "daily"
-description      = "Market Factor Tail at Peak Short-Vol Crowding (21 BD). As-of 2018-01-26; targets MKT at horizons [21] BD. K&A product-fragility + rate-scare text; the scheduled wage print inside the window is the potential vol-unwind catalyst."
+description      = "Market Factor Tail Under Low-Volatility Positioning (21 BD). As-of 2018-01-26; targets MKT at horizons [21] BD. Low-volatility conditions and policy-rate text; a scheduled wage print falls inside the window."
 created_by       = "Ruolan Sun (catalog t2c-short-vol-2018)"
 created_date     = "2026-07-03"
-design_note      = "F4 shock-timing interpretation: we read the CATEGORIES rule as requiring (i) the as-of date to precede the shock event (the agent cannot know it has started) and (ii) the target window to span the shock's impact. This matches the worked exemplar t2-F4-ust-hike-cycle-2021Q4 in docs/CATEGORIES.md, whose 63-BD target precedes the first hike of the cycle it targets. Under the strictest literal reading (shock no earlier than as-of + horizon) most canonical F4 episodes would be unconstructible. Flagged for track-lead adjudication."
 
 [provenance]
 license             = "Mixed; see the per-file license in manifest.json"
@@ -78,8 +76,8 @@ path           = "text/"
 cutoff         = "2018-01-26"
 cutoff_checked = true
 doc_types      = ["beige_book", "cb_speech", "fomc_minutes", "fomc_statement", "macro_release"]
-n_documents    = 7
-notes          = "As-of the top of a euphoric, ultra-low-vol run. Dec-2017 minutes flag continued hikes into fiscal stimulus; a scheduled early-February employment report (release calendar known ex-ante) falls inside the window; pre-asof commentary documents record short-vol product crowding. A wage-inflation surprise could force a mechanical vol unwind — the left tail must stay fat despite the calm panel."
+n_documents    = 9
+notes          = "As-of a long, ultra-low-vol run. The December 2017 minutes discuss continued hikes into fiscal stimulus and note elevated asset valuations and low market volatility, which a January speech also describes; a scheduled early-February employment report (release calendar known ex-ante) falls inside the window. The documents bear on how the scheduled release meets those conditions."
 
 [targets]
 asset_ids        = ["MKT"]

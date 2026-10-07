@@ -1,0 +1,110 @@
+Sabine Lautenschläger: Navigating uncertainty - governance, risk management and leveraged finance
+2016-03-01
+
+## Sabine Lautenschläger: Navigating uncertainty - governance, risk management and leveraged finance
+
+Speech by Ms Sabine Lautenschläger, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the Single Supervisory Mechanism, at the 17th Annual Risk Management Convention by the Global Association of Risk Professionals, New York City, 1 March 2016.
+
+* * *
+
+## Ladies and gentlemen,
+
+It is a great pleasure to be here today, as it gives me a welcome opportunity to exchange ideas on risks and risk management with high-ranking risk managers. Discussing topics of risk management is doubtless necessary given the current macroeconomic environment.
+
+In 2008, the financial crisis turned the Great Moderation into the Great Recession. Today, almost eight years later, we still live in challenging times. The Great Recession has now turned into the Great Uncertainty. Quite recently, financial markets experienced another flare-up of that uncertainty. Share prices of European banks, for instance, have been extremely volatile. On some days, we saw prices rise or fall in double digits.
+
+Regarding the causes, it seems that markets were driven by a broad set of worries relating to three different areas:
+
+- first, the state of the global economy, including weak growth and weak investment, uncertainty with regard to China and emerging markets, as well as worries about the impact of low oil prices on the financial sector;
+- second, the new regulatory environment, including the concrete implementation of the new bail-in regime established by the Bank Resolution and Recovery Directive;
+- and third, some idiosyncratic issues that caused broader concerns.
+
+When you listen to some observers, you might get the impression that 2008 is not far away these days. Personally, I would rather argue that it is reasonably far away. In terms of capital ratios as a measure of the resilience of banks, it is actually a couple of percentage points away - since 2008, banks in the euro area have increased their Tier 1 capital ratios from 8.4% to 13.7%.
+
+After all, it is not just a matter of the amount of capital held by the banks. It is also a question of capital quality. And that, too, improved dramatically as a result of regulatory reforms in 2010. Euro area banks focus on Common Equity Tier 1 or CET1, the highest quality of capital. The average fully-loaded CET1 ratio of all banks directly supervised by the ECB stood at 12% at the end of last year and will have moved beyond this mark as we speak, pending annual results.
+
+In addition, the euro area addressed risks in banks' balance sheets with an unprecedented project in 2014 - the comprehensive assessment. Not only did that exercise lead to a common definition of non-performing loans for the first time, it also led to a significant increase in provisioning.
+
+Altogether, the banking system is much more resilient today than it was in 2008 - not least thanks to an improved regulatory and supervisory framework.
+
+Still, in more general terms, we cannot deny the existence of risks. This is particularly true for the financial market, whose core function is to allocate risks. Each and every financial institution must therefore cope with risks. Alas, this is more difficult than it sounds.
+
+## Acknowledging risks - there is no such thing as a free lunch
+
+For a start, there are those risks that cannot be foreseen, the famous black swans. Such risks cannot be managed in any meaningful way. In fact, the only option is to increase resilience. For banks, the universal buffer against all kinds of unexpected shocks is capital. And, on the capital front, much has been done over the past few years. As I already mentioned, banks around the world have increased their capital ratios since 2008. In terms of capital, banks in Europe are therefore much better prepared for those risks that cannot yet be foreseen.
+
+But then there are those risks that can be foreseen - they can be measured and managed. It is these risks that are particularly relevant for risk management in banks, following an economic dictum that has been attributed to several people over the years, including an author of science fiction novels and an American General.
+
+The general was Leonard Porter Ayres, who also worked as a statistician and economist. When asked by a group of reporters to impart some words of wisdom gathered from his long years of economic study, Ayres replied: 'It is an immutable economic fact that there is no such thing as a free lunch.' I am pretty sure that everyone in this room has used that phrase at least once.
+
+Translated into the language of finance, it reads: whoever wants to make a profit has to take a risk. The returns, however, are mostly generated right away, whereas the risk might only materialise in the future.
+
+This is where good risk management comes into play. Banks and the entire banking system have indeed become much more resilient to shocks. Nevertheless, good risk management is still necessary. It should enrich decision-making by providing a medium and long-term view, and it should highlight the downside to every upside.
+
+In a way, risk managers have to be the spoilsports. The same is, of course, true for banking supervisors. One of the tasks of banking supervisors is to ask questions when things are going well, and to intervene when they are not.
+
+Therefore, risk managers, as well as banking supervisors, explicitly advocate a forwardlooking, risk-based approach. And this is what European banking supervision is doing. Our main tool towards that end is the Supervisory Review and Evaluation Process, SREP for short. In this process, we conduct a risk assessment for each institution, not only evaluating its current and future risk levels, but also its risk controls. We review the internal processes followed by institutions in order to determine the appropriate capital and liquidity levels. And we consider the risk an institution poses to the financial system.
+
+Finally, we apply a method to quantify capital and liquidity needs, based on the results of our risk analysis. As a result, we might require institutions to hold capital and liquidity buffers over and above regulatory requirements.
+
+This institution-specific view is supplemented by a horizontal analysis of risks, which also considers system-wide risks, such as those arising from global imbalances, excessive risk concentrations in certain sectors or declining standards in business deals. The objective is to obtain a broader picture of the risk situation in the banking sector and to evaluate key market developments. Together, the institution-specific view and the horizontal analysis can provide us with a sound understanding of risks in the entire banking sector.
+
+So for risk managers as well as for banking supervisors, it is important to take a medium to long-term perspective, anticipate potential problems and act when necessary. Let me now give you an example of that approach, one which illustrates how important it is to identify and manage risks before they become so big that they can hardly be managed at all. And it illustrates the potential of risk managers to act as spoilsports in the short term, while preserving the sustainability of business models in the long term. I am referring to leveraged finance, which comprises instruments such as high-yield bonds and leveraged loans.
+
+## Assessing risks - the issue of leveraged finance
+
+The market for leveraged finance is certainly a market with potential - with potential that other markets can only dream of. After contracting sharply during the financial crisis, it has expanded rapidly in recent years, not least driven by a search for yield against the backdrop of a prolonged period of very low interest rates. According to a study by Crédit Suisse, the global market for leveraged finance grew by almost 42% between 2011 and 2014. Banks in the euro area followed that trend - between 2012 and 2014, they increased their exposures to leveraged loans by 16%.
+
+Do I worry about leveraged finance in the euro area? By comparison, the share of euro area banks in the global market for leveraged finance remains limited. In 2014, banks in the euro area accounted for no more than about 15% of all leveraged loans that were arranged at the global level. At the same time, leveraged finance accounts for just 1% of their assets. Nevertheless, akin to efforts in the United States, European banking supervision decided to look closely at these exposures - taking a forward-looking and pre-emptive approach.
+
+The growth of the market indeed seems to be driven by a search for yield. And on the face of it, leveraged finance does provide comparatively high yields. In 2014, leveraged-finance products generated more than €5 billion of net revenues for European banks. In particular, leveraged finance offers an opportunity to increase fee incomes. Accordingly, the volume of underwritten transactions has increased by 35% since 2012, whereas the volume of deals that banks hold in their own books has only increased by 16%. It would appear that banks are doing it for the fees.
+
+Still, other factors besides a search for yield are driving the market for leveraged finance: corporate refinancing schedules, for instance. In 2014, about 52% of transactions took place in order to renew or refinance previous deals. Also, greater confidence among investors might play a role. Rating agencies, banks and investment funds have communicated profusely on low default rates and the general attractiveness of the market for leveraged finance.
+
+However, the border between confidence and overconfidence is hard to define. Therefore, the question is: should we keep an eye on leveraged finance? My answer as a supervisor is: yes, we should.
+
+Leveraged finance is certainly not a major supervisory concern at the moment, but the recent development of the relevant market exemplifies the need for good risk governance, a welldefined and closely monitored framework for risk appetite and highly assertive risk management.
+
+Search for yield has intensified competition in the market for leveraged finance. The result is that the terms for borrowers have become more favourable - ultimately, that increases the risks for the lender.
+
+We as supervisors take a close look at the credit quality of borrowers as measured by their level of leverage. Lending to highly leveraged counterparts may entail significant risks. And in the euro area, we observe that the leverage of corporate borrowers has increased. In 2014, 35% of transactions arranged by significant institutions actually refinanced borrowers at an increased level of leverage.
+
+Moreover, we as supervisors are not always impressed by the quality of loan contracts. Some loans contain only limited obligations for borrowers, for instance with regard to payment terms. Particularly when refinancing or renewing commitments, banks might be inclined to accept the removal of covenants in order to preserve existing commercial relationships.
+
+We as supervisors also care about returns. Banks are taking on risks; but do they gain adequate returns? Well, over the entire credit cycle, they may not necessarily earn more returns because there are other factors at play. Today, fierce competition is one of the factors that depress returns despite the increase in risks; it might prompt some banks to reduce fees in order to increase their market share. And tomorrow, the credit cycle might reverse and
+
+default rates surge. Such a scenario ultimately raises the issue of default-recognition methodologies.
+
+And last but not least, there is also the reputational perspective. By acting as underwriters in leveraged-finance deals, banks also distribute a certain amount of exposure. In 2014, around €50 billion of leveraged-loan exposures were distributed. Nevertheless, from a reputational perspective and to avoid potential mis-selling practices, the quality of the distributed assets is of the essence. And currently, 21% of exposures retained by banks are covenant-lite, against 74% of those that they distribute.
+
+To sum up: banks appear to be increasing their exposure to the growing market for leveraged finance. The leverage levels of borrowers are increasing, while constraints on loan contracts are being removed. As I said earlier on, there is no such thing as a free lunch, and ultimately, it is the task of risk managers to ensure that the price is adequate - risk and return have to remain in balance. Among other things, this requires forward-looking risk assessments, conservative collateral valuations, continuous monitoring of the borrower's risk profile, and rapid reactions to changing circumstances.
+
+## Addressing risks - risk management and banking supervision
+
+The market environment I just described undoubtedly calls for effective risk management in order to curb potential excess. However, with regard to leveraged finance, risk managers find it difficult to appropriately and effectively play their role in a market environment characterised by fierce competition. More specifically, there are three areas where we are currently pushing for improvement.
+
+First, with regard to procedure, historical credit norms are beginning to weaken and more market-friendly structures have been adopted - I already mentioned the covenant-lite issue.
+
+In that regard, the thorniest aspect is the credit approval process. The speed of credit approval has become a cornerstone of competitiveness in the market for leveraged finance. In order to increase their market share, banks have significantly shortened their internal validation process.
+
+Anecdotal evidence suggests that many deals are presented by the borrowers as 'take it or leave it'. In some cases, potential borrowers requested approval within 48 hours. To me, it seems rather challenging to properly understand a deal within 48 hours - both for the front office as well as for risk management.
+
+Second, with regard to limits, risk managers need to be alert regarding a shift towards structures that support an expanding business. Most banks have limits in place with regard to exposures held on their own books. However, these limits have sometimes been shifted upwards to accommodate business needs and the prospect of rewarding transactions; the underwriting limit, for instance, has on average increased by 49% between 2012 and 2014. In such circumstances, risk managers should ensure that stress tests adequately reflect the higher limits. In any case, from a supervisor's perspective, large underwriters could be expected to avoid too much fluctuation in their limits.
+
+Third, with regard to stress testing, all banks should conduct dedicated stress tests for their leveraged finance portfolios - I mentioned that before. Such stress tests are helpful in identifying the consequences of downturns in the markets. Therefore, as part of our planned supervisory actions, stress-testing frameworks will be strengthened, particularly with regard to the underwriting pipeline.
+
+To sum up: the European market for leveraged finance has grown, and European banks have increased their exposure to it. We as supervisors are closely monitoring these developments. But we go beyond mere observation; we are also acting, combining individual and SSM-wide actions. First, we will address potential weaknesses at the level of individual institutions.
+
+Second, we are thinking about issuing relevant guidelines in order to define a common set of expectations for the entire banking sector.
+
+## Conclusion
+
+Ladies and gentlemen,
+
+I would like to end with another quote from Leonard Porter Ayres. In September 1930, he said: 'Now arises the emotion of fear. Things were brighter looking than they were. Now they look darker than they are.'
+
+To me, that quote perfectly describes the psychology of markets - or rather the psychology of human beings who constantly sway between being overly optimistic and overly pessimistic. Risk managers and supervisors have to fight that impulse. We have to see things as they are, and not as we wish or fear them to be. That requires self-control, independence and farsightedness. And to be effective, it requires a voice that is heard.
+
+Having said that, do I see leveraged finance as the major risk for the European banking system? I do not see it as the biggest risk, but I see a certain danger that market players see things a tad brighter than they are. So it is up to me as a supervisor and up to you as risk managers to counterbalance this view.
+
+Thank you for your attention.

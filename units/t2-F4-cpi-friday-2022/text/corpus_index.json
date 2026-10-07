@@ -11,6 +11,20 @@
       "file": "fomc_statement_20211215.txt"
     },
     {
+      "doc_id": "bis_elderson_2022-02-18",
+      "timestamp": "2022-02-18",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_elderson_2022-02-18.txt"
+    },
+    {
+      "doc_id": "bis_panetta_2022-03-30",
+      "timestamp": "2022-03-30",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_panetta_2022-03-30.txt"
+    },
+    {
       "doc_id": "beige_book-2022-04-30",
       "timestamp": "2022-04-30",
       "source": "Federal Reserve (Beige Book)",
@@ -30,6 +44,13 @@
       "source": "BLS",
       "doc_type": "macro_release",
       "file": "cpi_2022-05-11.txt"
+    },
+    {
+      "doc_id": "powell_presser_2022-05-04",
+      "timestamp": "2022-05-20",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "powell_presser_2022-05-04.txt"
     },
     {
       "doc_id": "fomc-minutes-20220504",

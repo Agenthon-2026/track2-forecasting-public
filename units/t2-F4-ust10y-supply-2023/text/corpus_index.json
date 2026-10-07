@@ -4,11 +4,32 @@
   "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
   "documents": [
     {
+      "doc_id": "bis_panetta_2023-06-23",
+      "timestamp": "2023-06-23",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_panetta_2023-06-23.txt"
+    },
+    {
+      "doc_id": "bis_bowman_2023-06-25",
+      "timestamp": "2023-06-25",
+      "source": "BIS central bankers' speeches",
+      "doc_type": "cb_speech",
+      "file": "bis_bowman_2023-06-25.txt"
+    },
+    {
       "doc_id": "beige_book-2023-07-31",
       "timestamp": "2023-07-31",
       "source": "Federal Reserve (Beige Book)",
       "doc_type": "beige_book",
       "file": "beigebook_202307.txt"
+    },
+    {
+      "doc_id": "ust_quarterly_refunding_2023-08-02",
+      "timestamp": "2023-08-02",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "ust_quarterly_refunding_2023-08-02.txt"
     },
     {
       "doc_id": "fomc-minutes-20230726",
@@ -38,6 +59,13 @@
       "source": "Federal Reserve",
       "doc_type": "fomc_statement",
       "file": "fomc_statement_20230920.txt"
+    },
+    {
+      "doc_id": "fomc_sep_2023-09-20",
+      "timestamp": "2023-09-20",
+      "source": "official (see landmarks index)",
+      "doc_type": "landmark",
+      "file": "fomc_sep_2023-09-20.txt"
     }
   ]
 }

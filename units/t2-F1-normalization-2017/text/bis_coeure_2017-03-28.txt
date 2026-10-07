@@ -1,0 +1,141 @@
+Benoît Cœuré: Setting standards for granular data
+2017-03-28
+
+## Benoît Cœuré: Setting standards for granular data
+
+Opening remarks by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, at the Third OFR-ECB-Bank of England workshop on 'Setting Global Standards for Granular Data: Sharing the Challenge', Frankfurt am Main, 28 March 2017.
+
+* * *
+
+It is a great pleasure for me to welcome you to this joint workshop on ' Setting Global Standards for Granular Data ', organised by the US Office of Financial Research (OFR), the Bank of England and the ECB.
+
+The event is subtitled ' Sharing the Challenge '. This is not mere rhetoric.
+
+It rather reflects a strong belief that data standardisation requires a well-coordinated effort by authorities - as key end-users of data - and by the industry. Only if both parties work closely together can we be sure that efforts are channelled in the right direction and that desired and actual outcomes are in sync.
+
+In my remarks today, I will first give a short overview of why authorities and the industry need high-quality granular data and why data should be based on global standards. I will then focus my remarks on a few areas where progress has been achieved and discuss the challenges we still face. And I will try to sum up some of the lessons we learnt along the way.
+
+## Why do we need (high-quality) data?
+
+Let me start with the obvious: data are crucial for policymakers.
+
+Every day countless decisions are made based on the analysis of data. Some of them are important, some of them are less so.
+
+But the truth is that without reliable data policymakers would be 'flying blind'.
+
+This was a challenge particularly in the early days of the euro area when a lack of aggregated standardised data, tailored to the new currency union, made it difficult for policymakers to draw the correct lessons. The efforts undertaken over the past two decades or so to fill this gap are truly tremendous.
+
+And although there are still pockets in parts of the economic and financial landscape where we lack data, the challenge has clearly shifted: the focus today is on managing high volumes of data and in producing high-quality and granular data. In other words, to refine the data we have, expand it in its micro-dimension where needed and to make it more reliable, timelier and easier to access.
+
+The need for high-quality granular data is particularly acute in the financial sector.
+
+Authorities - including central banks - need high-quality financial data at a granular and aggregate level to perform several of their functions, including: conducting monetary policy, assessing systemic risks, supervising banks, performing market surveillance and enforcing and conducting resolution activities.
+
+The private sector too is in need of high-quality data: for their regulatory reporting obligations, for example, and to underpin risk management and operational efficiency and - ultimately - to support successful decision-making.
+
+And the need for high-quality data does not end at our borders.
+
+The interconnectedness of financial markets establishes an obvious need to improve our global ability to collect, aggregate, disseminate and share data. This is a prerequisite for developing a coherent view of the global financial system so that emerging vulnerabilities can be dealt with promptly and effectively. Good data are essential for global systemic risk assessment and for global financial stability.
+
+Standards for granular data should therefore be agreed on and implemented at a global level the international dimension of this conference is therefore no coincidence. It rather is a reflection of our experience that global standardisation results in large efficiency gains for both users and providers of data.
+
+And it's about much more than efficiency. Often external observers question the appropriateness of policy decisions because they do not trust the underlying data. Global standards can foster trust across borders by removing one important source of uncertainty.
+
+There is thus a shared interest in promoting the efficient production and processing of data through the use of globally accepted open standards applied by all relevant stakeholders.
+
+But setting global standards is of course not enough. Coordinated and consistent implementation of agreed standards is an equally important determinant of success - as is the management and dissemination of data.
+
+## What progress has been made and what challenges do we face?
+
+Now, where do we currently stand in terms of setting and implementing standards?
+
+As you are well aware, there are a number of ongoing international initiatives aimed at improving the information frameworks on which policy decisions are based.
+
+I would like to focus on two sets of initiatives, both of which aim to make financial transactions easier to track and more transparent: the launch of the Legal Entity Identifier (LEI) and the ongoing reforms to improve the transparency of the over-the counter (OTC) derivatives markets.
+
+## LEI
+
+The LEI initiative, as you might know, dates back to November 2011, when the G20 leaders supported the establishment of a global legal entity identifier that would uniquely identify parties to financial transactions. The Financial Stability Board (FSB) helped to coordinate work within the regulatory community on the governance framework for the Global LEI System. It thereby complemented private sector efforts to develop a technical solution, some via the International Organization for Standardization (ISO).
+
+The fruits of this important initiative are clearly visible: thanks to the efficient public/private collaboration, the LEI is live and in use. And it is also being extended. About 470,000 LEIs had been issued by end-2016. And those jurisdictions which host the largest shares of derivatives activity already require that all counterparties to reportable derivatives transactions have LEIs.
+
+The benefits of adopting LEIs for financial stability are clear. For example, the use of the LEI in regulatory reporting facilitates the consistent identification of reporting entities and their counterparties. LEIs also put regulators in a position to more effectively evaluate and assess counterparty exposure and financial risks.
+
+LEIs also serve the industry in a number of important ways: for instance, they help banks to manage risk, identify their customers, and counter money laundering and the financing of terrorism (AML/CFT).
+
+Indeed, in its July 2016 report on Correspondent banking, the Committee on Payments and
+
+Market Infrastructures (CPMI) recommends the use of LEIs for all banks involved in correspondent banking and as additional information in payment messages to ensure unambiguous identification of parties to payment transactions and help alleviate some of the costs associated with complying with AML/CFT regulations. 1
+
+As I mentioned earlier, the LEI framework is still being improved. This year, implementation of the so-called relationship data will be an important milestone.
+
+Relationship data will provide additional reference data on the direct and ultimate parent(s) of legal entities, which will give users consolidated information at group level and not just at legal entity level. Such information is essential for risk aggregation for banking supervision and securities regulation.
+
+Relationship data are also important for any analysis of interconnectedness within the financial system. Today, it is still extremely difficult and time-consuming to carry out interconnectedness studies in a cross-border context - not only because of remaining legal impediments to data access, but also because the data are not easily comparable in the absence of commonly used identifiers with relationship information on counterparties.
+
+More therefore remains to be done to transform the LEI into a richer tool for policy analysis, e.g. by also including sector classification as part of the information set that characterises a legal entity.
+
+And although improving the richness of the LEI is important, it is arguably even more important to sponsor a more widespread use of the LEI across jurisdictions. In that respect, the EU is setting a good example, representing around 60% of LEIs that have been issued so far, with several regulations referencing the LEI and stipulating its use. Other jurisdictions too should make more use of the LEI, possibly through mandatory adoption in new regulations.
+
+## Transparency of the OTC derivatives markets
+
+Let me now turn to the derivatives market.
+
+G20 leaders agreed in 2009 that all OTC derivatives contracts should be reported to trade repositories as part of their commitment to reform OTC derivatives markets. The aim was and remains to improve transparency, mitigate systemic risk and prevent market abuse.
+
+Today, rules for trade reporting (TR) are in place in most jurisdictions and, worldwide, more than 90% of trades are reported to trade repositories. Trade reporting has therefore increased the transparency of OTC derivatives markets for authorities with access to TR data. And it has enhanced authorities' ability to identify and monitor systemic risk.
+
+But despite this progress, very significant challenges remain for authorities to be able to compile and fully use TR data for their regulatory or supervisory mandates. These challenges include legal barriers to access data, lack of data format harmonisation and data quality issues. Important efforts are under way in these areas to increase the use of TR data.
+
+I would like to spend a few more words on one of these challenges: data harmonisation.
+
+The CPMI and the International Organization of Securities Commissions (IOSCO) have set up a group to take charge of developing global guidance for harmonising key OTC derivatives data elements. This move followed the publication of the FSB's Aggregation Feasibility Study in September 2014, which described the steps to be taken so that data reported across TRs can be aggregated and authorities can obtain a comprehensive view of the OTC derivatives market and activity. 2
+
+The report noted that it is critical for any aggregation option that the work on standardisation and harmonisation of important data elements be completed, in particular through the adoption of the LEI worldwide and the establishment of a unique transaction identifier (UTI) and unique product identifier (UPI).
+
+The CPMI and IOSCO have recently published technical guidance on the harmonisation of the UTI, and they plan to do so for the UPI too within the next couple of months.
+
+The UTI, by uniquely identifying each transaction, is essential to avoid double-counting und under-counting of transactions when aggregating data. The UTI structure will be based on the LEI of the generating entity, thus ensuring the uniqueness of each issued UTI while allowing a plurality of generating entities.
+
+The UPI - meanwhile - will allow flexible aggregation of different types of derivatives products by grouping various reference data elements, which are important for a specific analysis.
+
+Consistent with the global dimension I mentioned at the beginning of my remarks, the CPMIIOSCO guidance refers to international standards, in particular ISO, when applicable, in order to ensure international standardisation and a process for adapting the standard if needed. And the CPMI and IOSCO will also harmonise definitions and formats for a wide range of other critical data elements in the coming months.
+
+Of course, this work is highly relevant to the global OTC derivatives data aggregation effort, and for achieving the outcomes initially expected from TR reporting. Yet, it could also serve purposes additional to the regulatory ones by, for example, simplifying pre- and post-trade processes performed by market participants and financial market infrastructures.
+
+Additionally, the industry could easily leverage the UPI by including more granular information on products, as needed for confirmation, risk management or other purposes. Of course, globally harmonised data are of great interest to global market players, which would then have just one rule for all the jurisdictions in which they operate.
+
+The harmonisation approach followed by the CPMI and IOSCO is intended to be flexible and scalable to accommodate the evolution of markets, such as new products being traded, regulatory regimes and messaging standards. Some jurisdictions such as the EU have introduced data harmonisation in contexts other than trade reporting - MIFID II for example - to support pre- and post-trade transparency. This reflects the fact that the same harmonised data may be used in different regulatory contexts and that such an approach simplifies data management by both authorities and the industry.
+
+Consistent implementation of these standards should now be our priority. The FSB has set up a working group in charge of the governance for the UTI and the UPI, working in close collaboration with CPMI and IOSCO, so that implementation is achieved as swiftly and as consistently as possible across jurisdictions. The FSB has just started to publically consult on governance arrangements for a global UTI. In the case of the UPI, a governance arrangement might involve some public/private interaction and collaboration, as seen with the LEI. 3
+
+Full implementation also requires removing legal barriers. In 2015, an FSB trade reporting peer review highlighted the need for FSB jurisdictions to remove legal barriers to the reporting of OTC derivatives transactions to TRs and to have legal frameworks in place to permit both domestic and foreign authorities' access to data held in a domestic TR by 2018. Authorities announced last year their plans to remove such barriers. Progress in that area is vital if we want the harmonisation efforts to bear fruit so that authorities are able to compile and make full use of TR data for their regulatory and/or supervisory mandates.
+
+## Conclusion
+
+Let me conclude.
+
+The benefits of data harmonisation and standardisation are clear: it will help authorities better monitor risks and give the private sector the basis for a deeper understanding of the financial markets, sounder decision-making, and increased process efficiency for industry participants.
+
+A lot has been done, but a lot more remains to be done.
+
+For example, more than three years since the start of EMIR data reporting, users and producers continue to face challenges. These challenges include data quality aspects such as missing or misreported values, the double-reporting regime and the multiplicity of TRs as well as the lack of standardisation and harmonisation across trade repositories and counterparties. Other issues relate to the reporting framework. For example, although some derivatives contracts, such as swaptions, have two maturity dates, there is only a single field for a maturity date. 4 5
+
+While work is ongoing to address some specific issues, a close, timely and effective interaction between users and drafters of statistical regulation will continue to be important.
+
+In my view, public/private collaboration remains the best approach for data harmonisation because both authorities and the financial industry alike are interested in achieving efficiency and quality. The use of international standards, where they exist or can be introduced, is likewise a good approach. This is particularly the case with a view to achieving worldwide recognition and adoption.
+
+For example, as a private sector mechanism, the ISO has proven to be very effective, thanks to its strong governance and consultation process, involving most jurisdictions. Such a mechanism could be one possible answer to the challenge of maintaining standardised data elements, provided that authorities are strongly and continuously involved.
+
+And, finally, there are still many implementation gaps to fill if the intended benefits of the data harmonisation reforms are to be fully achieved. As I said earlier, appropriate governance arrangements for key identifiers will need to be set up. Commitments by authorities to remove legal barriers to reporting and accessing data on a cross-border basis will need to be strengthened. And efforts to set up an efficient mechanism for sharing and aggregating data globally will need to be supported over time.
+
+This is a long journey. T oday and tomorrow you will take one step further in this journey: you will discuss the benefits, challenges and priorities related to setting global standards for granular data.
+
+I wish you all a stimulating exchange of views and experience.
+
+CPMI, Correspondent banking, July 2016. 1
+
+- FSB, Feasibility study on aggregation of OTC derivatives data , September 2014. 2
+- FSB, Proposed governance arrangements for the Unique Transaction Identifier (UTI) - Consultation document , March 2017. 3
+- See also ECB, Article - Looking back at OTC derivative reforms - objectives, progress and gaps, 20 December 2016, Economic Bulletin Issue 8, 2016. 4
+- See, for instance, Final Report, Review of the Regulatory and Implementing T echnical Standards on reporting under Article 9 of EM IR, ESM A , November 2015. 5

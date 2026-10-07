@@ -1,0 +1,76 @@
+Yves Mersch: Developing Europe's payment landscape
+2017-05-18
+
+## Yves Mersch: Developing Europe's payment landscape
+
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank's payment and securities settlement symposium 2017, Frankfurt am Main, 18 May 2017.
+
+* * *
+
+## Introduction
+
+Fintech has created the potential for the design and implementation of innovative financial services that can better serve users' needs in terms of speed and convenience. Innovative developments that lead to better services can support commerce, in particular e-commerce, as well as productivity and income growth.
+
+To fulfil its mandate under the Treaty, the Eurosystem is committed to keeping step with innovation in financial services while, at the same time, safeguarding the safety and efficiency of the financial market infrastructure. It is essential that we respond to the increased digitalisation of our society, delivering innovative and efficient services to our economy, which has an impact on the lives of all Europeans. In the context of these developments, there is a certain demand for instant payment solutions by end users. And the industry has to deliver solutions to support innovation, also in view of the global competition in this respect. Europe has the capacity to innovate and deliver integrated solutions to all actors - individuals, industry, merchants - and we should do our utmost not to fall behind the curve. Consequently, we must ensure that consumer payments can be effected instantly but within a safe and sound market infrastructure unhindered by borders in Europe, just as we do with euro banknotes. In this vein, the ECB will maintain a choice for customers by facilitating the market infrastructure needed for the take-up of instant payments across Europe - in a fully integrated m anner, fostering 'dom estic' solutions for the euro . Customers can continue to select the payment method they prefer. Instant payments are coming and will most likely be the preferred payment method for the new generation.
+
+However, in order to thrive, innovative financial services need a clear legal and regulatory framework. The revised Payment Services Directive (PSD2) and the Regulatory T echnical Standards (RTS) lay the groundwork for this. It is of critical importance that the European authorities pursue their efforts to complete the legal framework where needed, clarify a number of aspects to ensure legal certainty and align the implementation of this legal framework across Member States.
+
+Finally, moving beyond the legal requirements, it is essential that market stakeholders reach a consensus on the technical, operational and business requirements .
+
+Today, I intend to cast more light on these issues by addressing two aspects that are required for innovative financial services to come to fruition:
+
+1. the underlying market infrastructure for financial services; and
+2. the founding legal frameworks necessary for developments to flourish in the payment landscape.
+
+My speech will focus on instant payments and payment initiation services.
+
+## Developing the Eurosystem's market infrastructure
+
+A sound and efficient market infrastructure is essential for the creation of an integrated financial market in Europe. The Eurosystem is continuously exploring ways to develop our market
+
+infrastructure so that it meets the needs and requirements of the market. In autumn 2016 we announced the launch of an investigation into the future development of our market infrastructure. The projects that are relevant in this context are:
+
+1. the TARGET instant payment settlement (TIPS) service; and
+2. the consolidation of TARGET2 and TARGET2-Securities (T2S).
+
+Now, half a year later, I can say that good progress has been made.
+
+TIPS and the consolidation of TARGET2 and T2S are closely linked. Under the assumption that the projects will get the go-ahead in the weeks ahead, TARGET2, T2S and TIPS will have a modular structure with a number of common elements and centralised liquidity management. The centralised liquidity management function will bundle all the necessary features to allow participants to manage their liquidity across all Eurosystem services. The account structure envisaged will allow participants to use the available payment capacity whenever one of the connected services is open for business, without the need for harmonising the operating times of the different services. A market consultation on the user requirements for these services was launched in early May and we hope for wide market participation.
+
+A market consultation on TIPS held earlier this year showed that there is significant interest in the topic of instant payments in general, and in particular the service that TIPS can potentially offer. Overall, feedback on the proposed TIPS service was very positive. One point on which we have provided further clarification concerns the broader framework of how TIPS fits into the future European market infrastructure landscape, in particular as regards interaction with automated clearing houses (ACHs).
+
+The TIPS initiative is the Eurosystem's response to the increased 'speed' which we are all experiencing in our daily lives. Europeans have a growing urge to make payments instantly, just like they access music, news and traffic updates instantly. The TIPS initiative aims to create the infrastructure needed for the settlement of instant payments across Europe. It can thus help achieve pan-European scale and prevent new fragmentation resulting from the development of national solutions, which may not operate across borders, or only in a limited way.
+
+TIPS is meant to complement the clearing services of ACHs. The two can complement each other to achieve reachability across Europe. There are clear indications that ACHs alone cannot achieve that scale for instant payments in euro. However, with TIPS, ACHs can extend their reachability across Europe if the participants in the ACH are either participants or reachable parties in TIPS.
+
+Last but not least, the feedback we received on expected volumes in the market consultation was very encouraging. The volumes initially estimated by the Eurosystem were substantially exceeded both as regards total market volumes and the volumes that market participants expected to process in TIPS. For TIPS working under full cost recovery, this should result in more attractive pricing.
+
+## Moving the payment landscape forward
+
+For an integrated financial market to flourish, the legislators and the regulators must provide a clear legal framework so that innovative payment services can be developed for the European market as a whole. By defining the requirements to enable innovative players to easily enter the market in a safe and efficient manner, we can promote competition and ensure that users benefit from fintech innovation.
+
+The revised Payment Services Directive (PSD2), which is to be transposed into national law by January 2018, aims to increase pan-European competition and participation in the payments industry, including by non-banks. At the same time, it is intended to provide a level playing field by
+
+setting out the requirements for consumer protection and the rights and obligations of payment providers and users.
+
+The last few years have seen the emergence of new third-party providers (TPPs) offering payment initiation and/or account information services at the front end of the value chain. Level 2 measures on strong customer authentication and secure communication have been developed by the European Banking Authority (EBA). These aim to provide the necessary safeguards for ensuring the security of payment services. The review of the Regulatory Technical Standards submitted by the EBA to the European Commission (EC) is currently under way. By the end of this month, the EC will decide whether or not to accept them or request amendments before submitting the revisions to the European Parliament and the Council for adoption. Following adoption, payment service providers will have 18 months to implement the standards. At the current juncture, a number of uncertainties remain for market players on the final shape of this legal framework. I therefore welcome the efforts being made by the European authorities to settle these aspects as soon as possible in order to support the market in implementing this new framework. I would in particular highlight three fields:
+
+First, the legal framework as it currently stands is still incomplete. One important aspect in this regard is the question of the interface to be used for TPPs to access account servicing payment service providers (ASPSPs): will it be a so-called dedicated interface or will it be direct access? In this regard, the EU regulator still needs to define whether there will be one interface or two and in the latter case under which conditions each could be used.
+
+Second, further legal clarity is needed from the regulator on a number of legal framework aspects. One such aspect is passporting, i.e. the conditions under which a TPP licensed in one country could provide services throughout the whole of the EU.
+
+Finally, another aspect is the specific legal regime that is in force between the transposition of PSD2 into national law by January 2018 and the applicability of RTS in 2019. The authorities should follow a consistent approach and not exercise unwarranted discretion in the implementation of the PSD2 requirements. This is needed to maintain the level playing field. It applies particularly in the period between the transposition of the PSD2 into national law and the coming into effect of RTS. For instance, it does not appear conceivable that the obligation of TPPs to identify themselves to the ASPSPs differs between Member States.
+
+With a proper regulatory framework and an integrated market infrastructure in place, the foundation has been laid. The PSD2 cannot however settle all issues. Within the Euro Retail Payments Board we have established a working group that will define the technical, operational and business requirements for payment initiation services. The work is challenging, as there are diverging views among stakeholders. It is essential that a harmonised approach and common business practices are defined so that payment service providers can offer services in an integrated manner across Europe. In this vein, I hope for market collaboration that allows us to reach a constructive solution which benefits the market and remains faithful to the spirit of the legislation. Recent discussions suggest progress, and I hope that we can combine our energy and find a compromise that will be a win-win for Europe.
+
+## Conclusion
+
+To conclude, I will reiterate that fintech has unleashed the potential for innovative financial services that can bring benefits to individuals and businesses. The Eurosystem is committed to keeping pace with innovation in financial services while, at the same time, safeguarding the safety and efficiency of our financial market infrastructure.
+
+TIPS has the potential to be the underlying infrastructure that will facilitate instant payments across Europe. It will provide the basis for innovative payment services to flourish and, in tandem with the services offered by ACHs, it can help foster pan-European reachability.
+
+For PSD2 to achieve its objective regarding access, innovation and a level playing field, it is important that several aspects of the legal and regulatory framework are clarified and implemented in a consistent manner - in particular when PSD2 takes effect in January 2018 and the respective RTS Iater in 2019. In this context, the authorities should consider how the new directive and derived regulatory technical standards will work in conjunction with instant payments.
+
+Moving beyond the legal requirements, I also encourage market stakeholders in the Euro Retail Payments Board to agree on the technical, operational and business requirements. The success of this endeavour can be achieved in a spirit of cooperation.
+
+Thank you.

@@ -10,7 +10,6 @@ split = "validation"
 [metadata]
 author_name              = "Ruolan Sun"
 author_email             = "ruolan.sun@stonybrook.edu"
-difficulty               = "medium"
 category                 = "T2-F1"
 tags                     = ["forecasting", "rates_daily", "t2-f1", "t2c-F1-guided-tightening-2004"]
 expert_time_estimate_min = 45.0
@@ -75,8 +74,8 @@ source         = "Federal Reserve"
 path           = "text/"
 cutoff         = "2004-06-30"
 cutoff_checked = true
-doc_types      = ["fomc_statement"]
-n_documents    = 4
+doc_types      = ["cb_speech", "fomc_statement"]
+n_documents    = 6
 notes          = "Statements through the first hike (as-of day): the newest guidance language conditions how quickly accommodation is expected to be removed, pinning an expected policy drift. The CRPS test is width around that text-pinned path, with symmetric weight on faster and slower outcomes."
 
 [targets]

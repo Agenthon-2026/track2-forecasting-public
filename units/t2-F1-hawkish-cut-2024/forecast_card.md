@@ -4,7 +4,7 @@
 at horizons [126, 189] BD · unit `percent_per_annum` · split public-dev
 
 Inputs mounted read-only: `/input/panels/rates_daily.parquet` (rows only through
-the as-of date) and `/input/text/` (5 dated documents, all timestamps <= as-of;
+the as-of date) and `/input/text/` (8 dated documents, all timestamps <= as-of;
 see `text/corpus_index.json`).
 
 Produce `forecast.parquet` with columns `[draw:int32, asset:string, horizon:int32,
@@ -15,4 +15,4 @@ plus `forecast_meta.json`. `value` = level in the stated unit on the target date
 Scoring: S = 0.5 x marginal CRPS + 0.3 x joint variogram + 0.2 x tail penalty (lower
 is better) against sealed realized outcomes.
 
-**Text corpus role.** As-of the December 2024 meeting: a 25bp cut delivered together with a dot plot cut from four 2025 cuts to two and new 'extent and timing' caution. November minutes (released 2024-11-26) already flag upside inflation risk and tariff-platform uncertainty. The 2Y must weigh a shallower cut path against tariff-cycle growth risk.
+**Text corpus role.** As-of the December 2024 meeting: a 25bp cut, a revised dot plot for 2025 and new 'extent and timing' language in the statement. The November minutes (released 2024-11-26) discuss inflation risks, and the Beige Book released 2024-12-04 records tariff uncertainty. The documents bear on the 2025 policy path and on tariff-cycle growth risk.
