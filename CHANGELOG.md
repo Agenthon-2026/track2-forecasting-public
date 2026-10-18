@@ -25,7 +25,8 @@ below changes the card text of all 104 cards, and the third that of twenty-seven
 the worked example; the fourth, the fifth and the practice-corpus entry, seventh below, change the
 text of the practice units; the monthly practice-panel entry, eighth below, changes the data and
 notes of four practice units; and the entry after it changes the card text of two monthly practice
-cards. **The Track 2 Final is ranked after its upload window closes, on cards built from data up to
+cards. The last entry makes M0's step-count comparison strict. **The Track 2 Final is ranked after
+its upload window closes, on cards built from data up to
 Monday 26 October 2026: UST yields at the practice cards' 2- to 30-year tenors plus the 3-month,
 6-month and 1-year bills, and the G10 and five emerging-market exchange rates from the ECB's euro
 foreign exchange reference rates, with targets 1 to 4 business days later (27-30 October); and a few
@@ -340,6 +341,14 @@ same rule as Development (entry "Track 2 Final: how it is ranked").**
   2026-09-23 are added. Two rulings of 2026-09-21 that were filed under the 2026-09-14 baseline
   moved to 2026-09-22, and that baseline's House-allowance entry is restored to its published
   wording. Resolved items are removed from "Still to reconcile".
+- **M0's step count: the declared horizon now wins at a ratio of exactly 2.** In
+  `docs/M0-BASELINE.md` (step 5 of the per-cell step count) the declared horizon wins unless
+  `ratio > 2`; it read `ratio >= 2`. On a business-day panel the calendar alone gives a ratio of
+  exactly 2.0 for a 2-day horizon from a Monday, Tuesday or Wednesday and for a 1-day horizon from
+  a Friday. Those are short horizons stated correctly, and the ranked Final's 1- to 4-business-day
+  cells meet them, so the declared horizon is kept; a new paragraph explains why. *Scoring:* no
+  existing card's scale value changes; the organizers' scale generator applies the same strict
+  comparison.
 
 ## 2026-09-24 — public `main` at `8799596`
 

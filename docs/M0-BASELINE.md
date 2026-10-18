@@ -206,13 +206,18 @@ and the walk would then stop short of the month being forecast. §4 works a synt
    - otherwise → `round( (target_date - last_observation).days / spacing )`.
 4. If that count is ≤ 0, **use the declared horizon**.
 5. Otherwise compare the two. Let `ratio = max(steps, horizon) / max(min(steps, horizon), 1)`.
-   **The declared horizon wins unless `ratio >= 2`.**
+   **The declared horizon wins unless `ratio > 2`.**
+
+The comparison is strict because on a business-day panel, whose rows are about 1.4 calendar days
+apart, the calendar alone gives a ratio of exactly 2.0 in two short cases: a 2-day horizon from a
+Monday, Tuesday or Wednesday counts 1 step, and a 1-day horizon from a Friday counts 2. Both are
+short horizons stated correctly, not unit mismatches, so the declared horizon is kept.
 
 On these cells step 5 is the whole of the override rule, and the 2x threshold is not a tuning knob.
 A card that already states its horizon in panel steps lands close to the counted value, and
 overriding it there would move the baseline for no reason. A genuine unit mismatch is never
-marginal — the affected cells are all at least 8x apart — so 2x separates the two cases with wide
-margin on both sides.
+marginal — the affected cells are all at least 8x apart — so only a ratio strictly above 2
+overrides.
 
 Whichever rule applies, call the resulting per-cell step count **s**.
 
