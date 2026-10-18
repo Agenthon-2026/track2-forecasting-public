@@ -5,7 +5,8 @@
 This file tells an AI coding agent — or a new human contributor — how to work in the
 **Track 2 public repository** (`track2-forecasting-public`). Three rules are absolute:
 (1) the public/private firewall must never be broken — no realized outcome or answer key
-may be placed here; (2) the `qfbench2-common` toolkit must be imported, never reimplemented;
+may be placed here, with one scoped exception: the published answers of the short-horizon
+practice set, in `practice-answers/` only; (2) the `qfbench2-common` toolkit must be imported, never reimplemented;
 (3) every file must open with an executive summary in plain English before going into detail.
 
 Track 2 is **Reasoning-Augmented Time-Series Forecasting**: agents forecast the future of
@@ -38,6 +39,22 @@ This file only adds Track 2 specifics.
    `reference/`, `realized.parquet`, `oracle_*`, `answer_key*`, `solution/`, `expected*`,
    any numeric value described as "the realized outcome for card X". The checker
    `qfbench2_common.manifest.assert_public_safe` must pass on every PR.
+
+   **One scoped exception: `practice-answers/`.** The realized values of the 22 short-horizon
+   practice units (ids ending in `-ps1`, split `public-dev`, historical targets) are published
+   on purpose, so that participants can score those cards locally, as the organizers announced on
+   [issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6129776242).
+   The exception covers exactly these files and nothing else:
+   - `practice-answers/<unit_id>.parquet`, one per short-horizon practice unit, with
+     `practice-answers/README.md` (sources and attribution) and `practice-answers/SHA256SUMS`;
+   - nothing in a unit directory: units are mounted at `/input` as they are, so `units/` stays
+     answer-free, and no `reference/`, `realized*` or scale file may appear anywhere;
+   - no answer of a `validation` unit, of an original practice unit or of any Final card, in
+     `practice-answers/` or anywhere else;
+   - the folder keeps its name; do not rename or copy it to any of the forbidden names above.
+
+   Adding, replacing or removing a file in `practice-answers/` needs the organizers' explicit
+   approval in the PR, beyond the usual review.
 
 2. **No new scoring math.** The CRPS composite, variogram score, and tail penalty formulas
    live only in the `qfbench2-common` toolkit, `Agenthon-2026/Agenthon2026-public`,
@@ -87,6 +104,7 @@ public/
 │       ├── text/           ← tiny frozen text corpus stub (dated snippets)
 │       └── ...
 ├── scoring/scoring.py      ← reference scorer (calls qfbench2-common; g2 binds the declaration to the card — corpus dates are checked at staging)
+├── practice-answers/       ← realized values of the short-horizon practice units ONLY (rule 1's exception)
 ├── baselines/              ← five adapter SCAFFOLDS (all return a Gaussian random walk) + README
 │   └── README.md           ← says plainly what they do and do not provide
 └── templates/
@@ -94,7 +112,8 @@ public/
 ```
 
 Do NOT create `reference/` or `realized/` directories here. Those belong in
-`private/units/<card_id>/reference/`.
+`private/units/<card_id>/reference/`. The only answer files this repository may hold are the
+short-horizon practice set's, in `practice-answers/` (hard rule 1).
 
 ---
 

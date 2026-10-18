@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F4-fx-brl-019-ps1",
+  "asof": "2016-11-07",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_minutes_20160921_released_2016-10-12",
+      "timestamp": "2016-10-12",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20160921_released_2016-10-12.txt"
+    },
+    {
+      "doc_id": "cpi_2016-10-18",
+      "timestamp": "2016-10-18",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2016-10-18.txt"
+    },
+    {
+      "doc_id": "bcb_mp_decision_2016-10-19",
+      "timestamp": "2016-10-19",
+      "source": "Banco Central do Brasil",
+      "doc_type": "central_bank_decision",
+      "file": "bcb_mp_decision_2016-10-19.txt"
+    },
+    {
+      "doc_id": "beigebook_2016-10-19",
+      "timestamp": "2016-10-19",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201610.txt"
+    },
+    {
+      "doc_id": "bcb_minutes_20161019_released_2016-10-25",
+      "timestamp": "2016-10-25",
+      "source": "Banco Central do Brasil",
+      "doc_type": "central_bank_minutes",
+      "file": "bcb_minutes_20161019_released_2016-10-25.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20161102",
+      "timestamp": "2016-11-02",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20161102.txt"
+    },
+    {
+      "doc_id": "empsit_2016-11-04",
+      "timestamp": "2016-11-04",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2016-11-04.txt"
+    }
+  ]
+}

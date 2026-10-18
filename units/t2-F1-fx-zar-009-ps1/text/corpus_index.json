@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F1-fx-zar-009-ps1",
+  "asof": "2011-12-19",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "za_treasury_mtbps_speech_2011-10-25_gordhan",
+      "timestamp": "2011-10-25",
+      "source": "National Treasury (South Africa)",
+      "doc_type": "government_speech",
+      "file": "za_treasury_mtbps_speech_2011-10-25_gordhan.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20111102_released_2011-11-22",
+      "timestamp": "2011-11-22",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20111102_released_2011-11-22.txt"
+    },
+    {
+      "doc_id": "beigebook_2011-11-30",
+      "timestamp": "2011-11-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201111.txt"
+    },
+    {
+      "doc_id": "empsit_2011-12-02",
+      "timestamp": "2011-12-02",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2011-12-02.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20111213",
+      "timestamp": "2011-12-13",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20111213.txt"
+    },
+    {
+      "doc_id": "statssa_cpi_201111_released_2011-12-14",
+      "timestamp": "2011-12-14",
+      "source": "Statistics South Africa (Stats SA)",
+      "doc_type": "statistical_release",
+      "file": "statssa_cpi_201111_released_2011-12-14.txt"
+    },
+    {
+      "doc_id": "cpi_2011-12-16",
+      "timestamp": "2011-12-16",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2011-12-16.txt"
+    }
+  ]
+}

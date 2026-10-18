@@ -1,0 +1,60 @@
+# source: https://home.treasury.gov/news/press-releases/jy0164 | date: 2021-05-05 | type: treasury_refunding_statement
+
+Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith
+May 5, 2021
+
+WASHINGTON — The U.S. Department of the Treasury is offering $126 billion of Treasury securities to refund approximately $47.7 billion of privately-held Treasury notes and bonds maturing on May 15, 2021. This issuance will raise new cash of approximately $78.3 billion. The securities are:
+
+- A 3-year note in the amount of $58 billion, maturing May 15, 2024;
+
+- A 10-year note in the amount of $41 billion, maturing May 15, 2031; and
+
+- A 30-year bond in the amount of $27 billion, maturing May 15, 2051.
+
+The 3-year note will be auctioned on a yield basis at 1:00 p.m. EDT on Tuesday, May 11, 2021. The 10-year note will be auctioned on a yield basis at 1:00 p.m. EDT on Wednesday, May 12, 2021. The 30-year bond will be auctioned on a yield basis at 1:00 p.m. EDT on Thursday, May 13, 2021. All of these auctions will settle on Monday, May 17, 2021.
+
+The balance of Treasury financing requirements over the quarter will be met with weekly bill auctions, cash management bills (CMBs), and monthly note, bond, Treasury Inflation-Protected Securities (TIPS), and 2-year Floating Rate Note (FRN) auctions.
+
+PROJECTED FINANCING NEEDS AND ISSUANCE PLANS
+
+Treasury continues to face uncertain and sizable borrowing needs due to expenditures associated with the government’s response to COVID-19 as well as the impact of the pandemic on economic activity and government receipts. Between April 2020 and February 2021, Treasury substantially increased issuance sizes for nominal coupon and FRN securities and has announced its intention to gradually increase TIPS issuance this year. Treasury believes that these previously announced changes continue to provide sufficient capacity for Treasury to address near-term projected borrowing needs. Accordingly, Treasury is announcing that it anticipates no changes to nominal coupon and FRN auction sizes over the upcoming May to July 2021 quarter.
+
+Treasury plans to address any seasonal or unexpected variations in borrowing needs over the next quarter through changes in regular bill auction sizes and/or CMBs.
+
+TIPS FINANCING
+
+Since January 2021, Treasury has increased TIPS auction sizes in all tenors (new issues and reopenings) by $1 billion. This gradual increase will continue with $1 billion increases in the May 10-year reopening and the June 5-year reopening compared to their respective issuance sizes last year, and the July 10-year new issue compared to the January new issue. Any additional issuance size changes will be announced quarterly in subsequent refunding statements. While flexibility will be maintained to adjust TIPS issuance at each refunding quarter, we continue to expect total gross issuance of TIPS to increase by $10 billion to $20 billion in CY 2021.
+
+DEBT LIMIT
+
+The Bipartisan Budget Act of 2019 suspended the debt limit through July 31, 2021.[1] Treasury expects that Congress will raise or suspend the debt limit in a timely manner. If Congress has not acted by July 31, Treasury, as it has in the past, may take certain extraordinary measures to continue to finance the government on a temporary basis. In light of the substantial COVID-related uncertainty about receipts and outlays in the coming months, it is very difficult to predict how long extraordinary measures might last. Treasury is evaluating a range of potential scenarios, including some in which extraordinary measures could be exhausted much more quickly than in prior debt limit episodes.
+
+CASH BALANCE AND BILL ISSUANCE
+
+Treasury is assuming a cash balance of approximately $450 billion at the expiration of the debt limit suspension on July 31 based on expected outflows under its cash management policies and consistent with its authorities and obligations, including the Bipartisan Budget Act of 2019. The actual cash balance on July 31 may vary from this assumption based on changes to expected outflows in that period. The reduction in the cash balance between now and July 31 will be achieved by using cash on hand to cover near-term outlays and modest reductions in bill issuance. Based on current forecasts, Treasury estimates that the reduction in bills outstanding between now and July 31 could be about $150 billion, which is approximately one-third the size of the decline in bill supply that has already occurred since the February 2021 refunding. As expectations for receipts and outlays evolve over the coming months, this estimated reduction in bills outstanding may also change, but Treasury does not anticipate bill issuance to be as volatile as it has been in the past when prior debt limit suspensions expired.
+
+Over the upcoming quarter, Treasury will continue to supplement its regular benchmark bill financing with a regular cadence of CMBs. Treasury anticipates that weekly issuance of 6- and 17-week CMBs for Thursday and Tuesday settlement, respectively, will continue at least through the end of July. Maintaining these CMBs will provide the requisite flexibility to address potential changes in borrowing needs resulting from uncertainty associated with the fiscal outlook.
+
+As always, Treasury will continue to evaluate the fiscal outlook and assess the need to make adjustments to auction sizes at the next quarterly refunding announcement.
+
+SOFR-INDEXED FRN
+
+Treasury continues to explore the possibility of issuing an FRN linked to the Secured Overnight Financing Rate (SOFR) and will provide ample notice to market participants if it chooses to move forward.
+
+ENHANCEMENTS TO THE PUBLIC RELEASE OF AGGREGATED TREASURY SECURITIES TRANSACTION DATA
+
+In March 2020, the Financial Industry Regulatory Authority (FINRA) began publishing a report with aggregate statistics on Treasury securities volumes based on data collected through its Trade Reporting and Compliance Engine (TRACE) facility. This public report currently provides the most comprehensive account of how much, in what security types, and in what segments of the market Treasury securities are traded.
+
+Last week, FINRA announced plans to modify this report in May to provide greater detail on the 20-year securities sector going forward. At the same time, FINRA also plans to publish additional historical weekly data for the period January 2019 to February 2020.
+
+LARGE POSITION REPORT (LPR) CALL AND WORKSHOPS
+
+Sometime over the next three months, Treasury intends to issue an LPR call.[2] Treasury last conducted an LPR call on June 3, 2019.
+
+Additionally, Treasury is offering a free virtual workshop on June 18, 2021, regarding Treasury’s LPR rules, which apply to all U.S. and foreign entities that may control a large position in a specified Treasury security. More information about the workshops is available via the following link.
+
+The next quarterly refunding announcement will take place on Wednesday, August 4, 2021.
+
+[1] For more information about the debt limit, see https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit.
+
+[2] Further information regarding LPR calls, Treasury’s rules, and supplementary formula guidance, can be found at https://www.treasurydirect.gov/instit/statreg/gsareg/gsareg.htm.

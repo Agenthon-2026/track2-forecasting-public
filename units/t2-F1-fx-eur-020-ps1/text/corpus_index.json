@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F1-fx-eur-020-ps1",
+  "asof": "2009-08-17",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "ecb_mp_decision_2009-07-02",
+      "timestamp": "2009-07-02",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2009-07-02.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20090624_released_2009-07-15",
+      "timestamp": "2009-07-15",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20090624_released_2009-07-15.txt"
+    },
+    {
+      "doc_id": "beigebook_2009-07-29",
+      "timestamp": "2009-07-29",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_200907.txt"
+    },
+    {
+      "doc_id": "ecb_mp_decision_2009-08-06",
+      "timestamp": "2009-08-06",
+      "source": "European Central Bank",
+      "doc_type": "central_bank_decision",
+      "file": "ecb_mp_decision_2009-08-06.txt"
+    },
+    {
+      "doc_id": "empsit_2009-08-07",
+      "timestamp": "2009-08-07",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2009-08-07.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20090812",
+      "timestamp": "2009-08-12",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20090812.txt"
+    },
+    {
+      "doc_id": "cpi_2009-08-14",
+      "timestamp": "2009-08-14",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2009-08-14.txt"
+    }
+  ]
+}

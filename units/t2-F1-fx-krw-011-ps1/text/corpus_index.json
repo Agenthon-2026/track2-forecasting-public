@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F1-fx-krw-011-ps1",
+  "asof": "2017-03-27",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_minutes_20170201_released_2017-02-22",
+      "timestamp": "2017-02-22",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20170201_released_2017-02-22.txt"
+    },
+    {
+      "doc_id": "beigebook_2017-03-01",
+      "timestamp": "2017-03-01",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201703.txt"
+    },
+    {
+      "doc_id": "empsit_2017-03-10",
+      "timestamp": "2017-03-10",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2017-03-10.txt"
+    },
+    {
+      "doc_id": "cpi_2017-03-15",
+      "timestamp": "2017-03-15",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2017-03-15.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20170315",
+      "timestamp": "2017-03-15",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20170315.txt"
+    },
+    {
+      "doc_id": "korea_kr_motie_2017-03-21_156191403",
+      "timestamp": "2017-03-21",
+      "source": "Ministry of Trade, Industry and Energy (via korea.kr)",
+      "doc_type": "government_press_release",
+      "file": "korea_kr_motie_2017-03-21_156191403.txt"
+    },
+    {
+      "doc_id": "korea_kr_customs_2017-03-24_156192096",
+      "timestamp": "2017-03-24",
+      "source": "Korea Customs Service (via korea.kr)",
+      "doc_type": "government_press_release",
+      "file": "korea_kr_customs_2017-03-24_156192096.txt"
+    }
+  ]
+}

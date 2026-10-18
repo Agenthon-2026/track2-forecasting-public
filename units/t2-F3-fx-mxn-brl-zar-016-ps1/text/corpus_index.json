@@ -1,0 +1,63 @@
+{
+  "card_id": "t2-F3-fx-mxn-brl-zar-016-ps1",
+  "asof": "2009-08-10",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "za_treasury_budget_speech_2009-02-11_manuel",
+      "timestamp": "2009-02-11",
+      "source": "National Treasury (South Africa)",
+      "doc_type": "government_speech",
+      "file": "za_treasury_budget_speech_2009-02-11_manuel.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20090624",
+      "timestamp": "2009-06-24",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20090624.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20090624_released_2009-07-15",
+      "timestamp": "2009-07-15",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20090624_released_2009-07-15.txt"
+    },
+    {
+      "doc_id": "banxico_mp_decision_2009-07-17",
+      "timestamp": "2009-07-17",
+      "source": "Banco de México",
+      "doc_type": "central_bank_decision",
+      "file": "banxico_mp_decision_2009-07-17.txt"
+    },
+    {
+      "doc_id": "bcb_mp_decision_2009-07-22",
+      "timestamp": "2009-07-22",
+      "source": "Banco Central do Brasil",
+      "doc_type": "central_bank_decision",
+      "file": "bcb_mp_decision_2009-07-22.txt"
+    },
+    {
+      "doc_id": "beigebook_2009-07-29",
+      "timestamp": "2009-07-29",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_200907.txt"
+    },
+    {
+      "doc_id": "statssa_cpi_200906_released_2009-07-29",
+      "timestamp": "2009-07-29",
+      "source": "Statistics South Africa (Stats SA)",
+      "doc_type": "statistical_release",
+      "file": "statssa_cpi_200906_released_2009-07-29.txt"
+    },
+    {
+      "doc_id": "bcb_minutes_20090722_released_2009-07-30",
+      "timestamp": "2009-07-30",
+      "source": "Banco Central do Brasil",
+      "doc_type": "central_bank_minutes",
+      "file": "bcb_minutes_20090722_released_2009-07-30.txt"
+    }
+  ]
+}

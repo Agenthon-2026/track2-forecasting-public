@@ -1,0 +1,2757 @@
+# source: https://www.banxico.org.mx/publicaciones-y-prensa/minutas-de-las-decisiones-de-politica-monetaria/%7BE960D897-291F-D0AE-A162-613EBA8CDBBC%7D.pdf | date: 2012-09-21 | type: central_bank_minutes | via: Banco de México (source: Banco de México, https://www.banxico.org.mx)
+
+Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política monetaria anunciada el 7 de septiembre de 2012
+Banco de México, 21 September 2012
+
+Minuta número 14
+
+Reunión de la Junta de Gobierno del Banco de México, con motivo de la
+decisión de política monetaria anunciada el 7 de septiembre de 2012 1. LUGAR, FECHA Y ASISTENTES
+
+1.1. Lugar: Av. Cinco de Mayo número 2, 5o. piso,
+Col. Centro, Ciudad de México, Distrito Federal.
+
+1.2. Fecha de la sesión de la Junta de Gobierno:
+6 de septiembre de 2012.
+
+1.3. Asistentes:
+
+Dr. Agustín Guillermo Carstens
+Gobernador y presidente de la sesión.
+
+Carstens,
+
+Lic. Roberto Del Cueto Legaspi, Subgobernador.
+
+Dr. Manuel Ramos Francia, Subgobernador.
+
+Dr. Manuel Sánchez González, Subgobernador.
+
+Dr. José Julián Sidaoui Dib, Subgobernador.
+
+Lic. Héctor Reynaldo Tinoco Jaramillo, Secretario
+de la Junta de Gobierno.
+
+Se hace constar que en fechas anteriores a la
+celebración de esta sesión, se desarrollaron
+trabajos preliminares en los que se analizó el
+entorno económico y financiero, así como la
+evolución de la inflación, sus determinantes y
+perspectivas.
+
+2. EVOLUCIÓN ECONÓMICA Y FINANCIERA
+RECIENTE Y PERSPECTIVAS
+
+La presente Sección fue elaborada por las
+Direcciones Generales de Investigación Económica
+y de Operaciones de Banca Central, ambas del
+Banco de México.
+
+2.1. Perspectiva económica internacional
+
+El crecimiento de la economía mundial ha
+continuado mostrando indicios de debilidad durante
+el tercer trimestre, particularmente en Europa.
+Además, la actividad en las economías emergentes
+ha seguido desacelerándose. En este contexto, los
+riesgos a la baja para la actividad económica global
+han aumentado. La evolución reciente de los
+pronósticos de crecimiento para las principales
+economías avanzadas muestra un menor
+dinamismo en los últimos meses, en particular en la
+zona del euro, donde se anticipa una contracción
+para este año y un endeble crecimiento para el
+siguiente. Por su parte, las expectativas de
+crecimiento para Estados Unidos en 2013 han
+presentado una importante revisión a la baja.
+Finalmente, los pronósticos de crecimiento para la
+mayoría de las economías emergentes para 2012 y
+
+2013, también se han venido reduciendo en fechas
+recientes (Gráfica 1 y Gráfica 2).
+
+Gráfica 1
+G3: Evolución de Pronósticos de Crecimiento
+del PIB para 2012 y 2013
+En por ciento
+
+Estados Unidos
+Zona del euro
+Japón
+
+E F
+2011
+
+M
+
+J
+
+J
+
+A
+
+S
+
+O
+
+N
+
+D
+
+E F
+2012
+
+M
+
+A
+
+M
+
+J
+
+J
+
+A
+
+A
+
+M
+
+Nota: Las líneas punteadas se refieren a la evolución de los pronósticos
+de crecimiento en 2013.
+Fuente: Blue Chip.
+
+Gráfica 2
+Economías Emergentes: Evolución de
+Pronósticos de Crecimiento del PIB para 2012 y
+2013
+En por ciento
+
+Brasil
+
+Rusia
+
+India
+
+China
+
+México
+
+E F
+2011
+
+M
+
+A
+
+M
+
+J
+
+J
+
+A
+
+S
+
+O
+
+N
+
+D
+
+E F
+2012
+
+M
+
+A
+
+M
+
+J
+
+J
+
+A
+
+Nota: Las líneas punteadas se refieren a la evolución de los pronósticos
+de crecimiento en 2013.
+Fuente: Blue Chip.
+
+En Estados Unidos, el crecimiento de la economía
+continúa siendo moderado. Durante julio, el gasto
+en consumo privado siguió expandiéndose a un
+ritmo modesto (Gráfica 3). La lenta recuperación del
+empleo, la aún frágil situación financiera de los
+hogares y el entorno de incertidumbre prevaleciente
+se han reflejado en un deterioro adicional de la
+confianza de los consumidores y han impedido un
+crecimiento más sólido del gasto de las familias.
+Gráfica 3
+EUA: Consumo Privado e Ingreso Personal
+Disponible Reales
+Variación sobre tres meses anualizada en por
+ciento, a. e.
+
+Consumo
+
+IPD
+
+E
+2010
+
+A
+
+J
+
+O
+
+E
+2011
+
+A
+
+J
+
+O
+
+E
+2012
+
+A
+
+J
+a. e./ Cifras con ajuste estacional.
+Fuente: BEA.
+
+Un factor importante de incertidumbre en Estados
+Unidos es el tamaño del ajuste fiscal que tendrá
+lugar durante el próximo año. De acuerdo a una
+reciente actualización de los pronósticos
+presupuestales y económicos de la Oficina de
+Presupuesto del Congreso (CBO por sus siglas en
+inglés), de mantenerse la legislación actual (lo que
+se denomina escenario base), tendría lugar una
+consolidación fiscal de alrededor de 3.3 puntos
+porcentuales del PIB en Estados Unidos en 2013
+(Gráfica 4). La magnitud de dicho ajuste provocaría
+una severa disrupción en la actividad económica y,
+en particular, en la creación de empleos. La CBO
+considera un escenario alternativo donde se
+modifican algunas de estas provisiones, como
+permitir la continuación de la mayoría de los
+recortes de impuestos, posponer la disminución de
+los pagos de los servicios médicos e impedir la
+entrada en vigor de los recortes automáticos al
+gasto. En el escenario alternativo el déficit se
+reduciría de 7.3 por ciento del PIB en 2012 a 6.5
+por ciento en 2013, es decir un ajuste fiscal menor
+a un punto porcentual del PIB, lo cual tendría un
+impacto negativo menor sobre la actividad
+económica y el empleo.
+
+Gráfica 4
+EUA: Balance Fiscal
+En por ciento del PIB
+
+-1.2
+
+-2.4
+
+-4.0
+
+-4.6
+
+-5.6
+
+Escenario base
+
+-6.5
+
+Escenario alternativo 1/
+
+-7.3
+
+Pronóstico
+
+2006
+
+2007
+
+2008
+
+2005
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+1/ Expiran reducción impuesto nómina y renovación de los beneficios al
+seguro de desempleo; se extienden provisiones impositivas de 2001 y
+2003 que expiran en 2013; se pospone la disminución de los pagos de
+servicios médicos (Medicare) y no entran en vigor recortes automáticos al
+gasto decretados por la Ley de Control Presupuestal de 2011.
+Fuente: CBO.
+
+Los posibles efectos adversos de la política fiscal
+de los Estados Unidos en 2013, y la situación en
+Europa, en combinación con otros factores, han
+provocado un deterioro adicional en la confianza
+sobre el desempeño futuro de la economía
+estadounidense. Esto se evidencia en la caída en
+julio y agosto de las expectativas de negocios para
+empleo e inversión, derivadas de las dos
+principales encuestas regionales de actividad
+manufacturera en Estados Unidos, luego de haber
+mostrado un repunte en junio (Gráfica 5).
+
+Gráfica 5
+EUA: Expectativas de Negocios en los
+1/
+Próximos 6 meses
+Balance neto de respuestas en por ciento, a. e.
+
+Inversión
+
+Empleo
+
+E
+2010
+
+A
+
+J
+
+O
+
+E
+2011
+
+A
+
+J
+
+O
+
+E
+2012
+
+A
+
+J
+
+1/ Representa un promedio simple entre las dos encuestas.
+a. e./ Cifras con ajuste estacional.
+Fuente: Empire State Manufacturing Survey del Banco de la Reserva
+Federal de Nueva York, Business Outlook Survey del Banco de la
+Reserva Federal de Filadelfia.
+En la zona del euro, el PIB se contrajo 0.7 por
+ciento a tasa trimestral anualizada en el segundo
+trimestre, lo que reflejó caídas del producto en
+varias de las economías de la región. Así, la
+economía de la zona del euro se encuentra todavía
+2.4 por ciento por debajo del nivel que tenía en el
+primer trimestre de 2008 (Gráfica 6). En este
+contexto, debido a la combinación de tensiones en
+los mercados financieros y la austeridad fiscal que
+enfrentan varios países del área, se prevé que la
+contracción de la actividad económica en la zona
+del euro continuará en el tercer trimestre del año.
+Esto se reflejará en un lento avance en el proceso
+de corrección de los desbalances al interior de la
+región.
+
+Gráfica 6
+Zona del Euro: PIB Real
+Índice 1er. trimestre 2008= 100, a. e.
+
+Zona del euro
+
+Grecia
+
+Irlanda
+
+Italia
+
+Portugal
+
+España
+
+Alemania
+
+Francia
+
+I
+2007
+
+I
+2008
+
+I
+2009
+
+I
+2010
+
+I
+2011
+
+I
+2012
+
+Nota: Irlanda con información al primer trimestre de 2012.
+a.e./ Cifras con ajuste estacional.
+Fuente: Eurostat, Instituto Nacional de Estadística de Portugal.
+
+Después del deterioro en los mercados financieros
+internacionales que tuvo lugar durante el segundo
+trimestre, la mejoría que se ha observado en dichos
+mercados en las últimas semanas ha sido notoria.
+Esto después de declaraciones y acciones muy
+agresivas por parte del Banco Central Europeo
+(BCE) en favor de mantener la integridad del euro.
+Las acciones adoptadas por el BCE son de amplio
+alcance, aunque en el mediano y largo plazo no
+sustituyen a medidas esenciales en otras materias,
+como en el ámbito fiscal, bancario y de reformas
+estructurales. Así, no puede descartarse la
+posibilidad de un nuevo choque a las primas de
+riesgo en los mercados financieros internacionales
+(Gráfica 7).
+
+Gráfica 7
+Zona del Euro: Indicadores de Mercado que
+Miden el Riesgo de Crédito Soberano
+Puntos Base
+
+1800
+
+1600
+
+Irlanda
+
+Italia
+
+1400
+
+Portugal
+
+España
+
+1200
+
+Alemania
+
+1000
+
+Francia
+
+A
+
+J
+
+O
+
+E
+2012
+
+A
+
+J
+
+O
+
+E
+2010
+
+A
+
+J
+
+O
+
+E
+2011
+
+A
+
+J
+
+E
+2009
+
+Fuente: Bloomberg.
+
+Las condiciones de otorgamiento de préstamos a
+empresas en la zona del euro se mantuvieron
+restrictivas en el segundo trimestre de 2012,
+debido, entre otros factores, a la débil posición de
+capital de los bancos y a las inciertas expectativas
+macroeconómicas. Al respecto, se han observado
+mayores márgenes en las tasas de interés de los
+préstamos bancarios a las empresas privadas no
+financieras y continúa la reducción en la tasa de
+crecimiento del crédito bancario a las empresas y
+hogares en la región (Gráfica 8).
+
+Gráfica 8
+Zona del Euro: Préstamos de Instituciones
+Financieras al Sector Privado No Financiero
+Variación anual en por ciento, a. e.
+
+Total
+
+Corporaciones no financieras
+
+Hogares
+
+E
+2004
+
+E
+2005
+
+E
+2006
+
+E
+2007
+
+E
+2008
+
+E
+2009
+
+E
+2010
+
+E
+2011
+
+E
+2012
+a. e./ Cifras con ajuste estacional.
+Fuente: BCE.
+
+Por otra parte, los ajustes requeridos en algunos
+países para reducir sus desbalances de cuenta
+corriente lucen complicados, no sólo por la
+magnitud de los mismos sino también por la
+necesidad de financiar dichos desbalances durante
+un período probablemente largo.
+En las economías emergentes ha continuado la
+moderación en el crecimiento de la producción
+industrial, que se hizo evidente desde comienzos
+de 2011. En Brasil dicho crecimiento es incluso
+negativo (Gráfica 9). Estas economías han
+resentido la debilidad de la demanda de las
+economías avanzadas. Hacia adelante, los
+indicadores prospectivos de las economías
+emergentes sugieren que dicha tendencia
+continuará en los próximos meses (Gráfica 10).
+
+Gráfica 9
+Economías Emergentes: Producción Industrial
+Variación anual del promedio móvil de 3 meses, a. e.
+
+Brasil
+
+China
+
+Corea
+
+Rusia
+
+Sudáfrica
+
+E
+2010
+
+A
+
+J
+
+O
+
+E
+2011
+
+A
+
+J
+
+O
+
+E
+2012
+
+A
+
+J
+a.e/ Cifras con ajuste estacional.
+Fuente: Haver Analytics, Oficinas de Estadística Nacionales.
+
+Gráfica 10
+Economías Emergentes: Índices de Gerentes de
+Compras Manufacturero: Producción
+Índices, a. e.
+
+Brasil
+
+China
+
+Corea
+
+Rusia
+
+Sudáfrica
+
+E
+2010
+
+A
+
+J
+
+O
+
+E
+2011
+
+A
+
+J
+
+O
+
+E
+2012
+
+A
+
+J
+a. e./ Cifras con ajuste estacional.
+Fuente: Markit.
+
+Los precios de los productos primarios han
+continuado al alza en las últimas semanas, aunque
+a un ritmo más moderado, reflejando principalmente
+la evolución de los precios del petróleo. Esto
+debido, en parte, a la mayor preocupación
+relacionada a la oferta de crudo proveniente de los
+países productores de Medio Oriente. Por su parte,
+después de varios meses de incrementos, los
+precios de los granos han registrado una ligera
+caída, particularmente los del maíz y del trigo. No
+obstante, los precios de los granos se mantienen en
+un nivel elevado debido a las sequías registradas
+en Estados Unidos y en Europa del Este, las cuales
+provocaron una disminución en los rendimientos de
+las cosechas, afectando los inventarios mundiales
+de maíz y trigo. La mayor variabilidad esperada en
+los rendimientos de la cosecha del actual ciclo
+agrícola y la incertidumbre relacionada a la
+superficie de siembra para el próximo ciclo, podrían
+generar volatilidad en los precios las próximas
+semanas.
+
+A pesar de esto y en congruencia con la fragilidad
+económica global, los analistas continúan
+anticipando, en general, niveles de inflación para
+2012 y 2013 menores que los de 2011. Lo anterior
+ha motivado un mayor relajamiento de la política
+monetaria en varias economías avanzadas y
+emergentes. Se prevé que en diversas economías
+también se puedan adoptar posturas más
+acomodaticias, como ya sucedió en la zona del
+euro.
+
+La inflación general anual en Estados Unidos ha
+continuado disminuyendo, ubicándose en 1.4 por
+ciento en julio, cifra menor a la de 1.7 por ciento
+observada en junio. En este contexto, la Reserva
+Federal ha seguido manteniendo inalterada su
+banda objetivo de 0 a 0.25 por ciento para la tasa
+de fondos federales, dadas las bajas tasas de
+utilización de recursos y la ausencia de presiones
+inflacionarias de mediano plazo. Además, en
+semanas pasadas decidió continuar hasta
+diciembre de este año (originalmente concluía en
+junio) con su programa para extender el
+vencimiento promedio de sus tenencias de valores.
+La Reserva Federal también acordó mantener su
+política actual de reinversión de pagos de principal
+de vencimientos de deuda de agencias y de valores
+respaldados por hipotecas, así como la de bonos
+del Tesoro en su poder. En las minutas de su
+reunión de agosto, la Reserva Federal señaló que
+una gran cantidad de miembros del Comité de
+Política juzgó que un estímulo monetario adicional
+probablemente estaría justificado relativamente
+pronto, a menos que la información disponible
+apunte a un fortalecimiento sustancial y sostenible
+en el ritmo de la recuperación económica.
+Asimismo, de acuerdo a las minutas, se consideró
+extender la guía de tasas de interés bajas más allá
+de la fecha actual de "finales de 2014", y se indicó
+que esto podría ser particularmente eficaz si
+también se afirma que las tasas se mantendrán
+bajas aun cuando la recuperación avance.
+En la zona del euro, luego de mantenerse en 2.4
+por ciento desde mayo, la inflación general anual
+repuntó a 2.6 por ciento en agosto de acuerdo a la
+estimación preliminar, debido, en buena medida al
+alza en los precios del petróleo. En su reunión de
+septiembre, el BCE mantuvo sin cambio sus tasas
+de interés de política, después de haberlas
+reducido en julio en 25 puntos base. En su
+comunicado, el BCE señaló que debido a los
+elevados precios de la energía y el incremento en
+los impuestos indirectos se espera que la inflación
+continúe por encima de 2 por ciento en lo que resta
+del año para disminuir nuevamente por debajo de
+ese nivel en el transcurso del próximo año.
+
+Adicionalmente, el BCE anunció un nuevo
+programa de compras de bonos soberanos en los
+mercados secundarios (“Outright Monetary
+Transactions” OMTs por sus siglas en inglés) de
+algunos países de la zona del euro, cuyos
+diferenciales de tasas representan un factor que
+impide el buen funcionamiento del mecanismo de
+transmisión de la política monetaria. La realización
+de estas operaciones estará sujeta a que los países
+que se beneficien del programa cumplan con la
+condicionalidad acordada con las instancias
+europeas correspondientes. El BCE indicó que
+estas operaciones permitirán enfrentar las severas
+distorsiones en el mercado de bonos soberanos
+resultantes de temores por parte de los
+inversionistas sobre una posible reversibilidad del
+euro. A su vez, el BCE adoptó medidas para
+ampliar la gama de activos que podrían ser
+utilizados como colateral para llevar a cabo
+operaciones de refinanciamiento con el
+Eurosistema.
+
+Por su parte, en la mayoría de las economías
+emergentes, la inflación se ha mantenido moderada
+y se anticipa que permanezca en niveles bajos. Así,
+la inflación anual al consumidor en China disminuyó
+de 2.2 por ciento en junio a 1.8 por ciento en julio,
+en tanto que en la India se redujo de 7.3 a 6.9 por
+ciento en el mismo periodo. En contraste, la
+inflación anual en Brasil se incrementó de junio a
+julio de 4.9 a 5.2 por ciento, sobre todo por el efecto
+de precios agrícolas.
+
+2.2. Evolución
+financieros reciente de los mercados
+
+2.2.1 Mercados de economías avanzadas
+
+En las últimas semanas, desde la última decisión
+de política monetaria, se fortaleció la expectativa de
+que los bancos centrales de los principales países
+desarrollados instrumentarán medidas adicionales
+para estimular el crecimiento económico y
+restablecer la estabilidad de los mercados
+financieros. Como se mencionó, el BCE ya anunció
+medidas de estímulo adicionales en su reunión de
+septiembre. Por su parte, en Estados Unidos la
+mayoría de los analistas anticipan que la Reserva
+Federal instrumente un tercer programa de compra
+de activos antes de que finalice el año.
+
+La reacción de los mercados financieros a la
+perspectiva de un mayor estímulo monetario en las
+economías avanzadas ha sido favorable y, en
+varios casos, exacerbada por el entorno de poca
+liquidez y bajo volumen de operación que
+predominó, como es normal, durante la temporada
+de verano. Destacó la disminución de la volatilidad
+en la mayoría de los mercados financieros, la cual
+alcanzó niveles no vistos en los últimos dos años,
+así como la disminución de los indicadores de
+riesgo soberano en la Eurozona, principalmente, de
+las tasas de interés de corto plazo en España e
+Italia (Gráfica 11 y Gráfica 12). Esto último como
+resultado de la expectativa que prevaleció sobre el
+posible reinicio del programa de compra de bonos
+gubernamentales por parte del BCE y de que
+dichas compras se concentraran en bonos con
+vencimientos menores a tres años.
+
+Gráfica 11
+Curva de Rendimientos de Bonos
+Gubernamentales de España
+Porcentaje, puntos base
+
+7.5
+
+7.0
+
++33 pb
+
+6.5
+
++4pb
+
+6.0
+
+-13 pb
+
+5.5
+
+5.0
+
+-61 pb
+
+4.5
+
+4.0
+
+3.5
+
+-114 pb
+
+3.0
+
+2YR
+
+5YR
+
+7YR
+
+10YR
+
+30YR
+
+16-jul
+
+03-sep
+
+Fuente: Bloomberg.
+Gráfica 12
+Curva de Rendimientos de Bonos
+Gubernamentales de Italia
+Porcentaje, puntos base
+
+6.5
+
+6.0
+
+-23 pb
+
+5.5
+
+-34 pb
+
+5.0
+
+-56 pb
+
+4.5
+
+-79 pb
+
+4.0
+
+3.5
+
+3.0
+
+-102 pb
+
+2.5
+
+2YR
+
+5YR
+
+7YR
+
+10YR
+
+30YR
+
+03-sep
+
+16-jul
+
+Fuente: Bloomberg.
+
+De igual modo, los índices accionarios tuvieron
+avances importantes durante el periodo,
+sobresaliendo el incremento en el precio de las
+acciones del sector financiero (Gráfica 13). En los
+mercados cambiarios, la mayoría de las divisas se
+apreciaron frente al dólar, destacando el euro que
+revirtió la tendencia de depreciación que se había
+observado en los últimos meses. Al respecto,
+sobresalió la importante disminución de posiciones
+especulativas cortas en esta divisa tras los
+comentarios de diversos oficiales europeos quienes
+mostraron un fuerte compromiso por salvaguardar
+la estabilidad de la Unión Monetaria.
+
+Gráfica 13
+Cambios en Indicadores Financieros
+Seleccionados
+Porcentaje, puntos base (Del 16 de julio al 3 de
+septiembre de 2012)
+
+18%
+
+15%
+
+12%
+
+9%
+
+6%
+
+3%
+
+0%
+
+-3%
+
+-6%
+
+Japón
+
+Alemania
+
+Alemania
+
+DXY*
+
+Italia
+
+Estados Unidos
+
+Estados Unidos
+
+Reino Unido
+
+Reino Unido
+
+EUR-USD
+
+España
+
+Francia
+
+<-- Índices accionarios
+
+Bonos gubernamentales
+a 10 años -->
+
+<-- Divisas
+
+*DXY: Promedio ponderado calculado por el Intercontinental Exchange
+Inc (ICE) del tipo de cambio nominal de las seis principales divisas
+operadas mundialmente con los siguientes pesos: EUR: 57.6%, JPY:
+13.6%, GBP: 11.9%, CAD: 9.1%, SEK: 4.2% y CHF: 3.6%. Base=100.
+Fuente: Bloomberg.
+
+Finalmente, las tasas de interés de bonos
+gubernamentales en Alemania, Reino Unido y
+Estados Unidos aumentaron ligeramente en las
+últimas semanas reflejando, entre otros factores,
+las mejores condiciones de los mercados
+financieros en general y la consecuente
+disminución en la demanda por activos de refugio.
+No obstante, las tasas de interés en estos países
+aún se mantienen en niveles históricamente bajos.
+
+A pesar del buen comportamiento de los mercados
+financieros en las últimas semanas, éstos parecen
+todavía vulnerables a una serie de factores de
+riesgo que podrían comprometer su incipiente
+estabilidad. En particular, los gobiernos de algunos
+países de la Eurozona con posiciones fiscales
+vulnerables, como España, aún no han solicitado
+formalmente ayuda financiera adicional a las
+autoridades europeas, lo cual es una precondición
+para que el BCE coadyuve a disminuir los elevados
+costos de financiamiento que enfrentan estos
+países. Adicionalmente, la comprometida situación
+fiscal de Grecia continúa siendo un motivo de
+preocupación debido a la posibilidad de que el FMI
+y la Unión Europea suspendan el programa de
+ayuda en caso de que este país no cumpla con los
+ajustes fiscales requeridos.
+
+2.2.2 Mercados de países emergentes
+
+Los activos financieros de los países emergentes,
+así como los correspondientes en los mercados
+desarrollados, continuaron presentando un
+comportamiento positivo ante la expectativa de
+mayores estímulos monetarios en los países
+desarrollados. A este comportamiento positivo
+también contribuyeron las cifras económicas en
+Estados Unidos, destacando las del sector laboral y
+del gasto del consumidor, que resultaron
+ligeramente mejor a lo anticipado. Lo anterior se
+reflejó en una moderada apreciación de la mayoría
+de las divisas de países emergentes frente al dólar,
+así como en un avance de los índices accionarios
+de estos países. Esta mayor disposición por tomar
+posiciones en activos de riesgo ocasionó que los
+niveles de volatilidad en los mercados de países
+emergentes permanecieran cercanos a los niveles
+mínimos del año (Gráfica 14).
+Gráfica 14
+Volatilidad Implícita en las Opciones de Tipo de
+Cambio con Vencimiento a un Mes
+Porcentaje
+
+Nota: Basado en cotizaciones de opciones peso dólar “At the Money”.
+Fuente: Bloomberg.
+
+2.2.3 Mercados financieros en México
+
+En México, el peso mostró una apreciación
+moderada como resultado tanto de los eventos del
+sector externo (principalmente de Europa y
+Estados Unidos), como de las cifras económicas
+positivas publicadas en México, las cuales
+confirman los sólidos fundamentos de la economía
+(Gráfica 15).
+
+Gráfica 15
+Tipo de Cambio Peso Dólar
+Pesos por dólar
+
+Nota: Cotizaciones tomadas intradía cada 10 minutos.
+Fuente: Bloomberg.
+
+Por su parte, las tasas de interés de los valores
+gubernamentales de largo plazo mostraron alzas
+moderadas, en tanto que la pendiente de la curva
+de rendimiento, medida a través del diferencial
+entre las tasas de interés a plazo de 3 y 30 años, se
+incrementó ligeramente (Gráfica 16). Este
+comportamiento fue muy similar a lo observado en
+la mayoría de los mercados de los países
+desarrollados e incluso de algunos emergentes, y
+se debió principalmente al entorno de mayor
+estabilidad en los mercados financieros así como a
+las cifras económicas en Estados Unidos que
+superaron las expectativas del mercado.
+
+Gráfica 16
+Curva de Rendimiento de Valores
+Gubernamentales
+Puntos base, porcentaje
+
+Fuente: Banco de México con datos de PIP.
+
+Finalmente, los analistas continúan postergando la
+expectativa para el próximo movimiento de la tasa
+de referencia de política monetaria. De acuerdo con
+la encuesta de Banamex del 4 de septiembre de
+2012, el promedio de los analistas anticipa que el
+siguiente cambio sea un incremento de 25 puntos
+base en septiembre de 2013.
+
+2.3. Panorama para la actividad económica y la
+inflación en México
+
+2.3.1. Actividad económica
+
+La información más oportuna sobre la evolución de
+la actividad productiva y la demanda agregada
+indica que la economía en su conjunto continúa
+presentando una tendencia positiva (Gráfica 17). En
+efecto, la economía mexicana se ha mostrado
+resistente a las adversas condiciones existentes en
+los mercados financieros internacionales y al menor
+ritmo de crecimiento que se ha registrado en la
+economía mundial, de tal modo que tanto las
+exportaciones manufactureras, como la demanda
+interna, han continuado presentando un elevado
+dinamismo.
+Gráfica 17
+Indicador Global de la Actividad Económica
+Índice 2003 = 100, a. e.
+
+Total
+
+Industrial
+
+Servicios
+
+Agropecuario
+
+Junio
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E AJ
+2012
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI.
+
+En particular, en lo que corresponde a la demanda
+externa, las exportaciones manufactureras dirigidas
+tanto a Estados Unidos como al resto del mundo,
+han presentado una evolución favorable (Gráfica
+18). En este contexto, la depreciación que ha
+registrado el tipo de cambio real, en relación a los
+niveles de la primera mitad de 2011, ha contribuido
+al dinamismo de las exportaciones y podría haber
+conducido al incremento que se ha observado en la
+participación de México dentro de las importaciones
+de Estados Unidos (Gráfica 19).
+
+El dinamismo de la demanda externa condujo, a su
+vez, a que la producción manufacturera haya
+continuado presentando una evolución positiva en
+el segundo trimestre del año. Destaca que este
+dinamismo ha caracterizado tanto a la producción
+de equipo de transporte, como al resto de las
+manufacturas (Gráfica 20 y Gráfica 21).
+
+Gráfica 18
+Indicadores de las Exportaciones
+Manufactureras
+Índice 2007 =100, a. e.
+Automotriz
+
+Total
+
+Estados Unidos
+
+Resto
+
+Julio
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+J
+
+No Automotriz
+
+Total
+
+Estados Unidos
+
+Resto
+
+Julio
+
+J
+
+O
+
+E A
+2009
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2010
+
+J
+
+J
+a.e./ Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+
+Gráfica 19
+Participación de México en las Importaciones
+de Estados Unidos
+(Sin Petróleo y Sin Automotriz)
+Por ciento, a. e.
+
+9.62
+
+9.93
+
+9.94
+
+9.61
+
+9.55
+
+10.14 10.22 10.02 9.92 9.93 9.97 9.79 9.95 9.97 9.87 9.64
+
+10.13
+
+9.69 9.54 9.73 9.73 9.74 9.37 9.57 9.52 9.79 9.81 9.94 10.12 9.89 9.82 9.90 9.90
+
+9.61 9.73 9.73 9.92 9.58 9.69 9.78
+
+9.77 9.79 9.66
+
+9.30
+
+9.26 9.20
+
+8.96
+
+E F M A M J J A S O N D E F M A M J J A S O N D E F M A M J J A S O N D E F M A M J
+2009 2010 2011 2012
+a.e. / Cifras con ajuste estacional.
+Fuente: Elaboración de Banco de México con información del
+Departamento de Comercio de los Estados Unidos.
+Gráfica 20
+1/
+Producción Manufacturera
+Índice 2003 = 100, a. e.
+
+Manufacturas sin Equipo de Transporte 1/
+
+Equipo de Transporte
+
+Junio
+
+E
+2008
+
+A
+
+J
+
+O
+
+E
+2009
+
+A
+
+J
+
+O
+
+E
+2010
+
+A
+
+J
+
+O
+
+E
+2011
+
+A
+
+J
+
+O
+
+E
+2012
+
+A
+
+J
+
+1/ Elaboración de Banco de México con datos del INEGI.
+a.e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Indicadores de la Actividad Industrial, Sistema de Cuentas
+Nacionales de México, INEGI.
+
+Gráfica 21
+Producción y Exportación
+de Vehículos Ligeros
+Miles de unidades anualizadas, a. e.
+
+3,100
+
+Producción Total
+
+Exportación
+
+2,600
+
+2,100
+
+1,600
+
+1,100
+
+Julio
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+J
+a.e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaboración de Banco de México con información de la
+Asociación Mexicana de la Industria Automotriz (AMIA).
+
+Por su parte, los indicadores más oportunos sobre
+la demanda interna sugieren que ésta también
+mostró una trayectoria creciente en el periodo abril-
+junio de 2012. En particular, en lo que corresponde
+al consumo privado, las ventas al menudeo de los
+establecimientos comerciales continuaron
+registrando una expansión, a la vez que las ventas
+al mayoreo presentaron una recuperación en el
+segundo trimestre, después de haber mostrado una
+contracción a principios de año (Gráfica 22).
+
+Gráfica 22
+Ventas en los Establecimientos
+Comerciales
+Índice 2003 = 100, a. e.
+
+Ventas mayoreo
+
+Ventas menudeo
+
+Junio
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+J
+a.e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Mensual sobre los Establecimientos Comerciales
+(EMEC), INEGI.
+
+De manera similar, la inversión fija bruta siguió
+registrando una tendencia positiva, si bien más
+moderada que en el primer trimestre del año
+(Gráfica 23).
+
+Gráfica 23
+Inversión y sus Componentes
+Índice 2005=100, a. e.
+
+Total
+
+Construcción
+
+Maquinaria y Equipo Nacional
+
+Maquinaria y Equipo Importado
+
+Mayo
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E AM
+2012
+a.e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI.
+
+No obstante la fortaleza que ha exhibido la
+economía mexicana ante el menor dinamismo de la
+economía mundial, algunos indicadores
+prospectivos sugieren que la economía nacional
+pudiera presentar una evolución relativamente
+moderada en los próximos meses (Gráfica 24), lo
+que en parte sería congruente con la
+desaceleración de la economía mundial.
+Gráfica 24
+Indicadores Adelantados para la Economía
+Mexicana
+Índice 2003 = 100, a. e.
+
+Junio
+
+Mayo
+
+INEGI
+
+Conference Board
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+J
+
+E A
+2010
+a.e. / Cifras con ajuste estacional.
+Fuente: INEGI y The Conference Board.
+
+2.3.2. Inflación
+
+2.3.2.1 Determinantes de la inflación
+
+La evolución de la economía en el segundo
+trimestre del año condujo a que la brecha del
+producto prácticamente se haya cerrado,
+ubicándose en niveles cercanos a cero (Gráfica 25).
+No obstante, los mercados de los principales
+insumos para la producción, en particular el laboral,
+no registran presiones sobre sus precios, a la vez
+que no se observan presiones de demanda sobre
+las cuentas externas del país.
+
+Gráfica 25
+1/
+Estimaciones de la Brecha del Producto
+Porcentajes del producto potencial
+
+8.0
+
+6.0
+
+4.0
+
+2.0
+
+0.0
+
+-2.0
+
+-4.0
+
+-6.0
+
+Producto Interno Bruto 2/
+
+-8.0
+
+IGAE 2/
+
+-10.0
+
+Intervalo al 95% de Confianza 3/
+
+-12.0
+
+E M S E M S E M S E M S E M S E M S E M S E M S E MJ
+2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+1/ Estimadas con el filtro de Hodrick-Prescott con corrección de colas; ver
+Banco de México (2009), “Informe sobre la Inflación, Abril-Junio 2009”,
+pág.74.
+2/ Cifras del PIB al segundo trimestre de 2012; cifras del IGAE a junio de
+2012.
+3/ Intervalo de confianza de la brecha del producto calculado con un
+método de componentes no observados.
+Fuente: Elaboración de Banco de México con información del INEGI.
+
+En particular, las tasas de desocupación, de
+ocupación en el sector informal y de subocupación
+permanecen en niveles superiores a los observados
+antes de la crisis (Gráfica 26). Destaca, no
+obstante, que la tasa de desocupación nacional
+parecería estar mostrando una trayectoria
+descendente más notoria, a la vez que el número
+de trabajadores asegurados en el IMSS continuó
+presentando una tendencia positiva (Gráfica 27).
+
+Gráfica 26
+Tasas de Subocupación, de Desocupación y de
+Ocupación en el Sector Informal
+Por ciento, a. e.
+
+28.97
+
+Tasa de Ocupación en el Sector Informal 1/
+
+Subocupación
+
+Tasa de Desocupación Nacional
+
+8.75
+
+4.75
+
+Julio
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+J
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+J
+
+1/ Desestacionalización elaborada por Banco de México.
+a.e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Nacional de Ocupación y Empleo, INEGI.
+
+Gráfica 27
+1/
+Trabajadores Asegurados en el IMSS
+Millones de personas
+
+16.0
+
+Original
+
+Desestacionalizada
+
+15.5
+
+15.0
+
+14.5
+
+14.0
+
+Agosto
+
+13.5
+
+J
+
+E A
+2007
+
+J
+
+O
+
+E A
+2008
+
+J
+
+O
+
+E A
+2009
+
+O
+
+E A
+2010
+
+J
+
+O
+
+E A
+2011
+
+J
+
+O
+
+E A
+2012
+
+JA
+
+1/ Permanentes y Eventuales Urbanos.
+Fuente: Elaboración de Banco de México con información del IMSS.
+
+En este contexto, se registraron aumentos
+salariales relativamente moderados durante el
+segundo trimestre del año. Lo anterior, junto con la
+tendencia creciente que presentó la productividad
+media del trabajo, ha conducido a que los costos
+laborales unitarios hayan continuado mostrando
+niveles reducidos (Gráfica 28). Así, dichos costos
+no se han constituido como un factor de presión
+sobre los precios.
+Gráfica 28
+Productividad y Costo Unitario de la Mano de
+Obra en el Sector Manufacturero
+Índice 2008 = 100, a. e.
+
+Costo Unitario
+
+Productividad
+
+Junio
+
+E M M J S N E M M J S N E M M J S N E M M J S N E M M J S N E M MJ
+2007 2008 2009 2010 2011 2012
+
+a.e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaboración de Banco de México a partir de información
+desestacionalizada de la Encuesta Mensual de la Industria
+Manufacturera, INEGI.
+
+En los últimos meses, el financiamiento al sector
+privado no financiero continuó creciendo con un
+dinamismo similar al registrado a principios del año.
+Por el lado de las empresas, los mercados de
+deuda interno y externo operaron con normalidad, a
+pesar de la incertidumbre en los mercados
+internacionales. En el mismo sentido, el crédito
+bancario otorgado a las empresas continuó
+creciendo con un ritmo sostenido. Por su parte, el
+crédito a los hogares también mantuvo una
+trayectoria de crecimiento estable. En este contexto
+de expansión de la cartera de crédito al sector
+privado no financiero, el mercado no ha mostrado
+señales de sobrecalentamiento. Las tasas de
+interés permanecen en niveles estables e
+históricamente bajos, al tiempo que los índices de
+morosidad se sitúan en niveles reducidos y sin
+presentar cambios significativos.
+
+2.3.2.2 Evolución y perspectivas de la inflación
+
+La inflación general anual en la primera quincena
+de agosto de 2012 fue 4.45 por ciento, mientras
+que en junio del mismo año fue 4.34 por ciento
+(Gráfica 29 y Cuadro 1). Así, desde junio de 2012 la
+inflación general anual ha rebasado la cota superior
+del intervalo de variabilidad de más o menos un
+punto porcentual alrededor de la meta puntual de 3
+por ciento. Este desempeño, en lo fundamental, es
+atribuible a la ocurrencia de choques de oferta que
+han afectado los precios relativos de algunos
+alimentos, y cuyo efecto sobre la inflación se
+anticipa sea transitorio.
+
+La inflación subyacente anual en la primera
+quincena de agosto de 2012 fue 3.70 por ciento (en
+junio fue 3.50 por ciento, Gráfica 29 y Cuadro 1).
+Las variaciones anuales de los subíndices
+subyacentes de las mercancías y de los servicios
+en la quincena de referencia fueron 5.27 y 2.40 por
+ciento, respectivamente (en junio estos datos
+fueron 4.66 y 2.54 por ciento, Gráfica 30). Por una
+parte, las alzas en los precios internacionales de las
+materias primas han tenido un impacto en los
+precios de un grupo de alimentos procesados. Por
+otra parte, a pesar del bajo traspaso de
+movimientos cambiarios a los precios, el mayor
+ritmo de crecimiento de los precios de las
+mercancías ha sido producto de la depreciación
+que presentó el tipo de cambio desde mediados de
+2011. Finalmente, la inflación anual del índice
+subyacente de servicios, que es la que mejor refleja
+las condiciones domésticas que afectan la inflación,
+se ha mantenido en niveles bajos. Así, continúa el
+ajuste en los precios relativos de las mercancías
+respecto de los servicios.
+
+Gráfica 29
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+
+INPC
+Subyacente
+No Subyacente
+INPC Excluyendo Alimentos y Energía 1/
+
+E A J O E A J O E A J O E A J O E A J O E A J O E A J O E A J *
+2005 2006 2007 2008 2009 2010 2011 2012
+
+Fuente: Banco de México e INEGI.
+* El último dato corresponde a la primera quincena de agosto de 2012.
+1/ Excluye alimentos dentro de casa (alimentos procesados, bebidas no
+alcohólicas y agropecuarios), alimentos fuera de casa y energéticos.
+Gráfica 30
+Subíndices Subyacentes de las Mercancías y de
+los Servicios
+Variación anual en por ciento
+
+Mercancías
+
+Servicios
+
+E A J O E A J O E A J O E A J O E A J O E A J O E A J O E A J *
+2005 2006 2007 2008 2009 2010 2011 2012
+
+* El último dato corresponde a la primera quincena de agosto de 2012.
+Fuente: Banco de México e INEGI.
+
+La inflación no subyacente anual en la primera
+quincena de agosto de 2012 fue 7.03 por ciento.
+Así, este indicador mantuvo una elevada
+contribución a la inflación general anual aun cuando
+presentó una ligera disminución con relación al
+nivel que alcanzó en junio (7.26 por ciento, Cuadro
+1). Al respecto, destaca que la variación anual del
+subíndice de precios de los productos
+agropecuarios fue 10.22 por ciento en el periodo de
+referencia (11.29 por ciento en junio). En este
+resultado influyó de manera importante el alza que
+se observó en las cotizaciones del huevo, cuya
+producción se vio severamente afectada por el
+brote de influenza aviar en Jalisco (la variación
+anual del precio de este producto en la primera
+quincena de agosto de 2012 alcanzó 16.59 por
+ciento, mientras que en junio fue 5.90 por ciento).
+
+En lo que concierne al efecto de los choques de
+oferta antes mencionados sobre la inflación, es
+pertinente señalar que, hasta ahora, no parece que
+se hayan presentado efectos de segundo orden.
+Así, el proceso de determinación de precios sigue
+caracterizándose por la ausencia de presiones de
+demanda agregada y en el que las expectativas de
+inflación de mediano y largo plazo han exhibido un
+comportamiento estable.
+
+Las expectativas de inflación, con excepción de las
+correspondientes al cierre de 2012, han
+permanecido ancladas dentro del intervalo de
+variabilidad de más o menos un punto porcentual
+alrededor del objetivo permanente de 3 por ciento.
+Efectivamente, las correspondientes a horizontes
+de corto plazo, en particular las referentes al cierre
+de 2012, mostraron un repunte asociado a los
+ajustes en precios relativos transitorios antes
+referidos. De acuerdo a la encuesta realizada por el
+Banco de México, el promedio de las expectativas
+de inflación general para el cierre de 2012 aumentó,
+pasando de 3.81 por ciento en la encuesta de junio
+a 4.01 por ciento en la encuesta de agosto de 2012
+(Gráfica 31). Lo anterior se debió, en gran medida,
+al incremento de la expectativa implícita para el
+componente no subyacente, la cual pasó de 4.70
+por ciento a 5.30 por ciento en el mismo período.
+Por su parte, el promedio de las expectativas del
+componente subyacente de la inflación sólo
+presentó un ligero ajuste al pasar de 3.54 por ciento
+a 3.61 por ciento. En contraste, las expectativas de
+inflación para el cierre de 2013 se han mantenido
+prácticamente sin cambios. Así, con base en la
+misma encuesta, el promedio de las expectativas
+de inflación general para este horizonte pasó de
+3.69 por ciento en la encuesta de junio a 3.71 por
+ciento en la correspondiente a agosto de 2012. Por
+su parte, el promedio de las expectativas del
+componente subyacente se mantuvo estable
+pasando de 3.47 a 3.49 por ciento en el mismo
+lapso.
+
+En cuanto a las expectativas de inflación a
+horizontes de mediano y largo plazo, éstas
+prácticamente se han mantenido sin cambios en los
+últimos meses. Así, de acuerdo con la encuesta
+realizada por el Banco de México, el promedio de
+las expectativas para los siguientes 4 años
+permanece alrededor de 3.60 por ciento, mientras
+que el correspondiente al promedio de los
+siguientes 5 a 8 años disminuyó ligeramente de un
+nivel de 3.50 en la encuesta de junio a 3.44 por
+ciento en la encuesta de agosto (Gráfica 31).
+
+Gráfica 31
+Expectativas de Inflación General para
+Diferentes Horizontes
+Por ciento
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+Siguientes 12 Meses
+
+Cierre 2012
+
+Cierre 2013
+
+Siguientes 4 Años
+
+1.5
+
+Siguientes 5-8 Años
+
+Intervalo de Variabilidad
+
+1.0
+
+E F M A M J J A S O N D E F M A M J J A S O N D E F M A M J J A
+2010 2011 2012
+
+Fuente: Encuesta de Expectativas de Banco de México.
+
+Como complemento a la información que proviene
+de las encuestas, a partir del comportamiento de
+los instrumentos financieros se puede analizar la
+evolución de la compensación por inflación y riesgo
+inflacionario (diferencia entre el rendimiento
+nominal del bono a 10 años y el rendimiento real
+correspondiente a los instrumentos de deuda
+indizados a la inflación del mismo plazo). Durante
+las últimas semanas, este indicador se ha
+mantenido en niveles alrededor de 3.9 por ciento.
+Derivado de lo anterior se desprende que las
+expectativas de inflación implícitas en las tasas de
+interés de largo plazo son inferiores a 3.9 por
+ciento, considerando que la prima por riesgo
+inflacionario tiene un valor positivo y está incluida
+en este indicador (Gráfica 32).
+
+Gráfica 32
+Compensación por Inflación y Riesgo
+Inflacionario Implícita en Bonos a 10 Años en
+1/
+México
+Por ciento
+
+5.50
+
+Compensación Implícita
+en Bonos a 10 Años
+
+5.25
+
+5.00
+
+Media Móvil 20 Días
+
+4.75
+
+4.50
+
+4.25
+
+4.00
+
+3.75
+
+3.50
+
+Dic 08
+
+Dic 09
+
+Dic 10
+
+Dic 11
+
+3.25
+
+3.00
+
+D F A J AOD F A J AOD F A J AOD F A J AOD F A J AOD F A J AOD F A J AOD F A J A
+2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+1/ La compensación por inflación y riesgo inflacionario implícita en bonos
+a 10 años se calcula con base en los datos de tasas de interés nominal y
+real del mercado secundario.
+Fuente: Estimación de Banco de México con datos de Bloomberg.
+
+El pronóstico para la inflación general anual en el
+corto plazo considera afectaciones por dos choques
+específicos: primero, las alzas en los precios
+internacionales de los granos y, segundo, como ya
+había sido mencionado anteriormente por el Banco
+de México, las afectaciones en la producción
+nacional de huevo. Así, se anticipa que la inflación
+general anual se ubique por arriba de 4 por ciento
+en los siguientes meses y que en la medida en que
+se desvanezca el efecto de los referidos choques
+ésta retome su tendencia convergente al 3 por
+ciento. Así, al final de 2013 se prevé que la inflación
+general se ubicará cerca de 3 por ciento.
+
+Por otra parte, se anticipa que hacia el cuarto
+trimestre de 2012 la inflación subyacente anual
+retomará una trayectoria descendente, ubicándose
+al final de ese periodo en un nivel sensiblemente
+menor que el actual. Asimismo, se anticipa que esta
+tendencia a la baja se extenderá durante 2013
+hasta alcanzar niveles que fluctúen alrededor de 3
+por ciento.
+
+La trayectoria prevista sobre la inflación enfrenta
+diversos riesgos. En el corto plazo se han
+acentuado aquellos que son al alza debido a la
+incertidumbre derivada de las afectaciones a la
+producción mundial de los granos y a la producción
+interna del huevo y de la posibilidad de una
+intensificación en la turbulencia en los mercados
+financieros internacionales. Por otro lado, en el
+mediano plazo los riesgos a la baja prevalecen
+como consecuencia del deterioro que se ha venido
+presentando en las perspectivas sobre el
+crecimiento económico mundial.
+Cuadro 1
+Índice Nacional de Precios al Consumidor y Componentes
+Variación anual en por ciento
+
+Diciembre 2011
+
+Concepto
+
+INPC
+
+Subyacente
+
+Mercancías
+Alimentos, Bebidas y Tabaco
+Mercancías no Alimenticias
+
+Servicios
+Vivienda
+Educación (Colegiaturas)
+Otros Servicios
+
+No Subyacente
+
+Agropecuarios
+Frutas y Verduras
+Pecuarios
+
+Energéticos y Tarifas Aut. por Gobierno
+
+Energéticos
+Tarifas Autorizadas por Gobierno
+
+Fuente: INEGI.
+
+Junio 2012
+
+Agosto 1q 2012
+
+3.82
+
+4.34
+
+4.45
+
+3.35
+
+3.50
+
+3.70
+
+4.52 7.32 2.39
+
+4.66 6.43 3.29
+
+5.27 6.75 4.12
+
+2.40 2.04 4.19 2.27
+
+2.54 1.85 4.62 2.67
+
+2.40 1.95 4.28 2.33
+
+5.34
+
+7.26
+
+7.03
+
+3.73 -4.37 9.76
+
+11.29 12.75 10.37
+
+10.22 6.94 12.37
+
+6.19
+
+5.02
+
+5.20
+
+8.30 2.39
+
+7.87 0.30
+
+8.33 0.00
+3. ANÁLISIS Y MOTIVACIÓN DE LOS VOTOS DE
+LOS MIEMBROS DE LA JUNTA DE GOBIERNO
+
+Durante la sesión se llevó a cabo un nutrido
+intercambio de opiniones entre todos los asistentes
+sobre los temas tratados en ella. A continuación se
+presentan las consideraciones que manifestaron los
+miembros de la Junta de Gobierno presentes,
+respecto de la decisión de política monetaria.
+
+La mayoría de los miembros de la Junta de
+Gobierno coincidió en que la situación económica
+mundial ha continuado deteriorándose. A pesar de
+ello, todos los miembros afirmaron que la economía
+mexicana continúa expandiéndose, si bien la
+mayoría también consideró que el balance de
+riesgos para el crecimiento del país ha empeorado.
+Asimismo, todos los miembros señalaron el
+incremento que ha presentado la inflación general
+en los últimos meses y la mayoría concordó en que
+éste se originó por la ocurrencia de choques de
+oferta inesperados, cuyo efecto sobre la inflación se
+anticipa será transitorio. Todos consideraron que
+los riesgos para la inflación en el corto plazo
+empeoraron. La mayoría de los miembros coincidió
+en que persisten riesgos a la baja para la inflación
+para el mediano plazo. No obstante, algunos
+miembros señalaron que el balance de riesgos para
+la inflación en el mediano plazo se ha deteriorado.
+
+La mayoría de los miembros de la Junta concordó
+en que el ritmo de crecimiento de la economía
+mundial ha continuado debilitándose. En este
+sentido, algunos miembros indicaron que la
+desaceleración es producto de las dificultades
+prevalecientes en Europa y en Estados Unidos.
+Asimismo, la mayoría de los miembros precisó que
+continúa observándose una desaceleración en gran
+parte de las economías emergentes, y algunos de
+ellos enfatizaron que este debilitamiento se está
+dando de una manera sincronizada con la
+desaceleración de las economías avanzadas. Un
+miembro añadió que, en caso de que los ajustes en
+las economías avanzadas no se den de una
+manera ordenada, las repercusiones sobre el
+crecimiento mundial pudieran ser muy onerosas. En
+este sentido, otro miembro enfatizó el papel que
+tiene el problema de la deuda en las economías
+avanzadas y en algunas economías emergentes
+como elemento que continuará afectando el
+crecimiento. Así, la mayoría de los miembros
+reconoció que se ha dado un marcado deterioro en
+las expectativas de crecimiento económico mundial,
+tanto para las economías avanzadas, como para
+las emergentes y concluyó que los riesgos a la baja
+para el crecimiento económico mundial se han
+incrementado.
+
+Profundizando en cuanto a la economía de Estados
+Unidos, la mayoría de los miembros de la Junta
+señaló que su crecimiento continúa siendo
+modesto. En este sentido, un miembro de la Junta
+consideró que algunos indicadores prospectivos de
+dicha economía sugieren que ésta podría presentar
+un debilitamiento. Otro miembro añadió que el buen
+comportamiento que la economía de ese país había
+mostrado a principios de este año en algunos
+indicadores se ha suspendido, y que persisten
+riesgos de que su desempeño continúe
+deteriorándose. En el mismo sentido, algunos
+miembros de la Junta apuntaron que persiste la
+incertidumbre acerca del tamaño del ajuste fiscal
+que podría ocurrir en 2013 y del efecto que ello
+pudiera tener sobre el dinamismo de esta
+economía. Finalmente, otro miembro añadió que,
+independientemente del ajuste fiscal, la demanda
+agregada de ese país debe mostrar cambios en su
+composición. Enfatizó también que las
+proyecciones de la Oficina de Presupuesto del
+Congreso (CBO, por sus siglas en inglés) sugieren
+que el desempleo se mantendría en niveles
+elevados, aun en el caso de que las tasas de
+interés permanezcan en niveles
+extraordinariamente bajos en los siguientes años,
+esto es, que prevalezca el actual o, incluso, un
+mayor estímulo monetario y que se evite la fuerte
+consolidación fiscal que está prevista en la ley.
+Algunos miembros, no obstante, enfatizaron la
+evolución de indicadores de la economía de
+Estados Unidos que recientemente han presentado
+un comportamiento favorable, dentro de los que
+destacan el empleo y la producción industrial en
+julio, así como el gasto de los consumidores. Un
+miembro añadió que el crecimiento de esta
+economía se ha sustentado en la corrección
+gradual de los problemas que originaron la crisis y
+que, en particular, la construcción y la venta de
+viviendas, así como el crédito bancario al sector
+privado, han crecido, además de que ha continuado
+el proceso de desapalancamiento de los hogares.
+Además, señaló que el consenso de los analistas
+mantiene un pronóstico de crecimiento ligeramente
+por arriba del 2 por ciento para este y el próximo
+año.
+
+La mayoría de los miembros de la Junta coincidió
+en que la situación económica de la zona del euro
+continúa deteriorándose, a lo que uno añadió que
+persisten las revisiones a la baja de los pronósticos
+de crecimiento para esa zona en 2012 y 2013.
+Además, otro miembro recalcó que existe un
+problema de financiamiento de las cuentas
+corrientes de los países de la Unión Monetaria
+Europea que podría ocasionar que la situación
+prevaleciente se torne insostenible. En este sentido,
+un miembro de la Junta destacó que el deterioro
+que presenta el sistema financiero de España
+parece estarse agravando, lo cual se manifiesta con
+el aumento en las salidas netas de capital en ese
+país. Otro miembro mencionó que, dado que los
+problemas de la región están muy enraizados, son
+de difícil solución en el corto plazo. Sin embargo, un
+miembro respondió que, a pesar de la salida de
+capitales que ha caracterizado a las economías
+periféricas, ha continuado el descenso de las tasas
+de interés para la deuda soberana, en especial de
+España e Italia, así como de los costos de
+cobertura por incumplimiento de pago en esa
+región. Asimismo, algunos miembros reconocieron
+el compromiso del Banco Central Europeo de
+apoyar la moneda común como un paso en la
+dirección correcta a la solución de los problemas de
+la zona. Uno de ellos recalcó que ha habido un
+avance en mejorar la arquitectura de Europa en
+términos de impulsar una unión bancaria, de tener
+un mismo seguro de depósito y de fortalecer la
+coordinación fiscal, y que el Banco Central Europeo
+está contribuyendo a establecer las condiciones
+para lograr los objetivos anteriores.
+
+Todos los miembros de la Junta indicaron que los
+precios internacionales de los alimentos y de los
+energéticos han aumentado, lo que algunos
+miembros atribuyeron a fenómenos climatológicos.
+Un miembro comentó que la evolución de los
+precios de los bienes primarios ha sido errática
+debido al efecto de los fenómenos mencionados, de
+eventos geopolíticos y de las perspectivas de la
+economía mundial. Algunos miembros indicaron
+que la expectativa de los precios de los granos es
+al alza. Uno de ellos consideró que aumentos en
+los precios internacionales de materias primas y la
+posibilidad de que éstos continúen, han ocasionado
+un incremento en los riesgos al alza de la inflación
+en muchos países. Otro miembro afirmó que los
+precios a futuro en los mercados han dejado de ser
+predictores confiables de los precios al contado en
+fechas posteriores de estos bienes. Asimismo, un
+miembro aclaró que se espera que los efectos de
+los incrementos de precios de materias primas en la
+inflación mundial sean transitorios, a lo que otro
+miembro añadió que las expectativas de los precios
+de las materias primas son en general a la baja.
+
+La mayoría de los miembros de la Junta enfatizó
+que, pese al incremento reciente en los precios
+internacionales de algunas materias primas,
+persisten condiciones deflacionarias en varias
+economías avanzadas. En este sentido, la mayoría
+destacó que, en congruencia con el menor ritmo de
+la actividad económica global, se espera que la
+inflación mundial vaya disminuyendo en 2012 y
+
+2013. Así, la mayoría de los miembros mencionó
+que durante las últimas semanas se ha observado
+un mayor relajamiento de la política monetaria en
+varias economías avanzadas y emergentes, y que
+es probable que en algunas de ellas se adopten
+posturas monetarias aún más acomodaticias en los
+próximos meses.
+
+En lo que respecta a los mercados financieros
+internacionales, la mayoría de los miembros de la
+Junta destacó que éstos han mostrado un
+comportamiento favorable. Uno de ellos indicó que
+las tasas de interés a diferentes plazos han llegado
+a niveles cercanos a sus mínimos históricos,
+inclusive las de México. En este contexto, señaló
+que se ha observado una apreciación de la mayoría
+de las monedas, incluyendo el euro respecto al
+dólar, y que se han presentado ganancias en las
+cotizaciones accionarias, inclusive en Europa y, en
+particular, en las cotizaciones de los bancos de esa
+región. Señaló que este desempeño parece
+responder a las mejores noticias sobre la economía
+de Estados Unidos y a los avances hacia la
+estabilización de la eurozona. No obstante, un
+miembro argumentó que la mejoría observada
+recientemente en los mercados financieros es
+transitoria y que se debe a las perspectivas de
+políticas monetarias laxas en la zona del euro y en
+Estados Unidos. Un miembro añadió que las
+políticas monetarias expansivas de los países
+desarrollados han continuado impulsando las
+entradas de capital a las economías emergentes,
+ocasionando inclusive un desplazamiento a la baja
+de la curva de rendimientos en México. Algunos
+miembros destacaron que aunque el efecto de
+nuevas rondas de relajamiento monetario no es
+claro, los participantes en los mercados financieros
+internacionales continúan anticipando la
+intervención de las autoridades monetarias. Un
+miembro afirmó, en este sentido, que en el mediano
+plazo no puede descartarse un daño a la
+credibilidad de la política monetaria en Estados
+Unidos si se aplican medidas no convencionales al
+extremo. Así, la mayoría de los miembros mencionó
+que, a pesar de la mejoría reciente, aún no se
+pueden descartar episodios futuros de volatilidad
+financiera. Algunos de ellos incluso señalaron que
+persiste el riesgo de un evento desfavorable de
+mayor magnitud en la zona del euro y su posible
+contagio. Otro miembro, no obstante, arguyó que,
+en caso de que las medidas que tomen las
+autoridades monetarias de las economías
+avanzadas coincidan o superen las expectativas,
+los mercados financieros podrían continuar
+presentando una mejoría en su comportamiento.
+Todos los miembros de la Junta afirmaron que, a
+pesar del entorno internacional adverso, la
+economía mexicana continúa expandiéndose, y la
+mayoría puntualizó además que este desempeño
+ha sido balanceado y, en particular, que se ha
+derivado tanto del dinamismo de las exportaciones,
+como de la demanda interna. Un miembro enfatizó
+el papel que han tenido la producción y la
+exportación de vehículos en la reanimación
+económica de nuestro país. Asimismo, la mayoría
+destacó el crecimiento del consumo, que se ha
+visto estimulado por la expansión del crédito y la
+mejoría de las condiciones del mercado laboral.
+Algunos miembros argumentaron que la inversión
+también ha mostrado una tendencia positiva, y que
+ello puede estar asociado a una alta utilización de
+la capacidad instalada y a las más amplias
+opciones de financiamiento. Adicionalmente,
+algunos miembros de la Junta afirmaron que el
+sector servicios también ha continuado presentando
+un elevado crecimiento.
+
+La mayoría de los miembros de la Junta coincidió
+en que, a pesar de lo anterior, el balance de riesgos
+para el crecimiento se ha deteriorado,
+principalmente debido al aumento en los riesgos a
+la baja para la economía mundial y, en particular,
+en lo que corresponde a la de Estados Unidos. No
+obstante, otro miembro señaló que el balance de la
+economía mexicana permanece sin cambio y
+argumentó que los indicadores prospectivos se
+mantienen estables y en terreno positivo, y que los
+analistas han ajustado al alza el pronóstico de
+crecimiento para 2012. En este sentido, otro
+miembro también reconoció que los signos de
+desaceleración se han presentado de manera más
+paulatina a lo previsto. Sin embargo, otro miembro
+agregó que, si bien el balance de riesgos en
+general se ha deteriorado, no debe descartarse la
+posibilidad de que se acelere el crecimiento el año
+entrante en caso de materializarse algunas
+reformas estructurales.
+
+Todos los miembros de la Junta concordaron en
+que la brecha del producto se ha cerrado, a lo que
+un miembro añadió que ésta ya se encuentra en
+valores positivos, tanto para los bienes
+comerciables como los no comerciables, y que el
+uso de la capacidad instalada manufacturera es
+mayor a los niveles previos a la crisis. No obstante,
+otro miembro argumentó que el valor de la brecha
+no es estadísticamente distinto de cero. Sin
+embargo, la mayoría opinó que, a pesar de ello,
+aún se aprecian condiciones de holgura en la
+economía. En particular, la mayoría coincidió en
+que, a pesar de la mejoría que ha presentado el
+mercado laboral, aún no se observan presiones
+sobre la inflación provenientes del mismo. La
+mayoría afirmó que tampoco se aprecian presiones
+de demanda en el mercado de crédito ni en las
+cuentas externas.
+
+Todos los miembros de la Junta hicieron referencia
+a que la inflación general anual se ha incrementado
+recientemente y que ha alcanzado niveles
+superiores al 4 por ciento. La mayoría de los
+miembros también sostuvo que este repunte se
+debió a choques de oferta originados por la
+epidemia aviar y por el aumento en los precios
+internacionales de los granos derivado de
+fenómenos climatológicos, lo que a su vez ha
+presionado los precios de algunos alimentos. La
+mayoría de los miembros calificó estos choques
+como inesperados, a lo que uno de ellos agregó
+que dichos fenómenos representan un cambio de
+precios relativos que se limita a ciertos productos,
+como lo son las tortillas, el frijol, la carne y el huevo.
+Añadió que 60 puntos base de la inflación general
+anual de 4.45 en la primera quincena de agosto es
+atribuible a estos cuatro productos. Algunos
+miembros concluyeron que dichos choques se han
+reflejado principalmente en el subíndice no
+subyacente. Un miembro recordó que el incremento
+en la inflación de alimentos es un fenómeno
+generalizado a nivel mundial y que se ha
+incrementado la volatilidad en los precios de éstos,
+lo cual se ha dado en un contexto en donde los
+productores nacionales se encuentran en mayores
+posibilidades de trasladar incrementos en los
+precios de los insumos a los precios del
+consumidor. La mayoría de los miembros mencionó
+que si bien la inflación continuará durante los
+siguientes meses en niveles superiores al 4 por
+ciento, en la medida en que se desvanezca el
+efecto de los choques transitorios la inflación
+retomará una tendencia convergente al 3 por
+ciento.
+
+Por otra parte, algunos miembros de la Junta
+afirmaron que la inflación subyacente y, en menor
+medida, la de servicios, han mostrado una
+tendencia ascendente desde hace un año. Uno de
+ellos agregó que aun la inflación que excluye
+alimentos y energía ya muestra una tendencia al
+alza. El otro miembro señaló que no se pueden
+descartar presiones de demanda y que en la
+evolución de la inflación parecen predominar
+efectos de segundo orden. Sin embargo, un
+miembro consideró que la inflación de servicios se
+ha mantenido hasta ahora en niveles bajos.
+Asimismo, arguyó que la inflación subyacente
+registró incrementos debido a cambios en precios
+relativos de algunos alimentos procesados
+resultantes de los choques ya mencionados, y
+añadió que algunas mercancías no alimenticias
+también presentaron aumentos debido a la
+depreciación acumulada que ha registrado la
+moneda nacional en el último año. En este sentido,
+un miembro apuntó que esto no significa que se
+tenga un problema de traspaso, sino que el tipo de
+cambio ha permanecido en niveles más
+depreciados que los previstos. Agregó que no se
+puede descartar un escenario virtuoso en los
+mercados externos que pudiera dar origen a un
+comportamiento más favorable del tipo de cambio
+hacia delante, lo cual tendría efectos favorables
+sobre la inflación. Otro miembro recordó en este
+sentido que durante los dos últimos meses el peso
+registró una apreciación moderada.
+
+Algunos miembros de la Junta afirmaron que el
+balance de riesgos para la inflación se ha
+deteriorado y mencionaron como un riesgo al alza
+para la inflación la posibilidad de que el impacto del
+choque de oferta se prolongue por un periodo largo,
+dado que los efectos de los fenómenos
+climatológicos y de la epidemia aviar toman tiempo
+para resolverse. Uno de ellos afirmó que se ha
+elevado el riesgo de contagio del choque de oferta
+sobre los alimentos hacia otros precios debido a las
+siguientes razones: i) el subíndice de mercancías
+continúa su tendencia al alza pese a la apreciación
+observada; ii) cada vez un mayor número de
+productos registra incrementos superiores al 4 por
+ciento, con lo que otro miembro de la Junta
+concordó, puntualizando que cerca de la mitad de
+los bienes de la canasta del INPC y más de la mitad
+de las mercancías exhiben esa situación; iii) la
+inflación se encuentra por arriba del intervalo de
+variabilidad y existe la expectativa de que
+permanezca en esos niveles por varios meses, lo
+que podría afectar el proceso de formación de
+precios; y, iv) el incremento abrupto en las
+expectativas de corto plazo podría contaminar las
+expectativas para otros horizontes. Asimismo, para
+el mediano plazo, algunos miembros señalaron la
+posibilidad de mayores ajustes a los precios y
+tarifas fijados por el gobierno, en particular la
+posibilidad de que se modifique el precio de la
+gasolina, como ocurrió recientemente, dado el
+costo del subsidio asociado a la brecha entre los
+precios internos y externos. Además, mencionaron
+la posibilidad de que pudieran darse nuevos
+episodios de inestabilidad financiera que generen
+volatilidad en los flujos de capital y en el tipo de
+cambio. En este sentido, uno de ellos mencionó el
+riesgo del traspaso del tipo de cambio a los precios
+y la posibilidad de que continúen las presiones
+sobre los precios internacionales de las materias
+primas. Un miembro aseveró que estos riesgos al
+alza tienen mayor probabilidad de materializarse
+que uno a la baja proveniente de un severo
+debilitamiento de la economía mundial.
+
+Con relación a lo anterior, la mayoría de los
+miembros de la Junta afirmó que las expectativas
+de inflación han permanecido ancladas,
+argumentando que hasta ahora los cambios en
+precios relativos no han tenido efectos de segundo
+orden en el proceso de formación de precios.
+Algunos miembros puntualizaron que dichas
+expectativas no están ancladas en 3 por ciento y
+señalaron que las expectativas de inflación de corto
+plazo se han elevado y ubicado por encima del
+límite superior del intervalo de variabilidad, al
+tiempo que las de mayor plazo también se han
+incrementado gradualmente. Inclusive uno señaló
+que se mantienen tenazmente en la parte alta de
+dicho intervalo y que la postergación en la
+consecución de la meta podría poner en riesgo la
+credibilidad del Banco Central. No obstante, un
+miembro afirmó que no hay evidencia de
+contaminación sobre las expectativas de mediano y
+largo plazo, que son en las que el Banco Central se
+debe enfocar pues son las que pueden afectarse
+mediante la política monetaria, mientras que las de
+corto plazo primordialmente reflejan la evolución
+reciente de la inflación.
+
+Si bien todos los miembros de la Junta coincidieron
+en que en el corto plazo han aumentado los riesgos
+al alza para la inflación, la mayoría puntualizó que
+los riesgos para la inflación en el mediano plazo
+han disminuido. En este contexto, la mayoría
+señaló como riesgo a la baja para la inflación en el
+mediano plazo la posibilidad de condiciones
+deflacionarias en algunas economías avanzadas y
+la prolongación de la desaceleración económica
+mundial. Sin embargo, un miembro afirmó que un
+choque negativo de demanda externa podría de
+hecho estar acompañado de presiones
+significativas sobre el tipo de cambio y, por ende,
+sobre la inflación. Ante estas aseveraciones, otro
+miembro explicó que, a diferencia de choques
+observados en décadas pasadas que afectaron el
+tipo de cambio nominal, actualmente se enfrenta un
+choque de ingreso proveniente del exterior que
+conlleva una depreciación del tipo de cambio real y,
+por ende, no necesariamente conduce a mayor
+inflación.
+
+Todos los miembros de la Junta concordaron en
+que la inflación genera un costo para la sociedad.
+En este contexto, algunos miembros agregaron que
+si el Banco Central se muestra complaciente con la
+inflación, se puede perder credibilidad y con ello
+aumentarían los costos de implementación de la
+política monetaria. Sin embargo, otros miembros
+apuntaron que es importante hacer un uso prudente
+de los instrumentos de política monetaria ya que
+ésta podría no ser el mejor medio para enfrentar
+ciertos choques. Así, un miembro aclaró que de
+utilizarse la política monetaria para combatir
+choques transitorios a los precios, ésta podría
+resultar muy restrictiva, lo que ocasionaría costos a
+la economía y una pérdida de credibilidad. Enfatizó
+que dado el lapso que lleva el que la política
+monetaria tenga efectos sobre la inflación, se
+correría el riesgo de que cuando ésta empiece a
+tener el efecto deseado sobre la inflación, el
+impacto inicial de los choques transitorios ya se
+haya desvanecido, dejando a la economía con un
+nivel de tasas de interés superior al deseado. Por lo
+tanto, señaló que es importante realizar un
+diagnóstico adecuado de las fuentes inflacionarias.
+En este sentido, un miembro recordó que México es
+una economía precio-aceptante que puede ser
+afectada por diversos tipos de choques externos,
+por lo que las prescripciones de política monetaria
+pueden ser muy distintas dependiendo de la
+naturaleza del choque.
+
+Finalmente, todos los miembros de la Junta
+indicaron que el Banco de México deberá vigilar los
+determinantes de la inflación para ajustar
+oportunamente la postura monetaria para alcanzar
+el objetivo de inflación al menor costo posible. La
+mayoría de los miembros coincidió en que la Junta
+sólo actuará en caso de observarse presiones
+inflacionarias que puedan contenerse a través de la
+política monetaria. Algunos miembros precisaron
+que han aumentado las razones para una posible
+alza en la tasa objetivo. Por su parte, la mayoría
+enfatizó que el Banco Central deberá vigilar el
+comportamiento del tipo de cambio y las
+condiciones monetarias de México con respecto a
+las del exterior, en particular en lo relacionado a las
+futuras acciones del Banco de la Reserva Federal y
+del Banco Central Europeo. Todos los miembros
+coincidieron en que la Junta de Gobierno estará
+atenta al comportamiento de las expectativas de
+inflación de mediano y largo plazo y a las
+perspectivas de crecimiento mundial.
+
+4. DECISIÓN DE POLÍTICA MONETARIA
+
+La Junta de Gobierno del Banco de México,
+considerando las intervenciones hechas por sus
+integrantes, resolvió mantener en 4.5 por ciento el
+objetivo para la Tasa de Interés Interbancaria a un
+día. Esta decisión se adoptó por unanimidad de
+votos.
+
+Tomando todo lo anterior en consideración, la Junta
+de Gobierno estima que la postura actual de la
+política monetaria sigue siendo conducente a
+alcanzar el objetivo permanente de inflación de 3
+por ciento, por lo que ha decidido mantener sin
+cambio el objetivo para la Tasa de Interés
+Interbancaria a un día. Hacia adelante, la Junta se
+mantendrá atenta a la evolución de todos los
+determinantes de la inflación, dado que el
+comportamiento de estos podría hacer aconsejable
+ajustar al alza la tasa de interés de referencia.
+Particular atención se le pondrá a que las
+variaciones de precios relativos, tanto las
+resultantes de productos agropecuarios, como de
+fluctuaciones del tipo de cambio, no generen
+efectos de segundo orden sobre la dinámica de la
+inflación. Sin embargo, también se vigilará la
+evolución de la postura monetaria relativa frente a
+otros países, principalmente de los avanzados. En
+cualquier caso se procurará en todo momento la
+convergencia de la inflación a su objetivo
+permanente de 3 por ciento.
+Documento publicado el 21 de septiembre de 2012

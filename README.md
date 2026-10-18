@@ -59,20 +59,29 @@ The corpora hold official documents and, on a few practice cards, company filing
 
 The text corpus is what lets a reasoning agent beat a text-blind baseline. An agent that notices an FOMC statement shifting tone toward tightening can adjust its rate forecast accordingly, even before the numbers in the panel reflect the move.
 
-### Practice tasks — 103 units
+### Practice tasks — 125 units
 
-`units/` contains **103 practice units** with full specifications, covering all four card
-families: **F1 23 · F2 27 · F3 22 · F4 31**. Every one carries its panels, its dated text
-corpus, its card and its spec. By `target_type` the 103 split **87 `level` · 16 `log_return`**;
+`units/` contains **125 practice units** with full specifications, covering all four card
+families: **F1 29 · F2 34 · F3 27 · F4 35**. Every one carries its panels, its dated text
+corpus, its card and its spec. By `target_type` the 125 split **109 `level` · 16 `log_return`**;
 the type is stated in each unit's `card.toml` and `forecast_spec.json`, and your output must
 match it.
 
-`units/` holds **104 directories**, not 103: the extra one is the worked exemplar
+They come in two sets:
+
+- **the original 103 units** (F1 23 · F2 27 · F3 22 · F4 31; 87 `level`, 16 `log_return`),
+  which forecast weeks to months ahead and carry no answers;
+- **the short-horizon practice set**, 22 units whose ids end in `-ps1` (F1 6 · F2 7 · F3 5 · F4 4,
+  all `level`), which forecast 1 to 4 business days ahead and whose realized values are published
+  in `practice-answers/`. It has its own subsection below.
+
+`units/` holds **126 directories**, not 125: the extra one is the worked exemplar
 `t2-EXAMPLE-ust-curve-1m`, which is referenced throughout this README and ships no
 `forecast_spec.json`. It is the only unit here without one, and it is not counted as a practice
 unit above.
 
-**They carry no answers.** That is deliberate and it bounds what a local run can tell you:
+**The original 103 units carry no answers.** That is deliberate and it bounds what a local run on
+them can tell you:
 
 | You can check locally | You cannot check locally |
 |---|---|
@@ -82,7 +91,9 @@ unit above.
 
 Accuracy feedback comes from submitting: the Development leaderboard scores you on this
 repository's `validation` units, against outcomes that are not shipped with them. Use the
-practice units to get *admissible*, and the leaderboard to find out how good you are.
+practice units to get *admissible*, and the leaderboard to find out how good you are. The
+short-horizon practice set is the exception: its answers ship, so you can score it yourself (see
+"Short-horizon practice set" below).
 
 The cards that rank the Final are completed after Final submissions close, from data up to Monday 26
 October 2026, and every value they forecast is first published between 27 and 30 October 2026, after
@@ -97,6 +108,70 @@ Use the board the way it is useful — to check that your agent runs, parses, an
 and read your per-card scores rather than your position. **The ranking that decides the
 competition is the Final phase**, on cards completed after Final submissions close (see "Competition
 schedule and submission limits") — a later window that nothing in this practice data reaches.
+
+### Short-horizon practice set
+
+This is the set of historical practice cards at horizons of a few business days that the
+[12 October notice on issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6129776242)
+announced. It covers the series added for the ranked Final (the 3-month, 6-month and 1-year UST
+bills and the five emerging-market exchange rates) at the Final's horizons, with three cards on
+G10 exchange rates. You can score the set locally, because its realized values are published with
+it.
+
+**What it covers.** 22 units in `units/`, ids ending in `-ps1`, split `public-dev`:
+
+| Group | Cards | Assets | Panel |
+|---|---:|---|---|
+| UST bills | 8 | `UST_3M`, `UST_6M`, `UST_1Y` (one card adds `UST_2Y`), % per annum | `rates_daily`, which here also carries the 3-month, 6-month and 1-year bills |
+| Emerging-market FX | 11 | `MXN`, `BRL`, `ZAR`, `KRW`, `INR`, units of the currency per US dollar | `em_fx_ecb_daily` (new) |
+| G10 FX | 3 | `EUR`, `JPY`, `CHF`, quoted as on the other practice cards | `g10_fx_daily` |
+
+- **Horizons.** Every card's as-of is a Monday. The cards forecast 1 to 4 business days ahead, so
+  every target falls on the Tuesday to Friday of the same week.
+- **Dates and windows.** The as-of dates run from 2009 to 2022. Each week was drawn with a fixed
+  seed from official lists of dated events announced in advance (policy decisions, data releases,
+  Treasury refunding statements, debt-limit periods, elections), never by the size of the move
+  that followed. An F4 card has a scheduled event inside its Tuesday-to-Friday window, or an
+  official document in its corpus that names a live risk channel. It doesn't promise that a shock
+  happens; that is the Final's F4 definition.
+- **Text.** Each card has 6 to 8 official documents, all published before the as-of: U.S.
+  monetary-policy documents and data releases; the target central bank's decisions, where their
+  published terms allow it (Banco de México, Banco Central do Brasil, the ECB); on some ZAR, KRW and INR
+  cards, official government texts (South Africa's National Treasury budget speeches and
+  Statistics South Africa releases, Korea's korea.kr policy briefings, India's PIB and Prime
+  Minister's Office releases). The set has no distractor documents: no speeches or other texts on
+  unrelated topics.
+  Where a currency's text signal is thin, the card says so.
+
+**Where the rates come from.** The UST yields are the Treasury's daily par yields (Federal Reserve
+H.15, retrieved via FRED), as on the other practice cards. The **G10 rates are the Federal
+Reserve's H.10 rates, like those of every other practice card**; the ranked Final's G10 rates come
+from the ECB instead. The **emerging-market rates are the ECB's euro foreign
+exchange reference rates, cross-calculated per US dollar by the organizers** (currency per euro
+divided by US dollars per euro), like the ranked Final's; the ECB does not publish these crosses
+itself. No card mixes the two FX sources.
+
+**Where the answers are.** `practice-answers/<unit_id>.parquet`, one file per unit, with columns
+`draw` (always 0), `asset`, `horizon`, `value` and `target_date`: one row per target asset and
+horizon of the card. They sit outside `units/`, so a unit directory mounted at `/input` still holds
+no answer, exactly like a Final input. [`practice-answers/README.md`](practice-answers/README.md)
+gives each file's source and attribution and a checksum list.
+
+**Scoring locally.**
+
+```bash
+python scoring/scoring.py score \
+  --card units/<unit_id>/card.toml \
+  --forecast /path/to/your/forecast.parquet \
+  --realized practice-answers/<unit_id>.parquet
+```
+
+The scores it prints are **raw, not scaled**: they are not divided by the error the text-blind
+baseline expects on the card, so they are not on the leaderboard's scale and not comparable across
+cards (the output says `"normalization_mode": "raw_unrankable"`). To put a card on that scale,
+compute the baseline's expected error from the card's inputs as
+[docs/M0-BASELINE.md](docs/M0-BASELINE.md) describes. Nothing in this set reaches a ranked Final
+card: its targets are all in 2022 or earlier.
 
 ### Scoring code
 
@@ -443,8 +518,10 @@ does not isolate the contribution of text.
 
 The published scorer does not emit `information_uplift` or `text_ablation_delta`, and the
 submission interface has no separate ablated-forecast slot. Treat ablation as an experiment you
-run and report separately. The public practice units do not provide realized references: on
+run and report separately. The original 103 practice units do not provide realized references: on
 those inputs, local checks can establish admissibility and changes in predictions, not accuracy.
+The short-horizon practice set does provide them (see "Short-horizon practice set" above), so on
+its 22 cards a local ablation can compare both forecasts against the same known outcomes.
 
 ### Running the scorer locally
 
@@ -459,17 +536,20 @@ pip install "qfbench2-common[data] @ git+https://github.com/Agenthon-2026/Agenth
 #    before they parse a single argument. It also brings in pandas and pyarrow.
 pip install .
 
-# Gates only -- this is what a participant can run. Realized outcomes are sealed and are
-# NOT shipped in this repository, so there is no --realized file to point at locally.
+# Gates only -- this is what a participant can run on the exemplar and on the original 103
+# practice units. Their realized outcomes are sealed and are NOT shipped in this repository, so
+# for them there is no --realized file to point at locally.
 python scoring/scoring.py score \
   --card units/t2-EXAMPLE-ust-curve-1m/card.toml \
   --forecast /path/to/your/forecast.parquet
 ```
 
 The scorer expects `forecast_meta.json` and `forecast_rationale.md` next to your
-`forecast.parquet`. Passing `--realized <parquet>` adds the score, but you supply that file:
-nothing under `data/realized/` exists here, and `units/t2-EXAMPLE-ust-curve-1m/run_example.sh`
-states the reason -- "no realized outcomes are shipped publicly". Without it you get the
+`forecast.parquet`. Passing `--realized <parquet>` adds the score. For the exemplar and the
+original 103 units you supply that file: nothing under `data/realized/` exists here, and
+`units/t2-EXAMPLE-ust-curve-1m/run_example.sh` states the reason -- "no realized outcomes are
+shipped publicly". For a short-horizon practice unit the file is
+`practice-answers/<unit_id>.parquet` (see the end of this section). Without it you get the
 admissibility gates only (no score), which is the check that matters before submitting.
 
 This is what the command above actually prints — no metrics, and two keys that say so. Reproduced
@@ -523,6 +603,20 @@ which it always does:
 no reference scale, so its composite is raw and not comparable across units. The identity key in
 **both** of these outputs is `card_id` — that is the scorer's own vocabulary for its own report,
 and it is not the `unit_id` your `forecast_meta.json` must declare.
+
+**On a short-horizon practice unit** the answer file ships, so the scored form runs as is:
+
+```bash
+python scoring/scoring.py score \
+  --card units/<unit_id>/card.toml \
+  --forecast /path/to/your/forecast.parquet \
+  --realized practice-answers/<unit_id>.parquet
+```
+
+It prints the keys of the scored example above, with `"normalization_mode": "raw_unrankable"`:
+the scores are raw, not divided by the baseline's expected error, so they are not on the
+leaderboard's scale (see [docs/M0-BASELINE.md](docs/M0-BASELINE.md), §2). After `pip install .`
+the same command is also installed as `qfbench2-t2-score`.
 
 ---
 
@@ -693,6 +787,8 @@ against another unit's published panel row at the same `(asset, target_date)`:
 | of those, units whose **every** realized value appears exactly in a sibling unit's panel | **75** |
 | splits affected | 52 `validation`, 23 `public-dev` |
 
+That measurement predates the short-horizon practice set, whose answers are published anyway.
+
 The mechanism, without the worked example: a practice unit's target is an `(asset, target_date)`
 pair, and a sibling practice unit's published panel often carries a row for that same asset on that
 same date, to the same precision. Nothing has to be inferred — the value is simply present in the
@@ -782,7 +878,9 @@ image. Such an upload is marked Failed when its run starts and does not use an a
    and a non-blank `forecast_rationale.md`.
 5. Run the smoke scorer against the exemplar card.
 6. Run your agent on the validation cards in `units/` and check that every output is admissible.
-   They carry no answers, so this checks form, not accuracy (see "They carry no answers" above).
+   They carry no answers, so this checks form, not accuracy (see "Practice tasks" above). On the
+   22 short-horizon practice units you can also check accuracy: score them against
+   `practice-answers/` (see "Short-horizon practice set").
 7. Optionally build a text-ablated variant too. How it compares with your agent shows only on
    the Development leaderboard, after you submit both.
 8. Pack and upload: `qfbench2 submission pack --descriptor submission.json --team-number <N> --out submission.zip`,
@@ -793,9 +891,10 @@ image. Such an upload is marked Failed when its run starts and does not use an a
 
 Development runs through **October 12, 2026**. The joint **Final + Verification phase** is the Final
 upload window, from **13 October 2026, 12:00 UTC** to **25 October 2026, 23:59 AoE** (26 October,
-11:59 UTC): each team makes **one final submission per track** in it. On Track 2, each Final upload
-gets one **unranked check run** on sealed cards during the window, to show that the image runs and
-writes valid forecasts; as with every Final run, you see its status, not its per-card details. The
+11:59 UTC). On Track 2 a team may make **up to two Final uploads** in it, at most one per UTC day,
+and **the later one is its entry**: a second upload replaces the first. Each Final upload gets one
+**unranked check run** on sealed cards during the window, to show that the image runs and writes
+valid forecasts; as with every Final run, you see its status, not its per-card details. The
 **ranked run** happens after the window closes, on cards built from data up to Monday 26 October
 2026. Their UST panels end with the Treasury close of Monday 26 October and their FX panels with
 that day's ECB fixing (around 13:10 UTC), both after the upload deadline. Their UST series come from
@@ -810,10 +909,13 @@ happen by 30 October is dropped before scoring. The ranked cards are to be score
 October, and results are published in early November. There are no provisional standings: the Track
 2 Final board stays hidden until the results are published. Organizers verify the top entries after
 their ranked runs, that is, after this phase closes, with no separate participant Verification
-submission; keep your image pullable until the final results are published.
+submission; keep your image pullable until the final results are published. The short-horizon
+practice set, 22 historical cards covering the added series (the UST bills and the five
+emerging-market exchange rates), with three G10 cards, is in
+this repository with its realized values (see "Short-horizon practice set").
 
-If two Final submissions finish this track with the same ranking score, the tie is broken in
-favour of the one uploaded earlier.
+If two teams' entries finish this track with the same ranking score, the tie is broken in
+favour of the entry uploaded earlier.
 Registration and Development close together on October 12, 2026 at **23:59 Anywhere on Earth (AoE, UTC−12)**. The joint Final + Verification phase closes on October 25, 2026 at **23:59 AoE**. Other competition dates are unchanged; on Track 2, the Final's cards, ranking and results follow the timeline above.
 
 **Development has one deadline: 12 October 2026 at 23:59 AoE (13 October, 11:59 UTC).** Every valid

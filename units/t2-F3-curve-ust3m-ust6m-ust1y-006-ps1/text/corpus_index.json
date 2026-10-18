@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F3-curve-ust3m-ust6m-ust1y-006-ps1",
+  "asof": "2014-12-15",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_statement_20141029",
+      "timestamp": "2014-10-29",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20141029.txt"
+    },
+    {
+      "doc_id": "ust_refunding_statement_2014-11-05",
+      "timestamp": "2014-11-05",
+      "source": "U.S. Department of the Treasury",
+      "doc_type": "treasury_refunding_statement",
+      "file": "ust_refunding_statement_2014-11-05.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20141029_released_2014-11-19",
+      "timestamp": "2014-11-19",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20141029_released_2014-11-19.txt"
+    },
+    {
+      "doc_id": "cpi_2014-11-20",
+      "timestamp": "2014-11-20",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2014-11-20.txt"
+    },
+    {
+      "doc_id": "beigebook_2014-12-03",
+      "timestamp": "2014-12-03",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201412.txt"
+    },
+    {
+      "doc_id": "empsit_2014-12-05",
+      "timestamp": "2014-12-05",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2014-12-05.txt"
+    }
+  ]
+}

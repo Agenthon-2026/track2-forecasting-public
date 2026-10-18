@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F1-curve-ust3m-002-ps1",
+  "asof": "2021-06-07",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_minutes_20210317_released_2021-04-07",
+      "timestamp": "2021-04-07",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20210317_released_2021-04-07.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20210428",
+      "timestamp": "2021-04-28",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20210428.txt"
+    },
+    {
+      "doc_id": "ust_refunding_statement_2021-05-05",
+      "timestamp": "2021-05-05",
+      "source": "U.S. Department of the Treasury",
+      "doc_type": "treasury_refunding_statement",
+      "file": "ust_refunding_statement_2021-05-05.txt"
+    },
+    {
+      "doc_id": "cpi_2021-05-12",
+      "timestamp": "2021-05-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2021-05-12.txt"
+    },
+    {
+      "doc_id": "beigebook_2021-06-02",
+      "timestamp": "2021-06-02",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202106.txt"
+    },
+    {
+      "doc_id": "empsit_2021-06-04",
+      "timestamp": "2021-06-04",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2021-06-04.txt"
+    }
+  ]
+}

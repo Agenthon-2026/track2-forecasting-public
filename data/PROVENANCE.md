@@ -1,13 +1,17 @@
 # Provenance — Track 2 text corpus and numeric panels
 
-Track 2 ships **999 text files (34.41 MB)** and **116 Parquet panels (13.22 MB)** inside the
-repository. This file says where they came from.
+Track 2 ships **1,145 text files (43.13 MB)** and **138 Parquet panels (15.20 MB)** inside the
+repository, plus 22 answer files. The original 103 practice units, the worked example and the regression
+suite's six fixture texts hold 999 text files (34.41 MB) and 116 panels (13.22 MB); the **short-horizon practice set** (22 units whose
+ids end in `-ps1`) adds 146 text files (8.72 MB) and 22 panels (1.99 MB), and its realized values
+ship in `practice-answers/`. This file says where they came from.
 
 **The per-file record lives in each unit's `manifest.json`**, in the `source` and `license` fields.
 That is the authoritative record: it is per-file, it is machine-checked in CI, and it is what a tool
 should read. This document is the human-readable summary of the same information — it groups the
-files so you can see the shape of the corpus without reading 1,526 manifest entries. **Where this
-summary and a manifest entry disagree, the manifest entry is the one to trust**, and the
+files so you can see the shape of the corpus without reading 1,782 manifest entries (1,526 in the
+original units, 256 in the short-horizon practice set). **Where this summary and a manifest entry
+disagree, the manifest entry is the one to trust**, and the
 disagreement is a bug in this file worth reporting.
 
 Two things are worth knowing before anything else:
@@ -16,12 +20,15 @@ Two things are worth knowing before anything else:
    third-party documents in this corpus, and we do not offer it over them. About 99% of the corpus
    was written by someone other than the organizers.
 2. **Most of the corpus is U.S. Government work and is in the public domain** — 605 of the 999
-   files (27.77 MB). You may do essentially anything with those, including commercially. For 379 of
-   the remaining 394 files — speeches and statements by non-US central banks, three documents of
+   files of the original units (27.77 MB), and 116 of the 146 files of the short-horizon practice
+   set (8.26 MB). You may do essentially anything with those, including commercially. For 379 of
+   the original units' remaining 394 files — speeches and statements by non-US central banks, three documents of
    two non-US finance ministries, and a few corporate documents — **the issuing institution's own
    terms govern**, and we assert no redistribution grant of our own. They are here as frozen
    evidence for an offline benchmark. See
-   [What we do not know](#what-we-do-not-know).
+   [What we do not know](#what-we-do-not-know). The other 30 files of the short-horizon practice set
+   come from issuers whose reuse terms are published, and each manifest entry states them; see
+   [The short-horizon practice set](#the-short-horizon-practice-set).
 
 ---
 
@@ -46,7 +53,8 @@ position below is stated explicitly rather than left to a link.
 
 Counts are file **instances** on disk. Units each carry their own copy of the documents they use, so
 the same document often appears in several units: the 999 instances are **683 distinct documents**.
-Sizes are the bytes on disk.
+Sizes are the bytes on disk. The counts in this section are those of the original 103 practice units
+and the worked example; the short-horizon practice set has [its own section](#the-short-horizon-practice-set).
 
 ### U.S. Government works — public domain (605 files, 27.77 MB)
 
@@ -107,7 +115,7 @@ files and nowhere else**.
 | `em_transfer_early` | 5 | CNY, INR, BRL | **Source not established — see below** |
 | `macro_monthly` | 4 | CPI, PCE, NFP, unemployment rate | BLS and BEA via FRED, as the ALFRED vintage published on each card's as-of date (index base as then published) — public domain |
 
-All five panel types carry **raw published values redistributed as-is** — yields in percent, quoted
+All five panel types of the original units carry **raw published values redistributed as-is** — yields in percent, quoted
 FX rates, raw CPI index levels, raw daily factor returns. They are not derived series we own. The
 organizers' contribution is the container only: renaming to canonical asset IDs, a business-day
 calendar filter, gap-fill, truncation at the as-of date, and reprojection to long format. The
@@ -243,7 +251,7 @@ doing so would manufacture a claim we cannot support. **Unresolved; needs an own
 
 ### Organizer-authored material
 
-Our own work is covered by the repository's `LICENSE` (MIT):
+Our own work is covered by the repository's `LICENSE` (MIT). In the original units:
 
 - the **7 organizer-written text files** — 1 exemplar stub in the example unit and 6 synthetic
   regression fixtures;
@@ -252,6 +260,10 @@ Our own work is covered by the repository's `LICENSE` (MIT):
   `panel_description.md` and `run_example.sh`;
 - the **selection, arrangement, cutting and formatting** of every panel and corpus, as distinct from
   the underlying data.
+
+The short-horizon practice set adds its 22 `manifest.json`, `card.toml`, `forecast_card.md`,
+`forecast_spec.json` and `text/corpus_index.json` files, and `practice-answers/README.md` and
+`SHA256SUMS`.
 
 **The example unit's two "exemplar stubs" are not the same kind of thing, and only one of them is
 ours.** Measured over the bytes:
@@ -267,6 +279,73 @@ ours.** Measured over the bytes:
   the real 2024-05-01 minutes is 11 words of stock phrasing. It is an organizer-written paraphrase in
   the style of FOMC minutes. Note that the file's own trailer calls itself a "representative public
   excerpt", which overstates it — treat the manifest entry, not the trailer, as the record.
+
+## The short-horizon practice set
+
+22 units whose ids end in `-ps1`, split `public-dev`: 8 on UST bills, 11 on emerging-market
+exchange rates and 3 on G10 exchange rates. They ship **146 text files** (140 distinct documents,
+9,143,893 bytes) and **22 Parquet panels** (2,081,611 bytes), recorded in 256 manifest entries. Their realized values ship outside the unit tree, in
+`practice-answers/`.
+
+### Text (146 files)
+
+Every document is official and was published before its card's as-of date. Each card holds 6 to 8.
+The set has no distractor documents: no speeches or other texts on unrelated topics.
+Each third-party file's manifest `source` names its official URL and the publisher's terms, and
+says what the organizers changed; the U.S. Government files name their agency and its site.
+
+| Group | Files | Distinct | Bytes | What it is | Manifest `license` |
+|---|---:|---:|---:|---|---|
+| Federal Reserve Board | 66 | 61 | 3,786,451 | FOMC statements, FOMC minutes (dated by their release) and Beige Books, from federalreserve.gov | `LicenseRef-US-Gov-Public-Domain` |
+| Bureau of Labor Statistics | 42 | 41 | 4,824,591 | CPI and Employment Situation news releases | `LicenseRef-US-Gov-Public-Domain` |
+| U.S. Department of the Treasury | 8 | 8 | 50,251 | Quarterly refunding statements, a borrowing estimate, a debt-limit letter | `LicenseRef-US-Gov-Public-Domain` |
+| European Central Bank | 6 | 6 | 4,322 | Monetary policy decision press releases that print "Reproduction is permitted provided that the source is acknowledged." | `LicenseRef-ECB-Reproduction-Permitted` |
+| Banco de México | 5 | 5 | 196,767 | Monetary policy decisions and minutes | `LicenseRef-Source-Terms` |
+| Banco Central do Brasil | 6 | 6 | 105,487 | Copom statements and minutes, in Portuguese, from the BCB open-data portal | `ODbL-1.0` |
+| National Treasury, South Africa | 3 | 3 | 114,450 | Budget and MTBPS speeches delivered by three ministers, one each | `LicenseRef-Source-Terms` |
+| Statistics South Africa | 4 | 4 | 11,941 | Extracts of CPI releases | `LicenseRef-Source-Terms` |
+| Korea Policy Briefing (korea.kr) | 4 | 4 | 26,104 | Ministry press releases on pages marked KOGL Type 1 | `LicenseRef-Source-Terms` |
+| PIB and PMO archive (India) | 2 | 2 | 23,529 | A ministry release published by PIB, and a Prime Minister's statement from the 2004–14 archive | `LicenseRef-Source-Terms` |
+
+The rights basis of each group is in [`THIRD-PARTY-NOTICES.md`](../THIRD-PARTY-NOTICES.md) and
+[`DATA-LICENSE.md`](../DATA-LICENSE.md). The set includes no text of the South African Reserve Bank,
+the Reserve Bank of India or the Bank of Korea, whose reuse terms are not established, and the
+cards on those currencies say where their text is thin.
+
+**Cleaning.** Page navigation, and the cover and imprint pages of the budget speeches, are removed,
+and so are the release-schedule lines of the Statistics South Africa releases. A sentence or line that
+only gives contact details (a person's or office's telephone number or e-mail address, including
+numbers split across a line break, or a "Contact:" line) is removed whole, with any heading it
+leaves empty and no placeholder left behind. Where such a number sits inside a sentence that says
+something else, such as a policy measure, only the number is removed and the sentence stays. In
+one speech, quotations of copyrighted third-party works are removed with the sentences that carry
+or introduce them. Each file's manifest `source` states every change, with counts, including every
+header, title or dateline line the organizers added and every table re-laid out as plain text.
+
+### Panels (22 files)
+
+| Panel file | Files | Bytes | Contents | Basis |
+|---|---:|---:|---|---|
+| `rates_daily` | 8 | 544,436 | `UST_3M`, `UST_6M`, `UST_1Y` and `UST_2Y` to `UST_30Y`, from 2000-01-03 (FRED `DGS3MO`, `DGS6MO`, `DGS1`, `DGS2` to `DGS30`) | Treasury par yields, Federal Reserve H.15 via FRED — public domain |
+| `g10_fx_daily` | 3 | 437,943 | The ten G10 rates against the US dollar, quoted as on the other practice cards, from 2000-01-03 | Federal Reserve H.10 via FRED — public domain |
+| `em_fx_ecb_daily` | 11 | 1,099,232 | `MXN`, `BRL`, `ZAR`, `KRW`, `INR`, units of the currency per US dollar, from 2009-01-02 | **Computed by the organizers** from the ECB's euro foreign exchange reference rates as currency per euro divided by US dollars per euro, in full float64 precision, without rounding; the ECB does not publish these rates. ECB terms of use (<https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html>), modification stated |
+
+Each panel ends on its card's as-of day. Apart from the
+cross-calculation of `em_fx_ecb_daily`, which is a modification of the ECB's data and is stated as
+one, the organizers' contribution is the container, as for the original panels: canonical asset
+ids, long format, the business-day calendar of the source itself, and truncation at the as-of.
+
+### Answers (`practice-answers/`, 22 files)
+
+One Parquet file per unit, `practice-answers/<unit_id>.parquet`, with 53 values in all: one row per
+target asset and horizon, in the columns `draw` (always 0), `asset`, `horizon`, `value` and
+`target_date`. Every target date is in 2022 or earlier. Each value is read from the same series as
+the card's panel, on the target date. [`practice-answers/README.md`](../practice-answers/README.md) gives
+each file's source and rights basis, and `practice-answers/SHA256SUMS` pins the bytes. These files
+are not in any unit's manifest; a unit directory holds no answer.
+
+*The figures in this section were measured on 2026-10-18. Re-measure before publishing if the
+units have changed since.*
 
 ## How the text was cleaned
 
@@ -314,6 +393,9 @@ later than the release is conservative for the cutoff gate.
 ## What we do not know
 
 These are gaps, not formalities, and none of them is filled with a guess.
+
+The gaps below concern the original 103 practice units and the worked example. In the short-horizon
+practice set, every third-party file records its official URL and its publisher's terms.
 
 **1. We cannot say where 649 of the 999 text files were retrieved from.**
 
@@ -414,8 +496,10 @@ classification here was derived by reading documents, and reading can be wrong.
 
 Everything above was **measured on this tree**, not inferred from filenames.
 
-- **Enumeration.** 999 `.txt` files totalling 36,080,910 bytes and 116 unit Parquet panels
-  totalling 13,860,758 bytes, from the working tree of this revision. Five paths contain non-ASCII
+- **Enumeration.** In the original units, the worked example and `regression_suite/` (six fixture
+  texts), 999 `.txt` files totalling 36,080,910 bytes and 116 unit
+  Parquet panels totalling 13,860,758 bytes, from the working tree of this revision. The
+  short-horizon practice set was measured separately from its manifests (see its section). Five paths contain non-ASCII
   characters (`bis_cœuré_*` ×3,
   `bis_constâncio_*` ×2) and are handled with Unicode NFC normalisation.
 - **Classification by content, not filename.** Every speech document had its byline read to identify
@@ -456,12 +540,13 @@ Everything above was **measured on this tree**, not inferred from filenames.
   over-strict pattern produced a **false negative** on the Apple copyright notice, which a second
   check confirmed is genuinely present; and the SNB copyright notice, first recorded against all
   three `bis_jordan_*` files, is present in **one**.
-- **Integrity.** sha256 and length were recomputed for all **1,526** manifest entries against disk:
+- **Integrity.** sha256 and length were recomputed for all **1,526** manifest entries of the original
+  units against disk:
   **1,526 OK, 0 mismatches.** Apart from the cleaning pass described in
   [How the text was cleaned](#how-the-text-was-cleaned), no file bytes were modified in establishing
   any of this; the other corrections are to manifest metadata and to this document.
 
-*Counts describe this tree as re-measured on 2026-10-01, after the target-central-bank decisions,
+*Counts for the original units describe this tree as re-measured on 2026-10-01, after the target-central-bank decisions,
 key-event documents and other speeches were added; the unit Parquet total was re-measured on
 2026-09-27, after the monthly practice panels were rebuilt. Re-measure before publishing if the tree
 has changed since.*

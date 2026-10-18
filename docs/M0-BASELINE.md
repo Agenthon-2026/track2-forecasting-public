@@ -67,10 +67,17 @@ yours, is the reference row on the leaderboard.
 | The divisor formulas | **Published** | §5. They need M0's forecast distribution and nothing else. |
 | The generator's source code | **Not published** | It runs on the organizers' copies of the cards, including the sealed cards and fields that released cards do not carry. |
 | Every `ref_scale.json` file | **Not shipped** | Computed from the card's inputs only (§5), so not answer-equivalent. On a released card you can compute the values yourself; a sealed card's inputs are sealed, so its values stay with the organizers until results are released. |
-| Realized outcomes | **Sealed** | The competition's whole firewall. |
+| Realized outcomes | **Sealed**, except on the short-horizon practice set | The competition's whole firewall. The one exception is the 22 historical units of the short-horizon practice set (ids ending in `-ps1`), whose values are published in `practice-answers/` so you can score them locally. |
 
 **What a scale depends on.** A scale is M0's *expected* error, computed from the card's inputs
 alone (§5).
+
+**Local scores on the short-horizon practice set are raw.** Its answers ship, its scale files do
+not: `scoring.py score --realized practice-answers/<unit_id>.parquet` divides by nothing and reports
+`"normalization_mode": "raw_unrankable"`. A raw score is in the units of what the card forecasts, so
+it is not on the leaderboard's scale and not comparable across cards. To put one card on that scale,
+compute M0's expected error for each component from the card's inputs (§3 and §5), divide, and apply
+the weights as [CONCEPTS.md §13](CONCEPTS.md) describes.
 
 The scorer's own boundary is unchanged. It reads a scale only as the `ref_scale.json` directly
 inside a card's `reference/` directory, which on the ranked path sits under the organizer's
@@ -229,7 +236,10 @@ dates, with two exceptions. The worked exemplar in §4 carries them in its `card
 The four monthly-panel cards listed below name each target's observation month in
 `forecast_spec.json`, under `targets.observation_periods`; that is the month being forecast, not a
 release date (see [MONTHLY-HORIZONS.md](MONTHLY-HORIZONS.md)). On every other card step 1's
-fallback fires for you, and you use the declared horizon.
+fallback fires for you, and you use the declared horizon. The short-horizon practice units' cards
+carry no target dates either, but their answer files do (`practice-answers/<unit_id>.parquet`,
+column `target_date`). With those dates, steps 1–5 keep the declared horizon on every one of their
+cells, so the fallback gives the same walk.
 
 On daily panels that costs you nothing: the counted and declared values land within 2x of each
 other, so step 5 keeps the declared horizon and M0 does the same. **On the four released cards that
@@ -405,8 +415,8 @@ the card asks for, `[scoring.params] tail_metric`, defaulting to `pinball`
 (`qfbench2_track_forecasting/tail.py`, `DEFAULT_TAIL_METRIC`). A scale and the scorer that divides
 by it must be built under the same tail metric — the two metrics are not in the same units, and
 mixing them is meaningless rather than merely imprecise. No released card overrides it — measured
-2026-10-02, none of the 104 declares `tail_metric` — so in practice the default is what every card
-is scored under.
+2026-10-02, none of the 104 declares `tail_metric`, and on 2026-10-18 none of the 22 short-horizon
+practice units does — so in practice the default is what every card is scored under.
 
 Because the divisor needs no outcome, a card's scale can be built before its outcome exists. The
 three values are stored **raw** in `reference/ref_scale.json`, as before: the scale is not

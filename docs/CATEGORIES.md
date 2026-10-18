@@ -49,8 +49,11 @@ Each section below covers:
 - **An example card** — what the task specification looks like
 - **Common mistakes** — what to watch out for
 
-The as-of gaps, horizons, assets and examples in each section describe the practice cards. **The
-cards that rank the Final** share one as-of, Monday 26 October 2026. Their series are UST yields at
+The as-of gaps, horizons, assets and examples in each section describe the original 103 practice
+cards. **The short-horizon practice set** (22 cards whose ids end in `-ps1`) is shaped like the
+ranked Final instead: each card's as-of is a Monday, and every UST and exchange-rate target is 1 to 4
+business days later, on the Tuesday to Friday of the same week. Its realized values are
+published in `practice-answers/` (see the README). **The cards that rank the Final** share one as-of, Monday 26 October 2026. Their series are UST yields at
 the practice cards' 2- to 30-year tenors plus the 3-month, 6-month and 1-year bills, and the G10 and
 five emerging-market exchange rates (MXN, BRL, ZAR, KRW, INR) against the US dollar, taken from the
 ECB's euro foreign exchange reference rates, with targets 1 to 4 business days after the as-of, in
@@ -114,8 +117,10 @@ the intended stress for F1.
 
 ### As-of date and leakage rules
 
-- The as-of date must be at least **6 calendar months** before the first target date.
-  Example: as-of `2023-07-03` → earliest target date `2024-01-03`.
+- On the original practice cards, the as-of date is at least **6 calendar months** before the
+  first target date. Example: as-of `2023-07-03` → earliest target date `2024-01-03`. On the
+  short-horizon practice set and the ranked Final, targets are 1 to 4 business days after the
+  as-of (see the note at the top).
 - The panel available to the agent ends strictly at the as-of date. No row with
   `date > asof` may appear in any input panel file.
 - The text corpus contains only documents with timestamps on or before the as-of date.
@@ -216,8 +221,9 @@ with a seen anchor). But for multi-asset regime-shift cards, joint behavior matt
 
 ### As-of date and leakage rules
 
-- The as-of date must be at least **3 calendar months** before any target date.
-  Example: as-of `2023-04-03` → earliest target `2023-07-03`.
+- On the original practice cards, the as-of date is at least **3 calendar months** before any
+  target date. Example: as-of `2023-04-03` → earliest target `2023-07-03`. On the short-horizon
+  practice set and the ranked Final, targets are 1 to 4 business days after the as-of.
 - The text corpus contains only documents with timestamps on or before the as-of date.
   The regime-shift signal is in the pre-asof text — the whole point of F2 is that the
   text warns in advance. The staging gates reject any corpus document dated after the asof before the unit ships.
@@ -319,9 +325,11 @@ recommends >= 500.
 
 ### As-of date and leakage rules
 
-- The as-of date must be at least **1 calendar month** before the first target date.
-  (Shorter than F1/F2 because the dependence structure, not the forecast horizon, is the
-  test.) Example: as-of `2024-01-02` → earliest target `2024-02-02`.
+- On the original practice cards, the as-of date is at least **1 calendar month** before the
+  first target date. (Shorter than F1/F2 because the dependence structure, not the forecast
+  horizon, is the test.) Example: as-of `2024-01-02` → earliest target `2024-02-02`. On the
+  short-horizon practice set and the ranked Final, targets are 1 to 4 business days after the
+  as-of.
 - All target assets must be excluded from the panel after the as-of date.
 - The text corpus contains only documents with timestamps <= as-of date. The staging gates enforce
   this before the unit ships. A post-asof FOMC release would constitute leakage if it informed the joint forecast.
@@ -382,9 +390,11 @@ all tenors should produce draws where the tenors co-move realistically.
 F4 is the stress test for extreme events driven by text signals. The text corpus carries a live risk
 channel or a scheduled event inside the window — for example a central bank communication warning of
 exceptional measures, or a scheduled policy decision or data release. The as-of date is set before
-the window. On the practice cards the window was chosen around a shock that then happened. **On the
-cards that rank the Final it is not:** they are built before their outcomes are published, so an F4 card
-does not promise that a shock happens.
+the window. On the original 103 practice cards the window was chosen around a shock that then
+happened. **On the short-horizon practice set and on the cards that rank the Final it is not:** the
+short-horizon set's weeks were drawn by a fixed seed from events announced in advance, never by the
+size of the move that followed, and the ranked cards are built before their outcomes exist. So
+there, an F4 card does not promise that a shock happens.
 
 The agent must read the text, recognize the shock signal, and assign **meaningful probability
 to extreme outcomes** — even if the recent numeric history looks calm. This is where text
@@ -433,11 +443,13 @@ the draw distribution accordingly." Use at least 1,000 draws for F4 cards.
 
 ### As-of date and leakage rules
 
-- On the practice cards, the as-of date precedes the shock event by at least the forecast horizon:
-  for a 63-BD (approximately 3-month) card whose window covers Q1 2022, the as-of date is no later
-  than approximately 2021-10-01. On the cards that rank the Final, every value they forecast is
-  first published after the as-of (the UST and exchange-rate targets fall 1 to 4 business days after
-  it), and no shock is promised.
+- On the original practice cards, the as-of date precedes the shock event by at least the forecast
+  horizon: for a 63-BD (approximately 3-month) card whose window covers Q1 2022, the as-of date is
+  no later than approximately 2021-10-01. On the short-horizon practice set, the scheduled event
+  falls inside the Tuesday-to-Friday window after the Monday as-of, or an official document dated
+  before the as-of names the live risk channel; no shock is promised. On the cards that rank the
+  Final, every value they forecast is first published after the as-of (the UST and exchange-rate
+  targets fall 1 to 4 business days after it), and no shock is promised.
 - The text corpus contains only documents with timestamps <= as-of date. The risk-channel or
   shock-foreshadowing text is in the pre-asof corpus. The staging gates reject any corpus document dated after the asof before the unit ships.
 - No post-event data may appear in the input panel. This includes Fed funds futures, swap
@@ -539,16 +551,18 @@ retrieval strategy.
 
 ## Quick reference: per-family checklist
 
-The as-of gaps below describe the practice cards. On the cards that rank the Final, every UST and
-exchange-rate target is 1 to 4 business days after the shared as-of, Monday 26 October 2026; a
-data-release card forecasts the next figure of a monthly official statistic, first released between
-27 and 30 October.
+The as-of gaps below describe the original 103 practice cards. On the short-horizon practice set,
+every UST and exchange-rate target is 1 to 4 business days after a Monday as-of. On the cards that
+rank the Final, every
+UST and exchange-rate target is 1 to 4 business days after the shared as-of, Monday 26 October 2026;
+a data-release card forecasts the next figure of a monthly official statistic, first released
+between 27 and 30 October.
 
 ### F1
 - [ ] All target assets are present in the training panel through the as-of date
 - [ ] Text corpus has timestamps <= as-of date (`cutoff.scan_text_corpus_cutoff` checks this at staging)
 - [ ] Agent actually reads and uses the text corpus (not just the panel)
-- [ ] As-of date >= 6 calendar months before first target date
+- [ ] As-of date >= 6 calendar months before first target date (original practice cards)
 - [ ] n_draws >= 200; per-asset standard deviation > 0
 - [ ] No NaN or Inf in any draw value
 
@@ -558,7 +572,7 @@ data-release card forecasts the next figure of a monthly official statistic, fir
 - [ ] For transfer-configuration: target series is **entirely absent** from all input panel files
 - [ ] Text corpus has timestamps <= as-of date
 - [ ] Distribution is appropriately asymmetric if text implies directional risk
-- [ ] As-of date >= 3 calendar months before first target date
+- [ ] As-of date >= 3 calendar months before first target date (original practice cards)
 - [ ] n_draws >= 200
 
 ### F3
@@ -568,13 +582,13 @@ data-release card forecasts the next figure of a monthly official statistic, fir
 - [ ] `require_samples = true` — samples format mandatory
 - [ ] Model uses a multivariate approach (not independent-marginal sampling)
 - [ ] Text corpus has timestamps <= as-of date
-- [ ] As-of date >= 1 calendar month before first target date
+- [ ] As-of date >= 1 calendar month before first target date (original practice cards)
 
 ### F4
 - [ ] `require_samples = true` — samples format mandatory, Gaussian parametric rejected
 - [ ] n_draws >= 200 (strongly recommend >= 1000 for tail accuracy)
 - [ ] Distribution has fat tails informed by text shock signals
 - [ ] Text-driven tail direction is correct (right-skewed for rate hikes, etc.)
-- [ ] Every value the card forecasts is first published after the as-of date (ranked UST and exchange-rate cards: the as-of precedes every target date; practice cards: it precedes the regime event by at least the forecast horizon)
+- [ ] Every value the card forecasts is first published after the as-of date (ranked UST and exchange-rate cards and short-horizon practice cards: the as-of precedes every target date; original practice cards: it precedes the regime event by at least the forecast horizon)
 - [ ] Text corpus has timestamps <= as-of date; no post-event documents
 - [ ] No post-event information in model weights or input panels

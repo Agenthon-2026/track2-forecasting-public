@@ -140,8 +140,13 @@ synthetic illustration, not a competition result. Repeat the comparison to asses
 difference is reliable before attributing it to text.
 
 Run and report this experiment separately; the submission interface does not provide another
-slot for an ablated forecast. Public practice units have no realized references, so a local
-run on them can show output validity or a change in predictions, but cannot measure accuracy.
+slot for an ablated forecast. The original 103 public practice units have no realized
+references, so a local run on them can show output validity or a change in predictions, but
+cannot measure accuracy. The 22 units of the short-horizon practice set (ids ending in `-ps1`,
+horizons of 1 to 4 business days) do: their realized values are in `practice-answers/` (see the
+README, "Short-horizon practice set"), so on them a local ablation can compare both forecasts
+against the same outcomes. Those local scores are raw, not divided by the baseline's expected
+error (section 13).
 Similar full and ablated scores show little measured benefit on the tested data, not proof
 that the model never used the text.
 
@@ -289,8 +294,12 @@ where y is the realized outcome, q_hat is the quantile value from your draws, an
 tau is the quantile level (0.01, 0.05, 0.95, or 0.99).
 
 In F4 (tail/shock-from-text) cards, the tail penalty is where reasoning agents should
-visibly outperform text-blind baselines: the text foreshadows the shock before the numbers
-show it, letting the agent assign meaningful tail probability before the event.
+visibly outperform text-blind baselines. On the original 103 practice cards the text foreshadows
+a shock that then happened, before the numbers show it, letting the agent assign meaningful tail
+probability before the event. On the short-horizon practice set and on the cards that rank the
+Final, an F4 corpus carries a live risk channel or a scheduled event inside the window, and no
+card promises that a shock happens: the tail penalty rewards tails sized to that risk, not a bet
+that the shock comes.
 
 ### PIT (Probability Integral Transform)
 

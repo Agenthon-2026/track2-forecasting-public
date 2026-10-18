@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F1-fx-inr-010-ps1",
+  "asof": "2015-07-20",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_minutes_20150429_released_2015-05-20",
+      "timestamp": "2015-05-20",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20150429_released_2015-05-20.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20150617",
+      "timestamp": "2015-06-17",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20150617.txt"
+    },
+    {
+      "doc_id": "empsit_2015-07-02",
+      "timestamp": "2015-07-02",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2015-07-02.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20150617_released_2015-07-08",
+      "timestamp": "2015-07-08",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20150617_released_2015-07-08.txt"
+    },
+    {
+      "doc_id": "beigebook_2015-07-15",
+      "timestamp": "2015-07-15",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201507.txt"
+    },
+    {
+      "doc_id": "cpi_2015-07-17",
+      "timestamp": "2015-07-17",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2015-07-17.txt"
+    }
+  ]
+}

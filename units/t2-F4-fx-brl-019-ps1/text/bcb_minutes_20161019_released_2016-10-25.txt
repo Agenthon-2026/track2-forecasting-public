@@ -1,0 +1,342 @@
+# source: https://www.bcb.gov.br/api/servico/sitebcb/copom/atas_detalhes?nro_reuniao=202 | date: 2016-10-25 | type: central_bank_minutes | via: Banco Central do Brasil, Documentos do Copom open-data API (ODbL)
+
+Ata da 202ª reunião do Copom
+Banco Central do Brasil, 25 October 2016
+
+Notas da 202ª Reunião do
+Comitê de Política Monetária (Copom)
+do Banco Central do Brasil
+
+18 e 19 de outubro de 2016
+
+Data: 18 e 19/10/2016
+
+Local: Sala de reuniões do 21º andar (18/10) e do 20º andar (19/10) do Edifício-Sede do Banco Central do
+Brasil – Brasília – DF
+Horário de início: 10h09 (18/10), 14h38 (18/10) e 14h04 (19/10)
+Horário de término: 12h03 (18/10), 18h28 (18/10) e 18h20 (19/10)
+
+[Lista de presentes omitida pelos organizadores.]
+
+Os membros do Copom analisaram a evolução recente e as perspectivas para a economia brasileira e para
+a economia internacional, no contexto do regime de política monetária, cujo objetivo é atingir as metas
+fixadas pelo Conselho Monetário Nacional para a inflação. Material suplementar a estas Notas, com
+análise da evolução recente de indicadores da conjuntura econômica, está disponível no sítio do Banco
+Central do Brasil (http://www.bcb.gov.br?COPOMMATSUP202).
+
+A) Atualização da conjuntura
+econômica e do cenário básico do
+Copom 1
+
+1. O conjunto dos indicadores divulgados desde a
+última reunião do Copom sugere atividade
+econômica um pouco abaixo do esperado no curto
+prazo. Em particular, indicadores referentes a agosto
+situaram-se abaixo do esperado.
+
+2. A economia segue operando com alto nível de
+ociosidade dos fatores de produção, refletido nos
+índices de utilização da capacidade da indústria e,
+principalmente, na taxa de desemprego.
+
+3. Oscilações no atual estágio do ciclo econômico são
+comuns e provavelmente explicam os resultados
+recentes. No seu conjunto, a evidência disponível é
+compatível com estabilização recente da economia
+brasileira. Índices de confiança, expectativas de
+crescimento do PIB 2 para 2017 apuradas pela
+pesquisa Focus e o comportamento de prêmios de
+risco e preços de ativos apontam para uma possível
+retomada gradual da atividade econômica.
+
+4. No âmbito externo, o cenário ainda apresenta
+interregno benigno para economias emergentes,
+refletido no comportamento dos preços de ativos.
+No entanto, a dinâmica da economia global
+permanece frágil, com incertezas quanto ao seu
+crescimento. Além disso, manifestações recentes de
+membros do FOMC 3 sinalizaram a possibilidade de
+novos aumentos de juros ainda neste ano, gerando
+incerteza sobre os efeitos de uma eventual retomada
+do processo de normalização das condições
+monetárias nos Estados Unidos.
+
+5. Voltando à economia doméstica, a inflação
+recente mostrou-se mais favorável que o esperado,
+em parte em decorrência da reversão da alta de
+preços de alimentos. Tais resultados contribuíram
+para um recuo das expectativas apuradas pela
+pesquisa Focus para a inflação medida pelo IPCA 4
+para o ano corrente, que se situam em torno de 7,0%.
+As expectativas de inflação apuradas pela mesma
+pesquisa para 2017 recuaram para em torno de 5,0%,
+e seguem acima da meta para a inflação, de 4,5%. As
+expectativas para 2018 e horizontes mais distantes já
+se encontram em torno desse patamar.
+
+6. Para a trajetória de preços administrados por
+contrato e monitorados, que compõem as projeções
+condicionais para a inflação produzidas pelo Copom,
+projeta-se variação de 6,2% em 2016, 5,8% em 2017
+e 5,1% em 2018 – mesmos números do Relatório de
+Inflação (RI) mais recente.
+
+7. O cenário de referência supõe, entre outras
+hipóteses, taxas de juros e câmbio inalteradas em
+14,25% ao ano (a.a.) e R$3,20/US$, respectivamente,
+por todo o horizonte de projeção. O cenário de
+mercado utiliza as trajetórias para taxas de juros e
+câmbio apuradas pela pesquisa Focus. Em particular,
+supõe taxa de câmbio de R$3,25/US$, R$3,40/US$ e
+R$3,50/US$ ao final de 2016, 2017 e 2018,
+respectivamente, e taxas de juros de 13,50% a.a.,
+11,00% a.a. e 10,00% a.a. ao final dos mesmos
+períodos.
+
+8. As projeções do Copom para a inflação de 2016
+nos cenários de referência e mercado recuaram
+desde a divulgação do último RI e encontram-se em
+torno de 7,0%.
+
+9. No horizonte relevante para a condução da política
+monetária, o comportamento das projeções em
+relação ao RI mais recente variou conforme o cenário.
+No cenário de referência, a projeção para 2017
+recuou para aproximadamente 4,3%, enquanto que a
+projeção para 2018 encontra-se em torno de 3,9%.
+No cenário de mercado, a projeção para 2017
+manteve-se praticamente inalterada em torno de
+4,9% e a projeção para 2018 aumentou para
+aproximadamente 4,7% – ambas acima da meta para
+a inflação para esses dois anos-calendário, de 4,5%.
+
+B) Riscos em torno do cenário básico
+para a inflação
+
+10. A experiência brasileira recente, com período
+prolongado de inflação alta e expectativas acima da
+meta, ainda pode reforçar mecanismos inerciais. Há
+sinais de uma pausa recente no processo de
+desinflação dos componentes do IPCA mais sensíveis
+ao ciclo econômico e à política monetária, o que pode
+sinalizar convergência mais lenta da inflação à meta.
+Nesse contexto, uma maior persistência inflacionária
+requer persistência maior da política monetária.
+
+11. Por outro lado, o processo contínuo de distensão
+do mercado de trabalho e a desaceleração
+significativa da atividade econômica podem, a
+princípio, produzir uma desinflação mais rápida (por
+exemplo, no setor de serviços) que a refletida nas
+expectativas de inflação medidas pela pesquisa
+Focus e nas projeções condicionais produzidas pelo
+Copom.
+
+12. O processo de aprovação e implementação dos
+ajustes necessários na economia, inclusive de
+natureza fiscal, apresenta-se, ao mesmo tempo,
+como um risco e uma oportunidade para o processo
+desinflacionário em curso. Os primeiros passos nesse
+processo foram positivos, o que pode sinalizar maior
+celeridade e probabilidade de aprovação. Por outro
+lado, o processo é longo e envolve incertezas. A
+redução da incerteza potencializaria os efeitos da
+política monetária.
+
+C) Discussão sobre a condução da
+política monetária
+
+13. Os membros do Comitê debateram a evolução da
+atividade econômica no curto prazo, à luz das
+estatísticas mais recentes, e concordaram que os
+indicadores referentes a agosto situaram-se abaixo
+do esperado. Entretanto, ponderaram que oscilações
+dessa natureza tendem a ocorrer no momento de
+estabilização. Em particular, após processo de
+retração da atividade econômica como o observado
+nos últimos dois anos, é provável que o processo de
+estabilização envolva flutuações relevantes nesse
+estágio do ciclo econômico. Nesse contexto, os
+membros do Comitê concordaram que a evidência
+disponível é compatível com estabilização recente da
+economia brasileira e possível retomada gradual da
+atividade econômica.
+
+14. No que tange à conjuntura internacional, os
+membros do Comitê destacaram a continuidade de
+um ambiente relativamente benigno para ativos de
+economias emergentes. Entretanto, permanecem as
+incertezas quanto ao processo de normalização da
+política monetária nos Estados Unidos. Todos os
+membros do Comitê concordaram sobre a
+necessidade de se monitorar o ritmo de normalização
+da política monetária nos Estados Unidos e suas
+possíveis implicações sobre a economia brasileira.
+Também houve consenso sobre a permanência dos
+riscos de médio e longo prazos no âmbito externo,
+associados à fragilidade do nível de atividade
+econômica global.
+
+15. O Comitê analisou suas projeções condicionais
+para a inflação nos diversos cenários. O Copom
+concluiu que a evolução das projeções no cenário de
+referência no horizonte relevante, que abrange os
+anos-calendário de 2017 e 2018, indica haver espaço
+para flexibilização gradual e moderada da política
+monetária. Por outro lado, as projeções no cenário de
+mercado sugerem haver limites para a magnitude
+dessa flexibilização nesse mesmo horizonte.
+
+16. Os membros do Copom ressaltaram que, além da
+análise das projeções condicionais para a inflação, a
+evolução favorável dos fatores enfatizados pelo
+Copom no Comunicado de agosto (201ª reunião) abre
+espaço para o início de um processo de flexibilização
+gradual e moderada da política monetária.
+
+17. Em relação à inflação corrente, os membros do
+Comitê mencionaram os resultados favoráveis no
+curto prazo e a queda das projeções para 2016. O
+movimento de transmissão da queda dos preços de
+alimentos do atacado para o varejo parece ter tido
+continuidade, e não há evidência de efeitos
+secundários do choque de preços de alimentos sobre
+outros preços na economia. Expectativas de inflação
+para 2016 apuradas pela pesquisa Focus
+apresentaram recuo compatível com essa avaliação.
+
+18. As projeções condicionais para a inflação
+produzidas pelo Copom supõem trajetória de preços
+administrados por contrato e monitorados próxima à
+utilizada no RI mais recente. Uma série de fatores
+podem vir a produzir mudanças nessas projeções. Em
+particular, os membros do Comitê mencionaram: (i) a
+mudança na política de preços de combustíveis
+anunciada recentemente; (ii) evidências de reduções
+de preços de energia elétrica mais fortes que o
+esperado em algumas regiões; (iii) possibilidade de
+adiamento de reajustes de preços de transporte
+urbano em algumas cidades; e (iv) risco de reajustes
+acima do esperado nos preços da energia elétrica ao
+longo de 2017, em decorrência, entre outros fatores,
+de mudança de bandeira tarifária.
+
+19. O Copom analisou a evolução da inflação de
+serviços e seus componentes. Os membros do
+Comitê destacaram o progresso obtido no processo
+de desinflação desse componente do IPCA. Em
+relação aos resultados mais recentes, os membros do
+Copom argumentaram que a queda recente se deve,
+em alguma medida, à reversão de movimento
+anterior em itens mais voláteis, e à evolução de
+componentes sensíveis à recente desinflação nos
+preços de alimentos. Ao considerar diferentes
+medidas com itens mais sensíveis ao ciclo econômico
+e à política monetária, os membros do Comitê
+concluíram que há sinais de uma pausa recente no
+processo de desinflação que vinha sendo observado
+nesses componentes, já considerados efeitos
+sazonais. Ressaltaram, ainda, que a pausa se dá em
+níveis cuja manutenção produziria trajetória de
+desinflação em velocidade aquém da contemplada
+no cenário básico do Copom. Esse cenário pressupõe
+uma trajetória de queda gradual à frente. Dessa
+forma, os membros do Comitê ressaltaram que é
+necessário monitorar a retomada dessa trajetória.
+
+20. Todos os membros do Comitê reconheceram os
+avanços e os esforços para aprovação e
+implementação dos ajustes na economia,
+notadamente no que diz respeito a reformas fiscais.
+Os membros do Comitê enfatizaram que esses
+esforços são fundamentais para a estabilização e o
+desenvolvimento da economia brasileira. O Comitê
+deve acompanhar atentamente esses esforços, uma
+vez que têm reflexos importantes no processo de
+desinflação. Há consenso no Comitê de que a
+velocidade no processo de apreciação das propostas
+de ajustes tem excedido as expectativas. Entretanto,
+a natureza longa e incerta do processo sugere que há,
+ao mesmo tempo, risco e oportunidade. Todos
+concordaram que as implicações do processo de
+ajustes na economia para a dinâmica da inflação
+dependem não somente dos impactos de medidas de
+curto prazo sobre a demanda agregada, mas também
+da percepção de melhora da dinâmica das contas
+públicas no médio e longo prazos.
+
+21. O Comitê reafirmou seu objetivo de conduzir a
+política monetária visando atingir a meta para a
+inflação no horizonte relevante, que abrange os
+anos-calendário de 2017 e 2018. Nesse contexto, o
+Copom entende que o ritmo de flexibilização
+monetária será calibrado, sempre levando em conta
+as suas projeções de inflação e seus fatores
+determinantes, de modo a perseguir uma trajetória
+que permita cumprir a meta para a inflação para 2017
+e 2018. O Comitê avalia, portanto, que atualmente
+não há incompatibilidade entre esses dois objetivos.
+
+22. O Comitê entende que, ao apresentar suas
+projeções condicionais para a inflação e destacar
+fatores que possam dar maior confiança no alcance
+das metas, aumenta a transparência, reforça sua
+comunicação e potencializa os efeitos da política
+monetária.
+
+23. Nesse contexto, os membros do Copom
+discutiram ainda as implicações de explicitar
+condicionalidades econômicas para o ritmo e para a
+magnitude da flexibilização da política monetária
+iniciada. O Comitê concluiu que condicionar a
+evolução futura da política monetária a fatores
+relevantes para a inflação transmite de maneira mais
+adequada a racionalidade econômica que guia as suas
+decisões.
+
+D) Decisão de política monetária
+
+24. Considerando o cenário básico, o balanço de
+riscos e o amplo conjunto de informações
+disponíveis, o Copom decidiu, por unanimidade, pela
+redução da taxa básica de juros para 14,00% a.a., sem
+viés.
+
+25. O Comitê entende que a convergência da
+inflação para a meta para 2017 e 2018 é compatível
+com uma flexibilização moderada e gradual das
+condições monetárias. O Comitê avaliará o ritmo e a
+magnitude da flexibilização monetária ao longo do
+tempo, de modo a garantir a convergência da inflação
+para a meta de 4,5%.
+
+26. A magnitude da flexibilização monetária e uma
+possível intensificação do seu ritmo dependerão de
+evolução favorável de fatores que permitam maior
+confiança no alcance das metas para a inflação no
+horizonte relevante para a condução da política
+monetária, que inclui os anos-calendário de 2017 e
+2018. O Comitê destaca os seguintes fatores
+domésticos: (i) que os componentes do IPCA mais
+sensíveis à política monetária e à atividade
+econômica retomem claramente uma trajetória de
+desinflação em velocidade adequada; e (ii) que o
+ritmo de aprovação e implementação dos ajustes
+necessários na economia contribuam para uma
+dinâmica inflacionária compatível com a
+convergência da inflação para a meta. O Comitê
+avaliará a evolução da combinação desses fatores.
+
+27. Votaram por essa decisão os seguintes membros
+do Comitê: Ilan Goldfajn (Presidente), Anthero de
+Moraes Meirelles, Carlos Viana de Carvalho, Isaac
+Sidney Menezes Ferreira, Luiz Edson Feltrim, Otávio
+Ribeiro Damaso, Reinaldo Le Grazie, Sidnei Corrêa
+Marques e Tiago Couto Berriel.
+
+Notes
+
+1 A menos de menção explícita em contrário, esta atualização leva em conta as mudanças ocorridas desde a data de divulgação do Relatório de Inflação de setembro de 2016.
+2 Produto Interno Bruto.
+3 Federal Open Market Committee.
+4 Índice Nacional de Preços ao Consumidor Amplo.

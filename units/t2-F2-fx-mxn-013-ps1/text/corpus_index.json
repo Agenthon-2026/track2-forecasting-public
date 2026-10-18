@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F2-fx-mxn-013-ps1",
+  "asof": "2019-06-24",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "banxico_mp_decision_2019-05-16",
+      "timestamp": "2019-05-16",
+      "source": "Banco de México",
+      "doc_type": "central_bank_decision",
+      "file": "banxico_mp_decision_2019-05-16.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20190501_released_2019-05-22",
+      "timestamp": "2019-05-22",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20190501_released_2019-05-22.txt"
+    },
+    {
+      "doc_id": "banxico_minutes_20190516_released_2019-05-30",
+      "timestamp": "2019-05-30",
+      "source": "Banco de México",
+      "doc_type": "central_bank_minutes",
+      "file": "banxico_minutes_20190516_released_2019-05-30.txt"
+    },
+    {
+      "doc_id": "beigebook_2019-06-05",
+      "timestamp": "2019-06-05",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201906.txt"
+    },
+    {
+      "doc_id": "empsit_2019-06-07",
+      "timestamp": "2019-06-07",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2019-06-07.txt"
+    },
+    {
+      "doc_id": "cpi_2019-06-12",
+      "timestamp": "2019-06-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2019-06-12.txt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F4-curve-ust3m-008-ps1",
+  "asof": "2017-04-17",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "beigebook_2017-03-01",
+      "timestamp": "2017-03-01",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201703.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20170315",
+      "timestamp": "2017-03-15",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20170315.txt"
+    },
+    {
+      "doc_id": "ust_extraordinary_measures_2017-03-16",
+      "timestamp": "2017-03-16",
+      "source": "U.S. Department of the Treasury",
+      "doc_type": "treasury_extraordinary_measures",
+      "file": "ust_extraordinary_measures_2017-03-16.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20170315_released_2017-04-05",
+      "timestamp": "2017-04-05",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20170315_released_2017-04-05.txt"
+    },
+    {
+      "doc_id": "empsit_2017-04-07",
+      "timestamp": "2017-04-07",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2017-04-07.txt"
+    },
+    {
+      "doc_id": "cpi_2017-04-14",
+      "timestamp": "2017-04-14",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2017-04-14.txt"
+    }
+  ]
+}

@@ -86,9 +86,10 @@ Tracks 2, 3 and 4 retain 5 per day.
 
 Development runs through **October 12, 2026**. The joint **Final + Verification phase** is the Final
 upload window, from **13 October 2026, 12:00 UTC** to **25 October 2026, 23:59 AoE** (26 October,
-11:59 UTC): each team makes **one final submission per track** in it. On Track 2, each Final upload
-gets one **unranked check run** on sealed cards during the window, to show that the image runs and
-writes valid forecasts; as with every Final run, you see its status, not its per-card details. The
+11:59 UTC). On Track 2 a team may make **up to two Final uploads** in it, at most one per UTC day,
+and **the later one is its entry**: a second upload replaces the first. Each Final upload gets one
+**unranked check run** on sealed cards during the window, to show that the image runs and writes
+valid forecasts; as with every Final run, you see its status, not its per-card details. The
 **ranked run** happens after the window closes, on cards built from data up to Monday 26 October
 2026: UST and exchange-rate cards, with every target date between 27 and 30 October 2026 (1 to 4
 business days after the as-of) and exchange rates taken from the ECB's euro foreign exchange
@@ -99,8 +100,8 @@ until the results are published. On every track, organizers verify the top entri
 so verification can end after 25 October; on Track 2 that is after the ranked runs. No track needs a
 separate participant Verification submission.
 
-If two Final submissions finish this track with the same ranking score, the tie is broken in
-favour of the one uploaded earlier.
+If two teams' entries finish this track with the same ranking score, the tie is broken in
+favour of the entry uploaded earlier.
 Registration and Development close together on October 12, 2026 at **23:59 Anywhere on Earth (AoE, UTC−12)**. The joint Final + Verification phase closes on October 25, 2026 at **23:59 AoE**. Other competition dates are unchanged; on Track 2, the Final's cards, ranking and results follow the timeline above.
 Development has one deadline, 12 October 2026 at 23:59 AoE (13 October, 11:59 UTC): every valid
 Development upload made before then is run, even if its run starts after the close. The 20:00 UTC

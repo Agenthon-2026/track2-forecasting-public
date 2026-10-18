@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F4-fx-mxn-018-ps1",
+  "asof": "2012-11-05",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "banxico_minutes_20120907_released_2012-09-21",
+      "timestamp": "2012-09-21",
+      "source": "Banco de México",
+      "doc_type": "central_bank_minutes",
+      "file": "banxico_minutes_20120907_released_2012-09-21.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20120913_released_2012-10-04",
+      "timestamp": "2012-10-04",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20120913_released_2012-10-04.txt"
+    },
+    {
+      "doc_id": "beigebook_2012-10-10",
+      "timestamp": "2012-10-10",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201210.txt"
+    },
+    {
+      "doc_id": "cpi_2012-10-16",
+      "timestamp": "2012-10-16",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2012-10-16.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20121024",
+      "timestamp": "2012-10-24",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20121024.txt"
+    },
+    {
+      "doc_id": "banxico_mp_decision_2012-10-26",
+      "timestamp": "2012-10-26",
+      "source": "Banco de México",
+      "doc_type": "central_bank_decision",
+      "file": "banxico_mp_decision_2012-10-26.txt"
+    },
+    {
+      "doc_id": "empsit_2012-11-02",
+      "timestamp": "2012-11-02",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2012-11-02.txt"
+    }
+  ]
+}

@@ -12,7 +12,8 @@ forecast, and how it will be scored. Designing a good card requires care in seve
 (1) assembling the time-series panels; (2) assembling the time-stamped text corpus;
 (3) setting the as-of date (the information cutoff for both panels and text);
 (4) specifying target assets and horizons; (5) assigning the card to a family (F1–F4);
-(6) writing the sealed realized-outcome key (which goes in `private/`, never `public/`);
+(6) writing the sealed realized-outcome key (which goes in `private/`, never `public/`; the
+short-horizon practice set's published answers are the one scoped exception, see Step 6);
 and (7) running the leakage check for both panel rows and text document timestamps.
 
 **The two most common card authoring mistakes are:**
@@ -174,7 +175,7 @@ information cutoff for both panels and text. Everything the agent sees must have
 the panel ends on 2021-10-01 but the text corpus contains a document dated 2021-11-03 is
 invalid. Gate g2 checks both.
 
-**Minimum gap rules:**
+**Minimum gap rules (the original 103 practice units):**
 
 | Family | Minimum gap | Reason |
 |--------|------------|--------|
@@ -182,6 +183,15 @@ invalid. Gate g2 checks both.
 | F2 Text-cued regime shift | asof >= 3 calendar months before first target | Medium-horizon; text is the key signal |
 | F3 Cross-asset reasoning | asof >= 1 calendar month before first target | Dependence structure, not horizon, is the test |
 | F4 Tail/shock-from-text | asof must precede the shock by >= forecast horizon | Agent must not know the shock has started |
+
+These gaps do not apply to the **short-horizon practice set** (ids ending in `-ps1`) or to the
+cards that rank the Final. Those use horizons of **1 to 4 business days** in every family: the
+as-of is a Monday and every UST and exchange-rate target falls on the Tuesday to Friday of the
+same week. The
+short-horizon set's weeks are drawn by a fixed seed from official lists of events announced in
+advance, never by the size of the move that followed. Its F4 cards need a scheduled event inside
+the Tuesday-to-Friday window, or an official document in the corpus that names the live risk
+channel; none promises a shock.
 
 **Leakage check (mandatory) — panels:**
 
@@ -240,6 +250,9 @@ calendar date from the as-of date.
 - F3 cards: typically 21 and 63 BD; the dependence structure is the focus.
 - F4 cards: horizon determined by the shock event window.
 
+These are the original practice units' ranges. On the short-horizon practice set every card uses
+1 to 4 BD from a Monday as-of.
+
 ---
 
 ## Step 5 — Assign the card to a family
@@ -252,11 +265,11 @@ which breaks comparability with other cards in the same family.
 | F1 | Target assets are all present in the training panel through the as-of date; testing whether text adds incremental signal |
 | F2 | Text signals a regime change before the panel numbers move; or the target asset is absent from the panel |
 | F3 | Multiple target assets; cross-asset dependence (text about one implies moves in others) is the test |
-| F4 | On the practice cards, the window spans a shock that the text corpus foreshadows. On the cards that rank the Final, the corpus carries a live risk channel or a scheduled event inside the window, with no promise of a shock. Tail calibration is the test |
+| F4 | On the original practice cards, the window spans a shock that the text corpus foreshadows. On the short-horizon practice set and the cards that rank the Final, the corpus carries a live risk channel or a scheduled event inside the window, with no promise of a shock. Tail calibration is the test |
 
 A card can have characteristics of multiple families. Use these tie-breaking rules:
 - If the target series is absent from the panel → F2 (the exclusion rule dominates)
-- If the window spans a shock AND assets are multi-variate → F4 (tails dominate). This describes the practice cards; for the Final, see the F4 row above.
+- If the window spans a shock AND assets are multi-variate → F4 (tails dominate). This describes the original practice cards; for the short-horizon practice set and the Final, see the F4 row above.
 - If multi-asset joint but no shock → F3
 - Otherwise → F1
 
@@ -293,6 +306,16 @@ private/units/<card_id>/reference/realized.parquet
 - Do NOT reference realized values in any public card description or example output.
 - The `final_scorer.py` in `private/scoring/` is the ONLY process that reads this file.
 - The file must cover ALL asset x horizon combinations in `[targets]`.
+
+**One scoped exception: the short-horizon practice set.** Its units are `public-dev` cards with
+historical targets, and their realized values are published on purpose so participants can score
+them locally. The private `reference/realized.parquet` stays where it is. A separate export of the
+same values, with the same columns (`draw`, `asset`, `horizon`, `value`, `target_date`, the date
+as an ISO string), goes to `practice-answers/<unit_id>.parquet` in the public repository, outside
+`units/`, with `practice-answers/README.md` and `practice-answers/SHA256SUMS`. Nothing in the unit
+directory points to it or echoes a value: a unit is mounted at `/input` as it is, and must stay
+answer-free like a Final input. The exception covers those files only; it never extends to a
+`validation` unit, to another practice unit or to a Final card (see `AGENTS.md`, hard rule 1).
 
 ---
 
@@ -350,7 +373,7 @@ Work through this list in order. All boxes must be checked before the card enter
 - [ ] Corpus index (`corpus_index.json` or equivalent) lists all documents with timestamps
 
 **As-of date and targets:**
-- [ ] Minimum gap rule for the declared family is satisfied
+- [ ] Minimum gap rule for the declared family is satisfied (original practice units; short-horizon practice units: 1 to 4 BD from a Monday as-of)
 - [ ] The as-of date is no later than 2024-12-31 (to ensure target dates are finalized)
 - [ ] `cutoff_ok(asof, target_dates)` returns `True`
 - [ ] `[targets] leakage_checked = true` is set
@@ -360,7 +383,7 @@ Work through this list in order. All boxes must be checked before the card enter
 - [ ] `private/units/<card_id>/reference/realized.parquet` exists
 - [ ] realized.parquet covers all asset x horizon combinations
 - [ ] realized.parquet is NOT under any `public/` path
-- [ ] No public file references or echoes any realized value
+- [ ] No public file references or echoes any realized value (one exception: a short-horizon practice unit's values are exported to `practice-answers/<unit_id>.parquet`, and no unit file points to them)
 
 **Scoring and format:**
 - [ ] `n_draws_min = 200` (at minimum)
@@ -395,8 +418,11 @@ own cutoff; it cannot rescan the corpus, because the scoring program never sees 
 The two staging scans share one purpose: ensuring the agent sees only information available on
 the as-of date.
 
-**Why the minimum gap?** A 1-day forecasting horizon would be trivially predictable. The gaps
-chosen (1-6 months by family) target the range where models genuinely differentiate.
+**Why the minimum gap?** On the original practice units, the gaps chosen (1-6 months by family)
+target the range where models genuinely differentiate. The short-horizon practice set and the
+ranked Final use 1 to 4 business days instead, so that every ranked outcome is first published after
+the upload deadline and can be scored within days. At that range the text that matters most is
+about events scheduled inside the window.
 
 **Why `require_samples = true` for F3 and F4?** A Gaussian mean + covariance matrix can
 represent any linear correlation structure, but it cannot represent fat tails (F4) or

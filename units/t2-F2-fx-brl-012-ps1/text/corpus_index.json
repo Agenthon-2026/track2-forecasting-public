@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F2-fx-brl-012-ps1",
+  "asof": "2018-07-30",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_statement_20180613",
+      "timestamp": "2018-06-13",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20180613.txt"
+    },
+    {
+      "doc_id": "bcb_mp_decision_2018-06-20",
+      "timestamp": "2018-06-20",
+      "source": "Banco Central do Brasil",
+      "doc_type": "central_bank_decision",
+      "file": "bcb_mp_decision_2018-06-20.txt"
+    },
+    {
+      "doc_id": "bcb_minutes_20180620_released_2018-06-26",
+      "timestamp": "2018-06-26",
+      "source": "Banco Central do Brasil",
+      "doc_type": "central_bank_minutes",
+      "file": "bcb_minutes_20180620_released_2018-06-26.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20180613_released_2018-07-05",
+      "timestamp": "2018-07-05",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20180613_released_2018-07-05.txt"
+    },
+    {
+      "doc_id": "empsit_2018-07-06",
+      "timestamp": "2018-07-06",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2018-07-06.txt"
+    },
+    {
+      "doc_id": "cpi_2018-07-12",
+      "timestamp": "2018-07-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2018-07-12.txt"
+    },
+    {
+      "doc_id": "beigebook_2018-07-18",
+      "timestamp": "2018-07-18",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201807.txt"
+    }
+  ]
+}

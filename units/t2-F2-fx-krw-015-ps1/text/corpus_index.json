@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F2-fx-krw-015-ps1",
+  "asof": "2021-03-15",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_statement_20210127",
+      "timestamp": "2021-01-27",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20210127.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20210127_released_2021-02-17",
+      "timestamp": "2021-02-17",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20210127_released_2021-02-17.txt"
+    },
+    {
+      "doc_id": "empsit_2021-03-05",
+      "timestamp": "2021-03-05",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2021-03-05.txt"
+    },
+    {
+      "doc_id": "cpi_2021-03-10",
+      "timestamp": "2021-03-10",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2021-03-10.txt"
+    },
+    {
+      "doc_id": "korea_kr_motie_2021-03-11_156440787",
+      "timestamp": "2021-03-11",
+      "source": "Ministry of Trade, Industry and Energy (via korea.kr)",
+      "doc_type": "government_press_release",
+      "file": "korea_kr_motie_2021-03-11_156440787.txt"
+    },
+    {
+      "doc_id": "korea_kr_moef_2021-03-12_156440914",
+      "timestamp": "2021-03-12",
+      "source": "Ministry of Economy and Finance (via korea.kr)",
+      "doc_type": "government_press_release",
+      "file": "korea_kr_moef_2021-03-12_156440914.txt"
+    }
+  ]
+}

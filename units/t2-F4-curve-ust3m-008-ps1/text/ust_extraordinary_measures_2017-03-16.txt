@@ -1,0 +1,154 @@
+# source: https://home.treasury.gov/system/files/276/Description_of_Extraordinary_Measures_2017_03_16.pdf | date: 2017-03-16 | type: treasury_extraordinary_measures
+
+DEPARTMENT OF THE TREASURY
+WASHINGTON, D.C.
+
+Description of the Extraordinary Measures
+March 16, 2017
+Secretaries of the Treasury in both Republican and Democratic administrations have
+exercised their authority to take certain extraordinary measures in order to prevent the United States
+from defaulting on its obligations as Congress deliberated on increasing the debt limit. Four of
+these extraordinary measures are available at this time. The other measures that have been taken in
+the past are either unavailable or of limited use.
+The extraordinary measures currently available are: (1) suspending sales of State and Local
+Government Series Treasury securities; (2) redeeming existing, and suspending new, investments of
+the Civil Service Retirement and Disability Fund and the Postal Service Retiree Health Benefits
+Fund; (3) suspending reinvestment of the Government Securities Investment Fund; and (4)
+suspending reinvestment of the Exchange Stabilization Fund. These measures are described in
+more detail below.
+
+1. State and Local Government Securities
+The Treasury Department has authority to suspend its issuance of State and Local
+Government Series Treasury securities (SLGS). This, however, is a limited measure that does not
+create headroom under the debt limit.
+SLGS are special purpose Treasury securities issued to state and local government entities.
+In ordinary times, the Treasury Department issues SLGS to state and local governments to assist
+these governments in complying with Federal tax laws when they have cash proceeds to invest from
+their issuance of tax exempt bonds. When Treasury issues these securities, they count against the
+debt limit. There is no statutory or other requirement for the Treasury Department to issue SLGS;
+they are issued in order to assist state and local governments, and Treasury may suspend SLGS
+sales as the debt subject to limit approaches the debt limit.
+This action does not free up headroom under the debt limit. Rather, it conserves headroom
+(i.e., it eliminates increases in debt that would count against the debt limit if issued).
+Approximately $3 to $13 billion in SLGS are issued per month, although this amount is subject to
+substantial variation from month to month. Some state and local governments issuing certain types
+of new debt after the SLGS sales are suspended will have to invest the proceeds in alternative assets
+in order to remain in compliance with tax law.
+2. Declaring a “Debt Issuance Suspension Period”
+Once the debt limit has been reached, Treasury has authority to take actions regarding
+investments under the Civil Service Retirement and Disability Fund (CSRDF) and the Postal
+Service Retiree Health Benefits Fund (PSRHBF).
+
+The CSRDF provides defined benefits to retired and disabled Federal employees covered by
+the Civil Service Retirement System. The fund is invested in special-issue Treasury securities,
+which count against the debt limit.
+The PSRHBF provides postal service retiree health benefit premium payments. The fund is
+invested in special-issue Treasury securities, which count against the debt limit.
+a. Declaring a “Debt Issuance Suspension Period”
+Congress has given Treasury statutory authority to take certain actions in the event of a debt
+limit impasse. Specifically, the statute authorizes the Secretary of the Treasury to determine that
+Treasury will be unable to fully invest the CSRDF and the PSRHBF and that a “debt issuance
+suspension period” exists. Once the Secretary has done so, Treasury can (1) suspend new
+investments, and (2) redeem certain existing investments in both the CSRDF and the PSRHBF.
+The Secretary of the Treasury does not have unlimited discretion to declare a debt issuance
+suspension period. Under the statute that governs the CSRDF and the PSRHBF, the term “debt
+issuance suspension period” means a period of time that the Treasury Secretary determines that
+Treasury securities cannot be issued without exceeding the debt limit. The determination of the
+length of the period must be based on the facts as they exist at the time.1
+Declaring a debt issuance suspension period is a limited measure that relates only to the
+CSRDF and PSRHBF; it has no impact on any other investments or any other portion of the debt.
+Moreover, it only provides limited additional time. For each month of a declared debt issuance
+suspension period, approximately $6.9 billion in headroom for CSRDF and $400 million in
+headroom for PSRHBF is freed up through the early redemption of existing investments held by
+both the CSRDF and PSRHBF respectively. Thus, a three-month debt issuance suspension period,
+for example, would free up approximately $21.9 billion in headroom at the beginning of the debt
+issuance suspension period.2 However, because these redemptions would have otherwise occurred
+over the course of the debt issuance suspension period, as of the end of the debt issuance suspension
+period there is no net increase in headroom created as a result of the early redemption.
+During a debt issuance suspension period, civil service benefit payments and postal retiree
+health benefit payments would continue to be made as long as the United States has not yet
+exhausted the extraordinary measures. Once the extraordinary measures have been exhausted,
+however, the U.S. Government will be limited in its ability to make payments across the
+government. After the debt limit impasse has ended, the statute provides that the CSRDF and the
+PSRHBF is to be made whole.3 Therefore employees and retirees are unaffected by these actions.
+b. One-time measure available in June.
+The same statute that authorizes Treasury to redeem existing investments during a debt
+issuance suspension period also authorizes Treasury to suspend new investments by the CSRDF.
+On June 30, approximately $70 billion in CSRDF investments mature. In addition, an interest
+payment of an estimated $13 billion is scheduled to be made to the fund on that date. Ordinarily the
+proceeds of the maturing investments would be reinvested and the interest payment would be
+invested. If, however, a debt issuance suspension period is in place at this time, Treasury may
+suspend these investments.4 Suspending these investments would free up and conserve a combined
+total of approximately $83 billion in headroom. In addition, the Postal Accountability and
+Enhancement Act of 2006 provides that investments in the PSRHBF shall be made in the same
+manner as investments for the CSRDF. Investing the PSRHBF in the same manner as the CSRDF
+would free up approximately $4 billion in headroom.5 It should be understood that this suspension
+of investment is a one-time measure: it is only available at the end of June.
+
+3. Government Securities Investment Fund of the Federal Employees Retirement System (G
+Fund)
+Once the debt limit has been reached, Treasury may also suspend the daily reinvestment of
+the Treasury securities held by the G Fund of the Federal Employees Retirement System Thrift
+Savings Plan.
+The G Fund is a money market defined-contribution retirement fund for Federal employees.
+The fund is invested in special-issue Treasury securities, which count against the debt limit. The
+entire balance matures daily and is ordinarily reinvested. Congress has granted Treasury the
+statutory authority to suspend reinvestment of all or part of the balance of the G Fund when the
+Secretary determines that the fund cannot be fully invested without exceeding the debt limit.6
+Using this measure immediately frees up headroom under the debt limit. Because the
+G Fund balance is approximately $225 billion, using this measure can immediately create up to
+approximately $225 billion in headroom.
+During the period of the investment suspension, payments from the G Fund continue to be
+made as long as the United States has not yet exhausted the extraordinary measures. Once the
+extraordinary measures have been exhausted, however, the U.S. Government will be limited in its
+ability to make payments across the government. After the debt limit impasse has ended, the G
+Fund is made whole.7 Therefore participants in the Thrift Savings Plan who contribute to the G
+Fund are unaffected by the actions described above.
+4. Exchange Stabilization Fund
+Treasury may also suspend the daily reinvestment of Treasury securities held by the
+Exchange Stabilization Fund (ESF).
+The ESF has a number of uses, including purchasing or selling foreign currencies. A portion
+of the ESF is held in U.S. dollars, and the dollar-balance of the ESF is invested in special-issue
+Treasury securities, which count against the debt limit. The entire dollar-balance matures daily.
+There is no requirement that the Treasury Department invest the ESF, so Treasury may suspend the
+investment of the dollar-balance of the ESF during a debt limit impasse.
+Suspending the daily reinvestment of the dollar-balance of the ESF immediately frees up
+headroom under the debt limit. Because the dollar-balance of the ESF is approximately $22 billion,
+this would create up to approximately $22 billion in headroom.
+
+After a debt limit impasse, the interest lost by the ESF is not restored: there is no existing
+authority to reimburse the ESF for lost interest during the period that the dollar-balance is not
+invested.
+*
+
+*
+
+*
+
+Other Measures Used in the Past Are No Longer Available or of Limited Use
+The other measures that have been used in past debt limit impasses in order to postpone the
+date by which the debt limit needed to be increased are either not available or of limited use.
+First, although in the past Treasury Secretaries have suspended the issuance of U.S. savings
+bonds to the public, doing so now would be of little benefit. Suspending the issuance of U.S.
+savings bonds would not free up any headroom under the debt limit. As is the case with suspending
+sales of SLGS, suspending the sales of savings bonds would only eliminate increases in debt that
+would count against the debt limit if the securities were issued. Moreover, suspending such sales
+conserves very little headroom.8 Second, measures relating to the Federal Financing Bank (FFB)
+are of limited use.9 Third, a measure previously used, involving the calling in of cash that Treasury
+kept on deposit at banks, is no longer available: Treasury no longer keeps these balances.10 Finally,
+Congress has in the past provided one-time tools in the midst of a debt limit impasse;11 those
+authorities expired nearly 20 years ago.
+
+Notes
+
+1 This determination does not preclude the Secretary from making a new determination at a later time with respect to the period of time that securities cannot be issued without exceeding the debt limit, including as the result of any consideration of changed circumstances.
+2 The statute governing the CSRDF and PSRHBF gives Treasury authority to redeem existing Treasury securities held by the CSRDF and PSRHBF in an amount up to the amount of civil service benefit payments and postal service retiree health benefit premium payments authorized to be made from the CSRDF and PSRHBF respectively during the debt issuance suspension period. 5 U.S.C. § 8348(k). Treasury makes approximately $6.9 billion in civil service benefit payments from the CSRDF and $400 million in postal service retiree health benefit premium payments from the PSRHBF each month. Therefore, declaring a three-month debt issuance suspension period would allow Treasury to redeem approximately $20.7 billion of the Treasury securities held by the CSRDF and $1.2 billion of the Treasury securities held by the PSRHBF, freeing up approximately $21.9 billion in headroom. The statute also authorizes Treasury to suspend new investments by the CSRDF and PSRHBF. The CSRDF receives approximately $2.9 billion in new employer and employee contributions each month. Therefore, each month approximately $2.9 billion in headroom that would otherwise be used is conserved.
+3 After the debt limit impasse has ended, Treasury is required to put the CSRDF and PSRHBF investment portfolio into the position it would have been in if the impasse had not occurred, and to restore lost interest on the next regularly scheduled interest payment date on the Treasury securities held by the CSRDF and PSRHBF.
+4 Similarly, on September 30, the CSRDF will receive a statutory contribution of approximately $37 billion from the general fund of the Treasury, and on December 31 an interest payment of an estimated $13 billion is scheduled to be made to the CSRDF. Ordinarily, these contributions would be invested. If, however, a debt issuance suspension period is in place on the particular dates when these contributions are made, Treasury may suspend these investments.
+5 On June 30, approximately $3 billion in PSRHBF investments mature and an interest payment of approximately $1 billion is due. Ordinarily the proceeds of the maturing investments would be reinvested and the interest payment would be invested. But with the investment suspension authority available, Treasury may suspend these investments.
+6 5 U.S.C. § 8438(g).
+7 Treasury is required to restore lost interest on the next business day.
+8 Sales of savings bonds increase the amount of debt by less than $200 million per month on average.
+9 In the past, Treasury was able to free up headroom under the debt limit by entering into multi-step exchange transactions with FFB and the CSRDF, swapping obligations that do not count against the debt limit for an equal amount of Treasury securities held by the CSRDF that do count against the debt limit. In each case, FFB used the Treasury securities that it received from the CSRDF to pay down its borrowings from Treasury. Treasury extinguished the Treasury securities received from the FFB to create headroom. The potential to use such an exchange transaction is of limited use at this time because FFB has a limited amount of obligations available to exchange.
+10 In the past, Treasury had an ability to increase its cash balance without increasing debt by calling in the non-interest-bearing balances that Treasury formerly kept on deposit at banks to compensate them for fiscal services they provided to Treasury. That option is no longer available because Treasury discontinued keeping those “compensating balances” after Congress appropriated funding to Treasury in 2004 to pay directly for fiscal services.
+11 Specifically, in 1996, in order to enable Treasury to pay the March 1996 Social Security benefits, Congress passed legislation that permitted Treasury to issue a limited amount of Treasury securities that were temporarily excluded from being counted against the debt limit. In addition, Congress passed legislation that temporarily excluded from being counted against the debt limit the new Treasury securities that Treasury issued to federal trust funds in March 1996 to invest new trust fund receipts and to reinvest the proceeds of maturing trust fund investments. Those exclusions from the debt limit expired on March 30, 1996.

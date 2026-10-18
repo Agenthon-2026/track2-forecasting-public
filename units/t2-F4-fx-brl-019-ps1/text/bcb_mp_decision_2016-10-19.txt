@@ -1,0 +1,30 @@
+# source: https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados_detalhes?nro_reuniao=202 | date: 2016-10-19 | type: central_bank_decision | via: Banco Central do Brasil, Documentos do Copom open-data API (ODbL)
+
+Comunicado do Copom, 202ª reunião: Copom reduz a taxa Selic para 14,00% ao ano
+Banco Central do Brasil, 19 October 2016
+
+O Copom decidiu, por unanimidade, reduzir a taxa Selic para 14,00% a.a., sem viés.
+
+O cenário básico do Copom pode ser resumido pelas seguintes observações:
+
+O conjunto dos indicadores divulgados desde a última reunião do Copom sugere atividade econômica um pouco abaixo do esperado no curto prazo, provavelmente em virtude de oscilações que normalmente ocorrem no atual estágio do ciclo econômico. A evidência disponível é compatível com estabilização recente da economia brasileira e possível retomada gradual da atividade econômica. A economia segue operando com alto nível de ociosidade;
+
+No âmbito externo, o cenário ainda apresenta interregno benigno para economias emergentes. No entanto, as incertezas sobre o crescimento da economia global e, especialmente, sobre a normalização das condições monetárias nos EUA persistem;
+
+A inflação recente mostrou-se mais favorável que o esperado, em parte em decorrência da reversão da alta de preços de alimentos;
+
+As expectativas de inflação apuradas pela pesquisa Focus para 2017 recuaram para em torno de 5,0% desde o último Copom e do Relatório de Inflação (RI) do terceiro trimestre, e seguem acima da meta para a inflação, de 4,5%. As expectativas para 2018 e horizontes mais distantes já se encontram em torno desse patamar; e
+
+As projeções do Copom para a inflação de 2016 nos cenários de referência e mercado recuaram desde a divulgação do último RI e encontram-se em torno de 7,0%. No horizonte relevante para a condução da política monetária, o comportamento das projeções em relação ao RI mais recente variou conforme o cenário. No cenário de referência, a projeção para 2017 recuou para aproximadamente 4,3%, enquanto que a projeção para 2018 encontra-se em torno de 3,9%. No cenário de mercado, a projeção para 2017 manteve-se praticamente inalterada em torno de 4,9% e a projeção para 2018 aumentou para aproximadamente 4,7% – ambas acima da meta para a inflação para esses dois anos-calendário, de 4,5%.
+
+O Comitê identifica os seguintes riscos domésticos para o cenário básico para a inflação:
+
+Por um lado, (i) o processo de aprovação e implementação dos ajustes necessários na economia é longo e envolve incertezas; (ii) o período prolongado com inflação alta e com expectativas acima da meta ainda pode reforçar mecanismos inerciais e retardar o processo de desinflação; (iii) há sinais de pausa recente no processo de desinflação dos componentes do IPCA mais sensíveis ao ciclo econômico e à política monetária, o que pode sinalizar convergência mais lenta da inflação à meta; e
+
+Por outro lado, (iv) a inflação mostrou-se mais favorável no curto prazo, o que pode sinalizar menor persistência no processo inflacionário; (v) o nível de ociosidade na economia pode produzir desinflação mais rápida do que a refletida nas projeções do Copom; (vi) os primeiros passos no processo de ajustes necessários na economia foram positivos, o que pode sinalizar aprovação e implementação mais céleres que o antecipado.
+
+Considerando o cenário básico, o balanço de riscos e o amplo conjunto de informações disponíveis, o Copom decidiu, por unanimidade, pela redução da taxa básica de juros para 14,00% a.a., sem viés. O Comitê entende que a convergência da inflação para a meta para 2017 e 2018 é compatível com uma flexibilização moderada e gradual das condições monetárias. O Comitê avaliará o ritmo e a magnitude da flexibilização monetária ao longo do tempo, de modo a garantir a convergência da inflação para a meta de 4,5%.
+
+A magnitude da flexibilização monetária e uma possível intensificação do seu ritmo dependerão de evolução favorável de fatores que permitam maior confiança no alcance das metas para a inflação no horizonte relevante para a condução da política monetária, que inclui os anos-calendário de 2017 e 2018. O Comitê destaca os seguintes fatores domésticos: (i) que os componentes do IPCA mais sensíveis à política monetária e à atividade econômica retomem claramente uma trajetória de desinflação em velocidade adequada; e (ii) que o ritmo de aprovação e implementação dos ajustes necessários na economia contribuam para uma dinâmica inflacionária compatível com a convergência da inflação para a meta. O Comitê avaliará a evolução da combinação desses fatores.
+
+Votaram por essa decisão os seguintes membros do Comitê: Ilan Goldfajn (Presidente), Anthero de Moraes Meirelles, Carlos Viana de Carvalho, Isaac Sidney Menezes Ferreira, Luiz Edson Feltrim, Otávio Ribeiro Damaso, Reinaldo Le Grazie, Sidnei Corrêa Marques e Tiago Couto Berriel.

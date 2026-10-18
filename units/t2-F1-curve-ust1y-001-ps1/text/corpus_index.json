@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F1-curve-ust1y-001-ps1",
+  "asof": "2019-01-07",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "ust_refunding_statement_2018-10-31",
+      "timestamp": "2018-10-31",
+      "source": "U.S. Department of the Treasury",
+      "doc_type": "treasury_refunding_statement",
+      "file": "ust_refunding_statement_2018-10-31.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20181108_released_2018-11-29",
+      "timestamp": "2018-11-29",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20181108_released_2018-11-29.txt"
+    },
+    {
+      "doc_id": "beigebook_2018-12-05",
+      "timestamp": "2018-12-05",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201812.txt"
+    },
+    {
+      "doc_id": "cpi_2018-12-12",
+      "timestamp": "2018-12-12",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2018-12-12.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20181219",
+      "timestamp": "2018-12-19",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20181219.txt"
+    },
+    {
+      "doc_id": "empsit_2019-01-04",
+      "timestamp": "2019-01-04",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2019-01-04.txt"
+    }
+  ]
+}

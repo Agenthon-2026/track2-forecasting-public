@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F2-curve-ust1y-003-ps1",
+  "asof": "2011-04-25",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "ust_refunding_statement_2011-02-02",
+      "timestamp": "2011-02-02",
+      "source": "U.S. Department of the Treasury",
+      "doc_type": "treasury_refunding_statement",
+      "file": "ust_refunding_statement_2011-02-02.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20110315",
+      "timestamp": "2011-03-15",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20110315.txt"
+    },
+    {
+      "doc_id": "empsit_2011-04-01",
+      "timestamp": "2011-04-01",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2011-04-01.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20110315_released_2011-04-05",
+      "timestamp": "2011-04-05",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20110315_released_2011-04-05.txt"
+    },
+    {
+      "doc_id": "beigebook_2011-04-13",
+      "timestamp": "2011-04-13",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201104.txt"
+    },
+    {
+      "doc_id": "cpi_2011-04-15",
+      "timestamp": "2011-04-15",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2011-04-15.txt"
+    }
+  ]
+}

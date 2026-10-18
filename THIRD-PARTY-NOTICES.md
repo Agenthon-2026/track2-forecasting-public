@@ -11,7 +11,8 @@ came from.
 "Issuer's terms govern" is not a grant and not a denial — it means the terms have not been
 established from any evidence in this repository, unless the entry quotes the issuer's published
 terms, as it does for the ECB files that print the ECB's permission, the ECB euro reference rates,
-the SNB press release and the HM Treasury document below.
+the SNB press release, the HM Treasury document and every source of the short-horizon practice set
+(units whose ids end in `-ps1`, and their answer files in `practice-answers/`) below.
 
 ## Software
 
@@ -34,7 +35,8 @@ duties carry no copyright. No permission is required and no attribution is oblig
   Bowman, Brainard, Cook, Kugler, Kroszner, Mishkin, Warsh, Waller, Barr, Bies, Duke, Gramlich,
   Jefferson, Quarles, Raskin, Tarullo). This includes
   copies **mirrored on bis.org**: the speaker's employer determines status, not the host site. BIS
-  is a mirror and compiler here, not the author.
+  is a mirror and compiler here, not the author. The short-horizon practice set takes its FOMC
+  documents and Beige Books from federalreserve.gov directly; it carries no Board speeches.
 - **U.S. Bureau of Labor Statistics**, U.S. Department of Labor (bls.gov) — Consumer Price Index and
   Employment Situation news releases, and the CPI/payrolls/unemployment series used in the monthly
   macro panels.
@@ -43,15 +45,19 @@ duties carry no copyright. No permission is required and no attribution is oblig
   trumpwhitehouse.archives.gov and bidenwhitehouse.archives.gov), **U.S. Department of State**
   (2021-2025.state.gov) and **Office of the U.S. Trade Representative** (ustr.gov) — statements,
   briefings, remarks and a quarterly refunding statement added as key-event documents (see
-  `data/LANDMARKS.md`), and the joint statement of the Treasury, FDIC, OCC, OTS and Federal Reserve
+  `data/LANDMARKS.md`); in the short-horizon practice set, the Treasury's quarterly refunding
+  statements, a borrowing estimate and a debt-limit letter; and the joint statement of the Treasury, FDIC, OCC, OTS and Federal Reserve
   of 23 February 2009, published on federalreserve.gov.
 - **U.S. Commodity Futures Trading Commission** (cftc.gov) — Commitments of Traders reports. The
   tabular extracts shipped here are **organizer-formatted renderings** of that public-domain data,
   not verbatim CFTC documents; the formatting layer is MIT.
 - **U.S. Treasury** and **Federal Reserve H.15 Selected Interest Rates** — constant-maturity
-  Treasury par yields underlying the `rates_daily` panels, retrieved via FRED.
+  Treasury par yields underlying the `rates_daily` panels, retrieved via FRED, including the
+  3-month, 6-month and 1-year yields (`DGS3MO`, `DGS6MO`, `DGS1`) of the short-horizon practice
+  set and the values in its UST answer files.
 - **Federal Reserve H.10 Foreign Exchange Rates** — G10 exchange rates underlying the
-  `g10_fx_daily` panels, retrieved via FRED.
+  `g10_fx_daily` panels, retrieved via FRED, including the short-horizon practice set's three G10
+  cards and their answer files.
 - **FRED / ALFRED** (Federal Reserve Bank of St. Louis) — retrieval mechanism for the numeric
   panels above. The underlying series are the issuing agencies' public-domain data.
 - **SEC EDGAR** (incl. EDGAR-CORPUS / EDGAR-CRAWLER) — the SEC's filing and dissemination system.
@@ -73,10 +79,12 @@ are original organizer work under this repository's `LICENSE` (MIT).
 ## Non-U.S. central banks — the issuing institution's terms govern
 
 None of the material below is a U.S. Government work, and **except for the ECB files that print the
-ECB's permission, the ECB euro reference rates and the SNB press release, noted below, no grant to
-the organizers is evidenced anywhere in this repository.** It is neither MIT nor CC-BY-4.0. Those
-are the only ones whose reuse terms are established: the ECB files print them, the ECB publishes its
-terms for the reference rates, and the SNB publishes them on its copyright page.
+ECB's permission, the ECB euro reference rates, the SNB press release and the short-horizon practice
+set's Banco de México and Banco Central do Brasil texts, noted below, no grant to the organizers is
+evidenced anywhere in this repository.** It is neither MIT nor CC-BY-4.0. Those are the only ones
+whose reuse terms are established: the ECB files print them, the ECB publishes its terms for the
+reference rates, the SNB publishes them on its copyright page, Banco de México in its usage policy,
+and the Banco Central do Brasil on its open-data portal.
 Most copies were obtained from the BIS *Central bankers' speeches* archive, which is a host and
 compiler — **BIS authored none of these documents**, and a thin typesetting or compilation layer may
 sit over the underlying text.
@@ -96,16 +104,21 @@ sit over the underlying text.
   (three copies), `bis_lane_2020-02-17.txt`, `bis_lagarde_2020-09-10.txt` and
   `bis_panetta_2022-03-30.txt`; their manifest entries use `LicenseRef-ECB-Reproduction-Permitted`.
   We reproduce them and acknowledge the ECB. The sentence was searched for literally over every text
-  file in the tree and appears in **those eight files and no others**. One further speech,
+  file of the original 103 units and the worked example and appears in **those eight files and no
+  others**. The short-horizon practice set adds ECB monetary policy decision press releases from
+  ecb.europa.eu, each keeping the same printed line, with the same manifest label; their manifests
+  state that media-contact details and page navigation were removed. One further speech,
   `bis_elderson_2022-12-01.txt`, ends with "Copyright 2022, European Central Bank" and no
   permission; the ECB's terms govern it.
-- **European Central Bank, euro foreign exchange reference rates** (ecb.europa.eu) — source of the
-  FX panels and targets of the cards that rank the Final (not shipped in this repository); the G10
-  rates and the MXN, BRL, ZAR, KRW and INR rates against the US dollar are cross-calculated from the
-  ECB's euro rates. The ECB's published terms permit use provided the information is reproduced
-  accurately and the ECB is cited as the source, and require any modification to be stated
-  explicitly: <https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html>.
-  The US-dollar rates are a modification: the organizers compute them from the ECB's euro rates.
+- **European Central Bank, euro foreign exchange reference rates** (ecb.europa.eu, the
+  `eurofxref-hist.zip` history) — source of the short-horizon practice set's `em_fx_ecb_daily`
+  panels and their answer files, which are shipped here, and of the FX panels and targets of the
+  cards that rank the Final, which are not. **The rates against the US dollar are modified data:**
+  the organizers compute them as currency per euro divided by US dollars per euro, in full
+  precision; the ECB does not publish them. The ECB's published terms permit use provided the
+  information is reproduced accurately and the ECB is cited as the source, and require a
+  modification to be stated explicitly (<https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html>).
+  Each panel's manifest `source` and `practice-answers/README.md` state it. Source: ECB.
 - **Bank of Japan** (boj.or.jp) — statements on monetary policy and speeches (Kuroda, Ueda,
   Wakatabe, Shirakawa, Adachi, Nakaso, Noguchi, Masai, Shirai, Sato, Iwata, Uchida, Takata, Fukui).
 - **Bank of England** (bankofengland.co.uk) — Monetary Policy Committee statements and Monetary
@@ -141,7 +154,17 @@ sit over the underlying text.
   Nationalbank** (nationalbanken.dk) — monetary policy decision announcements.
 - **Reserve Bank of New Zealand** (rbnz.govt.nz) — Official Cash Rate
   announcements, copied from Internet Archive captures of the official pages.
-- **Banco Central do Brasil** (bcb.gov.br) — one Copom decision statement.
+- **Banco Central do Brasil** (bcb.gov.br) — one Copom decision statement in the original units,
+  whose terms are not established. The short-horizon practice set's Copom statements and minutes, in
+  the Portuguese original, come from the BCB open-data portal (Portal de Dados Abertos do BCB,
+  dataset "Documentos do Copom"), and those extracts are offered under the **Open Database License
+  (ODbL) v1.0**; their manifest label is `ODbL-1.0`.
+- **Banco de México** (banxico.org.mx) — monetary policy decisions and minutes, in the short-horizon
+  practice set. Banco de México's usage policy
+  (<https://www.banxico.org.mx/footer-en/disclaimer-usage-policies-ban.html>) authorizes the general
+  public to use and reproduce its information provided the source and Banco de México's URL are
+  stated; the Spanish version is the official one. Each manifest `source` names the document's URL
+  and states the title and publisher/date lines the organizers added above the text.
 - **Bank Indonesia** (bi.go.id) — welcoming remarks by Governor Agus D W Martowardojo.
 
 ### Non-U.S. finance ministries
@@ -154,6 +177,31 @@ sit over the underlying text.
   operations, and one joint statement of the Ministry of Finance, the Financial Services Agency and
   the Bank of Japan (10 June 2022, Japanese original, copied from the National Diet Library's WARP
   archive of mof.go.jp). The Ministry's terms of use govern.
+
+### Non-U.S. governments (short-horizon practice set)
+
+- **National Treasury, Republic of South Africa** (treasury.gov.za) — Budget and Medium Term Budget
+  Policy Statement speeches **delivered** by the Minister of Finance, one speech per minister. Under
+  the Copyright Act 98 of 1978, s.12(8)(a), no copyright subsists in speeches of a political nature;
+  s.12(8)(b) keeps the right to make a collection of a speaker's speeches with the speaker, which is
+  why no card carries more than one speech by the same minister. Written media statements are not
+  included. In one speech, quotations of copyrighted third-party works (an opening epigraph and five
+  longer quotations in the text) are removed with the sentences that carry or introduce them, and its
+  manifest states each removal.
+- **Korea Policy Briefing** (korea.kr) — government press releases, taken only from pages marked
+  공공누리 제1유형, the **Korea Open Government License Type 1** (source indication). Text only:
+  photographs, captions and contact details are removed, and each manifest names the item page.
+- **Press Information Bureau, Government of India** (pib.gov.in) and the **Prime Minister's Office
+  archive** (archivepmo.nic.in, the 2004–14 website) — releases. Both sites allow their material to
+  be reproduced free of charge without prior approval, provided it is reproduced accurately and the
+  source is acknowledged (PIB: <https://pib.gov.in/Content/102_2_Copyright-Policy.aspx>). Tables are
+  re-laid out as plain text and a header line is set above the text; the manifest `source` says so.
+- **Statistics South Africa** (statssa.gov.za) — extracts of statistical releases (cover and key
+  findings), wording unaltered, under the notice printed in Stats SA releases, which lets users apply,
+  process, publish or distribute the data provided Stats SA is acknowledged as the original source.
+
+None of these licences is the organizers' to grant: the manifest label is `LicenseRef-Source-Terms`,
+with the publisher's licence named in `source`.
 
 ### Embedded fourth-party rights
 

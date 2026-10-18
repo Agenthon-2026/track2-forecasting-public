@@ -25,15 +25,17 @@ below changes the card text of all 104 cards, and the third that of twenty-seven
 the worked example; the fourth, the fifth and the practice-corpus entry, seventh below, change the
 text of the practice units; the monthly practice-panel entry, eighth below, changes the data and
 notes of four practice units; and the entry after it changes the card text of two monthly practice
-cards. The last entry makes M0's step-count comparison strict. **The Track 2 Final is ranked after
-its upload window closes, on cards built from data up to
+cards. The entry before the last makes M0's step-count comparison strict, and the last adds the
+short-horizon practice set: 22 new practice units, and the realized values of those 22 units only,
+in `practice-answers/`. **The Track 2 Final is ranked after its upload window closes, on cards built from data up to
 Monday 26 October 2026: UST yields at the practice cards' 2- to 30-year tenors plus the 3-month,
 6-month and 1-year bills, and the G10 and five emerging-market exchange rates from the ECB's euro
 foreign exchange reference rates, with targets 1 to 4 business days later (27-30 October); and a few
 monthly official statistics first released between 27 and 30 October. The ranked cards are to be
 scored by the end of October and results are published in early November, with no provisional
-standings. Each Final upload's run in the window is an unranked check. The Final is scored with the
-same rule as Development (entry "Track 2 Final: how it is ranked").**
+standings. Each Final upload's run in the window is an unranked check. A team may make up to two
+Final uploads, at most one per UTC day, and the later one is its entry. The Final is scored with
+the same rule as Development (entry "Track 2 Final: how it is ranked").**
 
 - **Every card is now divided by the text-blind baseline's expected error, and the cap and the
   failure value move from 4.0 to 8.0.** *Scoring:* every Track 2 score changes. The scorer code is
@@ -279,6 +281,11 @@ same rule as Development (entry "Track 2 Final: how it is ranked").**
   cannot run an image that declares a Docker `VOLUME`, including one inherited from its base
   image. Such an upload is marked Failed when its run starts and does not use an attempt; remove
   the `VOLUME` (or choose another base image) and upload again.
+- **Track 2 Final: up to two uploads per team.** The Final & Verification phase now accepts up to
+  two uploads per team, at most one per UTC day; the later upload is the team's entry, and each
+  upload gets its own unranked check run. The schedule paragraphs of `README.md` and
+  `SUBMISSION_CLI.md` say so, and their tie-break sentence now speaks of two teams' entries: the
+  entry uploaded earlier ranks ahead. Scoring, cards and the submission contract: unchanged.
 - **Track 2 Final: how it is ranked.** `README.md` ("Executive summary", "Text corpus", "Practice
   tasks", "The two network modes", "Firewall: what is sealed", "Leakage rules" and "Competition
   schedule and submission limits"), `SUBMISSION_CLI.md` (the network-mode table, the T2 row of the
@@ -349,6 +356,47 @@ same rule as Development (entry "Track 2 Final: how it is ranked").**
   cells meet them, so the declared horizon is kept; a new paragraph explains why. *Scoring:* no
   existing card's scale value changes; the organizers' scale generator applies the same strict
   comparison.
+- **Short-horizon practice set: 22 practice units, published with their realized values.** As
+  announced on [issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6129776242), `units/` gains 22 historical `public-dev` units whose ids end in
+  `-ps1`. They cover the series added for the ranked Final at its horizons (8 cards on the
+  3-month, 6-month and 1-year UST bills, 11 on MXN, BRL, ZAR, KRW and INR), with 3 cards on G10
+  exchange rates (F1 6, F2 7, F3 5, F4 4; all `level`). `units/` now holds 125 practice units in
+  126 directories.
+  - **Shape.** Every as-of is a Monday, from 2009 to 2022. Targets are 1 to 4 business days later,
+    on the Tuesday to Friday of the same week. The weeks were drawn with a fixed seed from official
+    lists of events announced in advance, never by the size of the move that followed; an F4 card
+    has a scheduled event inside its window, or an official document naming a live risk channel,
+    and promises no shock.
+  - **Data.** On these cards `rates_daily` adds `UST_3M`, `UST_6M` and `UST_1Y` (FRED `DGS3MO`,
+    `DGS6MO`, `DGS1`). The emerging-market rates are on a new panel, `em_fx_ecb_daily`: the ECB's
+    euro foreign exchange reference rates, cross-calculated per US dollar by the organizers, as on
+    the ranked Final. The three G10 cards keep the H.10 rates of every other practice card.
+  - **Text.** 146 official document files (140 distinct documents), 6 to 8 per card, all published
+    before the as-of, from the Federal Reserve Board, BLS, the U.S. Treasury, the ECB, Banco de
+    México, Banco Central do Brasil, South Africa's National Treasury and Statistics South Africa,
+    korea.kr, and India's PIB and Prime Minister's Office archive. The set has no distractor
+    documents.
+  - **Answers.** `practice-answers/<unit_id>.parquet`, one file per unit (`draw`, `asset`,
+    `horizon`, `value`, `target_date`), with `practice-answers/README.md` (sources and attribution)
+    and `SHA256SUMS`. The unit directories hold no answer. `scoring/scoring.py score --realized
+    practice-answers/<unit_id>.parquet` scores a forecast locally; the scores are raw, not divided by
+    the baseline's expected error.
+  - **Documents.** `README.md` ("Practice tasks", with the counts; a new "Short-horizon practice
+    set" subsection; "Text ablation"; "Running the scorer locally"; "Leakage rules"; the
+    quick-start checklist; the schedule): "They carry no answers" and "no --realized file" now apply
+    to the original 103 units. `AGENTS.md`: a scoped exception to hard rule 1 for
+    `practice-answers/` only. `docs/CONCEPTS.md` (§5 and §10), `docs/CATEGORIES.md` and
+    `docs/AUTHORING-GUIDE.md` (Steps 3 to 6, the checklist and "Why these rules exist"): the as-of
+    gaps and the shock-window language describe the original units, and the 1-to-4-business-day
+    horizons are stated. `docs/M0-BASELINE.md`: §2 says local practice scores are raw; §3.7 says the
+    practice set's answer files carry target dates; §5 counts the practice units in the `tail_metric`
+    check.
+    `DATA-LICENSE.md`, `THIRD-PARTY-NOTICES.md` and `data/PROVENANCE.md` add every new source with
+    its terms, the statement that the ECB-derived rates are modified data, the new panels and the
+    counts; their rows on the ECB rates now say the practice set's are shipped and the ranked
+    Final's are not.
+  - *Scoring:* scorer code, gates, the evaluation plan, the scales in force and the existing 104
+    unit directories are unchanged.
 
 ## 2026-09-24 — public `main` at `8799596`
 

@@ -1,0 +1,49 @@
+{
+  "card_id": "t2-F2-curve-ust6m-004-ps1",
+  "asof": "2022-12-12",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "fomc_minutes_20220615_released_2022-07-06",
+      "timestamp": "2022-07-06",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20220615_released_2022-07-06.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20220727_released_2022-08-17",
+      "timestamp": "2022-08-17",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20220727_released_2022-08-17.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20221102",
+      "timestamp": "2022-11-02",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20221102.txt"
+    },
+    {
+      "doc_id": "cpi_2022-11-10",
+      "timestamp": "2022-11-10",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2022-11-10.txt"
+    },
+    {
+      "doc_id": "beigebook_2022-11-30",
+      "timestamp": "2022-11-30",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202211.txt"
+    },
+    {
+      "doc_id": "empsit_2022-12-02",
+      "timestamp": "2022-12-02",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2022-12-02.txt"
+    }
+  ]
+}

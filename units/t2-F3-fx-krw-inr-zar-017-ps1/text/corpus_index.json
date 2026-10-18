@@ -1,0 +1,63 @@
+{
+  "card_id": "t2-F3-fx-krw-inr-zar-017-ps1",
+  "asof": "2014-01-27",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "pib_commerce-and-industry_2013-08-14_98203",
+      "timestamp": "2013-08-14",
+      "source": "Ministry of Commerce & Industry (via PIB)",
+      "doc_type": "government_press_release",
+      "file": "pib_commerce-and-industry_2013-08-14_98203.txt"
+    },
+    {
+      "doc_id": "pmo_india_2013-08-30_71",
+      "timestamp": "2013-08-30",
+      "source": "Prime Minister's Office, India (archivepmo.nic.in)",
+      "doc_type": "government_statement",
+      "file": "pmo_india_2013-08-30_71.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20131218",
+      "timestamp": "2013-12-18",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20131218.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20131218_released_2014-01-08",
+      "timestamp": "2014-01-08",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20131218_released_2014-01-08.txt"
+    },
+    {
+      "doc_id": "empsit_2014-01-10",
+      "timestamp": "2014-01-10",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2014-01-10.txt"
+    },
+    {
+      "doc_id": "beigebook_2014-01-15",
+      "timestamp": "2014-01-15",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_201401.txt"
+    },
+    {
+      "doc_id": "cpi_2014-01-16",
+      "timestamp": "2014-01-16",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2014-01-16.txt"
+    },
+    {
+      "doc_id": "statssa_cpi_201312_released_2014-01-22",
+      "timestamp": "2014-01-22",
+      "source": "Statistics South Africa (Stats SA)",
+      "doc_type": "statistical_release",
+      "file": "statssa_cpi_201312_released_2014-01-22.txt"
+    }
+  ]
+}

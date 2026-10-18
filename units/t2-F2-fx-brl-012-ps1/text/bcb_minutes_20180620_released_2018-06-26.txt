@@ -1,0 +1,355 @@
+# source: https://www.bcb.gov.br/api/servico/sitebcb/copom/atas_detalhes?nro_reuniao=215 | date: 2018-06-26 | type: central_bank_minutes | via: Banco Central do Brasil, Documentos do Copom open-data API (ODbL)
+
+Ata da 215ª reunião do Copom
+Banco Central do Brasil, 26 June 2018
+
+Ata da 215ª Reunião do
+Comitê de Política Monetária (Copom) do
+Banco Central do Brasil
+
+19 e 20 de junho de 2018
+
+Data: 19 e 20/6/2018
+
+Local: Salas de reuniões do 8º andar (19/6) e do 20º andar (20/6) do Edifício-Sede do Banco Central do
+Brasil – Brasília – DF
+Horário de início e de término das sessões: 19/6: 10h05 – 11h41; 14h03 – 16h47
+20/6: 14h – 18h
+
+[Lista de presentes omitida pelos organizadores.]
+
+Os membros do Copom analisaram a evolução recente e as perspectivas para a economia brasileira e para
+a economia internacional, no contexto do regime de política monetária, cujo objetivo é atingir as metas
+fixadas pelo Conselho Monetário Nacional para a inflação.
+
+A) Atualização da conjuntura
+econômica e do cenário básico do
+Copom 1
+
+1. A paralisação no setor de transporte de cargas no
+mês de maio dificulta a leitura da evolução recente da
+atividade econômica. Dados referentes ao mês de abril
+sugerem atividade mais consistente que nos meses
+anteriores. Entretanto, indicadores referentes a maio e,
+possivelmente, junho deverão refletir os efeitos da
+referida paralisação. O cenário básico contempla
+continuidade do processo de recuperação da economia
+brasileira, em ritmo mais gradual.
+
+2. A economia segue operando com alto nível de
+ociosidade dos fatores de produção, refletido nos
+baixos índices de utilização da capacidade da indústria
+e, principalmente, na taxa de desemprego.
+
+3. O cenário externo seguiu mais desafiador e
+apresentou volatilidade. A evolução dos riscos, em
+grande parte associados à normalização das taxas de
+juros em algumas economias avançadas, produziu
+ajustes nos mercados financeiros internacionais. Como
+resultado, houve redução do apetite ao risco em
+relação a economias emergentes.
+
+4. No curto prazo, a inflação deverá refletir os efeitos
+altistas significativos e temporários da paralisação no
+setor de transporte de cargas e de outros ajustes de
+preços relativos. As medidas de inflação subjacente
+ainda seguem em níveis baixos, inclusive os
+componentes mais sensíveis ao ciclo econômico e à
+política monetária.
+
+5. As expectativas de inflação para 2018 e 2019
+apuradas pela pesquisa Focus encontram-se em torno
+de 3,9% e 4,1%, respectivamente. As expectativas para
+2020 situam-se em torno de 4,0%.
+
+6. No cenário com trajetórias para as taxas de juros e
+câmbio extraídas da pesquisa Focus, as projeções do
+Copom situam-se em torno de 4,2% para 2018 e de
+3,7% para 2019. Esse cenário supõe, entre outras
+hipóteses, trajetória de juros que encerra 2018 em
+6,50% a.a. e 2019 em 8,0% a.a. e de taxa de câmbio que
+termina 2018 em R$3,63/US$ e 2019 em R$3,60/US$.
+Nesse cenário, as projeções para a inflação de preços
+administrados são de 7,2% para 2018 e de 4,6% para
+2019.
+
+7. No cenário com taxa de juros constante em 6,50%
+a.a. e taxa de câmbio constante a R$3,70/US$ 2 , as
+projeções para a inflação do Copom situam-se em torno
+de 4,2% para 2018 e 4,1% para 2019. Nesse cenário, as
+projeções para a inflação de preços administrados são
+de 7,4% para 2018 e de 4,8% para 2019.
+
+B) Riscos em torno do cenário básico
+para a inflação
+
+8. O cenário básico do Copom para a inflação envolve
+fatores de risco em ambas as direções.
+
+9. Por um lado, a (i) possível propagação, por
+mecanismos inerciais, do nível baixo de inflação
+passada pode produzir trajetória prospectiva abaixo do
+esperado.
+
+10. Por outro lado, (ii) uma frustração das expectativas
+sobre a continuidade das reformas e ajustes
+necessários na economia brasileira pode afetar prêmios
+de risco e elevar a trajetória da inflação no horizonte
+relevante para a política monetária. Esse risco se
+intensifica no caso de (iii) continuidade da reversão do
+cenário externo para economias emergentes. Esse
+último risco se intensificou desde a reunião anterior do
+Copom, enquanto diminuiu o risco de a inflação ficar
+significativamente abaixo da meta no horizonte
+relevante.
+
+C) Discussão sobre a condução da
+política monetária
+
+11. Os membros do Comitê debateram a evolução da
+atividade econômica à luz das informações disponíveis.
+Dados referentes ao mês de abril sugerem atividade
+mais consistente que nos meses anteriores. Entretanto,
+a paralisação no setor de transporte de cargas no mês
+de maio dificulta a leitura da evolução recente da
+atividade econômica. Indicadores referentes a maio e,
+possivelmente, junho deverão refletir os efeitos da
+referida paralisação. A evolução da economia ao longo
+dos meses de julho e agosto deve indicar com mais
+clareza o ritmo da recuperação, que poderá se mostrar
+mais ou menos intensa. O cenário básico do Copom
+contempla continuidade do processo de recuperação
+da economia brasileira, embora em ritmo mais gradual
+que o estimado antes da referida paralisação.
+
+12. No que tange à conjuntura internacional, os
+membros do Comitê ponderaram que o cenário se
+mantém mais desafiador. O cenário básico do Comitê
+contempla normalização gradual da política monetária
+nos países centrais. Há risco de um maior impacto desse
+processo sobre economias emergentes, o que poderá
+reforçar os ajustes em preços de ativos e volatilidade
+nas condições financeiras no mercado internacional. Os
+membros do Comitê mencionaram também a
+intensificação dos riscos associados à continuidade da
+expansão do comércio internacional, com possíveis
+impactos sobre o crescimento global. Nesse contexto,
+os membros do Copom voltaram a destacar a
+capacidade que a economia brasileira apresenta de
+absorver revés no cenário internacional, devido à
+situação robusta de seu balanço de pagamentos e ao
+ambiente com inflação baixa no passado recente,
+expectativas de inflação ancoradas e perspectiva de
+recuperação econômica. Não obstante, os membros do
+Copom ponderaram sobre os riscos gerados por
+possível deterioração adicional do cenário para
+economias emergentes num contexto de frustração
+das expectativas sobre as reformas e ajustes
+necessários na economia brasileira.
+
+13. Os membros do Copom analisaram a trajetória da
+inflação ao longo deste e dos próximos anos. Todos
+concordaram que, no curto prazo, a inflação deverá
+refletir os efeitos altistas significativos da paralisação
+no setor de transporte de cargas e de outros ajustes de
+preços relativos. O cenário básico antecipa que esses
+efeitos devem ser temporários, constituindo ajuste de
+preços relativos aos referidos choques.
+
+14. Os membros do Comitê pontuaram que as diversas
+medidas de inflação subjacente se situavam em níveis
+baixos no passado recente e que um ajuste de preços
+relativos em contexto com expectativas ancoradas
+poderá acelerar a convergência da inflação para as
+metas, sem constituir risco para a manutenção de sua
+dinâmica favorável após concluídos esses ajustes.
+Entretanto, julgaram que cabe acompanhar a evolução
+da trajetória prospectiva da inflação no médio e longo
+prazos, além da ancoragem das expectativas de
+inflação.
+
+15. O Comitê reiterou o entendimento de que, com
+expectativas de inflação ancoradas, eventuais choques
+que produzam ajustes de preços relativos devem ter
+apenas seus efeitos secundários combatidos pela
+política monetária. Destacou, também, que sua reação
+a possíveis mudanças de preços relativos será simétrica,
+ou seja, a política monetária seguirá os mesmos
+princípios tanto diante de choques inflacionários (como
+no caso de um choque externo que produza
+depreciação cambial) quanto desinflacionários (como
+no caso de um choque favorável nos preços de
+alimentos). O Copom enfatiza que essa prescrição
+requer manutenção do ambiente com expectativas
+ancoradas.
+
+16. Reiterado de que forma a política monetária deve
+reagir a choques que produzam ajustes de preços
+relativos, os membros do Comitê discutiram o grau de
+repasse cambial na economia brasileira. Concluíram
+que a intensidade do repasse depende de vários
+fatores, como, por exemplo, do nível de ociosidade da
+economia e da ancoragem das expectativas de inflação.
+O Comitê acompanhará as diferentes medidas de
+repasse cambial, tanto para a inflação quanto para
+medidas de inflação subjacente.
+
+17. Os membros do Comitê reiteraram o entendimento
+de que a conjuntura econômica com expectativas de
+inflação ancoradas, medidas de inflação subjacente em
+níveis baixos, projeções de inflação um pouco abaixo da
+meta para 2018 e 2019 e elevado grau de ociosidade na
+economia prescreve política monetária estimulativa, ou
+seja, com taxas de juros abaixo da taxa estrutural.
+Embora estimativas dessa taxa envolvam elevado grau
+de incerteza, os membros do Comitê manifestaram
+entendimento de que as atuais taxas de juros reais ex-
+ante têm efeito estimulativo sobre a economia.
+
+18. O Copom enfatiza que a continuidade do processo
+de reformas e ajustes necessários na economia
+brasileira é essencial para a queda da sua taxa de juros
+estrutural, cujas estimativas serão continuamente
+reavaliadas pelo Comitê.
+
+19. Os membros do Copom debateram, então, a
+evolução do cenário básico e do balanço de riscos desde
+sua reunião em maio (214ª reunião) e a decisão de
+política monetária adequada tendo em vista essa
+evolução.
+
+20. Contemplaram os efeitos da paralisação no setor
+de transporte de cargas sobre a conjuntura.
+Concordaram que o cenário básico embute efeitos
+temporários e significativos desse choque sobre
+inflação e atividade econômica e que a leitura dos
+próximos dados será contaminada por esses efeitos.
+
+21. Os membros do Copom discutiram possíveis efeitos
+mais perenes dos choques enfrentados pela economia
+brasileira. Concordaram que, no curto prazo, deverá ser
+mais difícil verificar se a evolução da economia segue
+em linha com seu cenário básico para o médio e longo
+prazos. Esse contexto reforça a importância de
+acompanhar ao longo do tempo a evolução do cenário
+básico e seus riscos e de avaliar a perenidade dos
+efeitos dos choques sobre a inflação (i.e., seus efeitos
+secundários) de forma a garantir que a conquista da
+inflação baixa perdure, mesmo diante de choques
+adversos.
+
+22. Em relação ao balanço de riscos, por um lado,
+avaliou-se que o risco baixista para a trajetória
+prospectiva da inflação, decorrente do nível baixo de
+inflação no passado recente, diminuiu. Por outro lado,
+discutiu-se a importância da continuidade do processo
+de ajustes e reformas na economia brasileira para
+mitigar o risco associado a deterioração do cenário para
+economias emergentes num contexto de frustração
+das expectativas sobre essas reformas e ajustes.
+
+23. Ao fim das avaliações, todos os membros do Copom
+concordaram com a decisão de manter a taxa Selic em
+6,50% a.a. Em termos de sinalização futura, todos
+concordaram que o maior nível de incerteza da atual
+conjuntura recomenda se abster de fornecer indicações
+sobre os próximos passos da política monetária.
+
+24. Os membros do Copom reiteraram a importância
+de reafirmar a atuação da política monetária
+exclusivamente com foco na evolução das projeções e
+expectativas de inflação, do seu balanço de riscos e da
+atividade econômica. Choques de preços relativos
+devem ser combatidos apenas no impacto secundário
+que poderão ter na inflação prospectiva. Em particular,
+reiteraram a importância de insistir na comunicação de
+que não há relação mecânica entre choques recentes e
+a política monetária.
+
+25. Os membros do Comitê voltaram a reiterar sua
+preferência por explicitar condicionalidades sobre a
+evolução da política monetária, o que melhor transmite
+a racionalidade econômica que guia suas decisões. Isso
+contribui para aumentar a transparência e melhorar a
+comunicação do Copom. Nesse contexto, voltaram a
+ressaltar que os próximos passos na condução da
+política monetária continuarão dependendo da
+evolução da atividade econômica, do balanço de riscos
+e das projeções e expectativas de inflação.
+
+26. Todos os membros do Comitê voltaram a enfatizar
+que a aprovação e implementação das reformas,
+notadamente as de natureza fiscal, e de ajustes na
+economia brasileira são fundamentais para a
+sustentabilidade do ambiente com inflação baixa e
+estável, para o funcionamento pleno da política
+monetária e para a redução da taxa de juros estrutural
+da economia, com amplos benefícios para a sociedade.
+
+27. Por fim, os membros do Copom destacaram a
+importância de outras iniciativas que visam aumento de
+produtividade, ganhos de eficiência, maior flexibilidade
+da economia e melhoria do ambiente de negócios.
+Esses esforços são fundamentais para a retomada da
+atividade econômica e da trajetória de
+desenvolvimento da economia brasileira.
+
+D) Decisão de política monetária
+
+28. Considerando o cenário básico, o balanço de riscos
+e o amplo conjunto de informações disponíveis, o
+Copom decidiu, por unanimidade, pela manutenção da
+taxa básica de juros em 6,50% a.a. O Comitê entende
+que essa decisão reflete seu cenário básico e balanço
+de riscos para a inflação prospectiva e é compatível com
+a convergência da inflação para a meta no horizonte
+relevante para a condução da política monetária, que
+inclui os anos-calendário de 2018 e, principalmente, de
+2019.
+
+29. O Copom reitera que a conjuntura econômica
+prescreve política monetária estimulativa, ou seja, com
+taxas de juros abaixo da taxa estrutural.
+
+30. O Comitê enfatiza que a continuidade do processo
+de reformas e ajustes necessários na economia
+brasileira é essencial para a manutenção da inflação
+baixa no médio e longo prazos, para a queda da taxa de
+juros estrutural e para a recuperação sustentável da
+economia.
+
+31. O Copom entende que deve pautar sua atuação
+com foco na evolução das projeções e expectativas de
+inflação, do seu balanço de riscos e da atividade
+econômica. Choques que produzam ajustes de preços
+relativos devem ser combatidos apenas no impacto
+secundário que poderão ter na inflação prospectiva
+(i.e., na propagação a preços da economia não
+diretamente afetados pelo choque). É por meio desses
+efeitos secundários que esses choques podem afetar as
+projeções e expectativas de inflação e alterar o balanço
+de riscos. Esses efeitos podem ser mitigados pelo grau
+de ociosidade na economia e pelas expectativas de
+inflação ancoradas nas metas. Portanto, não há relação
+mecânica entre choques recentes e a política
+monetária.
+
+32. Na avaliação do Copom, a evolução do cenário
+básico e do balanço de riscos prescreve manutenção da
+taxa Selic no nível vigente. O Copom ressalta que os
+próximos passos da política monetária continuarão
+dependendo da evolução da atividade econômica, do
+balanço de riscos e das projeções e expectativas de
+inflação.
+
+33. Votaram por essa decisão os seguintes membros
+do Comitê: Ilan Goldfajn (Presidente), Carlos Viana de
+Carvalho, Carolina de Assis Barros, Maurício Costa de
+Moura, Otávio Ribeiro Damaso, Paulo Sérgio Neves de
+Souza, Reinaldo Le Grazie, Sidnei Corrêa Marques e
+Tiago Couto Berriel.
+
+Notes
+
+1 A menos de menção explícita em contrário, esta atualização leva em conta as mudanças ocorridas desde a reunião do Copom em maio (214ª reunião).
+2 Valor obtido pelo procedimento usual de arredondar a cotação média da taxa de câmbio R$/US$ observada nos cinco dias úteis encerrados na sexta-feira anterior à reunião do Copom.

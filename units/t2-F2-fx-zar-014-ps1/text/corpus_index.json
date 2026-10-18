@@ -1,0 +1,56 @@
+{
+  "card_id": "t2-F2-fx-zar-014-ps1",
+  "asof": "2020-01-27",
+  "note": "Frozen dated corpus; every timestamp <= asof (gate g2_cutoff_resource). Minutes/COT timestamps are PUBLIC RELEASE dates, not meeting/report dates.",
+  "documents": [
+    {
+      "doc_id": "za_treasury_mtbps_speech_2019-10-30_mboweni",
+      "timestamp": "2019-10-30",
+      "source": "National Treasury (South Africa)",
+      "doc_type": "government_speech",
+      "file": "za_treasury_mtbps_speech_2019-10-30_mboweni.txt"
+    },
+    {
+      "doc_id": "fomc_statement_20191211",
+      "timestamp": "2019-12-11",
+      "source": "Federal Reserve",
+      "doc_type": "fomc_statement",
+      "file": "fomc_statement_20191211.txt"
+    },
+    {
+      "doc_id": "fomc_minutes_20191211_released_2020-01-03",
+      "timestamp": "2020-01-03",
+      "source": "Federal Reserve (FOMC)",
+      "doc_type": "fomc_minutes",
+      "file": "fomc_minutes_20191211_released_2020-01-03.txt"
+    },
+    {
+      "doc_id": "empsit_2020-01-10",
+      "timestamp": "2020-01-10",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "empsit_2020-01-10.txt"
+    },
+    {
+      "doc_id": "cpi_2020-01-14",
+      "timestamp": "2020-01-14",
+      "source": "BLS",
+      "doc_type": "macro_release",
+      "file": "cpi_2020-01-14.txt"
+    },
+    {
+      "doc_id": "beigebook_2020-01-15",
+      "timestamp": "2020-01-15",
+      "source": "Federal Reserve (Beige Book)",
+      "doc_type": "beige_book",
+      "file": "beigebook_202001.txt"
+    },
+    {
+      "doc_id": "statssa_cpi_201912_released_2020-01-22",
+      "timestamp": "2020-01-22",
+      "source": "Statistics South Africa (Stats SA)",
+      "doc_type": "statistical_release",
+      "file": "statssa_cpi_201912_released_2020-01-22.txt"
+    }
+  ]
+}
