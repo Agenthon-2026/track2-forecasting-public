@@ -25,9 +25,12 @@ below changes the card text of all 104 cards, and the third that of twenty-seven
 the worked example; the fourth, the fifth and the practice-corpus entry, seventh below, change the
 text of the practice units; the monthly practice-panel entry, eighth below, changes the data and
 notes of four practice units; and the entry after it changes the card text of two monthly practice
-cards. The entry before the last makes M0's step-count comparison strict, and the last adds the
-short-horizon practice set: 22 new practice units, and the realized values of those 22 units only,
-in `practice-answers/`. **The Track 2 Final is ranked after its upload window closes, on cards built from data up to
+cards. The third entry from the end makes M0's step-count comparison strict, and the entry before
+the last adds the short-horizon practice set: 22 new practice units, and the realized values of
+those 22 units only, in `practice-answers/`. The last entry states how the ranked Final's
+confidence interval groups cards (by the kind of scheduled event each card is built around, or by
+the kind of card, fixed before any outcome); scores and the ranking do not change. **The Track 2
+Final is ranked after its upload window closes, on cards built from data up to
 Monday 26 October 2026: UST yields at the practice cards' 2- to 30-year tenors plus the 3-month,
 6-month and 1-year bills, and the G10 and five emerging-market exchange rates from the ECB's euro
 foreign exchange reference rates, with targets 1 to 4 business days later (27-30 October); and a few
@@ -397,6 +400,18 @@ the same rule as Development (entry "Track 2 Final: how it is ranked").**
     Final's are not.
   - *Scoring:* scorer code, gates, the evaluation plan, the scales in force and the existing 104
     unit directories are unchanged.
+- **Track 2 Final: how the confidence interval groups cards.** `docs/CONCEPTS.md` (§13, Step 2)
+  said the interval resamples whole groups of cards sharing an as-of date. Every ranked Final card
+  shares one as-of date, so that would be a single group and no interval. The interval published
+  with the Final results groups cards instead by the kind of scheduled event each card is built
+  around (a policy decision or a data release, for example), or by the kind of card where it has
+  none, with the groups fixed from the card list before any outcome is known, and each bootstrap
+  draw resamples cards within each group, keeping every group's size. The interval shows how much
+  an entry's mean depends on which cards of each kind the Final holds, given that week's outcomes;
+  it does not say how teams would rank in another week. The same groups are used when top entries
+  are verified on rerun, and Development keeps its grouping by as-of date. *Scoring:* per-card
+  scores, the leaderboard value and the ranking are unchanged; only the reported interval is
+  affected.
 
 ## 2026-09-24 — public `main` at `8799596`
 

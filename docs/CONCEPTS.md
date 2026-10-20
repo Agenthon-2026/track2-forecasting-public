@@ -431,9 +431,16 @@ scales. The variogram's weight is therefore redistributed over the terms that st
 | **multi-cell** (everything else) | 0.5 x CRPS + 0.3 x variogram + 0.2 x tail | 1.0 |
 
 Because 1.0 means the same thing on both shapes, they belong in the same average. Your score is
-reported with a bootstrap confidence interval that resamples whole groups of cards sharing an
-as-of date, because cards written against the same date share the same market shock and are
-not independent samples.
+reported with a bootstrap confidence interval. In Development, whose cards span many as-of dates,
+the interval resamples whole groups of cards sharing an as-of date, because cards written against
+the same date share the same market shock and are not independent samples. Every ranked Final
+card shares one as-of date, so the interval published with the Final results groups cards
+instead by the kind of scheduled event each card is built around (a policy decision or a data
+release, for example), or by the kind of card where it has none, and the groups are fixed from
+the card list before any outcome is known. Each bootstrap draw resamples cards within each group
+and keeps every group's size. The Final interval therefore shows how much your mean depends on
+which cards of each kind the Final holds, given that week's outcomes; it does not say how teams
+would rank in another week. The same groups are used when top entries are verified on rerun.
 
 **Step 3 — one ranking: the equal-weight mean over every card, lower is better.** Every card
 counts the same. No card family or shape dominates by scale, and adding cards on the
