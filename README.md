@@ -96,8 +96,8 @@ short-horizon practice set is the exception: its answers ship, so you can score 
 "Short-horizon practice set" below).
 
 The cards that rank the Final are completed after Final submissions close, from data up to Monday 26
-October 2026, and every value they forecast is first published between 27 and 30 October 2026, after
-the upload deadline — nothing in this practice data reaches them. The sealed cards prepared before
+October 2026, and every value they forecast is first published between 27 and 30 October 2026 —
+nothing in this practice data reaches them. The sealed cards prepared before
 the Final window are used only for the unranked check run that each Final upload gets.
 
 **These cards are practice, and the Development leaderboard is a practice board — not a
@@ -721,9 +721,11 @@ Everything in this repository that does not need the toolkit — `units/`, `base
 The following are NOT available to participants during the competition:
 
 - **Realized outcomes for the ranked Final cards.** The ranked cards are completed after Final
-  submissions close, from data up to Monday 26 October 2026 (the last UST and FX values, that day's
-  Treasury close and ECB fixing, come after the upload deadline), and every value they forecast is
-  first published between 27 and 30 October 2026, so no outcome is published while you can still upload.
+  submissions close, from data up to Monday 26 October 2026 (the last UST and FX values are that day's
+  Treasury close and ECB fixing), and every value they forecast is
+  first published between 27 and 30 October 2026, so no outcome is published while you can still upload
+  (for uploads from 27 October, 00:00 UTC, see the
+  [26 October notice on issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6424023459)).
   Scores are computed server-side, and results are published in early November, with no provisional
   standings. The sealed cards prepared before the Final window are used only for the unranked check
   run.
@@ -800,11 +802,14 @@ practice score is a pipeline check rather than a skill signal.
 
 The consequence is under "Practice tasks" above: **the Development leaderboard is practice, not a
 ranking.** The cards that rank the Final are a later window: they are completed after Final
-submissions close, from data up to Monday 26 October 2026 (the last UST and FX values, that day's
-Treasury close and ECB fixing, come after the upload deadline), and every value they forecast is
-first published after the upload deadline. **No practice panel reaches any of their targets, and
-neither does anything published before the close.** That holds by construction, not by measurement:
-no outcome of a ranked card is published while you can still upload. So a lookup table built from the
+submissions close, from data up to Monday 26 October 2026 (the last UST and FX values are that day's
+Treasury close and ECB fixing), and every value they forecast is
+first published between 27 and 30 October 2026. **No practice panel reaches any of their targets, and
+neither does anything published before 27 October.** That holds by construction, not by measurement:
+no outcome of a ranked card is published while you can still upload (for uploads from 27 October,
+00:00 UTC, see the
+[26 October notice on issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6424023459)).
+So a lookup table built from the
 practice data, or from any data you can reach before you upload, cannot hold the answer to any of
 them.
 
@@ -890,14 +895,17 @@ image. Such an upload is marked Failed when its run starts and does not use an a
 ## Competition schedule and submission limits
 
 Development runs through **October 12, 2026**. The joint **Final + Verification phase** is the Final
-upload window, from **13 October 2026, 12:00 UTC** to **25 October 2026, 23:59 AoE** (26 October,
+upload window, from **13 October 2026, 12:00 UTC** to **27 October 2026, 23:59 AoE** (28 October,
 11:59 UTC). On Track 2 a team may make **up to two Final uploads** in it, at most one per UTC day,
-and **the later one is its entry**: a second upload replaces the first. Each Final upload gets one
+and **the later one is its entry**: a second upload replaces the first (for uploads from 27 October,
+00:00 UTC, see the
+[26 October notice on issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6424023459)).
+Each Final upload gets one
 **unranked check run** on sealed cards during the window, to show that the image runs and writes
 valid forecasts; as with every Final run, you see its status, not its per-card details. The
 **ranked run** happens after the window closes, on cards built from data up to Monday 26 October
 2026. Their UST panels end with the Treasury close of Monday 26 October and their FX panels with
-that day's ECB fixing (around 13:10 UTC), both after the upload deadline. Their UST series come from
+that day's ECB fixing (around 13:10 UTC). Their UST series come from
 the Treasury daily par yield curve: the 2- to 30-year tenors of the practice cards plus the 3-month,
 6-month and 1-year bills. Their exchange rates come from the **ECB's euro foreign exchange reference
 rates**, cross-calculated against the US dollar: the ten G10 rates are quoted as on the practice
@@ -916,7 +924,7 @@ this repository with its realized values (see "Short-horizon practice set").
 
 If two teams' entries finish this track with the same ranking score, the tie is broken in
 favour of the entry uploaded earlier.
-Registration and Development close together on October 12, 2026 at **23:59 Anywhere on Earth (AoE, UTC−12)**. The joint Final + Verification phase closes on October 25, 2026 at **23:59 AoE**. Other competition dates are unchanged; on Track 2, the Final's cards, ranking and results follow the timeline above.
+Registration and Development close together on October 12, 2026 at **23:59 Anywhere on Earth (AoE, UTC−12)**. The joint Final + Verification phase closes on October 27, 2026 at **23:59 AoE**. Other competition dates are unchanged; on Track 2, the Final's cards, ranking and results follow the timeline above.
 
 **Development has one deadline: 12 October 2026 at 23:59 AoE (13 October, 11:59 UTC).** Every valid
 Development upload made before then is run, even if its run starts after the close; uploads still

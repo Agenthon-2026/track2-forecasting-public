@@ -85,9 +85,12 @@ receive no score; local validation and packaging use no attempts. An upload the 
 Tracks 2, 3 and 4 retain 5 per day.
 
 Development runs through **October 12, 2026**. The joint **Final + Verification phase** is the Final
-upload window, from **13 October 2026, 12:00 UTC** to **25 October 2026, 23:59 AoE** (26 October,
+upload window, from **13 October 2026, 12:00 UTC** to **27 October 2026, 23:59 AoE** (28 October,
 11:59 UTC). On Track 2 a team may make **up to two Final uploads** in it, at most one per UTC day,
-and **the later one is its entry**: a second upload replaces the first. Each Final upload gets one
+and **the later one is its entry**: a second upload replaces the first (for uploads from 27 October,
+00:00 UTC, see the
+[26 October notice on issue #4](https://github.com/Agenthon-2026/track2-forecasting-public/issues/4#issuecomment-6424023459)).
+Each Final upload gets one
 **unranked check run** on sealed cards during the window, to show that the image runs and writes
 valid forecasts; as with every Final run, you see its status, not its per-card details. The
 **ranked run** happens after the window closes, on cards built from data up to Monday 26 October
@@ -97,12 +100,12 @@ reference rates; and a few cards that forecast a monthly official statistic firs
 27 and 30 October 2026. On Track 2, the ranked cards are to be scored by the end of October and
 results are published in early November, with no provisional standings; images must stay pullable
 until the results are published. On every track, organizers verify the top entries after their runs,
-so verification can end after 25 October; on Track 2 that is after the ranked runs. No track needs a
+so verification can end after 27 October; on Track 2 that is after the ranked runs. No track needs a
 separate participant Verification submission.
 
 If two teams' entries finish this track with the same ranking score, the tie is broken in
 favour of the entry uploaded earlier.
-Registration and Development close together on October 12, 2026 at **23:59 Anywhere on Earth (AoE, UTC−12)**. The joint Final + Verification phase closes on October 25, 2026 at **23:59 AoE**. Other competition dates are unchanged; on Track 2, the Final's cards, ranking and results follow the timeline above.
+Registration and Development close together on October 12, 2026 at **23:59 Anywhere on Earth (AoE, UTC−12)**. The joint Final + Verification phase closes on October 27, 2026 at **23:59 AoE**. Other competition dates are unchanged; on Track 2, the Final's cards, ranking and results follow the timeline above.
 Development has one deadline, 12 October 2026 at 23:59 AoE (13 October, 11:59 UTC): every valid
 Development upload made before then is run, even if its run starts after the close. The 20:00 UTC
 cutoff and the 13 October maintenance pause are cancelled
